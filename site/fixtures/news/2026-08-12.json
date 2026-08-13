@@ -1,0 +1,71 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T07:00:00Z",
+  "hot": ["2026-08-12-p7q8r9", "2026-08-12-s1t2u3"],
+  "stories": [
+    {
+      "id": "2026-08-12-p7q8r9",
+      "title": "Equinix acquires land in Western Sydney for 150MW hyperscale campus",
+      "summary": "Equinix has purchased a 20-hectare site in Western Sydney for a planned 150MW data center campus, its largest land acquisition in Australia. The company cited AI-driven demand from domestic and international cloud customers.",
+      "why_it_matters": "Sydney's data center pipeline is the deepest in Australia, but power connection timelines are stretching toward the end of the decade. Securing land with a credible power path now is how operators stay ahead of the AI demand wave.",
+      "score": 70,
+      "heat": 3,
+      "regions": ["australia"],
+      "topics": ["capacity", "hyperscale", "ai"],
+      "published_at": "2026-08-12T05:40:00Z",
+      "featured": true,
+      "sources": [
+        { "name": "Data Center Dynamics", "url": "https://www.datacenterdynamics.com/example-equinix-sydney", "type": "rss" },
+        { "name": "Australian Financial Review", "url": "https://www.afr.com/example-equinix", "type": "rss" },
+        { "name": "CRN Australia", "url": "https://www.crn.com.au/example-equinix", "type": "rss" }
+      ]
+    },
+    {
+      "id": "2026-08-12-s1t2u3",
+      "title": "Beijing tightens PUE requirements for new data centers in eastern hubs",
+      "summary": "Chinese regulators have issued updated guidance requiring new data centers in Beijing, Shanghai, and Shenzhen to meet a PUE of 1.25 or below, with legacy facilities given a retrofit timeline. The rules take effect in 2027.",
+      "why_it_matters": "Tighter efficiency rules push new Chinese capacity toward western regions and liquid cooling retrofits in the east. Operators with stranded, inefficient capacity face rising compliance costs, while cooling vendors get a multi-year demand tailwind.",
+      "score": 62,
+      "heat": 2,
+      "regions": ["china"],
+      "topics": ["regulation", "cooling"],
+      "published_at": "2026-08-12T02:15:00Z",
+      "featured": false,
+      "sources": [
+        { "name": "South China Morning Post", "url": "https://www.scmp.com/example-pue-rules", "type": "rss" },
+        { "name": "Caixin Global", "url": "https://www.caixinglobal.com/example-pue", "type": "rss" }
+      ]
+    },
+    {
+      "id": "2026-08-12-v4w5x6",
+      "title": "STT GDC breaks ground on 120MW campus in Bangkok",
+      "summary": "ST Telemedia Global Data Centres has started construction of a 120MW data center campus in Bangkok, its second facility in Thailand. The project targets enterprise and cloud demand as Thailand positions itself as a regional digital hub.",
+      "why_it_matters": "Thailand is emerging as the next Southeast Asian data center market after Malaysia and Indonesia, helped by government incentives and improving submarine cable connectivity. A second STT GDC campus is a strong vote of confidence in Bangkok demand.",
+      "score": 58,
+      "heat": 1,
+      "regions": ["southeast-asia"],
+      "topics": ["capacity"],
+      "published_at": "2026-08-11T22:00:00Z",
+      "featured": false,
+      "sources": [
+        { "name": "Bangkok Post", "url": "https://www.bangkokpost.com/example-stt-bangkok", "type": "rss" }
+      ]
+    },
+    {
+      "id": "2026-08-12-y7z8a9",
+      "title": "SK Telecom and Nvidia expand AI data center partnership in Korea",
+      "summary": "SK Telecom announced an expanded partnership with Nvidia to build AI data center infrastructure in Korea, including a new GPU-as-a-service offering for domestic enterprises. Financial terms were not disclosed.",
+      "why_it_matters": "Korean telcos are racing to become the country's AI infrastructure landlords. Partnerships with Nvidia give them preferential GPU access and enterprise distribution, raising the competitive bar for neutral colocation providers.",
+      "score": 66,
+      "heat": 2,
+      "regions": ["korea"],
+      "topics": ["ai", "partnership"],
+      "published_at": "2026-08-11T14:30:00Z",
+      "featured": false,
+      "sources": [
+        { "name": "Korea JoongAng Daily", "url": "https://koreajoongangdaily.joins.com/example-skt-nvidia", "type": "rss" },
+        { "name": "The Register", "url": "https://www.theregister.com/example-skt-nvidia", "type": "rss" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="About" description="What APAC DC Wire tracks and how it works">
+  <article class="about">
+    <h1>About APAC DC Wire</h1>
+
+    <p>
+      APAC DC Wire is a daily, automated digest of data center industry news across
+      Asia-Pacific. It tracks announcements about hyperscale and colocation campuses,
+      capacity expansions, power and land deals, regulation, and the AI infrastructure
+      build-out reshaping the region.
+    </p>
+
+    <h2>What we track</h2>
+    <p>Coverage is organized into five APAC regions, plus a Global bucket:</p>
+    <ul>
+      <li><strong>China</strong></li>
+      <li><strong>Japan</strong></li>
+      <li><strong>Korea</strong></li>
+      <li><strong>Australia</strong></li>
+      <li><strong>Southeast Asia</strong> — Singapore, Malaysia, Indonesia, Thailand, Vietnam, the Philippines, and neighbors</li>
+      <li><strong>Global</strong> — stories outside the region that materially affect APAC, such as GPU supply or global cloud capex</li>
+    </ul>
+
+    <h2>How it works</h2>
+    <p>
+      An automated pipeline polls industry publications and news feeds every day, then an
+      AI pipeline clusters duplicate coverage of the same story, scores each story for
+      relevance and importance (0–100), and writes the summaries and "why it matters"
+      notes you see on the homepage. The result is published as one JSON file per day and
+      rendered into this static site.
+    </p>
+
+    <h2>Sources and attribution</h2>
+    <p>
+      Every story credits the publications that reported it, with direct links to the
+      original articles. The "heat" number on trending stories is simply the count of
+      distinct sources covering the same story.
+    </p>
+
+    <h2>A note on scores</h2>
+    <p>
+      Scores, summaries, and "why it matters" notes are AI-generated heuristics designed
+      to help you skim — they are not editorial judgment, investment advice, or a
+      substitute for reading the original reporting. Always follow the source links for
+      the full picture.
+    </p>
+  </article>
+</Base>

@@ -1,0 +1,88 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T07:00:00Z",
+  "hot": ["2026-08-13-a1b2c3", "2026-08-13-d4e5f6", "2026-08-13-g7h8i9"],
+  "stories": [
+    {
+      "id": "2026-08-13-a1b2c3",
+      "title": "Johor approves 500MW data center campus in Sedenak Tech Park",
+      "summary": "Malaysia's Johor state has granted planning approval for a 500MW data center campus in the Sedenak Tech Park, backed by a regional hyperscale developer. The multi-phase project is expected to break ground in early 2027 and will draw power from Tenaga Nasional's new grid interconnection.",
+      "why_it_matters": "Johor continues to absorb demand spilling over from Singapore's constrained market, and a 500MW single-campus approval confirms the state is now competing at true hyperscale. Power availability — not land — is the binding constraint, so the accompanying grid commitment is the detail to watch.",
+      "score": 74,
+      "heat": 3,
+      "regions": ["southeast-asia"],
+      "topics": ["capacity", "hyperscale", "power"],
+      "published_at": "2026-08-13T01:57:00Z",
+      "featured": true,
+      "sources": [
+        { "name": "Data Center Dynamics", "url": "https://www.datacenterdynamics.com/example-johor-campus", "type": "rss" },
+        { "name": "The Edge Malaysia", "url": "https://theedgemalaysia.com/example-johor", "type": "rss" },
+        { "name": "Business Times", "url": "https://www.businesstimes.com.sg/example-johor", "type": "rss" }
+      ]
+    },
+    {
+      "id": "2026-08-13-d4e5f6",
+      "title": "Major hyperscaler files for second 100MW campus in Inzai, Chiba",
+      "summary": "A US hyperscaler has filed development plans for a second data center campus in Inzai, Chiba prefecture, with up to 100MW of IT load across two buildings. The site sits within Tokyo's primary data center corridor and is targeted for a 2028 opening.",
+      "why_it_matters": "Greater Tokyo remains the largest data center market in APAC by capacity, and Inzai land is increasingly scarce. Another 100MW filing signals hyperscalers are securing power and land years ahead of AI-driven demand rather than building just-in-time.",
+      "score": 68,
+      "heat": 2,
+      "regions": ["japan"],
+      "topics": ["hyperscale", "capacity"],
+      "published_at": "2026-08-13T00:30:00Z",
+      "featured": false,
+      "sources": [
+        { "name": "Nikkei Asia", "url": "https://asia.nikkei.com/example-inzai", "type": "rss" },
+        { "name": "Data Center Dynamics", "url": "https://www.datacenterdynamics.com/example-inzai", "type": "rss" }
+      ]
+    },
+    {
+      "id": "2026-08-13-g7h8i9",
+      "title": "Naver breaks ground on 600MW AI data center in Ulsan",
+      "summary": "Naver has started construction on a 600MW AI-focused data center in Ulsan, its largest infrastructure project to date. The facility will host the company's next-generation GPU clusters and is partly funded through a consortium including state-backed investors.",
+      "why_it_matters": "Korea's sovereign AI push is translating into concrete capacity. A single 600MW AI campus would rank among the largest in Asia, and it positions Ulsan — traditionally an industrial city — as a new Korean data center hub beyond the crowded Seoul metro.",
+      "score": 81,
+      "heat": 3,
+      "regions": ["korea"],
+      "topics": ["ai", "capacity", "sovereign-ai"],
+      "published_at": "2026-08-12T23:10:00Z",
+      "featured": true,
+      "sources": [
+        { "name": "Korea Herald", "url": "https://www.koreaherald.com/example-naver-ulsan", "type": "rss" },
+        { "name": "Yonhap", "url": "https://en.yna.co.kr/example-naver", "type": "rss" },
+        { "name": "Data Center Dynamics", "url": "https://www.datacenterdynamics.com/example-naver", "type": "rss" }
+      ]
+    },
+    {
+      "id": "2026-08-13-j1k2l3",
+      "title": "NVIDIA confirms Blackwell supply allocation shift toward APAC AI factories",
+      "summary": "NVIDIA told investors that a growing share of Blackwell GPU shipments in the second half of 2026 is allocated to APAC-based AI data center projects, citing sovereign AI programs in Japan, Korea, and Southeast Asia.",
+      "why_it_matters": "GPU allocation is the practical ceiling on APAC AI data center build-outs. A confirmed supply shift toward the region shortens deployment timelines for projects already announced and likely triggers a new round of capacity reservations.",
+      "score": 77,
+      "heat": 2,
+      "regions": ["global"],
+      "topics": ["ai", "supply-chain"],
+      "published_at": "2026-08-12T20:45:00Z",
+      "featured": true,
+      "sources": [
+        { "name": "Reuters", "url": "https://www.reuters.com/example-nvidia-apac", "type": "rss" },
+        { "name": "Bloomberg", "url": "https://www.bloomberg.com/example-nvidia-apac", "type": "rss" }
+      ]
+    },
+    {
+      "id": "2026-08-13-m4n5o6",
+      "title": "AirTrunk opens second Tokyo campus with 300MW total capacity",
+      "summary": "AirTrunk has officially opened its TOK2 campus in western Tokyo, bringing the site's total planned capacity to over 300MW. The first phase is already substantially leased to cloud and AI customers.",
+      "why_it_matters": "TOK2 is one of the largest single data center developments ever delivered in Japan, and its fast lease-up shows Tokyo demand is outpacing even aggressive supply additions. It also reinforces Australia's AirTrunk as the region's leading independent hyperscale developer.",
+      "score": 65,
+      "heat": 1,
+      "regions": ["japan"],
+      "topics": ["capacity", "hyperscale"],
+      "published_at": "2026-08-12T09:20:00Z",
+      "featured": false,
+      "sources": [
+        { "name": "Capacity Media", "url": "https://www.capacitymedia.com/example-airtrunk-tok2", "type": "rss" }
+      ]
+    }
+  ]
+}

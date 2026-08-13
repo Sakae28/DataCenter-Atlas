@@ -1,0 +1,47 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'Daily data center intelligence across Asia-Pacific' } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title} · APAC DC Wire</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <div class="site-header-row">
+          <div>
+            <a class="site-name" href="/">APAC DC Wire</a>
+            <p class="site-tagline">Daily data center intelligence across Asia-Pacific</p>
+          </div>
+          <nav class="site-nav">
+            <a href="/">Latest</a>
+            <a href="/about">About</a>
+          </nav>
+        </div>
+      </div>
+    </header>
+    <main class="container">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="container">
+        <p>
+          APAC DC Wire is an automated news digest. Scores and summaries are AI-generated
+          heuristics, not editorial judgment. All sources are credited and linked.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

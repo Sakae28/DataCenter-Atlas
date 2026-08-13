@@ -1,0 +1,459 @@
+/* APAC DC Wire — global styles
+   Clean editorial style, light theme, ~760px content column, hand-written CSS. */
+
+:root {
+  --bg: #fbfaf8;
+  --surface: #ffffff;
+  --text: #1c1b1a;
+  --text-secondary: #5f5b57;
+  --text-faint: #8a857f;
+  --border: #e8e4de;
+  --accent: #b3451e;
+  --accent-soft: #f6e8e1;
+  --featured-bg: #fdf3d7;
+  --featured-text: #8a6d1a;
+  --score-bg: #eef0f2;
+  --score-text: #4a5568;
+  --chip-region-bg: #e7eef6;
+  --chip-region-text: #2f5a86;
+  --chip-topic-bg: #f0ede8;
+  --chip-topic-text: #6b655d;
+  --max-width: 760px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial, "Noto Sans", sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--accent);
+}
+
+/* ---------- Header / footer ---------- */
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  background: var(--surface);
+  padding: 28px 0 22px;
+}
+
+.site-header-row {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.site-name {
+  font-size: 26px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.site-tagline {
+  margin: 2px 0 0;
+  color: var(--text-secondary);
+  font-size: 14px;
+}
+
+.site-nav {
+  display: flex;
+  gap: 18px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.site-nav a {
+  color: var(--text-secondary);
+}
+
+.site-nav a:hover {
+  color: var(--accent);
+}
+
+main.container {
+  padding-top: 28px;
+  padding-bottom: 48px;
+}
+
+.site-footer {
+  border-top: 1px solid var(--border);
+  padding: 24px 0 40px;
+  color: var(--text-faint);
+  font-size: 13px;
+}
+
+/* ---------- Dev notice / digest date ---------- */
+
+.dev-notice {
+  background: var(--featured-bg);
+  color: var(--featured-text);
+  border: 1px solid #efe3bb;
+  border-radius: 8px;
+  padding: 10px 14px;
+  font-size: 13px;
+  margin: 0 0 16px;
+}
+
+.digest-date {
+  color: var(--text-secondary);
+  font-size: 14px;
+  margin: 0 0 20px;
+}
+
+/* ---------- Region filter pills ---------- */
+
+.region-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 28px;
+}
+
+.pill {
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 6px 14px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.pill:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.pill.is-active {
+  background: var(--text);
+  border-color: var(--text);
+  color: var(--bg);
+}
+
+/* ---------- Trending ---------- */
+
+.section-title {
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  margin: 0 0 12px;
+}
+
+.trending {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px 22px;
+  margin-bottom: 36px;
+}
+
+.hot-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.hot-item {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  padding: 10px 0;
+}
+
+.hot-item + .hot-item {
+  border-top: 1px solid var(--border);
+}
+
+.hot-rank {
+  font-size: 18px;
+  font-weight: 800;
+  color: var(--accent);
+  min-width: 22px;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+
+.hot-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.hot-title {
+  display: block;
+  font-weight: 650;
+  line-height: 1.4;
+}
+
+.hot-sources {
+  display: block;
+  font-size: 12.5px;
+  color: var(--text-faint);
+  margin-top: 2px;
+}
+
+.hot-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+/* Flame indicator (pure CSS) + heat count */
+.heat {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+
+.flame {
+  width: 10px;
+  height: 14px;
+  background: linear-gradient(180deg, #f0924f 0%, var(--accent) 70%);
+  border-radius: 0 50% 50% 50%;
+  transform: rotate(45deg) scale(0.9, 1.15);
+}
+
+/* ---------- Badges ---------- */
+
+.badge {
+  display: inline-block;
+  font-size: 11.5px;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 999px;
+  line-height: 1.5;
+  white-space: nowrap;
+}
+
+.badge.score {
+  background: var(--score-bg);
+  color: var(--score-text);
+  font-variant-numeric: tabular-nums;
+}
+
+.badge.featured {
+  background: var(--featured-bg);
+  color: var(--featured-text);
+}
+
+/* ---------- Timeline / day groups ---------- */
+
+.day-group {
+  margin-bottom: 40px;
+}
+
+.day-heading {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  flex-wrap: wrap;
+  border-bottom: 2px solid var(--text);
+  padding-bottom: 8px;
+  margin: 0 0 18px;
+}
+
+.day-date {
+  font-size: 20px;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+}
+
+.day-sub {
+  font-size: 13px;
+  color: var(--text-faint);
+  font-weight: 500;
+}
+
+/* ---------- Story cards ---------- */
+
+.story-list {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.story-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px 22px;
+}
+
+.story-meta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  font-size: 12.5px;
+  color: var(--text-faint);
+  margin-bottom: 8px;
+}
+
+.story-time {
+  font-weight: 700;
+  color: var(--text-secondary);
+  font-variant-numeric: tabular-nums;
+}
+
+.story-sources {
+  color: var(--text-faint);
+}
+
+.story-title {
+  font-size: 18px;
+  font-weight: 750;
+  line-height: 1.35;
+  margin: 0 0 8px;
+  letter-spacing: -0.01em;
+}
+
+.story-summary {
+  margin: 0 0 12px;
+  color: var(--text-secondary);
+  font-size: 15px;
+}
+
+.story-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 14px;
+}
+
+.chip {
+  font-size: 11.5px;
+  font-weight: 650;
+  padding: 2px 10px;
+  border-radius: 999px;
+  line-height: 1.6;
+}
+
+.chip.region {
+  background: var(--chip-region-bg);
+  color: var(--chip-region-text);
+}
+
+.chip.topic {
+  background: var(--chip-topic-bg);
+  color: var(--chip-topic-text);
+}
+
+.why-it-matters {
+  border-left: 3px solid var(--accent);
+  background: var(--accent-soft);
+  border-radius: 0 8px 8px 0;
+  padding: 10px 14px;
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+.why-it-matters p {
+  margin: 0;
+}
+
+.why-label {
+  font-size: 11px;
+  font-weight: 750;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--accent);
+  margin-bottom: 4px !important;
+}
+
+.also-reported {
+  margin: 12px 0 0;
+  font-size: 13px;
+  color: var(--text-faint);
+}
+
+.also-reported a {
+  color: var(--text-secondary);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.also-reported a:hover {
+  color: var(--accent);
+}
+
+/* ---------- Filtering ---------- */
+
+.is-hidden {
+  display: none !important;
+}
+
+/* ---------- About page ---------- */
+
+.about h1 {
+  font-size: 26px;
+  letter-spacing: -0.02em;
+  margin: 0 0 16px;
+}
+
+.about h2 {
+  font-size: 17px;
+  margin: 28px 0 8px;
+}
+
+.about p,
+.about ul {
+  color: var(--text-secondary);
+  margin: 0 0 12px;
+}
+
+.about ul {
+  padding-left: 22px;
+}
+
+/* ---------- Small screens ---------- */
+
+@media (max-width: 560px) {
+  .hot-meta {
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 2px;
+  }
+
+  .story-card,
+  .trending {
+    padding: 16px;
+  }
+}

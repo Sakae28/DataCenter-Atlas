@@ -1,0 +1,67 @@
+# Source registry for the APAC DC news pipeline.
+# type: rss | google-news
+# weight: relative source authority (1-3), used in heat calculation
+# regions: regions this source mainly covers
+
+sources:
+  # --- Industry media (global with strong APAC coverage) ---
+  - name: Data Center Dynamics
+    type: rss
+    url: https://www.datacenterdynamics.com/en/rss/
+    weight: 3
+    regions: [global]
+
+  - name: W.Media
+    type: rss
+    url: https://w.media/feed/
+    weight: 3
+    regions: [southeast-asia, china, japan, korea, australia]
+
+  - name: Data Center Knowledge
+    type: rss
+    url: https://www.datacenterknowledge.com/rss.xml
+    weight: 2
+    regions: [global]
+
+  - name: Capacity Media
+    type: rss
+    url: https://www.capacitymedia.com/rss
+    weight: 2
+    regions: [global]
+
+  # --- Keyword feeds via Google News RSS (region-targeted) ---
+  - name: "GN: Data Center China"
+    type: google-news
+    query: '"data center" OR "datacenter" China'
+    weight: 2
+    regions: [china]
+
+  - name: "GN: Data Center Japan"
+    type: google-news
+    query: '"data center" OR "datacenter" Japan'
+    weight: 2
+    regions: [japan]
+
+  - name: "GN: Data Center Korea"
+    type: google-news
+    query: '"data center" OR "datacenter" Korea'
+    weight: 2
+    regions: [korea]
+
+  - name: "GN: Data Center Australia"
+    type: google-news
+    query: '"data center" OR "datacenter" Australia'
+    weight: 2
+    regions: [australia]
+
+  - name: "GN: Data Center Southeast Asia"
+    type: google-news
+    query: '"data center" OR "datacenter" (Singapore OR Malaysia OR Indonesia OR Thailand OR Vietnam OR Philippines OR Johor OR Batam)'
+    weight: 2
+    regions: [southeast-asia]
+
+  - name: "GN: Data Center APAC AI"
+    type: google-news
+    query: '"data center" AI (APAC OR "Asia Pacific") investment'
+    weight: 2
+    regions: [global]

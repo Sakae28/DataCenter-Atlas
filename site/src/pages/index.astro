@@ -1,0 +1,150 @@
+---
+import Base from '../layouts/Base.astro';
+import {
+  loadNewsDays,
+  formatDate,
+  formatTime,
+  weekdayOf,
+  sourceNames,
+  REGIONS,
+  REGION_LABELS,
+} from '../lib/news';
+
+const { days, source } = loadNewsDays();
+const latest = days[0];
+const hotStories = latest
+  ? latest.hot
+      .map((id) => latest.stories.find((s) => s.id === id))
+      .filter((s) => s !== undefined)
+  : [];
+---
+
+<Base title="Latest">
+  {source === 'fixtures' && (
+    <p class="dev-notice">Showing bundled fixture data — the pipeline has not produced output yet.</p>
+  )}
+
+  {latest && (
+    <p class="digest-date">
+      Latest digest: <strong>{formatDate(latest.date)}</strong> ({weekdayOf(latest.date)})
+    </p>
+  )}
+
+  <nav class="region-filter" aria-label="Filter by region">
+    <button class="pill is-active" data-region="all">All</button>
+    {REGIONS.map((r) => (
+      <button class="pill" data-region={r}>{REGION_LABELS[r]}</button>
+    ))}
+  </nav>
+
+  {hotStories.length > 0 && (
+    <section class="trending">
+      <h2 class="section-title">Trending</h2>
+      <ol class="hot-list">
+        {hotStories.map((story, i) => {
+          const { shown, extra } = sourceNames(story);
+          return (
+            <li class="hot-item" data-regions={story.regions.join(' ')}>
+              <span class="hot-rank">{i + 1}</span>
+              <div class="hot-body">
+                <a class="hot-title" href={story.sources[0].url}>{story.title}</a>
+                <span class="hot-sources">
+                  {shown.join(', ')}{extra > 0 && ` +${extra} more`}
+                </span>
+              </div>
+              <span class="hot-meta">
+                <span class="heat" title={`${story.heat} source${story.heat === 1 ? '' : 's'} reporting`}>
+                  <span class="flame" aria-hidden="true"></span>{story.heat}
+                </span>
+                {story.score !== null && <span class="badge score">{story.score}/100</span>}
+              </span>
+            </li>
+          );
+        })}
+      </ol>
+    </section>
+  )}
+
+  <section class="timeline">
+    {days.length === 0 && <p>No news available yet.</p>}
+    {days.map((day) => (
+      <div class="day-group">
+        <h2 class="day-heading">
+          <span class="day-date">{formatDate(day.date)}</span>
+          <span class="day-sub">{weekdayOf(day.date)} · {day.stories.length} {day.stories.length === 1 ? 'story' : 'stories'}</span>
+        </h2>
+        <div class="story-list">
+          {day.stories.map((story) => (
+            <article class="story-card" data-regions={story.regions.join(' ')}>
+              <div class="story-meta">
+                <time class="story-time" datetime={story.published_at}>{formatTime(story.published_at)}</time>
+                <span class="story-sources">{story.sources.map((s) => s.name).join(', ')}</span>
+                {story.featured && <span class="badge featured">Featured</span>}
+                {story.score !== null && <span class="badge score">{story.score}/100</span>}
+              </div>
+              <h3 class="story-title">
+                <a href={story.sources[0].url}>{story.title}</a>
+              </h3>
+              <p class="story-summary">{story.summary}</p>
+              <div class="story-tags">
+                {story.regions.map((r) => (
+                  <span class="chip region">{REGION_LABELS[r]}</span>
+                ))}
+                {story.topics.map((t) => (
+                  <span class="chip topic">#{t}</span>
+                ))}
+              </div>
+              {story.why_it_matters && (
+                <div class="why-it-matters">
+                  <p class="why-label">Why it matters</p>
+                  <p>{story.why_it_matters}</p>
+                </div>
+              )}
+              {story.sources.length > 1 && (
+                <p class="also-reported">
+                  Also reported by{' '}
+                  {story.sources.slice(1).map((s, i) => (
+                    <>
+                      <a href={s.url}>{s.name}</a>{i < story.sources.length - 2 ? ', ' : ''}
+                    </>
+                  ))}
+                </p>
+              )}
+            </article>
+          ))}
+        </div>
+      </div>
+    ))}
+  </section>
+
+  <script>
+    const pills = document.querySelectorAll<HTMLButtonElement>('.region-filter .pill');
+    const cards = document.querySelectorAll<HTMLElement>('[data-regions]');
+    const dayGroups = document.querySelectorAll<HTMLElement>('.day-group');
+    const trending = document.querySelector<HTMLElement>('.trending');
+
+    function applyFilter(region: string) {
+      cards.forEach((el) => {
+        const show = region === 'all' || (el.dataset.regions ?? '').split(' ').includes(region);
+        el.classList.toggle('is-hidden', !show);
+      });
+      // Hide day groups / trending section when nothing inside is visible.
+      dayGroups.forEach((group) => {
+        const visible = group.querySelectorAll('.story-card:not(.is-hidden)').length;
+        group.classList.toggle('is-hidden', visible === 0);
+      });
+      if (trending) {
+        const visible = trending.querySelectorAll('.hot-item:not(.is-hidden)').length;
+        trending.classList.toggle('is-hidden', visible === 0);
+      }
+    }
+
+    pills.forEach((pill) => {
+      pill.addEventListener('click', () => {
+        pills.forEach((p) => p.classList.remove('is-active'));
+        pill.classList.add('is-active');
+        applyFilter(pill.dataset.region ?? 'all');
+      });
+    });
+  </script>
+</Base>
