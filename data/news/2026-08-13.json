@@ -1,0 +1,548 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T08:19:13Z",
+  "hot": [
+    "2026-08-13-f84fe6",
+    "2026-08-13-450a50",
+    "2026-08-13-296a4f",
+    "2026-08-13-9b29bf",
+    "2026-08-13-097da4"
+  ],
+  "stories": [
+    {
+      "id": "2026-08-13-90b673",
+      "title": "Cloud is (still) king: Private equity investments in the AI data center era",
+      "summary": "AI is grabbing the headlines, but investors still have their eye firmly on the cloud",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "investment",
+        "ai",
+        "cloud",
+        "private-equity"
+      ],
+      "published_at": "2026-08-13T08:15:46Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/analysis/cloud-is-still-king-private-equity-investments-in-the-ai-data-center-era/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-36fcc5",
+      "title": "NTT DC REIT Q1 Results Show Occupancy Improvement, Income Beats IPO Forecast",
+      "summary": "NTT DC REIT reported first-quarter FY26/27 distributable income 10.6% above its IPO forecast, with occupancy improving across its portfolio. Lower property taxes and operating costs offset revenue that came in below expectations.",
+      "why_it_matters": "Beating IPO forecasts in its first reporting quarter strengthens investor confidence in the newly listed pure-play data center REIT category in Asia, potentially paving the way for more listings. The cost-driven beat also shows that margin discipline, not just rental growth, is underwriting returns in the sector.",
+      "score": 62,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "southeast-asia"
+      ],
+      "topics": [
+        "reit",
+        "investment",
+        "colocation",
+        "finance"
+      ],
+      "published_at": "2026-08-13T07:18:01Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/ntt-dc-reit-q1-results-show-property-occupancy-improvement/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-cd892b",
+      "title": "Data Center Boom Fuels Calls for Tighter Regulation in Korea",
+      "summary": "South Korea's rapid data center construction boom is prompting calls from policymakers and communities for tighter regulation, the Korea Herald reports. Concerns center on power consumption, grid strain, and siting disputes around the Seoul metropolitan area.",
+      "why_it_matters": "Regulatory tightening would directly affect project timelines and site selection economics for both domestic and foreign developers in one of APAC's fastest-growing markets. How Seoul resolves the tension between AI infrastructure ambitions and grid and community pushback will set a template other capacity-constrained Asian markets are watching.",
+      "score": 78,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [
+        "regulation",
+        "capacity",
+        "policy",
+        "power"
+      ],
+      "published_at": "2026-08-13T06:20:29Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "GN: Data Center Korea",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BTEFLMVNNLU5YT0t4a09ZWDIyS2RtWkVmTU5aeXZUckhNUFdveXA4bHV1QU5mZ0Rod2xMenNYaW0tcUVHMVlSM3d6by1TQkJtdTRWbmd6MA?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-296a4f",
+      "title": "STT GDC Secures USD 1.37 Billion Green Financing for Johor Data Center Campus",
+      "summary": "ST Telemedia Global Data Centres (STT GDC) has secured a green financing facility of up to US$1.37 billion (MYR 5.6 billion) to fund the development of its flagship STT Johor data center campus in Malaysia. The package includes a green loan covering Phase 1 of the campus.",
+      "why_it_matters": "One of the largest green financings in Southeast Asia's data center sector, the deal signals that lenders are willing to underwrite very large AI-driven capacity builds in Johor, which is rapidly emerging as a spillover market for Singapore-constrained demand. It also reinforces green loan structures as the default financing route for hyperscale development in the region, raising the bar for smaller developers seeking capital.",
+      "score": 88,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "green-financing",
+        "capacity",
+        "malaysia"
+      ],
+      "published_at": "2026-08-13T06:00:40Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/stt-gdc-secures-usd-1-37-billion-green-financing-for-johor-campus/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-f0f791",
+      "title": "China and US Optical Giants Battle for AI Data Center Supremacy",
+      "summary": "Chinese and American optical component makers are intensifying competition for dominance in AI data center interconnects, as surging bandwidth requirements drive demand for advanced transceivers and optical modules. The rivalry carries both commercial and geopolitical dimensions.",
+      "why_it_matters": "Optical interconnects are becoming as strategically contested as GPUs, and export-control friction between Washington and Beijing could split supply chains that APAC data center builders depend on. Operators and network planners in the region face rising risk of cost inflation and vendor fragmentation in high-speed optics procurement.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "optics",
+        "competition"
+      ],
+      "published_at": "2026-08-13T02:46:31Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "GN: Data Center China",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNW5NbmEwUU0wWEJTTEFTeFN6dGt2WTE1bFVTSVFDaDBMSzIzZGZNd05XYjJkQ2twdy1BSEJDME1TLWtFZmZVOFBwNGFudUVmaGFtUW56WENXOWhzOFZqVHFveEE4VVR2VVJaQXJ2NEZ2RkMxYmhEYU53eEZ5Z2ZNY0R6UUxQUWd1RUdTdHBtU3kyS3dXMnBWeDEzTjBocDg?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-4b3d4f",
+      "title": "Centuria and ResetData Fast-Track 250MW AI Pipeline with A$165M GPU Financing and A$300M Equity Raise",
+      "summary": "Centuria Capital Group and ResetData, in which Centuria holds a 50% stake, have advanced a 250MW AI data center pipeline, backed by A$165 million in GPU financing and a A$300 million equity raise. The pair also announced a Master Services Agreement and new customer and deployment milestones.",
+      "why_it_matters": "The combined debt-and-equity package shows mid-cap Australian players can still fund sovereign AI infrastructure ambitions without hyperscaler balance sheets, using GPU-backed financing structures that are relatively new to the market. It strengthens the case for domestically owned AI compute capacity in Australia at a time of rising sovereignty concerns.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "capacity",
+        "investment",
+        "power"
+      ],
+      "published_at": "2026-08-13T01:50:16Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/centuria-and-resetdata-fast-track-250mw-ai-pipeline-supported-by-a165-million-gpu-financing-a300-million-equity-raise/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-450a50",
+      "title": "Illegal migrant workers arrested in raid at under-construction data center site in Rayong, Thailand",
+      "summary": "24 illegal workers arrested at the site in the Ban Chang District",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 2,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "construction",
+        "regulation",
+        "labor"
+      ],
+      "published_at": "2026-08-12T15:33:49Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/raid-by-authorities-sees-illegal-migrant-workers-arrested-at-under-construction-data-center-site-in-rayong-thailand/",
+          "type": "rss"
+        },
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTjN4RVR1WXZUalhqLTRLaDhBdHlpalR4YmxYUF9PLUl0dDVsbzN4VmJ0VXFDXzRkWTVmZ1ZEVWJxamtzV1BuUURjdHlzVzFaWEZRU3FHV2J2U3oxdjFVWU5jMW1iUXlOc3ZqY3RxX1I3elBwdW1rRUMwamJ2UXF3NThtVi00TkRHRTNWUExUTnl2eno1bTBReDRjVmVvVFA3aERtc0pTUkpNbkVadGhzaE9PQmZGeHdia00tYjA5VVlFQ1FVRDlKVHQ3UGZpc3V3cGVuZjlDQmJvQVo4N0FTTnNBeERlNUNUUFJsREZpUGE?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-b6b2cd",
+      "title": "JLL: Data center demand exceeds expectations, doubles year-over-year",
+      "summary": "JLL reports that global data center absorption reached a record 25GW in the first half of 2026, roughly doubling year-over-year and exceeding prior expectations. The brokerage attributes the surge to sustained AI and cloud demand.",
+      "why_it_matters": "Record absorption confirms the supply-demand imbalance is worsening rather than normalizing, which supports continued rent growth and pre-leasing and keeps pressure on power-constrained markets across APAC. For developers and utilities, it validates aggressive capacity pipelines that skeptics had flagged as overbuilding.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "demand",
+        "capacity",
+        "market-report",
+        "hyperscale"
+      ],
+      "published_at": "2026-08-12T15:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/jll-data-center-demand-exceeds-expectations-doubles-year-over-year/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-0e0e99",
+      "title": "Colos are buying into GPUs",
+      "summary": "GPUs have become a financeable asset class",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "gpus",
+        "colocation",
+        "ai",
+        "investment"
+      ],
+      "published_at": "2026-08-12T14:30:41Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/opinions/colos-are-buying-into-gpus/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-1b6838",
+      "title": "IBM and Together AI sign $240m Nvidia HGX B300 cloud deployment deal",
+      "summary": "Cluster expected to go live in Q1 2027",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "cloud",
+        "nvidia"
+      ],
+      "published_at": "2026-08-12T13:20:32Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/ibm-and-together-ai-sign-240m-nvidia-hgx-b300-cloud-deployment-deal/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-73c847",
+      "title": "Korean Telecom Trio Surpasses 1 Trillion Won in AI Data Center Sales",
+      "summary": "South Korea's three major telecom operators have collectively surpassed 1 trillion won in AI data center-related sales, the Seoul Economic Daily reports. The milestone reflects telcos' expanding role as builders and operators of AI infrastructure.",
+      "why_it_matters": "Crossing the trillion-won mark establishes Korea's telcos as credible AI infrastructure players rather than legacy carriers, which reshapes the competitive landscape for colocation and cloud providers in the market. It also gives these balance-sheet-heavy incumbents momentum to bid for larger government and enterprise AI contracts.",
+      "score": 78,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [
+        "ai",
+        "capacity",
+        "revenue",
+        "telecom"
+      ],
+      "published_at": "2026-08-12T08:22:51Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "GN: Data Center Korea",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2RXblZvRlFlUDVKaUFrU1k5RFRRSlR4S3VXNFJaUWJqOHRUdUhLRnZLUk5pRExtd1hWZ0d1NnJnNDdGV2RqbzRTdnhpcElYU2ttZ1cxYkx4alNmUThfYTFkV3ZKN2l6QXpUZ3lqNjlQT29kSzNhYm4zY1ZuXzNVZXBScGRsSWlJZ1RpdVlybmt5Vklhd0FFWDNKNlhJVmxJMnZB?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-f84fe6",
+      "title": "Digital Core REIT sells stakes in three US data centers to Digital Realty, buys into two facilities in Asia",
+      "summary": "Digital Core REIT has agreed to sell interests in three North American data centers to sponsor Digital Realty, using the proceeds to acquire partial stakes in facilities in Singapore and Osaka, repay debt, and buy back units. The transactions mark a strategic rebalancing toward Asia.",
+      "why_it_matters": "The pivot signals growing investor conviction that Asian data center assets offer better risk-adjusted growth than mature US markets, particularly as Singapore capacity remains scarce. Unitholders gain exposure to APAC's tightest markets, while the intra-sponsor deal structure will draw scrutiny over pricing and governance.",
+      "score": 82,
+      "heat": 2,
+      "regions": [
+        "southeast-asia",
+        "japan"
+      ],
+      "topics": [
+        "investment",
+        "reit",
+        "m&a",
+        "colocation"
+      ],
+      "published_at": "2026-08-12T06:35:18Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/digital-core-reit-to-sell-stakes-in-three-us-data-centers-back-to-digital-realty-buys-stake-in-two-facilities-in-asia/",
+          "type": "rss"
+        },
+        {
+          "name": "W.Media",
+          "url": "https://w.media/digital-core-reit-to-enter-singapore-expand-in-japan-with-proceeds-from-stake-sale-of-north-american-assets/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-236bea",
+      "title": "Allianz: Data Center Boom Brings New Infrastructure Risks and Opportunities for Insurers",
+      "summary": "Allianz: Data center boom ushers in a new era of infrastructure risks and opportunities for insurers vietnamnews.vn",
+      "why_it_matters": "",
+      "score": 48,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "insurance",
+        "risk",
+        "investment"
+      ],
+      "published_at": "2026-08-12T02:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ2ZIUGRtb1RaWkd1V2ZBU2dLQlpHMjRvTEVfOFpYa2wyNzNuYTBxM2cyMENTR3ltdGFsbGx6cWxaODVibHBPRExpdmk1VU5UaXFDVzJzeWtTQUk2NjVWVmNSd3hHOURzNUl3T2NYYUpENGVuMUZZNXFFVXIwcURCdTdXNDJobVMzWHpxdDREd0RlblR3RzdqUXhfaUlaczAya0U3aFZVaUQ2ME1QTVVIVHpCU2h1UzFVTVZYMEhqcDNpUEZFdV9RanNON0h2NE5XcVZSbGZIQnh4UThSTmJxT1ZWMEs?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-05e83b",
+      "title": "Hanwha Construction Joins South Korean Project to Boost AI Data Center Efficiency",
+      "summary": "Hanwha Construction has joined a South Korean government-backed project aimed at improving AI data center energy efficiency. The initiative focuses on construction and engineering approaches to reduce power consumption in next-generation facilities.",
+      "why_it_matters": "Bringing a major construction group into a state-led efficiency program signals Korea is treating data center energy performance as industrial policy, not just an operator concern. Contractors that master efficient AI-facility design stand to gain an edge as power constraints make efficiency a permitting and cost differentiator.",
+      "score": 62,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [
+        "ai",
+        "energy-efficiency",
+        "construction"
+      ],
+      "published_at": "2026-08-12T01:42:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center Korea",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYkZ4WVNieHBpNE5SZFZUdFIzUkRRVFBGeWxHVGVyY2c4WmoxTzVWYkQxMkhLWlVlTGVZcno1aF81OUhHMzk3U0toRm9JdElVeHdOb3RvcUxnMU5PSXUzX1pEdllZQUF2a3U0aGtWSWltVkxwVmNBWHlDODBLZVpoNGxrWHTSAZgBQVVfeXFMTVlNU2xYQ2NENlNGX1dMMF9JZ0drckhvSE5leHVIcV9nZ05VeloxY0hYM1hFb09sUFVma1pQV05GSHIxM01mVW91eWZJbGRWZVlnV2VGbVlOTENWWmpJdXJDcGpubFNCcmoydXlidHZYdHNpM2hISUZYekxCU1o1UG9TRm1pUXhyU1p3clkwUGlTS1laWThHOFU?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-9029da",
+      "title": "OCP APAC Summit Highlights AI Data Center Management as Power Constraints Grow",
+      "summary": "The Open Compute Project's APAC Summit focused on managing AI data centers amid growing power constraints, TechRepublic reports. Discussions covered operational efficiency, liquid cooling, and grid-aware workload management.",
+      "why_it_matters": "The agenda shift from capacity expansion to operational efficiency reflects the industry's acknowledgment that power availability, not capital or land, is now the binding constraint across APAC. Operators that adopt OCP-style efficiency practices earliest will be best positioned to win allocations in power-rationed markets like Singapore and Tokyo.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "power",
+        "management",
+        "ocp"
+      ],
+      "published_at": "2026-08-11T18:47:02Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "GN: Data Center Japan",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSTA5d1pfZWwzUXZnNmtBSVZsZTA5RVVVM3haT3U3SjhHV2xDRHMwTTVvLWQtV2xDRVlGdHV0NHZMZFQ0VEJTWlliVFJteGJYM0lTTkI2a2RzLWFjV0tLQnNZSEtYWWRQWGo5OGJFUWxMUkpXV1NyWmJvNFQwV3o1ZlV4VQ?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-2be421",
+      "title": "Australia's CDC Considers New Data Center in New Zealand",
+      "summary": "Australian data center operator CDC is considering building a new facility in New Zealand, Data Center Dynamics reports. The move would extend CDC's government-grade infrastructure footprint beyond Australia and Canberra.",
+      "why_it_matters": "A CDC entry would bring a security-cleared, sovereign-capable operator into New Zealand's small but growing market, raising the competitive bar for incumbent providers. It also reflects trans-Tasman governments' shared interest in allied-nation data infrastructure resilience.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "expansion",
+        "capacity",
+        "investment"
+      ],
+      "published_at": "2026-08-11T15:44:32Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "GN: Data Center Australia",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOWpuSmVkVHhsNVNnU3ZIcUktQ2NiN1lEYWgwNFFRQmpWbW9FcnNfNFJ0NG1HU0JQY3ZGdDU4TkxaMTZHRmQ5a2ZGWV9JSTFpaXVmNURPeUc3WVlnREJDYldKT1dMdzZhWktWelJiR0JmV2o1SjVnNUlpRW4xcnJ4QXBWc2NsSlZNa2VXQVVzS05ESzRjR3pqOXpsZw?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-097da4",
+      "title": "Japan's Akita AI Data Center Now Estimated at $12.6 Billion",
+      "summary": "The estimated cost of a planned AI data center project in Akita, Japan, has risen to approximately US$12.6 billion, according to TechRepublic. The figure marks a significant increase from earlier projections for the development.",
+      "why_it_matters": "The ballooning estimate illustrates how power procurement, construction costs, and GPU-era facility requirements are inflating Japanese mega-project budgets, testing the economics of large-scale builds outside Tokyo and Osaka. For regional governments courting such projects, it raises the stakes on promised power and subsidy commitments.",
+      "score": 86,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "capacity",
+        "hyperscale"
+      ],
+      "published_at": "2026-08-11T15:20:55Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "GN: Data Center Japan",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9abXNkdXpvMV9xTFdNX0ZzU01LRE5yb3p6VjhfYVhkeE42cXliV3B3WnREOWRsdE5tVmRfRmJTX2dtQ2ZBcjU4YlBaTXFNUE9Da2FOTHFJdTJmVmZ0dmQtQWhKeWFzZlpuSmRDS3Z4a3hzRnlyTlNRN2ZZN2Z3TlE?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-4287d4",
+      "title": "Malaysian Property Giant Sells 36-Acre Cyberjaya Land Parcel for Data Center Development",
+      "summary": "A major Malaysian property developer has sold a 36-acre land parcel in Cyberjaya for data center development, Data Center Dynamics reports. The transaction adds to a wave of land deals in Malaysia's established tech corridor.",
+      "why_it_matters": "The deal confirms Cyberjaya remains a live data center market even as developer attention shifts to Johor, giving buyers a power-and-fiber-ready alternative in the Klang Valley. For Malaysian conglomerates monetizing land banks, it demonstrates that data center demand continues to set the floor for industrial land values.",
+      "score": 72,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "land",
+        "investment",
+        "capacity",
+        "malaysia"
+      ],
+      "published_at": "2026-08-11T14:35:09Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZFc3NUloX2N4b3dIYWN4dTJTdzNnYnpLTnRka3FOWEtBcS1uWkRGYzhhVDd0Y2xFMUpZai1QQ0ozQzBkSnRzTV9FdnJia0wtQi1WYVBOb051b21LNm1EMmhCVnh5VFFjZGxrT1lUblJsYnJ0NWVIWGo3QWJfOERmVGRCTEk4ZkJ5UlFIVWVzY3JqZGZpWVBNMlBxenIwSUtVTmp0WWtiX0ZsMnhMNkRpMFZzOVpOS3lMV2NVTzhuN0s?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-ed47e9",
+      "title": "NTT-Backed Consortium Targets Ishikari as Japan Data Center Hub",
+      "summary": "A consortium backed by NTT is targeting Ishikari, Hokkaido, for development as a major data center hub, according to Telecom Review Asia. The initiative seeks to leverage the region's cool climate and available land and power.",
+      "why_it_matters": "The push aligns with Japan's policy of decentralizing digital infrastructure away from earthquake-exposed Tokyo, and Hokkaido's cold climate and renewable potential make it one of the few places in Japan that can host large AI campuses. Success would redistribute investment and grid planning to northern Japan while intensifying competition among regional hubs.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "investment",
+        "capacity",
+        "hub",
+        "ntt"
+      ],
+      "published_at": "2026-08-11T10:03:48Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "GN: Data Center Japan",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMFFyekxaX3hxN2tqRUlidWFtTGYyZ0FxQThvRk10MEw4Y2F2VnZwd3RKQ1ExeDV4UnZRcU40R2xTY0pSVG5MdklKVlUwVldTaXFEaXVYQ2NLVzkzaTU2WTlCcGhIMk9GZGhoZlVBVHVXUUNqajRHSVhud2N4UnhjZ0lKSUV1eWtTcnFOdS16SW80cGNpak5aWEh0UVBpbzlJXzhDUDdBT3dZYlo3Z3NMakJva0xEaEgwWUFvck1mZnk?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-9b29bf",
+      "title": "Singapore-Based Data Center Operator Reportedly Files Confidentially for $5 Billion US IPO",
+      "summary": "A Singapore-based data center operator has confidentially filed for a US initial public offering that could raise around US$5 billion, according to Bloomberg. Details of the filing, including the company's identity specifics and timing, remain undisclosed.",
+      "why_it_matters": "A US$5 billion listing would rank among the largest data center IPOs globally and confirms that APAC operators see US public markets as the deepest pool of AI-infrastructure capital. A successful debut would reprice private-market valuations across Southeast Asia and likely accelerate similar listings by regional peers.",
+      "score": 88,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ipo",
+        "investment",
+        "hyperscale",
+        "capital-markets"
+      ],
+      "published_at": "2026-08-11T09:15:22Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONGpDUDN3QVVyb05qT3c1ckoybzZvaVc0XzlQTW51Wm42ZmQ0eVJpczVVa01wc2p6eGtTbGNQR0JDTjJTcmt6eVlsMUlrT2hzcElLaGV0aE9KQzZYOVRPdmN0V0pYeVpENWltQmgxWHlpTHotQ1JfMTJxcjhqeTFJRVdRbTBTYkp4SXAwUnEwajZkQ2t1ZEQwZEg3dWg0eTBkVm1YRWF4SUF6Q3VVOVdiVkZHUGZHQnpfVVY0?oc=5",
+          "type": "google-news"
+        },
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV3JqeThQcHNaSFdhRXAzUTJsZExiVU91SExsYnlQUFlWMXRxU1dDUlkzbFhkZzI1M1VrRDY2cTdvMXFtbExCZHVIY1NqZGp5QkdhWnhSYnZQSlZYZEsxRkZFU2p3NHQwc1REdlVoSTRPWXkzZWl0dXFwV3RPRXVrODlkSUQ0LTRhNjllWHBudURTZmNpU29FWEMzRm1LTkhCZnl0a3ltd2E5MTNPeUtPZXNHaHZaZENxRFRsMw?oc=5",
+          "type": "google-news"
+        }
+      ]
+    }
+  ]
+}
