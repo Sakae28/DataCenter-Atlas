@@ -1,14 +1,406 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T08:48:22Z",
+  "generated_at": "2026-08-13T23:02:38Z",
   "hot": [
     "2026-08-13-f84fe6",
     "2026-08-13-450a50",
+    "2026-08-13-1574fe",
     "2026-08-13-643635",
-    "2026-08-13-296a4f",
-    "2026-08-13-9b29bf"
+    "2026-08-13-296a4f"
   ],
   "stories": [
+    {
+      "id": "2026-08-13-00d587",
+      "title": "RWE nears completion on two data center deals",
+      "summary": "Plans total net investments of €42 billion from 2026 to 2031 to meet skyrocketing demand",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-13T16:50:27Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/rwe-nears-completion-on-two-data-center-deals/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-16bda2",
+      "title": "Nebius to lease data center capacity from Vantage in Newport, Wales",
+      "summary": "AI cloud firm to deploy Nvidia GPUs at CLW1 site",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-13T16:20:31Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/nebius-to-lease-data-center-capacity-from-vantage-in-newport-wales/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-9cc653",
+      "title": "Nebius expands European presence, announces deployment in Estonia and second data center in Mäntsälä, Finland",
+      "summary": "Announcements made alongside company’s Q2 2026 results",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-13T16:07:10Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/nebius-expands-european-presence-announces-deployment-in-estonia-and-second-data-center-in-m%C3%A4nts%C3%A4l%C3%A4-finland/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-364400",
+      "title": "City council in Fort Worth, Texas, issues temporary data center moratorium",
+      "summary": "During which time new regulations may be developed, though won’t come into force until next year",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-13T15:28:20Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/city-council-in-fort-worth-texas-issues-temporary-data-center-moratorium/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-589b04",
+      "title": "Sponsored: Planning liquid cooling for new AI data center builds in India",
+      "summary": "Identifying which liquid cooling architecture to design for",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-13T15:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/opinions/planning-liquid-cooling-for-new-ai-data-center-builds-in-india/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-eeabb8",
+      "title": "‘Zero-impact’ data center announced for Florence, Italy",
+      "summary": "The facility will form part of a renewable energy hub planned for the southeast of the city",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-13T13:40:01Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/zero-impact-data-center-announced-for-florence-italy/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-1a365d",
+      "title": "Optimal Transit pitches Kraaken floating data center than can generate power and provide clean drinking water",
+      "summary": "Project sounds ambitious, but is apparently based on proven technologies",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-13T13:38:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/optimal-transit-pitches-kraaken-floating-data-center-than-can-generate-power-and-provide-clean-drinking-water/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-09e6d6",
+      "title": "Intel submits patent continuation on multi-orbit data center solution",
+      "summary": "CPU giant keeps four-year-old patent going as competing hyperscalers hurry to get them built",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-13T13:23:24Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/intel-submits-patent-continuation-on-multi-orbit-data-center-solution/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-896105",
+      "title": "China's GDS Holdings Q2 revenue rises on data center ramp-up - TradingView",
+      "summary": "China's GDS Holdings Q2 revenue rises on data center ramp-up TradingView",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [],
+      "published_at": "2026-08-13T11:46:08Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center China",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMWNZRWduZE5SWmtyanJqVkFBeVJsU2RBaHExLWZXcXYzVFNUR05oVmFiYm1iMml5SXJzcTVPeVVtVmkzaG0xMXlQcTBUdzlETVZjTXpSSzFfVHpZVWJIWE5semFDZGk4MjRsZkk2ZjVuTEVWUzlnQTd6OTExcXpSMzFVMDFWN0pLQzRxUjIwekpCbTZwRDVrbjY1MmdkN1VBTkw4dEtoMlpYNkxBRmtWc0NTRzdWM0Q1UFRIRGRZeEQ0TXBKR3plM0N3?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-08745c",
+      "title": "Form Energy raises $750m to expand West Virginia iron-air battery plant to meet surging data center demand",
+      "summary": "The company has previously signed supply deals with Google and Crusoe",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-13T11:40:29Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/form-energy-raises-750m-to-expand-west-virginia-iron-air-battery-plant-to-meet-surging-data-center-demand/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-1574fe",
+      "title": "Centuria eyes 250MW of data center capacity in Australia",
+      "summary": "Real estate firm looks to expand existing sites and repurpose industrial sites",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 2,
+      "regions": [
+        "global",
+        "australia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-13T10:47:29Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/centuria-eyes-250mw-of-data-center-capacity-in-australia/",
+          "type": "rss"
+        },
+        {
+          "name": "GN: Data Center Australia",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdElMd1NiaFNsb1BYeGZHTm9mWGppUEw4b3VOeTVXTU1kcWtYQmNwcHN3WmJYWlpZVXBZdWdxa1hRY3AyN0ZMSEs5MW9odEhVV0o4OFdOQ01pS3l4N0YtMTdySGJyN2ducTBiM2dfeWhqa1pISzBaVXNxTG5UazZYUGNJNjN0Ty00NVFBSkQxVmlTWjNkeFR4bHdYXzc4TTRfa1E?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-886afa",
+      "title": "Plans for 2.6 million sq ft data center outside Allentown, Pennsylvania, dropped after officials deny application",
+      "summary": "Air Products' hopes to develop its old HQ dashed",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-13T10:40:32Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/plans-for-26-million-sq-ft-data-center-outside-allentown-pennsylvania-dropped-after-officials-deny-application/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-003a5f",
+      "title": "Malaysian real estate firm DPS Resources eyes data center developments in Melaka - Data Center Dynamics",
+      "summary": "Malaysian real estate firm DPS Resources eyes data center developments in Melaka Data Center Dynamics",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-13T10:32:02Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdjRjSkVRSHczVXY2NU5NNVcySHRaMWRQQVEzb3JZNWI2X0RmTWhLT1pBRExyTWNfMWtsb0NQYWpHQUUtNjFsdEVkTG1HQnc5MllBdVhKZ2JoVzY4MENqamstQ1dsMzFPYWozdzAwc09hR1VOc1pVclg4NUlVN0pRekdzajhkbm1qUVhnZmwtNTBfZ0dYZDg0Rl9xYmZXQTY2bzZpcWpWQkszNzh3TmRvRk9uS0tlakh3cjh5aEJYT1FSQQ?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-e8cbce",
+      "title": "Kazakhstan’s Data Center Valley on track to complete first 50 MW facility in June 2027",
+      "summary": "The Kazakhstan government said on Thursday that construction of the Data Center Valley project in Ekibastuz is progressing smoothly with the first 50 MW facility on track for commissioning by June 2027. As reported by the Kazakhstan state news agency, Kazinform, excavation work for the energy centers and AI factories at the site are 90 […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "china",
+        "japan",
+        "korea",
+        "australia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-13T10:29:12Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/kazakhstans-data-center-valley-on-track-to-complete-first-50-mw-facility-in-june-2027/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-95c272",
+      "title": "STT GDC secures up to $1.37bn in funding for 166MW data center in Johor, Malaysia - Data Center Dynamics",
+      "summary": "STT GDC secures up to $1.37bn in funding for 166MW data center in Johor, Malaysia Data Center Dynamics",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-13T09:51:52Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLTVlc1NMaDhZdl9DbHZsQUFoQzQta0dtSFFYeE1jUjY4M3ZoRDQ4Rm5kdUF1ZHFhR0ZmdEV4bW80UnczR0FOVWlGUzJyVFJhelZWM2FkTXNBakVxYlZWeVFFNk9hSVZrRG4zZ085LXJPZ0xIRklHYmFrNzRaaV9WUzIySzc2a1FvS25sTWl2V2o1S1ZETmNXSmlFd3FRQjZGbVB1R2dCa2J2cUZOX2NnMVR1WkpFaWdsQkxkUDdhZw?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-83bbce",
+      "title": "STT GDC obtains $1.37B green loan for Malaysia data center expansion - Light Reading",
+      "summary": "STT GDC obtains $1.37B green loan for Malaysia data center expansion Light Reading",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-13T09:15:40Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYW1BRjk4dTcxN19hbU13X29KY1djZlNYZy1CbENPcGRkQlk5d29kY3Z2c1JLeEFlYThoNjg1NE5LNDQzQVBjQ3RDRzJpal9vRkRjUVF0SHFMbHEyMGx6T3hGQTVDUmpxNElkNzFBRDRSQUtjcWNTZTctbUZubV9FbC1yVEdtdzd2UlNQQTI1Y0RmbjlHcjJKR1ZB?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-1b09d9",
+      "title": "MRCB sells land in Malaysia for US$ 102 million to Singapore-backed data center firm",
+      "summary": "Malaysian construction and property developer Malaysian Resources Corp Bhd (MRCB) has sold seven parcels of land in Cyberjaya, Selangor for RM419.05 million cash (US$ 102.48 million) to a Singapore-backed data center firm, according to the firm’s Bursa exchange filing last week. The sale and purchase agreement (SPA) was signed between its indirect wholly owned subsidiary, Subang […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "china",
+        "japan",
+        "korea",
+        "australia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-13T09:03:20Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/mrcb-sells-land-in-malaysia-for-us-102-million-to-singapore-backed-data-center-firm/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-e1f865",
+      "title": "The Critical Minerals Crisis: AI Data Centers Face Supply Chain Strain",
+      "summary": "The AI data center boom relies on copper, lithium, and rare earths, but ongoing supply chain pressures are testing whether producers can keep up.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-13T09:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Knowledge",
+          "url": "https://www.datacenterknowledge.com/supply-chain/the-critical-minerals-crisis-ai-data-centers-face-supply-chain-strain",
+          "type": "rss"
+        }
+      ]
+    },
     {
       "id": "2026-08-13-90b673",
       "title": "Cloud is (still) king: Private equity investments in the AI data center era",
@@ -83,6 +475,27 @@
         {
           "name": "W.Media",
           "url": "https://w.media/ntt-dc-reit-q1-results-show-property-occupancy-improvement/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-81afeb",
+      "title": "Zayo, Nvidia Target Fiber Capacity as AI Infrastructure Spreads",
+      "summary": "AI data center construction is creating new demand for dedicated connectivity, while optical equipment constraints could limit expansion of existing routes.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-13T07:15:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Knowledge",
+          "url": "https://www.datacenterknowledge.com/networking/zayo-nvidia-target-fiber-capacity-as-ai-infrastructure-spreads",
           "type": "rss"
         }
       ]
@@ -186,6 +599,27 @@
       ]
     },
     {
+      "id": "2026-08-13-b94676",
+      "title": "Singapore's STT GDC secures $1.37B green financing for Johor data center campus - technode.global",
+      "summary": "Singapore's STT GDC secures $1.37B green financing for Johor data center campus technode.global",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-13T05:34:30Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV0MyUUZQVF9hbDJWMi1CYVp0bk5jQzR0bU82cnp5cVprT2lrVUhFa29TQWNfa1kyejJJelhyOWF3N3c0S3Z5UWwzYUgxTHJlT0JOUkZ5bTEyRDZ1Q3JOSkNNdnZLTFRyc0ZHb1BKb25BaGI5VWxUMGRfR05NWHNQTVZ5TmxIdlE2WjFMYTdvNE5jeTVaakxvbnVYUG0xTzg0bFNiSXRuQ3NseF8zak96Z0Ftbw?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
       "id": "2026-08-13-f0f791",
       "title": "China and US Optical Giants Battle for AI Data Center Supremacy",
       "summary": "Chinese and American optical component makers are intensifying competition for dominance in AI data center interconnects, as surging bandwidth requirements drive demand for advanced transceivers and optical modules. The rivalry carries both commercial and geopolitical dimensions.",
@@ -204,6 +638,27 @@
       ],
       "published_at": "2026-08-13T02:46:31Z",
       "featured": true,
+      "sources": [
+        {
+          "name": "GN: Data Center China",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNW5NbmEwUU0wWEJTTEFTeFN6dGt2WTE1bFVTSVFDaDBMSzIzZGZNd05XYjJkQ2twdy1BSEJDME1TLWtFZmZVOFBwNGFudUVmaGFtUW56WENXOWhzOFZqVHFveEE4VVR2VVJaQXJ2NEZ2RkMxYmhEYU53eEZ5Z2ZNY0R6UUxQUWd1RUdTdHBtU3kyS3dXMnBWeDEzTjBocDg?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-409e20",
+      "title": "China And U S Optical Giants Battle For AI Data Center Supremacy - Evrim Ağacı",
+      "summary": "China And U S Optical Giants Battle For AI Data Center Supremacy Evrim Ağacı",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [],
+      "published_at": "2026-08-13T02:46:31Z",
+      "featured": false,
       "sources": [
         {
           "name": "GN: Data Center China",
@@ -277,6 +732,27 @@
           "name": "Data Center Dynamics",
           "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
           "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-13-7b0b97",
+      "title": "Raid by authorities sees illegal migrant workers arrested at under-construction data center site in Rayong, Thailand - Data Center Dynamics",
+      "summary": "Raid by authorities sees illegal migrant workers arrested at under-construction data center site in Rayong, Thailand Data Center Dynamics",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-12T15:35:48Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTjN4RVR1WXZUalhqLTRLaDhBdHlpalR4YmxYUF9PLUl0dDVsbzN4VmJ0VXFDXzRkWTVmZ1ZEVWJxamtzV1BuUURjdHlzVzFaWEZRU3FHV2J2U3oxdjFVWU5jMW1iUXlOc3ZqY3RxX1I3elBwdW1rRUMwamJ2UXF3NThtVi00TkRHRTNWUExUTnl2eno1bTBReDRjVmVvVFA3aERtc0pTUkpNbkVadGhzaE9PQmZGeHdia00tYjA5VVlFQ1FVRDlKVHQ3UGZpc3V3cGVuZjlDQmJvQVo4N0FTTnNBeERlNUNUUFJsREZpUGE?oc=5",
+          "type": "google-news"
         }
       ]
     },
@@ -779,6 +1255,11 @@
         {
           "name": "GN: Data Center Korea",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYkZ4WVNieHBpNE5SZFZUdFIzUkRRVFBGeWxHVGVyY2c4WmoxTzVWYkQxMkhLWlVlTGVZcno1aF81OUhHMzk3U0toRm9JdElVeHdOb3RvcUxnMU5PSXUzX1pEdllZQUF2a3U0aGtWSWltVkxwVmNBWHlDODBLZVpoNGxrWHTSAZgBQVVfeXFMTVlNU2xYQ2NENlNGX1dMMF9JZ0drckhvSE5leHVIcV9nZ05VeloxY0hYM1hFb09sUFVma1pQV05GSHIxM01mVW91eWZJbGRWZVlnV2VGbVlOTENWWmpJdXJDcGpubFNCcmoydXlidHZYdHNpM2hISUZYekxCU1o1UG9TRm1pUXhyU1p3clkwUGlTS1laWThHOFU?oc=5",
+          "type": "google-news"
+        },
+        {
+          "name": "GN: Data Center Korea",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWU1TbFhDY0Q2U0ZfV0wwX0lnR2tySG9ITmV4dUhxX2dnTlV6WjFjSFgzWEVvT2xQVWZrWlBXTkZIcjEzTWZVb3V5ZklsZFZlWWdXZUZtWU5MQ1Zaakl1ckNwam5sU0JyajJ1eWJ0dlh0c2kzaEhJRlh6TEJTWjVQb1NGbWlReHJTWndyWTBQaVNLWVpZOEc4VdIBmAFBVV95cUxNWU1TbFhDY0Q2U0ZfV0wwX0lnR2tySG9ITmV4dUhxX2dnTlV6WjFjSFgzWEVvT2xQVWZrWlBXTkZIcjEzTWZVb3V5ZklsZFZlWWdXZUZtWU5MQ1Zaakl1ckNwam5sU0JyajJ1eWJ0dlh0c2kzaEhJRlh6TEJTWjVQb1NGbWlReHJTWndyWTBQaVNLWVpZOEc4VQ?oc=5",
           "type": "google-news"
         }
       ]
