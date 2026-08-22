@@ -1,0 +1,773 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T22:38:25Z",
+  "hot": [
+    "2026-08-22-72e1d4",
+    "2026-08-22-21848f",
+    "2026-08-22-fc580c",
+    "2026-08-22-5a0f10",
+    "2026-08-22-73d438"
+  ],
+  "stories": [
+    {
+      "id": "2026-08-22-5a0f10",
+      "title": "Sponsored: What coolant should you use for data center liquid cooling?",
+      "summary": "Exploring PG25, dielectric fluids, and ASHRAE recommendations",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-22T15:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/opinions/what-coolant-should-you-use-for-data-center-liquid-cooling/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-73d438",
+      "title": "Ignis and Acciona look to build a data center in Segovia, Spain",
+      "summary": "The joint project also includes the development of a photovoltaic plant",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-22T14:00:33Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/ignis-and-acciona-join-forces-to-build-a-data-center-in-segovia/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-366a00",
+      "title": "Terronova starts work on 300MW data center campus outside São Paulo, Brazil",
+      "summary": "Site could eventually exceed 1GW",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-22T11:00:30Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/terranova-boosts-technology-infrastructure-with-the-construction-of-one-of-latin-americas-first-ai-data-centers/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-baa369",
+      "title": "Sponsored: Powering data centers is no longer a simple matter of supply and demand",
+      "summary": "Ramboll’s Michael Bergstrom unpacks how unprecedented load growth, changing grid standards, and shifting utility requirements are transforming the data center lifecycle",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-22T07:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/marketwatch/powering-data-centers-is-no-longer-a-simple-matter-of-supply-and-demand/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-d527d2",
+      "title": "Vapat Enters the data center market with a 160MW project in Valladolid",
+      "summary": "The project calls for the construction of two data center buildings, each with eight IT rooms",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T16:47:08Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/vapat-enters-the-data-center-market-with-a-160mw-project-in-valladolid/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-6fdd7f",
+      "title": "Nvidia backs data center powered land company Cloverleaf",
+      "summary": "Will help company bring projects to fruition, based on Nvidia DSX platform",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T16:20:47Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/nvidia-backs-data-center-powered-land-company-cloverleaf/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-9cc3d2",
+      "title": "World-first biological data center uses 16 million living human neurons to process data - Interesting Engineering",
+      "summary": "World-first biological data center uses 16 million living human neurons to process data Interesting Engineering",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T16:06:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON3RCZlNoRWNxc3Zmdm0yYXFpVzNNeHBYRk8xTUlfajdGNUx0T213OE41eC1oQ0JtVngwVXhnWTI0NWhPZTF1aVdaZEk4UElWZURuNVAydnRyZEI4V2NhV1N4V2Q1SjJIMzF2eTZCTFp2Q3ZYajRTSVBxcHAwaHFlZ1YxcUNPcG8?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-e4bc27",
+      "title": "Edge data center for AI workloads proposed in Manchester, UK",
+      "summary": "Two building scheme is part of planned network of Edge sites",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T15:47:11Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/edge-data-center-for-ai-workloads-proposed-in-manchester-uk/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-47a455",
+      "title": "Rocket Lab has no plans to enter orbital data center market",
+      "summary": "But SpaceX's compute ambitions could give Rocket Lab a launch opening",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T15:30:10Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/rocket-lab-has-no-plans-to-enter-orbital-data-center-market/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-919b59",
+      "title": "DayOne seeks loan to fund Hong Kong data center ahead of US IPO - The Malaysian Reserve",
+      "summary": "DayOne seeks loan to fund Hong Kong data center ahead of US IPO The Malaysian Reserve",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T15:04:33Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWkxSVU1sM2FnUXFNWFV4cWRId0p3RmRXRHpSd2M3V0xmb0Nvb2x0TDNMY29jT1VTRTNhdEpScElTaUpoOFY2SlVXYy00UmdoU01LVzdZZ0w4Z0ktZzVINlRSTnEwQUJSZjFTenVteDUweU1ZZzRBS3FSZmdsd05HdjdPYXFKX3F0cXZQSWVPOVdPZDlCc1dUV3NBbEwzOVEwWkZsMGRHdTYxTlE?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-cbab8f",
+      "title": "Sponsored: The \"power-first\" era: A new playbook for data center projects",
+      "summary": "How to prioritize power to accelerate your project pipeline",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T15:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/opinions/the-power-first-era-a-new-playbook-for-data-center-projects/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-055e55",
+      "title": "NVIDIA Q1 FY2027: Revenue $81.6B Beat, Data Center +92%, but August 26 Guidance Test Will Prove Sustainability - TradingKey",
+      "summary": "NVIDIA Q1 FY2027: Revenue $81.6B Beat, Data Center +92%, but August 26 Guidance Test Will Prove Sustainability TradingKey",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T14:01:19Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center China",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOSmppUFVTbFJ6dEtndmF2WUUxekw4NWQxMG1NU09JSFV3bVpvVEs1VnZaU1ZucDlSSHJScHA5clJwM1RUcEUta24xVW5tZHNSN0dScTItRkViakl5UTk3NlgzRlFvM0JPTU1DRG5ybVdPdjI3VDZEeVVMN1Zjc2dCTVM2Z055UHcxZTliZ3J0aVRPeGFycG15MTFRam5BazM3aVpVeGpDRXlPSjBYUXhlRENpd1BscVF1SWViM01FYW9vdXg0ZjB5OUNIU2pOSXV2VnBfS1puSzE0aEhhZlk0N2xMRDB4eDJEV2o2UmZtangyWWVNa05vbU5ld3ctUGQ2cG9UYnlDdWxlWGhUa3J5c3Rvd1pKZHp3Ym80?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-d0313a",
+      "title": "The what, where, and why of high-temperature superconducting feeders in data centers",
+      "summary": "Is HTS starting to make sense for data center operators?",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T13:30:29Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/opinions/the-what-where-and-why-of-high-temperature-superconducting-feeders-in-data-centers/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-72e1d4",
+      "title": "STT GDC backs out of planned Vietnam data center project",
+      "summary": "VNG looks to acquire STT GDC's portion of Ho Chi Minh City JV, aims to develop others and other facilities instead",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 2,
+      "regions": [
+        "global",
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T12:35:58Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/stt-gdc-backs-out-of-planned-vietnam-data-center-project/",
+          "type": "rss"
+        },
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTBkQ2dXQjB4U3hiLUU3OVphMW42dUtZN08xLUJLSW9zZVNGZzNfbDRmV2J5a2ZmQU1mNVlEekxkanE3MlpGN0RPYjJIdWhEYTZUNExmd1dObGNhbkJUTWt4OFVabW85VW9OVzh3WmkwODRlYXN5Y0xMUlZQUmpNR2ZGRldpNTl6LW02S0JrTWRBX2d6VlJCRkZWOTNuWnBQQlE?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-21848f",
+      "title": "Evolution DC secures long-term lease for land in Ho Chi Minh City, Vietnam",
+      "summary": "Company planning 52MW data center on site in Saigon Hi-Tech Park",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 2,
+      "regions": [
+        "global",
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T12:31:26Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/evolution-dc-secures-long-term-lease-for-land-in-ho-chi-minh-city-vietnam/",
+          "type": "rss"
+        },
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOTNCQzNsa0stS2lzNU5ocnJmdXZvejhTQ1hiUDRRdnFOcDljTU5sSlJJcHhKVVlNWHlJZVczdUxfOEtnTUpmRDJ2TGI3NC1IbFF2a3NXeEFBNEk4Ti1zWHgtQWZQZnVkZzFBTTNZcEJPMlVMLWZaLWg5bjJRRnp5UUsxZVpadm5VbDhkeWQ4SkplNFVNano3Z2ZfcTFlNXE4VUtWUUltSlNOU19ydFZIdktXU2d0MnJ5?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-4001b0",
+      "title": "Harworth enters exclusivity agreement with unnamed data center provider for powered land site in UK",
+      "summary": "Company targeting several other sites across the UK, eying potential for colo and Edge sites as well",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T12:28:30Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/harworth-enters-exclusivity-agreement-with-unnamed-data-center-provider-for-powered-land-site-in-uk/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-3fb3dd",
+      "title": "Bessent's 'toolkit,' American brands in China, data center backlash and more in Morning Squawk - CNBC",
+      "summary": "Bessent's 'toolkit,' American brands in China, data center backlash and more in Morning Squawk CNBC",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T12:26:21Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center China",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbWJSMjMyUzlhZm03MjlhM3RsSHZuakp0QUV3OEE1U3E4d0gwQ3FlSVpmdVB5a0lrUjRBUHFXM3pJa3hRaEYzU1ZobThpRG5lOXZYNDktMTBLYmlFajRQQ0dFLTI2cldfWGMtSFhSTmRxMVN0akR3ekZiemVrcmxZSjFUNGFrZmFuRkRB0gGQAUFVX3lxTFBQMk93bUJPMmRPdDZpM181ZkFTR0ZLaktmS254cFVzVHFMd1k2Z3ZnMHJsSDRuSW1PYzR5emNjdHJnRUxTdWRfODAzYl9rUUJPY0kxeGRQXy1NYnJaM2RVMEE3azg1NUY5ZjJ4WUQ0WXdTM2s5Y2gyeFZaUzhWeWUxWE1VTWpCZUhnZkJWX3VMUg?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-02a106",
+      "title": "AMACO seeks approval for US$ 1.5 billion off-grid AI data center in Kenya",
+      "summary": "AMACO Energy Group, a Greek multinational energy and infrastructure firm, is planning to build a KSh 194 billion (US$ 1.5 billion) AI data center in Mombasa, Kenya, that won’t rely on the country’s ailing electricity supply. The news comes via a report from Business Daily, which notes that AMACO’s Chief Executive Officer, Dr Theodore Theodoropoulos, […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "china",
+        "japan",
+        "korea",
+        "australia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T12:14:56Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/amaco-seeks-approval-for-us-1-5-billion-off-grid-ai-data-center-in-kenya/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-f60217",
+      "title": "PJM Strategy Targets Data Center Growth, but Policy Gaps Remain",
+      "summary": "The grid operator calls for faster development of generation and transmission and greater visibility into large loads, but major questions remain.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T11:13:14Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Knowledge",
+          "url": "https://www.datacenterknowledge.com/energy-power-supply/pjm-5-year-strategy-wrestles-with-data-center-boom",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-8f1775",
+      "title": "ENGIE signs 48 MWac PPA with QTS to power Irving data center campus",
+      "summary": "ENGIE, a global energy firm, has signed two power purchase agreements (PPA) this week, one with data center operator QTS to supply 48 MWac to its campus in Irving, Texas, and the other with renewable energy developer ABEI Energy. Under the agreement with ABEI, ENGIE will secure renewable energy generation from ABEI Energy’s Lubio Solar […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "china",
+        "japan",
+        "korea",
+        "australia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T10:45:01Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/engie-signs-48-mwac-ppa-with-qts-to-power-irving-data-center-campus/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-e64816",
+      "title": "Singapore gov't allocates 200MW of power for four data center developers on Jurong Island - Data Center Dynamics",
+      "summary": "Singapore gov't allocates 200MW of power for four data center developers on Jurong Island Data Center Dynamics",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T09:51:55Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWm5DU1BfVzRkWFcyZm9Eb2FBWTlPblBfcjBWb0MtUFBvbUZKWUJ0VXI4cWJFbkY1bEk2V0tXdmNhN0RxN3IyWm9fa2IwejNzWGZVcGtITzBSS0VhdmxWT2ZqUEtVRmRabGJWWDV0clBvd2dvLTNQdVpRVEJaVkVuQjNPRDA5ZEttOXUzY2FlMmE3ZEVyeWVWeWZtZ2VhdXFhcl9qRVFHX2FjMWlaT2I1aG51MGdtYWgwUUJMQmFrUGtvOFliLVRWSG9TR1M?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-cff7f2",
+      "title": "India Becomes APAC’s Top Data-Center Market Outside China, Hits 1.7 GW: Study - Saur Energy",
+      "summary": "India Becomes APAC’s Top Data-Center Market Outside China, Hits 1.7 GW: Study Saur Energy",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T09:47:16Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center China",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNFJzYzZuNk5VYThDWmN6Zmd0Q3hKSmFBZ3dFbGNFS2lzVXBuNUJZMURYbi15SklDekNNU0l4Y2dsVW1jTHNNRC1JN0NzU3l4OThBS09ZVHVYb2o1NGxwMjFucmp4bkVMOURRLWZvODFGakRsakVrWktRTGlBQ21Wa0FLSGdka3B1RGN3bzEyQ2h5SVhNTVZEYlBmSk5rRVZ5eHZ1dGx3RV9NVVlPSGRONGxYNXRPM2R6eXBIbVpnSjhMN0N6SWc?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-54f3bc",
+      "title": "Singapore seleziona quattro aziende specializzate in data center per un potenziamento della capacità di 200 MW - TradingView",
+      "summary": "Singapore seleziona quattro aziende specializzate in data center per un potenziamento della capacità di 200 MW TradingView",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T09:39:37Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KWFZZckNjT0dIa3lORlJ4TWc2TDEydkgtc3VjelRwcmFMUEtndk1IVE8zT2VlaWRGcmY0Z3VJMGJWWE1fNldvTkxSdTI0TnFKUGpwaVQ2WFZiRU1JQkFxS1RXSU1fVzh4ZkxXd0xwek9Lai1jYmZQdA?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-9a3eb3",
+      "title": "AI Infrastructure Pushes Data Center Capex Forecast Above $3 Trillion",
+      "summary": "AI infrastructure spending is forecast to push global data center capex beyond $3 trillion by 2030, driven by hyperscalers and AI-specialized clouds.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T09:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Knowledge",
+          "url": "https://www.datacenterknowledge.com/ai-data-centers/ai-infrastructure-pushes-data-center-capex-forecast-above-3-trillion",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-2dedd0",
+      "title": "HCMC leases 5-ha land for Singapore-backed $508 mln data center project - Theinvestor",
+      "summary": "HCMC leases 5-ha land for Singapore-backed $508 mln data center project Theinvestor",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T08:58:50Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORkZUSGR4QmJ0YlZheE4xRXdPdjFmVXFUOGJILVR1dHRSRm1ZbXNFX2Y4YkpGSEZ5bUx3U0RxcmZlVG5LTE1CMkNjZVo4MlI3cUhpdUdvc2RrTnU0QmhuMWl6V2Jvd0UtSjBLWG1QUkx1RE9rY1dLTFgwYjNEM3NqNGpuMWM2aXhzRkVEREYyTGlZYWtLUTFlTHZNT0Y4TWdqajNSWWpza1o?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-1e0884",
+      "title": "Silicon Valley Losing Data Center Battle To Public Opinion And China - News Radio 1200 WOAI",
+      "summary": "Silicon Valley Losing Data Center Battle To Public Opinion And China News Radio 1200 WOAI",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T08:33:53Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center China",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVHIyNlQ5SFNycXlpSDlBMFEwTEFnRWpicUFhZmhfaUttdWdoTlYxeWc1R29wSk54R2lmNkJlUzlITkRuVEh0Q0h6QVhNNWdWb1B4U2tpMDFNYUEwQXY2ZkE3MzM3LVVjSlJsVGpDeXJoM0gtQTFPOHMwdWxwSjhWOFVUWS1GaHRHaVVLV2h4QnJvQzR2Uk1XLW9WREFWYTJSczc3WW5kZnRIUE1YVzQwb05nbEw2cm9JUDR5di1qbXUwckI4azZXX2NXOUVvZ3h5Y2FRMHBhZmdSZGtySlE?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-d914cd",
+      "title": "Singapore allocates 200 MW of new data center capacity to Digital Realty, Equinix, Keppel, ST Telemedia - TNGlobal",
+      "summary": "Singapore allocates 200 MW of new data center capacity to Digital Realty, Equinix, Keppel, ST Telemedia TNGlobal",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T07:41:20Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTnMwa0RWUGlkSVZ4bzNJYnplZ1FlbXNjVUxiREthSEpPdkwtT0JMMEdwV3NoeXVBQUVHdzhpNWFOaGttNlNXNExyQko1Q3JTeF9UcWNZbG1HcjR0WjdCWlpUSlI0bWYtOHpNa2lnUW9YWDhjZWFpUi01WFhZaG5nUF9IRklCZVp1RkJuX19DTWVjVnFxY2ZNYi1hQjlYbmg4VUNaQlk0LTBYY2hHbTRzVkRFYTQtTklMX05iLXZoOUxlOWhyc1FoQzlWU3cybk5zVVE?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-dd9792",
+      "title": "DayOne, Cortical Labs, NUS Medicine launch Singapore’s first Biological Data Center Prototype",
+      "summary": "Singapore-headquartered data center platform DayOne Data Centers Limited recently launched Singapore’s first Biological Data Center Prototype in collaboration with Cortical Labs and the National University of Singapore (NUS Medicine). The prototype explores biological computing as a potentially more adaptive and energy-efficient complement to conventional silicon-based infrastructure, according to DayOne’s press release. Biological computing uses living neurons (nerve cells) grown […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "china",
+        "japan",
+        "korea",
+        "australia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T07:03:57Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/dayone-cortical-labs-nus-medicine-launch-singapores-first-biological-data-center-prototype/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-607a66",
+      "title": "Saragon launches U.S. data center platform with US$ 1 billion capital backing",
+      "summary": "Saragon, a new U.S. data center operator, has launched 10 facilities across nine U.S. markets, supported by US$ 1 billion in committed capital from I Squared Capital, an independent global infrastructure investor. Saragon was formed after I Squared acquired the facilities from Cogent Fiber, a subsidiary of Cogent Communications Holdings. The portfolio includes data centers […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "china",
+        "japan",
+        "korea",
+        "australia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T06:19:50Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/saragon-launches-u-s-data-center-platform-with-us-1-billion-capital-backing/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-1861fd",
+      "title": "YTL Power, JLand to Build 1.5GW Data Center in Johor - ET Datacenters",
+      "summary": "YTL Power, JLand to Build 1.5GW Data Center in Johor ET Datacenters",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T05:59:56Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTUlrR0xacng5UGZjVVQ3LUtwRndYc3lnV1YxYjlWMDA2ZUZSSDdyLTlrb09laExyR2dnSTR6dlg5ZXd6MTZVM3hoQVZVNlB5YjNvVTVJVFlSbnNUUzB3cmVsVHpHZzdmXzlXQTJaWVZRQWFva1hBOUhMSHktazk5T3ljZjE1Rk9VVlp2MGRvUU10ejZjWmRZRDl1ZW11Q3FrWlJJemVOQWlhei1JMlAxWm5DQXRnQzVIR1d3Q0FnM1kzN3E3TW1qY2lGR2xJUdIB0gFBVV95cUxPQ0UzSnZmT1Y5NTBIMTI3UlV6TXJHUHJLV2pCQmZicy13OFVTd2ZyUjR0T3RWQUFWRThYY0VPWjFxZEpWNE1Wd2xiVG1VYkd1bzlZQkg4eFBPNHkzMGw4eWpld3ZHVG1GeENwSkVNTF80em53WGJjLS1tMmh0bUVleGFSOTdmWDdwb3pKM2VyeXctdE80QzhKZFpYaTRNMDJBRHJ2RV83ZzNCV1JXRVNqYXlxQUd3Skp3WXcwbjlQNW1RYnlBMkxDTWs4THNKTmRjWWc?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-6b4cfd",
+      "title": "Singapore’s DC-CFA2 winners announced; third CFA possible",
+      "summary": "Four data center platforms namely Digital Realty, Equinix, Keppel Data Centres and ST Telemedia Global Data Centres have been announced winners and allocated 50 megawatts (MW) each under Singapore’s second Data Centre – Call for Application (DC-CFA2) exercise. They were selected out of 20 proposals from global and local players through an open competitive process. […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "china",
+        "japan",
+        "korea",
+        "australia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T05:12:26Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/singapores-dc-cfa2-winners-announced-third-cfa-possible/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-22678d",
+      "title": "Amazon adds US$ 6 billion to northwest Louisiana with a 3rd data center plan",
+      "summary": "Amazon Web Services (Amazon) plans to invest another US$ 6 billion in its northwest Louisiana data center project, increasing the company’s total planned investment in the region to US$ 18 billion. The expansion includes a third data center campus at Resilient Technology Park in Shreveport while the other facilities are located across Caddo and Bossier […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "china",
+        "japan",
+        "korea",
+        "australia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T04:49:55Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/amazon-adds-us-6-billion-to-northwest-louisiana-with-a-3rd-data-center-plan/",
+          "type": "rss"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-fc580c",
+      "title": "Stecon eyes US$ 1.5 billion data center jobs; in talks to invest in new DCs in Thailand",
+      "summary": "Thai construction giant, Stecon Group Pcl aims to bid for three data-center construction projects worth a combined 49.8 billion baht (US$ 1.5 billion). The company, which is controlled by the family of Prime Minister Anutin Charnvirakul, is also in talks with several potential partners to jointly invest in several new data center projects in Thailand, […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 2,
+      "regions": [
+        "southeast-asia",
+        "china",
+        "japan",
+        "korea",
+        "australia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-21T00:14:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/stecon-eyes-us-1-5-billion-data-center-jobs-in-talks-to-invest-in-new-dcs-in-thailand/",
+          "type": "rss"
+        },
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV3UyOHlZanlIVlNHQ19zNThVeVU0Tnc0aWJmcFhLNFBkRDdZVWhEekZZcHJtaTZqU3kwZ21FZnZ0YV8zNTNBS1labTRJMHU0RWM4Vnlvd2xOQzg2NFlDWTF0NjMwc2tRWWlEb09RcDRubE50Ni1kbU50ZUh0dmdGbmpWekplY1haMGNlSmpLaUJEdTN1WVNVZjVNOTVfeWoxS1o1MQ?oc=5",
+          "type": "google-news"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-19c173",
+      "title": "AI Data Center Boom Sparks War for Skilled Blue-Collar Talent — South Korea's Big Three Telcos Reshape Hiring Landscape - finance.biggo.com",
+      "summary": "AI Data Center Boom Sparks War for Skilled Blue-Collar Talent — South Korea's Big Three Telcos Reshape Hiring Landscape finance.biggo.com",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [],
+      "published_at": "2026-08-20T23:55:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center Korea",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90Y1hXSzJQWUJhbXAwRlpYTmpkNjR5dTZSLU1Sa0QycmpWbUNob05kTE56Q0k4TWVhTFR0LTNIOFMzYUFxMmtqeUdmdGp1UU1YczEtekNxYy13TUx5MWRxc0hveThnV3lQeGJ4QnNjQ0RsQWlqd1E?oc=5",
+          "type": "google-news"
+        }
+      ]
+    }
+  ]
+}
