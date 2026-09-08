@@ -1,6 +1,7 @@
 # Python
 pipeline/.venv/
 pipeline/.env
+pipeline/.scratch/
 __pycache__/
 *.pyc
 
@@ -12,3 +13,10 @@ site/.astro/
 # OS
 .DS_Store
 Thumbs.db
+
+# Local-only working files (not for the public repo)
+reference/
+pipeline/logs/
+data/projects.json.bak*
+Australia_DC_Investment_Update_*
+澳大利亚DC投资动态_*

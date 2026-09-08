@@ -1,0 +1,178 @@
+---
+import Base from '../../layouts/Base.astro';
+import Icon from '../../components/Icon.astro';
+import FavButton from '../../components/FavButton.astro';
+import {
+  loadAllStories,
+  formatDateTime,
+  relativeTime,
+  sourceDisplayName,
+  hasDistinctSummary,
+  REGION_LABELS,
+  type NewsStory,
+} from '../../lib/news';
+import { renderArticle } from '../../lib/markdown';
+import { loadProjects, buildStoryProjectIndex } from '../../lib/projects';
+import { companySlugMap } from '../../lib/companies';
+
+export function getStaticPaths() {
+  // loadAllStories covers every story from every loaded day (data or
+  // fixture fallback) and dedupes ids, so paths are always unique.
+  return loadAllStories().map(({ story, dayDate }) => ({
+    params: { id: story.id },
+    props: { story, dayDate },
+  }));
+}
+
+interface Props {
+  story: NewsStory;
+  dayDate: string;
+}
+
+const { story } = Astro.props;
+const base = import.meta.env.BASE_URL;
+
+const names = story.sources.map((s) => sourceDisplayName(s, story));
+const rel = relativeTime(story.published_at);
+
+// Canonical company/operator name (lowercased) → directory slug, for
+// linking the Companies rail chips to company pages when one exists.
+const companySlugByName = companySlugMap();
+
+// Project that tracks this story (via the reverse index on story_ids).
+const project = buildStoryProjectIndex(loadProjects().projects).get(story.id);
+
+const hasContent = !!(story.content && story.content.trim().length > 0);
+// Don't show summaries that merely repeat the headline (see hasDistinctSummary).
+const showSummary = hasDistinctSummary(story.title, story.summary);
+const { html: bodyHtml, toc } = hasContent
+  ? renderArticle(story.content!)
+  : { html: '', toc: [] };
+---
+
+<Base title={story.title} description={story.summary} active="latest">
+  <div class="article-bar">
+    <a class="article-bar-back" href={base}><Icon name="arrow-left" size={14} />Back</a>
+    <div class="article-bar-right">
+      {story.featured && <span class="badge featured">Featured</span>}
+      {story.score !== null && (
+        <span class="ai-score" title="AI relevance score">AI score {story.score}/100</span>
+      )}
+      <FavButton type="news" id={story.id} />
+      <a class="btn btn-primary" href={story.content_url ?? story.sources[0].url} target="_blank" rel="noopener">
+        View original<Icon name="external" size={13} />
+      </a>
+    </div>
+  </div>
+
+  <article class="article-card">
+    <div class="article-grid">
+      <div class="article-main">
+        <h1 class="article-title">{story.title}</h1>
+
+        <div class="article-meta">
+          <span>{names.join(', ')}</span>
+          <span class="article-meta-sep" aria-hidden="true">·</span>
+          <time class="js-time" data-time-format="datetime" data-ts={story.published_at} datetime={story.published_at}>{formatDateTime(story.published_at)}</time>
+          {rel && (
+            <>
+              <span class="article-meta-sep" aria-hidden="true">·</span>
+              <span class="js-time" data-time-format="relative" data-ts={story.published_at}>{rel}</span>
+            </>
+          )}
+        </div>
+
+        {showSummary && (
+          <div class="ai-summary">
+            <p class="ai-summary-label">AI Summary</p>
+            <p class="ai-summary-text">{story.summary}</p>
+          </div>
+        )}
+
+        <hr class="article-divider" />
+
+        {hasContent ? (
+          <div class="article-body" set:html={bodyHtml} />
+        ) : (
+          <div class="article-body">
+            {showSummary && <p>{story.summary}</p>}
+            <p class="content-note">
+              Full text isn't available for this story — read the original article via the
+              source link.
+            </p>
+          </div>
+        )}
+
+        {story.sources.length > 1 && (
+          <p class="also-reported">
+            Also reported by{' '}
+            {story.sources.slice(1).map((s, i) => (
+              <>
+                <a href={s.url} target="_blank" rel="noopener">{sourceDisplayName(s, story)}</a>{i < story.sources.length - 2 ? ', ' : ''}
+              </>
+            ))}
+          </p>
+        )}
+      </div>
+
+      <aside class="article-rail">
+        {story.why_it_matters && (
+          <section class="rail-block">
+            <h2 class="rail-title">Why it matters</h2>
+            <p class="rail-text">{story.why_it_matters}</p>
+          </section>
+        )}
+
+        {project && (
+          <section class="rail-block">
+            <h2 class="rail-title">Tracked project</h2>
+            <a class="project-link" href={`${base}/projects/${project.id}/`}>
+              <Icon name="server" size={13} />{project.name}
+            </a>
+          </section>
+        )}
+
+        {toc.length > 0 && (
+          <section class="rail-block">
+            <h2 class="rail-title">Contents</h2>
+            <ul class="rail-toc">
+              {toc.map((entry) => (
+                <li class:list={[{ 'is-sub': entry.depth === 3 }]}>
+                  <a href={`#${entry.id}`}>{entry.text}</a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        {story.companies && story.companies.length > 0 && (
+          <section class="rail-block">
+            <h2 class="rail-title">Companies</h2>
+            <div class="story-tags">
+              {story.companies.map((c) => {
+                const slug = companySlugByName.get(c.toLowerCase());
+                return slug ? (
+                  <a class="chip company chip-link" href={`${base}/companies/${slug}/`}>{c}</a>
+                ) : (
+                  <span class="chip company">{c}</span>
+                );
+              })}
+            </div>
+          </section>
+        )}
+
+        <section class="rail-block">
+          <h2 class="rail-title">Tags</h2>
+          <div class="story-tags">
+            {story.regions.map((r) => (
+              <span class="chip region">{REGION_LABELS[r]}</span>
+            ))}
+            {story.topics.map((t) => (
+              <span class="chip topic">#{t}</span>
+            ))}
+          </div>
+        </section>
+      </aside>
+    </div>
+  </article>
+</Base>

@@ -2,21 +2,34 @@
 import Base from '../layouts/Base.astro';
 ---
 
-<Base title="About" description="What APAC DC Wire tracks and how it works">
-  <article class="about">
-    <h1>About APAC DC Wire</h1>
+<Base title="About" active="about" description="What DataCenter Atlas tracks and how it works">
+  <header class="page-head">
+    <div>
+      <h1 class="page-title">About</h1>
+      <p class="page-sub">What DataCenter Atlas tracks and how it works</p>
+    </div>
+  </header>
 
+  <article class="about panel">
     <p>
-      APAC DC Wire is a daily, automated digest of data center industry news across
-      Asia-Pacific. It tracks announcements about hyperscale and colocation campuses,
-      capacity expansions, power and land deals, regulation, and the AI infrastructure
-      build-out reshaping the region.
+      DataCenter Atlas tracks the data center industry across Asia-Pacific: a daily
+      AI-curated news digest, a live database of projects and facilities, and a directory
+      of the companies behind them.
     </p>
 
-    <h2>What we track</h2>
+    <h2>Latest — the daily digest</h2>
+    <p>
+      An automated pipeline polls industry publications, Google News queries and company
+      newsrooms every day. An AI pass clusters duplicate coverage of the same story,
+      scores each story for relevance and importance (0–100), and writes the summaries
+      and "why it matters" notes. Full article text is extracted where the publisher
+      allows it, so you can read without leaving the site; every story still credits and
+      links the original reporting. The "sources" count on trending stories is the number
+      of distinct publications covering the same story.
+    </p>
     <p>Coverage is organized into five APAC regions, plus a Global bucket:</p>
     <ul>
-      <li><strong>China</strong></li>
+      <li><strong>China</strong> (including Hong Kong)</li>
       <li><strong>Japan</strong></li>
       <li><strong>Korea</strong></li>
       <li><strong>Australia</strong></li>
@@ -24,28 +37,45 @@ import Base from '../layouts/Base.astro';
       <li><strong>Global</strong> — stories outside the region that materially affect APAC, such as GPU supply or global cloud capex</li>
     </ul>
 
-    <h2>How it works</h2>
+    <h2>Pipeline — the project database</h2>
     <p>
-      An automated pipeline polls industry publications and news feeds every day, then an
-      AI pipeline clusters duplicate coverage of the same story, scores each story for
-      relevance and importance (0–100), and writes the summaries and "why it matters"
-      notes you see on the homepage. The result is published as one JSON file per day and
-      rendered into this static site.
+      The project database combines two kinds of sources: concrete project events
+      (groundbreakings, expansions, financing, commissioning) extracted from the tracked
+      news, and bulk facility inventories imported from public directories. Each project
+      page shows its status, capacity, investment, key dates and specs where disclosed,
+      plus the timeline of news that mentioned it.
+    </p>
+    <ul>
+      <li><strong>Status</strong> is the normalized lifecycle stage: announced → under construction → operational (plus on hold / cancelled). Source-specific labels like "prospective expansion" or "land bank" show up as qualifier chips.</li>
+      <li><strong>Capacity</strong> is IT load in MW. "Total planned" figures cover full campus build-out, so a live phase can be smaller. Leased tenant deployments are counted on the host facility, not double-counted.</li>
+      <li><strong>Last updated</strong> is the date of the last real change (new linked story, status change, new field) — not the date data was bulk-imported.</li>
+      <li>Directory entries not yet confirmed by tracked news are marked as such; treat single-source directory data as indicative.</li>
+    </ul>
+
+    <h2>Companies — the operator directory</h2>
+    <p>
+      The directory aggregates the project database by operator: how many facilities,
+      how much capacity, which markets. Companies with a substantial tracked footprint
+      (or editorial significance) get curated profiles with logos and descriptions;
+      smaller operators appear under "Other operators" once they pass ten tracked
+      facilities. News stories are tagged with the companies they concern, and those
+      tags link here.
     </p>
 
-    <h2>Sources and attribution</h2>
+    <h2>Saved — your bookmarks</h2>
     <p>
-      Every story credits the publications that reported it, with direct links to the
-      original articles. The "heat" number on trending stories is simply the count of
-      distinct sources covering the same story.
+      The bookmark icon on any story or project saves it for later; the Saved toggle on
+      the Latest and Pipeline pages filters to your bookmarks. Bookmarks live in your
+      browser's local storage — no account, no tracking, and they don't leave your
+      device.
     </p>
 
-    <h2>A note on scores</h2>
+    <h2>A note on scores and data</h2>
     <p>
       Scores, summaries, and "why it matters" notes are AI-generated heuristics designed
       to help you skim — they are not editorial judgment, investment advice, or a
-      substitute for reading the original reporting. Always follow the source links for
-      the full picture.
+      substitute for reading the original reporting. Facility data from public
+      directories can lag reality. Always follow the source links for the full picture.
     </p>
   </article>
 </Base>

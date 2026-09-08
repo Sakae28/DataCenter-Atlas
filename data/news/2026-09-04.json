@@ -1,0 +1,640 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-08T07:48:42Z",
+  "hot": [
+    "2026-09-04-d6cfc7",
+    "2026-09-04-a7f2a2",
+    "2026-09-04-c3ffda",
+    "2026-09-04-bca63f",
+    "2026-09-04-14101e",
+    "2026-09-04-9d2424",
+    "2026-09-04-b011e1",
+    "2026-09-04-e6c6a3"
+  ],
+  "stories": [
+    {
+      "id": "2026-09-04-d339af",
+      "title": "Gartner: China's domestic computing power enters a trough period — don't pay for intelligence you don't need",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "compute",
+        "market-analysis"
+      ],
+      "published_at": "2026-09-04T17:45:44Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "中国IDC圈",
+          "url": "https://news.idcquan.com/talk/207960.shtml",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Gartner"
+      ]
+    },
+    {
+      "id": "2026-09-04-14101e",
+      "title": "Cisco expands Secure AI Factory with Supermicro deal",
+      "summary": "Demand for denser AI data centres is driving a new Cisco-Nvidia partnership with Supermicro, aimed at easing cooling and deployment pressures.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "cooling",
+        "partnership"
+      ],
+      "published_at": "2026-09-04T15:30:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/cisco-expands-secure-ai-factory-with-supermicro-deal",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Cisco",
+        "Supermicro",
+        "NVIDIA"
+      ],
+      "content": "![Cisco expands Secure AI Factory with Supermicro deal](https://datacenternews.asia/uploads/story/2026/09/04/Supermicro-story-318291.webp) \n\n# Cisco expands Secure AI Factory with Supermicro deal\n\nFri, 4th Sep 2026\n![Sean Mitchell](https://datacenternews.asia/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--a929a91c2a04d9af95ed98b14ed4d405bc70c1a7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpbGwiOlsxNjAsMTYwXSwicXVhbGl0eSI6ODV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--89ddf5e6765c65a563c2258053e9d33c05d195da/IMG_3092.webp) \n\nCisco has expanded its Secure AI Factory with Nvidia through a partnership with Supermicro, adding high-density, liquid-cooled compute to the companies' AI infrastructure offering.\n\nThe announcement brings Supermicro into an existing Cisco-Nvidia collaboration focused on integrated AI systems for large-scale deployments. The expanded arrangement is intended for the rack-scale phase of AI infrastructure, where operators manage larger clusters, higher power demands, and more complex networking requirements.\n\nThe companies are combining Cisco's networking and security products with Nvidia computing and software, alongside Supermicro server and system designs. The offering targets organisations building AI infrastructure across data centres, with an emphasis on bringing compute, networking, storage and security together in one stack.\n\nRack-scale AI systems have become a focal point for infrastructure suppliers as demand grows for training and inference on larger models. These deployments typically require denser server configurations, faster interconnects and more advanced cooling systems than conventional enterprise data centre workloads.\n\nLiquid cooling is central to the latest expansion. Higher-density AI hardware consumes more power and generates more heat, prompting suppliers to redesign racks and data centre layouts around cooling efficiency as well as raw compute capacity.\n\nThe addition of Supermicro broadens the hardware options available within the Secure AI Factory framework. Supermicro is known for building servers and integrated systems used in AI and high-performance computing environments, giving the partnership a route into more tightly packed infrastructure designs.\n\nThe broader effort reflects a shift in the AI market from individual hardware components to bundled systems. Customers increasingly want validated combinations of servers, networking, accelerators, storage and management software rather than sourcing and integrating each layer separately.\n\n### Integrated stack\n\nCisco has been positioning its AI infrastructure strategy around demand for integrated systems. By tying networking and security more closely to AI compute platforms, the company is seeking a larger role in data centre projects often led by chipmakers, server makers and specialist cloud providers.\n\nNvidia, meanwhile, has expanded beyond accelerators into full system architectures, networking and software tools for AI model development and deployment. Its partnerships with server manufacturers and networking suppliers have become a core route to market as organisations seek pre-integrated designs that can be deployed at scale.\n\nSupermicro's addition underlines how server makers are trying to capture a larger share of AI infrastructure spending by offering complete rack-level systems rather than standalone hardware. The company has been active in liquid-cooled and high-density server configurations, which are becoming increasingly relevant as AI clusters grow larger and more power-intensive.\n\n### Market pressure\n\nThe partnership also comes as enterprises and service providers face growing pressure over the economics of AI buildouts. The cost of power, floor space and cooling has become as significant as processor performance, especially for operators planning multi-rack or hall-scale installations.\n\nSecurity remains another area of focus. AI deployments create additional concerns around data protection, model integrity and access control, particularly when infrastructure is shared across teams or used for sensitive workloads. Cisco's role in the partnership centres in part on addressing those issues alongside connectivity and systems integration.\n\nThe companies did not disclose financial terms. They described the expansion as part of a broader push to give customers a packaged route to deploying AI infrastructure in data centres that need both high-density compute and tighter operational control.\n\n\"Together, Cisco, NVIDIA and Supermicro are providing customers with a secure, scalable path for building AI factories in the rack-scale era,\" said Chuck Robbins, Chair and Chief Executive Officer, Cisco.\n\n\"By integrating liquid-cooled, high-density compute into Cisco's Secure AI Factory with NVIDIA, we are helping organisations simplify deployment while addressing the operational demands of next-generation AI infrastructure,\" said Robbins.\n\n\"As AI factories evolve to support ever-larger models and more demanding workloads, rack-scale systems become essential,\" said Jensen Huang, Founder and Chief Executive Officer, Nvidia.\n\n\"With Cisco and Supermicro, we can deliver an integrated infrastructure foundation that brings together computing, networking and software for this new class of AI deployment,\" said Huang.\n\n\"Customers are looking for proven, efficient designs as they build out AI infrastructure at increasing scale,\" said Charles Liang, President and Chief Executive Officer, Supermicro.\n\n\"Our liquid-cooled systems and rack-scale building blocks, combined with Cisco and NVIDIA technology, will help organisations deploy dense AI environments with greater efficiency,\" said Liang.",
+      "content_url": "https://datacenternews.asia/story/cisco-expands-secure-ai-factory-with-supermicro-deal"
+    },
+    {
+      "id": "2026-09-04-9d2424",
+      "title": "Equinix to speak at upcoming investor conferences",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 25,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "colocation",
+        "investor-relations"
+      ],
+      "published_at": "2026-09-04T12:01:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Equinix (official)",
+          "url": "https://investor.equinix.com/news-events/press-releases/detail/1124/media-alert-equinix-to-speak-at-upcoming-investor",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Equinix"
+      ],
+      "content": "REDWOOD CITY, Calif., Sept. 4, 2026 /PRNewswire/ -- Equinix, Inc. (Nasdaq: EQIX), the world's digital infrastructure company<sup>®</sup>, today announced that its executives will attend three upcoming investor conferences:\n\n                    ![Equinix.  (PRNewsFoto/Equinix) Equinix.  (PRNewsFoto/Equinix)](https://mmx.prnewswire.com/media/MS198028/MM39832LOGO.jpg?id=OA2929719) \n\n- \n**Barclays 24****<sup>th</sup>** **Annual Global Financial Services Conference** on Monday, September 14. Arquelle Shaw, President, Americas, will present at 10:30 a.m. ET.\n\n- \n**Bank of America Global Real Estate Conference** on Tuesday, September 15. Stuart Thompson, Senior Vice President, Global Real Estate, will present at 3:00 p.m. ET.\n- \n**RBC Capital Markets Global Communications Infrastructure Conference** on Tuesday, September 29. Olivier Leonetti, Chief Financial Officer, will present at 2:00 p.m. CT.\n\nThe presentations will be made available via webcast on the Investor Relations section of the Equinix website at www.equinix.com/investors.\n\n### About Equinix\n\nEquinix, Inc. (Nasdaq: EQIX) shortens the path to boundless connectivity anywhere in the world. Its digital infrastructure, data center footprint and interconnected ecosystems empower innovations that enhance our work, life and planet. Equinix connects economies, countries, organizations and communities, delivering seamless digital experiences and cutting-edge AI—quickly, efficiently and everywhere.\n\n![Cision Cision](https://edge.prnewswire.com/c/img/favicon.png?sn=SF40747&sd=2026-09-04) View original content to download multimedia:https://www.prnewswire.com/news-releases/media-alert-equinix-to-speak-at-upcoming-investor-conferences-302869591.html\n\nSOURCE Equinix, Inc.\n\nReleased September 4, 2026",
+      "content_url": "https://investor.equinix.com/news-events/press-releases/detail/1124/media-alert-equinix-to-speak-at-upcoming-investor"
+    },
+    {
+      "id": "2026-09-04-bca63f",
+      "title": "DayOne and TNB plan 1.5GW power supply for Selangor data centre",
+      "summary": "DayOne Data Centres and Malaysia's national utility Tenaga Nasional Berhad (TNB) have proposed a dedicated 1.5GW power supply arrangement for a new data centre in Selangor, incorporating on-site generation and battery storage rather than relying solely on the grid. The plan, driven by reliability concerns, is awaiting regulatory approvals before construction can proceed.",
+      "why_it_matters": "If approved, the project would mark one of the largest dedicated power commitments to a single data centre site in Southeast Asia, signaling that power availability—not land or capital—is now the binding constraint in Malaysia's booming data centre market. It also tests whether regulators will accept on-site generation as a workaround for grid limitations, a precedent other developers in the region are watching closely.",
+      "score": 90,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "capacity",
+        "investment",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-04T08:35:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/dayone-tnb-plan-1-5gw-selangor-data-centre-power",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "DayOne",
+        "Tenaga Nasional"
+      ],
+      "content": "![DayOne & TNB plan 1.5GW Selangor data centre power](https://datacenternews.asia/uploads/story/2026/09/04/jamie-khoo-story-318300.webp) \n\n![Sofiah Nichole Salivio](<https://datacenternews.asia/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYyNywicHVyIjoiYmxvYl9pZCJ9fQ==--3f3cbcdb3f86206827b894ccc07566b24a1d49e6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpbGwiOlsxNjAsMTYwXSwicXVhbGl0eSI6ODV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--89ddf5e6765c65a563c2258053e9d33c05d195da/unnamed%20(2).webp>) \n\nDayOne and TNB Power Generation have agreed to explore an on-site power generation project of up to 1.5GW for a new data centre development in Selangor, supporting DayOne's expansion in Greater Kuala Lumpur.\n\nThe companies will assess a setup combining dedicated on-site generation with a battery energy storage system linked directly to the planned data centre infrastructure. The study will examine the project's capacity, configuration and delivery model, all of which remain subject to feasibility studies, formal agreements and regulatory approvals.\n\nThe arrangement builds on an existing relationship between DayOne and TNB's power generation arm. Previous work has included DayOne campuses in Johor and participation in Malaysia's green energy programmes, including the Corporate Renewable Energy Supply Scheme and the Green Electricity Tariff.\n\nSelangor is part of DayOne's broader push in Malaysia, as demand for data centre capacity rises with artificial intelligence and cloud computing workloads. The company already has a presence in Johor through Nusajaya Tech Park, launched in 2023, and Kempas Tech Park, launched in 2025.\n\n### Energy model\n\nThe proposed model centres on dedicated generation at the site rather than relying solely on grid supply. Adding battery storage is intended to provide greater flexibility in managing electricity use at a large facility with heavy, continuous power needs.\n\nFor Malaysia, the project highlights a broader challenge facing fast-growing digital infrastructure markets: how to add large amounts of new electricity demand without placing extra strain on existing power systems. Data centre operators in Southeast Asia have increasingly sought alternative supply arrangements as governments weigh industrial growth against grid stability and energy transition targets.\n\nThe Selangor development is in the Greater Kuala Lumpur region, which DayOne described as an important centre for connectivity, economic activity and talent. Expanding there gives the company a presence in another major Malaysian market beyond Johor, one of the country's busiest data centre corridors.\n\nThe memorandum of understanding was signed in Kuala Lumpur by Jimmy Yan, General Manager of Malaysia at DayOne, and Dato' Shahrir Abdul Latiff, Managing Director of TNB GenCo. Jamie Khoo, Chief Executive Officer of DayOne, and Datuk Ir. Ts. Shamsul Ahmad, President and Chief Executive Officer of TNB, witnessed the signing.\n\nMalaysia has become one of DayOne's main growth markets since the company entered the country. DayOne has secured more than 2GW of bookings globally since its inception and expects cumulative investment in Malaysia to exceed RM28 billion by the end of 2026.\n\n### Growth pressure\n\nThe announcement comes as electricity availability has become a central question for data centre developers across the region. Operators are under pressure to secure enough reliable supply for large campuses while also meeting environmental expectations from governments and customers.\n\nDayOne said the integrated approach under review is intended to add new capacity and improve system flexibility. It also tied the initiative to Malaysia's National Energy Transition Roadmap and the country's efforts to attract digital investment.\n\nJamie Khoo, Chief Executive Officer of DayOne, said: \"Malaysia is central to DayOne's growth, and we continue to deepen our presence in Greater Kuala Lumpur as we scale to meet accelerating AI and cloud demand. Together with TNB, we are exploring an integrated approach that combines on-site power generation and a battery energy storage system (BESS) directly with our data center infrastructure. This model is designed to add new capacity and enhance system flexibility that supports our growth while contributing to Malaysia's energy resilience and long-term sustainability.\"\n\nTNB framed the collaboration as part of the challenge of balancing industrial demand with broader system needs. The utility group has been positioning itself as a key enabler of Malaysia's digital economy while maintaining a focus on grid reliability and the country's longer-term energy transition.\n\nDatuk Ir. Ts. Shamsul Ahmad, President and Chief Executive Officer of TNB, said: \"As digital infrastructure continues to expand, responsible planning becomes increasingly important to ensure new demand can be accommodated while maintaining grid reliability and supporting Malaysia's long-term energy transition goals. TNB's role is now more pertinent than ever in balancing digital economy growth and long-term sustainability to ensure the economic spillover benefits all, including the rakyat.\"",
+      "content_url": "https://datacenternews.asia/story/dayone-tnb-plan-1-5gw-selangor-data-centre-power"
+    },
+    {
+      "id": "2026-09-04-d6cfc7",
+      "title": "Data Center Cross Connects: What You Are Buying and What to Verify Before You Order",
+      "summary": "Cross connects are among the least-discussed line items in a colocation contract and among the most consequential. They determine which carriers, clouds, and counterparties a deployment can reach, how quickly a network design can change, and how much of the monthly invoice is recurring interconnection cost rather than space and power. This article covers what […] The post Data Center Cross Connects: What You Are Buying and What to Verify Before You Order appeared first on Digital Edge DC .",
+      "why_it_matters": "",
+      "score": 30,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "korea",
+        "southeast-asia"
+      ],
+      "topics": [
+        "colocation",
+        "interconnection",
+        "network"
+      ],
+      "published_at": "2026-09-04T05:18:22Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Digital Edge (official)",
+          "url": "https://www.digitaledgedc.com/resources/interconnection/data-center-cross-connect/",
+          "type": "rss"
+        }
+      ],
+      "content": "Cross connects are among the least-discussed line items in a colocation contract and among the most consequential. They determine which carriers, clouds, and counterparties a deployment can reach, how quickly a network design can change, and how much of the monthly invoice is recurring interconnection cost rather than space and power. This article covers what a cross connect is physically, how it differs from the other connection types sold alongside it, what drives the fee, and what is worth establishing with a provider before the first order goes in.\n\n## What is a data center cross connect, physically?\n\nA data center cross connect is a dedicated physical cable that runs between two parties inside the same facility — typically from your cage or rack to a carrier, a cloud on-ramp, an exchange platform, or another tenant. It is a layer 1 circuit. Nothing routes it, nothing shapes it, and no third-party network sits in the middle. That is the whole point of it.\n\nIn practice, the cable rarely runs directly between two cages. It runs from your patch panel, through structured cabling in the overhead tray or riser, into a meet-me room, where it is patched across to the counterparty’s panel. Media is usually single-mode fiber for anything carrier- or cloud-facing, multimode for shorter in-building runs, and copper for legacy or low-speed handoffs. The demarcation point is the panel, not the cable — which matters when something breaks and you need to establish whose side of the patch the fault sits on.\n\nBecause the path never leaves the building, a cross connect adds negligible propagation delay. What it removes is more interesting: transit hops, queuing on shared infrastructure, and the variability that comes from traffic traversing networks you do not control. For latency-sensitive workloads, that predictability tends to matter more than the raw microseconds, and it sits alongside the other factors covered in __how latency accumulates__ across a real path.\n\n## Where does the meet-me room fit in?\n\nThe meet-me room is the neutral space where tenant and carrier cabling terminates and cross connects are physically patched. In a carrier-neutral facility it is operator-managed and open to any qualified provider, which is what makes competitive carrier choice possible in the first place. It is also the single place where a large share of a building’s interconnection risk concentrates.\n\nThat concentration is why some facilities operate two meet-me rooms — commonly described as MMR-A and MMR-B — on separate floors or in separate fire compartments, fed by separate pathways. Where dual meet-me rooms exist, a genuinely diverse pair of circuits can terminate in different rooms rather than in different panels of the same room. Where only one exists, diversity has to be achieved through pathway and carrier separation instead.\n\nIt is worth asking early which model a site uses, because the answer shapes what redundancy is achievable there at all. Facilities differ on this more than their marketing material suggests, and the distinction is easier to design around before a deployment than after.\n\n## Cross connect, metro link, or exchange port — which one are you actually buying?\n\nThese three are sold in the same conversation and solve different problems, so it helps to separate them before comparing prices.\n\nA cross connect connects two parties in the same building. A metro link — offered under various product names across the industry — carries traffic between facilities in the same city over the operator’s own metro fiber, usually as a wavelength or Ethernet service. An exchange port connects you to a shared peering fabric where many networks exchange traffic through a single interface, rather than one cable per counterparty.\n\nThe economics diverge accordingly. Cross connects scale linearly: every new counterparty is another cable and another recurring charge. An exchange port scales better once the number of peers rises, which is the usual argument for peering as an ecosystem matures. Metro links solve reach rather than count, and are typically the mechanism for treating two buildings as one campus. Most enterprise deployments end up using all three, and the useful question is which traffic belongs on which. The distinctions are set out further in __interconnection and peering__.\n\n## What drives cross connect cost?\n\nCross connects are usually billed as a one-time installation charge plus a recurring monthly fee per circuit, and the recurring portion is where the long-term cost sits. Media type and speed influence the rate, and distance inside the building generally does not — a cross connect to a neighboring suite and one to the far side of the meet-me room tend to price the same.\n\nThe variable that surprises teams is not the unit price but the count. A single production environment with two carriers, two cloud on-ramps, an exchange port, and an out-of-band path is already eight to ten circuits once each is duplicated for redundancy. Add a second environment, a partner connection, or a migration running in parallel with the incumbent, and the number climbs before anyone revisits the budget. Interconnection can become a meaningful share of monthly spend in a network-heavy deployment.\n\nNone of that argues for fewer circuits. It argues for modeling the count at design time rather than discovering it at renewal, and for understanding how the provider treats changes: whether a re-patch is billed as a new install, whether circuits can be groomed onto higher-capacity handoffs later, and how the fee structure behaves as the deployment grows. Those questions belong in the evaluation stage described in __choosing a colocation provider in Asia Pacific__, not in the first invoice review.\n\n## Why are two cross connects not always two paths?\n\nOrdering a second cross connect is easy. Establishing that it fails independently of the first takes more work, and this is where a lot of otherwise-sound designs turn out to be less resilient than intended.\n\nTwo circuits are genuinely diverse only if they are separated at every layer they share: different patch panels, different riser or tray pathways, different meet-me rooms where the facility offers them, different carrier equipment, and — for anything terminating outside the building — different entry points and different metro routes. A pair that leaves your cage through the same conduit is a single point of failure regardless of how the invoice describes it.\n\nThe practical approach is to ask for the physical path of each circuit and confirm the separation point by point. Providers with mature interconnection operations can usually produce this. When they cannot, that is useful information about how the site is run. Where a facility is genuinely __carrier-neutral__, you also have the option of splitting a redundant pair across two independent carriers rather than two circuits from the same one.\n\n## What is worth establishing before you order?\n\nA few operational details determine how a cross connect program feels once it is running, and all of them are easier to settle before the first order.\n\nStart with the paperwork path. Carrier and cloud connections generally require a Letter of Authorization and Connecting Facility Assignment, and the sequence differs by counterparty — __AWS__ and __Azure__ both publish their own requirements for the locations they serve. Then confirm delivery lead time for a standard order, what a change window looks like, and whether after-hours patching is available. Ask how circuits are labeled and documented, and whether you receive a record you can reconcile against your own inventory.\n\nFinally, agree the escalation path before you need it. A cross connect fault at two in the morning is resolved by whoever can access the meet-me room and read the labeling, which makes documentation quality an operational property rather than an administrative one.\n\n## How does this vary across APAC markets?\n\nInterconnection depth is uneven across the region, and cross connect strategy should follow the ecosystem rather than a template.\n\nIn Japan, Tokyo and Osaka both support dense carrier presence and multiple cloud on-ramp options, so a cross-connect-led design is usually workable within a single building, and __Digital Edge facilities in Japan__ are positioned around that carrier density. Korea’s market is concentrated in and around Seoul, which makes metro links a more common component of a two-site design. In the Philippines, carrier choice has broadened considerably alongside new capacity, though the specific carriers present at a given site still warrant confirmation rather than assumption.\n\nIndonesia is the clearest case for pairing cross connects with exchange access: __Digital Edge in Indonesia__ offers ultra-low latency downtown facilities for financial and digital platforms, carrier-neutral, with future hyperscale-AI expansion, and local traffic exchange through a well-established __internet exchange in Indonesia__ can materially improve routing efficiency for domestic users. The broader relationship between ecosystem depth and architectural flexibility is covered in __what data center interconnection covers__.\n\n## Conclusion\n\nA cross connect is a simple object with disproportionate influence over a deployment. It sets which counterparties are reachable at short-hop distance, how much recurring interconnection cost the deployment carries, and whether the resilience described in a design document exists in the cable trays.\n\nThe teams that get the most out of it treat interconnection as a design input at site-selection stage — modeling the circuit count, confirming physical diversity, and understanding the ordering and change process — rather than as a procurement detail settled after the space is contracted. The building is chosen once; the interconnection decisions it enables continue for the life of the deployment.\n\n## Talk to Digital Edge\n\nDigital Edge __interconnection services__ cover cross connects, metro connectivity, and exchange access across APAC markets where carrier density and ordering speed both matter — __reach out to our team__ to discuss how interconnection at your chosen site fits your network design.",
+      "content_url": "https://www.digitaledgedc.com/resources/interconnection/data-center-cross-connect/"
+    },
+    {
+      "id": "2026-09-04-2da8c2",
+      "title": "T5 spins out construction arm, sells operations business to Salute",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 35,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "operations",
+        "construction",
+        "ma"
+      ],
+      "published_at": "2026-09-04T00:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/t5-spins-out-construction-arm-sells-operations-biz-to-salute/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "T5 Data Centers",
+        "Salute"
+      ],
+      "content": "T5 Data Centers has spun out its construction arm into an independent data center-focused general contractor business and sold its operations unit to Salute.\n\n## T5 Operations sold to Salute\n\nAnnounced this week, Salute has entered into a definitive agreement to acquire T5 Operations. Terms of the deal were not shared.\n\nUpon closure, the acquisition will expand Salute’s operational footprint to more than 15GW+ of data center capacity under management across some 150 markets globally, while increasing the number of worldwide staff to more than 3,800 employees.\n\n“Salute’s announcement of the deal to acquire the T5 Operations business is exciting for our employees, because it recognizes the strength of our services model and our focus on operational excellence,” added David Mettler, EVP of T5 Operations, who will join the Salute executive leadership team. “For our customers, this represents the right partnership to meet their support needs across the full data center lifecycle. I’m looking forward to bringing T5’s owner mindset to the Salute team and be part of Salute’s industry-leading portfolio of global data center solutions.”\n\nFounded in 2013, Salute (formerly Salute Mission Critical) is a provider of integrated lifecycle services, such as facility operations and management, quality assurance, technical commissioning, and retrofitting services to data center owners.\n\n“This latest deal is a significant step in our growth journey, one that’s fueled by demand for AI/HPC facilities across the world,” said Erich Sanchack, CEO of Salute. “We are highly aware that this growth brings with it significant responsibility. As a services provider developing a highly skilled workforce, we are citizens of the communities in which data centers operate, committed not only to meeting demand from customers, but to leaving a positive legacy. Finding companies that share our vision and our values is hugely important to us, and with the team at T5, we are confident we have found exactly that.”\n\n“Joining Salute creates an opportunity to build on what our Operations team has already established over 12 years, while giving our customers and employees access to the resources and reach of a global data center operations platform as our industry continues to experience unprecedented growth,” added Pete Marin, CEO, T5 Data Centers, who will join the Salute board as part of the acquisition.\n\nNew Mountain Capital acquired a majority stake in Salute in 2024 from LLR Partners, which still has a minority investment in the company. In January 2025, Salute acquired data center solutions and strategic advisory service provider Keysource in its first deal since being taken over by New Mountain, followed by Advanced Data Center Consulting Group in March and engineering consulting firm Northshore in November the same year.\n\n## T5 spins out T5 Construction\n\nAt the same time, T5 Construction has rebranded to EverOn Data Center Services, an independent data center construction company dedicated exclusively to delivering mission-critical digital infrastructure.\n\nOriginally established within T5 Data Centers, the company said the EverOn DCS construction business has grown from $87 million in revenue in 2021 to $1.7 billion in 2025, with 83 percent coming from third-party construction projects.\n\nEverOn’s team has delivered more than 260 completed construction projects and more than 12 million square feet of delivered data center space across the United States.\n\n“Establishing EverOn as an independent company provides the dedicated focus, agility, and scale needed to support this rapidly growing third-party customer base and meet the industry’s next generation of demand,” T5 said.\n\nThe renamed general contractor can deliver ground-up campuses, data hall fit-outs, retrofits and upgrades, design-build delivery, LLE equipment procurement, commissioning oversight, QA/QC, owner advisement, and preconstruction services.\n\n“Today’s announcement is about positioning our business and our customers for the future,” said Tom Mertz, formerly T5 Services COO and president, and now president and CEO of EverOn Data Center Services. “While our name is changing, what customers rely on is not. EverOn gives us the opportunity to focus entirely on helping customers build increasingly complex digital infrastructure while creating the flexibility to grow alongside the industry we serve.”\n\nFounded in 2008, T5 develops build-to-suit data centers across the US. Backed by QuadReal, it has a presence across Chicago, Illinois; Atlanta, Georgia; Los Angeles, California; Hillsboro, Oregon; Dallas, Texas; Charlotte, North Carolina; and beyond. The company recently announced plans to develop multiple gigawatt-scale campuses, starting with a site outside Chicago, Illinois.\n\nT5 announced an organizational change at the turn of the year, splitting into T5 Services (including T5 Construction and T5 Operations) and T5 Properties, with the latter managing the company’s data center assets and developments.\n\nSimpson Thacher & Bartlett LLP served as legal counsel to Salute. Lazard served as exclusive financial advisor and King & Spalding LLP served as legal counsel to T5 Operations, LLC.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/t5-spins-out-construction-arm-sells-operations-biz-to-salute/"
+    },
+    {
+      "id": "2026-09-04-3b81ae",
+      "title": "PLDT's Vitro REIT signs SG.GS as colocation customer in the Philippines",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "colocation",
+        "investment",
+        "reit"
+      ],
+      "published_at": "2026-09-04T00:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/pldts-vitro-reit-signs-sggs-as-colocation-customer-in-the-philippines/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "PLDT",
+        "Vitro",
+        "SG.GS"
+      ],
+      "content": "Philippine telecommunications firm PLDT Group subsidiaries Vitro REIT and PLDT Global have signed a colocation deal with Singaporean telco carrier SG.GS Pte. to expand network interconnection across the Philippines and support greater regional connectivity across the APAC region.\n\n![vitro-top-off-2](https://media.datacenterdynamics.com/media/images/vitro-top-off-2.width-358.jpg) \n\nUnder the terms of the deal, SG.GS will deploy networking systems across Vitro’s carrier-neutral facilities. The companies claim that this will facilitate better interconnection with carriers, cloud providers, Internet service providers, and enterprises in the Philippines.\n\n“We welcome SG.GS to the Vitro ecosystem. By colocating within our carrier-neutral facilities, they gain direct access to a rich interconnection landscape - spanning global carriers, cloud providers, ISPs, and Philippine enterprises - that strengthens the Philippines’ position as a high-performance transit hub in Asia-Pacific,” Vitro assistant vice-president and sales group head Davis Yolangco said.\n\nFor Vitro, the deal is expected to significantly expand its interconnection options for organizations operating in the Southeast Asian country. According to the companies, SG.GS has more than 200 points of presence across more than 30 markets and connectivity to more than 30 subsea cable systems.\n\nAs a result, PLDT claimed that the partnership would improve latency, strengthen redundancy, and create additional pathways for cloud, content, and enterprise workloads.\n\n“At PLDT Global, we see connectivity as a key enabler of economic growth and digital transformation. Our collaboration with Vitro and SG.GS demonstrates how strategic infrastructure partnerships can strengthen the Philippines’ position as a regional digital gateway - bringing together global networks, cloud platforms, and enterprises through resilient, scalable, and world-class connectivity,” PLDT global COO Edith Gomez-Cudiamat said.\n\nSG.GS was established in 2000 and has headquarters in Singapore and London. It is a global wholesale telco carrier that provides custom network, cloud connectivity, and internet infrastructure solutions.\n\nPLDT formed Vitro REIT earlier this year. REITs are companies that own, and often operate, income-producing real estate such as data centers. They act as a fund for investors, generating revenue via leasing space and collecting rent on their properties. According to reporting at the time, Vitro’s will total 24MW of capacity across its Tier II and III quality data centers, located across the Philippines.\n\nVitro was established as a subsidiary of ePLDT in 2000, which in turn is the ICT subsidiary of PLDT. As well as Santa Rosa, the company has ten other operational data centers with a combined IT capacity of 63MW, with cable landing stations in Deat, Digos, La Union, and Batangas.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/pldts-vitro-reit-signs-sggs-as-colocation-customer-in-the-philippines/"
+    },
+    {
+      "id": "2026-09-04-a7f2a2",
+      "title": "Microsoft reveals Azure earnings for the first time, adjusts financial reporting practices",
+      "summary": "Microsoft has disclosed standalone Azure revenue figures for the first time, breaking the cloud platform out from its previously bundled reporting segments. The change is part of a broader overhaul of the company's financial reporting structure aimed at giving investors clearer visibility into its cloud and AI businesses.",
+      "why_it_matters": "The disclosure gives the industry its first precise read on Azure's scale and growth, sharpening competitive comparisons with AWS and Google Cloud at a moment when AI workloads are driving cloud economics. Greater transparency also lets data centre operators and investors better calibrate demand expectations from one of the world's largest capacity buyers.",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "hyperscale",
+        "cloud",
+        "earnings"
+      ],
+      "published_at": "2026-09-04T00:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/microsoft-reveals-azure-earnings-for-the-first-time-adjusts-financial-reporting-practices/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "content": "Microsoft has adjusted its financial reporting practices, revealing its Azure-specific income for the first time.\n\nIn a presentation shared with investors, the company shows that revenue specifically attached to its Azure cloud offerings brought in $29.42bn in the most recent quarter, and $101.94bn for the full fiscal year of 2026.\n\nThis was up from $20.7bn and $72.6bn the year prior, respectively.\n\nThe company's earnings results were originally posted in late July, during which its intelligent cloud division, which included Azure, posted $39.3bn.\n\nComparatively, Amazon Web Services (AWS) brought in $42.2bn for the most recent quarter, while Google's cloud revenue was $24.8bn.\n\nThe company will, moving forward, report earnings split into two overarching segments: Agents and Infra, which will include apps, agents, Microsoft 365, and Azure, and Devices and Consumer, which includes search, advertising, Xbox, and Windows.\n\nThe company says that investors will have \"full transparency of quarterly revenue across each of our key businesses\" from 2027 onwards.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/microsoft-reveals-azure-earnings-for-the-first-time-adjusts-financial-reporting-practices/"
+    },
+    {
+      "id": "2026-09-04-946048",
+      "title": "Flex acquires data center power conversion manufacturer EPC Power in $4.4bn deal",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "power",
+        "ma",
+        "supply-chain"
+      ],
+      "published_at": "2026-09-04T00:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/flex-acquires-data-center-power-conversion-manufacturer-epc-power-in-44bn-deal/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Flex",
+        "EPC Power"
+      ],
+      "content": "Singaporean manufacturing firm Flex has agreed to acquire EPC Power, a North American designer and manufacturer of power conversion equipment for data centers, energy storage, and microgrids, for a reported $4.4 billion.\n\n![EPC POwer](https://media.datacenterdynamics.com/media/images/EPC_POwer.width-358.png) \n\nThe deal, which is subject to regulatory approvals, is expected to close sometime in Q4 of this year. Once complete, EPC will operate as a business within Flex's Cloud and Power Infrastructure segment, building on an existing collaboration between the two companies.\n\nEPC is a developer of 800V data center power architectures, including digital rectifiers and solid-state transformers, aimed at higher-density AI infrastructure. Flex said the acquisition extends its power and thermal management portfolio into what it calls an integrated \"grid-to-chip\" offering.\n\nFounded in 2021, EPC Power has been backed by Goldman Sachs Alternatives and Cleanhill Partners, which have served as its controlling shareholders.\n\nCommenting on the acquisition, Jim Fusaro, CEO of EPC, said: \"What we accomplished over the last four years demonstrates the power of strong partnerships and a shared commitment to innovation. Together with Goldman Sachs Alternatives and Cleanhill Partners, EPC Power emerged as a US technology leader in power conversion solutions that enable the next generation of data centers, AI computing, and grid modernization. We expanded our domestic manufacturing footprint nearly tenfold, strengthening America's industrial base and reinforcing the critical role of US innovation in powering the future economy. This is only the beginning of what EPC Power can accomplish.\"\n\nFlex, headquartered in Singapore, is a contract manufacturer supporting customers across a range of industries, including data center power and cooling infrastructure. The company has separately announced plans to spin off its Cloud and Power Infrastructure portfolio, under which EPC will operate.\n\nGoldman Sachs & Co. LLC and J.P. Morgan Securities LLC advised EPC Power and its shareholders on the transaction, with Vinson & Elkins LLP acting as legal counsel.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/flex-acquires-data-center-power-conversion-manufacturer-epc-power-in-44bn-deal/"
+    },
+    {
+      "id": "2026-09-04-ec5bbc",
+      "title": "Meta's $1.2bn data center in Kuna, Idaho, goes live",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 40,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "hyperscale",
+        "capacity",
+        "investment"
+      ],
+      "published_at": "2026-09-04T00:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/metas-12bn-data-center-in-kuna-idaho-goes-live/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "content": "Meta's data center in Kuna, Idaho, is now officially serving traffic.\n\nThe company first announced plans for the data center campus in Kuna in Ada County in early 2022.\n\nMeta originally aimed to invest $800 million in developing a 960,000 sq ft (89,187 sqm) facility, but the facility was one of around a dozen sites temporarily paused as part of a design re-scoping to accommodate AI infrastructure and liquid cooling.\n\n![FB Meta Kuna Idaho.jpg](https://media.datacenterdynamics.com/media/images/FB_Meta_Kuna_Idaho.width-358.jpg) \n\nThe company's vice president of data center development and strategy, Gary Demasi, revealed that the data center had launched in a LinkedIn post.\n\nDemasi wrote: \"Meta's Kuna Data Center is officially serving traffic — our second AI-optimized facility in our fleet, now online in Idaho, representing an overall investment of $1.2 billion.\"\n\nHe noted that the site is using a closed-loop, liquid-cooled system that \"uses zero water for most of the year,\" and the company has invested more than $100 million in a dedicated water and wastewater system for the City of Kuna.\n\nMeta has matched the electricity use of the data center with 100 percent clean and renewable energy, having added 645MW of new renewable energy to Ada County.\n\nDemasi added: \"Building AI infrastructure at this scale is a long-term commitment, and we do it in partnership with the places that we call home — planning years ahead with utilities, funding the systems our facilities depend on, and investing in schools and organizations that will outlast any single building. A data center should leave a community measurably stronger than it found it. That's the standard we're holding ourselves to here in Kuna, and across our communities around the world.\"\n\nMeta launched its first AI-optimized data center in July of this year. That facility was located in Temple, Texas, and was similarly one of the sites that saw construction paused in 2022.\n\nKuna is located in the Boise metropolitan area. Boise has a relatively small data center market. Diode Ventures filed for a project in the area in February 2025.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/metas-12bn-data-center-in-kuna-idaho-goes-live/"
+    },
+    {
+      "id": "2026-09-04-c3ffda",
+      "title": "Broadcom slams AI silicon-fueled Q3, promises double-double on the way",
+      "summary": "Broadcom reported a strong fiscal third quarter, with growth driven by surging demand for its custom AI accelerators and networking silicon used in data centre build-outs. The company told investors it expects AI-related revenue to continue doubling, reiterating ambitious growth targets for the coming quarters.",
+      "why_it_matters": "Broadcom's results confirm that hyperscalers are increasingly complementing Nvidia GPUs with custom silicon, a shift that reshapes the AI infrastructure supply chain. Sustained doubling of AI chip revenue would mean continued heavy data centre spending by its large cloud customers—directly feeding demand for capacity, power, and networking across APAC and beyond.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "earnings"
+      ],
+      "published_at": "2026-09-04T00:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/broadcom-slams-ai-silicon-fueled-q3-promises-double-double-on-the-way/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Broadcom"
+      ],
+      "content": "Broadcom posted strong, silicon-fueled results for the third quarter of fiscal 2026 – and forecast more to come – results that overshadowed robust earnings from the vendor’s VMware-led Infrastructure Software business.\n\nBroadcom’s overall Q3 revenues surged 86 percent Year-on-Year (YoY) to $29.6 billion, led by an outsized 127 percent increase in revenues from its Semiconductor Solutions division that totaled $20.8 billion for the quarter. Broadcom’s Infrastructure Software operations posted a more modest 29 percent YoY increase to nearly $8.8 billion in revenues, with that segment’s influence on Broadcom’s overall revenues plummeting from 43 percent last year to just 30 percent this year.\n\nOverall net income on a generally accepted accounting principles (GAAP) basis surged more than 200 percent to nearly $13.1 billion for the quarter, with Broadcom generating $14.2 billion in cash over that three-month period and laying out just $500 million in capex.\n\nBroadcom’s revenue run continues to take advantage of the AI train, with CEO Hock Tan stating the vendor expects AI networking revenues to double in fiscal 2027 to $115 billion before doubling again in fiscal 2028 to $230 billion.\n\n![Broadcom CEO Hock Tan Explore 2025](https://media.datacenterdynamics.com/media/images/Hock-Tan-VMware-Explore-2025-General-Session-W_3xDArqz.width-358.jpg) \n\n“We have secured the supply to meet this outlook,” Tan told investors during the earnings call. “This AI revenue guidance through [2028] is being provided to give you the trajectory of our growth, and that demand for compute continues to be extremely strong. As a result, I have to say we are very much on target to exceed $30 in earnings per share in fiscal 2028.”\n\nTan fanned that enthusiasm by laying out ongoing AI data center projects, including the recent expansion of a deal with Google to develop and supply future Tensor Processing Units (TPUs) and AI networking gear; work with Anthropic that includes the upcoming one-gigawatt (1GW) Ironwood, another five-gigawatts of TPU Version 8i set for fiscal 2027, and “clear line of sight to deliver another incremental 10 gigawatts.”\n\n“Even as we expect Google to grow for us, Anthropic is on track to become our largest XPU customer in 2027, and sustain that in 2028,” Tan added.\n\nTan also noted that Broadcom’s work with OpenAI on its AI data movement-optimized “Jalapeño” chip was also on track for a planned deployment of 1.3 gigawatts in 2027.\n\n“Together with OpenAI, we are deep in development of the next-generation XPU beyond Jalapeño, which is approaching tape-out in 2028,” Tan said. “We have line of sight for OpenAI to deploy over five gigawatts of Jalapeño and its successor generation of XPU, which would make OpenAI our second largest XPU customer.”\n\nTan also turned aside investor concerns over supply chain challenges, stating that Broadcom’s forecasts were “conservative” and that demand was continuing to outpace supply.\n\n“We have secured supply, and we think it's the right number to put it to [$115 billion], and if times, if circumstances change and our ability to scale more supply chain, of course, we will uplift, but at this point that's our best outlook,” Tan said. “The same thinking applies to 2028, when we give you that outlook of $230 billion, this is real demand we believe based on what's available, what data center sites, locations are ready [in] 2028 with respect to our customers, the size of what we have and against the supply chain we have in leading-edge wafers, substrates, and [high-bandwidth memory]. … So this is, again, a carefully structured outlook that we believe we can achieve.”\n\nBroadcom’s networking business was also lauded, with Tan touting the vendor as the “leader in AI networking,” backed by its 100 Tbps Tomahawk 6 and recent tape-out of its 200 Tb/s Tomahawk 7. The vendor also continues to push its optical digital signal processors (DSPs), electro-absorption modulated lasers (EMLs) and continuous-wave (CW) indium phosphide (InP) lasers.\n\n“We continue to invest and invest heavily to provide the broadest and most leading-edge AI portfolio,” Tan added. “In fact, our AI networking revenue is expected to grow just as fast as XPUs over the next few years, reflecting our excellent progress with this key group of [large language model] customers.”\n\n## Broadcom has other interests?\n\nThat AI-fueled impact was further highlighted by Broadcom’s non-AI semiconductor business posting a modest five percent YoY increase in revenues to $4.2 billion for the quarter, results that were flat sequentially. Tan noted that the segment is forecast to post a similar five percent YoY increase during the next quarter.\n\nTan provided just a passing update on the VMware-linked Infrastructure Software business, claiming it was running at a 15 percent annual recurring revenue (ARR) growth level – though actual revenues are expected to slip slightly in the upcoming quarter to $8.7 billion – and that VMware’s recently launched Private AI Cloud platform would help tap into growing “enterprise consumption of AI” that is “opening a new opportunity for our Infrastructure Software business.”",
+      "content_url": "https://www.datacenterdynamics.com/en/news/broadcom-slams-ai-silicon-fueled-q3-promises-double-double-on-the-way/"
+    },
+    {
+      "id": "2026-09-04-f1bbe3",
+      "title": "Nscale signs $3.5bn compute agreement with robotics company Figure",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "compute",
+        "investment"
+      ],
+      "published_at": "2026-09-04T00:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/nscale-signs-35bn-compute-agreement-with-robotics-company-figure/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Nscale",
+        "Figure"
+      ],
+      "content": "Neocloud Nscale has signed a multi-year agreement with humanoid robotics company Figure.\n\nThe agreement will see Nscale deploying up to 100,000 Nvidia Vera Rubin GPUs for Figure at its data center in Barstow, Texas.\n\n![Nscale](https://media.datacenterdynamics.com/media/images/6a996c9daa69ccc1a7cb4771_Newsroom_Templates_23.width-358.png) \n\nNscale's Barstow data center is leased from Bitcoin miner Ionic Digital. It is located at 3013 FM 516, and has 234MW of capacity. Nscale is also deploying AI infrastructure for Microsoft at the site.\n\nThe contract with Figure has an initial value of $3.5 billion, with the intent to scale to more than $6 billion over time. Nscale will become a shareholder in Figure with a \"strategic investment,\" and will be Figure's preferred compute provider.\n\nFigure will use Nscale's compute to train its AI model, Helix.\n\n\"We’re excited to partner with Figure as physical intelligence becomes AI's next frontier,” said Josh Payne, CEO and founder of Nscale. “We've seen incredible growth with inference and agentic AI, and Figure is pushing the boundaries of AI even further. We're proud to be enabling the future of AI robotics together.\"\n\n“Humanoid robots extend physical AI into the world designed for people - opening a major new industry,” added Jensen Huang, founder and CEO of Nvidia. “Nscale and Figure have activated the robotics flywheel: training Figure’s models on Nvidia Vera Rubin through Nscale’s AI cloud, validating them in Nvidia Isaac Sim, and deploying them on Nvidia GPUs in Figure’s robots. This is the physical AI flywheel that will accelerate the path from models to robots in the world.”\n\nFigure is developing autonomous general-purpose humanoid robots, with the aim of achieving human-level intelligence to enable the robots to perform a variety of tasks in the industrial and home markets.\n\nNscale is nearing an initial public offering in the US, from which it is reportedly aiming to raise $3bn.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/nscale-signs-35bn-compute-agreement-with-robotics-company-figure/"
+    },
+    {
+      "id": "2026-09-04-140af4",
+      "title": "Firmus to invest $300m in SubCo's upcoming Australia-US subsea cable",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "subsea-cable",
+        "investment",
+        "connectivity"
+      ],
+      "published_at": "2026-09-04T00:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/firmus-to-invest-300m-in-subcos-upcoming-australia-us-subsea-cable/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Firmus",
+        "SubCo"
+      ],
+      "content": "Australian AI cloud firm Firmus is investing in a subsea cable project being developed by SubCo.\n\nThe companies this week announced that Firmus would become a cornerstone customer on SubCo's upcoming APX East submarine cable system.\n\n![subco apx east](https://media.datacenterdynamics.com/media/images/subco_apx_east.width-358.jpg) \n\nFirmus will invest US$300 million to secure up to 150Tbps of dedicated capacity over 25 years on the cable.\n\nBevan Slattery, founder and co-CEO of SubCo, said: \"The connectivity requirements of AI are fundamentally reshaping demand patterns on international subsea routes. Firmus' decision to anchor capacity on APX East validates what we've been working toward – building the secure hyper-connectivity needed across the Indo-Pacific region for the next generation.\"\n\nPlans for APX East were first announced in January. The 16-fiber-pair system is set to connect Australia to the US, running from the north of Sydney in New South Wales to San Diego, California. The cable’s landing station in Australia will be at NextDC’s S1/S2 site in Sydney.\n\nAPX East is expected to be Ready for Service in Q4 2028. A Hawaii branch is to follow in Q4 2029, and a Fiji branch is also planned.\n\nTim Rosenfield, co-CEO and co-founder of Firmus, added: \"This is a 25-year investment in Australia's future. AI is fast becoming one of Australia's next major export industries, but that opportunity will only be realized if we invest in the infrastructure that underpins it.”\n\nHe continued: \"At Firmus, we're building a network of AI Factories across Australia. But building the compute is only part of the challenge. We also need to reliably connect that infrastructure to the world.\n\n\"Securing up to 150 terabits per second of dedicated capacity gives us the scale and performance to connect Australian AI infrastructure directly with the United States, ensuring the AI infrastructure we build here can reliably serve the world's leading AI-Natives.\"\n\nFounded in 2019, Firmus was initially focused on crypto and high-performance compute, specializing in immersion cooling, but today describes itself as a pure ‘AI factory’ builder. Its Project Southgate is a long-term initiative to design and deploy sovereign compute in Australia for AI training and inference, according to the company, with plans to deploy 1.6GW of capacity through to 2028. The company uses its HyperCube, a proprietary electrical and cooling system, claiming the system uses liquid cooling to remove heat more efficiently than traditional air-based systems.\n\nThe Nvidia-backed company has a small existing facility in Tasmania but is developing a 90MW data center in Launceston, a 52MW site in Wesley Vale, and a 288MW project in Bell Bay. Firmus is also partnering with CDC to roll out capacity on the mainland and targeting some 1.6GW of infrastructure by 2028.\n\nThis will be the second project Firmus and Subco have partnered on. In June, the pair announced plans for a subsea cable connecting mainland Australia to the island of Tasmania.\n\nSubCo has previously said the APX East system will be the first between Australia and the United States not requiring optical regeneration, instead capable of being single-end powered, fed across the entire system. It will be the longest such system in the world. Subsea cables traditionally require repeaters every 100km (62.1 miles) or so to boost the signal.\n\nSubCo, part of Slattery’s Soda Group, also owns the Oman Australia Cable and has capacity on the Indigo subsea cables. The company is developing the SMAP cable linking Sydney, Melbourne, Adelaide, and Perth.\n\nFirmus also has an immersion-cooled GPU deployment in an STT GDC facility in Singapore through its SMC cloud unit. The company is also deploying GPU capacity in Batam, Indonesia.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/firmus-to-invest-300m-in-subcos-upcoming-australia-us-subsea-cable/"
+    },
+    {
+      "id": "2026-09-04-e6c6a3",
+      "title": "Evolution DC signs pre-lease for first phase of Bangkok data center to unnamed hyperscaler",
+      "summary": "Evolution DC has secured a pre-lease agreement covering the entire first phase of its planned data centre facility in Bangkok, Thailand, with an unnamed hyperscale cloud customer. The commitment comes before the facility has been completed, giving the developer a contracted anchor tenant for its market entry.",
+      "why_it_matters": "A full pre-lease to a hyperscaler validates Bangkok as an emerging hub in Southeast Asia's data centre build-out, which has so far been concentrated in Singapore, Johor, and Batam. For Evolution DC, the anchor tenant de-risks financing of later phases; for the market, it signals hyperscalers are expanding capacity into Thailand earlier than many expected.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "hyperscale",
+        "colocation",
+        "capacity"
+      ],
+      "published_at": "2026-09-04T00:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/evolution-dc-signs-pre-lease-for-first-phase-of-bangkok-data-center-to-unnamed-hyperscaler/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Evolution Data Centres"
+      ],
+      "content": "Evolution Data Centres has secured a tenant for its first data center in Bangkok, Thailand.\n\nThe company this week announced that the first phase of its TH01 project in Bang Na is now contractually committed to an unnamed “tier 1 global hyperscaler” on a multi-year contract.\n\nEvolution said the next phase of development will add 40MW of IT capacity, tailored to support AI workloads.\n\n![evolution dc thailand](https://media.datacenterdynamics.com/media/images/evolution_dc_thailand.width-358.png) \n\nOn LinkedIn, Evolution CEO Darren Webb said he was “Looking forward to working with our new customer and delivering our future ambitious plans.”\n\nPlans for TH01 were first announced in June 2023. Working alongside Thai property developer Central Pattana PCL, the site was originally set to come online in 2024.\n\nOn its website, Evolution said the first 12MW phase of TH01 is sold and due online in Q4 of 2026. The second 40MW phase is due live in Q2 2027. The site is set to total 20,470 sqm (220,335 sq ft).\n\nThe company also lists plans for TH02, a 200MW, 96,800 sqm (1 million sq ft) facility set to be located in the Mueang Samut Prakan District of Bangkok. The site is due live in Q2 2027.\n\nFounded in 2021 and headquartered in Singapore, Evolution received backing from Warburg Pincus in 2022. Zero Two, a division of the Abu Dhabi sovereign wealth fund, has also invested in the firm.\n\nEvolution also has projects in the Philippines (69MW due live next year) and Vietnam (52MW planned in Ho Chi Minh City due live next year and 4.75MW already live in Hanoi).",
+      "content_url": "https://www.datacenterdynamics.com/en/news/evolution-dc-signs-pre-lease-for-first-phase-of-bangkok-data-center-to-unnamed-hyperscaler/"
+    },
+    {
+      "id": "2026-09-04-7791ee",
+      "title": "Taiwan-based Liteon purchases 25 percent stake in Polish liquid cooling firm DCX",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "cooling",
+        "liquid-cooling",
+        "investment"
+      ],
+      "published_at": "2026-09-04T00:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/taiwan-based-liteon-purchases-25-percent-stake-in-polish-liquid-cooling-firm-dcx/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Lite-On",
+        "DCX"
+      ],
+      "content": "Taiwan-based Liteon Technology has purchased a 25 percent stake in DCX Liquid Cooling Systems, a Polish liquid cooling system provider, for $176 million.\n\nDCX offers liquid cooling systems for AI and high-performance computing data centers, with expertise in coolant distribution units, facility coolant distribution units, cold plates, and immersion cooling systems.\n\n![DSC01020](https://media.datacenterdynamics.com/media/images/DSC01020_1.width-358.jpg) \n\nLiteon has experience in AI server power management, rack-level power delivery, and 800VDC power architectures.\n\nLiteon said it will leverage its partnership with DCX to expand product development, engineering innovation, manufacturing scale-up, and global go-to-market initiatives.\n\nThe companies will also jointly develop integrated power and cooling platforms for hyperscale data center customers.\n\n“AI has become a key force reshaping industries, and data center infrastructure is a critical foundation for unlocking AI’s full potential,” said Tom Soong, chairman of Liteon. “As we continue to invest in advanced technologies, this strategic investment further strengthens Liteon’s position across the AI data center value chain. Through this partnership, we look forward to advancing innovation and creating new possibilities in the rapidly expanding AI market.”\n\nMaciek Szadkowski, CTO at DCX Liquid Cooling Systems, added: “Liteon's deep expertise in power electronics, global manufacturing scale, and long-standing hyperscaler relationships make it a highly strategic partner for DCX.\n\n“We regard this alliance as both an obligation and a commitment – to deliver the best, state-of-the-art technology for our strategic partner and for the world-class customers. This partnership will accelerate our global growth and combine the strengths of both companies to deliver broad next-generation data center infrastructure solutions.”\n\nFounded in 2019, DCX is described by Liteon as a “leading innovator” in direct-to-chip and immersion liquid cooling. The company offers a range of products, from enterprise-level coolant distribution units to hyperscale-size facility-level coolant distribution systems. Its other products include cold plates, rack manifolds, and modular data center systems.\n\nLiteon was founded in 1975 in Taiwan, the first electronics company listed on Taiwan’s stock exchange. Initially manufacturing components for consumer electronics devices, including LEDs and semiconductors, Liteon has more recently established a portfolio of AI infrastructure products, including power management systems, battery backup units, racks, and other mechanical components.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/taiwan-based-liteon-purchases-25-percent-stake-in-polish-liquid-cooling-firm-dcx/"
+    },
+    {
+      "id": "2026-09-04-56394d",
+      "title": "Equinix and CPP Investments close acquisition of atNorth",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "acquisition",
+        "colocation",
+        "investment",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-04T00:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/equinix-cpp-close-acquisition-of-atnorth/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Equinix",
+        "CPP Investments",
+        "atNorth"
+      ],
+      "content": "Colocation giant Equinix and Canadian pension fund Canada Pension Plan Investment Board (CPP Investments) have closed their acquisition of European data center firm atNorth.\n\nThe companies said this week that the $4.1 billion deal had officially closed, some eight months after it was first announced.\n\n![atnorth ice03 iceland](https://media.datacenterdynamics.com/media/images/atnorth_ice03_iceland.width-358.png) \n\nPrevious owner Partners Group, on behalf of its clients, has elected to reinvest and acquire a 10 percent stake in atNorth.\n\nAs a result, CPP Investments will hold a ~51 percent controlling stake after committing $1.3bn, alongside Equinix's ~34 percent for $895 million, and Partners Group's ~10 percent via a $260m investment. The remainder will be held by atNorth’s internal stakeholders, who have chosen to roll over a \"substantial portion\" of their equity.\n\nFirst announced in February, CPP was originally set to acquire a 60 percent stake in atNorth, with Equinix taking the remaining 40 percent.\n\nThe transaction involves a financing package of $4.1bn (€3.6bn), underwritten by a group of European and Canadian lenders to support atNorth’s growth, fund the transaction, as well as the capital required to fund the expansion of the business.\n\n“The completion of this investment gives CPP Investments a controlling stake in one of the Nordics’ leading hyperscale data center platforms, and marks an important milestone in our partnership with Equinix,” said Maximilian Biagosch, senior managing director & global head of real assets, CPP Investments. “With its strong portfolio of development projects, access to renewable power and differentiated capabilities for AI and high-performance computing workloads, atNorth is well positioned to support the region’s next phase of growth. This important transaction also aligns with CPP Investments’ focus on investing in high-quality digital infrastructure businesses that can deliver long-term value for CPP contributors and beneficiaries.”\n\nAtNorth's data center footprint spans five Nordic countries, with eight operational data centers and additional projects underway across the region. The firm has sites under development in Sweden, Finland, Norway, and Denmark.\n\n\"The acquisition will strengthen our ability to support customers expanding digital and AI deployments, while increasing capacity in a region widely recognized for its advanced technology ecosystem and sustainable energy profile,\" said Regina Dahlström, managing director, Equinix Nordics. \"As AI adoption accelerates, organizations need infrastructure that brings together data, clouds, networks and inference services. Expanding our footprint helps create the interconnected hubs that enable data to move efficiently and securely across ecosystems.\"\n\nAtNorth was formed as Advania Data Centers in 2012 from three components: Skyrr, a public sector IT specialist in Iceland; Kerfi, a Swedish outfit with roots in a Nokia spin-off called Datapoint; and Hands from Norway.\n\nThe company de-merged from the Advania Group in 2017 and rebranded to atNorth in 2020. Swiss investment manager Partners Group acquired the company in December 2021.\n\nIt currently operates seven data centers across Sweden, Iceland, and Finland, with more in development in Finland, Denmark, Sweden, and Norway. Equinix said atNorth has a pipeline of data centers in operation and under construction equating to 800MW of capacity, and has a secured power bank of 1GW to energize new data centers.\n\n“Since the signing announcement earlier this year, atNorth has continued to build strong momentum, securing new hyperscale contracts and expanding our development pipeline, including a new site in Norway,” said Eyjólfur Magnús Kristinsson, CEO of atNorth. “We enter this next phase from a position of strength, with a clear strategy to continue to operate independently under the atNorth brand, while working closely with CPP Investments and Equinix. The backing of our new owners enhances our ability to scale at pace, expand capacity across the Nordics, and deepen our relationships with global enterprise and hyperscale customers.”\n\nEquinix has a footprint that includes Finland (five facilities in Helsinki) and Sweden (three across Stockholm). Buying atNorth would see Equinix enter Iceland, Denmark, and Norway.\n\nThe companies haven't said if atNorth will continue as a standalone company or be rolled into Equinix.\n\nDigital Realty was previously reported as also being in the running against Equinix to acquire atNorth.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/equinix-cpp-close-acquisition-of-atnorth/"
+    },
+    {
+      "id": "2026-09-04-b31077",
+      "title": "Crusoe signs $13bn deal with Jane Street - report",
+      "summary": "AI data centre developer Crusoe has reportedly signed a deal valued at $13 billion with quantitative trading firm Jane Street, according to media reports. Details of the arrangement—which is understood to involve financing or capacity commitments for Crusoe's AI infrastructure build-out—have not been formally disclosed by either party.",
+      "why_it_matters": "A commitment of this size from a trading firm rather than a traditional infrastructure lender underscores how unconventional capital is flooding into AI data centres as conventional financing struggles to keep pace with demand. If confirmed, the deal would rank among the largest single funding arrangements in the sector, further inflating expectations—and concerns about a bubble—around AI infrastructure spending.",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "capacity",
+        "financing"
+      ],
+      "published_at": "2026-09-04T00:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/crusoe-signs-13bn-deal-with-jane-street-report/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Crusoe",
+        "Jane Street"
+      ],
+      "content": "Quantitative trading firm Jane Street has reportedly signed a $13 billion cloud computing contract with Crusoe.\n\nCrusoe, a data center developer and cloud provider, will give Jane Street access to GPUs via its cloud platform under the agreement.\n\n![Jane Street](https://media.datacenterdynamics.com/media/images/who-we-are-header-6453f7f9180d4bb1560646bc441a.width-358.png) \n\nAs reported by Bloomberg and citing people with knowledge of the deal, the contract will run for five years.\n\nWhich data center the compute capacity will be hosted at has not been stated. Crusoe has data centers in operation or under development across the US in Texas and Wyoming, and has been linked to projects in Missouri and Virginia. The company also leases capacity in third-party data centers for its cloud platform. According to Crusoe's website, it has 13.6 million sq ft (1.26m sqm) of data centers and 4.9GW. How much of this is operational is unclear.\n\nThis would be the largest cloud contract signed by Crusoe to date. The company has previously signed major capacity deals with the likes of Oracle, Microsoft, and Meta, but those agreements are for physical data center space as opposed to use of Crusoe's cloud platform.\n\nBloomberg previously reported that Crusoe was seeking a $3bn funding round at a $30bn valuation, which the publication states has seen increased interest since the Jane Street deal.\n\nCrusoe declined to comment to Bloomberg.\n\nJane Street has seemingly been significantly expanding its compute capacity of late. The company signed a $6bn AI cloud agreement with CoreWeave in April of this year, under which it would have capacity across multiple facilities and would include Nvidia Vera Rubin hardware.\n\nIn June, reports emerged that Jane Street was even looking into establishing its own data center that could have between 100MW and 200MW of capacity.\n\nOther quantitative trading firms signing notable cloud contracts in recent months include IMC and Hudson River Trading.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/crusoe-signs-13bn-deal-with-jane-street-report/"
+    },
+    {
+      "id": "2026-09-04-c3393d",
+      "title": "Bitdeer buys 200 acres in Milam County, Texas, to expand AI and HPC data center",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "hpc",
+        "capacity",
+        "expansion"
+      ],
+      "published_at": "2026-09-04T00:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/bitdeer-buys-200-acres-in-milam-county-texas-to-expand-ai-and-hpc-data-center/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Bitdeer"
+      ],
+      "content": "Cryptominer-turned-neocloud Bitdeer has acquired part of a former aluminum plant near its data center in Milam County, Texas.\n\nThe company has paid $100 million for the 200-acre land parcel that was formerly part of an aluminum smelting plant owned by Alcoa Corporation. It said the land will be used “to support the company’s strategy to develop AI and high-performance computing (HPC) infrastructure alongside its existing operations.”\n\n![Bitdeer](https://media.datacenterdynamics.com/media/images/logo-500x500.width-358.png) \n\nIt is adjacent to its existing Rockdale data center. Bitdeer says that, across the two sites, it has access to 563MW of interconnected grid capacity in Texas, with the potential to expand it to 742MW.\n\nNasdaq-listed Bitdeer told investors: “The land acquisition strengthens Bitdeer's long-term operational control and allows the company to plan, finance and develop AI/HPC infrastructure at the sites.\n\n“The company believes its Rockdale location is well positioned to receive further power allocations over the coming years, given its existing large-load interconnection and the established transmission and substation infrastructure serving the location.”\n\nMichael G. Potter, Bitdeer’s CFO, added: “Securing outright ownership of land in Milam County reflects the disciplined approach we’re taking to expanding powered land under our control.\n\n“Rockdale is one of the best-connected locations in our portfolio, and we believe it is well positioned to receive additional power over the coming years. Owning this land gives us greater long-term certainty over our development plans, eliminates the renewal risk associated with a lease, and provides flexibility to maintain our existing Bitcoin mining operations while we develop the newly acquired property.”\n\nHe added: “It’s a continuation of the progress we’ve been making across our platform to put Bitdeer in direct control of the sites that matter most to our growth.”\n\nBitdeer Technologies Group is a cryptocurrency firm with 175,000 Bitcoin mining machines under management. It runs its AI neocloud services through a subsidiary, Bitdeer AI.\n\nThe group currently has six sites in operation, including 13MW in Washington State, 37MW in Tennessee, 570MW in Ohio, and 175MW in Tydal, Norway. In February 2025, Bitdeer acquired a 101MW gas-fired power project in Canada in a $21.7 million deal for which it aimed to develop a 99MW Bitcoin mining site. In April, the firm acquired 40MW of liquid-cooled Bitcoin mining containers from Saiheat.\n\nBitdeer has previously said the Washington and Tennessee sites, originally operated as cryptomining facilities, are in the process of being converted into AI data centers. Work to convert the Norwegian site into an AI cloud facility began in April. The company also lists plans for HPC sites in Molde, Norway, due to go live by the end of 2028. It claims its power pipeline now totals 3GW of installed and potential capacity around the world.\n\nThe Alcoa Corp aluminum plant site is a vast plot of land spanning some 33,000 acres. Smelting at the site ended in 2008, with the plant shuttered completely in 2017.\n\nSince then, various chunks of the land have been sold off to third parties. These would appear to include Japanese conglomerate SoftBank, which reportedly purchased 4,000 acres of Alcoa Corp land in June. It is not known if SoftBank intends to build a data center on the site, though its energy subsidiary SB Energy is building a data center elsewhere in Milam County, which will be leased by OpenAI as part of its Stargate network.\n\nTexas is currently operating under a pause on new data center developments, after Governor Greg Abbott instructed the state's utility provider to carry out an audit of interconnection requests currently in its queue.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/bitdeer-buys-200-acres-in-milam-county-texas-to-expand-ai-and-hpc-data-center/"
+    },
+    {
+      "id": "2026-09-04-b011e1",
+      "title": "Nvidia's Hugging Face acquisition: what now for the Chinese open models that lead its downloads?",
+      "summary": "Following Nvidia's reported acquisition of Hugging Face, questions are emerging over the future of Chinese open-weight AI models—such as those from Alibaba's Qwen and DeepSeek—that currently dominate download rankings on the platform. The deal raises the prospect of policy changes affecting how Chinese-developed models are hosted and distributed on the US-owned hub.",
+      "why_it_matters": "Hugging Face is the primary distribution channel for the open-source AI models that many APAC enterprises and developers build upon, so any restriction or deprioritization of Chinese models under Nvidia ownership would fragment the open-model ecosystem. The acquisition also tightens Nvidia's grip across the AI stack, from chips to model distribution, at a time when US-China technology tensions already complicate model access in the region.",
+      "score": 65,
+      "heat": 2,
+      "regions": [
+        "global",
+        "china"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "open-source",
+        "regulation"
+      ],
+      "published_at": "2026-09-04T00:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Tech Wire Asia",
+          "url": "https://techwireasia.com/2026/09/nvidia-hugging-face-acquisition-chinese-open-models/",
+          "type": "rss"
+        },
+        {
+          "name": "Nikkei Asia — data center search",
+          "url": "https://asia.nikkei.com/business/business-deals/nvidia-to-buy-hugging-face-for-13bn-in-big-bet-on-open-ai-models",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA",
+        "Hugging Face"
+      ],
+      "content": "- **Nvidia’s Hugging Face acquisition gives it the hub where Chinese open-weight models lead downloads.**\n- **Nvidia says every model builder stays supported, without saying who decides if that changes.**\n\nNvidia’s Hugging Face acquisition was announced on September 3, when founder and chief executive Jensen Huang said in a company blog post that Nvidia had agreed to buy the platform for US$12.93 billion. Hugging Face is the main public repository for open-weight AI models, meaning models whose parameters anyone can download, alter and run on their own hardware instead of paying to access them through a provider’s interface.\n\nNvidia said more than 18 million developers, researchers and creators use Hugging Face to share over three million models, 500,000 datasets and one million applications. It said more than 200,000 companies use the platform to discover, evaluate, customise and deploy AI.\n\n*CNBC* reported that the deal is Nvidia’s second-largest, after roughly US$20 billion for assets from chip startup Groq in December, and ahead of the almost US$7 billion Mellanox purchase in 2019. \n\nHugging Face was valued at US$4.5 billion in a US$235 million funding round in 2023, the company told *Reuters*. Huang wrote that Hugging Face co-founder Clément Delangue approached him about the company’s next chapter, which matches Delangue’s account to *CNBC* that he made contact over the summer.\n\n### Why Nvidia wants the Hugging Face acquisition\n\nThe commercial logic runs through Nvidia’s core business. Open models that companies download and run themselves still need chips underneath them, and Nvidia sells those chips regardless of which lab trained the model.\n\nNvidia has been building its position on the platform for years. It said in the blog post that it is the largest contributor of open models and data to Hugging Face, having released more than 500 models and over 250 open datasets there.\n\nHuang has also been arguing the policy case. He wrote that he recently coauthored an open letter on the importance of open weights to the AI economy. *Fortune* reported that Huang published his first post on X on July 24 to share that letter, which was signed by 25 companies including Microsoft, Meta, IBM, Dell, Palantir, Mistral AI, Hugging Face and Andreessen Horowitz, and which urged US policymakers not to impose early limits on open-weight models.\n\n### The models that lead the hub come from Asia\n\nHugging Face published its latest State of Open Models report on August 14. *Bloomberg* and *Fortune* reported that Alibaba, citing that report, said its Qwen family had passed three billion downloads in six months, against the 418 million Hugging Face recorded for Google and the 227 million for Meta in 2026. The periods are not the same, and downloads track how often developers pull a model, not how well it performs.\n\nAlibaba said it has open-sourced more than 460 Qwen models with over 300,000 derivatives built on them. *Bloomberg*reported that it pushes Qwen through its cloud business to enterprise customers in Southeast Asia and Africa, a distribution route most rivals do not have.\n\nThe lead is not Alibaba’s alone. *Reuters* reported in March that the US-China Economic and Security Review Commission had found Chinese models from Alibaba, Moonshot and MiniMax dominating usage rankings on Hugging Face and OpenRouter. The commission called China’s open-source position a “self-reinforcing competitive advantage” that lets its labs work close to the frontier despite restricted access to advanced chips.\n\nThat is the distribution layer Nvidia has bought.\n\n### What Nvidia has promised, and what it has not\n\nThe blog post addresses the neutrality question directly. Huang wrote that Hugging Face will remain open to the entire AI ecosystem, that it will keep supporting open source and open weight models from every model builder, and that it will continue to support multi-cloud and multi-accelerator work. He also wrote that “NVIDIA compute will not be required to build on or deploy through Hugging Face.”\n\nWhat the post does not say is who holds decision rights over what stays hosted, or what happens if US policy later requires changes to model availability. Nvidia is regulated on what it can sell to China, and the question of whether a US owner would face pressure over hosting Chinese models is not one the company has addressed.\n\nDelangue has taken a public position on the underlying policy. *TechCrunch* reported that he told CBS’s Face the Nation that Hugging Face used an Nvidia-modified version of a Chinese open-source model to defend itself after a cyberattack, and that in a *CNBC* interview in late July he said China was “clearly dominating” open-source AI.\n\nTeams across Asia face a narrower question than the policy fight. Hugging Face is where most of them find, compare and download open weights, and a large share of fine-tuning work starts from a Qwen or DeepSeek derivative. Nvidia says none of that changes. What it has not said is what happens if Washington decides otherwise.",
+      "content_url": "https://techwireasia.com/2026/09/nvidia-hugging-face-acquisition-chinese-open-models/"
+    },
+    {
+      "id": "2026-09-04-66d6e5",
+      "title": "Stonepeak-backed firm lures former Macquarie executive Nick O'Kane",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 40,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "people",
+        "infrastructure"
+      ],
+      "published_at": "2026-09-04T00:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/financial-services/stonepeak-backed-firm-lures-former-macquarie-executive-nick-o-kane-20260904-p60udm",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Stonepeak",
+        "Macquarie Group"
+      ],
+      "content": "Stonepeak-backed AGP Group has tapped former Macquarie executive Nick O’Kane to jointly run the company, as the global real asset manager and investor accelerates a push into energy-intensive data centres and infrastructure across the Asia-Pacific.\n\nO’Kane, 53, who was touted as a successor to Macquarie chief executive Shemara Wikramanayake before leaving the Sydney-based company in 2024, will take the reins as Singapore-based AGP’s co-chief executive alongside existing boss Ben Salmon late this month.",
+      "content_url": "https://www.afr.com/companies/financial-services/stonepeak-backed-firm-lures-former-macquarie-executive-nick-o-kane-20260904-p60udm"
+    }
+  ]
+}

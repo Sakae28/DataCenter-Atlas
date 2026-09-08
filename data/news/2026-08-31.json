@@ -1,0 +1,434 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T05:15:33Z",
+  "hot": [
+    "2026-08-31-5e2d0d",
+    "2026-08-31-caa5e1",
+    "2026-08-31-029009",
+    "2026-08-31-bac512",
+    "2026-08-31-f53ec7"
+  ],
+  "stories": [
+    {
+      "id": "2026-08-31-17d997",
+      "title": "Nvidia supplier Unimicron probed over allegedly relabeling China-made parts",
+      "summary": "Taiwanese PCB maker Unimicron, a supplier to Nvidia, is under investigation over allegations it relabelled China-made components to obscure their origin. The probe touches on compliance with restrictions around Chinese-sourced parts in sensitive supply chains.",
+      "why_it_matters": "If substantiated, the case would expose enforcement gaps in efforts to keep Chinese components out of AI hardware supply chains, potentially triggering stricter origin audits across the PCB industry. Nvidia and its other customers face supply disruption and compliance risk if Unimicron is sanctioned.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "global",
+        "china"
+      ],
+      "topics": [
+        "chips",
+        "supply-chain",
+        "ai",
+        "regulation"
+      ],
+      "published_at": "2026-08-31T05:15:33Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/spotlight/supply-chain/nvidia-supplier-unimicron-probed-over-allegedly-relabeling-china-made-parts",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA",
+        "Unimicron"
+      ],
+      "content": "TAIPEI -- Taiwanese prosecutors said they are investigating Unimicron, a key supplier to Nvidia and Intel, over allegations that the leading printed circuit board maker falsely relabeled China-made parts as originating in Taiwan, potentially violating laws against origin laundering.",
+      "content_url": "https://asia.nikkei.com/spotlight/supply-chain/nvidia-supplier-unimicron-probed-over-allegedly-relabeling-china-made-parts"
+    },
+    {
+      "id": "2026-08-31-295d99",
+      "title": "SoftBank's plans for largest US gas power plant meet mixed reception",
+      "summary": "SoftBank's proposal to build what would be the largest gas-fired power plant in the United States has drawn a mixed response from stakeholders. The project is tied to the conglomerate's push to secure energy for AI and data centre infrastructure.",
+      "why_it_matters": "The reception highlights the tension between AI's enormous power needs and decarbonisation commitments, a debate that will shape permitting and financing for energy projects worldwide. For APAC markets watching US precedent, it signals that gas may remain a pragmatic bridge fuel for AI-era power demand despite climate concerns.",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "global"
+      ],
+      "topics": [
+        "power",
+        "ai",
+        "investment",
+        "energy"
+      ],
+      "published_at": "2026-08-31T05:15:33Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/energy/softbank-s-plans-for-largest-us-gas-power-plant-meet-mixed-reception",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "SoftBank"
+      ],
+      "content": "WAVERLY, Ohio -- Scores of residents of an Ohio village that will host the largest natural gas-fired power plant in the U.S. have shared mixed feelings about the SoftBank Group-backed project at a public meeting.\n\nEnergy\n# SoftBank's plans for largest US gas power plant meet mixed reception\n\nResidents seek details on giant Ohio facility set to power AI data center\n\nA majority of those who attended the public information meeting were more curious than opposed, expressing ambivalence about the 770-acre project. (Photo by Pak Yiu)",
+      "content_url": "https://asia.nikkei.com/business/energy/softbank-s-plans-for-largest-us-gas-power-plant-meet-mixed-reception"
+    },
+    {
+      "id": "2026-08-31-349f2f",
+      "title": "Singapore Launches Liquid Cooling Standard for Data Centres in Tropical Climate",
+      "summary": "Singapore has introduced a liquid cooling standard tailored for data centres operating in tropical climates, addressing the higher ambient temperatures and humidity that complicate direct-to-chip and immersion cooling deployments. The standard gives operators a reference framework as AI workloads push rack densities beyond what air cooling can handle.",
+      "why_it_matters": "A codified standard reduces deployment risk and engineering guesswork for operators adopting liquid cooling in hot, humid conditions across Southeast Asia. It also positions Singapore as the reference market for tropical AI infrastructure, influencing procurement and design decisions regionwide.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "cooling",
+        "regulation",
+        "standards",
+        "sustainability"
+      ],
+      "published_at": "2026-08-31T05:15:33Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/singapore-launches-liquid-cooling-standard-data-centres-tropical-climate",
+          "type": "html-list"
+        }
+      ],
+      "content": "It accounts for the challenges presented by high temperatures and humidity, such as equipment corrosion\n\n[SINGAPORE] Singapore has launched a new standard for data centres on adopting liquid cooling technologies in tropical areas, as demand for artificial intelligence workloads grows across South-east Asia.\n\nThe move follows the Republic’s latest award of 200 megawatts in new data capacity, and comes amid growing concerns about these facilities’ large energy and water consumption.\n\nThe new standard – dubbed the Singapore Standard (SS) 726 – builds on existing international standards for liquid cooling, while accounting for operational conditions in tropical climates.\n\nIt also recommends best practices on measuring and optimising water use, said the Infocomm Media Development Authority (IMDA) and Enterprise Singapore (EnterpriseSG) in a Thursday (Aug 27) statement.\n\nBoth agencies developed SS 726 through the Singapore Standards Council, in consultation with industry players and experts.\n\n## Design, deploy, integrate\n\nUnlike traditional air cooling, liquid cooling uses fluids to transfer heat from hardware chips, reducing energy consumption at the data centre level by more than 30 per cent.\n\n“However, tropical conditions such as high temperatures and humidity present additional challenges, including equipment corrosion, which can affect cooling efficiency and reliability,” IMDA and EnterpriseSG noted.\n\nThe standard addresses these issues with technical guidelines to design and deploy liquid cooling systems, manage potential risks, and integrate liquid cooling with existing air-cooled data centres.\n\nIMDA deputy CEO Aileen Chia said that liquid cooling is “increasingly important to support the higher power densities required for AI and other advanced computing workloads”.\n\nSEE ALSO\n\nThe authorities will continue to work with partners to “push the boundaries for data centre energy efficiency”, she added.\n\nAs part of a move towards green data centres, Singapore also previously launched the Tropical Data Centre standard and the Energy Efficiency of Data Centre IT Equipment standard.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.\n\n## TRENDING NOW\n\nAsia-Pacific aviation: is up really the only way?\n\nCan capital trust Myanmar again?\n\nRussia’s ‘pivot to Asia’ takes a turn as it prioritises ties with isolated regimes over bigger economies\n\nE-commerce is killing ‘real’ commerce, says China’s beverage king Zhong Shanshan",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/singapore-launches-liquid-cooling-standard-data-centres-tropical-climate"
+    },
+    {
+      "id": "2026-08-31-029009",
+      "title": "Singapore Plays Premium Data Centre Game as Johor, Batam Take on Scale",
+      "summary": "As Johor and Batam absorb hyperscale demand with cheaper land and power, Singapore is repositioning itself as the premium tier of the region's data centre market, focusing on high-value, low-latency, and compliance-sensitive workloads. Cross-border spillover is reshaping the metro's role from volume hub to quality anchor.",
+      "why_it_matters": "Investors and operators must now treat Singapore, Johor, and Batam as a single interconnected market with tiered pricing rather than competing hubs. Enterprise customers gain more siting options, while Singapore's higher costs push latency-tolerant workloads across the border.",
+      "score": 88,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "capacity",
+        "hyperscale",
+        "investment",
+        "competition"
+      ],
+      "published_at": "2026-08-31T05:15:33Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/singapore-plays-premium-data-centre-game-johor-batam-take-scale",
+          "type": "html-list"
+        }
+      ],
+      "content": "With land and power at a premium, the Republic homes in on workloads with stronger reasons to be hosted on its shores\n\n[SINGAPORE] Singapore is carving out a premium role in the region’s data centre boom, prioritising higher-value and resource-efficient workloads rather than competing with neighbouring Johor and Batam on capacity, analysts said.\n\nWith land and power at a premium, the Republic is focusing on workloads that have stronger reasons to be hosted on its shores, including those driven by data sovereignty needs or latency-sensitive applications.\n\nBut this positioning comes at a price.\n\n## TRENDING NOW\n\nAsia-Pacific aviation: is up really the only way?\n\nRussia’s ‘pivot to Asia’ takes a turn as it prioritises ties with isolated regimes over bigger economies\n\nWhy disciplined stewardship matters when managing wealth in uncertain markets\n\nMore than 15,000 sign up for national accounting body’s AI programme in two months",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/singapore-plays-premium-data-centre-game-johor-batam-take-scale"
+    },
+    {
+      "id": "2026-08-31-bac512",
+      "title": "Singapore's New Data Centres Must Use Renewables. Can They Overcome the Hurdles?",
+      "summary": "Singapore requires new data centre capacity to run on renewable energy, but operators face obstacles including the city-state's lack of domestic renewable resources, reliance on regional power imports, and the complexity of credible renewable energy certificates. The article examines whether green power procurement can scale fast enough to match permitted builds.",
+      "why_it_matters": "The renewables mandate raises costs and lengthens timelines for every new facility approved in Singapore, directly affecting operators' project economics. It also accelerates cross-border power deals and grid interconnection projects that will reshape Southeast Asia's energy trade.",
+      "score": 88,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "regulation",
+        "renewables",
+        "singapore"
+      ],
+      "published_at": "2026-08-31T05:15:33Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/opinion-features/singapores-new-data-centres-must-use-renewables-can-they-overcome-hurdles",
+          "type": "html-list"
+        }
+      ],
+      "content": "The upcoming facilities on Jurong Island may be small in capacity, but have a chance to test new frontiers\n\n[SINGAPORE] The latest crop of data-centre operators awarded capacity in Singapore face a crucial test: whether they can break existing barriers to clean energy adoption – from price uncertainty to supply bottlenecks – and pave the way for the rest of the industry.\n\nOn Aug 21, Singapore awarded 200 megawatts (MW) of data-centre capacity to four operators: 50 MW each to Equinix, Digital Realty, Keppel Data Centres and ST Telemedia Global Data Centres for new facilities on Jurong Island.\n\nThis was part of Singapore’s second Data Centre-Call For Application tender (DC-CFA2), which stipulated that facilities must be at least 50 per cent powered by “eligible green energy pathways”.\n\n## TRENDING NOW\n\nAsia-Pacific aviation: is up really the only way?\n\nRussia’s ‘pivot to Asia’ takes a turn as it prioritises ties with isolated regimes over bigger economies\n\nWhy disciplined stewardship matters when managing wealth in uncertain markets\n\nMore than 15,000 sign up for national accounting body’s AI programme in two months",
+      "content_url": "https://www.businesstimes.com.sg/opinion-features/singapores-new-data-centres-must-use-renewables-can-they-overcome-hurdles"
+    },
+    {
+      "id": "2026-08-31-4b93ce",
+      "title": "Data Centres Expected to Add Pressure on Singapore's Energy Supply: Survey",
+      "summary": "A new survey of energy stakeholders indicates data centres are expected to place growing strain on Singapore's power supply as AI-driven demand accelerates. Respondents flagged grid capacity and generation constraints as mounting concerns for the city-state's energy planners.",
+      "why_it_matters": "Rising concern among energy professionals adds pressure on regulators to tighten capacity approvals and efficiency mandates further. For operators, it signals that power availability — not land or capital — will be the binding constraint on Singapore growth.",
+      "score": 78,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "energy",
+        "capacity",
+        "singapore"
+      ],
+      "published_at": "2026-08-31T05:15:33Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/data-centres-expected-add-pressure-singapores-energy-supply-survey",
+          "type": "html-list"
+        }
+      ],
+      "content": "It also found that the energy industry is optimistic about AI adoption, but faces cost and data quality challenges.\n\n[SINGAPORE] Singapore’s data centre growth is expected to add pressure on the Republic’s energy supply, while boosting appetite for energy storage solutions and grid upgrades, a new industry survey showed.\n\nOf 100 energy sector professionals polled across South-east Asia, nearly 45 per cent cited “increased pressure on energy supply and infrastructure” as the biggest impact of data centre growth on Singapore’s energy sector by 2030.\n\nAnother 31 per cent expect the biggest impact to be increased demand for energy storage and grid upgrades.\n\nThese were among the key findings of this year’s edition of the State of the Energy Transition survey, conducted annually by the Sustainable Energy Association of Singapore (Seas).\n\nThe industry is watching if data centres’ energy demand will impact electricity prices, as well as whether infrastructure development is keeping pace, Seas’ executive director Kavita Gandhi told *The Business Times*.\n\nShe highlighted that the supply of clean energy “is not coming at the pace at which the data centres are being built up”.\n\nOf the survey’s respondents, only 13 per cent cited greater renewable energy deployment as the key impact of data centre growth.\n\nThis is even though Singapore is pushing for data centres to go green. Its latest allocation of data centre capacity mandates that at least 50 per cent of the allocated capacity should be powered by green energy sources – such as vertical solar, biomethane or green hydrogen.\n\nWhile data centres have huge potential to drive clean energy adoption, there is “a little bit of pessimism” around doing so, said Gandhi.\n\nSEE ALSO\n\nSeas had previously released a white paper flagging the challenges, such as opacity around project evaluation methods and how energy procurement mechanisms have not evolved to suit green sources.\n\n“There’s a lot of bilateral discussion between the data centres and the renewable energy developers. We had brought up some of the areas where there were uncertainties in the white paper, and I think it has still been status quo,” she said.\n\n## AI in energy sector\n\nSeparately, the survey found the energy industry is optimistic about AI adoption, but faces cost and data quality challenges.\n\nSome 57 per cent of respondents said that AI will be “significant” in accelerating Singapore’s energy transition over the next five years.\n\nOver 35 per cent said that their organisations are running AI pilot projects, while another third indicated that their organisations are exploring opportunities.\n\nHowever, almost 60 per cent cited data quality and availability, alongside implementation cost, as the biggest barriers.\n\nGandhi noted that AI has significant use cases in energy; for instance, it can improve the yield of solar power systems.\n\n“(Previously), you could not see exactly which were the panels that were malfunctioning or was the system delivering the yield that it had promised… You can track a lot more, and every extra kilowatt that you can get is money,” she said.\n\nAI can also boost energy efficiency. For instance, it can assist with load shifting, where electricity consumption is shifted to periods with relatively lower demand.\n\nHowever, the availability for training data for AI is a challenge, due to the niche and technical nature of clean energy, Gandhi noted.\n\n## Asean Power Grid in focus\n\nThe survey also looked into the impact of this year’s Middle East conflict on business sentiment. Of the respondents, 35 per cent said that the war has affected their business “moderately”, while 31 per cent said it has done so “slightly”.\n\nThe biggest impacts include delayed investment decisions and a greater interest in regional or local solutions.\n\n“Everybody wants to wait and watch, especially if you’re taking a big decision in terms of how you’re going to procure your clean energy,” Gandhi noted.\n\nBut with the greater interest in regional solutions, she is optimistic about the development of the Asean Power Grid (APG) – the effort to link up member states’ power systems for electricity trade by 2045.\n\nThis is especially with Singapore taking up the Asean chairmanship in 2027.\n\nOver 60 per cent of respondents believe that the APG will expand bilateral and sub-regional power trading arrangements, but that a fully-integrated regional grid will remain some way off.\n\nAnother 24 per cent are more optimistic, expecting significant cross-border power trading within the next decade.\n\nGandhi believes that the “economic imperative” for the APG has grown, especially as each country vies to meet its own climate goals. The trade of renewable energy certificates also opens up new opportunities.\n\n“It’s a whole new industry that’s going to be developed around this. So I think now it will not just be talk. I think there will be action,” she said.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.\n\n## TRENDING NOW\n\nAsia-Pacific aviation: is up really the only way?\n\nRussia’s ‘pivot to Asia’ takes a turn as it prioritises ties with isolated regimes over bigger economies\n\nWhy disciplined stewardship matters when managing wealth in uncertain markets\n\nMore than 15,000 sign up for national accounting body’s AI programme in two months",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/data-centres-expected-add-pressure-singapores-energy-supply-survey"
+    },
+    {
+      "id": "2026-08-31-caa5e1",
+      "title": "Digital Realty, STT GDC Among Data Centre Operators Awarded 50 MW of New Capacity in Singapore",
+      "summary": "Singapore's authorities allocated 50 MW of new data centre capacity to operators including Digital Realty and STT GDC under the city-state's tightly controlled capacity award process. The awards come with stringent sustainability conditions, reflecting Singapore's approach of releasing capacity in small, carefully screened tranches rather than open-ended approvals.",
+      "why_it_matters": "Winning operators gain scarce capacity in one of the world's most supply-constrained data centre markets, locking in years of revenue visibility. For competitors left out, the decision reinforces that Singapore expansion now depends on meeting government-mandated green and efficiency criteria rather than capital alone.",
+      "score": 92,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "capacity",
+        "hyperscale",
+        "investment",
+        "singapore"
+      ],
+      "published_at": "2026-08-31T05:15:33Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/digital-realty-stt-gdc-among-data-centre-operators-awarded-50-mw-new-capacity-singapore",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Digital Realty",
+        "STT GDC"
+      ],
+      "content": "Keppel and Equinix are the other two awardees; the four were picked from a field of more than 20 applications\n\n[SINGAPORE] The Singapore government on Friday (Aug 21) awarded a total of 200 megawatts (MW) in new data centre capacity to four data centre operators in its latest tender.\n\nThe four – Digital Realty, Equinix, ST Telemedia Global Data Centres (STT GDC) and Keppel Data Centres – bagged the capacity under the Data Centre - Call For Application 2 (DC-CFA 2) tender.\n\nThey will each be provisionally allocated 50 MW of capacity, and locate their facilities on Jurong Island.\n\nThe Singapore Economic Development Board (EDB) and Infocomm Media Development Authority (IMDA) said in a statement: “To enable the data-centre sector to operate more sustainably, JTC is developing a low-carbon data centre park on Jurong Island to leverage potential low-carbon technology synergies within the island’s ecosystem.”\n\nKeppel said that the data centre capacity will go towards the development of its newest AI-ready data centre, with an expected investment of more than S$1 billion.\n\nThe centre will be funded by its own private fund, the Keppel Data Centre Fund III, and funds from its co-investors, said the group in a statement.\n\nAnnounced last December, the DC-CFA 2 exercise received more than 20 applications from local and global operators.\n\nThe supported data centres have committed to exceed the minimum sustainability requirements imposed in the latest rounds of the tender, said EDB and IMDA.\n\nThis means that the operators will power more than half their data centre capacity from green energy sources.\n\nSEE ALSO\n\nThey will also be the “best-in-class” in energy efficiency by adopting advanced technologies such as liquid cooling and using 100 per cent energy-efficient IT equipment, the joint EDB-IMDA statement added.\n\nBruno Lopez, president and group CEO of STT GDC, said the group remains committed to using the Republic’s land, energy and water resources “prudently” to deliver “meaningful and lasting value” for Singapore.\n\nHe noted that the effects of STT GDC data centre would extend beyond computing powers, and that the group will translate the investment into “enduring economic value for Singapore, strengthen its digital ecosystem and international connectivity, and support the continued growth and vibrancy of its digital economy”.\n\nKeppel said it would tap its “extensive capabilities” in data-centre, power, cooling, connectivity and low-carbon solutions, as well as its existing energy and utilities on Jurong Island, to support its facility.\n\nIt has 1,900 MW of power generation capacity in its Keppel Merlimau Cogen Plant and the Keppel Sakra Cogen plant, both on Jurong Island.\n\nDigital Realty said that, beyond computing, it intends to continue investing in local talent and deepen partnerships to focus on its long-term digital growth.\n\n“Our selection under DC-CFA2 will enable us to continue contributing to Singapore’s ambitions for responsible AI adoption and a resilient digital future,” it added.\n\nYee May Leong, managing director of Equinix Singapore, said: “Together, we can accelerate the growth of Singapore’s digital economy and strengthen its position as a trusted digital and AI hub for Asean and the world.”\n\nAll four selected data centre operators have an established presence in the country.\n\nInformation from their websites indicate that Digital Realty has three data centres in Singapore currently, and Equinix has five.\n\nSTT GDC has six data centres with an IT load of more than 110 MW, and Keppel Data Centres has eight.\n\nThe first DC-CFA exercise in July 2023 awarded 80 MW of new capacity to Equinix, GDS, Microsoft and an AirTrunk-ByteDance consortium.\n\nEDB and IMDA will review the need for another DC-CFA in 18 to 24 months.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.\n\n## TRENDING NOW\n\nAsia-Pacific aviation: is up really the only way?\n\nRussia’s ‘pivot to Asia’ takes a turn as it prioritises ties with isolated regimes over bigger economies\n\nWhy disciplined stewardship matters when managing wealth in uncertain markets\n\nMore than 15,000 sign up for national accounting body’s AI programme in two months",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/digital-realty-stt-gdc-among-data-centre-operators-awarded-50-mw-new-capacity-singapore"
+    },
+    {
+      "id": "2026-08-31-7319a5",
+      "title": "DayOne Seeks Loan to Fund Hong Kong Data Centre Ahead of US IPO",
+      "summary": "DayOne is seeking loan financing to fund a Hong Kong data centre project as it prepares for a planned US initial public offering. The borrowing would support its expansion pipeline and demonstrate asset growth ahead of the listing.",
+      "why_it_matters": "Taking on debt to build ahead of an IPO lets DayOne present a larger, more diversified portfolio to public-market investors, but adds leverage risk if the listing slips. The move also signals renewed developer confidence in Hong Kong as a data centre market despite geopolitical headwinds.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "china"
+      ],
+      "topics": [
+        "investment",
+        "financing",
+        "ipo",
+        "hong-kong"
+      ],
+      "published_at": "2026-08-31T05:15:33Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/dayone-seeks-loan-fund-hong-kong-data-centre-ahead-us-ipo",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "DayOne"
+      ],
+      "content": "This comes amid efforts to raise funds to expand its global footprint as demand for AI capacity surges\n\n[HONG KONG] DayOne Data Centers is seeking a HK$1.86 billion (US$237 million) loan, according to people familiar with the matter, adding to the company’s recent borrowing spree ahead of a planned US initial public offering.\n\nThe Singapore-headquartered data centre operator is in talks with a consortium of Asian banks, including DBS, OCBC and UOB for the five-year facility, said the people, who asked not to be identified when discussing private matters.\n\nProceeds would be used for refinancing and capital expansion for the company’s Hong Kong data centre, the people said. The borrower is a special purpose vehicle, they added.\n\nThe loan talks are part of DayOne’s efforts to raise funds to expand its global footprint as demand for artificial intelligence capacity surges.\n\nThey also highlight the continued interest of banks in the region to finance such projects.\n\nEarlier this month, DayOne obtained a four-year, S$530 million (US$417 million) loan from DBS, OCBC and UOB to develop its first Singapore-based data centre, according to a joint statement from the lenders.\n\nIt is also seeking to double the size of an existing loan to about US$7 billion, in a deal that would be the largest borrowing for the data centre sector by any firm in Asia.\n\nThe rush for financing comes as DayOne is considering raising around US$5 billion from a US IPO as soon as next quarter.\n\nDayOne, UOB, OCBC and DBS declined to comment.\n\nSEE ALSO\n\nOther data centre operators with facilities in the Asia-Pacific have also been raising funds to build up their facilities.\n\nThailand’s True Internet Data Center, for example, is seeking an about US$2 billion-equivalent loan for a project in the country, while Blue Owl Capital’s Stack Infrastructure is seeking an A$8.5 billion (US$5.9 billion) syndication loan to fund its latest facility in Melbourne.\n\nFormerly known as GDS International, DayOne was set up by GDS Holdings to manage its data centre assets and operations outside mainland China.\n\nIt later brought in international investors, including SoftBank Vision Fund, Coatue Management and Ken Griffin among others. The firm rebranded as DayOne in 2025 and closed a US$4.5 billion Series C funding round in June.\n\nThe company lists seven data centre facilities as part of its planned or current operations in locations such as Singapore, Malaysia, Japan, Hong Kong and Finland, according to the company’s website. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services\n\n## TRENDING NOW\n\nAsia-Pacific aviation: is up really the only way?\n\nRussia’s ‘pivot to Asia’ takes a turn as it prioritises ties with isolated regimes over bigger economies\n\nWhy disciplined stewardship matters when managing wealth in uncertain markets\n\nMore than 15,000 sign up for national accounting body’s AI programme in two months",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/dayone-seeks-loan-fund-hong-kong-data-centre-ahead-us-ipo"
+    },
+    {
+      "id": "2026-08-31-06169f",
+      "title": "Why Copper Is Becoming Asia's Next AI Bottleneck",
+      "summary": "Surging AI data centre construction across Asia is driving copper demand for power distribution, cabling, and cooling systems, straining an already tight global supply. The article examines how copper availability and pricing are emerging as a constraint on the region's AI infrastructure buildout.",
+      "why_it_matters": "Copper scarcity adds a new cost and schedule risk to data centre projects already constrained by power and land, affecting developers' margins and delivery timelines across Asia. It also strengthens the investment case for mining and grid-equipment suppliers in the region.",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "supply-chain",
+        "copper"
+      ],
+      "published_at": "2026-08-31T05:15:33Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/international/asean/why-copper-becoming-asias-next-ai-bottleneck",
+          "type": "html-list"
+        }
+      ],
+      "content": "Analysts say its higher prices are unlikely to derail data centre growth, but tighter supplies could stymie new capacity\n\n[SINGAPORE] The volatility of the price of copper is hitting Asia-Pacific data centre developers harder than their global peers, with the region’s relatively inefficient power grids requiring larger amounts of copper for infrastructure.\n\nSoaring copper prices are unlikely to derail the expansion of artificial intelligence-driven data centres, analysts have said, but they warn that tightening supplies of the metal could lengthen procurement times and delay new data centre capacity coming online.\n\nAlexander Kheder, technology, media and telecommunications analyst at financial research firm BMI, noting that China produces around 60 per cent of the world’s refined copper, said that North-east Asia’s greater exposure to copper’s price volatility relative to other regions is structural rather than cyclical.\n\n## TRENDING NOW\n\nAsia-Pacific aviation: is up really the only way?\n\nRussia’s ‘pivot to Asia’ takes a turn as it prioritises ties with isolated regimes over bigger economies\n\nWhy disciplined stewardship matters when managing wealth in uncertain markets\n\nMore than 15,000 sign up for national accounting body’s AI programme in two months",
+      "content_url": "https://www.businesstimes.com.sg/international/asean/why-copper-becoming-asias-next-ai-bottleneck"
+    },
+    {
+      "id": "2026-08-31-0ab846",
+      "title": "AI, Energy Security Needs Are Driving Surge in South-east Asia's Energy Infrastructure Deals",
+      "summary": "Deal activity in Southeast Asia's energy infrastructure sector is surging, driven by AI-related power demand and national energy security priorities. Investors are targeting generation, transmission, and related assets as data centre growth strains regional grids.",
+      "why_it_matters": "The deal flow signals that power infrastructure — not just data centres themselves — is becoming the core AI investment theme in Southeast Asia. Utilities, regulators, and data centre developers face faster-moving competition for generation capacity and grid access.",
+      "score": 62,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "power",
+        "energy",
+        "investment"
+      ],
+      "published_at": "2026-08-31T05:15:33Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/international/asean/ai-energy-security-needs-are-driving-surge-south-east-asias-energy-infrastructure-deals",
+          "type": "html-list"
+        }
+      ],
+      "content": "The deal value in the region is up 2.5 times year on year to US$9.2 billion in Q1\n\n[SINGAPORE] The number of deals in South-east Asia in 2026 is on the rise, particularly in the energy infrastructure space, said industry watchers and investment bankers.\n\nThat includes the areas of power generation, infrastructure and data centres, they told *The Business Times.*\n\nDeal value surged 2.5 times year on year to US$9.2 billion in Q1 2026, according to Chinese-backed investment firm CGSI, citing EY data.\n\nDeals involving Singapore came in at the highest, at US$7 billion in 2025; Malaysia posted the strongest year-on-year increase to US$5.3 billion.\n\nAsean receives about 60 per cent of its imported crude oil and around a third of its gas from the Middle East – much of it through the Strait of Hormuz – so a supply shock is felt quickly amid Iran war disruptions.\n\nGovernments are therefore pushed to approve and finance projects faster than they otherwise would, even amid higher financing costs.\n\nAnalysts at business advisory firm CFGI Singapore told BT: “What the conflict has added (to the deals) is urgency; once governments see the effect it has on domestic energy supply, energy security moves to the top of the agenda.”\n\nBut fundamentally, the core drivers of these deals are still the artificial intelligence boom, and the surge in data-centre investments that come with it.\n\nThe global buildout in artificial intelligence will have a load factor which is “always increasing”, said James Ong, group head of asset management at CGSI, and remains the root cause behind energy deals ramping up.\n\nSEE ALSO\n\nHe added that the war in Iran has triggered higher financing costs behind the deals and energy prices, but as AI’s energy needs are “structural”, its story will persist in 2026 – irrespective of the war premium being paid.\n\nWithin South-east Asia, companies from Indonesia, in particular, are snapping up resources or energy-related facilities or companies in Australia and Singapore, an investment banker told BT. These include mining and marine businesses.\n\nIn Australia, it is being done through joint ventures because of the nationally sensitive nature of the industry, he said. He cannot be named as he is not authorised to speak to the media.\n\nOver in Singapore, he added, Indonesian companies are also buying resources companies, including recycling firms.\n\nDeals are also growing between China and Asean – and running both ways, said CGSI.\n\nOng, noting that Chinese foreign direct investment into Asean manufacturing is climbing in Vietnam, Indonesia and Thailand, said: “Chinese companies are expanding south, with Asean economies growing in parallel. Cross-border deal flow is increasingly structuring around the corridor.”\n\n## Why regional power generation deals are on the up\n\nMarket observers told BT that data centre and AI compute-driven demand, and the rise of electric vehicles, are sending the demand for power in the Asia-Pacific up.\n\nFor example, Malaysia plans to add six to nine gigawatts (GW) of new gas-fired capacity by 2030, much of it for compute-related needs – but because the country’s gas supply is falling, a second wave of investment in importing gas is needed.\n\nThis will be done by receiving terminals and floating storage units state-owned Petronas has approved and is developing.\n\nRenewables-focused deals are also picking up, considering how it sits alongside gas in the power-generation stream.\n\nLuv Parikh, head of Infrastructure Asia at Partners Group, said: “The structural shift towards increased renewable power generation capacity is driven by the fact that renewable energy is now at grid parity and is faster – and in most cases easier – to build than coal or gas plants.”\n\nBut the analysts have a caveat, and it is that investors are mainly backing renewable deals that can supply power reliably; these include deals for solar paired with battery storage, and geothermal infrastructure in Indonesia and the Philippines.\n\nThey noted that geothermal power is “particularly valued”, as it can dispatch energy round the clock, independent of weather conditions; it also carries lower lifecycle emissions than gas or coal, making it a prime renewable option in the region.\n\n## Grids are hard to invest in\n\nGrid infrastructure is potentially both the largest need in Asean, but also the hardest to invest in, said these market observers.\n\nThis is due to their high capital requirements and transmission output, even as the region works together on the Asean Power Grid (APG).\n\nThe APG, a regional initiative to connect the electricity networks of South-east Asian nations, aims to boost energy security, the sharing of renewable resources, and support multi-lateral power trade in the region. It has reached about 7.7 GW for cross-border interconnection projects, with a target of 17.6 GW by 2040.\n\nAll of Asean’s grid supply clusters are based in the same places as demand, mainly in the Malaysia-Singapore corridor, Indonesia, Vietnam and Thailand.\n\nCFGI Singapore analysts noted that the cross-border nature of grid infrastructure deals in Asean has started to draw development and “multi-lateral money”, particularly through the APG, and the interconnection running from Laos down through Thailand and Malaysia, to Singapore.\n\nOther growth themes and sectors flagged by Partners Group’s Parikh include digital infrastructure, social infrastructure and infrastructure services, with Singapore and Malaysia presenting the “most actionable opportunities” in these areas.\n\n## Not all assets are equally investable\n\nBut not all power generation or grid infrastructure assets – and their deals – are the same, said analysts.\n\nFor now, the infrastructure types most favoured by investors are defensive and “cash-generating” instead of growth bets – since capacity that can actually be delivered is more valuable than “potential capacity”, said CFGI Singapore.\n\nThe transactions that attract institutional capital share a common profile, which are contracted revenue often under:\n\n- Long-term power purchase agreements;\n- Creditworthy offtakers, which are financially stable buyers who promise legally to purchase a producer’s goods, power or output;\n- Grid-connection certainty; and\n- Currency structures that match or hedge the investor’s liability profile.\n\nOther considerations include completed projects or those where construction is near-completed, to remove development risk.\n\nThe CFGI Singapore analysts said: “Regulated tariff frameworks, fuel-cost pass-through provisions, and foreign-exchange mismatch are key risk factors that separate fundable projects from those that remain stranded in pipelines.”\n\nWith the right variables in place, higher costs are less of an issue.\n\n“The deals being done are not cheap, as contracted infrastructure in supply-constrained markets commands full prices; but they are investable, and the breadth of the buyer universe at exit reflects that,” they added.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.\n\n## TRENDING NOW\n\nAsia-Pacific aviation: is up really the only way?\n\nRussia’s ‘pivot to Asia’ takes a turn as it prioritises ties with isolated regimes over bigger economies\n\nWhy disciplined stewardship matters when managing wealth in uncertain markets\n\nMore than 15,000 sign up for national accounting body’s AI programme in two months",
+      "content_url": "https://www.businesstimes.com.sg/international/asean/ai-energy-security-needs-are-driving-surge-south-east-asias-energy-infrastructure-deals"
+    },
+    {
+      "id": "2026-08-31-f53ec7",
+      "title": "DayOne Secures S$530 Million Green Loan from DBS, OCBC and UOB for Singapore Data Centre",
+      "summary": "DayOne has closed a S$530 million green loan from Singapore's three largest banks — DBS, OCBC and UOB — to finance a data centre development in Singapore. The facility is structured as a sustainability-linked green loan tied to the project's environmental performance.",
+      "why_it_matters": "The unanimous participation of all three local banks signals that green data centre financing is now mainstream in Singapore, lowering funding costs for operators that meet sustainability criteria. It also strengthens DayOne's balance sheet as it scales regionally.",
+      "score": 88,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "financing",
+        "investment",
+        "green-loan",
+        "singapore"
+      ],
+      "published_at": "2026-08-31T05:15:33Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/dayone-secures-s530-million-green-loan-dbs-ocbc-and-uob-singapore-data-centre",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "DayOne",
+        "DBS",
+        "OCBC",
+        "UOB"
+      ],
+      "content": "The upcoming facility will pioneer a proof-of-concept initiative for hydrogen-based energy\n\n[SINGAPORE] Global digital infrastructure platform DayOne has secured a four-year green loan of S$530 million from local banking giants DBS, OCBC and UOB to finance its first data centre in Singapore, the banks announced in a joint statement on Tuesday (Aug 18).\n\nThe upcoming facility is expected to be the Republic’s first data centre to feature on-site solid oxide fuel cell power generation, pioneering a proof-of-concept initiative exploring hydrogen-based energy solutions.\n\nDBS, OCBC and UOB are acting as joint mandated lead arrangers, bookrunners and green loan coordinators for the facility, with DBS also serving as the facility and security agent.\n\nThe financing comes amid surging global demand for digital infrastructure, propelled by the rapid adoption of artificial intelligence, cloud computing and 5G networks.\n\nLocated in western Singapore, the 20-megawatt data centre broke ground in July 2025 and is scheduled to be operational by the first quarter of 2027.\n\nThe facility will incorporate vertical building-integrated photovoltaics alongside hybrid air and liquid cooling technologies to enhance energy efficiency.\n\nIn December 2025, the facility was awarded the BCA Green Mark Platinum (Provisional) certification, the highest sustainability rating under the Building and Construction Authority’s (BCA) Green Mark for Data Centres Scheme.\n\nHan Kwee Juan, group head of institutional banking at DBS, noted that accelerating AI and cloud adoption is driving up energy consumption across Asia, emphasising the need for energy-efficient infrastructure.\n\n“Singapore is well-positioned to lead financing of green and energy-efficient digital infrastructure in Asia,” he said.\n\nSEE ALSO\n\nElaine Lam, head of global corporate banking at OCBC, said: “Singapore’s first data centre incorporating hydrogen power represents an important milestone in the evolution of sustainable digital infrastructure.”\n\nEchoing these views, Edmund Leong, head of group corporate banking and sector solutions group at UOB, noted that digital infrastructure is becoming a “strategic asset that underpins economic competitiveness, innovation and resilience”.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.\n\n## TRENDING NOW\n\nAsia-Pacific aviation: is up really the only way?\n\nRussia’s ‘pivot to Asia’ takes a turn as it prioritises ties with isolated regimes over bigger economies\n\nWhy disciplined stewardship matters when managing wealth in uncertain markets\n\nMore than 15,000 sign up for national accounting body’s AI programme in two months",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/dayone-secures-s530-million-green-loan-dbs-ocbc-and-uob-singapore-data-centre"
+    },
+    {
+      "id": "2026-08-31-5e2d0d",
+      "title": "Singapore Firms Dominate Southeast Asia Data Centre Funding, Account for 98% of US$11.5 Billion Raised: Report",
+      "summary": "Singapore-headquartered firms captured 98% of the US$11.5 billion raised for Southeast Asian data centre projects, according to a new report, with US$4.7 billion of that in equity as of August 2025. The concentration underscores the city-state's dominance as the region's data centre capital-raising hub even as builds spread to neighbouring markets.",
+      "why_it_matters": "The funding concentration means Singapore-based capital will control the region's data centre buildout regardless of where facilities are physically located. For Johor, Batam, and other emerging markets, this cements their role as execution sites financed and governed from Singapore.",
+      "score": 82,
+      "heat": 2,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "funding",
+        "capacity",
+        "colocation"
+      ],
+      "published_at": "2026-08-31T03:33:18Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/singapore-firms-dominate-s-e-asia-data-centre-funding-account-98-us11-5-billion-raised-report",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/singapore-firms-dominate-s-e-asia-data-centre-funding-account-98-us11-5-billion-raised-report",
+          "type": "html-list"
+        }
+      ],
+      "content": "Total of US$4.7 billion of equity has been raised as at Aug 25\n\n[SINGAPORE] Five Singapore-headquartered data centre firms accounted for 98 per cent of the US$11.5 billion in equity funding raised across South-east Asia, in what is already the region’s largest funding year on record, according to research firm Tracxn.\n\nThe five firms are DayOne, Princeton Digital Group, ST Telemedia Global Data Centres (STT GDC), Singtel’s Nxera and Digital Edge.\n\nThe funding was concentrated in 19 rounds, with about 85 per cent of the US$11.5 billion raised since the start of 2024. To date, a total of US$4.7 billion of equity has been raised as at Aug 25.\n\n## TRENDING NOW\n\nStocks to watch: ComfortDelGro, ESR-Reit, Frasers Property, Centurion, Fuyu\n\nFed chair Warsh’s hawkish Jackson Hole turn favours soaring banks over struggling S-Reits\n\nBeyond data centre Reits: The AI potential that Singapore investors are still missing\n\nFrasers Property shareholders approve S$2.1 billion hospitality portfolio revamp",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/singapore-firms-dominate-s-e-asia-data-centre-funding-account-98-us11-5-billion-raised-report"
+    },
+    {
+      "id": "2026-08-31-e262bd",
+      "title": "Get ready for Korea CDC 2026!",
+      "summary": "This September w.media is coming to Seoul for the Korea Cloud & Datacenter Convention (KRCDC) 2026, which will take place on September 1, at the Coex. We are bringing together over 1000 senior information technology experts and digital infrastructure professionals, including data center operators, investors, enterprises, technology innovators and policymakers to discuss the roadmap for […]",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [
+        "events",
+        "cloud"
+      ],
+      "published_at": "2026-08-31T01:00:37Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/get-ready-for-korea-cdc-2026/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "w.media"
+      ],
+      "content": "This September w.media is coming to Seoul for the Korea Cloud & Datacenter Convention (KRCDC) 2026, which will take place on September 1, at the Coex. We are bringing together over 1000 senior information technology experts and digital infrastructure professionals, including data center operators, investors, enterprises, technology innovators and policymakers to discuss the roadmap for the next phase of evolution of South Korea’s thriving artificial intelligence and data center sector.\n\n#### **What makes South Korea special?**\n\nEach year, w.media hosts KRCDC in Seoul, to showcase and celebrate one of the world’s most exciting digital infrastructure and artificial intelligence markets.\n\n“Over the past three years, South Korea’s live data center capacity has grown at more than 15 percent CAGR through 2025, with demand remaining exceptionally strong as development expands beyond Greater Seoul,” says Teresa Tan, Lead Analyst, DC Byte. “Policy is reinforcing this decentralization and increasingly supporting large-scale AI infrastructure in regional markets. Those ambitions are now beginning to materialize, with a new generation of larger AI campuses moving into construction.”\n\n![](https://w.media/wp-content/uploads/2026/06/Korea-CDC-2026-Banner.jpg)\n\nProminent homegrown players are increasingly partnering with global giants and private equity players to develop AI factories and even quantum computing infrastructure in South Korea. For example, in July this year, NAVER, Brookfield and NVIDIA announced that they were expanding a sovereign AI infrastructure project from its original planned capacity of 55 MW to 200 MW.\n\nMeanwhile, SK Telecom has announced plans to build AI data center capacity with the potential to scale up to 15 GW to establish South Korea as a large-scale AI infrastructure hub in Asia. For this it has established a full-scale AIDC business structure together with SK Horizon and SK Hyper. While, SK Horizon will be responsible for expanding its infrastructure to a total capacity of 318 MW, encompassing eight data centers already in operation, SK Hyper will focus on business development for new AIDC projects, with 5 GW of capacity targeted for phased opening in 2029 and expansion toward a total capacity of 15 GW in 2035.\n\nIt is important to acknowledge that the AI and data center industry is thriving, not just due to the ambitions of the data center owners and operators, but also because the administration is walking the talk on digital infrastructure development.\n\nRecently, South Korea’s Ministry of Science and ICT launched a public-private alliance to coordinate the development of 18.4 GW of artificial intelligence data centers (AIDCs), bringing together government agencies and technology companies as it seeks to expand AI infrastructure and related industries. This AI Data Center Alliance is part of the government’s “three megaprojects” initiative announced in June and follows a plan unveiled last month to designate AIDCs as a national strategic industry.\n\n#### **Look who’s coming to KRCDC!**\n\nCheck out our stellar line-up of speakers who will participate in panel discussions and deliver keynote speeches during KRCDC 2026.\n\n![](https://w.media/wp-content/uploads/2026/08/All-Speaker-Cards-KRCDC-2026.png)\n\n“KDCEA has been a long-standing partner of W.Media, and as part of an association representing Korea’s data center industry, I see KRCDC as an important platform to strengthen Korea’s global competitiveness and connect with the wider industry,” Harry (Hyun Jin) Hwang, Senior Researcher, Korea Data Center Efficiency Association (KDCEA), who will also serve as Hall Chairman for KRCDC, and deliver a special address. “I also look forward to learning about the latest trends, technologies, and market developments shaping the data center industry, while exchanging views with industry leaders from Korea and abroad.”\n\nAnother recurring guest we will have the pleasure of welcoming again is Jun (Youngjun) Kim, Managing Director, Daou Datacenter. “KRCDC brings together the people actually shaping Korea’s data center industry, and that alone makes it worth the time,” he says. “Our market is moving unusually fast right now, with demand running well ahead of the power and land available to serve it, and with edge data centers drawing real interest alongside the AI and liquid cooling conversations that are as pressing here as they are anywhere else in the world. Attending each year is how I keep pace with that shift, and how I gauge where our industry is heading rather than where it has been.” Jun Kim will also participate in a panel discussion on the topic – *Beyond the Centralised Cloud: Is Korea Ready for the Edge Data Center Era?*\n\nThe creme-de-la-creme of South Korea’s digital infrastructure industry are also participating as sponsors at KRCDC. Here they tell us in their own words, what draws them to participate, and what are their expectations.\n\n“As Korea’s data center market rapidly transforms to support next-generation AI workloads and high-density infrastructure, KRCDC serves as a crucial platform for meaningful industry dialogue. I am excited to join fellow leaders to exchange practical insights on liquid cooling, power readiness, and scalable infrastructure strategies that will define the future of our digital ecosystem,” says Jinsung Kim, Director, Solution Engineering, Empyrion Digital, who will participate in a panel discussion on the topic – ***100kW Racks and Beyond: Engineering AI Data Centers for Extreme Density***. Kim elaborates, “With the rise of 100kW+ rack environments and advanced liquid cooling architectures, the industry is facing unprecedented engineering opportunities and challenges. KRCDC is the ideal venue to address these technical realities with key ecosystem partners, and I look forward to engaging in actionable discussions that help drive sustainable, high-density AI infrastructure in Korea.” Empyrion Digital has been an old friend and supporter of w.media’s conventions, and is renowned for their digital platform’s commitment to sustainability.\n\nA new addition this year has been Karpowership, which operates fleets of floating power plants and offers energy solutions to data centers. “Karpowership is participating in KRCDC because Korea’s accelerating cloud and AI ambitions require the digital and energy sectors to plan together,” says Jad El Sebaaly, Sales and Business Development Director, Asia and Pacific Region, Commercial Operations, Karpowership. “We look forward to engaging with developers, utilities and technology leaders on how our ready-built, fast-to-deploy floating power solutions can provide the reliable and flexible electricity needed to turn data-centre plans into operating capacity.” Sebaaly will also deliver a keynote address on the topic – *Powering AI in Weeks: Ready-Built Power Plants for Korea’s Data Center Boom***.**\n\n#### **Sign up for KRCDC now!**\n\nAll this and more will be up for discussion at w.media’s Korea Cloud & Datacenter Convention (**KRCDC 2026**) that will take place on September 1, 2026 at COEX Convention & Exhibition center, Seoul, South Korea. Our team is looking forward to welcoming you.\n\n“We are excited to welcome over 1,000 industry professionals to this year’s Cloud & Data Center Convention Korea, with many traveling from across the region to be part of the discussions,” says Glenda Khoo, Sales Manager, w.media, who is spearheading preparations. “More than just a meeting point, we hope the event serves as a catalyst for meaningful connections and conversations that begin well before we meet in Seoul and continue long after the event concludes — while we continue striving to raise the bar and make each edition better than the last.”\n\nTo check out our agenda please click the image below:\n\n![](https://w.media/wp-content/uploads/2026/06/Korea-CDC-2026-Banner.jpg)",
+      "content_url": "https://w.media/get-ready-for-korea-cdc-2026/"
+    },
+    {
+      "id": "2026-08-31-a3d639",
+      "title": "China's AI Catch-Up Is Forcing Silicon Valley to Cut Prices",
+      "summary": "Chinese AI firms are narrowing the gap with leading US models through improved training efficiency and broader application deployment, putting pricing pressure on Silicon Valley's AI providers. The competitive squeeze is forcing American companies to lower prices to defend market share.",
+      "why_it_matters": "Cheaper capable models from China compress margins across the global AI industry and accelerate commoditisation of foundation models. For APAC enterprises and cloud buyers, the price war expands access to AI services but complicates vendor choices amid geopolitical restrictions.",
+      "score": 62,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "competition"
+      ],
+      "published_at": "2026-08-30T10:45:51Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/startups-tech/technology/chinas-ai-catch-forcing-silicon-valley-cut-prices",
+          "type": "rss"
+        }
+      ],
+      "content": "Chinese firms are improving training efficiency and expanding applications while narrowing the gap with advanced models\n\nLOS ANGELES-based Chinese entrepreneur Li Jianian deployed Chinese company Zhipu AI’s GLM-5.2 on a local server, using it for some of the tasks he had used AI coding tool Claude Code to do.\n\nFrom his experience, Zhipu AI’s performance is “already on a par with Claude” for around 70 per cent of his day-to-day work. “There’s no need to use the most expensive model for everything,” he added.\n\nHalfway around the world, in Chengdu, Sichuan, video creator Cheng Xiao (a pseudonym) is facing a different problem: His Claude account has been blocked again.\n\nCheng switches between AI models, but still considers Claude “smarter” at complex coding. The problem is access.\n\nAnthropic__,__ Claude’s parent company, does not offer its services in China, forcing Cheng to keep his computer connected to a virtual private network (VPN) and rely on an intermediary to top up his account. When his latest account was blocked, he switched to OpenAI’s coding tool, Codex.\n\nAmid intensifying China-US tech rivalry, users in both countries are putting the other side’s models into their own toolkits. Some are looking for better value for money, while others need the more powerful option.\n\nAt present, Claude’s Fable 5 remains the top-ranked model on several leaderboards. But Zhipu AI’s GLM-5.2, Moonshot AI’s Kimi K3 and Alibaba’s Qwen3.8-Max have all been released in recent months, with their performance on multiple tasks approaching that of Claude, while their prices are also lower.\n\nZhipu AI’s GLM-5.2 costs US$4.40 per million output tokens, compared with US$10 for Claude Sonnet 5.\n\nAccording to OpenRouter statistics, two of the 10 large language models with the highest token processing volumes over the past month as at August were from the US, while the other eight were from China. However, while Chinese models account for higher usage volumes, US models still attract more spending. Across nearly 30 task categories, Chinese models accounted for the largest share of spending in only seven, while leading US models such as ChatGPT and Claude dominated most of the rest.\n\nSEE ALSO\n\nKendra Schaefer, head of digital research at Trivium China, said in an interview that it is common for companies and users to mix and match different models. Users place different priorities on performance, cost and data security.\n\n“There’s not one market for AI models; there’s multiple market segments,” she noted.\n\nShe said that the US currently lacks a good competitive offering in the “controllable and cheap market segment”, which is an important reason why China’s open-weight models have been able to enter the toolchains used by US developers.\n\n## Deepening regulatory boundaries\n\nBut as the regulatory boundaries between China and the US become increasingly clear, it remains uncertain how long users will be able to continue calling on models from both sides as needed.\n\nUS users are concerned that growing attention to Chinese models could prompt Washington to impose restrictions on their use. The US has already banned the use of DeepSeek models on government devices at some agencies, citing security concerns.\n\nUS Treasury Secretary Scott Bessent said publicly in July that the US government would investigate whether Chinese open-weight models were involved in intellectual property theft. If infringement were confirmed, he said, the US could consider financial sanctions and adding the companies to the Entity List.\n\nChina, too, has begun debating whether to continue making advanced models freely available without restrictions. Reuters reported that Beijing is considering restricting overseas access to advanced AI models.\n\nChinese state media outlet Yuyuantantian said in a post that “supporting AI open models does not mean that all capabilities should be disseminated unconditionally”.\n\nCheng said that even if his appeal succeeds and he regains access to his Claude account, he would not rule out the possibility that Chinese authorities could one day proactively block its use.\n\nIn July, China’s Ministry of Industry and Information Technology warned that the Claude coding software contained built-in monitoring that could transmit sensitive information, posing a serious security “backdoor” risk.\n\nLi joked: “Who knows? We might end up having to ‘bypass the Great Firewall’ ourselves to download the latest Chinese models.”\n\nSuch concerns may still be premature, but the signs increasingly suggest that China-US AI competition is entering a new phase.\n\n## China: a latecomer playing catch-up\n\nIn the past, US tech giants invested heavily in computing power in pursuit of artificial general intelligence (AGI), while China, facing computing constraints, focused on low costs, open weights and practical applications. China was widely seen as the latecomer playing catch-up.\n\nBut the rapid progress of Chinese AI models has forced the US to reckon with a different possibility: even if China has yet to overtake the US at the frontier, its low-cost, open-weight models and widespread diffusion could still undermine the US’ existing technological and ecosystem advantages.\n\nKyle Chan, a fellow at the John L Thornton China Center at Brookings Institution, was as an expert witness in a US House Select Committee on the Chinese Communist Party hearing on China-US AI competition in April.\n\nHe told *Lianhe Zaobao* that Washington has two concerns about the narrowing gap between US and Chinese models. First, if Chinese models with comparable capabilities become widely available, they could circumvent the US AI regulatory framework.\n\nSecond, powerful open-source Chinese models could disrupt the business models of companies such as OpenAI and Anthropic, making it harder for them to justify the enormous investments they have made.\n\nProfessor Lin William Cong, President’s Chair Professor at Nanyang Technological University (NTU) and an associate dean of Nanyang Business School, went further, pointing out an inherent weakness in the commercial moat of large language models – they are products that continually “teach” their competitors.\n\nEven when model weights are not made public, large volumes of model outputs can become material for other models to learn from.\n\nThis is precisely what US companies and officials have repeatedly accused Chinese companies of doing through “distillation”. Prof Cong said that if model capabilities can be transferred through distillation, the technological lead underpinning high valuations and massive investment may be far less secure than imagined.\n\n## Different starting points\n\nChan said the China-US AI race is proving more complex and messier than expected. Washington is beginning to recognise the importance of widespread technology diffusion and adoption, as more voices call for the US to develop strong open-source models to compete with China.\n\nIn 2025, Washington began promoting a plan to export a “full-stack American AI technology package”, bundling a range of AI products including AI models, chips, servers and data centres for export to allies. The initiative is seen as a US response to China’s efforts in recent years to export its tech model to the Global South.\n\nThis year, the Trump administration has sought to pressure allies to choose between the AI ecosystems led by China and the US, narrowing opportunities for China to engage in supply chain and technological cooperation with them.\n\nReuters reported on Aug 15 that the US plans to write to dozens of members of the AI alliance behind the Pax Silica initiative, warning them against joining the Beijing-led World Artificial Intelligence Cooperation Organization.\n\nThose who do so would be excluded from Pax Silica. The warning was that “to be part of everything is to be part of nothing”. Pax Silica focuses on cooperation in AI supply chains.\n\nYasir Atalan, deputy director and data fellow in the Futures Lab at the Center for Strategic and International Studies, said in an interview that Washington could step up export controls on Chinese models in future. For now, however, its focus is on establishing mechanisms to promote the export of US AI technology.\n\nCompanies, too, are stepping up efforts on open-source models and pricing. OpenAI announced at the end of July that it would cut the prices of GPT-5.6 Luna and Terra by 80 per cent and 20 per cent, respectively.\n\nMore recently, Anthropic also announced that it was abandoning plans to raise the price of Sonnet 5 and would permanently retain its introductory promotional price. Meta and Nvidia have also released new open-source models.\n\nChina and the US started from different positions in AI development. The US invested heavily in computing power in pursuit of superintelligence, while China, constrained by limited computing resources, sought to compete through open models and lower costs.\n\nBut their goals are increasingly converging: both want to develop the most powerful models at the top of the pyramid while reaching a broader range of markets.\n\n## The bigger goal beyond tech diffusion and adoption\n\nIn official statements, the Chinese government rarely mentions AGI. But that does not mean China has no intention of competing at the frontier of AI. DeepSeek founder Liang Wenfeng has even stated bluntly that achieving AGI is the company’s true goal.\n\nNTU’s Prof Cong said China’s leading AI companies are scaling to the limits of available hardware. Kimi K3, for example, has 2.8 trillion parameters. “This is not the behaviour of an ecosystem content with cheap application diffusion,” he noted.\n\nIn his view, laboratories are pursuing frontier capabilities, while the government places greater emphasis on technology diffusion and industrial applications – both are true simultaneously.\n\nTan Poh Hwee, president of the Asia Academy of Digital Economics, believes China’s AI strategy has two layers. The first is to drive AI adoption by integrating it into real-world production, turning it into a new engine of economic growth. The second is not to give up competing at the frontier while expanding influence through open-source large language models.\n\nBut further progress at the frontier remains constrained by computing power, while the low-cost advantage enjoyed by some Chinese models is also coming under pressure. As business expansion drives up computing service fees, Zhipu AI has raised its prices several times this year. After launching Kimi K3, Moonshot AI also temporarily suspended new subscriptions when demand exceeded its computing capacity.\n\n## “Learning to fight through fighting”\n\nFacing constraints, Chinese companies are improving training efficiency and expanding applications while steadily narrowing the gap with the most advanced models. Tan described this as a “choice made out of necessity” as well as “learning to fight through fighting”, something that Chinese people are good at.\n\nHe pointed out that model capabilities are closely tied to a country’s future national power. In fields such as scientific research and the military, the most powerful models are still necessary; otherwise, China risks developing a strategic capability gap with the US. “Just like nuclear weapons, both sides must possess them at the same time to establish a balance of power,” he said.\n\nAtalan holds a similar view. He said that “good enough” models can handle a wide range of commercial tasks, with the key being to integrate them into business operations. The most powerful models, meanwhile, can help achieve breakthroughs in highly challenging areas such as science and mathematics, which in turn can affect economic and military capabilities.\n\nHe asserted: “Whoever leads in the frontier will likely sell its AI stack to the globe more.”\n\nThe differing demands for model capabilities are pushing the China-US AI competition to different levels. In most commercial and everyday applications, “good enough” open-source models will continue to cross borders. Frontier models, however, will become protected strategic assets.\n\nThis is also a competition that will be difficult to stop. Prof Cong pointed out that the boundaries between these tiers are not fixed. Capabilities that are considered cutting-edge today may soon become basic tools accessible to ordinary businesses as open-source models catch up, costs fall and the technology spreads. New strategic boundaries will continue to move forward.\n\n## Commercial development versus government control\n\nCompetition between China and the US, the world’s two leading AI powers, is driving the development of more powerful and potentially more dangerous models. Public reports show that since July, there have been at least seven cases in which AI models found vulnerabilities during sandbox testing, “jailbroke” their way out and breached real-world systems.\n\nInternational calls for the establishment of AI safety rules are growing louder. China and the US are also planning to hold an official AI dialogue in September to discuss the safety risks of advanced AI models. However, it remains uncertain how much information the two sides will be willing to share, and how much common ground they can reach, amid the current competitive environment.\n\nMatt Sheehan, a senior fellow at the Carnegie Endowment for International Peace who has long followed global technological change, wrote that China and the US will not move in lockstep on AI safety, and that it is currently difficult for them to forge mutually binding agreements with real teeth. The two countries can, however, improve the safety of their respective models based on their own security interests, and then engage in a minimum level of communication.\n\nHe said that if each side understood what safety measures the other had put in place, it could reduce the worst-case assumption, born of a lack of information, that “the other side is sacrificing any action on safety in a reckless race for building the most powerful system”.\n\nProf Cong pointed out that China and the US will ultimately face the same governance challenge: how to prevent the uncontrolled diffusion of the most dangerous frontier capabilities.\n\nOnce frontier-level weights are widely distributed, they cannot be recalled and could be used to accelerate high-risk activities such as cyberattacks and biological design. As a result, this creates a wedge between a company’s commercial incentive to release the most advanced models and the government’s goal of controlling the spread of sensitive capabilities.\n\nProf Cong said that if AI approaches superintelligence, that wedge will become particularly pronounced. In such circumstances, “it is one of the few areas where US and Chinese interests in verification and dialogue genuinely overlap”.\n\nAtalan, meanwhile, warned that if China and the US each integrate increasingly powerful AI into their military systems without a common framework and confidence-building mechanisms, it could alter their existing strategic calculations. Once either side begins allowing AI to participate in critical military decision making, the other side will be forced to adjust its deterrence logic, increasing the risk of miscalculation and strategic instability.\n\n## Open versus closed-source\n\nHowever, even if both China and the US recognise the risks posed by the proliferation of frontier capabilities, there is still no simple answer as to whether those risks should be reduced through “open source” or “closed source”.\n\nA recent case has changed some people’s views. An OpenAI model infiltrated the production database of Hugging Face, a US AI community, to search for test answers. When attempts to trace the model’s origins using leading Western large language models were unsuccessful, Hugging Face ultimately used Zhipu AI’s GLM-5.2 to contain the attack.\n\nThe Brookings Institution’s Chan said attitudes towards open-source models are complex within the US AI safety community. Some worry that locally deployed models are difficult to control, while others believe they can strengthen the defensive capabilities of those under attack.\n\n“So far, it seems like the Trump administration is leaning towards the view that open-source models are a net asset for AI safety and have excluded them from the latest regulatory framework,” he observed.\n\n- **This article, translated with the assistance of AI and edited and refined by Grace Chong, was first published on** ***ThinkChina*****, an English-language digital magazine under Lianhe Zaobao.**\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services\n\n## TRENDING NOW\n\nAsia-Pacific aviation: is up really the only way?\n\nCan capital trust Myanmar again?\n\nRussia’s ‘pivot to Asia’ takes a turn as it prioritises ties with isolated regimes over bigger economies\n\nGlencore books US$480 million provision covering entire Radiant World exposure: sources",
+      "content_url": "https://www.businesstimes.com.sg/startups-tech/technology/chinas-ai-catch-forcing-silicon-valley-cut-prices"
+    }
+  ]
+}

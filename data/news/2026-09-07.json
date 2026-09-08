@@ -1,0 +1,763 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-08T06:36:45Z",
+  "hot": [
+    "2026-09-07-c9ac5b",
+    "2026-09-07-776bd8",
+    "2026-09-07-dea4a5",
+    "2026-09-07-801900",
+    "2026-09-07-43d433"
+  ],
+  "stories": [
+    {
+      "id": "2026-09-07-63063e",
+      "title": "Nvidia in talks to buy Hugging Face for USD $13 billion",
+      "summary": "Nvidia is in discussions to acquire Hugging Face, the leading hub for open-source AI models, in a deal valued at roughly US$13 billion. The acquisition would bring the largest repository of openly available models under the control of the dominant AI chip supplier.",
+      "why_it_matters": "Tying the open-model ecosystem to Nvidia could accelerate adoption of its hardware and software stack while raising antitrust and neutrality concerns among developers and rival chipmakers. Enterprises relying on open models may face a future where the platform's roadmap is aligned with one vendor's commercial interests.",
+      "score": 78,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "investment",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-07T16:15:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/nvidia-in-talks-to-buy-hugging-face-for-usd-13-billion",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA",
+        "Hugging Face"
+      ],
+      "content": "![Nvidia in talks to buy Hugging Face for USD $13 billion](https://datacenternews.asia/uploads/story/2026/09/08/ariel-assaraf-story-318403.webp) \n\n# Nvidia in talks to buy Hugging Face for USD $13 billion\n\nTue, 8th Sep 2026 (Today)\n![Sofiah Nichole Salivio](<https://datacenternews.asia/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYyNywicHVyIjoiYmxvYl9pZCJ9fQ==--3f3cbcdb3f86206827b894ccc07566b24a1d49e6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpbGwiOlsxNjAsMTYwXSwicXVhbGl0eSI6ODV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--89ddf5e6765c65a563c2258053e9d33c05d195da/unnamed%20(2).webp>) \n\nNvidia is in talks to acquire open-source AI platform Hugging Face, a reported deal that has prompted debate over the future shape of the AI infrastructure market.\n\nThe acquisition would give Nvidia a central role in one of the most widely used repositories for open models and machine learning tools. Hugging Face has become a standard reference point for developers working with open-weight and open-source AI systems across clouds and hardware platforms.\n\nIndustry executives say the outcome will depend on whether Nvidia preserves that neutrality. A change in ownership, they warn, could alter how models are ranked, priced, and presented, and could shift the balance of influence among chip vendors, cloud providers, and large AI model companies.\n\nJim Piazza, Chief AI Officer at Ensono, said the short-term outlook for existing users appears stable.\n\n\"For organizations using Hugging Face to test and compare models, the immediate impact would probably be limited. Existing open-model licenses would not automatically change with the platform's ownership, and companies that already download and run models in their own environments could continue doing so.\n\n\"Over time, however, organizations would need to watch whether Nvidia-owned models, inference services, and hardware receive preferential placement, optimization, or pricing. The value of Hugging Face is not simply its code or model files; it is the platform's position as a relatively neutral marketplace for discovering, evaluating, and deploying models from many different creators.\n\n\"Ultimately, the key measure of the acquisition would be whether Nvidia preserves Hugging Face as a genuinely open, hardware-agnostic ecosystem. If it does, the combination could accelerate enterprise adoption of open models. If the platform increasingly becomes an on-ramp to Nvidia's own stack, it could weaken the neutrality that made Hugging Face strategically valuable in the first place.\"\n\nJack Hogan, Vice President of Advanced Growth Technologies at SHI International, linked the move to a broader shift in how enterprises consume AI.\n\n\"Nvidia's reported acquisition of Hugging Face reflects a maturing AI market in which value is increasingly created through open ecosystems rather than any single model or technology. Hugging Face has become the leading hub for open-source and open-weight AI innovation, and this move reinforces the growing importance of openness, model choice, and interoperability as organizations scale AI adoption.\n\n\"SHI has long advocated for an approach that prioritizes the right mix of open, closed, purpose-built, and reasoning models based on cost-to-value, performance, governance, and business requirements. As the market matures, enterprises are placing greater emphasis on model choice and intelligent routing rather than relying on any single AI platform. Organisations that invest in flexible architectures and intelligent routing strategies will be best positioned to adapt to a rapidly evolving landscape and maximize the value of their AI investments.\"\n\nSome observers see the reported $13 billion price tag as a sign of how strategic open-weight AI has become for the hardware sector. Nvidia already dominates the market for AI accelerators, and ownership of a central model hub would tighten the link between software ecosystems and GPU infrastructure.\n\nAriel Assaraf, Chief Executive Officer at Coralogix, said the economics of AI infrastructure are shifting along with that trend.\n\n\"The move toward open-weight models was already underway, and a $13 billion acquisition is proof. There is mutual interest here among customers, infrastructure providers, and chip manufacturers in moving away from the big LLM companies.\n\n\"Chip manufacturers do not want AI vendors to hold that much power. Infrastructure providers such as Amazon, Azure, GCP, and CoreWeave would rather sell GPUs than resell someone else's model at a lower margin. Customers, meanwhile, get lower costs and send less of their data out.\n\n\"So we are going to see more open-weight models, more companies pushing them, and much wider adoption. Instead of just buying models, everyone is going to buy GPUs. Then they will need to monitor, secure, and optimize them. More companies running GPUs means more data coming off the apps and agents running on them. That opens up a massive opportunity for observability.\"",
+      "content_url": "https://datacenternews.asia/story/nvidia-in-talks-to-buy-hugging-face-for-usd-13-billion"
+    },
+    {
+      "id": "2026-09-07-43d433",
+      "title": "GLP begins development of 200MW data center in Foshan, China",
+      "summary": "GLP has started development of a 200MW data center campus in Foshan, in China's Guangdong province, with the first phase delivering 40MW of capacity. The project expands the logistics and data infrastructure giant's footprint in the Greater Bay Area.",
+      "why_it_matters": "Large-scale builds outside China's traditional hubs signal continued domestic appetite for computing capacity despite broader economic caution. For GLP, the phased approach lets it commit capital incrementally while testing demand from cloud and AI customers in southern China's manufacturing heartland.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "capacity",
+        "investment",
+        "hyperscale",
+        "development"
+      ],
+      "published_at": "2026-09-07T16:14:50Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/glp-begins-development-of-200mw-data-center-in-foshan-china/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "GLP"
+      ],
+      "content": "Property investor GLP has begun work on a 200MW data center campus in Foshan, Guangdong Province, China.\n\nThe company revealed on 4 September that work on the first 40MW of IT capacity has begun for the data center.\n\n![GLP Foshan](https://media.datacenterdynamics.com/media/images/TuPian1_2.width-358.png) \n\nGLP will invest a total of RMB 4 billion ($600m) and expects the campus to be one of the largest data center projects in the Greater Bay Area.\n\nThe data center is being purpose-built for an unnamed \"Internet and cloud services company,\" which is expanding its partnership with GLP.\n\n“We are delighted to expand our partnership with a leading hyperscale customer and deeply value the continued trust they have placed in GLP. AI is creating one of the most significant infrastructure opportunities of the next decade, and the scale of this new campus validates our strategy of building a differentiated digital infrastructure platform for the AI era,\" Gavin Shen, president of digital infrastructure, GLP China, said.\n\n\"By combining infrastructure development, data center operations, energy integration, and capital management capabilities, we provide customers with end-to-end support that helps them deploy faster, scale more efficiently, and create lasting value in the digital economy.\"\n\nThe data center will use hybrid liquid and air cooling systems, capable of supporting liquid-cooled density of up to 140kW per rack. GLP is using modular construction techniques on the site, including prefabricated components which the company says will enable delivery in as fast as four months.\n\nFoshan is a prefecture-level city in central Guangdong Province, China. It is a secondary data center market in China, with the largest hubs in the country located around Shanghai, Beijing, and Langfang.\n\nGLP has been involved in the data center business in China since 2018. The company says it currently has a footprint of 20 operational and under-development data centers with 1.4GW of IT capacity.\n\nIn July 2026, GLP signed a strategic cooperation agreement with the Ulanqab Government to jointly develop multi-GW hyperscale digital infrastructure in Inner Mongolia. In April 2025, the company closed its first digital infrastructure-focused fund in China, planning to buy a data center with the proceeds.\n\nIn 2024, GLP sold its international business unit, including data center platform Ada Infrastructure, to Ares Management Corporation in a deal worth $3.7bn so that it could focus on the Chinese market.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/glp-begins-development-of-200mw-data-center-in-foshan-china/"
+    },
+    {
+      "id": "2026-09-07-cc05b3",
+      "title": "ASC cable break causes connectivity disruption between Perth and Singapore",
+      "summary": "Repairs are underway",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "australia",
+        "southeast-asia"
+      ],
+      "topics": [
+        "connectivity",
+        "subsea-cable",
+        "outage"
+      ],
+      "published_at": "2026-09-07T15:40:21Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/asc-cable-break-causes-connectivity-disruption-between-perth-and-singapore/",
+          "type": "rss"
+        }
+      ],
+      "content": "A major cable break in Vocus' Australia-Singapore Cable (ASC) subsea cable has caused disruption to connectivity between Perth, Australia, to Singapore.\n\nThe break was first acknowledged by Vocus on Friday (September 4), though the break is still causing issues as of today (September 7), as confirmed via Vocus' outages page.\n\nLaunched in 2018, the 4,600km (2,858 miles) ASC connects Australia to Christmas Island, Jakarta, and Singapore.\n\nVocus noted that it was able to detect a fault condition on the ASC impacting traffic between Perth and Singapore last Friday. This led to Wavelength and Ethernet services becoming unavailable, while Internet traffic has been rerouted via other paths.\n\n\"The fault appears to be a subsea cable fault in Indonesian waters,\" said the company.\n\nThe cause of the fault has not been disclosed, though Vocus said it's working closely with its marine repair partner to progress repair readiness activities, while planning for the repair of the ASC is underway.\n\n\"Vocus is working closely with its marine repair partner to progress repair readiness activities. This includes technical review of the latest diagnostic results, confirmation of the required spare materials, and coordination of the necessary permits and regulatory approvals,\" said Vocus today in its most recent update.\n\nThe company added that it will provide its next update on September 11.\n\nIt's not the first time the ASC cable has suffered a major break. Back in 2021, a Maersk ship captain was arrested and charged after allegedly damaging the cable, though the case was later dropped against the captain.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/asc-cable-break-causes-connectivity-disruption-between-perth-and-singapore/"
+    },
+    {
+      "id": "2026-09-07-ec2c4a",
+      "title": "Goodman Group gets green light for 135MW data center in northern Sydney, Australia",
+      "summary": "Goodman Group has received approval to build a 135MW data center in northern Sydney, advancing a project first announced in 2024. The development adds to the industrial property giant's growing pipeline of Australian digital infrastructure assets.",
+      "why_it_matters": "Planning approvals in Sydney's constrained land and power market are increasingly the deciding factor in who can build, so this green light gives Goodman a scarce and valuable development position. It also signals that local authorities remain willing to approve large facilities despite growing scrutiny of data centers' resource demands.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "capacity",
+        "investment",
+        "development",
+        "approval"
+      ],
+      "published_at": "2026-09-07T14:52:56Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/goodman-group-gets-green-light-for-135mw-data-center-in-northern-sydney-australia/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Goodman Group"
+      ],
+      "content": "Australia’s Goodman Group has been granted planning permission for a data center in northern Sydney, New South Wales (NSW).\n\nThe 135MW data center, dubbed Project Apollo, will cost some AU$1.4 billion ($1bn), and has been given the green light by the NSW Department of Planning, Housing, and Infrastructure following a meeting last week.\n\nGoodman first filed for permission to develop the site at 4-10 Talavera Road, Macquarie Park, in 2024.\n\n![4-10 Talavera Road, Macquarie Park Sydney aus goodman](https://media.datacenterdynamics.com/media/images/4-10_Talavera_Road_Macquarie_Park_Sydney_aus_g.width-358.png) \n\nThe project will see two existing buildings on the plot demolished to make way for a development with eight data halls. The data center will feature evaporative cooling towers and be powered by grid energy, with backup diesel generators and lithium-ion battery systems being installed on site.\n\nIt is expected that the data center will create up to 60 permanent jobs once up and running.\n\nTraditionally focused on logistics and industrial real estate, Goodman has data center projects in operation or development across Hong Kong, Australia, Germany, the US, France, and Japan.\n\nThe company recently topped out a data center in Los Angeles, California. The 32MW facility is set to be handed over next year. It has also announced plans for a 97MW data center in San Jose.\n\nGoodman is developing multiple data centers across Sydney. The company is planning a 126MW facility in Guildford West on a former Castrol site and is seeking to redevelop the former ABC television studios in the city’s North Shore area into an 80MW data center.\n\nIt is also redeveloping a former Eaton warehouse site in Mascot into a 90MW facility, and a warehouse site in Cove West into a 90MW campus.\n\nElsewhere in Australia, it intends to construct an AU$1.1 billion ($756m) data center in Melbourne.\n\n*DCD interviewed Goodman Group founder and CEO Greg Goodman in issue 51 of DCD>Magazine.* *Register here* *to read the magazine free of charge.*",
+      "content_url": "https://www.datacenterdynamics.com/en/news/goodman-group-gets-green-light-for-135mw-data-center-in-northern-sydney-australia/"
+    },
+    {
+      "id": "2026-09-07-25754c",
+      "title": "Supernode Is Not Just 'Stacking GPUs': How Ruijie Networks Redefines AI Computing Infrastructure",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "ai",
+        "infrastructure",
+        "networking",
+        "gpu"
+      ],
+      "published_at": "2026-09-07T13:43:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "中国IDC圈",
+          "url": "https://news.idcquan.com/news/207967.shtml",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Ruijie Networks"
+      ]
+    },
+    {
+      "id": "2026-09-07-d371ce",
+      "title": "Anthropic signed $517bn in compute agreements in past 11 months",
+      "summary": "Anthropic has signed compute agreements worth US$517 billion over the past 11 months, covering roughly 14.8GW of capacity. The commitments reflect the frontier AI lab's race to secure the infrastructure needed to train and serve its next generations of models.",
+      "why_it_matters": "Commitments at this scale lock up a meaningful share of global data center and power capacity for a single company, tightening supply for everyone else and inflating costs. They also concentrate systemic risk, since the AI sector's investment case now depends heavily on a handful of labs' ability to pay for what they have reserved.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "capacity",
+        "investment",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-07T11:38:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/anthropic-signed-517bn-in-compute-agreements-in-past-11-months/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "content": "AI lab Anthropic has signed some $517 billion in compute capacity leases in the past 11 months.\n\nAs reported by The Information, which has compiled public announcements and its own reporting, since October last year, the company has signed on for 14.8GW of compute capacity that it will access over the next few years.\n\nAccording to an unnamed source, the company had secured between 1GW and 2GW of capacity prior to that as well.\n\nThat Anthropic has been rapidly scaling up its compute capacity is not news. Towards the end of August, the company reportedly signed a $45bn compute capacity agreement with Nscale, and prior to that, it said it had signed more than a dozen letters of intent for data center leases with multiple US developers, signed a 191MW agreement with Riot Platforms for its data center in Texas, and has a $200bn agreement signed with Google for TPUs that it could deploy itself.\n\nBeyond data center leases, the company has also turned to cloud providers for its compute capacity. This includes large cloud capacity deals with Akamai, Amazon Web Services – including a massive cluster of the cloud firm’s custom Trainium hardware, CoreWeave, and a $50bn partnership with AI cloud firm Fluidstack. Other companies it has signed agreements with include SpaceX/xAI, Google Cloud, Lambda, Volta Infra, AMD, and Microsoft.\n\nThe company previously told investors it was expecting to spend around $180bn on renting servers through 2029, but this has seemingly significantly increased since with The Information's analysis adding up to $517bn, and noting that the company could have signed other deals without making them public.\n\n*DCD* has contacted Anthropic for comment.\n\nOf the capacity, the largest providers will be Google and AWS, which will combined contribute 11GW of capacity.\n\nAnthropic confidentially filed for an Initial Public Offering (IPO) with the US SEC in June of this year. Details were very sparse, and no further updates have yet been provided.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/anthropic-signed-517bn-in-compute-agreements-in-past-11-months/"
+    },
+    {
+      "id": "2026-09-07-801900",
+      "title": "Thailand pauses construction on 49 data centers, as it plans new regulations",
+      "summary": "Thai authorities have halted construction on 49 data center projects while the government drafts new regulations addressing the sector's electricity consumption and its effects on surrounding communities. The pause reflects mounting concern that the country's power grid and local resources are being strained by the rapid buildout of digital infrastructure.",
+      "why_it_matters": "Thailand has been one of Southeast Asia's fastest-emerging data center markets, and a construction freeze of this scale directly affects developers with projects in flight and the investors behind them. The regulations that emerge could raise the cost and approval burden for new capacity, potentially redirecting regional demand toward Malaysia and Indonesia.",
+      "score": 88,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "regulation",
+        "power",
+        "capacity",
+        "sustainability"
+      ],
+      "published_at": "2026-09-07T10:19:41Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/thailand-pauses-construction-on-49-data-centers-as-it-plans-new-regulations/",
+          "type": "rss"
+        }
+      ],
+      "content": "Thailand has suspended the construction of 49 data centers due to growing concerns over power consumption and local community impacts.\n\n![Thailand](https://media.datacenterdynamics.com/media/images/GettyImages-1146493663.width-358.jpg) \n\nFirst reported by Bloomberg, the pause was announced by Danucha Pichayanan, secretary-general of the National Economic and Social Development Council.\n\nAccording to reports, the pause in construction is expected to allow officials to develop a series of new industry regulations in order to create a more sustainable environment for data center development. Exact details on the new regulations are slated to be revealed within the month.\n\nIn addition to the suspension of the 49 projects, Thai officials also froze approvals for 117 planned facilities. The exact facilities that have had their development paused have not been disclosed.\n\nThe new standards will mean that new data center projects will have to meet several requirements. These include town planning, separation from neighboring buildings, safety, electrical systems, backup fuel storage, and environmental protection. Existing operators will receive a transition period to bring their premises and systems into compliance.\n\nDespite the pause, Thai officials were clear in stating that the country is not closed for business for data center development. Instead, stressing the need for clear and consistent standards, alongside a uniform oversight body for both operational and developing data centers.\n\nThe Southeast Asian country has seen a huge influx of data center investment over recent years, with several developers seeking to cash in on the AI boom. In the first half of 2026 alone, Thailand's Board of Investment approved 88 artificial intelligence and data center projects, worth approximately 886 billion baht (about $27 billion).\n\nThailand is already home to several of the largest hyperscalers. Amazon Web Services (AWS) launched a cloud region there in January 2025. Google followed this, launching its own cloud region in Bangkok in January.\n\nMicrosoft is currently developing a region in the country, and in October 2025 revealed it would use True IDC for one of its availability zones. Alibaba Cloud also has two data centers in the country.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/thailand-pauses-construction-on-49-data-centers-as-it-plans-new-regulations/"
+    },
+    {
+      "id": "2026-09-07-8df526",
+      "title": "NSW data centre water debate turns on who pays for peak demand",
+      "summary": "The NSW government has asked pricing regulator IPART to review how data centers should be charged for the water infrastructure they require, including whether fees should be based on peak demand or average consumption. The review will examine how the costs of servicing very large water users should be allocated across the network.",
+      "why_it_matters": "The outcome will determine whether data center operators bear the full cost of the water system upgrades their facilities trigger or whether those costs are socialized across other customers. It is an early test case in Australia for how governments price scarce resources for the industry, with implications for site economics in Sydney and beyond.",
+      "score": 72,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "power",
+        "water",
+        "regulation",
+        "cooling"
+      ],
+      "published_at": "2026-09-07T08:56:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/nsw-data-centre-water-debate-turns-on-who-pays-for-peak-demand/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "IPART"
+      ],
+      "content": "NSW’s independent pricing regulator is set to examine how data centres should pay for the water infrastructure needed to service them, including whether charges should reflect peak demand or average consumption.\n\nThe NSW government has asked IPART to review the water pricing and regulatory framework for data centres, including how the costs of servicing large, high-intensity users should be recovered. The review will run alongside IPART’s existing review of developer charges for metropolitan water businesses, which covers the costs of connecting, extending or upgrading water, wastewater and recycled-water services.\n\nThe reviews are set to shift the debate beyond how much water data centres consume to whether the demand that determines the capacity the network must provide should also determine how much of the resulting infrastructure cost the data centre pays.\n\nSydney Water says data centres currently account for less than one percent of Greater Sydney’s total water demand, or around 3.5 billion litres a year. However, demand from the sector could increase Greater Sydney’s total water demand by up to 20 to 25 percent by 2035, Sydney Water said, although that demand does not need to be met through drinking-water supplies.\n\n“The new NSW Data Centre Policy Framework sets world-class water efficiency standards,” a Sydney Water spokesperson told W.Media. “It will also include an IPART review which will consider how water pricing can reflect the full costs associated with servicing data centres, ensuring other water users on the network are protected and the impacts of drought and water scarcity are appropriately managed.”\n\nIt is understood that additional large-scale recycled-water infrastructure will be required to service future data centre demand, with treatment and network assets needing to be sized to accommodate peak water use.\n\nThat creates a potential tension with the position taken by industry body Data Centres Australia in its submission to IPART’s separate review of metropolitan developer charges.\n\n### Peak demand versus actual consumption\n\nDCA argues that using peak daily demand as the basis for allocating infrastructure costs can overstate the actual burden imposed by data centres. Its position is that peak demand figures generally represent worst-case conditions, for example, like extreme weather combined with particular cooling-system configurations, rather than typical daily consumption.\n\nThe industry body argues that annualising such a peak figure by assuming it occurs every day can significantly overstate the volume drawn from the network. DCA also argues that data centres can manage peak demand through measures including on-site water storage and flow-control systems such as night-time filling.\n\nThe result, in DCA’s view, is that average annual consumption provides a more representative measure of the actual impact a facility has on the water network and should have greater weight in calculating developer charges.\n\nHowever, a treatment plant or network connection that has enough capacity to supply average demand may not have sufficient capacity when a data centre reaches its maximum water requirement. The question for the regulator is therefore whether the peak capacity that has to be provided for a data centre should translate into a corresponding infrastructure charge, even where operational measures can reduce the frequency or duration of that peak.\n\n**Who pays for the first connection?**\n\nThere is another issue brewing behind the debate: the first-mover problem. A large data centre arriving in an area may trigger investment in new treatment, recycled-water or network infrastructure that subsequently has capacity available to other developments.\n\nDCA’s position is that the first project should not be penalised simply because it is the first customer to arrive.\n\nInstead, it argues that if the initial customer funds infrastructure that subsequently benefits other developments, mechanisms should allow some of those costs to be recovered from later users.\n\nThat raises a broader question for IPART: whether developer charges should reflect the incremental cost imposed by an individual data centre, or whether a large project can legitimately be required to fund infrastructure that forms part of a wider network expansion.\n\nIPART’s existing developer-charges review is examining how the costs of servicing new development should be recovered and how those costs should be allocated between developers and existing customers.\n\n### IPART has both pieces of the puzzle\n\nThe NSW Government’s new data-centre-specific review potentially brings these questions together. IPART’s draft terms of reference cover the pricing and regulation of water services to data centres, including infrastructure upgrades, additional supply capacity and the impact of large or high-intensity users. And the regulator has said its existing developer-charges review is relevant to some of the issues in the new terms of reference.\n\nUndertaking the two reviews simultaneously, IPART says, will help ensure that data centre infrastructure costs are considered within the broader developer-charges framework and that relevant findings are aligned.\n\nPublic submissions on the new draft terms of reference are open until 2 October, after which IPART will commence the full review and consult further with stakeholders.\n\nThe reviews are timely. Sydney Water’s current data centre demand remains relatively small in the context of the overall Greater Sydney water system. But if the sector’s demand grows as projected, the question of how much new infrastructure is required, including how much of that cost should be recovered from data centres, becomes a real bone of contention.\n\nThe emerging debate is therefore moving on from whether data centres use too much water. It is now focused on whether the network built to meet their peak, not their average, should also be the basis on which they’re charged. IPART’s two reviews are where that question may finally get answered.",
+      "content_url": "https://w.media/nsw-data-centre-water-debate-turns-on-who-pays-for-peak-demand/"
+    },
+    {
+      "id": "2026-09-07-a9eed6",
+      "title": "How Singapore can become the 'Switzerland of chips'",
+      "summary": "The Republic can be a neutral place where chips, capital, talent and data all come together",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "investment"
+      ],
+      "published_at": "2026-09-07T08:02:58Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/opinion-features/how-singapore-can-become-switzerland-chips",
+          "type": "rss"
+        }
+      ],
+      "content": "The Republic can be a neutral place where chips, capital, talent and data all come together\n\nLEADERSHIP in semiconductor chip manufacturing is shifting away from developing smaller and faster chips, which are costly and dominated by a few tech giants. Building advanced fabrication plants can cost more than a dozen billion dollars and offer diminishing returns.\n\nThe new focus is on advanced packaging, high-bandwidth memory, power management, software and system integration.\n\nRecent artificial intelligence bottlenecks show that Nvidia’s growth is limited by Taiwan Semiconductor Manufacturing Co’s (TSMC) chip-on-wafer-on-substrate packaging rather than transistor density, while AMD thrives on chiplet architectures.\n\nTSMC is expanding packaging capacity, indicating that performance now hinges more on chip communication and power management.\n\nAmid these developments, Singapore appears to be having a “Switzerland moment” – much like what the European country experienced in the 20th century.\n\nSwitzerland did not dominate manufacturing. It became indispensable by connecting finance, trade and competing political blocs. In a fragmented semiconductor world, Singapore can play the same role.\n\nThe South-east Asian city-state already has the ingredients: political stability, trusted institutions, world-class logistics, and the ability to work with both Washington and Beijing.\n\nWhat is missing is the narrative to match the investment. The investment is already happening.\n\nIn January 2025, Micron broke ground on a US$7 billion advanced packaging facility for high-bandwidth memory in Singapore. GlobalFoundries committed US$4 billion to expand speciality chip capacity.\n\nSEE ALSO\n\nThe Economic Development Board of Singapore noted that the country already accounts for about 10 per cent of the global semiconductor output, and 20 per cent of semiconductor equipment production.\n\nThat footprint was built on packaging, testing, R&D and equipment – not leading-edge fabrication. So, Singapore can definitely become a global player in chips manufacturing.\n\nThe country does not need to compete with others at the top end. Most of the chip buyers do not need the high-performance graphics processing units that power massive data centres. Most electronics or cars need only simple routine chips to run.\n\nNeither Singapore nor neighbouring Malaysia will replace Taiwan, South Korea or the US in advanced manufacturing, but they do not need to.\n\nMalaysia’s deep expertise in assembly, testing and packaging complements Singapore’s strengths in finance, logistics and infrastructure. Together, they can form a regional ecosystem that matters more than any single fab.\n\n## Indispensable Singapore\n\nTo win this next phase, Singapore should do three things.\n\nFirst, double down on advanced packaging, AI infrastructure and semiconductor talent. Stop trying to out-subsidise Intel or TSMC. Win where scale matters less than coordination.\n\nSecond, leverage geography. With 280 million people in Indonesia and more than 700 million people across South-east Asia in total, vast amounts of data are being generated in close proximity to Singapore.\n\nCritical to Singapore’s strategy is data, the fuel for AI. The city-state can position itself as the trusted hub where regional data is computed, stored and used to train models – under strong governance.\n\nSingapore can become the Switzerland of chips, if the governance structure is set up properly and respected by all the major players and neighbours.\n\nThird, protect its neutrality. In a world split between US and China tech stacks, the most valuable real estate may be the place in which both sides still trust enough to meet, invest and coordinate. That is Singapore’s historic advantage.\n\nWhile AI safety and governance rules are still in their infancy, Singapore could host and lead this conversation, helping to build consensus for a broader AI governance framework.\n\nData centres, power grids, advanced packaging plants and cross-border supply chains will decide the next decade of competition just as much as clean rooms do.\n\nThe decisive question in the race is no longer who can build the smallest chip, but who can turn computing power into usable capability at scale.\n\nSingapore may never produce the world’s most advanced chips, but it can become the place where the chips, capital, talent and data all come together.\n\nIn a fragmented technological order, being indispensable is more valuable than being dominant.\n\nSingapore’s land constraint is real, but solvable – by extending its connector model.\n\nOrbital compute, water-based data centres – such as Microsoft’s Project Natick – and deeper collaboration with Malaysia and Indonesia for conventional capacity are all versions of the same strategy: building beyond its borders while keeping the control, trust and governance inside them.\n\nFor a city-state built on being the connector, this is a playbook it already knows how to execute.\n\nSingapore does not need to win the race for developing the smallest chip. In a world splitting into rival tech empires, power could come from being the one place no one can afford to cut out.\n\nIn semiconductors, as in finance, the world does not need another superpower. It needs a Switzerland.\n\n**This is an adaptation of an article earlier** **published on the LSE South-east Asia Blog****.**\n\n**Bruno S Sergi is an instructor at the Harvard Extension School. He is also affiliated with the Harvard Center for International Development, the Davis Center for Russian and Eurasian Studies, and the Harvard University Asia Center.**\n\n**Kevin Chen is the chief economist and chief investment officer of Horizon Financial, and partner and CIO of CoinBridge. An adjunct associate professor at New York University, he serves on multiple Nasdaq and international corporate boards.**\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services\n\n## TRENDING NOW\n\nWatch live: PM Wong, Chan Chun Sing to address political office-holders’ salary review in Parliament\n\nVietnam pitches its real economy, not a Singapore replica, in two-city IFC push\n\nLawsuit from ex-advisers adds to claims arising from Hao Mart’s lease of Taste Orchard\n\nCanada’s fight with the US has far bigger stakes than trade",
+      "content_url": "https://www.businesstimes.com.sg/opinion-features/how-singapore-can-become-switzerland-chips"
+    },
+    {
+      "id": "2026-09-07-776bd8",
+      "title": "Key ASIC and CT Vision ink MOU to build 300MW green AI data center in Malaysia",
+      "summary": "Malaysian semiconductor firm Key ASIC Berhad and Hong Kong-based CT Vision have signed an MOU to jointly develop a 300MW green AI data center in Malaysia. The partnership covers construction, ownership, and operation of the facility along with dedicated renewable energy supply.",
+      "why_it_matters": "An MOU for 300MW adds to Malaysia's swelling pipeline of announced AI capacity, though such early-stage agreements frequently fail to reach construction. If realized, pairing the facility with dedicated renewables would address the energy concerns increasingly attached to Malaysia's data center boom.",
+      "score": 78,
+      "heat": 2,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "capacity",
+        "investment",
+        "green-energy"
+      ],
+      "published_at": "2026-09-07T06:13:14Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/key-asic-and-ct-vision-plan-green-ai-data-center-in-malaysia/",
+          "type": "rss"
+        },
+        {
+          "name": "W.Media",
+          "url": "https://w.media/key-asic-and-ct-vision-ink-mou-to-build-300mw-green-ai-data-center-in-malaysia/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Key ASIC",
+        "CT Vision"
+      ],
+      "content": "Malaysian semiconductor designer Key ASIC has signed an agreement with Hong Kong-based investment firm CT Vision to develop a green AI data center in Malaysia.\n\nThe two companies signed a non-binding Memorandum of Understanding (MoU) last week, outlining a strategic partnership to build and operate the data center, including plans for dedicated renewable energy generation to fully power the facility.\n\n![Business partnership](https://media.datacenterdynamics.com/media/images/rudall30.width-358.jpg) \n\nThe facility has a planned total IT load of approximately 300MW within five years of its launch and will be purpose built for AI and machine learning workloads, as well as supercomputing and enterprise cloud services.\n\nKey ASIC said the partnership will deliver an “end-to-end sustainable AI infrastructure ecosystem,” integrating dedicated green energy generation. It will target 100 percent renewable energy penetration, with a Power Usage Effectiveness (PUE) ratio less than or equal to 1.2.\n\nThe MoU includes a ten-year confidentiality clause. Feasibility studies, site planning, and engineering and commercial structuring are being planned to take place by the end of the year.\n\n“This partnership represents a paradigm shift: we are not merely constructing a data centre, but building a green energy-to-AI ecosystem,” said Eg Kah Yee, executive chairman and CEO of Key ASIC. “By building and generating our own green energy specifically for AIDC use, we achieve exceptional energy security, long-term cost competitiveness and full ESG accountability. Aligned with relevant national and state government authorities, this project underscores Malaysia’s strategic advantage as a premier destination for sustainable AI infrastructure in Southeast Asia.”\n\nLian Mingcheng, executive director of CT Vision, added: “Malaysia offers outstanding renewable resources, strategic geographic location and stable policy environment – ideal for next-generation AI infrastructure.”\n\n“Combining Key ASIC’s local market mastery, semiconductor innovation and strong alignment with regulatory and development authorities, with our global capital and green technology strengths creates a new benchmark for sustainable development. We are proud to jointly deliver a project that aligns with the highest global environmental standards while supporting the rapid growth of the regional digital economy.”\n\nFounded in 2005, Key ASIC is a designer of semiconductors, application-specific integrated circuits (ASICs), and energy-efficient computing. The company says it is currently investing in IoT, blockchain, and AI.\n\nCT Vision has a range of international investments, with a focus on AI, 5G, IoT, biomedicine, and the development and operation of clean energy.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/key-asic-and-ct-vision-plan-green-ai-data-center-in-malaysia/"
+    },
+    {
+      "id": "2026-09-07-aabd58",
+      "title": "Sharon AI signs five-year Rafay deal for GPU orchestration",
+      "summary": "The arrangement gives the Australian neocloud a single control layer to manage AI infrastructure and support up to 150,000 GPUs.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "gpu",
+        "cloud",
+        "infrastructure"
+      ],
+      "published_at": "2026-09-07T05:45:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/sharon-ai-signs-five-year-rafay-deal-for-gpu-orchestration",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Sharon AI",
+        "Rafay"
+      ],
+      "content": "![Sharon AI signs five-year Rafay deal for GPU orchestration](https://datacenternews.asia/uploads/story/2026/09/07/haseeb-budhani-and-james-manning-story-318369.webp) \n\n![Sean Mitchell](https://datacenternews.asia/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--a929a91c2a04d9af95ed98b14ed4d405bc70c1a7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpbGwiOlsxNjAsMTYwXSwicXVhbGl0eSI6ODV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--89ddf5e6765c65a563c2258053e9d33c05d195da/IMG_3092.webp) \n\nSharon AI has signed a five-year strategic agreement with Rafay Systems to orchestrate AI infrastructure across its operations.\n\nThe arrangement is designed to support the orchestration of up to 150,000 GPUs over the term of the agreement, giving Sharon AI a common platform to manage infrastructure across multiple locations, tenants and workloads.\n\nSharon AI, an Australian neocloud operator listed on Nasdaq, will use Rafay's software as a central orchestration and operations layer across its AI Factory environments. The goal is to move from managing individual clusters to a more standardised operating model as the company expands in Asia-Pacific and other markets.\n\nThat model covers how computing infrastructure is provisioned, governed, monitored and delivered to customers. It also spans both Kubernetes and virtual machine environments through a single platform.\n\n### Platform shift\n\nThe agreement marks a shift in how Sharon AI plans to run its estate as it adds more GPU-based infrastructure. Instead of treating deployments as separate clusters, it is establishing a control layer above the underlying physical systems to apply common rules and processes across sites.\n\nRafay said its platform includes infrastructure lifecycle management, workload orchestration, governance and monitoring. That would allow Sharon AI to apply the same operating standards across different customer environments while keeping tenants isolated from one another.\n\nThe companies presented the deal as part of a broader effort to make AI infrastructure easier for customers to use without owning or operating the hardware themselves. That is increasingly central to the neocloud business model, in which providers rent access to scarce GPU resources and the surrounding software stack needed to run AI workloads.\n\nSharon AI said the standardised platform should also help it build internal operating practices and expertise as its footprint grows. It expects the system to support more automated service delivery, improve infrastructure utilisation and maintain common governance across deployments.\n\nJames Manning, Co-founder and Chief Executive Officer of Sharon AI, outlined the company's rationale for the deal.\n\n\"Sharon AI is delivering the trusted infrastructure and operational capabilities required to help customers realize measurable value,\" said James Manning, Co-founder and Chief Executive Officer of Sharon AI.\n\n\"Our agreement with Rafay gives us a standardized platform for orchestrating and managing AI infrastructure across our expanding footprint. This should enable us to manage our compute capacity more efficiently, accelerate service delivery and provide customers with a consistent and secure experience as we scale.\"\n\n### Growing demand\n\nDemand for GPU infrastructure has risen sharply as companies seek computing capacity for model training, inference and other AI workloads. That has created opportunities for specialist cloud providers, but it has also increased the operational burden of managing hardware fleets across sites and customers.\n\nIn that environment, software layers that control provisioning, access, monitoring and governance have become more important. Providers must allocate resources between customers, maintain service reliability and enforce security and policy controls while trying to keep expensive assets in use.\n\nRafay's pitch to operators in that market is that a unified control plane can reduce the complexity of managing bare-metal systems, virtual machines and container-based workloads. For Sharon AI, the attraction appears to be consistency across a growing estate rather than reliance on separate tools or processes in each deployment.\n\nHaseeb Budhani, Co-founder and Chief Executive Officer of Rafay Systems, said the deal reflects a broader need in the AI infrastructure market.\n\n\"Operating AI infrastructure at scale requires more than access to GPU capacity,\" said Haseeb Budhani, Co-founder and Chief Executive Officer of Rafay Systems.\n\n\"Providers also need the orchestration, automation and governance capabilities required to transform that infrastructure into secure, reliable and production-ready AI services. Sharon AI is building a highly scalable AI infrastructure platform for customers across Asia-Pacific and beyond, and we are proud to provide an operational foundation that can support its continued growth.\"\n\nThe agreement's reference to up to 150,000 GPUs over five years points to Sharon AI's intention to build for much larger deployments over time. While the figure does not indicate installed capacity today, it gives a sense of the operational scope the company wants its software layer to handle as demand grows.\n\nFor operators in the AI infrastructure market, that level of scale raises questions not only about access to chips and data centre space, but also about how quickly systems can be deployed, assigned to customers and supervised once in production. The Sharon AI-Rafay agreement is aimed as much at that operational challenge as at raw compute supply.",
+      "content_url": "https://datacenternews.asia/story/sharon-ai-signs-five-year-rafay-deal-for-gpu-orchestration"
+    },
+    {
+      "id": "2026-09-07-46c3a8",
+      "title": "Dell's $95 billion AI backlog signals infrastructure crunch",
+      "summary": "Dell Technologies disclosed a record US$95 billion order backlog for AI infrastructure, a more than 50 percent year-over-year jump driven by enterprise and cloud provider demand. The company is struggling to secure enough servers, storage, and components to fulfill orders on schedule.",
+      "why_it_matters": "A backlog of this magnitude means data center operators and enterprises face long waits for the hardware their AI plans depend on, potentially delaying buildouts and raising costs. It also hands pricing power to suppliers across the server and component supply chain.",
+      "score": 82,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "supply-chain",
+        "servers"
+      ],
+      "published_at": "2026-09-07T04:42:08Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/dells-95-billion-ai-backlog-signals-infrastructure-crunch/133863887",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Dell Technologies"
+      ],
+      "content": "Dell Technologies reported a record $95 billion backlog for AI infrastructure orders, indicating a significant supply chain crunch across servers, storage, and other critical components. This backlog reflects a more than 50% year-over-year increase in AI demand, challenging the company's ability to meet enterprise and cloud provider needs.\n\nSelect ETDatacenters as Preferred Choice on Google\n\nHighlights\n\nDell reported a record $95 billion backlog for AI infrastructure orders.\n\nAI demand surged over 50% year-over-year, driving Dell's revenue to $47 billion.\n\nSupply constraints impact servers, storage, DRAM, NAND, and other critical components.\n\nEnterprise agentic AI is projected to be the largest data centre workload by 2028.\n\nDell Technologies is facing substantial infrastructure and storage supply constraints, struggling to keep pace with the increasing demands of agentic artificial intelligence (AI) workloads. The company recently disclosed a record $95 billion backlog in AI infrastructure orders, with quarterly earnings showing over a 50% year-over-year surge in AI demand.Dell Chief Operating Officer (COO) Jeff Clarke stated that supply shortages begin with servers and storage, extending across nearly every product component. He noted that securing more supply is a \"very difficult task\" in the current environment. Dell's revenue for the financial quarter ending July 31 reached $47 billion, marking a 58% year-over-year growth. The Dell Infrastructure Solutions Group (ISG) recorded an 89% increase, reaching $31.8 billion, driven significantly by traditional central processing unit (CPU)-based servers supporting AI workloads.\n\nGrowing Enterprise AI Demand\n\nThe company booked nearly $61 billion in AI server orders in the three months ending July 31, contributing to over $130 billion in AI server orders over the last 12 months. Clarke reported that Dell converted $131.7 billion of demand into orders over the past year, with demand broadening across enterprise customers, neoclouds, and sovereign cloud providers.The number of customers utilising Dell AI Factory, a platform designed for AI workflows, has surpassed 6,500, with 3,300 new customers added in the last three quarters alone. Clarke highlighted that this growth is significant, as it took two years to onboard the initial 3,200 customers after the platform's debut in May 2024.\n\nLong-Term AI Impact on Data Centres\n\nClarke emphasised that agentic demand is \"reshaping the data center,\" with inference driving \"pure demand in our industry.\" Dell projects that 3,600 quadrillion tokens will be in use by 2030, an 87-fold increase from current levels. Training demand is also expected to grow fivefold to 850 zettaflops over the same period. Enterprise agentic AI is forecast to be the largest workload by 2028, accounting for 75% of all data centre demand by 2030.Customers are increasingly requiring substantial CPU compute capacity for AI and agentic workflows. In its last two financial quarters, Dell generated nearly as much revenue from traditional servers and networking as in any prior full year, primarily from existing customers modernising their IT environments. Dell anticipates significant and durable refresh cycles, alongside heightened security and resiliency requirements.\n\nPersistent Supply Chain Constraints\n\nAI deployments necessitate modern, disaggregated architectures that maintain data accessibility across compute, storage, and networking. These deployments require extensive engineering, design, and deployment expertise, with some customer engagements involving up to 50 unique designs to optimise for workload performance, power, cooling, and data centre environments.However, key supply constraints persist, particularly for dynamic random-access memory (DRAM) and NAND flash memory. There are also reported \"spotty\" shortages of CPUs and disk drives, extending throughout the supply chain from microcontrollers to transistors. Large enterprises and multinational corporations are reportedly deferring purchases due to rising prices or placing orders well in advance to secure constrained supplies. Dell is working to optimise configurations with available components to maximise output and manage lead times.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/dells-95-billion-ai-backlog-signals-infrastructure-crunch/133863887"
+    },
+    {
+      "id": "2026-09-07-016368",
+      "title": "AI energy surge outpaces tech firms' climate action: report",
+      "summary": "A new report reveals that climate commitments by technology companies are not keeping pace with the escalating energy demands driven by the artificial intelligence (AI) boom. This highlights an urgent need for enhanced sustainability practices across the digital infrastructure sector to meet global climate targets.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "power",
+        "sustainability",
+        "energy"
+      ],
+      "published_at": "2026-09-07T04:39:12Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/ai-energy-surge-outpaces-tech-firms-climate-action-report/133863802",
+          "type": "rss"
+        }
+      ],
+      "content": "### AI's Dual Impact on Sustainability\n\nThe report, which monitors the emissions and climate commitments of 200 major tech companies globally using 2024 data, identified AI as \"both a driver of efficiency and a growing challenge.\" Leading AI and cloud providers experienced individual emissions increases between 2020 and 2024, primarily due to surging energy requirements and infrastructure expansion.ITU chief Doreen Bogdan-Martin stated that while digital technologies offer significant potential for climate action, their increasing energy demands and emissions cannot be overlooked. She emphasised the need to integrate environmental sustainability into the design, powering, and scaling of technologies shaping the digital future.Emissions from four major AI and cloud computing providers reportedly surged by up to 239 percent between 2020 and 2024, whereas 14 major telecommunications firms reduced their emissions by 11 percent during the same period. The ITU noted that AI, despite supporting climate action through energy optimisation and efficiency gains, carries its own environmental costs.\n\n### Operational Emissions and Electricity Consumption\n\nIn 2024, the 200 companies assessed reported 301 million tonnes of operational emissions in carbon dioxide equivalent, representing 0.8 percent of global energy-related emissions. These companies collectively consumed nearly 500 Terawatt-hours (TWh) of electricity, approximately 1.7 percent of global electricity consumption. The report forecasts that power demand will continue to grow as AI, cloud computing, and digital infrastructure expand.Among the companies for which data was available, China Mobile reported the highest electricity consumption at 63 TWh, almost double that of second-placed Alphabet and Samsung, both at 32 TWh. Microsoft followed with 30 TWh. The top 10 biggest consumers combined used 269 TWh of electricity, surpassing Australia's total consumption.\n\n### Renewable Energy Targets and Progress\n\nAlthough tech firms are among the largest purchasers of renewable electricity globally, only 25 of the 200 companies in the report stated they sourced 100 percent renewable electricity. The assessment found that 151 companies had near-term emission reduction targets, influenced by both voluntary leadership and investor expectations, as well as emerging regulations.However, only 85 companies were deemed \"on-track\" based on their progress, and just 81 had comprehensive plans to meet their climate goals. WBA executive director Gerbrand Haverkamp highlighted the necessity for digital companies to engage suppliers and address emissions across their entire product and service supply chains.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/ai-energy-surge-outpaces-tech-firms-climate-action-report/133863802"
+    },
+    {
+      "id": "2026-09-07-f85e83",
+      "title": "Foxconn says third quarter to outperform market expectations on AI strength",
+      "summary": "Foxconn, Nvidia's largest server assembler and a key Apple supplier, guided its third-quarter results above market consensus, citing surging demand for AI servers. The Taiwanese manufacturer's AI server business has become its primary growth engine, offsetting slower consumer electronics segments.",
+      "why_it_matters": "For APAC data center operators and investors, Foxconn's guidance is a leading indicator of how fast AI infrastructure is actually being deployed, not just ordered. Stronger-than-expected server production means hyperscalers are accelerating buildouts, with knock-on effects for regional power, colocation capacity, and component supply chains across Asia.",
+      "score": 68,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "servers",
+        "supply-chain"
+      ],
+      "published_at": "2026-09-07T04:09:48Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/foxconn-says-third-quarter-outperform-market-expectations-ai-strength",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Foxconn",
+        "NVIDIA"
+      ],
+      "content": "Firm is Nvidia’s biggest server maker and a major Apple supplier\n\n[TAIPEI] Foxconn’s third-quarter performance is expected to outperform market expectations given strong AI-related demand, the Taiwanese contract electronics maker said on Saturday (Sep 5), though it offered caution about “volatile” global politics.\n\nFoxconn, Nvidia’s biggest server maker and a major Apple supplier, has been a big beneficiary of the trend towards AI, reporting in August a 35 per cent rise in second-quarter profit that beat analyst forecasts.\n\n“In the third quarter, as AI demand continues to grow, and ICT products also enter the peak season of the second half of the year, operations are expected to gradually gain momentum,” it said in a statement, referring to information and communication technology.\n\n“Currently, the company’s visibility for the third quarter has improved compared to the previous month, with overall performance expected to outperform market expectations,” it added, without giving details.\n\nHowever, Foxconn said it remained necessary to “monitor the impact of the volatile global political and economic situation”. It likewise did not elaborate.\n\nFoxconn, formally called Hon Hai Precision Industry, does not provide numerical forecasts.\n\nSEE ALSO\n\nIt said revenue in August rose 51.98 per cent from a year earlier to NT$921.8 billion (US$29.15 billion), the highest amount ever for August and the second month in a row it has exceeded NT$900 billion.\n\nFoxconn’s shares closed up 3.4 per cent on Sep 4, before the revenue data was released, outperforming the broader market’s 1.5 per cent gain. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services\n\n## TRENDING NOW\n\nWatch live: PM Wong, Chan Chun Sing to address political office-holders’ salary review in Parliament\n\nVietnam pitches its real economy, not a Singapore replica, in two-city IFC push\n\nLawsuit from ex-advisers adds to claims arising from Hao Mart’s lease of Taste Orchard\n\nCanada’s fight with the US has far bigger stakes than trade",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/foxconn-says-third-quarter-outperform-market-expectations-ai-strength"
+    },
+    {
+      "id": "2026-09-07-98e627",
+      "title": "Bitdeer AI expects US$800 million revenue from Johor data center long-term deals",
+      "summary": "Singapore-headquartered Bitdeer AI has pre-sold the full 9.5MW capacity of its A102 AI cloud data center in Johor, Malaysia, more than a year before the facility is due to be energized in Q1 2027. Combined with an offtake deal announced in August, the company now holds five-year commitments it expects to generate around US$800 million in revenue.",
+      "why_it_matters": "Selling out capacity before a facility is even powered shows how desperate AI customers are for secured compute in Southeast Asia. For Johor, deals of this size reinforce its position as the region's hottest data center market and give operators revenue certainty to justify further expansion.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "capacity",
+        "investment",
+        "colocation"
+      ],
+      "published_at": "2026-09-07T04:08:08Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/bitdeer-ai-expects-us-800-million-revenue-from-johor-data-center-long-term-deals/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Bitdeer AI"
+      ],
+      "content": "Singapore-headquartered AI cloud and infrastructure provider Bitdeer AI announced last week that it has sold its 9.5MW capacity at its A102 AI cloud data center in Malaysia ahead of energization in Q1 2027. Together with an offtake commitment announced earlier in August, the firm now has in its hand five-year long-term offtake commitments with total expected revenue of over US$800 million at this Johor site.\n\nThe A102 facility is a liquid-cooled, multi-customer facility purpose-built for rack-scale NVIDIA GB300 NVL72 deployments, capable of delivering both GPU cloud services and data hosting from a single site. It represents 9.5MW of the 350MW target of its global AI cloud capacity to be delivered by the first quarter of 2028. It’s among the first of these sites to have contracted capacity, Bitdeer Ai said in a press release last week.\n\n![](https://w.media/wp-content/uploads/2026/07/MYCDC-Malaysia-1024x199.jpg)\n\nThese contracts are not expected to have a revenue impact in 2026. Revenue and associated costs are expected to begin in the first quarter of 2027, when services commence. Contract value per megawatt varies with service mix, contract duration and site.\n\nThe Malaysia build-out advances Bitdeer AI’s strategy of developing high-density AI infrastructure in markets with strong power availability and proximity to fast-growing enterprise AI demand, it added.\n\nDemand for uncontracted capacity at Bitdeer AI’s other AI Cloud sites remains strong. Bitdeer AI’s active pipeline for AI cloud capacity now exceeds US$ 2 billion, and the firm is now concentrating on its 21.7MW Johor Bahru site in Malaysia as well as capacity at other sites.\n\nThe platform funds its development through customer prepayments, operating cash flow, and financing secured against contracted cash flows. Its AI cloud contracts usually provide for customer prepayments to cover more than 50 per cent of the associated capital expenditure. It develops data center capacity in line with contracted demand.\n\n![](https://w.media/wp-content/uploads/2026/07/Issue-13-Banner-1-1024x201.jpg)\n\nBitdeer AI, which is part of Nasdaq-listed Bitdeer Technologies Group, expects the pipeline for AI Cloud capacity to increase in the next several quarters. The Group features footprint across the U.S., Norway, Bhutan, Canada, and Malaysia, with a target of up to 350MW of AI-ready data center capacity to be delivered by the first quarter of 2028.",
+      "content_url": "https://w.media/bitdeer-ai-expects-us-800-million-revenue-from-johor-data-center-long-term-deals/"
+    },
+    {
+      "id": "2026-09-07-c614c9",
+      "title": "Lightstorm's I-2SEA Cable to Boost India-SEA AI Data Center Connectivity",
+      "summary": "Lightstorm is deploying the I-2SEA subsea cable system connecting India with Singapore and Malaysia, with Microsoft, Tata Communications, and Singtel as co-owners. The system is designed to serve the bandwidth demands of the fast-growing AI data center clusters on both ends of the route.",
+      "why_it_matters": "AI workloads need massive, low-latency data movement between regions, and new cable capacity removes a key bottleneck for operators expanding in India and Southeast Asia. The participation of Microsoft and Singtel shows hyperscalers and telcos are investing directly in the connectivity layer rather than waiting for third parties.",
+      "score": 82,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "connectivity",
+        "subsea cable",
+        "ai",
+        "investment"
+      ],
+      "published_at": "2026-09-07T03:15:25Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/lightstorms-i-2sea-cable-to-boost-india-sea-ai-data-center-connectivity/133861440",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Lightstorm",
+        "Microsoft",
+        "Tata Communications",
+        "Singtel"
+      ],
+      "content": "- Cloud, Colocation & Connectivity\n- 1 min Read\n\n# Lightstorm's I-2SEA Cable to Boost India-SEA AI Data Center Connectivity\n\nLightstorm's I-2SEA subsea cable system, co-owned by Microsoft, Tata Communications, and Singtel, will link India with Singapore and Malaysia. This project is positioned to provide critical connectivity infrastructure for the growing number of artificial intelligence (AI) data centers across both regions.\n\n- Published On Sep 07, 2026 at 08:45 AM IST\n\n## Highlights\n\n- Lightstorm announced the I-2SEA subsea cable system connecting India, Singapore, and Malaysia\n- Consortium co-owners include Microsoft, Tata Communications, and Singtel\n- Project aims to provide connectivity backbone for AI data centers in the region\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/lightstorms-i-2sea-cable-to-boost-india-sea-ai-data-center-connectivity/133861440"
+    },
+    {
+      "id": "2026-09-07-71ec87",
+      "title": "Netweb: AI Demand Drives Shift to End-to-End Solutions",
+      "summary": "AI customers are increasingly seeking complete business outcomes, not just infrastructure, according to Netweb Technologies. This shift is boosting demand for integrated, end-to-end AI solutions in India, impacting data center design and operational requirements.",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "infrastructure",
+        "servers"
+      ],
+      "published_at": "2026-09-07T03:15:14Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/netweb-ai-demand-drives-shift-to-end-to-end-solutions/133861434",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Netweb Technologies"
+      ],
+      "content": "### Focus on Business Outcomes\n\n“At the end of the day, the customer is focused on the business outcome for the investments they have made. Our primary focus remains on ensuring that we help them achieve that in the most cost- and resource-optimised route,” Chakraborty told Business Standard. The company recently raised approximately 1,200 crore through a qualified institutional placement (QIP), with participation from Indian and international investors including Goldman Sachs Asset Management, Nomura, ICICI Prudential Mutual Fund (MF), HDFC MF, Kotak MF, and Tata MF.\n\n### India AI Mission and Infrastructure\n\nNetweb Technologies has observed increased order momentum from companies involved in the approximately 10,372 crore India AI Mission. This has, in turn, fueled demand for sovereign AI infrastructure and indigenous high-performance computing (HPC) solutions.Chakraborty emphasised that India should aim to become a producer of AI services rather than merely a consumer. He added that while investment in AI inference and infrastructure is crucial, equal focus must be given to developing more tools and services. Additionally, India needs to adopt diverse alternative energy sources to ensure a stable power supply for widespread deployment of advanced AI tools and services.\n\n### Data Centre Architecture for AI\n\nOne potential solution for data access challenges in AI development is federated data centres, where data access is controlled based on developer or consumer needs. Chakraborty stressed the urgency of addressing power and energy requirements and adopting different data centre architectures to keep India competitive in the global AI race. “In AI, every day that is lost is taking a couple of steps behind the world in the development race. If we have to be at the forefront, we need to be focusing on handling power and energy requirements and taking a different approach for data centre architecture,” he said.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/netweb-ai-demand-drives-shift-to-end-to-end-solutions/133861434"
+    },
+    {
+      "id": "2026-09-07-99e4bb",
+      "title": "JLL appoints Mikhail Jaura to head Asia Pacific research",
+      "summary": "Rising demand for AI and cloud infrastructure is intensifying competition for capital, sites and power across Asia Pacific's data centre market.",
+      "why_it_matters": "",
+      "score": 35,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "australia",
+        "global"
+      ],
+      "topics": [
+        "market",
+        "research",
+        "investment"
+      ],
+      "published_at": "2026-09-07T02:16:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/jll-appoints-mikhail-jaura-to-head-asia-pacific-research",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "JLL"
+      ],
+      "content": "![JLL appoints Mikhail Jaura to head Asia Pacific research](https://datacenternews.asia/uploads/story/2026/09/07/sm_b7569-story-318348.webp) \n\n# JLL appoints Mikhail Jaura to head Asia Pacific research\n\nMon, 7th Sep 2026 (Yesterday)\n![Sean Mitchell](https://datacenternews.asia/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--a929a91c2a04d9af95ed98b14ed4d405bc70c1a7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpbGwiOlsxNjAsMTYwXSwicXVhbGl0eSI6ODV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--89ddf5e6765c65a563c2258053e9d33c05d195da/IMG_3092.webp) \n\nJLL has appointed Mikhail Jaura Head of Data Centre Research for Asia Pacific. He will be based in Hong Kong.\n\nJaura joins the property and investment services firm from IDC, where he led the Asia Pacific data centre research practice as Senior Research Analyst. In his new role, he will oversee research strategy across mature and emerging data centre markets in the region and work with operators, cloud providers, telecommunications groups, investors, government bodies and industry associations.\n\nThe appointment comes as data centre investment continues to expand across Asia Pacific, driven by broader digital adoption, cloud computing growth and rising artificial intelligence workloads. JLL describes the global sector as being in the middle of a USD $3 trillion infrastructure investment cycle.\n\nAccording to JLL's market outlook and mid-year updates, global data centre capacity is projected to rise from 103 GW to 200 GW by 2030. That would represent a compound annual growth rate of 14% over the period, as hyperscale cloud services and AI deployment increase demand for new capacity.\n\nJaura's remit includes developing research initiatives across the region and leading analysts and associates across business lines and markets. He will also help deepen JLL's data centre market intelligence offering as competition for capital and sites intensifies across Asia Pacific.\n\nBefore joining JLL, Jaura worked on custom consulting assignments, advisory services and regional business development at IDC. He also launched IDC's Worldwide Semiannual Datacenter Facilities Tracker, which benchmarks hyperscale, colocation and enterprise footprints globally across capacity, emissions and non-IT capital expenditure.\n\nHe has also authored white papers, case studies and market reports focused on deployment strategies for hyperscalers, colocation operators and original equipment manufacturers. JLL said that experience would support its research work with clients navigating a market shaped by rapid infrastructure expansion and shifting technical requirements.\n\n### Regional focus\n\nAsia Pacific has become one of the most closely watched regions for data centre development, with activity spanning established hubs and newer markets competing for investment. Market participants are balancing demand growth against land constraints, power availability, planning hurdles and sustainability requirements.\n\nThat has made research and advisory work more important for investors, developers and occupiers deciding where to deploy capital. The region includes some of the world's busiest cloud and colocation markets, while also offering newer locations where operators are seeking room to expand.\n\nAndrew Batson, Global Head of Data Centre Research & Strategy at JLL, linked the hire to that backdrop. \"The Asia Pacific region continues to attract significant investment in data center infrastructure, driven by robust digital adoption, expanding cloud services, and growing AI workloads,\" he said.\n\n\"In this diverse region, our clients demand world-class research to navigate this complex and rapidly evolving space. Mikhail brings deep sector expertise and a proven track record of delivering actionable intelligence to the industry's leading players.\"\n\nJLL is one of several real estate and advisory firms building specialist data centre teams as the asset class attracts more institutional capital. Data centres have moved further into the mainstream of commercial property and infrastructure investment as cloud providers and AI-related demand reshape requirements for scale, location and energy access.\n\nJaura will also help build and maintain relationships with a broad set of industry stakeholders while guiding research teams across geographies. That cross-regional role reflects the fragmented nature of the Asia Pacific market, where regulatory structures, utility systems and customer demand differ widely by country.\n\n### Market pressure\n\nOperators across the region are also under pressure to address emissions, efficiency and power sourcing as they add new facilities. Those issues have become more prominent as customers seek larger deployments and governments sharpen scrutiny of energy-intensive digital infrastructure.\n\nJaura pointed to those changes in comments on his appointment. \"The data center sector in Asia Pacific is at an inflection point, with AI workloads and sustainability imperatives reshaping infrastructure requirements across the region,\" he said.\n\n\"I'm excited to join JLL at this pivotal moment and look forward to building on the firm's strong foundation to deliver the insights and analysis that will help clients make informed decisions in this dynamic market.\"",
+      "content_url": "https://datacenternews.asia/story/jll-appoints-mikhail-jaura-to-head-asia-pacific-research"
+    },
+    {
+      "id": "2026-09-07-dea4a5",
+      "title": "AI data centers adopt water-saving cooling",
+      "summary": "Facing mounting public opposition in the US over water and electricity consumption, AI data center operators are increasingly adopting water-saving cooling technologies such as closed-loop and liquid cooling systems. The shift aims to reduce the facilities' dependence on evaporative cooling, which consumes large volumes of water in hot climates.",
+      "why_it_matters": "Cooling choices are becoming a permitting and reputational issue rather than a purely engineering one, and operators that fail to adapt risk project delays or community backlash. The trend creates an opening for cooling technology vendors and will likely spread to water-stressed APAC markets facing similar scrutiny.",
+      "score": 68,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "cooling",
+        "water",
+        "sustainability"
+      ],
+      "published_at": "2026-09-07T00:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/ai-data-centers-adopt-water-saving-cooling/133863072",
+          "type": "rss"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817079",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA",
+        "Microsoft",
+        "AWS"
+      ],
+      "content": "Major technology companies are implementing advanced cooling systems to reduce water consumption in artificial intelligence (AI) data centers, addressing growing public and environmental concerns. Nvidia's new DSX system, along with closed-loop solutions from Microsoft, Amazon Web Services (AWS), and Meta, aim for near-zero water use in some facilities and improved water efficiency.\n\nSelect ETDatacenters as Preferred Choice on Google\n\nHighlights\n\nNvidia's DSX system claims near-zero water use in some AI data centers via closed-loop liquid cooling.\n\nClosed-loop systems from Microsoft, AWS, and Meta improved water efficiency by 25-37% between 2022-2025.\n\nGlobal data center water consumption projected to nearly triple to 644 billion liters by 2030 without adaptive measures.\n\nNvidia's system uses warmer liquid (45C) to reduce need for cooled air, balancing water and energy use.\n\nMajor technology companies are introducing advanced cooling technologies for artificial intelligence (AI) data centers, aiming to significantly reduce water consumption amidst increasing public scrutiny over resource usage. Nvidia, in particular, has highlighted its new DSX system, claiming it can almost eliminate water use in some of its AI data center deployments.Data centers, which house the servers powering the internet and AI, require substantial cooling to manage the heat generated by their operations. This cooling process traditionally consumes large volumes of water. According to consultancy Rystad Energy, data centers consumed 222 billion liters of water globally for cooling in 2025, a figure projected to nearly triple to 644 billion liters by 2030 without adaptive measures.\n\nNvidia's Cooling Approach\n\nNvidia's DSX system employs a closed-loop cooling mechanism where liquid flows directly through servers, close to the heat-generating chips. This method allows the liquid to enter servers at a warmer temperature of 45 degrees Celsius, compared to the industry average of around 32 degrees Celsius for most closed-loop systems in 2024, as per the Uptime Institute. By using warmer liquid, Nvidia's system reportedly reduces the need for constant cooled airflow, often relying on simple fans.Josh Parker, Nvidia's head of sustainability, stated that while simple fans are often sufficient, extreme climates or heat waves might still necessitate chill airflow or water evaporation. This approach helps mitigate the direct trade-off between water and energy consumption for temperature control.\n\nIndustry-wide Efforts and Challenges\n\nMicrosoft, Amazon Web Services (AWS), and Meta have also confirmed their use of closed-loop cooling systems, asserting that these involve no net water loss. While these cloud computing giants expanded their data center footprints between 2022 and 2025, their water use efficiency improved by 25 percent at Microsoft and 37 percent at AWS, according to their most recent sustainability reports. However, there is no consistent industry standard for reporting environmental, social, and governance (ESG) data.Upgrading older data centers to incorporate these newer, more water-efficient technologies can be expensive. However, older facilities are typically smaller and less power-intensive than current hyperscale builds, thus requiring less cooling overall. Beyond direct consumption, data centers also contribute to hidden water use through the electricity generation and manufacturing processes for chips and servers, which can be twice the amount directly consumed by the facility in the United States.\n\nThe India Context\n\nGlobal advancements in water-saving cooling technologies are critical for India's rapidly expanding data center sector, which faces increasing pressure on water and energy resources. Indian data center operators and hyperscalers can benchmark these innovations to improve their own sustainability metrics and address local environmental concerns. The trade-off between water and energy efficiency will directly impact the design and operational economics of new AI data centers in India. Regulatory bodies and policymakers in India may consider these global trends when formulating water usage guidelines for data centers.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/ai-data-centers-adopt-water-saving-cooling/133863072"
+    },
+    {
+      "id": "2026-09-07-c9ac5b",
+      "title": "Malaysia eyes Huawei chips for AI project despite US warning",
+      "summary": "Malaysia is leaning toward using Huawei's AI chips to power its sovereign artificial intelligence program, proceeding despite explicit warnings from the Trump administration. Such a move would mark a significant win for Chinese AI technology in a region Washington is trying to keep within its own technology orbit.",
+      "why_it_matters": "A decision for Huawei would test how far US export-control pressure can reach into Southeast Asia and could expose Malaysia to American retaliation or restricted access to US technology. For the region's other governments, it sets a precedent for choosing Chinese AI stacks on cost and availability grounds.",
+      "score": 80,
+      "heat": 2,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "regulation",
+        "sovereign-ai"
+      ],
+      "published_at": "2026-09-07T00:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/malaysia-eyes-huawei-chips-ai-project-despite-us-warning",
+          "type": "rss"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817070",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Huawei"
+      ],
+      "content": "Huawei is seeking a foothold in global data centre markets from South-east Asia to the Middle East\n\n[KUALA LUMPUR] Malaysia is leaning toward relying on Huawei Technologies’ artificial intelligence chips to power its sovereign AI efforts, in what would be a major victory for Chinese AI technology in the face of strong opposition from President Donald Trump’s administration.\n\nThe South-east Asian nation is seriously evaluating using Huawei’s AI hardware as the backbone of a RM2 billion (US$494 million) initiative intended to give the country greater control over national data, according to people familiar with the matter. It’s unclear how many chips Malaysia would buy, the people said, asking not to be identified because they’re not authorised to speak publicly.\n\nHuawei has been working to improve the performance of its AI chips in the face of years of US restrictions on access to foreign production tools. Its accelerators still trail Nvidia Corp’s by a wide margin, but as Huawei’s manufacturing outlook improves, the Shenzhen-based company is seeking a foothold in global data centre markets from South-east Asia to the Middle East.\n\nMalaysian Prime Minister Anwar Ibrahim, meanwhile, has said the South-east Asian nation doesn’t want to just be a consumer of technology developed overseas. In addition to the physical infrastructure that could come from Huawei, Anwar’s administration is encouraging local telecom companies to propose broader AI frameworks in partnership with foreign firms.\n\nIf Malaysia does move forward with Huawei chips, it would mark the first known instance of a foreign government officially opting for Chinese AI accelerators over American ones. Anwar would effectively be defying Washington’s efforts to assert control over global AI infrastructure, despite warnings from Trump officials last year not to buy the exact Huawei hardware in question. Huawei is also vying to build an AI data centre for the Egyptian government, prompting Trump’s team to work on a counterbid.\n\nThe Prime Minister’s Office, which also helms the national security council, didn’t respond to a request for comment, nor did Malaysia’s Ministry of Digital. Representatives from Huawei also didn’t respond to a request for comment. The Malaysian government regards any decision it makes in this matter as purely commercial, according to one person familiar with conversations in Anwar’s administration.\n\nSEE ALSO\n\nThe chips Malaysia is evaluating are Huawei’s marquee Ascend 910C product, the people familiar said, rather than the more advanced Ascend 950 lineup, which remains in limited production. Trump’s team explicitly warned the world last year that use of Ascend 910C chips could violate US export regulations. Washington broadly has been trying to encourage the use of American AI hardware worldwide so that China doesn’t dominate AI data centres like it did telecommunications. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services\n\n## TRENDING NOW\n\nWatch live: PM Wong, Chan Chun Sing to address political office-holders’ salary review in Parliament\n\nVietnam pitches its real economy, not a Singapore replica, in two-city IFC push\n\nLawsuit from ex-advisers adds to claims arising from Hao Mart’s lease of Taste Orchard\n\nCanada’s fight with the US has far bigger stakes than trade",
+      "content_url": "https://www.businesstimes.com.sg/international/malaysia-eyes-huawei-chips-ai-project-despite-us-warning"
+    },
+    {
+      "id": "2026-09-07-9dcc2d",
+      "title": "Australia to export AI compute as data centre demand surges",
+      "summary": "Australia is positioning itself as an exporter of AI computing capacity, aiming to serve overseas customers as domestic and regional demand for data center services climbs sharply. The push leverages the country's available land, energy resources, and political stability to attract large-scale AI infrastructure investment.",
+      "why_it_matters": "If Australia succeeds, it becomes a new node in the global AI supply chain rather than just a domestic market, competing with the US and Middle East for sovereign and commercial compute workloads. That would bring significant capital inflows but also intensify local debates over power and water allocation.",
+      "score": 82,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "capacity",
+        "investment",
+        "export"
+      ],
+      "published_at": "2026-09-07T00:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/infrastructure/australia-to-export-ai-compute-as-data-centre-demand-surges-20260907-p60v3g",
+          "type": "html-list"
+        }
+      ],
+      "content": "The vast majority of processing in the data centres being rolled out around the country will be for American technology giants, forcing cloud computing and digital infrastructure developers to defend the construction of the assets as something that will benefit local communities.\n\nThat’s the view of Boris Dangubic, the head of business development for Iren, a Sydney-headquartered, Nasdaq-listed cloud computing operator that has proposed a $10 billion project in the tiny South Australian town of Bundey and now has a market capitalisation of almost $25 billion.",
+      "content_url": "https://www.afr.com/companies/infrastructure/australia-to-export-ai-compute-as-data-centre-demand-surges-20260907-p60v3g"
+    },
+    {
+      "id": "2026-09-07-54e69c",
+      "title": "Nvidia is the central bank of AI. But will its loans prove sound?",
+      "summary": "Analysts are drawing parallels between Nvidia's role in the AI economy and a central bank, as the chipmaker's circular deals — investing in and extending credit to customers who then buy its GPUs — prop up demand across the sector. The scrutiny focuses on whether these arrangements mask the true creditworthiness of AI infrastructure buyers, many of whom are heavily leveraged data center developers.",
+      "why_it_matters": "The comparison reframes a risk APAC data center stakeholders increasingly face: much of the AI buildout boom rests on vendor financing and circular revenue rather than end-customer demand. If Nvidia's 'loans' sour, heavily indebted neocloud operators and the colocation providers, lenders, and utilities serving them could face rapid credit tightening and stranded capacity.",
+      "score": 66,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "investment",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-07T00:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/technology/nvidia-is-the-central-bank-of-ai-but-will-its-loans-prove-sound-20260907-p60v00",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "content": "It took 30 years for Nvidia, the American company whose chips power much of the world’s artificial intelligence, to reach a valuation of $US1 trillion. Getting to $US2 trillion took only nine more months. It passed the $US5 trillion mark less than two years later. It is now the world’s most valuable company, worth about $US5.4 trillion ($7.5 trillion). Next year, its sales are expected to almost double. Some analysts predict it will generate $1 trillion in annual revenue by 2029.\n\nIt is not just chipmaking that has spurred Nvidia’s stunning growth, however. Its boss, Jensen Huang, has also resorted to financial engineering to boost demand for its wares. In mid-August, for example, Nvidia agreed to provide a backstop worth up to $US105 billion for a vast data centre in Ohio that will use lots of its chips.\n\nThe Economist",
+      "content_url": "https://www.afr.com/technology/nvidia-is-the-central-bank-of-ai-but-will-its-loans-prove-sound-20260907-p60v00"
+    },
+    {
+      "id": "2026-09-07-151a74",
+      "title": "CBH Engineering lands RM88m Selangor job, second data centre-linked job in under two weeks",
+      "summary": "CBH Engineering Holding Bhd has won an RM88.05 million contract to design and build a 275kV consumer landing station serving a data center in Selangor. It is the Bursa Malaysia-listed firm's second data centre-related contract secured in less than two weeks.",
+      "why_it_matters": "High-voltage grid connection work is a reliable early indicator of real data center construction, so repeat contract wins show Malaysia's announced pipeline is converting into physical projects. Local engineering firms are emerging as direct beneficiaries of the buildout wave.",
+      "score": 74,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "construction",
+        "investment",
+        "capacity"
+      ],
+      "published_at": "2026-09-07T00:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817112",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "CBH Engineering"
+      ],
+      "content": "KUALA LUMPUR (Sept 7): CBH Engineering Holding Bhd (KL:CBHB) has secured an RM88.05 million contract to design and build a 275kV consumer landing station for a data centre in Selangor.\n\nThe engineering services provider's wholly owned subsidiary received the contract from Company A — a private company that is involved in providing infrastructure for hosting, data processing services and related activities.\n\nCBH Engineering did not name the company in the bourse filing announcement, citing a non-disclosure agreement.\n\nThe contract commenced on Aug 13, 2026, and is scheduled for completion on May 12, 2027.\n\nThis is CBH Engineering’s second data centre-linked job in less than two weeks.\n\nOn Aug 26, the group announced it had secured a RM59.61 million work order for electrical infrastructure works at a data centre in Johor, also from a private company.\n\nTogether, the two contracts are worth RM147.66 million.\n\nCBH Engineering shares have been on a steady climb since the mechanical and electrical engineering group was listed on the ACE Market in January last year.\n\nAmid the share price rally, its managing director and major shareholder Cheah Boon Hwa disposed of a 5% stake comprising 94 million shares for RM76.14 million via his private investment vehicle Quay Holdings Sdn Bhd. The shares were sold through a direct business transaction on Aug 21 at 81 sen apiece.\n\nThe counter has surged 93% year to date and 163% over the past year. It closed four sen, or 4.4% higher, at 95 sen on Monday, giving CBH Engineering a market capitalisation of RM1.79 billion.\n\nThe group's net profit more than doubled for the second quarter ended June 30, 2026 (2QFY2026), rising to RM24.53 million from RM10.11 million a year earlier, as revenue rose 102.6% to RM120.93 million from RM59.68 million.\n\nEdited ByTan Choe Choe\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817112"
+    },
+    {
+      "id": "2026-09-07-a3c8a4",
+      "title": "Malaysia, Thailand to Lead Surge in SEA LNG Demand Amid Data Centre Boom as Domestic Output Wanes — Wood Mackenzie",
+      "summary": "Wood Mackenzie projects that Malaysia and Thailand will drive a surge in Southeast Asian LNG demand as hyperscale data centers proliferate while domestic gas production declines in both countries. The research firm expects the region's energy mix to shift toward imported gas to meet data center power requirements.",
+      "why_it_matters": "Growing LNG imports would tie the region's data center growth to volatile global gas markets and complicate national decarbonization commitments. For energy suppliers and gas infrastructure investors, data centers are becoming a foundational source of new demand just as traditional industrial consumption stagnates.",
+      "score": 72,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "energy",
+        "capacity",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-07T00:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817106",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Wood Mackenzie"
+      ],
+      "content": "KUALA LUMPUR (Sept 7): Malaysia and Thailand are poised to lead a surge in demand for liquefied natural gas in Southeast Asia, driven by an influx of hyperscale data centres amid steady drops in domestic gas output, according to energy research analytics and consultancy firm, Wood Mackenzie.\n\nIn a statement on Monday, the firm noted that Malaysia currently has 3.9GW of data centre capacity under development, with new regasification terminals being built to meet growing power demand, as legacy piped gas supply decline.\n\nThailand, where two-thirds of the grid is already gas-fired, is expected to see its LNG share of gas supply exceed 50% by 2035, as Gulf of Thailand production and Myanmar pipeline imports continue to fall.\n\n\"Malaysia and Thailand are at a turning point. Data centre investment is growing quickly just as domestic gas output peaks and declines,\" said its principal analyst Md Fadhlullah Omarali. \"New import infrastructure is being developed and the importer base is broadening. For LNG suppliers with volumes to place, this timing is important.\"\n\nCiting its latest research findings, the firm said data centre capacity across Southeast Asia is set to more than triple from 2.8GW today to 9.4GW by 2035, with power demand from data centres growing from 17 terawatt-hours (TWh) to 57TWh over the same period.\n\nIt also noted that combined-cycle gas turbines remain the most viable generation technology to meet the 24/7 baseload reliability that data centres demand, as grid-scale battery storage remains commercially immature across the region through the mid-2030s.\n\nIn Singapore, the country's grid relies on gas for roughly 95% of generation. With piped imports from Malaysia and Indonesia set to cease by the early 2030s, its gas supply will become 100% dependent on LNG.\n\nAs for Indonesia, Batam has emerged as the third node of the Singapore-Johor-Riau (Sijori) corridor, with over 450MW in its pipeline, but grid stability remains a bottleneck.\n\nIn contrast, South Asia remains structurally out of reach for gas, Wood Mackenzie's research shows, as the region presents scale without significant LNG demand.\n\nWhile India’s data centre market is forecast to grow fivefold to nearly 12GW by 2035 — attracting US$145 billion (RM586.4 billion) in investment between 2024 and 2030 — LNG is structurally unable to capture the opportunity.\n\nThis is because the gas is economically unviable as a baseload fuel for data centres, as LNG-to-power generation costs two to three times more than renewables paired with battery storage in India.\n\n\"Gas currently accounts for under 2% of India’s power generation mix and is forecast to remain at that level through the outlook period, as coal and renewables continue to dominate. Pipeline infrastructure gaps across key data centre corridors in southern, central and eastern India add a further barrier to gas penetration,\" the firm said.\n\nHence, hyperscalers in India have instead opted for renewable power, with such purchase agreements having already exceeded 33GW of contracted data centre capacity.\n\nAs for Pakistan and Bangladesh, the firm noted that they face further constraints, with persistent load-shedding, grid instability and macroeconomic pressures limiting data centre demand and deterring hyperscale investment.\n\nEdited ByTan Choe Choe\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817106"
+    }
+  ]
+}

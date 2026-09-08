@@ -1,0 +1,333 @@
+---
+import Base from '../../layouts/Base.astro';
+import Icon from '../../components/Icon.astro';
+import InfoTip from '../../components/InfoTip.astro';
+import FavButton from '../../components/FavButton.astro';
+import MiniMap from '../../components/MiniMap.astro';
+import { loadAllStories, formatDate, sourceDisplayName, REGION_LABELS, type NewsStory } from '../../lib/news';
+import { loadProjects, STATUS_META, stageDisplay, formatCapacity, type Project } from '../../lib/projects';
+import { companySlugMap } from '../../lib/companies';
+
+export function getStaticPaths() {
+  const { projects } = loadProjects();
+  const storiesById = new Map(loadAllStories().map(({ story }) => [story.id, story]));
+  return projects.map((project) => ({
+    params: { id: project.id },
+    props: {
+      project,
+      // story_ids are newest-last; render newest first. Missing ids
+      // (story not in the loaded digests) are skipped silently.
+      stories: project.story_ids
+        .map((id) => storiesById.get(id))
+        .filter((s): s is NewsStory => s !== undefined)
+        .reverse(),
+      // Ids resolvable to a news detail page — status_history entries link only
+      // when the referenced story is actually in the loaded digests.
+      knownStoryIds: [...storiesById.keys()],
+    },
+  }));
+}
+
+interface Props {
+  project: Project;
+  stories: NewsStory[];
+  knownStoryIds: string[];
+}
+
+const { project, stories, knownStoryIds } = Astro.props;
+const base = import.meta.env.BASE_URL;
+
+// Link the operator to its company directory page when one exists.
+const companySlugByName = companySlugMap();
+const operatorSlug = companySlugByName.get(project.operator.toLowerCase());
+
+// Locator map: exact facility coordinates only — a city-level fallback pin
+// at street zoom would imply a precision we don't have, so projects without
+// coordinates get no map.
+const coords = project.lat != null && project.lon != null
+  ? { lat: project.lat, lon: project.lon }
+  : null;
+
+// City-states: "Singapore, Singapore" reads as a glitch — show it once.
+const locationLabel = project.city === project.country
+  ? project.city
+  : [project.city, project.country].filter(Boolean).join(', ');
+
+// Single coherent stage: normalized status + qualifier chip derived from the
+// source's verbatim stage (see stageDisplay). The raw stage_detail string is
+// never rendered directly.
+const stage = stageDisplay(project);
+const cap = formatCapacity(project);
+const knownStories = new Set(knownStoryIds);
+
+const history = project.status_history ?? [];
+const tenants = project.anchor_tenants ?? [];
+
+// First seen / Last updated are ingestion bookkeeping — only meaningful for
+// projects with tracked news. Directory/seed-only projects show neither.
+const hasStories = project.story_ids.length > 0;
+
+// Provenance for directory-imported projects with no tracked news.
+const SOURCE_LABELS: Record<string, string> = {
+  baxtel: 'Baxtel',
+  datacentermap: 'DataCenterMap',
+};
+const sourceLabel = !hasStories && project.source
+  ? SOURCE_LABELS[project.source]
+  : undefined;
+
+// Key dates (announced / construction start / RFS) are free-form "YYYY[-MM]"
+// text, so they render verbatim rather than through formatDate.
+const keyDates = [
+  { label: 'Announced', value: project.announced },
+  { label: 'Construction start', value: project.construction_start },
+  { label: 'RFS', value: project.rfs },
+  { label: 'Year built', value: project.year_built },
+].filter((d): d is { label: string; value: string } => Boolean(d.value));
+// Hover explanations for field labels (InfoTip). Keyed by the dt text.
+const FIELD_TIPS: Record<string, string> = {
+  Developer: 'Builds and owns the real estate — often different from the operator who runs the facility, and from the fund that finances it.',
+  Investor: 'Capital partner funding the project (equity or debt).',
+  Capacity: 'IT load in megawatts. "Total planned" figures cover the full campus build-out, so a live phase can be smaller. Leased tenant deployments are counted on the host facility, not here.',
+  Phases: 'Build-out phases as disclosed by the operator or directories — explains how capacity ramps over time.',
+  Investment: 'Announced project investment or financing, verbatim from sources, in the original currency.',
+  Status: 'Our normalized lifecycle stage. The source\'s own label is folded in and only surfaces as a qualifier chip (e.g. "Expanding", "Land bank") when it adds real information.',
+  Announced: 'First public announcement of the project.',
+  'Construction start': 'Groundbreaking — start of construction.',
+  RFS: 'Ready-for-service — expected commissioning date.',
+  'Year built': 'Year the facility was commissioned.',
+  'Anchor tenants': 'Major customers leasing or deploying capacity here — including wholesale tenants (e.g. AWS inside a colocation building).',
+};
+// Hover explanations for the DCM spec-sheet terms (InfoTip on each spec row).
+const SPEC_TIPS: Record<string, string> = {
+  Whitespace: 'Raised-floor area available for IT equipment — the sellable server-hall space.',
+  Floors: 'Number of data-hall floors in the building.',
+  Construction: 'Purpose-built = designed as a data center from the ground up, vs. a converted existing building.',
+  'UPS redundancy': 'Uninterruptible power supply backup level. N+1 = one spare module beyond need; 2N = fully mirrored systems.',
+  'Cooling redundancy': 'Backup level for the cooling plant (chillers/CRACs). N+1 = one spare unit; 2N = fully mirrored.',
+  'Standby redundancy': 'Backup diesel-generator redundancy for utility outages.',
+  'Tier (designed)': 'Uptime Institute availability tier the facility was designed for (I–IV). Tier III ≈ 99.982% uptime, concurrently maintainable; Tier IV ≈ 99.995%, fault tolerant.',
+  'Tier (certified)': 'Uptime Institute tier actually certified by audit (stronger claim than "designed").',
+  Certifications: 'Audited standards the facility holds — quality (ISO 9001), environment (14001), security (27001), safety (45001), payment data (PCI-DSS), etc.',
+  Security: 'Physical access controls protecting the halls.',
+  'Building size': 'Gross floor area of the whole building (not just the server halls).',
+  'Power per rack': 'Maximum power density per cabinet — a key figure for AI/GPU deployments (legacy enterprise racks run 5–10 kW).',
+  PUE: 'Power usage effectiveness = total facility power ÷ IT power. Lower is better; ~1.2 is excellent, 1.5+ is dated.',
+};
+---
+
+<Base title={project.name} active="pipeline">
+  <div class="article-bar">
+    <a class="article-bar-back" href={`${base}/pipeline/`}>
+      <Icon name="arrow-left" size={14} />Back to pipeline list
+    </a>
+    <div class="article-bar-right">
+      <FavButton type="projects" id={project.id} />
+      <span class={`badge ${stage.className}`}>{stage.label}</span>
+      {stage.qualifier && <span class="badge badge-qualifier">{stage.qualifier}</span>}
+    </div>
+  </div>
+
+  <div class="project-grid">
+    <article class="panel fact-card">
+      <h1 class="fact-name">{project.name}</h1>
+      <p class="fact-operator">
+        {operatorSlug ? (
+          <a class="operator-link" href={`${base}/companies/${operatorSlug}/`}>
+            {project.operator}<Icon name="chevron" size={12} />
+          </a>
+        ) : (
+          project.operator
+        )}
+      </p>
+      <div class="fact-chips">
+        <span class="chip region">{REGION_LABELS[project.region]}</span>
+        {project.category && <span class="chip topic">{project.category}</span>}
+        {project.company_type && <span class="chip topic">{project.company_type}</span>}
+      </div>
+
+      {project.description && <p class="fact-description">{project.description}</p>}
+
+      <section class="fact-group">
+        <h2 class="fact-group-label">Overview</h2>
+        <dl class="fact-rows">
+          {project.developer && (
+            <div class="fact-row">
+              <dt>Developer <InfoTip tip={FIELD_TIPS.Developer} /></dt>
+              <dd>{project.developer}</dd>
+            </div>
+          )}
+          {project.investor && (
+            <div class="fact-row">
+              <dt>Investor <InfoTip tip={FIELD_TIPS.Investor} /></dt>
+              <dd>{project.investor}</dd>
+            </div>
+          )}
+          <div class="fact-row">
+            <dt>Location</dt>
+            <dd>{locationLabel}</dd>
+          </div>
+          {project.leased_from && (
+            <div class="fact-row">
+              <dt>Leased site</dt>
+              <dd>Tenant deployment inside {project.leased_from} — capacity is
+                counted on the host facility, not here.</dd>
+            </div>
+          )}
+        </dl>
+      </section>
+
+      <section class="fact-group">
+        <h2 class="fact-group-label">Scale &amp; progress</h2>
+        <dl class="fact-rows">
+          <div class="fact-row">
+            <dt>Capacity <InfoTip tip={FIELD_TIPS.Capacity} /></dt>
+            <dd>
+              {cap.value}
+              {cap.note && <span class="cap-note-inline">({cap.note})</span>}
+            </dd>
+          </div>
+          {project.phases && (
+            <div class="fact-row fact-row--stack">
+              <dt>Phases <InfoTip tip={FIELD_TIPS.Phases} /></dt>
+              <dd>{project.phases}</dd>
+            </div>
+          )}
+          {project.investment && (
+            <div class="fact-row fact-row--stack">
+              <dt>Investment <InfoTip tip={FIELD_TIPS.Investment} /></dt>
+              <dd>{project.investment}</dd>
+            </div>
+          )}
+          <div class="fact-row">
+            <dt>Status <InfoTip tip={FIELD_TIPS.Status} /></dt>
+            <dd>
+              <span class={`badge ${stage.className}`}>{stage.label}</span>
+              {stage.qualifier && <span class="badge badge-qualifier">{stage.qualifier}</span>}
+            </dd>
+          </div>
+        </dl>
+        {history.length > 0 && (
+          <ol class="milestone-list">
+            {history.map((entry) => {
+              const label = STATUS_META[entry.status].label;
+              const inner = (
+                <>
+                  <span class="ms-status">{label}</span>
+                  <span class="ms-date">{formatDate(entry.date)}</span>
+                </>
+              );
+              return (
+                <li>
+                  {entry.story_id && knownStories.has(entry.story_id) ? (
+                    <a class="ms-link" href={`${base}/news/${entry.story_id}/`}>{inner}</a>
+                  ) : (
+                    inner
+                  )}
+                </li>
+              );
+            })}
+          </ol>
+        )}
+        {keyDates.length > 0 && (
+          <div class="key-dates">
+            {keyDates.map((d) => (
+              <span class="key-date">
+                <Icon name="calendar" size={12} />
+                <span class="key-date-label">{d.label}</span>
+                {FIELD_TIPS[d.label] && <InfoTip tip={FIELD_TIPS[d.label]} />}
+                <span class="key-date-value">{d.value}</span>
+              </span>
+            ))}
+          </div>
+        )}
+      </section>
+
+      {project.specs && Object.keys(project.specs).length > 0 && (
+        <section class="fact-group">
+          <h2 class="fact-group-label">Specs</h2>
+          <dl class="fact-rows">
+            {Object.entries(project.specs).map(([label, value]) => (
+              <div class="fact-row">
+                <dt>{label} {SPEC_TIPS[label] && <InfoTip tip={SPEC_TIPS[label]} />}</dt>
+                <dd>{value}</dd>
+              </div>
+            ))}
+          </dl>
+        </section>
+      )}
+
+      {(project.power || tenants.length > 0) && (
+        <section class="fact-group">
+          <h2 class="fact-group-label">Power &amp; tenants</h2>
+          <dl class="fact-rows">
+            {project.power && (
+              <div class="fact-row fact-row--stack">
+                <dt>Power</dt>
+                <dd>{project.power}</dd>
+              </div>
+            )}
+          </dl>
+          {tenants.length > 0 && (
+            <>
+              <h3 class="fact-sub-label">Anchor tenants <InfoTip tip={FIELD_TIPS['Anchor tenants']} /></h3>
+              <div class="fact-chips">
+                {tenants.map((tenant) => <span class="chip company">{tenant}</span>)}
+              </div>
+            </>
+          )}
+        </section>
+      )}
+
+      {hasStories && (
+        <div class="fact-group fact-meta">
+          <div class="fact-row">
+            <dt>First seen</dt>
+            <dd>{formatDate(project.first_seen)}</dd>
+          </div>
+          <div class="fact-row">
+            <dt>Last updated</dt>
+            <dd>{project.last_updated ? formatDate(project.last_updated) : '—'}</dd>
+          </div>
+        </div>
+      )}
+
+      {sourceLabel && (
+        <p class="source-note">Directory listing via {sourceLabel}.</p>
+      )}
+
+      {project.seed && (
+        <p class="seed-note">Seeded entry — not yet confirmed by a tracked story.</p>
+      )}
+    </article>
+
+    <div class="project-side">
+      {coords && (
+        <section class="panel minimap-panel">
+          <MiniMap lat={coords.lat} lon={coords.lon} label={project.name} status={project.status} />
+          <p class="minimap-caption">
+            <Icon name="map-pin" size={12} />
+            {locationLabel}
+          </p>
+        </section>
+      )}
+
+      <section class="panel project-news">
+        <h2 class="panel-title">News timeline</h2>
+        {stories.length > 0 ? (
+          <ul class="news-timeline">
+            {stories.map((story) => (
+              <li>
+                <span class="tl-date">{formatDate(story.published_at.slice(0, 10))}</span>
+                <a class="tl-title" href={`${base}/news/${story.id}/`}>{story.title}</a>
+                <span class="tl-source">{sourceDisplayName(story.sources[0], story)}</span>
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <p class="empty-state">No tracked news yet.</p>
+        )}
+      </section>
+    </div>
+  </div>
+</Base>

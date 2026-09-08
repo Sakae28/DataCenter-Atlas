@@ -1,0 +1,189 @@
+{
+  "type": "weekly",
+  "period": "2026-W34",
+  "date_range": {
+    "start": "2026-08-17",
+    "end": "2026-08-23"
+  },
+  "generated_at": "2026-08-25T05:56:04Z",
+  "complete": true,
+  "stats": {
+    "stories": 86,
+    "sources": 32,
+    "days": 7,
+    "read_minutes": 3
+  },
+  "title": "AI demand drives record APAC pipeline",
+  "lede": "Asia-Pacific's data center development pipeline hit a record 26.5 GW in the first half of 2026, with AI pre-leasing tightening supply across the region's major markets. Southeast Asia remained the focal point of new capacity: YTL Power and JLand announced a campus of up to 1.5 GW in Johor, among the largest projects ever planned in the region, while Singapore awarded its second tranche of capacity under the DC-CFA2 process to Digital Realty, Equinix, Keppel and STT GDC at 50 MW each. Vietnam's pipeline advanced through new land leases in Ho Chi Minh City even as STT GDC exited its joint venture there to VNG. In North Asia, South Korea paired a state-backed investment program with private deals including NVIDIA's $1 billion commitment to NAVER, though power design and cooling constraints surfaced around its 8.4 GW buildout ambition. China's development continued shifting inland toward Inner Mongolia and Guizhou on energy and climate advantages, and Japan saw landmark leasing in Greater Tokyo alongside proposals to site what could become the country's largest AI facility in Akita.",
+  "themes": [
+    {
+      "heading": "Record APAC pipeline as AI tightens supply",
+      "narrative": "Asia-Pacific's data center development pipeline reached a record 26.5 GW in the first half of 2026, driven by investment in AI and cloud infrastructure. Strong pre-leasing from AI tenants is tightening available supply across the region. Power availability is increasingly the decisive factor in site selection and project timelines.",
+      "story_ids": [
+        "2026-08-17-b3de1a",
+        "2026-08-18-ee0873",
+        "2026-08-17-cb1415"
+      ]
+    },
+    {
+      "heading": "Johor mega-campus and Singapore capacity awards",
+      "narrative": "YTL Power and JLand Group formed a partnership to develop a data center campus in Johor with planned capacity of up to 1.5 GW, which would rank among Southeast Asia's largest developments. Singapore awarded capacity under its second Data Centre Call for Application to Digital Realty, Equinix, Keppel and STT GDC, each receiving 50 MW. Tencent Cloud also plans a new Malaysia cloud region with three availability zones.",
+      "story_ids": [
+        "2026-08-20-a378e4",
+        "2026-08-21-2477a8",
+        "2026-08-21-0b9a75",
+        "2026-08-18-aa3379"
+      ]
+    },
+    {
+      "heading": "Vietnam pipeline advances amid ownership shift",
+      "narrative": "Ho Chi Minh City authorities leased a 5-hectare parcel for a Singapore-backed $508 million data center project, while Evolution DC secured a long-term land lease for a planned 52 MW facility in the Saigon Hi-Tech Park. At the same time, STT GDC is exiting its planned joint venture in the city, with Vietnamese tech company VNG taking over its stake and pursuing further development.",
+      "story_ids": [
+        "2026-08-21-eec490",
+        "2026-08-21-b95f4a",
+        "2026-08-21-d60d99"
+      ]
+    },
+    {
+      "heading": "Korea scales AI capacity, bottlenecks emerge",
+      "narrative": "South Korea launched a data center investment program cited at 1,200 trillion won to localize AI infrastructure, and NVIDIA committed $1 billion to NAVER to expand domestic AI capacity. Alibaba Cloud opened its third Korean data center, and telcos collectively passed KRW 1 trillion in first-half AI data center revenue. However, the country's roughly 8.4 GW buildout plan is running into power design and cooling constraints, and operators face a growing war for skilled blue-collar talent.",
+      "story_ids": [
+        "2026-08-17-8ea131",
+        "2026-08-22-6a6310",
+        "2026-08-18-11f8dd",
+        "2026-08-17-7abad1",
+        "2026-08-22-853f23",
+        "2026-08-20-1c8544"
+      ]
+    },
+    {
+      "heading": "China's build-out shifts inland",
+      "narrative": "Surging AI computing demand is pushing Chinese tech giants toward Inner Mongolia, drawn by energy resources and a cooler climate, redistributing capacity away from coastal hubs. Guizhou, despite being one of China's most indebted provinces, now hosts some of the country's largest data centers. Construction is proceeding with little local opposition even as AI-driven energy demand rises, while questions persist over whether China can deliver competitive AI performance without NVIDIA GPUs.",
+      "story_ids": [
+        "2026-08-17-c9bcc2",
+        "2026-08-23-412483",
+        "2026-08-18-d0c637",
+        "2026-08-20-67a0e3"
+      ]
+    },
+    {
+      "heading": "Japan expands beyond the Tokyo corridor",
+      "narrative": "Goodman Group signed a 20-year lease with an unnamed global hyperscaler for the first 50 MW phase of Tsukuba Tech Central, its planned 1 GW Greater Tokyo campus, with power secured from TEPCO. Meanwhile, the northern city of Akita is considering hosting what could become Japan's largest AI data center, a project that drew a visit from the UAE ambassador for investment talks. The moves signal both deep hyperscaler commitment and geographic diversification in Japan's market.",
+      "story_ids": [
+        "2026-08-18-5a86dd",
+        "2026-08-17-7384e1",
+        "2026-08-19-2cb11d"
+      ]
+    }
+  ],
+  "project_milestones": [
+    {
+      "project_id": "tencent-cloud-malaysia-cloud-region",
+      "name": "Tencent Cloud Malaysia Cloud Region",
+      "operator": "Tencent Cloud",
+      "date": "2026-08-18",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-08-18-aa3379"
+    },
+    {
+      "project_id": "goodman-group-tsukuba-greater-tokyo-tsukuba-tech-central",
+      "name": "Tsukuba Tech Central",
+      "operator": "Goodman Group",
+      "date": "2026-08-18",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-08-18-5a86dd"
+    },
+    {
+      "project_id": "elice-warm-water-cooled-ai-data-center",
+      "name": "Elice Warm-Water-Cooled AI Data Center",
+      "operator": "Elice",
+      "date": "2026-08-20",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-08-20-af9bd8"
+    },
+    {
+      "project_id": "ytl-power-jland-johor-data-center-campus",
+      "name": "YTL Power-JLand Johor Data Center Campus",
+      "operator": "YTL Power",
+      "date": "2026-08-20",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-08-20-a378e4"
+    },
+    {
+      "project_id": "dayone-hong-kong-data-center",
+      "name": "DayOne Hong Kong Data Center",
+      "operator": "DayOne",
+      "date": "2026-08-21",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-08-21-d64654"
+    },
+    {
+      "project_id": "stt-gdc-vng-ho-chi-minh-city-jv",
+      "name": "STT GDC–VNG Ho Chi Minh City JV",
+      "operator": "VNG",
+      "date": "2026-08-21",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "cancelled",
+      "prev_status": null,
+      "change": "First tracked as cancelled",
+      "story_id": "2026-08-21-d60d99"
+    },
+    {
+      "project_id": "equinix-singapore-dc-cfa2-allocation",
+      "name": "Equinix Singapore DC-CFA2 Allocation",
+      "operator": "Equinix",
+      "date": "2026-08-21",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-08-21-0b9a75"
+    },
+    {
+      "project_id": "keppel-data-centres-singapore-dc-cfa2-allocation",
+      "name": "Keppel Data Centres Singapore DC-CFA2 Allocation",
+      "operator": "Keppel Data Centres",
+      "date": "2026-08-21",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-08-21-0b9a75"
+    },
+    {
+      "project_id": "stt-gdc-singapore-dc-cfa2-allocation",
+      "name": "STT GDC Singapore DC-CFA2 Allocation",
+      "operator": "STT GDC",
+      "date": "2026-08-21",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-08-21-0b9a75"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+---
+/**
+ * Bookmark toggle for a news story or project. State lives in localStorage
+ * (key "dc-favs"); the global script in Base.astro wires clicks and restores
+ * state. Purely client-side — renders the same markup for everyone.
+ */
+import Icon from './Icon.astro';
+
+interface Props {
+  type: 'news' | 'projects';
+  id: string;
+  size?: number;
+}
+
+const { type, id, size = 14 } = Astro.props;
+---
+
+<button
+  type="button"
+  class="fav-btn"
+  data-fav-type={type}
+  data-fav-id={id}
+  aria-pressed="false"
+  aria-label={type === 'news' ? 'Save this story' : 'Save this project'}
+  title="Save"
+>
+  <Icon name="bookmark" size={size} strokeWidth={1.9} />
+</button>

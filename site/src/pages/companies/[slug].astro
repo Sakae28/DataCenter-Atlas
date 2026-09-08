@@ -1,0 +1,175 @@
+---
+import Base from '../../layouts/Base.astro';
+import Icon from '../../components/Icon.astro';
+import InfoTip from '../../components/InfoTip.astro';
+import { loadCompanies, logoUrl } from '../../lib/companies';
+import { STATUS_META, formatCapacity } from '../../lib/projects';
+import { loadAllStories, formatDate, sourceDisplayName, REGION_LABELS, type NewsStory } from '../../lib/news';
+
+export function getStaticPaths() {
+  const allStories = loadAllStories();
+  return loadCompanies().map((company) => {
+    // Stories whose company tags mention this company (display name or raw
+    // operator name), newest first, capped for the rail.
+    const names = new Set([company.name.toLowerCase(), company.operator.toLowerCase()]);
+    const news = allStories
+      .filter(({ story }) =>
+        (story.companies ?? []).some((c) => names.has(c.toLowerCase())),
+      )
+      .slice(0, 8);
+    return {
+      params: { slug: company.slug },
+      props: { company, news },
+    };
+  });
+}
+
+interface Props {
+  company: ReturnType<typeof loadCompanies>[number];
+  news: { story: NewsStory; dayDate: string }[];
+}
+
+const { company, news } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const { stats } = company;
+const logo = company.domain ? logoUrl(company.domain) : null;
+
+function fmtMw(mw: number): string {
+  return mw >= 1000 ? `${(mw / 1000).toFixed(1)} GW` : `${mw} MW`;
+}
+
+const STAT_CARDS = [
+  { label: 'Data Centers', value: String(stats.facilities), icon: 'server' as const, tip: 'Tracked facilities and deployments operated by this company across the APAC directories we follow.' },
+  { label: 'Operational', value: String(stats.operational), icon: 'check' as const, tip: 'Facilities currently in service.' },
+  { label: 'Planned', value: String(stats.planned), icon: 'calendar' as const, tip: 'Announced or under construction — the forward pipeline.' },
+  { label: 'Countries', value: String(stats.countries), icon: 'globe' as const, tip: 'Countries with at least one tracked facility.' },
+  { label: 'Markets', value: String(stats.markets), icon: 'map-pin' as const, tip: 'Distinct cities/metro markets covered.' },
+  { label: 'Tracked Capacity', value: stats.mw > 0 ? fmtMw(stats.mw) : '—', icon: 'bolt' as const, tip: 'Sum of facility capacity in MW (leased tenant deployments excluded to avoid double counting).' },
+];
+---
+
+<Base title={company.name} active="companies">
+  <div class="article-bar">
+    <a class="article-bar-back" href={`${base}/companies/`}>
+      <Icon name="arrow-left" size={14} />Back to companies
+    </a>
+  </div>
+
+  <article class="panel co-profile">
+    <span class="co-logo co-logo--lg">
+      {logo && (
+        <img src={logo} alt="" onerror="this.remove()" />
+      )}
+      <span class="co-letter" aria-hidden="true">{company.name.charAt(0)}</span>
+    </span>
+    <div class="co-profile-body">
+      <h1 class="co-profile-name">{company.name}</h1>
+      <div class="fact-chips">
+        <span class="chip topic">{company.category}</span>
+      </div>
+      {company.blurb && <p class="co-profile-blurb">{company.blurb}</p>}
+      {company.domain && (
+        <a class="btn btn-primary co-site" href={`https://${company.domain}`} target="_blank" rel="noopener">
+          Official website<Icon name="external" size={13} />
+        </a>
+      )}
+    </div>
+  </article>
+
+  <section class="co-stat-grid">
+    {STAT_CARDS.map((s) => (
+      <div class="panel co-stat">
+        <span class="co-stat-icon"><Icon name={s.icon} size={17} strokeWidth={1.9} /></span>
+        <p class="co-stat-text">
+          <strong>{s.value}</strong> {s.label}
+          <InfoTip tip={s.tip} />
+        </p>
+      </div>
+    ))}
+  </section>
+
+  <section class="panel co-facilities">
+    <div class="co-facilities-head">
+      <h2 class="panel-title">Facilities ({company.projects.length})</h2>
+      {company.projects.length > 8 && (
+        <div class="search-wrap">
+          <Icon name="search" size={14} class="search-icon" />
+          <input
+            class="search"
+            id="facility-search"
+            type="search"
+            placeholder="Filter facilities…"
+            aria-label="Filter facilities by name, location or status"
+          />
+        </div>
+      )}
+    </div>
+    <table class="pipeline-table co-table">
+      <thead>
+        <tr>
+          <th><span class="th-text">Project</span></th>
+          <th><span class="th-text">Region</span></th>
+          <th><span class="th-text">Location</span></th>
+          <th><span class="th-text">Capacity</span></th>
+          <th><span class="th-text">Status</span></th>
+        </tr>
+      </thead>
+      <tbody>
+        {company.projects.map((p) => {
+          const cap = formatCapacity(p);
+          const meta = STATUS_META[p.status];
+          const loc = p.city === p.country ? p.city : [p.city, p.country].filter(Boolean).join(', ');
+          return (
+            <tr data-search={`${p.name} ${loc} ${meta.label} ${REGION_LABELS[p.region]}`.toLowerCase()}>
+              <td class="proj-name"><a href={`${base}/projects/${p.id}/`}>{p.name}</a></td>
+              <td><span class="chip region">{REGION_LABELS[p.region]}</span></td>
+              <td class="proj-loc">{loc}</td>
+              <td class="proj-cap">
+                <span class="cap-value" class:list={[{ 'is-empty': p.capacity_mw === null }]}>{cap.value}</span>
+                {cap.note && <span class="cap-note">{cap.note}</span>}
+              </td>
+              <td><span class={`badge ${meta.className}`}>{meta.label}</span></td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+    <p class="co-filter-empty is-hidden" id="facility-filter-empty">No facilities match — try a different search term.</p>
+  </section>
+
+  <script>
+    /* Instant text filter for the facilities table (any column). */
+    const facilitySearch = document.querySelector<HTMLInputElement>('#facility-search');
+    if (facilitySearch) {
+      const facilityRows = [
+        ...document.querySelectorAll<HTMLTableRowElement>('.co-table tbody tr'),
+      ];
+      const filterEmpty = document.getElementById('facility-filter-empty');
+      facilitySearch.addEventListener('input', () => {
+        const q = facilitySearch.value.trim().toLowerCase();
+        let visible = 0;
+        facilityRows.forEach((tr) => {
+          const ok = q === '' || (tr.dataset.search ?? '').includes(q);
+          tr.classList.toggle('is-hidden', !ok);
+          if (ok) visible++;
+        });
+        filterEmpty?.classList.toggle('is-hidden', visible > 0);
+      });
+    }
+  </script>
+
+  {news.length > 0 && (
+    <section class="panel co-news">
+      <h2 class="panel-title">In the news</h2>
+      <ul class="news-timeline">
+        {news.map(({ story }) => (
+          <li>
+            <span class="tl-date">{formatDate(story.published_at.slice(0, 10))}</span>
+            <a class="tl-title" href={`${base}/news/${story.id}/`}>{story.title}</a>
+            <span class="tl-source">{sourceDisplayName(story.sources[0], story)}</span>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+</Base>

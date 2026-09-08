@@ -1,0 +1,99 @@
+---
+/**
+ * Interactive locator map for the project detail page: a small Leaflet map
+ * centered on the facility's exact coordinates at street level. Drag to pan,
+ * double-click or the zoom control to zoom; wheel zoom is disabled so page
+ * scrolling is never hijacked. Projects without exact coordinates render no
+ * map at all (the parent page skips this component).
+ */
+interface Props {
+  /** Exact facility coordinates (lat/lon). */
+  lat: number;
+  lon: number;
+  label: string;
+  /** Project status — keys the pin color (same palette as the HeatMap pins). */
+  status: 'announced' | 'under_construction' | 'operational' | 'on_hold' | 'cancelled';
+}
+
+const { lat, lon, label, status } = Astro.props;
+---
+
+<div
+  class="minimap-leaflet"
+  data-lat={lat}
+  data-lon={lon}
+  data-status={status}
+  role="img"
+  aria-label={`Map showing the location of ${label}`}
+></div>
+
+<script>
+  import L from 'leaflet';
+  import 'leaflet/dist/leaflet.css';
+
+  /* One Leaflet mini-map per project detail page. The pin reuses the HeatMap
+     status palette (divIcon + the .pin classes from global.css). */
+  document.querySelectorAll<HTMLElement>('.minimap-leaflet').forEach((el) => {
+    const lat = parseFloat(el.dataset.lat ?? '');
+    const lon = parseFloat(el.dataset.lon ?? '');
+    if (Number.isNaN(lat) || Number.isNaN(lon) || !navigator.onLine) return;
+
+    try {
+      const map = L.map(el, {
+        center: [lat, lon],
+        zoom: 14,
+        minZoom: 3,
+        maxZoom: 18,
+        zoomControl: true,
+        scrollWheelZoom: false, // never hijack page scrolling
+        doubleClickZoom: true,
+      });
+      new ResizeObserver(() => map.invalidateSize()).observe(el);
+
+      // Same tile sources as HeatMap: CARTO Positron (English labels) first,
+      // plain OSM as backup when nothing loads within 5s.
+      const TILE_SOURCES: { url: string; subdomains?: string; attribution: string }[] = [
+        {
+          url: 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png',
+          subdomains: 'abcd',
+          attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions" target="_blank" rel="noopener">CARTO</a>',
+        },
+        {
+          url: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+          attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors',
+        },
+      ];
+      let settled = false;
+      const tryLayer = (i: number) => {
+        if (settled || i >= TILE_SOURCES.length) return;
+        const src = TILE_SOURCES[i];
+        const tiles = L.tileLayer(src.url, {
+          maxZoom: 19,
+          subdomains: src.subdomains ?? 'abc',
+          attribution: src.attribution,
+        });
+        const stall = window.setTimeout(() => {
+          tiles.off('tileload', onLoad);
+          map.removeLayer(tiles);
+          tryLayer(i + 1);
+        }, 5000);
+        const onLoad = () => {
+          settled = true;
+          window.clearTimeout(stall);
+        };
+        tiles.once('tileload', onLoad);
+        tiles.addTo(map);
+      };
+      tryLayer(0);
+
+      const status = el.dataset.status ?? 'operational';
+      const icon = L.divIcon({
+        className: `dc-pin pin pin-${status}`,
+        html: '<svg viewBox="-13 -13 26 26" width="20" height="20"><circle r="11" class="minimap-pin-halo"/><circle r="6.5"/></svg>',
+        iconSize: [20, 20],
+        iconAnchor: [10, 10],
+      });
+      L.marker([lat, lon], { icon, keyboard: false, interactive: false }).addTo(map);
+    } catch { /* init failure: leave the empty placeholder */ }
+  });
+</script>

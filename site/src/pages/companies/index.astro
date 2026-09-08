@@ -1,0 +1,57 @@
+---
+import Base from '../../layouts/Base.astro';
+import { loadCompanies, logoUrl, CATEGORY_ORDER, type Company } from '../../lib/companies';
+
+const companies = loadCompanies();
+const base = import.meta.env.BASE_URL;
+
+const byCategory = new Map<string, Company[]>();
+for (const c of companies) {
+  const list = byCategory.get(c.category) ?? [];
+  list.push(c);
+  byCategory.set(c.category, list);
+}
+const categories = CATEGORY_ORDER.filter((cat) => byCategory.has(cat));
+---
+
+<Base title="Companies" active="companies">
+  <header class="page-head">
+    <div>
+      <h1 class="page-title">Companies</h1>
+      <p class="page-sub">The operators behind APAC's data center pipeline</p>
+    </div>
+  </header>
+
+  {categories.map((cat) => (
+    <section class="co-section">
+      <h2 class="co-cat">{cat}</h2>
+      <div class="co-grid">
+        {(byCategory.get(cat) ?? []).map((c) => {
+          const logo = c.domain ? logoUrl(c.domain) : null;
+          return (
+          <a class="co-card" href={`${base}/companies/${c.slug}/`}>
+            <span class="co-logo">
+              {logo && (
+                <img
+                  src={logo}
+                  alt=""
+                  loading="lazy"
+                  onerror="this.remove()"
+                />
+              )}
+              <span class="co-letter" aria-hidden="true">{c.name.charAt(0)}</span>
+            </span>
+            <span class="co-body">
+              <span class="co-name">{c.name}</span>
+              <span class="co-blurb">
+                {c.blurb ?? `Data center operator with ${c.stats.facilities} tracked facilities.`}
+              </span>
+            </span>
+            <span class="co-cta">View details →</span>
+          </a>
+          );
+        })}
+      </div>
+    </section>
+  ))}
+</Base>

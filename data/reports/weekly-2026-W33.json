@@ -1,0 +1,103 @@
+{
+  "type": "weekly",
+  "period": "2026-W33",
+  "date_range": {
+    "start": "2026-08-10",
+    "end": "2026-08-16"
+  },
+  "generated_at": "2026-08-25T05:50:16Z",
+  "complete": false,
+  "stats": {
+    "stories": 51,
+    "sources": 10,
+    "days": 6,
+    "read_minutes": 3
+  },
+  "title": "APAC build-out spreads as capital and constraints collide",
+  "lede": "The week of August 10-16 underscored how Asia-Pacific data center development is simultaneously broadening geographically and straining against physical limits. In Japan, new hub proposals in Ishikari and a roughly $13 billion AI campus in Akita signaled a decisive push beyond the Tokyo-Osaka corridor, aided by cool climates, land, and offshore wind. South Korea's AI build-out accelerated on multiple fronts — telecom operators passed 1 trillion won in AI data center sales, construction firms doubled down, and the government weighed an underwater facility — even as Seoul residents resisted new sites and policymakers called for tighter regulation. Capital kept flowing: STT GDC secured $1.37 billion in green financing for Johor, Malaysian landowners sold Cyberjaya parcels to data center buyers, a Singapore operator targeted a $5 billion US IPO, and Macquarie circled Stack's $25 billion APAC portfolio. Beneath the momentum, JLL's record 25GW global absorption figures came with warnings about power, water, and mineral supply constraints shaping where capacity can realistically land.",
+  "themes": [
+    {
+      "heading": "Japan's build-out moves beyond Tokyo and Osaka",
+      "narrative": "Japanese data center development is spreading into regional areas as power and land constraints bite in the traditional hubs. An NTT-backed consortium targeted Ishikari in Hokkaido as a new hub leveraging cool climate and available power, while Akita is set to host the country's largest AI data center at an estimated 2 trillion yen (about $13 billion), backed by offshore wind. The Akita project's cost estimate was revised upward from earlier projections during the week.",
+      "story_ids": [
+        "2026-08-13-63114b",
+        "2026-08-13-ef15dc",
+        "2026-08-16-d02764",
+        "2026-08-16-5ec5d6"
+      ]
+    },
+    {
+      "heading": "Korea's AI data center machine picks up speed",
+      "narrative": "South Korea's AI infrastructure push gathered momentum across telecom and construction sectors. The country's three major telecom operators collectively surpassed 1 trillion won in AI data center-related sales, underlining their growing role as infrastructure builders. Hanwha Construction joined a government-backed efficiency project, while Korean builders more broadly repositioned data centers as a core growth business.",
+      "story_ids": [
+        "2026-08-13-253c26",
+        "2026-08-13-22fec3",
+        "2026-08-16-0e7582"
+      ]
+    },
+    {
+      "heading": "Siting backlash forces Korea to look offshore",
+      "narrative": "Rapid construction is triggering resistance in South Korea, with policymakers and communities demanding tighter regulation over power consumption, grid strain, and siting disputes around Seoul. Residents are openly opposing facilities near their neighborhoods, complicating new development. The pressure has pushed authorities to explore an underwater data center concept that would sidestep land scarcity while using seawater for cooling.",
+      "story_ids": [
+        "2026-08-13-1ecf33",
+        "2026-08-14-113fcc",
+        "2026-08-16-1b4522"
+      ]
+    },
+    {
+      "heading": "Malaysian land rush extends into new states",
+      "narrative": "Malaysia's data center land market stayed active, with a major property developer selling a 36-acre Cyberjaya parcel and MRCB disposing of seven Cyberjaya sites to a Singapore-backed buyer for US$102 million. The wave is spreading geographically too, as DPS Resources began exploring developments in Melaka. The deals confirm Malaysia's established tech corridor as the region's busiest land market.",
+      "story_ids": [
+        "2026-08-13-f08fb6",
+        "2026-08-14-f926b1",
+        "2026-08-14-69a2de"
+      ]
+    },
+    {
+      "heading": "Capital markets chase APAC data center assets",
+      "narrative": "Financing activity was intense across the region. STT GDC secured a US$1.37 billion green facility for its flagship Johor campus, while Centuria and ResetData fast-tracked a 250MW Australian AI pipeline with A$165 million in GPU financing, a A$300 million equity raise, a 7MW capacity deal with CDC, and a Macquarie bridge facility. Macquarie is also reportedly eyeing Stack Infrastructure's APAC portfolio, valued at more than $25 billion.",
+      "story_ids": [
+        "2026-08-13-3d309a",
+        "2026-08-13-11725f",
+        "2026-08-14-ac8eff",
+        "2026-08-14-78d347"
+      ]
+    },
+    {
+      "heading": "Record demand runs into physical supply limits",
+      "narrative": "JLL reported record global absorption of 25GW in the first half of 2026, roughly doubling year-over-year on AI and cloud demand. But the week's commentary focused on the constraints: the OCP APAC Summit centered on managing AI facilities amid growing power limitations, critical mineral supply chains for copper, lithium and rare earths are straining, and fiber capacity is becoming a bottleneck as AI deployments spread.",
+      "story_ids": [
+        "2026-08-13-2788d9",
+        "2026-08-13-d52e88",
+        "2026-08-14-c4524f",
+        "2026-08-14-6987dd"
+      ]
+    }
+  ],
+  "project_milestones": [
+    {
+      "project_id": "resetdata-deployment-at-cdc-data-centres",
+      "name": "ResetData deployment at CDC Data Centres",
+      "operator": "CDC Data Centres",
+      "date": "2026-08-14",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-08-14-ac8eff"
+    },
+    {
+      "project_id": "pldt-southern-philippines-data-center",
+      "name": "PLDT Southern Philippines Data Center",
+      "operator": "PLDT",
+      "date": "2026-08-16",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-08-16-acc64b"
+    }
+  ]
+}

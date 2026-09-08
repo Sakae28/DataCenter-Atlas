@@ -1,0 +1,597 @@
+---
+import geo from '../data/apac-countries.json';
+import { MAP_W as W, MAP_H as H, projectX, projectY } from '../lib/geo';
+
+export interface CountryHeat {
+  mw: number;
+  count: number;
+}
+
+export interface MapPin {
+  /** Project id — lets the pipeline page show/hide pins when searching. */
+  id: string;
+  /** SVG viewBox coordinates (already projected + jittered). */
+  x: number;
+  y: number;
+  /** Pin kind: a project status, or Baxtel's extra stages ("Prospective
+      Expansion" / "Land Bank") which have no dedicated project status. */
+  status:
+    | 'announced' | 'under_construction' | 'operational' | 'on_hold' | 'cancelled'
+    | 'expansion' | 'landbank';
+  title: string;
+  /** Hover-popup card fields (map mode). */
+  name: string;
+  operator: string;
+  loc: string;
+  cap: string;
+  statusLabel: string;
+  url: string;
+}
+
+interface Props {
+  /** Keyed by projects.json country names — drives the ranking list. */
+  heat: Record<string, CountryHeat>;
+  /** One pin per project. */
+  pins: MapPin[];
+}
+
+const { heat, pins } = Astro.props;
+
+type Ring = [number, number][];
+type Geom =
+  | { type: 'Polygon'; coordinates: Ring[] }
+  | { type: 'MultiPolygon'; coordinates: Ring[][] };
+
+function ringPath(ring: Ring): string {
+  return ring
+    .map(([lon, lat], i) => `${i === 0 ? 'M' : 'L'}${projectX(lon).toFixed(1)},${projectY(lat).toFixed(1)}`)
+    .join(' ') + ' Z';
+}
+
+function geomPath(geom: Geom): string {
+  const polys = geom.type === 'Polygon' ? [geom.coordinates] : geom.coordinates;
+  return polys.map((poly) => poly.map(ringPath).join(' ')).join(' ');
+}
+
+const features = (
+  geo as unknown as { features: { properties: { name: string; tracked: boolean }; geometry: Geom }[] }
+).features;
+
+const paths = features.map((f) => ({
+  name: f.properties.name,
+  d: geomPath(f.geometry),
+  tracked: f.properties.tracked,
+}));
+
+function fmtMw(mw: number): string {
+  return mw >= 1000 ? `${(mw / 1000).toFixed(1)} GW` : `${Math.round(mw)} MW`;
+}
+
+const maxMw = Math.max(1, ...Object.values(heat).map((h) => h.mw));
+
+// Side ranking: top markets by tracked capacity.
+const ranking = Object.entries(heat)
+  .map(([name, h]) => ({ name, ...h, pct: Math.max(2, (h.mw / maxMw) * 100) }))
+  .sort((a, b) => b.mw - a.mw);
+
+// --- Pins ------------------------------------------------------------------
+// One marker per project, shape + color keyed by status (matches the table's
+// status badges). Pins scale with zoom: dense cities read as colored clusters
+// at full view and resolve into individual markers when zoomed in.
+const PIN_META: Record<MapPin['status'], { label: string; shape: 'circle' | 'triangle' | 'square' | 'diamond' | 'cross' | 'plus-circle' | 'square-hollow' }> = {
+  operational: { label: 'Operational', shape: 'circle' },
+  under_construction: { label: 'Under construction', shape: 'triangle' },
+  announced: { label: 'Announced', shape: 'square' },
+  expansion: { label: 'Prospective expansion', shape: 'plus-circle' },
+  landbank: { label: 'Land bank', shape: 'square-hollow' },
+  on_hold: { label: 'On hold', shape: 'diamond' },
+  cancelled: { label: 'Cancelled', shape: 'cross' },
+};
+
+// Render muted statuses first so operational pins sit on top.
+const STATUS_ORDER: MapPin['status'][] = ['cancelled', 'on_hold', 'landbank', 'announced', 'expansion', 'under_construction', 'operational'];
+
+const pinsByStatus = new Map<MapPin['status'], MapPin[]>();
+for (const pin of pins) {
+  const list = pinsByStatus.get(pin.status) ?? [];
+  list.push(pin);
+  pinsByStatus.set(pin.status, list);
+}
+
+const legend = STATUS_ORDER.map((s) => ({
+  status: s,
+  ...PIN_META[s],
+  count: pinsByStatus.get(s)?.length ?? 0,
+})).filter((l) => l.count > 0);
+---
+
+<div class="heatmap">
+  <div class="heatmap-map" data-w={W} data-h={H}>
+    {/* Leaflet container: invisible (but laid out) until the first OSM tile
+        loads; the SVG below is the always-works offline baseline. */}
+    <div class="heatmap-leaflet" id="dc-leaflet" aria-hidden="true"></div>
+    <svg
+      id="dc-map"
+      viewBox={`0 0 ${W} ${H}`}
+      preserveAspectRatio="xMidYMid meet"
+      role="img"
+      aria-label="Map of tracked data center projects across Asia-Pacific"
+    >
+      {paths.map((p) => (
+        <path d={p.d} class:list={['heatmap-country', { 'is-tracked': p.tracked }]}>
+          <title>{p.name}</title>
+        </path>
+      ))}
+      {STATUS_ORDER.map((status) =>
+        (pinsByStatus.get(status) ?? []).map((pin) => (
+          <g
+            class={`pin pin-${status}`}
+            transform={`translate(${pin.x} ${pin.y})`}
+            data-id={pin.id}
+            data-n={pin.name}
+            data-o={pin.operator}
+            data-l={pin.loc}
+            data-c={pin.cap}
+            data-sl={pin.statusLabel}
+            data-u={pin.url}
+          >
+            {PIN_META[status].shape === 'circle' && <circle r="9" />}
+            {PIN_META[status].shape === 'triangle' && <path d="M0,-10 L9,7 L-9,7 Z" />}
+            {PIN_META[status].shape === 'square' && <rect x="-8" y="-8" width="16" height="16" />}
+            {PIN_META[status].shape === 'diamond' && <path d="M0,-9 L9,0 L0,9 L-9,0 Z" />}
+            {PIN_META[status].shape === 'cross' && <path d="M-6,-6 L6,6 M6,-6 L-6,6" class="pin-cross-lines" />}
+            {PIN_META[status].shape === 'plus-circle' && (
+              <g class="pin-plus">
+                <circle r="9" />
+                <path d="M-4.5,0 L4.5,0 M0,-4.5 L0,4.5" />
+              </g>
+            )}
+            {PIN_META[status].shape === 'square-hollow' && (
+              <rect class="pin-hollow" x="-8" y="-8" width="16" height="16" />
+            )}
+          </g>
+        )),
+      )}
+    </svg>
+
+    {/* Zoom controls (wheel zoom + drag pan wired in the script below). */}
+    <div class="map-zoom">
+      <button type="button" class="map-zoom-btn" data-zoom="in" aria-label="Zoom in">
+        <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>
+      </button>
+      <button type="button" class="map-zoom-btn" data-zoom="out" aria-label="Zoom out">
+        <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M5 12h14"/></svg>
+      </button>
+      <button type="button" class="map-zoom-btn" data-zoom="reset" aria-label="Reset zoom">
+        <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"/></svg>
+      </button>
+    </div>
+
+    {/* Hover pin driven by the project table (pipeline.astro). */}
+    <div class="map-marker" id="map-marker" aria-hidden="true">
+      <span class="map-marker-ring"></span>
+      <span class="map-marker-dot"></span>
+      <span class="map-marker-label"></span>
+    </div>
+
+    {/* Status legend: shape + color + count. */}
+    <div class="map-status-legend">
+      {legend.map((l) => (
+        <span class="map-status-item">
+          <svg viewBox="-12 -12 24 24" width="13" height="13" class={`pin pin-${l.status}`} aria-hidden="true">
+            {l.shape === 'circle' && <circle r="9" />}
+            {l.shape === 'triangle' && <path d="M0,-10 L9,7 L-9,7 Z" />}
+            {l.shape === 'square' && <rect x="-8" y="-8" width="16" height="16" />}
+            {l.shape === 'diamond' && <path d="M0,-9 L9,0 L0,9 L-9,0 Z" />}
+            {l.shape === 'cross' && <path d="M-6,-6 L6,6 M6,-6 L-6,6" class="pin-cross-lines" />}
+            {l.shape === 'plus-circle' && (
+              <g class="pin-plus">
+                <circle r="9" />
+                <path d="M-4.5,0 L4.5,0 M0,-4.5 L0,4.5" />
+              </g>
+            )}
+            {l.shape === 'square-hollow' && (
+              <rect class="pin-hollow" x="-8" y="-8" width="16" height="16" />
+            )}
+          </svg>
+          {l.label}
+          <span class="map-status-count">{l.count}</span>
+        </span>
+      ))}
+    </div>
+
+    {/* Pin hover card (both modes); click navigates to the project page. */}
+    <div class="map-popup" id="map-popup" aria-hidden="true">
+      <p class="map-popup-name"></p>
+      <p class="map-popup-meta"></p>
+      <p class="map-popup-sub"></p>
+      <span class="map-popup-cta">View project →</span>
+    </div>
+  </div>
+
+  <ol class="heatmap-rank">
+    {ranking.map((r) => (
+      <li class="heatmap-rank-row">
+        <span class="heatmap-rank-name">{r.name}</span>
+        <span class="heatmap-rank-bar" style={`--pct: ${r.pct.toFixed(1)}%`} aria-hidden="true" />
+        <span class="heatmap-rank-mw">{fmtMw(r.mw)}</span>
+        <span class="heatmap-rank-count">{r.count}</span>
+      </li>
+    ))}
+  </ol>
+</div>
+
+<script>
+  import L from 'leaflet';
+  import 'leaflet/dist/leaflet.css';
+  import {
+    unprojectX,
+    unprojectY,
+    MAP_LAT0,
+    MAP_LAT1,
+    MAP_LON0,
+    MAP_LON1,
+  } from '../lib/mapProjection';
+
+  /* ---------- Pan / zoom for #dc-map ----------
+     Plain viewBox manipulation — no external map library, works fully
+     offline. Other code (pipeline table filters) requests a re-frame via
+     the "dcmap:fit" CustomEvent with a viewBox-space bounding box. */
+  const svg = document.querySelector<SVGSVGElement>('#dc-map');
+  const wrap = svg?.closest<HTMLElement>('.heatmap-map');
+  const leafletEl = document.querySelector<HTMLElement>('#dc-leaflet');
+  if (svg && wrap) {
+    const FULL_W = parseFloat(wrap.dataset.w ?? '1000');
+    const FULL_H = parseFloat(wrap.dataset.h ?? '1800');
+    const MAX_ZOOM = 14; // smallest viewBox width = FULL_W / MAX_ZOOM
+
+    let vb = { x: 0, y: 0, w: FULL_W, h: FULL_H };
+
+    function render() {
+      svg!.setAttribute('viewBox', `${vb.x} ${vb.y} ${vb.w} ${vb.h}`);
+    }
+
+    function clamp() {
+      vb.w = Math.min(FULL_W, Math.max(FULL_W / MAX_ZOOM, vb.w));
+      vb.h = Math.min(FULL_H, Math.max(FULL_H / MAX_ZOOM, vb.h));
+      if (vb.w >= FULL_W) vb.x = 0;
+      else vb.x = Math.min(FULL_W - vb.w, Math.max(0, vb.x));
+      if (vb.h >= FULL_H) vb.y = 0;
+      else vb.y = Math.min(FULL_H - vb.h, Math.max(0, vb.y));
+    }
+
+    /** Container pixel -> viewBox coordinates (accounts for "meet" letterbox). */
+    function toVb(px: number, py: number): [number, number] {
+      const cw = wrap!.clientWidth;
+      const ch = wrap!.clientHeight;
+      const s = Math.min(cw / vb.w, ch / vb.h);
+      const ox = (cw - vb.w * s) / 2;
+      const oy = (ch - vb.h * s) / 2;
+      return [(px - ox) / s + vb.x, (py - oy) / s + vb.y];
+    }
+
+    function zoomAt(cx: number, cy: number, factor: number) {
+      const nw = vb.w / factor;
+      const nh = vb.h / factor;
+      vb = {
+        w: nw,
+        h: nh,
+        x: cx - (cx - vb.x) / factor,
+        y: cy - (cy - vb.y) / factor,
+      };
+      clamp();
+      render();
+    }
+
+    /* Smoothly animate to a target viewBox rect (used by filter -> fit). */
+    let anim = 0;
+    function animateTo(target: { x: number; y: number; w: number; h: number }, ms = 420) {
+      cancelAnimationFrame(anim);
+      const from = { ...vb };
+      const t0 = performance.now();
+      const step = (t: number) => {
+        const k = Math.min(1, (t - t0) / ms);
+        const e = 1 - Math.pow(1 - k, 3); // easeOutCubic
+        vb = {
+          x: from.x + (target.x - from.x) * e,
+          y: from.y + (target.y - from.y) * e,
+          w: from.w + (target.w - from.w) * e,
+          h: from.h + (target.h - from.h) * e,
+        };
+        clamp();
+        render();
+        if (k < 1) anim = requestAnimationFrame(step);
+      };
+      anim = requestAnimationFrame(step);
+    }
+
+    document.addEventListener('dcmap:fit', (e) => {
+      const d = (e as CustomEvent<{ x0: number; y0: number; x1: number; y1: number }>).detail;
+      if (!d) return;
+      if (leafletMap) {
+        leafletMap.flyToBounds(
+          [[unprojectY(d.y1), unprojectX(d.x0)], [unprojectY(d.y0), unprojectX(d.x1)]],
+          { padding: [24, 24], duration: 0.5 },
+        );
+        return;
+      }
+      // Pad the bbox and keep a minimum span so a single pin does not zoom to a point.
+      const padX = Math.max((d.x1 - d.x0) * 0.18, FULL_W / MAX_ZOOM / 2);
+      const padY = Math.max((d.y1 - d.y0) * 0.18, FULL_H / MAX_ZOOM / 2);
+      const x0 = d.x0 - padX;
+      const x1 = d.x1 + padX;
+      const y0 = d.y0 - padY;
+      const y1 = d.y1 + padY;
+      // Fit the container's aspect ratio so the region is fully visible.
+      const boxAspect = (x1 - x0) / (y1 - y0);
+      const wrapAspect = wrap!.clientWidth / wrap!.clientHeight;
+      let w = x1 - x0;
+      let h = y1 - y0;
+      if (boxAspect > wrapAspect) h = w / wrapAspect;
+      else w = h * wrapAspect;
+      animateTo({ x: x0 + (x1 - x0 - w) / 2, y: y0 + (y1 - y0 - h) / 2, w, h });
+    });
+
+    wrap.querySelectorAll<HTMLButtonElement>('.map-zoom-btn').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const cx = vb.x + vb.w / 2;
+        const cy = vb.y + vb.h / 2;
+        if (btn.dataset.zoom === 'in') zoomAt(cx, cy, 1.6);
+        else if (btn.dataset.zoom === 'out') zoomAt(cx, cy, 1 / 1.6);
+        else animateTo({ x: 0, y: 0, w: FULL_W, h: FULL_H });
+      });
+    });
+
+    svg.addEventListener('wheel', (e) => {
+      e.preventDefault();
+      const rect = wrap!.getBoundingClientRect();
+      const [cx, cy] = toVb(e.clientX - rect.left, e.clientY - rect.top);
+      zoomAt(cx, cy, e.deltaY < 0 ? 1.25 : 1 / 1.25);
+    }, { passive: false });
+
+    /* Drag to pan. */
+    let drag: { px: number; py: number; vx: number; vy: number; moved: number } | null = null;
+    svg.addEventListener('pointerdown', (e) => {
+      drag = { px: e.clientX, py: e.clientY, vx: vb.x, vy: vb.y, moved: 0 };
+      svg!.setPointerCapture(e.pointerId);
+      svg!.classList.add('is-dragging');
+      hidePopup();
+    });
+    svg.addEventListener('pointermove', (e) => {
+      if (!drag) return;
+      cancelAnimationFrame(anim); // a grab cancels any in-flight fit animation
+      drag.moved += Math.abs(e.movementX) + Math.abs(e.movementY);
+      const s = Math.min(wrap!.clientWidth / vb.w, wrap!.clientHeight / vb.h);
+      vb.x = drag.vx - (e.clientX - drag.px) / s;
+      vb.y = drag.vy - (e.clientY - drag.py) / s;
+      clamp();
+      render();
+    });
+    const endDrag = () => {
+      if (drag) lastPanMoved = drag.moved;
+      drag = null;
+      svg!.classList.remove('is-dragging');
+    };
+    svg.addEventListener('pointerup', endDrag);
+    svg.addEventListener('pointercancel', endDrag);
+    // pointerup clears drag before click fires; remember the pan distance.
+    let lastPanMoved = 0;
+
+    /* ---------- Pin hover card + click-to-detail (event delegation) ------- */
+    const popup = document.querySelector<HTMLElement>('#map-popup');
+    const popupName = popup?.querySelector<HTMLElement>('.map-popup-name');
+    const popupMeta = popup?.querySelector<HTMLElement>('.map-popup-meta');
+    const popupSub = popup?.querySelector<HTMLElement>('.map-popup-sub');
+
+    function hidePopup() {
+      popup?.classList.remove('is-visible');
+    }
+
+    /* The pin under the cursor. setPointerCapture (drag-pan) retargets every
+       later event — including click — to the svg, so the click handler
+       cannot recover the pin from e.target and must use this instead. */
+    let hoverPin: SVGGElement | null = null;
+
+    svg.addEventListener('pointerover', (e) => {
+      const g = (e.target as Element).closest?.('.pin');
+      if (!g || !popup || !wrap) return;
+      hoverPin = g as SVGGElement;
+      const d = (g as SVGGElement).dataset;
+      if (popupName) popupName.textContent = d.n ?? '';
+      if (popupMeta) popupMeta.textContent = [d.o, d.sl].filter(Boolean).join(' · ');
+      if (popupSub) popupSub.textContent = [d.l, d.c].filter(Boolean).join(' · ');
+      popup.dataset.url = d.u ?? '';
+      popup.classList.add('is-visible');
+    });
+
+    svg.addEventListener('pointermove', (e) => {
+      if (!popup?.classList.contains('is-visible') || !wrap) return;
+      const rect = wrap.getBoundingClientRect();
+      let x = e.clientX - rect.left + 14;
+      let y = e.clientY - rect.top + 14;
+      // Flip when near the right/bottom edge.
+      if (x + 250 > rect.width) x -= 250 + 28;
+      if (y + 110 > rect.height) y -= 110 + 28;
+      popup.style.left = `${x}px`;
+      popup.style.top = `${y}px`;
+    });
+
+    svg.addEventListener('pointerout', (e) => {
+      const g = (e.target as Element).closest?.('.pin');
+      if (g && !(e.relatedTarget as Element | null)?.closest?.('.pin')) {
+        hoverPin = null;
+        hidePopup();
+      }
+    });
+
+    svg.addEventListener('click', () => {
+      if (lastPanMoved > 6) return; // was a pan, not a click
+      const url = hoverPin?.dataset?.u;
+      if (url) window.location.href = url;
+    });
+
+    /* ---------- Row-hover locate (pipeline table dispatches dcmap:locate) -- */
+    const marker = document.querySelector<HTMLElement>('#map-marker');
+    const markerLabel = marker?.querySelector<HTMLElement>('.map-marker-label');
+
+    document.addEventListener('dcmap:locate', (e) => {
+      const d = (e as CustomEvent<{ x: number; y: number; label: string; approx: boolean }>).detail;
+      if (!d) return;
+      if (leafletMap) {
+        if (!locateMarker) {
+          locateMarker = L.marker([0, 0], {
+            icon: L.divIcon({
+              className: 'dc-locate',
+              html: '<span class="map-marker-ring"></span><span class="map-marker-dot"></span>',
+              iconSize: [26, 26],
+              iconAnchor: [13, 13],
+            }),
+            interactive: false,
+            zIndexOffset: 1000,
+          });
+        }
+        locateMarker.setLatLng([unprojectY(d.y), unprojectX(d.x)]).addTo(leafletMap);
+        locateMarker.bindTooltip(d.label, {
+          permanent: true, direction: 'top', offset: [0, -14], className: 'dc-locate-label',
+        }).openTooltip();
+        return;
+      }
+      if (!marker) return;
+      const vbParts = (svg!.getAttribute('viewBox') ?? '').split(/\s+/).map(Number);
+      if (vbParts.length !== 4 || vbParts.some(Number.isNaN)) return;
+      const [vbx, vby, vbw, vbh] = vbParts;
+      const cw = wrap!.clientWidth;
+      const ch = wrap!.clientHeight;
+      const scale = Math.min(cw / vbw, ch / vbh);
+      const x = (cw - vbw * scale) / 2 + (d.x - vbx) * scale;
+      const y = (ch - vbh * scale) / 2 + (d.y - vby) * scale;
+      marker.style.left = `${x}px`;
+      marker.style.top = `${y}px`;
+      if (markerLabel) markerLabel.textContent = d.label;
+      marker.classList.toggle('is-approx', d.approx);
+      marker.classList.add('is-visible');
+    });
+
+    document.addEventListener('dcmap:unlocate', () => {
+      if (leafletMap && locateMarker) {
+        leafletMap.removeLayer(locateMarker);
+        locateMarker = null;
+      }
+      marker?.classList.remove('is-visible');
+    });
+
+    /* ---------- Progressive enhancement: Leaflet + OSM street tiles --------
+       The SVG above is the offline baseline. When online and the first tile
+       arrives, swap to Leaflet (street-level detail on zoom); any failure or
+       a 6s stall keeps the SVG. Pins reuse the SVG markers' shapes, colors
+       and data attributes, so both modes render identically. */
+    let leafletMap: L.Map | null = null;
+    let locateMarker: L.Marker | null = null;
+
+    if (leafletEl && navigator.onLine) {
+      try {
+        const map = L.map(leafletEl, {
+          zoomControl: true,
+          minZoom: 3,
+          maxZoom: 18,
+          zoomSnap: 0.5,
+        });
+        map.fitBounds([[MAP_LAT0, MAP_LON0], [MAP_LAT1, MAP_LON1]]);
+        // Re-measure on every container resize (list/map view toggle,
+        // window resize). Registered at init — not only after the first
+        // tile — so size changes during tile loading are tracked too.
+        new ResizeObserver(() => map.invalidateSize()).observe(wrap!);
+        // English-labeled tiles first (CARTO Positron renders name:en), plain
+        // OSM as backup, the static SVG if nothing loads within 5s per source.
+        const TILE_SOURCES: { url: string; subdomains?: string; attribution: string }[] = [
+          {
+            url: 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png',
+            subdomains: 'abcd',
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions" target="_blank" rel="noopener">CARTO</a>',
+          },
+          {
+            url: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors',
+          },
+        ];
+        let settled = false;
+        const tryLayer = (i: number) => {
+          if (settled) return;
+          if (i >= TILE_SOURCES.length) { settled = true; map.remove(); return; }
+          const src = TILE_SOURCES[i];
+          const tiles = L.tileLayer(src.url, {
+            maxZoom: 19,
+            subdomains: src.subdomains ?? 'abc',
+            attribution: src.attribution,
+          });
+          const stall = window.setTimeout(() => {
+            tiles.off('tileload', onLoad);
+            map.removeLayer(tiles);
+            tryLayer(i + 1);
+          }, 5000);
+          const onLoad = () => {
+            if (settled) return;
+            settled = true;
+            window.clearTimeout(stall);
+            activate(map, tiles);
+          };
+          tiles.once('tileload', onLoad);
+          tiles.addTo(map);
+        };
+
+        const activate = (m: L.Map, _tiles: L.TileLayer) => {
+          leafletMap = m;
+          wrap!.classList.add('is-leaflet');
+          // The view toggle may have resized the container while the first
+          // tile was in flight — re-measure after layout so tiles and
+          // markers land in the right place.
+          requestAnimationFrame(() => m.invalidateSize());
+          // Port every SVG pin to a Leaflet marker (same shape/color/data).
+          svg!.querySelectorAll<SVGGElement>('g.pin').forEach((g) => {
+            const mm = g.getAttribute('transform')
+              ?.match(/translate\((-?[\d.]+)[ ,](-?[\d.]+)\)/);
+            if (!mm) return;
+            const status = [...g.classList]
+              .find((c) => c.startsWith('pin-')) ?? '';
+            const icon = L.divIcon({
+              className: `dc-pin pin ${status}`,
+              html: `<svg viewBox="-12 -12 24 24" width="16" height="16">${g.innerHTML}</svg>`,
+              iconSize: [16, 16],
+              iconAnchor: [8, 8],
+            });
+            const mk = L.marker([unprojectY(parseFloat(mm[2])), unprojectX(parseFloat(mm[1]))], {
+              icon,
+              keyboard: false,
+            });
+            const d = g.dataset;
+            mk.bindTooltip(
+              `<p class="map-popup-name">${d.n ?? ''}</p>` +
+              `<p class="map-popup-meta">${[d.o, d.sl].filter(Boolean).join(' · ')}</p>` +
+              `<p class="map-popup-sub">${[d.l, d.c].filter(Boolean).join(' · ')}</p>` +
+              '<span class="map-popup-cta">View project →</span>',
+              { direction: 'top', offset: [0, -10], className: 'dc-tooltip' },
+            );
+            if (g.classList.contains('is-hidden')) {
+              mk.on('add', () => mk.getElement()?.classList.add('is-hidden'));
+            }
+            mk.on('click', () => { if (d.u) window.location.href = d.u; });
+            mk.addTo(m);
+            markersById.set(d.id ?? '', mk);
+          });
+        };
+        tryLayer(0);
+      } catch { /* offline or init failure: stay on the SVG map */ }
+    }
+
+    /* Search/filter pin visibility (pipeline.astro dispatches dcmap:visible
+       with the visible project ids); SVG pins are class-toggled there. */
+    const markersById = new Map<string, L.Marker>();
+    document.addEventListener('dcmap:visible', (e) => {
+      if (!leafletMap) return;
+      const ids = new Set((e as CustomEvent<{ ids: string[] }>).detail?.ids ?? []);
+      markersById.forEach((mk, id) => {
+        mk.getElement()?.classList.toggle('is-hidden', !ids.has(id));
+      });
+    });
+  }
+</script>

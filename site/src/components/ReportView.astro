@@ -1,0 +1,227 @@
+---
+/**
+ * Shared renderer for one report issue (weekly or monthly): left rail with
+ * Weekly/Monthly tabs + month-grouped issue list, main column with masthead,
+ * lede card, stat strip, key-themes index, per-theme sections and project
+ * milestones. Used by reports/index.astro (latest issue) and the
+ * reports/weekly|monthly/[id] routes.
+ */
+import Icon from './Icon.astro';
+import {
+  groupByMonth,
+  issueBadge,
+  formatRange,
+  reportPath,
+  type Report,
+} from '../lib/reports';
+import { formatDate, sourceDisplayName, type NewsStory } from '../lib/news';
+import { STATUS_META, type ProjectStatus } from '../lib/projects';
+
+const statusMeta = (s?: string | null) =>
+  s && s in STATUS_META ? STATUS_META[s as ProjectStatus] : null;
+
+interface Props {
+  report: Report;
+  reports: Report[];
+  storiesById: Map<string, NewsStory>;
+}
+
+const { report, reports, storiesById } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const href = (r: Report) => `${base}${reportPath(r)}`;
+
+const sameType = reports.filter((r) => r.type === report.type);
+const railGroups = groupByMonth(sameType);
+const latestOf = (type: Report['type']) => reports.find((r) => r.type === type);
+const latestWeekly = latestOf('weekly');
+const latestMonthly = latestOf('monthly');
+
+const kindLabel = report.type === 'weekly' ? 'WEEKLY' : 'MONTHLY';
+const briefLabel = report.type === 'weekly' ? 'The week in brief' : 'The month in brief';
+const totalThemeStories = report.themes.reduce((n, t) => n + t.story_ids.length, 0);
+
+const fmtDay = (iso: string) => formatDate(iso.slice(0, 10));
+---
+
+<div class="report-layout">
+  <aside class="report-rail" aria-label="Report issues">
+    <div class="report-tabs" role="tablist">
+      {latestWeekly ? (
+        <a
+          class="report-tab"
+          class:list={[{ 'is-active': report.type === 'weekly' }]}
+          href={href(latestWeekly)}
+          role="tab"
+          aria-selected={report.type === 'weekly'}
+        >Weekly</a>
+      ) : (
+        <span class="report-tab is-disabled">Weekly</span>
+      )}
+      {latestMonthly ? (
+        <a
+          class="report-tab"
+          class:list={[{ 'is-active': report.type === 'monthly' }]}
+          href={href(latestMonthly)}
+          role="tab"
+          aria-selected={report.type === 'monthly'}
+        >Monthly</a>
+      ) : (
+        <span class="report-tab is-disabled">Monthly</span>
+      )}
+    </div>
+
+    {railGroups.map((group, gi) => (
+      <details class="report-group" open={gi === 0}>
+        <summary class="report-group-head">
+          <Icon name="chevron" size={12} class="report-group-chev" />
+          {group.label}
+          <span class="report-group-count">{group.reports.length}</span>
+        </summary>
+        <ul class="report-issue-list">
+          {group.reports.map((r) => (
+            <li>
+              <a
+                class="report-issue"
+                class:list={[{ 'is-active': r.type === report.type && r.period === report.period }]}
+                href={href(r)}
+              >
+                <span class="report-issue-badge">{issueBadge(r)}</span>
+                <span class="report-issue-title">{r.title}</span>
+                {!r.complete && <span class="report-issue-partial" title="Partial: period still in progress or days missing">•</span>}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </details>
+    ))}
+  </aside>
+
+  <div class="report-main">
+    <header class="report-masthead">
+      <p class="report-kicker">
+        VOL. {report.period} · {report.stats.stories} STORIES · DATACENTER ATLAS {kindLabel}
+      </p>
+      <h1 class="report-title">{report.title}</h1>
+      <p class="report-meta">
+        {formatRange(report)} · {kindLabel} · Compiled automatically
+        {!report.complete && (
+          <span class="badge featured report-partial-badge">Partial — period in progress or archive gaps</span>
+        )}
+      </p>
+    </header>
+
+    <section class="panel report-lede">
+      <p class="report-section-label">{briefLabel}</p>
+      <p class="report-lede-text">{report.lede}</p>
+    </section>
+
+    <section class="report-stat-grid">
+      <div class="panel report-stat">
+        <p class="report-stat-value">{report.stats.stories}</p>
+        <p class="report-stat-label">Stories</p>
+      </div>
+      <div class="panel report-stat">
+        <p class="report-stat-value">{report.stats.sources}</p>
+        <p class="report-stat-label">Sources</p>
+      </div>
+      <div class="panel report-stat">
+        <p class="report-stat-value">{report.stats.days}</p>
+        <p class="report-stat-label">Days covered</p>
+      </div>
+      <div class="panel report-stat">
+        <p class="report-stat-value">≈{report.stats.read_minutes} min</p>
+        <p class="report-stat-label">To read this page</p>
+      </div>
+    </section>
+
+    {report.themes.length > 0 && (
+      <section class="panel report-themes-index">
+        <div class="report-themes-head">
+          <h2 class="panel-title">Key themes</h2>
+          <span class="report-themes-count">{report.themes.length} themes · {totalThemeStories} stories</span>
+        </div>
+        <ol class="report-theme-list">
+          {report.themes.map((theme, i) => (
+            <li>
+              <a class="report-theme-row" href={`#theme-${i + 1}`}>
+                <span class="report-theme-num">{String(i + 1).padStart(2, '0')}</span>
+                <span class="report-theme-heading">{theme.heading}</span>
+                <span class="report-theme-count">{theme.story_ids.length}</span>
+              </a>
+            </li>
+          ))}
+        </ol>
+      </section>
+    )}
+
+    {report.themes.map((theme, i) => (
+      <section class="report-theme-section" id={`theme-${i + 1}`}>
+        <h2 class="report-theme-title">
+          <span class="report-theme-num">{String(i + 1).padStart(2, '0')}</span>
+          {theme.heading}
+          <span class="report-theme-count">{theme.story_ids.length} {theme.story_ids.length === 1 ? 'story' : 'stories'}</span>
+        </h2>
+        {theme.narrative && <p class="report-theme-narrative">{theme.narrative}</p>}
+        <div class="panel report-story-list">
+          {theme.story_ids.map((id) => {
+            const story = storiesById.get(id);
+            if (!story) return null;
+            return (
+              <div class="report-story-row">
+                <a class="report-story-title" href={`${base}/news/${story.id}/`}>{story.title}</a>
+                <span class="report-story-meta">
+                  <span class="report-story-source">{sourceDisplayName(story.sources[0], story)}</span>
+                  <span class="report-story-date">{fmtDay(story.published_at)}</span>
+                </span>
+              </div>
+            );
+          })}
+        </div>
+      </section>
+    ))}
+
+    {report.project_milestones.length > 0 && (
+      <section class="report-theme-section">
+        <h2 class="report-theme-title">
+          Project milestones
+          <span class="report-theme-count">{report.project_milestones.length}</span>
+        </h2>
+        <div class="panel report-story-list">
+          {report.project_milestones.map((m) => (
+            <div class="report-story-row">
+              <span class="report-story-title">
+                <a href={`${base}/projects/${m.project_id}/`}>{m.name}</a>
+                <span class="report-milestone-op">{m.operator}</span>
+              </span>
+              <span class="report-story-meta">
+                <span class="report-milestone-change">
+                  {(() => {
+                    const cur = statusMeta(m.status);
+                    const prev = statusMeta(m.prev_status);
+                    if (!cur) return m.change;
+                    if (m.kind === 'status_change' && prev) {
+                      return (
+                        <>
+                          <span class={`badge ${prev.className}`}>{prev.label}</span>
+                          {' → '}
+                          <span class={`badge ${cur.className}`}>{cur.label}</span>
+                        </>
+                      );
+                    }
+                    return <span class={`badge ${cur.className}`}>{cur.label}</span>;
+                  })()}
+                </span>
+                <span class="report-story-date">{fmtDay(m.date)}</span>
+              </span>
+            </div>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <p class="report-footnote">
+      Generated {formatDate(report.generated_at.slice(0, 10))} from the daily digest archive.
+      Themes and narratives are AI-compiled; all linked stories credit their original sources.
+    </p>
+  </div>
+</div>

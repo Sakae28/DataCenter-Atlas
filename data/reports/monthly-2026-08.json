@@ -1,0 +1,499 @@
+{
+  "type": "monthly",
+  "period": "2026-08",
+  "date_range": {
+    "start": "2026-08-01",
+    "end": "2026-08-31"
+  },
+  "generated_at": "2026-08-25T05:57:07Z",
+  "complete": false,
+  "stats": {
+    "stories": 160,
+    "sources": 40,
+    "days": 15,
+    "read_minutes": 4
+  },
+  "title": "APAC pipeline hits record as AI race widens",
+  "lede": "Asia-Pacific's data center development pipeline reached a record 26.5 GW in the first half of 2026, with global absorption doubling year-over-year to 25 GW, according to JLL, as AI pre-leasing tightened supply across the region. The surge played out unevenly: Johor consolidated its position as Southeast Asia's growth engine, with YTL Power and JLand planning a 1.5 GW campus and STT GDC securing US$1.37 billion in green financing, while Singapore doled out scarce new capacity through its second Data Centre Call for Application to Digital Realty, Equinix, Keppel and STT GDC. Japan's build-out pushed beyond the Tokyo-Osaka corridor, headlined by a 2 trillion yen AI campus in Akita and Goodman's 20-year hyperscaler lease in Tsukuba. South Korea paired a vast national investment program and NVIDIA's $1 billion NAVER stake with growing regulatory and community pushback, and in China, GDS raised guidance on record AI bookings as capacity shifted inland. Australia moved to ration grid access even as multi-gigawatt proposals piled up.",
+  "themes": [
+    {
+      "heading": "Record pipeline as AI pre-leasing tightens supply",
+      "narrative": "Asia-Pacific's development pipeline hit a record 26.5 GW in the first half of 2026, with AI tenants' pre-leasing squeezing available capacity across Southeast Asia, China, Japan, Korea and Australia. Globally, JLL put first-half absorption at 25 GW, roughly double the prior year and well ahead of expectations. The figures frame a market where demand, not capital, is no longer the constraint.",
+      "story_ids": [
+        "2026-08-17-b3de1a",
+        "2026-08-18-ee0873",
+        "2026-08-13-2788d9"
+      ]
+    },
+    {
+      "heading": "Johor and Singapore anchor Southeast Asian growth",
+      "narrative": "YTL Power and JLand announced plans for a data center campus of up to 1.5 GW in Johor, among the largest proposed in Southeast Asia, while STT GDC secured up to US$1.37 billion in green financing for its flagship Johor campus. In Singapore, the government awarded 50 MW each to Digital Realty, Equinix, Keppel and STT GDC under its second capacity call-for-application, and Digital Realty separately outlined a 50 MW AI-focused facility on Jurong Island. DayOne added a SGD 530 million green loan for a hydrogen-powered proof-of-concept site in the city-state.",
+      "story_ids": [
+        "2026-08-20-a378e4",
+        "2026-08-21-2477a8",
+        "2026-08-13-3d309a",
+        "2026-08-21-0b9a75",
+        "2026-08-25-ea6b1e",
+        "2026-08-18-efc391"
+      ]
+    },
+    {
+      "heading": "Japan's build-out spreads beyond the capital",
+      "narrative": "Akita Prefecture is set to host what would be Japan's largest AI data center, a project estimated at around 2 trillion yen (roughly US$12.6-13 billion) and backed by offshore wind power. Closer to Tokyo, Goodman signed a 20-year lease with a global hyperscaler for the first 50 MW phase of its planned 1 GW Tsukuba campus, with power secured from TEPCO. An NTT-backed consortium meanwhile targeted Ishikari in Hokkaido as a new hub, underscoring the shift toward northern regions with land, power and cooler climates.",
+      "story_ids": [
+        "2026-08-16-5ec5d6",
+        "2026-08-13-ef15dc",
+        "2026-08-17-7384e1",
+        "2026-08-18-5a86dd",
+        "2026-08-13-63114b"
+      ]
+    },
+    {
+      "heading": "Korea scales AI capacity amid local pushback",
+      "narrative": "South Korea launched a data center investment program cited at 1,200 trillion won to localize AI infrastructure, and NVIDIA committed $1 billion to NAVER to expand domestic AI capacity, while Alibaba Cloud opened its third Korean facility. Korean telecom operators collectively passed 1 trillion won in AI data center sales, underlining their growing role as infrastructure providers. The boom is meeting resistance: Seoul residents are opposing new facilities near neighborhoods, and policymakers are calling for tighter regulation over power use and siting.",
+      "story_ids": [
+        "2026-08-17-8ea131",
+        "2026-08-22-6a6310",
+        "2026-08-18-11f8dd",
+        "2026-08-13-22fec3",
+        "2026-08-17-7abad1",
+        "2026-08-14-113fcc",
+        "2026-08-13-1ecf33"
+      ]
+    },
+    {
+      "heading": "China demand lifts GDS as capacity shifts inland",
+      "narrative": "GDS Holdings raised its full-year revenue and EBITDA guidance on strengthening AI demand and record bookings, sending its shares up 7.6% and prompting analyst suggestions the stock could be a third undervalued. Surging AI computing needs are pushing Chinese tech giants toward Inner Mongolia, drawn by energy resources and a cooler climate, redistributing capacity away from coastal hubs. Separately, TechInsights examined whether China can deliver competitive datacenter AI performance without NVIDIA GPUs, framing domestic chip capability as a $100 billion question.",
+      "story_ids": [
+        "2026-08-14-929398",
+        "2026-08-15-fdea72",
+        "2026-08-18-e94ea6",
+        "2026-08-17-298f7e",
+        "2026-08-17-c9bcc2",
+        "2026-08-20-67a0e3"
+      ]
+    },
+    {
+      "heading": "Australia races to match grid with gigawatt ambitions",
+      "narrative": "Centuria and ResetData fast-tracked a 250 MW AI pipeline with A$165 million in GPU financing and a A$300 million equity raise, alongside a 7 MW capacity agreement with CDC Data Centres and a Macquarie bridge facility. Macquarie was also reported to be eyeing Stack Infrastructure's APAC portfolio, valued above $25 billion, while Singapore-based Zerra DC filed plans for a 1.44 GW campus in Queensland. Transgrid introduced a six-part readiness test before granting grid capacity to large loads, and a federal minister outlined ambitions to convert the investment boom into sovereign AI capability.",
+      "story_ids": [
+        "2026-08-13-11725f",
+        "2026-08-14-ac8eff",
+        "2026-08-14-78d347",
+        "2026-08-25-e3d1f1",
+        "2026-08-19-97613a",
+        "2026-08-18-4f6052"
+      ]
+    }
+  ],
+  "project_milestones": [
+    {
+      "project_id": "resetdata-deployment-at-cdc-data-centres",
+      "name": "ResetData deployment at CDC Data Centres",
+      "operator": "CDC Data Centres",
+      "date": "2026-08-14",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-08-14-ac8eff"
+    },
+    {
+      "project_id": "pldt-southern-philippines-data-center",
+      "name": "PLDT Southern Philippines Data Center",
+      "operator": "PLDT",
+      "date": "2026-08-16",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-08-16-acc64b"
+    },
+    {
+      "project_id": "tencent-cloud-malaysia-cloud-region",
+      "name": "Tencent Cloud Malaysia Cloud Region",
+      "operator": "Tencent Cloud",
+      "date": "2026-08-18",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-08-18-aa3379"
+    },
+    {
+      "project_id": "goodman-group-tsukuba-greater-tokyo-tsukuba-tech-central",
+      "name": "Tsukuba Tech Central",
+      "operator": "Goodman Group",
+      "date": "2026-08-18",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-08-18-5a86dd"
+    },
+    {
+      "project_id": "elice-warm-water-cooled-ai-data-center",
+      "name": "Elice Warm-Water-Cooled AI Data Center",
+      "operator": "Elice",
+      "date": "2026-08-20",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-08-20-af9bd8"
+    },
+    {
+      "project_id": "ytl-power-jland-johor-data-center-campus",
+      "name": "YTL Power-JLand Johor Data Center Campus",
+      "operator": "YTL Power",
+      "date": "2026-08-20",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-08-20-a378e4"
+    },
+    {
+      "project_id": "dayone-hong-kong-data-center",
+      "name": "DayOne Hong Kong Data Center",
+      "operator": "DayOne",
+      "date": "2026-08-21",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-08-21-d64654"
+    },
+    {
+      "project_id": "stt-gdc-vng-ho-chi-minh-city-jv",
+      "name": "STT GDC–VNG Ho Chi Minh City JV",
+      "operator": "VNG",
+      "date": "2026-08-21",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "cancelled",
+      "prev_status": null,
+      "change": "First tracked as cancelled",
+      "story_id": "2026-08-21-d60d99"
+    },
+    {
+      "project_id": "equinix-singapore-dc-cfa2-allocation",
+      "name": "Equinix Singapore DC-CFA2 Allocation",
+      "operator": "Equinix",
+      "date": "2026-08-21",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-08-21-0b9a75"
+    },
+    {
+      "project_id": "keppel-data-centres-singapore-dc-cfa2-allocation",
+      "name": "Keppel Data Centres Singapore DC-CFA2 Allocation",
+      "operator": "Keppel Data Centres",
+      "date": "2026-08-21",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-08-21-0b9a75"
+    },
+    {
+      "project_id": "stt-gdc-singapore-dc-cfa2-allocation",
+      "name": "STT GDC Singapore DC-CFA2 Allocation",
+      "operator": "STT GDC",
+      "date": "2026-08-21",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-08-21-0b9a75"
+    },
+    {
+      "project_id": "zerra-dc-dalby-western-downs-digital-park",
+      "name": "Western Downs Digital Park",
+      "operator": "Zerra DC",
+      "date": "2026-08-24",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-08-24-47c079"
+    },
+    {
+      "project_id": "dayone-malaysia-data-center-site",
+      "name": "DayOne Malaysia data center site",
+      "operator": "DayOne",
+      "date": "2026-08-24",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-08-24-7cd13c"
+    },
+    {
+      "project_id": "singapore-jurong-island-digital-realty-jurong-island-data-center",
+      "name": "Digital Realty Jurong Island Data Center",
+      "operator": "Digital Realty",
+      "date": "2026-08-25",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-08-25-ea6b1e"
+    },
+    {
+      "project_id": "south-morang-victoria-dover-dc-south-morang-data-center",
+      "name": "Dover DC South Morang Data Center",
+      "operator": "Dover DC",
+      "date": "2026-08-25",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-08-25-5931c7"
+    },
+    {
+      "project_id": "hong-kong-singtel-hktko",
+      "name": "Singtel HKTKO",
+      "operator": "Singtel",
+      "date": "2026-08-25",
+      "kind": "first_tracked",
+      "origin": "directory_sync",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": null
+    },
+    {
+      "project_id": "hong-kong-equinix-hk5",
+      "name": "Equinix HK5",
+      "operator": "Equinix",
+      "date": "2026-08-25",
+      "kind": "first_tracked",
+      "origin": "directory_sync",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": null
+    },
+    {
+      "project_id": "tokyo-digital-realty-nrt-campus",
+      "name": "Digital Realty NRT Campus",
+      "operator": "Digital Realty",
+      "date": "2026-08-25",
+      "kind": "first_tracked",
+      "origin": "directory_sync",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": null
+    },
+    {
+      "project_id": "softbank-tokyo-fuchu",
+      "name": "SoftBank Tokyo Fuchu",
+      "operator": "SoftBank",
+      "date": "2026-08-25",
+      "kind": "first_tracked",
+      "origin": "directory_sync",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": null
+    },
+    {
+      "project_id": "osaka-cloudhq-kix1",
+      "name": "CloudHQ KIX1",
+      "operator": "CloudHQ",
+      "date": "2026-08-25",
+      "kind": "first_tracked",
+      "origin": "directory_sync",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": null
+    },
+    {
+      "project_id": "amazon-aws-ulsan",
+      "name": "Amazon AWS - Ulsan",
+      "operator": "AWS",
+      "date": "2026-08-25",
+      "kind": "first_tracked",
+      "origin": "directory_sync",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": null
+    },
+    {
+      "project_id": "melbourne-dover-sm1a",
+      "name": "Dover SM1A",
+      "operator": "Dover",
+      "date": "2026-08-25",
+      "kind": "first_tracked",
+      "origin": "directory_sync",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": null
+    },
+    {
+      "project_id": "melbourne-dover-sm1b",
+      "name": "Dover SM1B",
+      "operator": "Dover",
+      "date": "2026-08-25",
+      "kind": "first_tracked",
+      "origin": "directory_sync",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": null
+    },
+    {
+      "project_id": "zerra-dc-brisbane-western-downs-digital-park-bldg-2a",
+      "name": "Western Downs Digital Park - Bldg 2A",
+      "operator": "Zerra DC",
+      "date": "2026-08-25",
+      "kind": "first_tracked",
+      "origin": "directory_sync",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": null
+    },
+    {
+      "project_id": "zerra-dc-brisbane-western-downs-digital-park-bldg-2b",
+      "name": "Western Downs Digital Park - Bldg 2B",
+      "operator": "Zerra DC",
+      "date": "2026-08-25",
+      "kind": "first_tracked",
+      "origin": "directory_sync",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": null
+    },
+    {
+      "project_id": "zerra-dc-brisbane-western-downs-digital-park-bldg-1b",
+      "name": "Western Downs Digital Park - Bldg 1B",
+      "operator": "Zerra DC",
+      "date": "2026-08-25",
+      "kind": "first_tracked",
+      "origin": "directory_sync",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": null
+    },
+    {
+      "project_id": "zerra-dc-brisbane-western-downs-digital-park-bldg-1a",
+      "name": "Western Downs Digital Park - Bldg 1A",
+      "operator": "Zerra DC",
+      "date": "2026-08-25",
+      "kind": "first_tracked",
+      "origin": "directory_sync",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": null
+    },
+    {
+      "project_id": "zerra-dc-brisbane-western-downs-digital-park",
+      "name": "Western Downs Digital Park",
+      "operator": "Zerra DC",
+      "date": "2026-08-25",
+      "kind": "first_tracked",
+      "origin": "directory_sync",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": null
+    },
+    {
+      "project_id": "jakarta-lintasarta-techno-park",
+      "name": "Lintasarta Techno Park",
+      "operator": "Lintasarta",
+      "date": "2026-08-25",
+      "kind": "first_tracked",
+      "origin": "directory_sync",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": null
+    },
+    {
+      "project_id": "evolution-dc-bangkok-th01",
+      "name": "Evolution DC Bangkok (TH01)",
+      "operator": "Evolution Data Centres",
+      "date": "2026-08-25",
+      "kind": "first_tracked",
+      "origin": "directory_sync",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": null
+    },
+    {
+      "project_id": "evolution-dc-bangkok-th02",
+      "name": "Evolution DC Bangkok (TH02)",
+      "operator": "Evolution Data Centres",
+      "date": "2026-08-25",
+      "kind": "first_tracked",
+      "origin": "directory_sync",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": null
+    },
+    {
+      "project_id": "ho-chi-minh-city-evolution-dc-ho-chi-minh-vn02",
+      "name": "Evolution DC Ho Chi Minh (VN02)",
+      "operator": "Evolution Data Centres",
+      "date": "2026-08-25",
+      "kind": "first_tracked",
+      "origin": "directory_sync",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": null
+    },
+    {
+      "project_id": "evolution-dc-hanoi-vn01",
+      "name": "Evolution DC Hanoi (VN01)",
+      "operator": "Evolution Data Centres",
+      "date": "2026-08-25",
+      "kind": "first_tracked",
+      "origin": "directory_sync",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": null
+    },
+    {
+      "project_id": "evolution-dc-manila-ph01",
+      "name": "Evolution DC Manila (PH01)",
+      "operator": "Evolution Data Centres",
+      "date": "2026-08-25",
+      "kind": "first_tracked",
+      "origin": "directory_sync",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": null
+    }
+  ]
+}

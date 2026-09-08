@@ -1,0 +1,221 @@
+---
+import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+
+const base = import.meta.env.BASE_URL;
+---
+
+<Base title="Saved" active="saved">
+  <header class="page-head">
+    <div>
+      <h1 class="page-title">Saved</h1>
+      <p class="page-sub">Your bookmarked stories and projects — stored locally in this browser</p>
+    </div>
+  </header>
+
+  <section class="saved-section">
+    <div class="saved-head">
+      <h2 class="panel-title">Saved News <span class="saved-count" id="news-count"></span></h2>
+      <div class="search-wrap">
+        <Icon name="search" size={14} class="search-icon" />
+        <input
+          class="search"
+          id="news-search"
+          type="search"
+          placeholder="Filter saved stories…"
+          aria-label="Filter saved stories"
+        />
+      </div>
+    </div>
+    <div class="story-list" id="saved-news-list"></div>
+    <div class="empty-state" id="news-empty" hidden>
+      <span class="empty-icon empty-icon-saved"><Icon name="bookmark" size={26} /></span>
+      <span class="empty-icon empty-icon-filter" hidden><Icon name="search" size={26} /></span>
+      <p class="empty-title" id="news-empty-title"></p>
+      <p class="empty-sub" id="news-empty-sub">
+        Tap the bookmark icon on any story in <a href={base}>Latest</a> to keep it here.
+      </p>
+    </div>
+  </section>
+
+  <section class="saved-section">
+    <div class="saved-head">
+      <h2 class="panel-title">Saved Projects <span class="saved-count" id="projects-count"></span></h2>
+      <div class="search-wrap">
+        <Icon name="search" size={14} class="search-icon" />
+        <input
+          class="search"
+          id="projects-search"
+          type="search"
+          placeholder="Filter saved projects…"
+          aria-label="Filter saved projects"
+        />
+      </div>
+    </div>
+    <div class="panel saved-panel" id="saved-projects-panel" hidden>
+      <table class="pipeline-table co-table">
+        <thead>
+          <tr>
+            <th><span class="th-text">Project</span></th>
+            <th><span class="th-text">Operator</span></th>
+            <th><span class="th-text">Location</span></th>
+            <th><span class="th-text">Capacity</span></th>
+            <th><span class="th-text">Status</span></th>
+          </tr>
+        </thead>
+        <tbody id="saved-projects-body"></tbody>
+      </table>
+    </div>
+    <div class="empty-state" id="projects-empty" hidden>
+      <span class="empty-icon empty-icon-saved"><Icon name="bookmark" size={26} /></span>
+      <span class="empty-icon empty-icon-filter" hidden><Icon name="search" size={26} /></span>
+      <p class="empty-title" id="projects-empty-title"></p>
+      <p class="empty-sub" id="projects-empty-sub">
+        Tap the bookmark icon on any project in <a href={`${base}/pipeline/`}>Pipeline</a> to keep it here.
+      </p>
+    </div>
+  </section>
+
+  <script>
+    /* ---------- /saved/ — render bookmarked stories + projects ----------
+       Favorites live in localStorage ("dc-favs"); the display stubs are
+       fetched once from the build-time saved-data.json endpoint. Markup
+       mirrors the homepage story cards and the pipeline table so the global
+       stylesheet (and the global .fav-btn click handler) applies as-is. */
+    const BASE = import.meta.env.BASE_URL;
+
+    interface NewsStub { id: string; t: string; d: string; s: string; co: [string, string | null][] }
+    interface ProjectStub { id: string; n: string; o: string; loc: string; cap: string; sl: string; sc: string }
+    interface SavedData { news: NewsStub[]; projects: ProjectStub[] }
+
+    let dataPromise: Promise<SavedData> | null = null;
+    function loadData(): Promise<SavedData> {
+      dataPromise ??= fetch(`${BASE}/saved-data.json`).then((r) => r.json());
+      return dataPromise;
+    }
+
+    function favIds(key: 'news' | 'projects'): Set<string> {
+      try {
+        const raw = JSON.parse(localStorage.getItem('dc-favs') ?? '{}');
+        return new Set(Array.isArray(raw[key]) ? raw[key] : []);
+      } catch {
+        return new Set();
+      }
+    }
+
+    const esc = (s: string) =>
+      s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
+    /* Same bookmark SVG as components/Icon.astro ("bookmark"). Rendered
+       pre-marked is-fav: everything on this page is saved by definition. */
+    const FAV_SVG =
+      '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
+      '<path d="M6.5 3.5h11a1 1 0 0 1 1 1v16l-6.5-4.2L5.5 20.5v-16a1 1 0 0 1 1-1z"/></svg>';
+
+    const favBtn = (type: string, id: string) =>
+      `<button type="button" class="fav-btn is-fav" data-fav-type="${type}" data-fav-id="${esc(id)}" ` +
+      `aria-pressed="true" aria-label="${type === 'news' ? 'Remove this story' : 'Remove this project'}" ` +
+      `title="Saved — click to remove">${FAV_SVG}</button>`;
+
+    const newsCard = (s: NewsStub) => {
+      const chips = s.co
+        .map(([name, slug]) =>
+          slug
+            ? `<a class="chip company chip-link" href="${BASE}/companies/${slug}/">${esc(name)}</a>`
+            : `<span class="chip company">${esc(name)}</span>`,
+        )
+        .join('');
+      return (
+        `<article class="story-card" data-search="${esc(`${s.t} ${s.s} ${s.co.map((c) => c[0]).join(' ')}`.toLowerCase())}">` +
+        `<div class="story-top"><div class="story-origin">` +
+        `<span class="story-source-name">${esc(s.s)}</span>` +
+        `<span class="saved-date">${esc(s.d)}</span>` +
+        `</div><div class="story-actions">${favBtn('news', s.id)}</div></div>` +
+        `<h3 class="story-title"><a class="stretched-link" href="${BASE}/news/${s.id}/">${esc(s.t)}</a></h3>` +
+        (chips ? `<div class="story-tags">${chips}</div>` : '') +
+        `</article>`
+      );
+    };
+
+    const projectRow = (p: ProjectStub) =>
+      `<tr data-search="${esc(`${p.n} ${p.o} ${p.loc} ${p.sl}`.toLowerCase())}">` +
+      `<td class="proj-name">${favBtn('projects', p.id)}<a href="${BASE}/projects/${p.id}/">${esc(p.n)}</a></td>` +
+      `<td class="proj-operator">${esc(p.o)}</td>` +
+      `<td class="proj-loc">${esc(p.loc)}</td>` +
+      `<td class="proj-cap"><span class="cap-value${p.cap === '—' ? ' is-empty' : ''}">${esc(p.cap)}</span></td>` +
+      `<td><span class="badge ${p.sc}">${esc(p.sl)}</span></td>` +
+      `</tr>`;
+
+    const newsList = document.getElementById('saved-news-list');
+    const newsCount = document.getElementById('news-count');
+    const newsEmpty = document.getElementById('news-empty');
+    const newsSearch = document.querySelector<HTMLInputElement>('#news-search');
+    const projectsBody = document.getElementById('saved-projects-body');
+    const projectsPanel = document.getElementById('saved-projects-panel');
+    const projectsCount = document.getElementById('projects-count');
+    const projectsEmpty = document.getElementById('projects-empty');
+    const projectsSearch = document.querySelector<HTMLInputElement>('#projects-search');
+
+    /* Per-group empty state: swap copy/icon between "nothing saved" and
+       "saved, but the filter hides everything". */
+    function setEmpty(emptyEl: HTMLElement, mode: 'none' | 'no-match', kind: 'stories' | 'projects') {
+      const title = emptyEl.querySelector('.empty-title');
+      const sub = emptyEl.querySelector('.empty-sub');
+      const iconSaved = emptyEl.querySelector('.empty-icon-saved');
+      const iconFilter = emptyEl.querySelector('.empty-icon-filter');
+      if (mode === 'none') {
+        if (title) title.textContent = `No saved ${kind} yet`;
+        // sub keeps its server-rendered guidance (with the link) for this case
+        if (sub) sub.innerHTML = sub.dataset.default ?? sub.innerHTML;
+      } else {
+        if (title) title.textContent = `No saved ${kind} match`;
+        if (sub) sub.textContent = 'Try a different search term.';
+      }
+      iconSaved?.toggleAttribute('hidden', mode !== 'none');
+      iconFilter?.toggleAttribute('hidden', mode !== 'no-match');
+    }
+
+    document.querySelectorAll('.empty-sub').forEach((el) => {
+      (el as HTMLElement).dataset.default = el.innerHTML;
+    });
+
+    function applyTextFilter(input: HTMLInputElement | null, container: HTMLElement | null) {
+      const q = (input?.value ?? '').trim().toLowerCase();
+      let visible = 0;
+      container?.querySelectorAll<HTMLElement>('[data-search]').forEach((el) => {
+        const ok = q === '' || (el.dataset.search ?? '').includes(q);
+        el.classList.toggle('is-hidden', !ok);
+        if (ok) visible++;
+      });
+      return visible;
+    }
+
+    async function render() {
+      const newsIds = favIds('news');
+      const projectIds = favIds('projects');
+      const data = newsIds.size + projectIds.size > 0 ? await loadData() : null;
+
+      const savedNews = data ? data.news.filter((s) => newsIds.has(s.id)) : [];
+      const savedProjects = data ? data.projects.filter((p) => projectIds.has(p.id)) : [];
+
+      if (newsList) newsList.innerHTML = savedNews.map(newsCard).join('');
+      if (newsCount) newsCount.textContent = savedNews.length > 0 ? `(${savedNews.length})` : '';
+      if (projectsBody) projectsBody.innerHTML = savedProjects.map(projectRow).join('');
+      if (projectsCount) projectsCount.textContent = savedProjects.length > 0 ? `(${savedProjects.length})` : '';
+
+      const newsVisible = applyTextFilter(newsSearch, newsList);
+      const projectsVisible = applyTextFilter(projectsSearch, projectsPanel);
+
+      newsEmpty?.toggleAttribute('hidden', !(savedNews.length === 0 || newsVisible === 0));
+      if (newsEmpty && !newsEmpty.hidden) setEmpty(newsEmpty, savedNews.length === 0 ? 'none' : 'no-match', 'stories');
+      if (projectsPanel) projectsPanel.hidden = savedProjects.length === 0 || projectsVisible === 0;
+      projectsEmpty?.toggleAttribute('hidden', !(savedProjects.length === 0 || projectsVisible === 0));
+      if (projectsEmpty && !projectsEmpty.hidden) setEmpty(projectsEmpty, savedProjects.length === 0 ? 'none' : 'no-match', 'projects');
+    }
+
+    newsSearch?.addEventListener('input', () => render());
+    projectsSearch?.addEventListener('input', () => render());
+    document.addEventListener('dcfav:change', () => render());
+    render();
+  </script>
+</Base>

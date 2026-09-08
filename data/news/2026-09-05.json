@@ -1,0 +1,163 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-08T07:48:42Z",
+  "hot": [
+    "2026-09-05-9d7c2d",
+    "2026-09-05-e06e6a",
+    "2026-09-05-14b345",
+    "2026-09-05-8a5fda",
+    "2026-09-05-9cf57f"
+  ],
+  "stories": [
+    {
+      "id": "2026-09-05-9cf57f",
+      "title": "Rushed AI Data Centre Builds Risk Post-Launch Failures",
+      "summary": "The escalating demand for AI capacity is pressuring data centre operators to accelerate construction, often leading to design decisions made before infrastructure requirements are fully understood. This rush risks significant operational issues and costly remediation efforts post-go-live, impacting long-term resilience and profitability.",
+      "why_it_matters": "",
+      "score": 58,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "capacity",
+        "construction",
+        "operations"
+      ],
+      "published_at": "2026-09-05T03:45:11Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/construction-site-development/rushed-ai-data-centre-builds-risk-post-launch-failures/133786625",
+          "type": "rss"
+        }
+      ],
+      "content": "### Design Decisions Under Pressure\n\nResearch by Onnec indicates that 92% of operators are accelerating their build timelines. Furthermore, 75% report that speed-to-market pressures are compelling design decisions before infrastructure requirements are fully understood. An AI data centre functions as a tightly integrated system, where increased compute demands greater power and heat, altering cooling needs and impacting fibre, cabling routes, and physical space.Delays in one decision can create ripple effects throughout the entire design. The rapid evolution of AI hardware further complicates matters, as what appears AI-ready at a project's inception may not align with customer needs by its completion. While operators cannot afford to wait for perfect certainty, designing on the fly should not become an accepted practice for achieving speed.\n\n### Commissioning Timeframes Reduced\n\nThe pressure to build quickly intensifies towards the end of a project. Planning delays, grid connection issues, supply chain disruptions, and construction overruns often compress project timelines, while go-live dates remain fixed. This frequently leads to testing and commissioning phases being shortened to claw back time. However, this is precisely where a single fault could escalate into prolonged outages or degraded connectivity.Currently, 45% of operators acknowledge that accelerated timelines are reducing the time allocated for testing, commissioning, or quality assurance. Additionally, 43% report that infrastructure requires upgrading or remediation after go-live. This shifts risk from the construction phase to operations, where problems are typically harder and more expensive to resolve. Commissioning is vital for verifying backup power, cooling recovery, and integrated system behaviour during failures. Addressing these issues post-go-live often involves working around live operational equipment, requiring maintenance windows, and potentially replacing hardware.\n\n### Prioritising Early Expertise and Flexible Design\n\nThe solution lies in optimising available time by integrating infrastructure expertise earlier in the project lifecycle, before critical decisions concerning power, cooling, cabling, and connectivity are locked in. These systems are increasingly interdependent, making early identification of constraints essential to prevent costly redesigns or remediation later. Experienced teams on high-pressure projects can help maintain speed without compromising quality through clear processes, resource planning, and continuity during commissioning.Given the rapid evolution of AI hardware, rack densities, and connectivity requirements, facilities need sufficient flexibility to adapt without extensive rework for every shift in demand. Bringing in expertise earlier does not equate to slower delivery; prefabrication and repeatable designs can reduce on-site complexity, while consistent commissioning ensures alignment between design, installation, and handover. The objective is to address complex challenges early and ensure correct implementation initially, when problems are easier and more cost-effective to resolve.Operators are tasked with delivering capacity at an unprecedented pace, especially as Europe embarks on a significant data centre build-out. The challenge is to prevent current delivery pressures from creating future operational problems. This necessitates planning for change, protecting resilience-critical programme elements, and resolving potential weaknesses while they are still manageable. The focus must extend beyond merely reaching go-live faster to achieving a state that ensures long-term operational viability.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/construction-site-development/rushed-ai-data-centre-builds-risk-post-launch-failures/133786625"
+    },
+    {
+      "id": "2026-09-05-8a5fda",
+      "title": "AI Capex to Hit $31.6 Trillion by 2050; Chips Overtake Concrete",
+      "summary": "Global spending on artificial intelligence (AI) infrastructure is projected to reach $31.6 trillion by 2050, according to PwC's Global Data Centre Outlook. This unprecedented capital expenditure will see ICT equipment, particularly chips and servers, account for 93% of total investment, significantly outpacing physical data center construction. The shift necessitates new financing models aligned with rapid hardware refresh cycles.",
+      "why_it_matters": "",
+      "score": 62,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "chips",
+        "capacity"
+      ],
+      "published_at": "2026-09-05T03:35:12Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/ai-capex-to-hit-31-6-trillion-by-2050-chips-overtake-concrete/133786417",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "PwC"
+      ],
+      "content": "Global spending on artificial intelligence (AI) infrastructure is projected to reach $31.6 trillion by 2050, according to PwC's Global Data Centre Outlook. This unprecedented capital expenditure will see ICT equipment, particularly chips and servers, account for 93% of total investment, significantly outpacing physical data center construction. The shift necessitates new financing models aligned with rapid hardware refresh cycles.\n\nSelect ETDatacenters as Preferred Choice on Google\n\nHighlights\n\nGlobal AI infrastructure spending projected to reach $31.6 trillion by 2050, according to PwC.\n\nICT equipment, including chips, to comprise 93% of total investment by 2050, up from 70% today.\n\nUnited States to take nearly half ($15.1 trillion) of global AI infrastructure spend; Asia Pacific $8.2 trillion, led by China and India.\n\nPower identified as the chief factor shaping global AI infrastructure investment flows.\n\nDigital sovereignty to redirect AI capital towards markets with strong domestic demand and underdeveloped capacity.\n\nGlobal spending on artificial intelligence (AI) infrastructure is forecast to reach $31.6 trillion by 2050, according to new baseline projections from PwC’s Global Data Centre Outlook. This long-range capital expenditure (capex) forecast extends to mid-century, arriving as the industry contends with practical limitations in power availability, permitting processes, and public consent.Annual data centre capital expenditure is expected to climb from approximately $800 billion in 2026 to $1.8 trillion by 2050. The United States is projected to account for nearly half of this spend at $15.1 trillion, with Asia Pacific contributing an additional $8.2 trillion, led by China and India. Sovereign AI strategies are also drawing increasing capital volumes into Europe and the Middle East.\n\nShift in Capital Allocation\n\nA key differentiator from previous infrastructure booms, as argued by PwC, is that investment will not taper off once physical buildings are complete. Information and communications technology (ICT) equipment, including chips, servers, and networking gear, is expected to increase its share from 70% of total investment today to 93% by 2050. This is driven by operators needing to replace hardware every few years, while the data centre shells last for decades.Clara Cutajar, PwC Australia’s global infrastructure leader, stated that “AI infrastructure is becoming one of the defining capital allocation challenges of the next generation. It cuts across technology, energy, real estate, supply chains, regulation and financing. This changes how infrastructure investors need to think about capital requirements, risk and returns.”This equipment-versus-construction split echoes concerns from financiers. Jonathan Mauck, senior managing director at Digital Bridge Holdings, noted that data centres are 20-year industrial infrastructure housing graphics processing units (GPUs) with a useful life of five to seven years. This creates a financing mismatch where capital is committed to facilities for two decades against hardware requiring multiple replacements.Nvidia’s recently announced financing platforms with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR aim to address this by making GPU capacity a financeable asset class separate from the buildings. PwC’s forecast suggests this trend will continue, increasing pressure on financing structures to align with chip refresh cycles rather than building lifespans.\n\nKey Constraints and Policy Impact\n\nPwC identifies power as the primary factor influencing global AI infrastructure investment flows, ahead of connectivity, security, policy certainty, community consent, and GPU access. Cutajar emphasised, “The AI buildout is not a rising tide that will naturally lift all boats. Capturing this investment requires active positioning. Investors should recognise data centres as hybrid assets with a complicated risk profile.”This aligns with industry observations, where power is increasingly seen as a binding constraint on data centre growth. Andy Lipman of Morgan Lewis highlighted that the average facility size has more than tripled since 2020, with electricity consumption from data centres expected to rise sharply by 2030.However, fibre availability is also emerging as a significant constraint for new builds, a shift from a few years ago. While PwC models long-term global capital flows, near-term development decisions often find permitting timelines for fibre routes as critical as grid connection dates.PwC also examined two scenarios: tighter export controls on chips could reduce cumulative investment through 2050 to $25.5 trillion, about $6 trillion below the baseline. Conversely, a greater emphasis on digital sovereignty is not expected to shrink overall spending but rather redirect capital towards countries with strong domestic demand and underdeveloped data centre capacity, as governments prioritise local infrastructure. This suggests fragmentation will redirect AI capital towards markets asserting greater control over their own compute, potentially away from the United States.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/ai-capex-to-hit-31-6-trillion-by-2050-chips-overtake-concrete/133786417"
+    },
+    {
+      "id": "2026-09-05-9d7c2d",
+      "title": "Self-Improving AI to Reshape Data Center Power, Cooling, Operations",
+      "summary": "Recursive self-improvement (RSI) in AI systems, where models design and deploy successors, is advancing, with Anthropic's Claude already authoring over 80% of its codebase. This evolution is set to profoundly impact data center infrastructure, demanding significant changes in power, cooling, and operational resilience.",
+      "why_it_matters": "",
+      "score": 48,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "power",
+        "cooling",
+        "operations"
+      ],
+      "published_at": "2026-09-05T03:35:06Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/self-improving-ai-to-reshape-data-center-power-cooling-operations/133786415",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "content": "### Operational Impacts and Challenges\n\nOn the hardware front, breakthroughs like quantum computing could catalyse step changes in RSI or AGI. Jay Quilmart, lead product manager at Q-CTRL, noted that quantum computing, particularly with algorithms like Grover’s, could support the optimisation problem central to recursive AI by efficiently searching large parameter spaces to identify the best AI model faster.John O’Brien, senior analyst at Uptime Institute, highlighted that while the basic premise of self-improving systems is not new, advances in AI models and infrastructure are making such blue-sky theorising technically feasible. A practical distinction separates true RSI, where systems author and deploy new code, from continuous self-optimisation without code rewriting, which is already emerging in data centers, often underpinned by reinforcement learning (RL). O'Brien further explained that successful AI applications in data centers today frequently use RL, a technique that employs penalties and rewards based on environmental feedback, proving effective in closed-loop systems like data center cooling, IT, and power.Startups such as Emerald AI and Phaidra are demonstrating the potential of dynamic, self-improving systems in early pilots. Zoe Roth, senior analyst at 451 Research, added that players like Phaidra, etalytics, and Vigilent are already proving that closed-loop AI can continuously optimise physical facility variables on the fly. Current AI engines, like Phaidra, act as autonomous control layers over existing Building Management Systems (BMS) and Electric Power Management Systems (EPMS), retraining and updating neural networks on real-time sensor telemetry without rewriting their own code.For operators, self-optimisation promises tangible benefits in monitoring and maintenance. Alex Cordovil, research director at Dell’Oro, suggested that a system improving on its own operating experience could identify fault risks much faster and more effectively than current condition-based maintenance, leading to real gains in uptime and performance.However, this raises a significant challenge: certifying software that is continuously changing. Cordovil stated that it is difficult to certify a moving target, which could necessitate ongoing re-approval of models or continuous monitoring with rollback controls, keeping humans in the loop and potentially reducing some efficiency gains. Furthermore, self-improving AI that shifts between training and inference could exacerbate power swings, requiring permanent design considerations for fleets that train and serve simultaneously.\n\n### Strategic Outlook and Future Implications\n\nBeyond near-term design choices, RSI could alter industrial dynamics. O’Brien noted that a system capable of coding and designing its successor would have substantial ramifications for those designing, building, and manufacturing data center infrastructure, potentially impacting workforce automation. While RSI remains a nascent concept, its achievement would extend effects beyond the models themselves, reshaping the entire AI stack and society. One plausible scenario envisions AI not only coding more powerful successors but also designing and even prefabricating the data centers to house them.Even with such advancements, self-optimising and self-replicating AI data centers would face significant hurdles in regulation, certification, safety assurance, and public acceptance, as accelerated expansion already presents challenges for many communities.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/self-improving-ai-to-reshape-data-center-power-cooling-operations/133786415"
+    },
+    {
+      "id": "2026-09-05-e06e6a",
+      "title": "Data Centers Combat Delays with Modular Power, Smart Load Management",
+      "summary": "Data center developers are increasingly facing project slowdowns due to grid interconnection delays and supply chain issues. New strategies, including modular prefabrication and intelligent load management, are emerging to accelerate power delivery and maintain operational stability. These methods help mitigate constraints and ensure faster capacity deployment.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "power",
+        "construction",
+        "capacity",
+        "grid"
+      ],
+      "published_at": "2026-09-05T03:25:18Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/construction-site-development/data-centers-combat-delays-with-modular-power-smart-load-management/133786162",
+          "type": "rss"
+        }
+      ],
+      "content": "### Modular Prefabrication Accelerates Deployment\n\nPrefabricated, modular power strategies are gaining traction as developers seek faster and more reliable construction methods. This approach involves building, integrating, and testing components such as generators, switchgear, and controls in a controlled factory environment. This allows equipment to arrive on-site pre-wired, validated, and ready for operation, reducing on-site assembly and commissioning times.Factory-based production also enhances consistency and quality control, mitigating risks before equipment reaches the job site. Construction activities can proceed in parallel, with power systems being produced off-site while site preparation is underway. For operators managing multiple sites, modularity introduces repeatability, enabling the deployment of standardised designs and facilitating faster, scalable expansion.\n\n### Intelligent Load Management for Efficiency\n\nIntelligent load management systems are crucial for ensuring efficient power allocation once it becomes available, preventing costly delays. In a data center environment, this involves prioritising critical IT and cooling loads during power-up, while staggering secondary systems. The system dynamically adjusts lower-priority loads to maintain stable operations and avoid performance degradation during demand spikes.These systems integrate generation, storage, and grid supply into a coordinated framework that responds to actual usage patterns from day one, rather than relying on assumptions about peak demand. Such coordination optimises dispatch, minimises wasted energy, smooths load fluctuations, and ensures equipment operates efficiently, thereby reducing the risk of slowdowns when demand changes.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/construction-site-development/data-centers-combat-delays-with-modular-power-smart-load-management/133786162"
+    },
+    {
+      "id": "2026-09-05-14b345",
+      "title": "Flex Acquires EPC Power for $4.4B, Boosts AI Data Center Power",
+      "summary": "Flex is buying power-conversion specialist EPC Power for $4.4 billion to fold 800V DC and grid-forming technology into its data center infrastructure portfolio. The deal gives Flex in-house capability for high-density power delivery as AI workloads push rack densities and facility power requirements sharply higher.",
+      "why_it_matters": "The acquisition tightens the link between data center builders and the power-electronics supply chain, a bottleneck as AI facilities strain electrical grids. Operators and hyperscalers stand to gain more integrated, efficient power systems, while rival EPC and infrastructure vendors now face a competitor with end-to-end control of the power delivery stack.",
+      "score": 68,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "power",
+        "m&a",
+        "infrastructure"
+      ],
+      "published_at": "2026-09-05T03:25:10Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/flex-acquires-epc-power-for-4-4b-boosts-ai-data-center-power/133786155",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Flex",
+        "EPC Power"
+      ],
+      "content": "### Strategic Power Conversion\n\nEPC Power’s platform is designed to directly connect 800VDC loads to grid voltages and integrate functions typically handled by uninterruptible power supply (UPS) systems and AC power distribution. This includes digital rectifiers that convert incoming AC power to DC power for downstream equipment, alongside DC-DC conversion capabilities.Neil Osnato, founder of Persistence Analytics Group, noted that the $4.4 billion valuation signals power conversion's evolution from a supporting component to a strategic control point within AI infrastructure. He emphasised that rising rack and campus power densities make electricity conversion between the grid, onsite generation, storage, and computing loads increasingly critical, stating that \"AI infrastructure is becoming as much a power-systems problem as a compute problem.\"\n\n### Grid Integration and Demand Management\n\nEPC Power’s Agile Grid Forming technology is engineered to respond to rapid changes in power demand, characteristic of AI workloads, within milliseconds. This capability allows for better integration of energy storage and onsite generation while supporting grid connections and microgrid applications.Osnato highlighted that such power electronics can give facilities greater control over their electrical load's interaction with the grid, smoothing rapid demand fluctuations. However, he cautioned that these capabilities do not eliminate the underlying requirements of large loads. Utilities evaluating major AI facilities, he added, should scrutinise ramp characteristics, power-electronic controls, storage, onsite generation, ride-through behaviour, grid-forming and grid-following modes, harmonics, and fault behaviour, demanding demonstrated capabilities over declared ones.\n\n### Manufacturing Expansion and Future Outlook\n\nThe acquisition follows EPC Power's expansion of its US manufacturing footprint, including a 167,000-square-foot facility in Fountain Inn, South Carolina, which tripled its production capacity to 27 GW annually, with plans to scale to 40 GW. This expansion supports the production of power inverters for grid, storage, and AI data center applications.Flex anticipates EPC Power to generate approximately $800 million in revenue during calendar 2026, with an expected organic revenue growth of about 40% and an EBITDA margin of roughly 30% in 2027. The acquisition is intended to precede Flex's planned spin-off of its Cloud and Power Infrastructure segment into an independent public company in early 2027, subject to regulatory approvals.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/flex-acquires-epc-power-for-4-4b-boosts-ai-data-center-power/133786155"
+    }
+  ]
+}

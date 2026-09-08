@@ -12,13 +12,16 @@
       "heat": 3,
       "regions": ["southeast-asia"],
       "topics": ["capacity", "hyperscale", "power"],
+      "companies": ["STT GDC", "Tenaga Nasional"],
       "published_at": "2026-08-13T01:57:00Z",
       "featured": true,
       "sources": [
         { "name": "Data Center Dynamics", "url": "https://www.datacenterdynamics.com/example-johor-campus", "type": "rss" },
         { "name": "The Edge Malaysia", "url": "https://theedgemalaysia.com/example-johor", "type": "rss" },
         { "name": "Business Times", "url": "https://www.businesstimes.com.sg/example-johor", "type": "rss" }
-      ]
+      ],
+      "content": "Johor's state government has granted planning approval for a 500MW data center campus in the Sedenak Tech Park, marking one of the largest single-site approvals in Malaysia's history. The project, backed by a regional hyperscale developer whose identity has not been formally disclosed, will be built in multiple phases over the rest of the decade.\n\nThe first phase, expected to deliver around 120MW of IT capacity, is slated to break ground in early 2027. State officials confirmed the approval was contingent on a power supply agreement with Tenaga Nasional, which has committed to a new grid interconnection and dedicated substation capacity for the site. Water supply arrangements for cooling are still being finalized with the state utility.\n\nThe approval underscores Johor's emergence as the primary spillover market for Singapore's data center demand. With Singapore maintaining tight control over new capacity allocations, developers have poured into southern Malaysia, where land is cheaper and the state government has actively courted digital infrastructure investment. Analysts estimate Johor's committed and under-construction pipeline now exceeds 2GW.\n\nLocal officials framed the project as an economic win, pointing to construction jobs and long-term technical employment. Environmental groups, however, have raised questions about the cumulative power and water draw of the state's data center pipeline, and called for mandatory renewable energy commitments and public reporting of PUE and water usage.\n\nThe developer is expected to announce anchor tenants later this year. Industry observers note that approvals of this scale increasingly come with grid commitments attached, suggesting power availability — rather than land or capital — is now the deciding factor in where APAC hyperscale capacity gets built.",
+      "content_url": "https://www.datacenterdynamics.com/example-johor-campus"
     },
     {
       "id": "2026-08-13-d4e5f6",
@@ -34,7 +37,9 @@
       "sources": [
         { "name": "Nikkei Asia", "url": "https://asia.nikkei.com/example-inzai", "type": "rss" },
         { "name": "Data Center Dynamics", "url": "https://www.datacenterdynamics.com/example-inzai", "type": "rss" }
-      ]
+      ],
+      "content": "A US hyperscaler has filed development plans with Chiba prefecture for a second data center campus in Inzai, comprising two buildings with up to 100MW of IT load. The site sits within Tokyo's primary data center corridor and is targeted for a 2028 opening.\n\n## Site and power\n\nThe filing covers a land parcel adjacent to the company's first Inzai campus, which reached full capacity earlier this year. Key details from the submission:\n\n- Two buildings, each planned for roughly 50MW of IT load\n- A new dedicated substation connection with TEPCO Power Grid\n- Liquid-cooling-ready halls designed for high-density AI racks\n\n> Inzai has effectively become the default landing zone for hyperscale demand in greater Tokyo, and land parcels with secured power are increasingly scarce.\n\n## Timeline and market context\n\nConstruction is expected to begin in late 2026, with the first building handed over in 2028. Analysts note that greater Tokyo remains the largest data center market in APAC by capacity, and that hyperscalers are now securing power and land years ahead of AI-driven demand rather than building just-in-time.\n\n### What to watch\n\nWhether the power allocation for the second campus arrives on schedule will signal how much headroom remains in the corridor's grid for the next wave of filings.",
+      "content_url": "https://asia.nikkei.com/example-inzai"
     },
     {
       "id": "2026-08-13-g7h8i9",
@@ -45,13 +50,16 @@
       "heat": 3,
       "regions": ["korea"],
       "topics": ["ai", "capacity", "sovereign-ai"],
+      "companies": ["Naver", "SK Telecom"],
       "published_at": "2026-08-12T23:10:00Z",
       "featured": true,
       "sources": [
         { "name": "Korea Herald", "url": "https://www.koreaherald.com/example-naver-ulsan", "type": "rss" },
         { "name": "Yonhap", "url": "https://en.yna.co.kr/example-naver", "type": "rss" },
         { "name": "Data Center Dynamics", "url": "https://www.datacenterdynamics.com/example-naver", "type": "rss" }
-      ]
+      ],
+      "content": "Naver has broken ground on a 600MW AI data center in Ulsan, the largest infrastructure project in the Korean internet company's history. The facility will house Naver's next-generation GPU clusters and support both its internal AI services and its cloud business, which has been winning government and enterprise contracts under Korea's sovereign AI program.\n\nThe project is partly financed through a consortium that includes state-backed investors, reflecting the Korean government's push to build domestic AI computing capacity independent of US hyperscalers. Officials from the Ministry of Science and ICT attended the groundbreaking ceremony and described the campus as a cornerstone of the national AI infrastructure roadmap.\n\nUlsan, an industrial port city best known for shipbuilding and petrochemicals, offers what the crowded Seoul metropolitan area increasingly cannot: large contiguous land parcels and access to substantial power capacity. Korea East-West Power's nearby generation assets and the region's industrial grid were cited by Naver as key factors in the site selection.\n\nThe campus will be built in phases, with the first buildings scheduled to come online in 2028. Naver said the facility is designed for high-density liquid-cooled racks and will target a PUE below 1.3, using a combination of free cooling and waste-heat recovery arrangements with neighboring industrial facilities.\n\nThe scale of the project places it among the largest single AI data center campuses announced in Asia to date. It also intensifies competition among Korean operators — SK Telecom, KT, and LG Uplus have all announced AI data center expansions — and signals that Korea's sovereign AI ambitions are translating into concrete capacity rather than policy statements alone.",
+      "content_url": "https://www.koreaherald.com/example-naver-ulsan"
     },
     {
       "id": "2026-08-13-j1k2l3",
@@ -62,6 +70,7 @@
       "heat": 2,
       "regions": ["global"],
       "topics": ["ai", "supply-chain"],
+      "companies": ["NVIDIA"],
       "published_at": "2026-08-12T20:45:00Z",
       "featured": true,
       "sources": [

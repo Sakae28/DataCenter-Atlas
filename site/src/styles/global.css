@@ -1,24 +1,33 @@
-/* APAC DC Wire — global styles
-   Clean editorial style, light theme, ~760px content column, hand-written CSS. */
+/* DataCenter Atlas — global styles
+   App-shell layout: fixed left sidebar + gray canvas with floating white cards.
+   Light theme, system font stack, hand-written CSS. */
 
 :root {
-  --bg: #fbfaf8;
+  /* Emerald "power/energy" palette on a cool light-gray canvas. */
+  --bg: #ecedef;
   --surface: #ffffff;
-  --text: #1c1b1a;
-  --text-secondary: #5f5b57;
-  --text-faint: #8a857f;
-  --border: #e8e4de;
-  --accent: #b3451e;
-  --accent-soft: #f6e8e1;
+  --text: #16181d;
+  --text-secondary: #4a525b;
+  --text-faint: #7c848d;
+  --border: #e4e6e9;
+  --accent: #0e9f6e;
+  --accent-deep: #0b8a5f;
+  --accent-ink: #0b6e4e;
+  --accent-soft: #e6f4ed;
+  --nav-active-bg: var(--accent-soft);
   --featured-bg: #fdf3d7;
   --featured-text: #8a6d1a;
-  --score-bg: #eef0f2;
-  --score-text: #4a5568;
-  --chip-region-bg: #e7eef6;
-  --chip-region-text: #2f5a86;
-  --chip-topic-bg: #f0ede8;
-  --chip-topic-text: #6b655d;
-  --max-width: 760px;
+  --chip-region-bg: #e8edf4;
+  --chip-region-text: #3b5b85;
+  --chip-topic-bg: #eef0f1;
+  --chip-topic-text: #64707a;
+  --chip-company-bg: var(--accent-soft);
+  --chip-company-text: var(--accent-ink);
+  --sidebar-width: 224px;
+  --radius: 18px;
+  --radius-sm: 10px;
+  --shadow: 0 1px 2px rgba(16, 24, 40, 0.04), 0 12px 32px rgba(16, 24, 40, 0.07);
+  --shadow-pop: 0 12px 32px rgba(16, 24, 40, 0.14);
 }
 
 *,
@@ -39,12 +48,8 @@ body {
     Arial, "Noto Sans", sans-serif;
   font-size: 16px;
   line-height: 1.6;
-}
-
-.container {
-  max-width: var(--max-width);
-  margin: 0 auto;
-  padding: 0 20px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 a {
@@ -56,62 +61,338 @@ a:hover {
   color: var(--accent);
 }
 
-/* ---------- Header / footer ---------- */
+/* ---------- Sidebar ---------- */
 
-.site-header {
-  border-bottom: 1px solid var(--border);
+.sidebar {
+  position: fixed;
+  inset: 0 auto 0 0;
+  width: var(--sidebar-width);
   background: var(--surface);
-  padding: 28px 0 22px;
+  border-right: 1px solid var(--border);
+  padding: 20px 14px;
+  overflow-y: auto;
 }
 
-.site-header-row {
+/* Brand lockup: gradient logomark + two-tone wordmark.
+   The mark is a stylized server stack (three fading rack bars with LED
+   dots) on the signature emerald gradient; same art as /favicon.svg. */
+.brand {
   display: flex;
-  align-items: flex-end;
-  justify-content: space-between;
-  gap: 16px;
-  flex-wrap: wrap;
+  align-items: center;
+  gap: 9px;
+  padding: 4px 10px;
+  margin-bottom: 20px;
 }
 
-.site-name {
-  font-size: 26px;
-  font-weight: 800;
-  letter-spacing: -0.02em;
+.brand:hover {
+  color: inherit;
 }
 
-.site-tagline {
-  margin: 2px 0 0;
+.brand-mark {
+  width: 26px;
+  height: 26px;
+  flex-shrink: 0;
+}
+
+.brand-word {
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: -0.015em;
+  white-space: nowrap;
+}
+
+.brand-accent {
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.side-label {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--text-faint);
+  margin: 22px 0 6px;
+  padding: 0 10px;
+}
+
+.side-item {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  padding: 7px 10px;
+  border-radius: 8px;
+  font-size: 13.5px;
+  font-weight: 600;
   color: var(--text-secondary);
-  font-size: 14px;
 }
 
-.site-nav {
+.side-icon {
+  width: 15px;
+  height: 15px;
+  flex-shrink: 0;
+}
+
+.side-item:hover {
+  background: var(--bg);
+  color: var(--text);
+}
+
+.side-item.is-active {
+  background: var(--nav-active-bg);
+  color: var(--accent-ink);
+}
+
+/* ---------- Filter bar: region tabs + sources popover + search ---------- */
+
+.filter-bar {
   display: flex;
-  gap: 18px;
+  align-items: center;
+  gap: 16px 24px;
+  flex-wrap: wrap;
+  margin-bottom: 22px;
+}
+
+.tabs {
+  display: flex;
+  align-items: center;
+  gap: 4px 22px;
+  flex-wrap: wrap;
+  border-bottom: 1px solid var(--border);
+}
+
+.tab {
+  font: inherit;
   font-size: 14px;
   font-weight: 600;
+  padding: 8px 2px 9px;
+  border: none;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  background: none;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s;
 }
 
-.site-nav a {
+.tab:hover {
+  color: var(--text);
+}
+
+.tab.is-active {
+  color: var(--text);
+  border-bottom-color: var(--accent);
+}
+
+.filter-right {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+/* Sources-today popover (display only) */
+.sources-menu {
+  position: relative;
+}
+
+.sources-menu summary {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  cursor: pointer;
+  padding: 7px 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  user-select: none;
+}
+
+.sources-menu summary::-webkit-details-marker {
+  display: none;
+}
+
+.sources-menu summary::after {
+  content: "▾";
+  font-size: 10px;
+  color: var(--text-faint);
+}
+
+.sources-menu summary:hover {
+  color: var(--text);
+}
+
+.summary-icon {
+  color: var(--text-faint);
+  flex-shrink: 0;
+}
+
+.sources-menu summary:hover .summary-icon {
   color: var(--text-secondary);
 }
 
-.site-nav a:hover {
-  color: var(--accent);
+.sources-menu[open] summary {
+  border-color: var(--text-faint);
 }
 
-main.container {
-  padding-top: 28px;
-  padding-bottom: 48px;
+.sources-count {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--text-faint);
+  background: var(--bg);
+  border-radius: 999px;
+  padding: 0 7px;
+  line-height: 1.7;
+  font-variant-numeric: tabular-nums;
+}
+
+.sources-pop {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 6px);
+  z-index: 20;
+  list-style: none;
+  margin: 0;
+  padding: 8px 14px;
+  min-width: 220px;
+  max-height: 320px;
+  overflow-y: auto;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  box-shadow: var(--shadow-pop);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.sources-pop li {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 12.5px;
+  color: var(--text-secondary);
+}
+
+.rail-source-name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.rail-source-count {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--text-faint);
+  background: var(--bg);
+  border-radius: 999px;
+  padding: 0 7px;
+  line-height: 1.7;
+  font-variant-numeric: tabular-nums;
+  flex-shrink: 0;
+}
+
+/* ---------- Main canvas ---------- */
+
+.main {
+  margin-left: var(--sidebar-width);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-inner {
+  width: 100%;
+  padding: 28px 40px 48px;
 }
 
 .site-footer {
-  border-top: 1px solid var(--border);
-  padding: 24px 0 40px;
+  margin-top: auto;
   color: var(--text-faint);
-  font-size: 13px;
+  font-size: 12.5px;
 }
 
-/* ---------- Dev notice / digest date ---------- */
+.site-footer .main-inner {
+  padding-top: 0;
+  padding-bottom: 32px;
+}
+
+.site-footer p {
+  margin: 0;
+}
+
+/* ---------- Page head ---------- */
+
+.page-head {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 16px 24px;
+  flex-wrap: wrap;
+  margin-bottom: 22px;
+}
+
+.page-title {
+  font-size: 28px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin: 0;
+}
+
+.page-sub {
+  margin: 4px 0 0;
+  font-size: 13px;
+  color: var(--text-faint);
+}
+
+.tz-note {
+  margin: 2px 0 0;
+  font-size: 12px;
+  color: var(--text-faint);
+}
+
+/* Search field with an inset magnifier icon. */
+.search-wrap {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.search-icon {
+  position: absolute;
+  left: 12px;
+  color: var(--text-faint);
+  pointer-events: none;
+}
+
+.search {
+  font: inherit;
+  font-size: 13px;
+  width: 250px;
+  padding: 8px 14px 8px 34px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  color: var(--text);
+  outline: none;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.search::placeholder {
+  color: var(--text-faint);
+}
+
+.search:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(14, 159, 110, 0.14);
+}
+
+/* ---------- Dev notice ---------- */
 
 .dev-notice {
   background: var(--featured-bg);
@@ -123,62 +404,42 @@ main.container {
   margin: 0 0 16px;
 }
 
-.digest-date {
-  color: var(--text-secondary);
-  font-size: 14px;
-  margin: 0 0 20px;
-}
+/* ---------- Panels (white cards on gray canvas) ---------- */
 
-/* ---------- Region filter pills ---------- */
-
-.region-filter {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-bottom: 28px;
-}
-
-.pill {
-  font: inherit;
-  font-size: 13px;
-  font-weight: 600;
-  padding: 6px 14px;
-  border-radius: 999px;
-  border: 1px solid var(--border);
+.panel,
+.trending,
+.story-card,
+.article-card {
   background: var(--surface);
-  color: var(--text-secondary);
-  cursor: pointer;
-  transition: background 0.15s, color 0.15s, border-color 0.15s;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
 }
 
-.pill:hover {
-  border-color: var(--accent);
-  color: var(--accent);
+.panel-title {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  font-size: 15px;
+  font-weight: 750;
+  margin: 0 0 6px;
 }
 
-.pill.is-active {
-  background: var(--text);
-  border-color: var(--text);
-  color: var(--bg);
+/* Signature green vertical accent bar (from the reference "Ad Spend" card). */
+.panel-title::before {
+  content: "";
+  width: 4px;
+  height: 15px;
+  border-radius: 2px;
+  background: var(--accent);
+  flex-shrink: 0;
 }
 
-/* ---------- Trending ---------- */
-
-.section-title {
-  font-size: 13px;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--accent);
-  margin: 0 0 12px;
-}
+/* ---------- Trending: compact ranked list ---------- */
 
 .trending {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  padding: 20px 22px;
-  margin-bottom: 36px;
+  padding: 20px 24px;
+  margin-bottom: 30px;
 }
 
 .hot-list {
@@ -190,172 +451,327 @@ main.container {
 .hot-item {
   display: flex;
   align-items: baseline;
-  gap: 12px;
-  padding: 10px 0;
+  gap: 14px;
+  padding: 9px 0;
 }
 
 .hot-item + .hot-item {
   border-top: 1px solid var(--border);
 }
 
+/* ------------------------------------------------------------------
+   RESERVED signature gradient — not currently used.
+   Was the #1 trending hero card (deep-green gradient + soft radial
+   glow, white text). Kept intentionally so the same look can be
+   applied elsewhere later; to re-enable, add the `hot-hero` class to
+   a `.hot-item` (or reuse the gradient/shadow values below).
+------------------------------------------------------------------ */
+.hot-item.hot-hero {
+  align-items: center;
+  margin: 6px 0 10px;
+  padding: 16px 20px;
+  border-radius: 16px;
+  background:
+    radial-gradient(120% 170% at 14% 0%, rgba(255, 255, 255, 0.28) 0%, rgba(255, 255, 255, 0) 55%),
+    linear-gradient(135deg, #11a876 0%, var(--accent-deep) 55%, #087450 100%);
+  box-shadow: 0 14px 30px rgba(11, 138, 95, 0.32);
+}
+
+.hot-hero + .hot-item {
+  border-top: none;
+}
+
+.hot-hero .hot-rank,
+.hot-hero .hot-title,
+.hot-hero .hot-score {
+  color: #ffffff;
+}
+
+.hot-hero .hot-companies,
+.hot-hero .hot-right,
+.hot-hero .hot-heat {
+  color: rgba(255, 255, 255, 0.78);
+}
+
+.hot-hero .hot-title:hover {
+  color: #ffffff;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.hot-hero .hot-score::before {
+  background: rgba(255, 255, 255, 0.9);
+}
+
 .hot-rank {
-  font-size: 18px;
-  font-weight: 800;
-  color: var(--accent);
-  min-width: 22px;
+  min-width: 18px;
   text-align: center;
+  font-size: 14px;
+  font-weight: 800;
+  color: var(--text-faint);
   font-variant-numeric: tabular-nums;
 }
 
-.hot-body {
-  flex: 1;
-  min-width: 0;
+.hot-rank.is-top {
+  color: var(--accent-ink);
+}
+
+.hot-hero .hot-rank.is-top {
+  color: #ffffff;
 }
 
 .hot-title {
-  display: block;
-  font-weight: 650;
-  line-height: 1.4;
-}
-
-.hot-sources {
-  display: block;
-  font-size: 12.5px;
-  color: var(--text-faint);
-  margin-top: 2px;
-}
-
-.hot-meta {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  flex-shrink: 0;
-}
-
-/* Flame indicator (pure CSS) + heat count */
-.heat {
-  display: inline-flex;
-  align-items: center;
-  gap: 5px;
-  font-size: 13px;
-  font-weight: 700;
-  color: var(--accent);
-  font-variant-numeric: tabular-nums;
-}
-
-.flame {
-  width: 10px;
-  height: 14px;
-  background: linear-gradient(180deg, #f0924f 0%, var(--accent) 70%);
-  border-radius: 0 50% 50% 50%;
-  transform: rotate(45deg) scale(0.9, 1.15);
-}
-
-/* ---------- Badges ---------- */
-
-.badge {
-  display: inline-block;
-  font-size: 11.5px;
-  font-weight: 700;
-  padding: 2px 8px;
-  border-radius: 999px;
-  line-height: 1.5;
+  flex: 1;
+  min-width: 0;
+  font-size: 14.5px;
+  font-weight: 600;
+  line-height: 1.45;
+  overflow: hidden;
+  text-overflow: ellipsis;
   white-space: nowrap;
 }
 
-.badge.score {
-  background: var(--score-bg);
-  color: var(--score-text);
+.hot-companies {
+  flex-shrink: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 12.5px;
+  color: var(--text-faint);
+}
+
+.hot-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-shrink: 0;
+  font-size: 12.5px;
+  color: var(--text-faint);
   font-variant-numeric: tabular-nums;
+  white-space: nowrap;
 }
 
-.badge.featured {
-  background: var(--featured-bg);
-  color: var(--featured-text);
+/* Flame glyph before the source count. */
+.hot-heat {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
 }
 
-/* ---------- Timeline / day groups ---------- */
+.hot-heat svg {
+  color: var(--accent);
+}
 
+.hot-score {
+  font-weight: 700;
+  color: var(--text-secondary);
+}
+
+/* Green accent bar before the score value. */
+.hot-score::before {
+  content: "";
+  display: inline-block;
+  width: 3px;
+  height: 11px;
+  border-radius: 2px;
+  background: var(--accent);
+  margin-right: 7px;
+  vertical-align: -1px;
+}
+
+/* ---------- Day groups ---------- */
+
+/* Day groups are <details> elements: the latest day renders with the
+   `open` attribute, older days start collapsed. No JS required. */
 .day-group {
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
 .day-heading {
+  list-style: none;
+  cursor: pointer;
+  user-select: none;
+  margin: 0 0 14px;
+  border-radius: 6px;
+}
+
+.day-heading::-webkit-details-marker {
+  display: none;
+}
+
+.day-heading::marker {
+  content: none;
+}
+
+/* Collapsed groups sit flush — no trailing gap under the summary. */
+.day-group:not([open]) > .day-heading {
+  margin-bottom: 0;
+}
+
+.day-heading-line {
   display: flex;
-  align-items: baseline;
-  gap: 12px;
+  align-items: center;
+  gap: 8px;
   flex-wrap: wrap;
-  border-bottom: 2px solid var(--text);
-  padding-bottom: 8px;
-  margin: 0 0 18px;
+  margin: 0;
+  font: inherit;
 }
 
 .day-date {
-  font-size: 20px;
+  font-size: 17px;
   font-weight: 800;
   letter-spacing: -0.01em;
 }
 
+/* Disclosure chevron: points right when collapsed, rotates down when open. */
+.day-chev {
+  color: var(--text-faint);
+  transition: transform 0.15s ease;
+}
+
+.day-heading:hover .day-chev {
+  color: var(--text-secondary);
+}
+
+.day-group[open] .day-chev {
+  transform: rotate(90deg);
+}
+
 .day-sub {
-  font-size: 13px;
+  font-size: 12.5px;
   color: var(--text-faint);
   font-weight: 500;
 }
 
-/* ---------- Story cards ---------- */
+/* ---------- Story rows: time rail + white card ---------- */
 
 .story-list {
   display: flex;
   flex-direction: column;
-  gap: 18px;
+  gap: 14px;
 }
 
-.story-card {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  padding: 20px 22px;
+.story-row {
+  position: relative;
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
 }
 
-.story-meta {
+/* Vertical line connecting consecutive dots within a day group.
+   Runs from this row's dot center (34px from the top, centered in the
+   58px rail) to the next row's dot center (14px list gap + 34px).
+   The last row of each day group gets no line, so it stops cleanly
+   after the day's last item. */
+.story-row::after {
+  content: "";
+  position: absolute;
+  left: 53.5px;
+  top: 34px;
+  bottom: -48px;
+  width: 2px;
+  background: #dde1e5;
+}
+
+.story-row:last-child::after {
+  display: none;
+}
+
+.story-rail {
+  width: 58px;
+  flex-shrink: 0;
   display: flex;
   align-items: center;
-  flex-wrap: wrap;
-  gap: 8px;
-  font-size: 12.5px;
-  color: var(--text-faint);
-  margin-bottom: 8px;
+  justify-content: flex-end;
+  gap: 7px;
+  padding-top: 24px;
 }
 
-.story-time {
+.rail-time {
+  font-size: 12.5px;
   font-weight: 700;
   color: var(--text-secondary);
   font-variant-numeric: tabular-nums;
 }
 
-.story-sources {
-  color: var(--text-faint);
+.rail-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #c3cdc7;
+  flex-shrink: 0;
+}
+
+.story-card {
+  flex: 1;
+  min-width: 0;
+  padding: 20px 22px;
+  position: relative;
+}
+
+/* Whole card is clickable via the title's stretched link; nested links
+   (e.g. "Also reported by") stay clickable above it. */
+.stretched-link::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+}
+
+.story-card a:not(.stretched-link) {
+  position: relative;
+  z-index: 1;
+}
+
+.story-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.story-origin {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+}
+
+.story-source-name {
+  font-size: 12px;
+  font-weight: 750;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-secondary);
+}
+
+.ai-score {
+  font-size: 12.5px;
+  font-weight: 650;
+  color: var(--text-secondary);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
 }
 
 .story-title {
-  font-size: 18px;
+  font-size: 17px;
   font-weight: 750;
   line-height: 1.35;
-  margin: 0 0 8px;
+  margin: 0 0 6px;
   letter-spacing: -0.01em;
 }
 
 .story-summary {
-  margin: 0 0 12px;
+  margin: 0 0 10px;
   color: var(--text-secondary);
-  font-size: 15px;
+  font-size: 14px;
 }
 
 .story-tags {
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
-  margin-bottom: 14px;
 }
 
 .chip {
@@ -376,31 +792,46 @@ main.container {
   color: var(--chip-topic-text);
 }
 
-.why-it-matters {
-  border-left: 3px solid var(--accent);
-  background: var(--accent-soft);
-  border-radius: 0 8px 8px 0;
-  padding: 10px 14px;
-  font-size: 14px;
-  color: var(--text-secondary);
+.chip.company {
+  background: var(--chip-company-bg);
+  color: var(--chip-company-text);
 }
 
-.why-it-matters p {
-  margin: 0;
+.chip.company::before {
+  content: "@";
+  margin-right: 1px;
+  opacity: 0.65;
 }
 
-.why-label {
+/* Company chips that link to a company page (story cards, news rail). */
+a.chip.company {
+  text-decoration: none;
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+}
+
+a.chip.company:hover {
+  box-shadow: 0 0 0 1.5px var(--accent);
+  transform: translateY(-1px);
+}
+
+.badge {
+  display: inline-block;
   font-size: 11px;
-  font-weight: 750;
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
-  color: var(--accent);
-  margin-bottom: 4px !important;
+  font-weight: 700;
+  padding: 1px 8px;
+  border-radius: 999px;
+  line-height: 1.5;
+  white-space: nowrap;
+}
+
+.badge.featured {
+  background: var(--featured-bg);
+  color: var(--featured-text);
 }
 
 .also-reported {
-  margin: 12px 0 0;
-  font-size: 13px;
+  margin: 10px 0 0;
+  font-size: 12.5px;
   color: var(--text-faint);
 }
 
@@ -414,28 +845,440 @@ main.container {
   color: var(--accent);
 }
 
+.why-it-matters {
+  margin: 12px 0 0;
+  border-top: 1px solid var(--border);
+  padding-top: 10px;
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+
+.why-label {
+  font-weight: 750;
+  color: var(--text);
+  margin-right: 6px;
+}
+
+/* Signature green vertical accent bar before the label. */
+.why-label::before {
+  content: "";
+  display: inline-block;
+  width: 3px;
+  height: 12px;
+  border-radius: 2px;
+  background: var(--accent);
+  margin-right: 8px;
+  vertical-align: -2px;
+}
+
+.why-label::after {
+  content: "—";
+  margin-left: 6px;
+  color: var(--text-faint);
+  font-weight: 400;
+}
+
+/* ---------- Story detail page ---------- */
+
+.article-card {
+  padding: 28px 32px;
+}
+
+/* Slim sticky action bar above the article card. Translucent white
+   background (+ blur) keeps content scrolling under it readable. */
+.article-bar {
+  position: sticky;
+  top: 12px;
+  z-index: 30;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 16px;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+  padding: 8px 14px;
+  background: rgba(255, 255, 255, 0.88);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.article-bar-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13.5px;
+  font-weight: 650;
+  color: var(--text-secondary);
+  padding: 6px 4px;
+}
+
+.article-bar-back:hover {
+  color: var(--text);
+}
+
+.article-bar-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.article-bar-right .ai-score::before {
+  content: "●";
+  font-size: 8px;
+  margin-right: 6px;
+  color: var(--accent);
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  font-weight: 650;
+  padding: 8px 14px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  color: var(--text-secondary);
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+}
+
+.btn:hover {
+  color: var(--accent-ink);
+  border-color: var(--accent);
+}
+
+.btn-primary {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.btn-primary:hover {
+  background: var(--accent-deep);
+  border-color: var(--accent-deep);
+  color: #fff;
+}
+
+.article-title {
+  font-size: 26px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.3;
+  margin: 0 0 10px;
+}
+
+.article-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 12px;
+  font-size: 13px;
+  color: var(--text-faint);
+  margin-bottom: 12px;
+}
+
+.article-meta .ai-score {
+  font-size: 13px;
+}
+
+/* Two-column layout: main article column (~2/3) + right rail (~1/3). */
+.article-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+  gap: 44px;
+}
+
+.article-main,
+.article-rail {
+  min-width: 0;
+}
+
+.ai-summary {
+  margin-top: 18px;
+}
+
+.ai-summary-label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 6px;
+  font-size: 13px;
+  font-weight: 750;
+  color: var(--accent-ink);
+}
+
+/* Signature green vertical accent bar before the label. */
+.ai-summary-label::before {
+  content: "";
+  width: 4px;
+  height: 14px;
+  border-radius: 2px;
+  background: var(--accent);
+  flex-shrink: 0;
+}
+
+.ai-summary-text {
+  margin: 0;
+  font-size: 14.5px;
+  line-height: 1.7;
+  color: var(--text-secondary);
+}
+
+.article-divider {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 22px 0;
+}
+
+/* Rendered markdown body (see renderArticle in src/lib/markdown.ts). */
+.article-body {
+  font-size: 15.5px;
+  line-height: 1.75;
+}
+
+.article-body p {
+  margin: 0 0 16px;
+}
+
+.article-body > :last-child {
+  margin-bottom: 0;
+}
+
+.article-body h2 {
+  font-size: 19px;
+  font-weight: 750;
+  letter-spacing: -0.01em;
+  line-height: 1.35;
+  margin: 30px 0 12px;
+  scroll-margin-top: 76px;
+}
+
+.article-body h3 {
+  font-size: 16.5px;
+  font-weight: 700;
+  line-height: 1.4;
+  margin: 24px 0 10px;
+  scroll-margin-top: 76px;
+}
+
+.article-body h2:first-child,
+.article-body h3:first-child {
+  margin-top: 0;
+}
+
+.article-body ul,
+.article-body ol {
+  margin: 0 0 16px;
+  padding-left: 24px;
+}
+
+.article-body li {
+  margin-bottom: 6px;
+}
+
+.article-body li:last-child {
+  margin-bottom: 0;
+}
+
+.article-body blockquote {
+  margin: 0 0 16px;
+  padding: 2px 0 2px 16px;
+  border-left: 3px solid var(--border);
+  color: var(--text-secondary);
+}
+
+.article-body blockquote p {
+  margin-bottom: 8px;
+}
+
+.article-body blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+.article-body a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.article-body img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.article-body hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 24px 0;
+}
+
+.article-body code {
+  font-size: 0.9em;
+  background: var(--bg);
+  border-radius: 4px;
+  padding: 1px 5px;
+}
+
+.article-body pre {
+  margin: 0 0 16px;
+  padding: 14px 16px;
+  background: var(--bg);
+  border-radius: 8px;
+  overflow-x: auto;
+}
+
+.article-body pre code {
+  background: none;
+  padding: 0;
+}
+
+.article-main .also-reported {
+  margin-top: 28px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+}
+
+/* Right rail: Why it matters / Contents / Tags */
+.rail-block {
+  margin-bottom: 28px;
+}
+
+.rail-block:last-child {
+  margin-bottom: 0;
+}
+
+.rail-title {
+  font-size: 14px;
+  font-weight: 750;
+  margin: 0 0 10px;
+}
+
+.rail-text {
+  margin: 0;
+  font-size: 13.5px;
+  line-height: 1.65;
+  color: var(--text-secondary);
+}
+
+.rail-toc {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.rail-toc a {
+  display: block;
+  font-size: 13.5px;
+  line-height: 1.45;
+  color: var(--text-secondary);
+}
+
+.rail-toc a:hover {
+  color: var(--accent);
+}
+
+.rail-toc .is-sub {
+  padding-left: 14px;
+}
+
+.content-note {
+  font-size: 12.5px;
+  color: var(--text-faint);
+  font-style: italic;
+}
+
 /* ---------- Filtering ---------- */
 
 .is-hidden {
   display: none !important;
 }
 
+/* ---------- Field help tooltips (InfoTip) ---------- */
+
+.info-tip {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  margin-left: 3px;
+  color: var(--text-faint);
+  cursor: help;
+  vertical-align: -1px;
+}
+
+.info-tip:hover,
+.info-tip:focus-visible {
+  color: var(--accent);
+  outline: none;
+}
+
+.info-tip-bubble {
+  position: absolute;
+  /* Anchor to the icon's left edge: field labels sit at the card's left, so
+     a centered bubble would spill past the card boundary. */
+  left: -10px;
+  bottom: calc(100% + 8px);
+  transform: translateY(2px);
+  width: 240px;
+  padding: 8px 11px;
+  background: var(--text);
+  color: #fff;
+  font-size: 11.5px;
+  font-weight: 400;
+  line-height: 1.5;
+  /* dt/labels are nowrap — the bubble must wrap or its text clips. */
+  white-space: normal;
+  text-align: left;
+  border-radius: 8px;
+  box-shadow: var(--shadow-pop);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.12s ease, transform 0.12s ease;
+  z-index: 60;
+}
+
+.info-tip-bubble::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 14px;
+  border: 5px solid transparent;
+  border-top-color: var(--text);
+}
+
+.info-tip:hover .info-tip-bubble,
+.info-tip:focus-visible .info-tip-bubble {
+  opacity: 1;
+  transform: translateY(0);
+}
+
 /* ---------- About page ---------- */
 
-.about h1 {
-  font-size: 26px;
-  letter-spacing: -0.02em;
-  margin: 0 0 16px;
+.about {
+  padding: 28px 32px;
 }
 
 .about h2 {
-  font-size: 17px;
-  margin: 28px 0 8px;
+  font-size: 16px;
+  margin: 24px 0 8px;
+}
+
+.about h2:first-child {
+  margin-top: 0;
 }
 
 .about p,
 .about ul {
   color: var(--text-secondary);
+  font-size: 14.5px;
   margin: 0 0 12px;
 }
 
@@ -443,17 +1286,2369 @@ main.container {
   padding-left: 22px;
 }
 
-/* ---------- Small screens ---------- */
+/* ---------- Companies directory ---------- */
 
-@media (max-width: 560px) {
-  .hot-meta {
+.co-section {
+  margin-bottom: 28px;
+}
+
+.co-cat {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-faint);
+  margin: 0 0 12px;
+}
+
+.co-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 14px;
+}
+
+.co-card {
+  display: flex;
+  gap: 13px;
+  align-items: flex-start;
+  padding: 16px 16px 12px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  color: inherit;
+  text-decoration: none;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+
+.co-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-1px);
+}
+
+.co-logo {
+  position: relative;
+  flex: 0 0 44px;
+  width: 44px;
+  height: 44px;
+  border-radius: 11px;
+  background: var(--accent-soft);
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.co-logo img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  background: #fff;
+  z-index: 1;
+}
+
+.co-letter {
+  font-size: 19px;
+  font-weight: 800;
+  color: var(--accent-deep);
+}
+
+.co-logo--lg {
+  flex-basis: 64px;
+  width: 64px;
+  height: 64px;
+  border-radius: 15px;
+}
+
+.co-logo--lg .co-letter {
+  font-size: 27px;
+}
+
+.co-body {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  min-width: 0;
+}
+
+.co-name {
+  font-size: 14.5px;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.co-blurb {
+  font-size: 12.5px;
+  line-height: 1.5;
+  color: var(--text-secondary);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.co-stats {
+  display: flex;
+  gap: 10px;
+  font-size: 11.5px;
+  font-weight: 600;
+  color: var(--text-faint);
+}
+
+.co-stats svg {
+  vertical-align: -2px;
+  margin-right: 3px;
+  color: var(--accent);
+}
+
+.co-cta {
+  margin-top: 2px;
+  font-size: 11.5px;
+  font-weight: 600;
+  color: var(--accent-deep);
+  white-space: nowrap;
+}
+
+/* Company profile (detail page) */
+
+.co-profile {
+  display: flex;
+  gap: 18px;
+  align-items: flex-start;
+  padding: 22px 24px;
+  margin-bottom: 16px;
+}
+
+.co-profile-name {
+  font-size: 22px;
+  font-weight: 800;
+  margin: 0 0 8px;
+}
+
+.co-profile-blurb {
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: var(--text-secondary);
+  margin: 10px 0 14px;
+  max-width: 560px;
+}
+
+.co-site {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.co-stat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.co-stat {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 16px;
+}
+
+.co-stat-icon {
+  flex: 0 0 38px;
+  width: 38px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  background: var(--accent-soft);
+  color: var(--accent-deep);
+}
+
+.co-stat-text {
+  margin: 0;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-secondary);
+  line-height: 1.35;
+}
+
+.co-stat-text strong {
+  font-size: 19px;
+  font-weight: 800;
+  color: var(--text);
+  margin-right: 3px;
+}
+
+.co-facilities {
+  padding: 18px 20px;
+  margin-bottom: 16px;
+}
+
+.co-table {
+  margin-top: 10px;
+}
+
+/* ---------- Pipeline: project tracking ---------- */
+
+.pipeline-stats {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 7px;
+  margin: -6px 0 16px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-faint);
+}
+
+.pipeline-stats svg {
+  color: var(--accent);
+}
+
+.pipeline-stats .stats-sep {
+  font-weight: 400;
+}
+
+/* Project search: sits on the stats row, filters table + map pins. */
+.pipeline-search {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-left: auto;
+  min-width: 0;
+  padding: 5px 10px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--text-faint);
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.pipeline-search:focus-within {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-soft);
+}
+
+.pipeline-search input {
+  width: 220px;
+  border: none;
+  outline: none;
+  background: transparent;
+  font: inherit;
+  font-weight: 500;
+  color: var(--text);
+}
+
+.pipeline-search input::placeholder {
+  color: var(--text-faint);
+  font-weight: 400;
+}
+
+/* Hide the native clear button's legacy appearance inconsistencies. */
+.pipeline-search input::-webkit-search-cancel-button {
+  cursor: pointer;
+}
+
+.pipeline-search .search-hint {
+  padding: 1px 6px;
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  font-family: inherit;
+  font-size: 11px;
+  color: var(--text-faint);
+  background: var(--bg);
+}
+
+/* Pipeline layout: table on the left, sticky map rail on the right so the
+   row-hover pin stays visible while scrolling the table (Baxtel-style). */
+.pipeline-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 320px;
+  gap: 16px;
+  align-items: start;
+}
+
+/* Give the wide table more room: tighter page padding on this page only. */
+.main-inner:has(.pipeline-layout) {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+/* Dense table: smaller chips/badges so columns fit beside the map rail. */
+.pipeline-table .chip,
+.pipeline-table .badge {
+  font-size: 10.5px;
+  padding: 2px 6px;
+}
+
+.map-rail {
+  position: sticky;
+  top: 18px;
+}
+
+@media (max-width: 1150px) {
+  .pipeline-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .map-rail {
+    position: static;
+    order: -1;
+  }
+}
+
+/* Country heat map: choropleth in theme green over gray context shapes. */
+.map-panel {
+  margin-bottom: 0;
+  padding-bottom: 10px;
+}
+
+.heatmap {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.heatmap-map {
+  position: relative;
+  height: 430px;
+}
+
+/* Leaflet layer: laid out (so the map initializes at the right size) but
+   invisible until the first OSM tile arrives — the SVG stays the fallback. */
+.heatmap-leaflet {
+  position: absolute;
+  inset: 0;
+  visibility: hidden;
+  border-radius: inherit;
+  z-index: 4;
+}
+
+.heatmap-map.is-leaflet .heatmap-leaflet {
+  visibility: visible;
+}
+
+/* In Leaflet mode the SVG map, custom zoom buttons, HTML marker and the
+   mouse-following popup are all replaced by native Leaflet equivalents. */
+.heatmap-map.is-leaflet #dc-map,
+.heatmap-map.is-leaflet .map-zoom,
+.heatmap-map.is-leaflet #map-marker,
+.heatmap-map.is-leaflet .map-popup {
+  display: none;
+}
+
+.leaflet-container {
+  background: var(--bg);
+  font: inherit;
+  border-radius: inherit;
+}
+
+/* Leaflet pin markers reuse the SVG pin shapes/colors via divIcon. */
+.dc-pin {
+  background: none;
+  border: none;
+}
+
+.dc-pin svg {
+  display: block;
+  overflow: visible;
+}
+
+/* Leaflet hover card — same content/look as the SVG-mode .map-popup. */
+.dc-tooltip.leaflet-tooltip {
+  width: 236px;
+  padding: 10px 12px 9px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow-pop);
+  white-space: normal;
+}
+
+.dc-tooltip.leaflet-tooltip::before {
+  display: none;
+}
+
+/* Row-hover locate marker (Leaflet mode reuses the SVG-mode ring/dot). */
+.dc-locate {
+  background: none;
+  border: none;
+  pointer-events: none;
+}
+
+.dc-locate-label.leaflet-tooltip {
+  background: var(--text);
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 3px 8px;
+  box-shadow: var(--shadow-pop);
+}
+
+.dc-locate-label.leaflet-tooltip::before {
+  display: none;
+}
+
+.leaflet-control-zoom a {
+  color: var(--text-secondary) !important;
+}
+
+.leaflet-control-attribution {
+  font-size: 10px !important;
+}
+
+/* Size the MAP svg only — a bare ".heatmap svg" would also blow up inline
+   svgs injected by Leaflet (its attribution flag becomes a giant block). */
+.heatmap #dc-map {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.heatmap-country {
+  fill: #eef1ef;
+  stroke: var(--surface);
+  stroke-width: 0.8;
+}
+
+/* Tracked countries get a faint green tint; the pins carry the real signal. */
+.heatmap-country.is-tracked {
+  fill: #e1efe7;
+}
+
+/* Interactive locator map on the project detail page (Leaflet). */
+.minimap-leaflet {
+  width: 100%;
+  height: 300px;
+  border-radius: var(--radius-sm);
+  background: var(--bg);
+  overflow: hidden;
+  /* Keep Leaflet panes inside the panel's stacking context. */
+  z-index: 0;
+}
+
+.minimap-pin-halo {
+  fill-opacity: 0.22;
+}
+
+/* --- Project pins: shape + color per status (matches table badges) --- */
+.pin circle,
+.pin path,
+.pin rect {
+  fill: currentColor;
+}
+
+.pin {
+  fill-opacity: 0.82;
+  /* Clickable (opens the project page) — overrides the map's grab cursor. */
+  cursor: pointer;
+}
+
+.pin-operational {
+  color: var(--accent);
+}
+
+.pin-under_construction {
+  color: #d97706;
+}
+
+.pin-announced {
+  color: #3b5b85;
+}
+
+.pin-on_hold {
+  color: #64707a;
+  fill-opacity: 0.55;
+}
+
+.pin-cancelled {
+  color: #98a1a8;
+}
+
+/* Prospective expansion: green ring with a plus — growth of a live site. */
+.pin-expansion {
+  color: var(--accent-deep);
+}
+
+.pin-plus circle {
+  fill: var(--surface);
+  fill-opacity: 0.9;
+  stroke: currentColor;
+  stroke-width: 3.2;
+}
+
+.pin-plus path {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 3.2;
+  stroke-linecap: round;
+}
+
+/* Land bank: hollow gray square — site secured, nothing built. */
+.pin-landbank {
+  color: #8a94a3;
+}
+
+.pin-hollow {
+  fill: var(--surface);
+  fill-opacity: 0.85;
+  stroke: currentColor;
+  stroke-width: 3;
+}
+
+.pin-cross-lines {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 4;
+  stroke-linecap: round;
+}
+
+#dc-map {
+  cursor: grab;
+  touch-action: none;
+  user-select: none;
+}
+
+#dc-map.is-dragging {
+  cursor: grabbing;
+}
+
+/* Zoom controls, top-right. */
+.map-zoom {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.map-zoom-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  padding: 0;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  box-shadow: var(--shadow);
+  color: var(--text-secondary);
+  cursor: pointer;
+}
+
+.map-zoom-btn:hover {
+  color: var(--accent-ink);
+  border-color: var(--accent);
+}
+
+/* Status legend, bottom-left. */
+.map-status-legend {
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3px 10px;
+  max-width: 78%;
+  padding: 5px 9px;
+  background: color-mix(in srgb, var(--surface) 88%, transparent);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+}
+
+.map-status-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  white-space: nowrap;
+}
+
+.map-status-count {
+  font-variant-numeric: tabular-nums;
+  color: var(--text-faint);
+}
+
+/* Facility description paragraph on the project detail page. */
+.fact-description {
+  margin: 10px 0 0;
+  font-size: 13.5px;
+  line-height: 1.65;
+  color: var(--text-secondary);
+}
+
+/* Pin hover card (map + list modes). */
+.map-popup {
+  position: absolute;
+  z-index: 5;
+  display: none;
+  width: 236px;
+  padding: 10px 12px 9px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow-pop);
+  pointer-events: none; /* hover target stays the pin; click is handled by svg */
+}
+
+.map-popup.is-visible {
+  display: block;
+}
+
+.map-popup-name {
+  margin: 0 0 2px;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.map-popup-meta {
+  margin: 0;
+  font-size: 11.5px;
+  font-weight: 600;
+  color: var(--accent-ink);
+}
+
+.map-popup-sub {
+  margin: 2px 0 5px;
+  font-size: 11.5px;
+  color: var(--text-faint);
+}
+
+.map-popup-cta {
+  font-size: 11.5px;
+  font-weight: 700;
+  color: var(--accent-ink);
+}
+
+/* --- List / map view toggle --- */
+.view-toggle {
+  display: inline-flex;
+  gap: 2px;
+  padding: 3px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  box-shadow: var(--shadow);
+}
+
+.view-toggle-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 5px 13px;
+  border: none;
+  border-radius: 999px;
+  background: none;
+  font-size: 12.5px;
+  font-weight: 650;
+  color: var(--text-faint);
+  cursor: pointer;
+}
+
+.view-toggle-btn:hover {
+  color: var(--text-secondary);
+}
+
+.view-toggle-btn.is-active {
+  background: var(--accent-soft);
+  color: var(--accent-ink);
+}
+
+/* Map mode: full-width tall map, table and ranking hidden. */
+.pipeline-layout[data-mode='map'] {
+  grid-template-columns: 1fr;
+}
+
+.pipeline-layout[data-mode='map'] .pipeline-panel,
+.pipeline-layout[data-mode='map'] .heatmap-rank {
+  display: none;
+}
+
+.pipeline-layout[data-mode='map'] .map-rail {
+  position: static;
+}
+
+.pipeline-layout[data-mode='map'] .heatmap-map {
+  height: 74vh;
+}
+
+/* Right-hand ranking: country, proportional bar, MW, project count. */
+.heatmap-rank {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin: 0;
+  padding: 2px 4px 4px;
+  list-style: none;
+}
+
+.heatmap-rank-row {
+  display: grid;
+  grid-template-columns: 92px 1fr auto 26px;
+  align-items: center;
+  gap: 9px;
+  padding: 3.5px 0;
+  font-size: 12.5px;
+}
+
+.heatmap-rank-name {
+  font-weight: 600;
+  color: var(--text-secondary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.heatmap-rank-bar {
+  position: relative;
+  height: 7px;
+  border-radius: 4px;
+  background: var(--chip-topic-bg);
+}
+
+.heatmap-rank-bar::before {
+  content: '';
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: var(--pct);
+  border-radius: 4px;
+  background: var(--accent);
+}
+
+.heatmap-rank-mw {
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: var(--text);
+  white-space: nowrap;
+}
+
+.heatmap-rank-count {
+  font-size: 11.5px;
+  font-variant-numeric: tabular-nums;
+  color: var(--text-faint);
+  text-align: right;
+}
+
+/* Hover pin driven by the project table: dot + pulsing ring + name label.
+   Positioned in container pixels by the pipeline.astro script. */
+.map-marker {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: none;
+  pointer-events: none;
+  z-index: 3;
+}
+
+.map-marker.is-visible {
+  display: block;
+}
+
+.map-marker-dot {
+  position: absolute;
+  left: -5px;
+  top: -5px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--accent);
+  border: 2px solid #fff;
+  box-shadow: 0 1px 4px rgb(0 0 0 / 0.35);
+}
+
+.map-marker-ring {
+  position: absolute;
+  left: -13px;
+  top: -13px;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  border: 2px solid var(--accent);
+  animation: marker-pulse 1.6s ease-out infinite;
+}
+
+/* Dashed ring = geocoding fell back to the country capital, pin is rough. */
+.map-marker.is-approx .map-marker-ring {
+  border-style: dashed;
+}
+
+@keyframes marker-pulse {
+  0% {
+    transform: scale(0.45);
+    opacity: 0.9;
+  }
+
+  100% {
+    transform: scale(1.4);
+    opacity: 0;
+  }
+}
+
+.map-marker-label {
+  position: absolute;
+  bottom: 13px;
+  left: 0;
+  transform: translateX(-50%);
+  max-width: 220px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 12px;
+  font-weight: 650;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 3px 8px;
+  box-shadow: var(--shadow-pop);
+}
+
+.pipeline-panel {
+  padding: 0;
+  overflow: auto;
+  /* Fill the viewport below the page head. The min-height keeps the header
+     filter dropdowns fully visible even when a filter hides every row. */
+  max-height: calc(100dvh - 176px);
+  min-height: 480px;
+}
+
+.pipeline-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: 14px;
+  /* No min-width: the table fits the panel (long text ellipsizes) so the
+     Status / Last updated columns stay visible next to the map rail. */
+  table-layout: fixed;
+}
+
+.pipeline-table th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--surface);
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+  text-align: left;
+  padding: 9px 4px;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+  /* No overflow here: the filter dropdown lives inside the th and must not
+     be clipped. Header text ellipsis happens on the inner spans instead. */
+}
+
+/* Keep the card's rounded corners clean above the sticky header. */
+.pipeline-table th:first-child {
+  border-top-left-radius: var(--radius);
+}
+
+.pipeline-table th:last-child {
+  border-top-right-radius: var(--radius);
+}
+
+.pipeline-table td {
+  padding: 9px 6px;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+  /* Clip overflow (e.g. a wide status badge) instead of letting it bleed
+     into the next column. */
+  overflow: hidden;
+}
+
+/* Header text ellipsis lives on inner spans so the th can stay unclipped
+   for the filter dropdown. */
+.th-text {
+  display: block;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Spreadsheet-style header filters: funnel button + checkbox dropdown. */
+.th-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  max-width: 100%;
+}
+
+.th-filter-btn {
+  display: inline-flex;
+  flex: none;
+  align-items: center;
+  justify-content: center;
+  width: 14px;
+  height: 14px;
+  padding: 0;
+  border: none;
+  border-radius: 4px;
+  background: none;
+  color: var(--text-faint);
+  cursor: pointer;
+}
+
+.th-filter-btn:hover {
+  background: var(--chip-topic-bg);
+  color: var(--text-secondary);
+}
+
+.th-filter-btn.is-active {
+  background: var(--accent-soft);
+  color: var(--accent-ink);
+}
+
+.th-dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 10;
+  min-width: 180px;
+  max-height: 260px;
+  overflow-y: auto;
+  padding: 5px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow-pop);
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+.th-dropdown--right {
+  left: auto;
+  right: 0;
+}
+
+.th-option {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 8px;
+  border-radius: 4px;
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.th-option:hover {
+  background: #f6f9f7;
+}
+
+.th-option input {
+  margin: 0;
+  accent-color: var(--accent);
+}
+
+.th-option-all {
+  margin-bottom: 3px;
+  padding-bottom: 9px;
+  border-bottom: 1px solid var(--border);
+  border-radius: 0;
+}
+
+.th-option-label {
+  flex: 1;
+}
+
+.th-option-count {
+  font-size: 11px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  color: var(--text-faint);
+}
+
+/* Sortable headers (Capacity / Last updated): click cycles asc/desc. */
+.th-sort {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  max-width: 100%;
+  min-width: 0;
+  padding: 0;
+  border: none;
+  background: none;
+  font: inherit;
+  text-transform: inherit;
+  letter-spacing: inherit;
+  color: inherit;
+  cursor: pointer;
+}
+
+.th-sort:hover {
+  color: var(--text);
+}
+
+.th-sort[data-dir="asc"],
+.th-sort[data-dir="desc"] {
+  color: var(--accent-ink);
+}
+
+/* Neutral double-arrow hint so the sort affordance is visible before the
+   first click; the active direction lights up in accent green. */
+.sort-arrow {
+  position: relative;
+  display: inline-block;
+  flex: none;
+  width: 7px;
+  height: 12px;
+}
+
+.sort-arrow::before,
+.sort-arrow::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  border-left: 3.5px solid transparent;
+  border-right: 3.5px solid transparent;
+}
+
+.sort-arrow::before {
+  top: 0;
+  border-bottom: 5px solid #c6d2cb;
+}
+
+.sort-arrow::after {
+  bottom: 0;
+  border-top: 5px solid #c6d2cb;
+}
+
+.th-sort[data-dir="asc"] .sort-arrow::before {
+  border-bottom-color: var(--accent-ink);
+}
+
+.th-sort[data-dir="desc"] .sort-arrow::after {
+  border-top-color: var(--accent-ink);
+}
+
+.pipeline-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.pipeline-table tbody tr:hover {
+  background: #f6f9f7;
+}
+
+.proj-name {
+  font-weight: 700;
+}
+
+/* Long project names clamp to two lines instead of inflating the row. */
+.proj-name a {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.proj-operator {
+  color: var(--text-secondary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.proj-loc {
+  color: var(--text-secondary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* "—" for unknown state renders muted. */
+.proj-loc .is-empty {
+  color: var(--text-faint);
+}
+
+/* Investment: verbatim free text, clamped to two lines (full text on title). */
+.proj-invest {
+  font-size: 12.5px;
+  line-height: 1.45;
+  color: var(--text-secondary);
+}
+
+.proj-invest > span[title] {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.proj-invest .is-empty {
+  color: var(--text-faint);
+}
+
+.proj-region {
+  white-space: nowrap;
+}
+
+.cap-value {
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  color: var(--text);
+}
+
+/* "—" for unknown capacity renders muted. */
+.cap-value.is-empty {
+  color: var(--text-faint);
+  font-weight: 400;
+}
+
+.cap-note {
+  display: block;
+  font-size: 11.5px;
+  font-weight: 400;
+  color: var(--text-faint);
+}
+
+.proj-updated {
+  font-size: 13px;
+  color: var(--text-secondary);
+  white-space: nowrap;
+}
+
+/* "—" for never-updated seeds renders muted. */
+.proj-updated .is-empty {
+  color: var(--text-faint);
+}
+
+/* ---------- Pipeline table as cards on small screens ----------
+   Below this width the 10-column table can't stay readable; each row becomes
+   a stacked card with labeled fields (labels from td[data-label]). Column
+   filter dropdowns live in the thead, so column filtering stays a
+   wide-screen feature — search and the Saved toggle still work. */
+@media (max-width: 900px) {
+  .pipeline-table thead {
+    display: none;
+  }
+
+  .pipeline-table,
+  .pipeline-table tbody,
+  .pipeline-table tr,
+  .pipeline-table td {
+    display: block;
+    width: 100%;
+  }
+
+  /* Let the page scroll naturally instead of a nested scroll pane. */
+  .pipeline-panel {
+    max-height: none;
+    min-height: 0;
+    overflow: visible;
+  }
+
+  .pipeline-table tr {
+    padding: 12px 14px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .pipeline-table tbody tr:last-child {
+    border-bottom: none;
+  }
+
+  .pipeline-table td {
+    padding: 3px 0;
+    border-bottom: none;
+    overflow: visible;
+    white-space: normal;
+  }
+
+  /* Card title row: bookmark + project name, no label. */
+  .pipeline-table td.proj-name {
+    padding-bottom: 6px;
+    font-size: 14.5px;
+  }
+
+  .proj-name a {
+    -webkit-line-clamp: 3;
+  }
+
+  /* Labeled field rows: label left, value(s) right. */
+  .pipeline-table td[data-label] {
+    display: flex;
+    align-items: baseline;
+    justify-content: flex-end;
+    gap: 6px;
+    text-align: right;
+  }
+
+  .pipeline-table td[data-label]::before {
+    content: attr(data-label);
+    margin-right: auto;
+    flex: none;
+    font-size: 10.5px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    color: var(--text-faint);
+  }
+
+  /* Full-width search on the wrapped stats row. */
+  .pipeline-search {
+    flex: 1 1 150px;
+    margin-left: 0;
+  }
+
+  .pipeline-search input {
+    width: 100%;
+  }
+
+  .cap-note {
+    display: inline;
+  }
+
+  .proj-invest > span[title] {
+    -webkit-line-clamp: 3;
+  }
+
+  /* Smaller map on phones so the list isn't pushed a full screen down. */
+  .heatmap-map {
+    height: 300px;
+  }
+}
+
+/* Status badges: operational = theme green, under construction = amber,
+   announced = blue-gray, on hold / cancelled = muted gray. */
+.badge.status-operational {
+  background: var(--accent-soft);
+  color: var(--accent-ink);
+}
+
+/* ---------- Favorites ---------- */
+
+.fav-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3px;
+  border: none;
+  background: transparent;
+  color: var(--text-faint);
+  cursor: pointer;
+  border-radius: 6px;
+  transition: color 0.15s ease, background 0.15s ease;
+}
+
+.fav-btn:hover {
+  color: var(--accent-deep);
+  background: var(--accent-soft);
+}
+
+.fav-btn.is-fav {
+  color: var(--accent);
+}
+
+.fav-btn.is-fav svg {
+  fill: currentColor;
+}
+
+/* "Saved" filter toggle — reuses the tab look. */
+.saved-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.saved-toggle.is-active {
+  color: var(--accent-ink);
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.story-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* Favorite button floats beside the (clamped, block-box) project name. */
+.proj-name .fav-btn {
+  float: left;
+  margin: 1px 4px 0 0;
+}
+
+/* Stage qualifier chip ("Expanding" / "Land bank") — sits next to the main
+   status badge, visually quieter so the badge stays primary. */
+.badge.badge-qualifier {
+  margin-left: 5px;
+  background: transparent;
+  color: var(--accent-deep);
+  border: 1px solid var(--accent);
+  font-weight: 600;
+}
+
+.badge.status-under-construction {
+  background: var(--featured-bg);
+  color: var(--featured-text);
+}
+
+.badge.status-announced {
+  background: var(--chip-region-bg);
+  color: var(--chip-region-text);
+}
+
+.badge.status-on-hold,
+.badge.status-cancelled {
+  background: var(--chip-topic-bg);
+  color: var(--chip-topic-text);
+}
+
+.pipeline-empty {
+  margin: 0;
+  padding: 26px 24px;
+  text-align: center;
+  font-size: 13.5px;
+  color: var(--text-faint);
+}
+
+/* Friendly empty state (Saved with no bookmarks / filter with no matches). */
+.empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  padding: 56px 24px;
+  text-align: center;
+  color: var(--text-faint);
+}
+.empty-state.is-hidden,
+.empty-state[hidden] {
+  display: none;
+}
+.empty-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 52px;
+  margin-bottom: 6px;
+  border-radius: 16px;
+  background: var(--surface);
+  color: var(--text-faint);
+  box-shadow: var(--shadow);
+}
+.empty-icon[hidden] {
+  display: none;
+}
+.empty-title {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 650;
+  color: var(--text);
+}
+.empty-sub {
+  margin: 0;
+  font-size: 13px;
+}
+
+/* Subtle story → project link (story cards and news detail rail). */
+.project-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  margin-top: 10px;
+  font-size: 12px;
+  font-weight: 650;
+  color: var(--text-secondary);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 3px 10px;
+}
+
+.project-link svg {
+  color: var(--accent);
+  flex-shrink: 0;
+}
+
+.project-link:hover {
+  color: var(--accent-ink);
+  border-color: var(--accent);
+}
+
+/* ---------- Project detail ---------- */
+
+.project-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
+  gap: 24px;
+  align-items: start;
+}
+
+.fact-card {
+  padding: 24px 26px;
+}
+
+.fact-name {
+  font-size: 21px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.3;
+  margin: 0 0 4px;
+}
+
+.fact-operator {
+  font-size: 13.5px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  margin: 0 0 14px;
+}
+
+/* Operator → company directory link. */
+.operator-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.operator-link:hover {
+  color: var(--accent-ink);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* Right column of the project page: locator map (when coords exist) above
+   the news timeline. */
+.project-side {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-width: 0;
+}
+
+.minimap-panel {
+  padding: 10px 10px 8px;
+  margin-bottom: 0;
+}
+
+.minimap-caption {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin: 8px 4px 2px;
+  font-size: 12px;
+  color: var(--text-faint);
+}
+
+.minimap-caption svg {
+  color: var(--accent);
+  flex-shrink: 0;
+}
+
+.fact-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 14px;
+}
+
+.fact-rows {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+
+.fact-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+  padding: 9px 0;
+  border-top: 1px solid var(--border);
+  font-size: 13.5px;
+}
+
+.fact-row dt {
+  color: var(--text-faint);
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.fact-row dd {
+  margin: 0;
+  text-align: right;
+  font-weight: 600;
+}
+
+.cap-note-inline {
+  font-weight: 400;
+  font-size: 12px;
+  color: var(--text-faint);
+}
+
+.seed-note {
+  margin: 14px 0 0;
+  font-size: 12px;
+  font-style: italic;
+  color: var(--text-faint);
+}
+
+.source-note {
+  margin: 14px 0 0;
+  font-size: 12px;
+  color: var(--text-faint);
+}
+
+/* Grouped fact-card sections: accent label + clearly visible separator. */
+.fact-group {
+  margin-top: 24px;
+  padding-top: 6px;
+  border-top: 1px solid #d4d8dd;
+}
+
+/* The group's own hairline replaces the first row's. */
+.fact-group .fact-row:first-child {
+  border-top: none;
+}
+
+.fact-group-label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 8px 0 4px;
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--accent-ink);
+}
+
+/* Signature green accent bar, matching .panel-title / .why-label. */
+.fact-group-label::before {
+  content: "";
+  width: 3px;
+  height: 11px;
+  border-radius: 2px;
+  background: var(--accent);
+  flex-shrink: 0;
+}
+
+.fact-sub-label {
+  margin: 12px 0 0;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-faint);
+}
+
+/* Long free-text values (phases, investment, power) stack under the label. */
+.fact-row--stack {
+  flex-direction: column;
+  align-items: stretch;
+  gap: 3px;
+}
+
+.fact-row--stack dd {
+  text-align: left;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.fact-group .fact-chips {
+  margin: 8px 0 6px;
+}
+
+/* Status history: compact milestone list, oldest first. */
+.milestone-list {
+  list-style: none;
+  margin: 2px 0 0;
+  padding: 0;
+  border-top: 1px solid var(--border);
+}
+
+.milestone-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  padding: 7px 0;
+  font-size: 13px;
+}
+
+.milestone-list li + li {
+  border-top: 1px solid var(--border);
+}
+
+.milestone-list .ms-link {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.milestone-list .ms-link:hover .ms-status {
+  color: var(--accent);
+}
+
+.ms-status {
+  font-weight: 600;
+}
+
+.ms-date {
+  flex-shrink: 0;
+  font-size: 12px;
+  color: var(--text-faint);
+  white-space: nowrap;
+}
+
+/* Key dates (announced / construction start / RFS). */
+.key-dates {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 18px;
+  margin-top: 4px;
+  padding: 10px 0 2px;
+  border-top: 1px solid var(--border);
+}
+
+.key-date {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 12.5px;
+  color: var(--text-faint);
+}
+
+.key-date-label {
+  font-weight: 600;
+}
+
+.key-date-value {
+  font-weight: 600;
+  color: var(--text-secondary);
+}
+
+/* First seen / Last updated footer: quieter than the data rows. */
+.fact-meta {
+  color: var(--text-faint);
+}
+
+.fact-meta .fact-row {
+  font-size: 12.5px;
+  padding: 7px 0;
+}
+
+.fact-meta .fact-row dd {
+  font-weight: 500;
+  color: var(--text-faint);
+}
+
+.project-news,
+.co-news {
+  padding: 20px 24px;
+}
+
+.news-timeline {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.news-timeline li {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  padding: 10px 0;
+}
+
+.news-timeline li + li {
+  border-top: 1px solid var(--border);
+}
+
+.tl-date {
+  flex-shrink: 0;
+  min-width: 96px;
+  font-size: 12px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: var(--text-faint);
+}
+
+.tl-title {
+  flex: 1;
+  min-width: 0;
+  font-size: 13.5px;
+  font-weight: 600;
+  line-height: 1.45;
+}
+
+.tl-title:hover {
+  color: var(--accent);
+}
+
+.tl-source {
+  flex-shrink: 0;
+  font-size: 11.5px;
+  color: var(--text-faint);
+}
+
+.empty-state {
+  margin: 8px 0 4px;
+  font-size: 13.5px;
+  color: var(--text-faint);
+}
+
+/* ---------- Responsive: sidebar becomes a top strip ---------- */
+
+@media (max-width: 900px) {
+  .sidebar {
+    position: static;
+    width: auto;
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+    padding: 16px 20px;
+  }
+
+  .brand {
+    margin-bottom: 10px;
+    padding-left: 0;
+  }
+
+  .side-label {
+    padding: 0;
+  }
+
+  .side-nav {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .side-nav .side-label {
+    flex-basis: 100%;
+    margin: 10px 0 2px;
+  }
+
+  .main {
+    margin-left: 0;
+  }
+
+  .main-inner {
+    padding: 20px 20px 40px;
+  }
+
+  /* Detail page: right rail stacks below the article. */
+  .article-grid {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+
+  /* Project detail: timeline stacks below the fact card. */
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .article-bar {
+    top: 8px;
+  }
+}
+
+@media (max-width: 640px) {
+  .page-head {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .filter-bar {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .filter-right {
+    margin-left: 0;
+  }
+
+  .search-wrap {
+    width: 100%;
+  }
+
+  .search {
+    width: 100%;
+  }
+
+  /* Time moves above the card instead of the side rail. */
+  .story-row {
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .story-row::after {
+    display: none;
+  }
+
+  .story-rail {
+    width: auto;
+    padding-top: 0;
+    justify-content: flex-start;
+  }
+
+  .hot-right {
     flex-direction: column;
     align-items: flex-end;
-    gap: 2px;
+    gap: 0;
   }
 
   .story-card,
-  .trending {
+  .trending,
+  .about,
+  .article-card {
     padding: 16px;
   }
 }
+
+/* ---------- Saved page (/saved/) ---------- */
+
+.saved-section {
+  margin-bottom: 30px;
+}
+
+.saved-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px 16px;
+  flex-wrap: wrap;
+  margin-bottom: 14px;
+}
+
+.saved-head .panel-title {
+  margin-bottom: 0;
+}
+
+.saved-count {
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--text-faint);
+}
+
+.saved-panel {
+  padding: 10px 14px;
+}
+
+.saved-panel .co-table {
+  margin-top: 0;
+}
+
+/* Story date beside the source name on saved news cards. */
+.saved-date {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--text-faint);
+}
+
+/* Links inside empty-state guidance copy. */
+.empty-state a {
+  color: var(--accent-deep);
+}
+
+/* Action buttons under an empty state (404 page). */
+.empty-actions {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 14px;
+}
+
+.not-found {
+  padding-top: 96px;
+  padding-bottom: 96px;
+}
+
+/* ---------- Company facilities filter ---------- */
+
+.co-facilities-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px 16px;
+  flex-wrap: wrap;
+}
+
+.co-facilities-head .panel-title {
+  margin-bottom: 0;
+}
+
+.co-facilities-head .search {
+  width: 210px;
+}
+
+.co-filter-empty {
+  margin: 14px 0 4px;
+  text-align: center;
+  font-size: 13px;
+  color: var(--text-faint);
+}
+
+/* ---------- Footer links (RSS) ---------- */
+
+.site-footer .footer-links {
+  margin-top: 8px;
+}
+
+.footer-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  color: var(--text-faint);
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  color: var(--accent);
+}
+
+/* ---------- Reports (weekly / monthly digests) ---------- */
+
+.report-layout {
+  display: grid;
+  grid-template-columns: 250px minmax(0, 1fr);
+  gap: 28px;
+  align-items: start;
+}
+
+/* Left rail: Weekly/Monthly tabs + month-grouped issue list. Sticky so it
+   stays in view while the (long) issue scrolls. */
+.report-rail {
+  position: sticky;
+  top: 20px;
+}
+
+.report-tabs {
+  display: flex;
+  gap: 4px;
+  padding: 4px;
+  margin-bottom: 18px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+
+.report-tab {
+  flex: 1;
+  text-align: center;
+  font-size: 13px;
+  font-weight: 650;
+  padding: 6px 0;
+  border-radius: 8px;
+  color: var(--text-secondary);
+}
+
+.report-tab:hover {
+  color: var(--text);
+}
+
+.report-tab.is-active {
+  background: var(--accent-soft);
+  color: var(--accent-ink);
+}
+
+.report-tab.is-disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+
+.report-group {
+  margin-bottom: 4px;
+}
+
+.report-group-head {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 6px;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text-secondary);
+  cursor: pointer;
+  user-select: none;
+  border-radius: 6px;
+}
+
+.report-group-head::-webkit-details-marker {
+  display: none;
+}
+
+.report-group-head:hover {
+  color: var(--text);
+}
+
+.report-group-chev {
+  color: var(--text-faint);
+  transition: transform 0.15s ease;
+}
+
+.report-group[open] .report-group-chev {
+  transform: rotate(90deg);
+}
+
+.report-group-count {
+  margin-left: auto;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--text-faint);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0 7px;
+  line-height: 1.7;
+  font-variant-numeric: tabular-nums;
+}
+
+.report-issue-list {
+  list-style: none;
+  margin: 0 0 8px;
+  padding: 0 0 0 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.report-issue {
+  display: flex;
+  align-items: baseline;
+  gap: 9px;
+  padding: 7px 10px;
+  border-radius: 8px;
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+
+.report-issue:hover {
+  background: var(--surface);
+  color: var(--text);
+}
+
+.report-issue.is-active {
+  background: var(--accent-soft);
+  color: var(--accent-ink);
+}
+
+.report-issue-badge {
+  flex-shrink: 0;
+  min-width: 34px;
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-faint);
+}
+
+.report-issue.is-active .report-issue-badge {
+  color: var(--accent-deep);
+}
+
+.report-issue-title {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: 600;
+}
+
+.report-issue-partial {
+  color: var(--featured-text);
+  font-size: 16px;
+  line-height: 1;
+}
+
+/* Main column */
+
+.report-masthead {
+  text-align: center;
+  margin: 6px 0 24px;
+  padding-bottom: 22px;
+  border-bottom: 3px double var(--border);
+}
+
+.report-kicker {
+  margin: 0 0 10px;
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  color: var(--text-faint);
+  font-variant-numeric: tabular-nums;
+}
+
+.report-title {
+  margin: 0 0 10px;
+  font-size: 34px;
+  font-weight: 800;
+  letter-spacing: -0.025em;
+  line-height: 1.15;
+}
+
+.report-meta {
+  margin: 0;
+  font-size: 13px;
+  color: var(--text-faint);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.report-lede {
+  padding: 22px 26px;
+  margin-bottom: 16px;
+}
+
+.report-section-label {
+  margin: 0 0 8px;
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--accent-deep);
+}
+
+.report-lede-text {
+  margin: 0;
+  font-size: 16.5px;
+  line-height: 1.7;
+  color: var(--text);
+}
+
+.report-stat-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.report-stat {
+  padding: 16px 18px;
+  text-align: center;
+}
+
+.report-stat-value {
+  margin: 0;
+  font-size: 26px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  font-variant-numeric: tabular-nums;
+}
+
+.report-stat-label {
+  margin: 2px 0 0;
+  font-size: 12px;
+  color: var(--text-faint);
+}
+
+.report-themes-index {
+  padding: 18px 22px;
+  margin-bottom: 30px;
+}
+
+.report-themes-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 4px;
+}
+
+.report-themes-head .panel-title {
+  margin: 0;
+}
+
+.report-themes-count {
+  font-size: 12px;
+  color: var(--text-faint);
+  white-space: nowrap;
+}
+
+.report-theme-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.report-theme-row {
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  padding: 10px 0;
+  border-top: 1px solid var(--border);
+}
+
+.report-theme-list li:first-child .report-theme-row {
+  border-top: none;
+}
+
+.report-theme-num {
+  font-size: 12.5px;
+  font-weight: 800;
+  color: var(--accent-deep);
+  font-variant-numeric: tabular-nums;
+}
+
+.report-theme-heading {
+  flex: 1;
+  min-width: 0;
+  font-size: 14.5px;
+  font-weight: 650;
+}
+
+.report-theme-row:hover .report-theme-heading {
+  color: var(--accent-deep);
+}
+
+.report-theme-count {
+  font-size: 12px;
+  color: var(--text-faint);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.report-theme-section {
+  margin-bottom: 34px;
+  scroll-margin-top: 20px;
+}
+
+.report-theme-title {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin: 0 0 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border);
+  font-size: 19px;
+  font-weight: 800;
+  letter-spacing: -0.015em;
+}
+
+.report-theme-title .report-theme-count {
+  margin-left: auto;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.report-theme-narrative {
+  margin: 0 0 14px;
+  font-size: 14.5px;
+  line-height: 1.7;
+  color: var(--text-secondary);
+}
+
+.report-story-list {
+  padding: 6px 20px;
+}
+
+.report-story-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 12px 0;
+}
+
+.report-story-row + .report-story-row {
+  border-top: 1px solid var(--border);
+}
+
+.report-story-title {
+  min-width: 0;
+  font-size: 14.5px;
+  font-weight: 650;
+  line-height: 1.45;
+}
+
+.report-story-title a:hover {
+  color: var(--accent-deep);
+}
+
+.report-milestone-op {
+  font-size: 12.5px;
+  font-weight: 500;
+  color: var(--text-faint);
+  margin-left: 8px;
+}
+
+.report-story-meta {
+  flex-shrink: 0;
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  font-size: 12px;
+  color: var(--text-faint);
+  white-space: nowrap;
+}
+
+.report-story-source {
+  font-weight: 650;
+  color: var(--text-secondary);
+}
+
+.report-milestone-change {
+  font-weight: 500;
+  color: var(--text-secondary);
+}
+
+.report-milestone-change .badge {
+  font-weight: 650;
+}
+
+.report-story-date {
+  font-variant-numeric: tabular-nums;
+}
+
+.report-footnote {
+  margin: 0 0 8px;
+  font-size: 12px;
+  color: var(--text-faint);
+  text-align: center;
+}
+
+@media (max-width: 900px) {
+  .report-layout {
+    grid-template-columns: 1fr;
+  }
+
+  /* Rail moves above the issue; the month groups stay collapsed behind
+     their disclosures so the page doesn't start with a wall of links. */
+  .report-rail {
+    position: static;
+  }
+
+  .report-stat-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .report-title {
+    font-size: 26px;
+  }
+
+  .report-story-row {
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .report-story-meta {
+    white-space: normal;
+  }
+}
+

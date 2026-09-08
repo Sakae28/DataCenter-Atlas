@@ -1,0 +1,31 @@
+---
+import Base from '../../../layouts/Base.astro';
+import ReportView from '../../../components/ReportView.astro';
+import { loadReports } from '../../../lib/reports';
+import { loadAllStories, type NewsStory } from '../../../lib/news';
+
+export function getStaticPaths() {
+  const reports = loadReports();
+  const storiesById = new Map<string, NewsStory>(
+    loadAllStories().map(({ story }) => [story.id, story]),
+  );
+  return reports
+    .filter((r) => r.type === 'weekly')
+    .map((report) => ({
+      params: { id: report.period },
+      props: { report, reports, storiesById },
+    }));
+}
+
+interface Props {
+  report: ReturnType<typeof loadReports>[number];
+  reports: ReturnType<typeof loadReports>;
+  storiesById: Map<string, NewsStory>;
+}
+
+const { report, reports, storiesById } = Astro.props;
+---
+
+<Base title={`Weekly ${report.period}: ${report.title}`} active="reports">
+  <ReportView report={report} reports={reports} storiesById={storiesById} />
+</Base>

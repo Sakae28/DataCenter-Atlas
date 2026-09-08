@@ -1,0 +1,403 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T08:20:11Z",
+  "hot": [
+    "2026-08-24-90128d",
+    "2026-08-24-57c6dc",
+    "2026-08-24-48988f",
+    "2026-08-24-fa61fa",
+    "2026-08-24-068bd6"
+  ],
+  "stories": [
+    {
+      "id": "2026-08-24-48988f",
+      "title": "Editorial: Japan's data center boom must not create a new pollution problem",
+      "summary": "Infrastructure development to support Japan's digital society is proceeding at a rapid pace. Measures are needed to ensure it does not create a new form of pollution.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [],
+      "published_at": "2026-08-24T07:02:38Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center Japan",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04U1BtT18zdC11a1cxTndLU3NXWU9XTVRxbUhNY1prVXQ0WURCX1dJbkF4MVNOOGVUM3l3ODctanZGUzlnT00zY0IwWlBQUWhhTG1XYURDVlBJSlZTZDRBOW54UG9ZNDFUUWZDWmVaT291RHc?oc=5",
+          "type": "google-news",
+          "publisher": "毎日新聞"
+        }
+      ],
+      "content": "(Mainichi Japan)\n\n![](https://cdn.mainichi.jp/vol1/2026/08/24/20260824p2a00m0op014000p/6.jpg?1) \n\nInfrastructure development to support Japan's digital society is proceeding at a rapid pace. Measures are needed to ensure it does not create a new form of pollution.\n\nWith the spread of artificial intelligence, the construction of data centers, which process enormous volumes of information, is surging across Japan. Some estimates show that large-scale data centers have expanded about fourfold over the past seven years.\n\nWhat is distinctive is that their locations are concentrated in the Tokyo metropolitan area and west Japan's Kinki region, close to the centers of demand. The reason is to avoid delays in communication, but in some cases construction is planned in front of train stations and near residential areas.\n\nData centers require air-conditioning equipment to cool their servers. Large-capacity storage batteries, emergency generators and fuel tanks are also installed in case of power outages. As a result, opposition movements by nearby residents concerned about noise, waste heat, fire risks and other issues have become conspicuous.\n\nIn the city of Inzai, Chiba Prefecture, a lawsuit has been filed demanding cancellation of a construction plan. The town of Seika, Kyoto Prefecture, where the municipal assembly took up the issues of noise and exhaust emissions from generators, has announced a policy of, in principle, no longer seeking to attract new projects.\n\nBehind such distrust is the ambiguous legal status of data centers. In building confirmation applications submitted to local governments, their use is listed as \"office\" and other facilities. That does not match the reality of data centers that house a wide range of equipment.\n\nThese data centers are not covered by the national environmental impact assessment system, and operators have not provided sufficient information. Even basic information such as power consumption and fuel storage volume tends not to be disclosed, with security cited as the reason. This cannot dispel residents' anxieties.\n\nRules for construction should be clarified, including safety and environmental standards that take account of the risks posed by data centers.\n\nAmid this backlash, industry groups are also beginning to address the issue. They have drawn up guidelines calling on operators to engage in dialogue with local residents from the site-selection stage and to thoroughly disclose information.\n\nOverseas, regulations are advancing. In Ireland, data centers have come to account for 20% of total power consumption, and new construction in the capital was temporarily frozen. In July, the state of New York suspended for up to one year the permit process for building large-scale data centers that use massive amounts of cooling water and electricity, and indicated a policy of creating standards concerning their environmental impact and other issues.\n\nThe Japanese government intends to select candidate locations for data center clusters in various regions and accelerate development. If that is the case, it should move quickly to create a system that can win the understanding of local residents.",
+      "content_url": "https://mainichi.jp/english/articles/20260824/p2a/00m/0op/015000c"
+    },
+    {
+      "id": "2026-08-24-fa61fa",
+      "title": "LS Electric doubles US AI data center deal, strengthens Korea tech reach",
+      "summary": "",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [],
+      "published_at": "2026-08-24T06:55:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center Korea",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS3JDMG5yUUVIaUhORjFpVFl1YkFFMWhUN0JqME9BeWREU2FNR3BhZWFQTGZYa3FKM0dPZllRUlJJdjdxNzZEU3RQWUJCcVh2c1BzUGhaVlZyU3k1RklOS3J2VENSSm1JMkdySmtyUWE0LWFRQkxTZGlhWGw0dGRUNGtn0gGWAUFVX3lxTE5SM3M4QUM0MTVHMlVLb1NRYWZFUDZTeEpONVFxYnFnd2RZMmExYUJlbU9yS2hQUW9ySmpaZEFySDR2bHNvSndfS0V2Z0VqMUNPRllSU2plbzhIdnNZckF5NjVnNGFobWZlQTNTRHNJZV8yTFd0YXlVZ3FpM3daLTJ1ekFNY0N1aUlmWnVYbTlyeXNCNzdRUQ?oc=5",
+          "type": "google-news",
+          "publisher": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-068bd6",
+      "title": "UAE weighs investment in 500 MW AI data center plan in Japan",
+      "summary": "",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [],
+      "published_at": "2026-08-24T06:35:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center Japan",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQWN6amVPbWtlWGlYUkppWFowbnFoUFEyUEZrTzN5R045Z3pyUWZ2Rm0tZmlDaHRUTEI5VFhmRVpGMDE2VjQ4bDg1UzZpSm5GV0p1cEtFMGk4ak14Z25vbWswb19QVWNKdmZETXdacFRjOHRHOGpSUmtVeV8wZFNyaXppLXVIVmtNNjNOUkJ0alk3WUdheGc?oc=5",
+          "type": "google-news",
+          "publisher": "digitimes"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-57c6dc",
+      "title": "Data center investor SDC Capital mulls US$1 billion Singapore REIT IPO: Report",
+      "summary": "US digital infrastructure firm SDC Capital Partners is planning to list a real estate investment trust (REIT) in Singapore that could raise about US$ 1 billion, according to Bloomberg citing people familiar with the matter. The IPO coud list next year amid ongoing talks with advisers, the people added. Details such as size and time may change as […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 2,
+      "regions": [
+        "southeast-asia",
+        "china",
+        "japan",
+        "korea",
+        "australia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-24T02:28:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/data-center-investor-sdc-capital-mulls-us1-billion-singapore-reit-ipo-report/",
+          "type": "rss"
+        },
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX0hILUNHN2lvLUgwS3NwR245VFA5WjR0NmZBdkIwbHdHSUdPMHB4UmIta1g4Nlc5b3c4WE40OHU5bFFXQm9KQ3lkNkEwZ0JUbTBQMl9qejJ0RjlYSW8zZXc0aEVHY09aTEt0Y1FQMTlOVVF3QkprQTVybDV5Q19ldlU3TkV4STJVQXFNcWZndUFJbWczTzNweQ?oc=5",
+          "type": "google-news",
+          "publisher": "W.Media"
+        }
+      ],
+      "content": "US digital infrastructure firm SDC Capital Partners is planning to list a real estate investment trust (REIT) in Singapore that could raise about US$ 1 billion, according to Bloomberg citing people familiar with the matter. The IPO coud list next year amid ongoing talks with advisers, the people added.\n\nDetails such as size and time may change as well. SDC declined to comment.\n\n![](https://w.media/wp-content/uploads/2026/07/Issue-13-Banner-1-1024x201.jpg)\n\nLast year NTT DC REIT, backed by Japan’s NTT, raised US$ 773 million in what was Singapore’s biggest IPO in eight years. Blackstone-backed data centre operator AirTrunk is also said to be planning a REIT IPO that could raise about US$1.5 billion, as per reports.\n\nSDC develops and invests in data centres, fibre networks, wireless infrastructure and cloud services.",
+      "content_url": "https://w.media/data-center-investor-sdc-capital-mulls-us1-billion-singapore-reit-ipo-report/"
+    },
+    {
+      "id": "2026-08-24-47c079",
+      "title": "Zerra plans 1.44GW, AUD 14.5bn data centre campus in Queensland",
+      "summary": "Singapore-based data centre developer Zerra DC is behind plans for a 1.44GW data centre campus in Queensland’s Western Downs region, with the development application lodged by project company WDDP Pty Ltd. The Western Downs Digital Park is planned for a 725.5-hectare site at 1933 Dalby-Kogan Road, approximately 37km north-west of Dalby, with the development application […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "china",
+        "japan",
+        "korea",
+        "australia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-24T02:02:45Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/zerra-plans-1-44gw-aud-14-5bn-data-centre-campus-in-queensland/",
+          "type": "rss"
+        }
+      ],
+      "content": "Singapore-based data centre developer Zerra DC is behind plans for a 1.44GW data centre campus in Queensland’s Western Downs region, with the development application lodged by project company WDDP Pty Ltd. The Western Downs Digital Park is planned for a 725.5-hectare site at 1933 Dalby-Kogan Road, approximately 37km north-west of Dalby, with the development application proposing four 360MW data centre buildings delivered across four stages.\n\nThe campus would represent one of the largest single digital infrastructure investments in Australia and aims to shift AI computing workloads away from traditional hubs like Sydney and Melbourne directly to where the power is generated. Neocloud data centre operators like Iren and Firmus have already made similar moves.\n\nThe application proposes approximately 195,000 sqm of data centre floorspace, alongside power infrastructure, internal roads, parking, a temporary workforce accommodation village and other supporting facilities. The Courier-Mail has identified Zerra DC as the developer behind the project. The planning documents describe the campus as a nationally significant digital infrastructure development in an established energy and industrial area.\n\nThe site is close to the Braemar transmission substation, Braemar 1 and 2 gas-fired power stations, Darling Downs Power Station and multiple 275kV and 330kV transmission lines. A 275kV transmission line also crosses the western portion of the site.\n\n### AUD 14.5bn development\n\nThe economic assessment accompanying the application puts the construction cost at AUD 14.5bn excluding GST, or approximately AUD 16bn including GST. Construction is expected to take four to six years, according to assumptions provided to Urbis by the project team. The economic assessment estimates around 1,500 direct construction jobs, with a further 2,120 indirect jobs generated through flow-on effects during construction.\n\nOnce operational, the assessment estimates around 1,400 direct on-site jobs and 2,100 indirect jobs, with the completed campus potentially generating approximately AUD 760m in annual direct and indirect gross value added to Queensland, according to the planning documents.\n\nThe scale of the construction operation has prompted plans for a temporary workforce village capable of accommodating up to 1,500 construction workers, with recreational and other amenities.\n\n### Power at the centre of the design\n\nThe project’s location has been selected in part for its proximity to Queensland’s high-voltage electricity infrastructure. The proposed campus would have customer-owned switching stations operating at 275kV and 330kV. The Braemar transmission substation is approximately 600m south of the site and operates at both voltages, while 275kV transmission lines run close to and across the property. A 330kV line is approximately 600m south of the site.\n\nSeveral gas-fired power stations are also located close to the site, including Braemar, Braemar 2 and Darling Downs, while Daandine Power Station is approximately 1.6km away. Power would then be distributed through 33kV substations and underground reticulation to the data centre buildings, with battery-backed power conditioning systems forming part of the supporting infrastructure.\n\nThe application says the power-sourcing strategy will be phased to provide access to electricity from nearby generation alongside transmission network capacity.\n\n### Application contains 2.16GW reference\n\nThere is an apparent discrepancy within the application concerning the ultimate electrical capacity of the campus. While the principal planning, economic and transport documents describe the project as four 360MW data centre buildings providing 1.44GW of IT capacity, an HDR Infrastructure Services Report included in the application refers to an electrical design accommodating six 360MW data buildings, equivalent to 2.16GW of IT load and 3.24GVA of total facility demand.\n\nThe transport assessment explicitly describes the current proposed development as a campus with an ultimate capacity of 1,440MW, delivered in four 360MW stages.\n\nW.Media has asked Urbis to clarify whether the 2.16GW figure represents a future expansion beyond the current proposal or reflects an inconsistency between the project’s electrical and planning designs.\n\n### Low-water design\n\nThe remote location means the project cannot rely on an existing town water supply. The nearest reticulated water infrastructure is approximately 15km away, according to the planning documents. The proposed approach uses primarily air-cooled technology and closed-loop cooling systems, with rainwater harvesting, recycled water and other on-site supply options forming part of the proposed water strategy.\n\nThe infrastructure assessment estimates peak construction water demand at approximately 322kL per day, with a further 200kL/day potentially required for dust suppression and construction activities.\n\nOnce operational, water demand falls substantially. The assessment puts the operational requirement for a single completed data centre building at approximately 16.5kL/day, or 4.8ML annually, comprising 10.6kL/day of potable water and 5.9kL/day of non-potable water. Each building would additionally require approximately 26.9ML of water for the one-off filling and flushing of its closed-loop cooling system during commissioning.\n\nThe planning documents say the project is intended to avoid reliance on town water infrastructure and to reduce demand through air cooling, rainwater harvesting and treated wastewater reuse.\n\n### Large-scale construction operation\n\nPeak construction activity is expected to generate around 200 light-vehicle and 230 heavy-vehicle movements per day, including oversized deliveries associated with transformers, cranes and prefabricated components.\n\nThe completed campus is forecast to generate approximately 120 vehicle movements per day, comprising 86 light-vehicle movements, four bus movements and 30 heavy-vehicle movements. The primary access would be from Dalby-Kogan Road, with an internal road network connecting the various parts of the campus and separate arrangements for the workforce accommodation.\n\nThe site’s location also provides access to existing freight infrastructure. The transport assessment says a privately owned rail siding and unloading facility in Dalby is approximately 35km from the site and could potentially be used for selected bulk-material or plant movements, subject to operational and commercial arrangements.\n\n### Early-stage project\n\nThe application is currently before Western Downs Regional Council, which is the assessment manager, and remains subject to approval. The application seeks a Material Change of Use for Research and Technology Industry, workforce accommodation and a high-impact industry concrete batching plant, together with associated works. The proposal is subject to impact assessment under the Planning Act 2016 and the Western Downs Planning Scheme.\n\nAccording to the documents. the site is within the Kogan East Special Industry Area, which the planning documents identify as an area intended to accommodate major industrial and special-industry activities requiring separation from sensitive land uses.\n\nThe site is owned by Wambo Cattle Company, which has consented to WDDP lodging the development applications. The application describes the proposed Western Downs Digital Park as a nationally significant digital infrastructure project that would establish Australia’s largest data centre campus.",
+      "content_url": "https://w.media/zerra-plans-1-44gw-aud-14-5bn-data-centre-campus-in-queensland/"
+    },
+    {
+      "id": "2026-08-24-90128d",
+      "title": "DayOne seeks US$ 240 million loan for Hong Kong data center: Report",
+      "summary": "Singapore-headquartered data center platform DayOne Data Centers is seeking a HKD1.86 billion (US$240 million) loan to support its Hong Kong data center, according to Bloomberg citing people familiar with the matter. The DC operator is in talks with a consortium of Asian banks including Singapore’s top banks, DBS Group Holdings Ltd, Oversea-Chinese Banking Corp (OCBC) […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 3,
+      "regions": [
+        "southeast-asia",
+        "china",
+        "japan",
+        "korea",
+        "australia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-24T01:31:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/dayone-seeks-us-240-million-loan-for-hong-kong-data-center-report/",
+          "type": "rss"
+        },
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc0tJV3o3ZTN0TDJ3WjdWUVE3NEhMVnUzOHoxOTJOTWZoRi1LRUlWX3VJbmNsNm55VlBRLThHQWh5LWVlb04ySWNYN1NEQkRFM2tNUTctb1Nod05melhlNUFQVk8tZEhRRzBwaENBMWlMY09saTVwZkh0QXkzLTF0dE11dTg0Qk5ONGc?oc=5",
+          "type": "google-news",
+          "publisher": "W.Media"
+        },
+        {
+          "name": "GN: GDS / DayOne",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc0tJV3o3ZTN0TDJ3WjdWUVE3NEhMVnUzOHoxOTJOTWZoRi1LRUlWX3VJbmNsNm55VlBRLThHQWh5LWVlb04ySWNYN1NEQkRFM2tNUTctb1Nod05melhlNUFQVk8tZEhRRzBwaENBMWlMY09saTVwZkh0QXkzLTF0dE11dTg0Qk5ONGc?oc=5",
+          "type": "google-news",
+          "publisher": "W.Media"
+        }
+      ],
+      "companies": [
+        "DayOne"
+      ],
+      "content": "Singapore-headquartered data center platform DayOne Data Centers is seeking a HKD1.86 billion (US$240 million) loan to support its Hong Kong data center, according to Bloomberg citing people familiar with the matter. The DC operator is in talks with a consortium of Asian banks including Singapore’s top banks, DBS Group Holdings Ltd, Oversea-Chinese Banking Corp (OCBC) and United Overseas Bank Ltd (UOB), for the five-year facility.\n\nThe Hong Kong data center is a purpose-built data center cluster in Kwai Chung, delivering 66MW of capacity.\n\nDayOne is actively expanding its footprint across the region and beyond in the past few months. Just recently, it filed confidentially for an IPO in the US for a potential US$ 5 billion raise. The IPO could be as early as next quarter.\n\n![](https://w.media/wp-content/uploads/2026/07/Issue-13-Banner-1-1024x201.jpg)\n\nDayOne, UOB, OCBC and DBS declined to comment.\n\nLast week, it announced a __US$ 415 million green loan__ from DBS, OCBC and UOB. The sustainability-linked loan will support DayOne’s proof of concept in hydrogen-powered data center at its Singapore facility. It is also seeking to double the size of an existing loan to about US$ 7 billion, which would be the largest loan in the data center industry in Asia if successful.",
+      "content_url": "https://w.media/dayone-seeks-us-240-million-loan-for-hong-kong-data-center-report/"
+    },
+    {
+      "id": "2026-08-24-345d67",
+      "title": "Fadu expands AI data center push with next-gen SSD controllers in Korea",
+      "summary": "",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [],
+      "published_at": "2026-08-24T00:30:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center Korea",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xRFRwdkFramF0QTByamMzTUs3UlJpcG9EclhsZG1GUDgxUlh0Sk9YMldJVjhQRkRsbHVldUl1d1FhanFtRTljMjJhU2Rmd0JzaUZ2RFBPU1AzOE9QTGwzdVIyQWVPT3ZiUi1WTlZRUFVJaTJCNnJzYnl30gGOAUFVX3lxTE9xYXg2cHB2bFdmemhlelRtUG53eWhCUng4cGZzWmZKekJMdGRmZE5xRmNyOTZNZ25QcC1WZUh5ekREd2x6dzh2a2k4YTdvZl9MRDJpOTdLQVVWSXlvblRmcmpPQkNXbENoei1ieGN0T1dacnVRM28taUctZnh2REZWb2N4MnR6c0dJaGtjUHc?oc=5",
+          "type": "google-news",
+          "publisher": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-24-5b5e8a",
+      "title": "FADU Unveils AI Data Center-Focused Vision at '2026 OCP Korea Tech Day' - 아시아경제",
+      "summary": "Value context and insight. lkm@koreatimes.co.kr",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [],
+      "published_at": "2026-08-23T23:34:13Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center Korea",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc2FIZmI4OGhPXzhHci1GZC1pZEtzbVRoZ2lPTF9TRWJqamdGX1dEYy11U0pweHZiX19EbUJ2ZmlMN0M2WGMzazhfeGRKN041dlhIMnZaOGEtZmpWQzVGejFjckRBRVBGZ29RMUJnUUx6SmkwVWprZzJzZC1ITUxyXzdDb01vMkdEVS1IcHJZY3owVTZWTDNJMkRVbmpsNnBoVDBGckZOaDZVVUVUckhOWHBsNXdGMVhrZ3lHMkdhd9IBvwFBVV95cUxPc2FIZmI4OGhPXzhHci1GZC1pZEtzbVRoZ2lPTF9TRWJqamdGX1dEYy11U0pweHZiX19EbUJ2ZmlMN0M2WGMzazhfeGRKN041dlhIMnZaOGEtZmpWQzVGejFjckRBRVBGZ29RMUJnUUx6SmkwVWprZzJzZC1ITUxyXzdDb01vMkdEVS1IcHJZY3owVTZWTDNJMkRVbmpsNnBoVDBGckZOaDZVVUVUckhOWHBsNXdGMVhrZ3lHMkdhdw?oc=5",
+          "type": "google-news",
+          "publisher": "The Korea Times"
+        }
+      ],
+      "content": "### Lee Kyung-min\n\nValue context and insight. lkm@koreatimes.co.kr\n\nVisitors listen to an explanation of Fadu’s Gen. 6 technology at the 2026 OCP Korea Tech Day at COEX in Seoul, Friday. Courtesy of Fadu\n\nBy **Lee Kyung-min**\n\nFadu is betting that the next wave of artificial intelligence (AI) data centers will reshape the role of flash memory, unveiling a broader technology portfolio as it seeks to expand beyond its traditional focus on solid state drive (SSD) controllers.\n\nThe data center semiconductor company said Monday that it presented its AI data center strategy at the 2026 OCP Korea Tech Day held Friday at COEX in Seoul.\n\nThe annual conference, organized by the Open Compute Project Foundation and the OCP Korea community, drew about 1,500 attendees this year, bringing together hyperscalers, semiconductor companies, infrastructure providers and startups.\n\nDuring a keynote address, Fadu researcher Kim Seung-min discussed how the explosive growth of data in AI data centers is changing requirements for flash memory, SSDs and controllers.\n\nKim said the rising volume of data and the cost of processing it are emerging as critical challenges for AI infrastructure.\n\nAs SSDs take on increasingly specialized roles in memory, performance and capacity, next-generation controllers will need to address the faster processing of small input-output operations, consistent latency, graphics processing unit-driven I/O and line-rate security, the company said.\n\nFadu is developing next-generation Gen. 6 and Gen. 7 controllers aimed at meeting the performance, efficiency and security requirements of AI data centers.\n\nAt the conference, the company showcased its Gen. 6 solutions and demonstrated Gen. 6 SSD technology alongside other products and technologies designed for AI data centers.\n\nThe broader offering reflects their “Fadu 2.0” strategy, unveiled at FMS 2026, under which the company plans to expand from a single-controller business into a wider portfolio of data center solutions tailored to evolving AI demand.\n\nThe company also plans organizational changes alongside research and development efforts as it moves to implement the strategy.\n\nFadu said the event offered an opportunity to demonstrate the company’s capabilities alongside leading global technology and semiconductor companies.\n\n“We will strengthen our leadership in the SSD and storage markets optimized for AI data centers through the specialized portfolio unveiled today,” it said.\n\n*This article was published with the assistance of generative AI and edited by The Korea Times.*",
+      "content_url": "https://www.koreatimes.co.kr/business/companies/20260824/fadu-showcases-ai-data-center-ambitions-at-ocp-korea-tech-day"
+    },
+    {
+      "id": "2026-08-24-72b734",
+      "title": "Democrat Senator Fetterman Supports Trump Plan To Expand AI & Data Center Access, Warns Of China Threat",
+      "summary": "DPO Data Center rendering. Image courtesy: Digital Power Optimization, Inc.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [],
+      "published_at": "2026-08-23T14:05:10Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center China",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMFJOQjNMSXRTVHlWbGl3OE9FdGltZ1pieWJXSFlUZVdkQUViQ3Y0bGhZNzF3dkVuc2picU45WkZhNzNVcjJSdE1SbHN2cWtRcktBejVtbnR4bExmd2ViRkNsVzRqNmluUEo0XzEyanV0ZHNlVFNKazJKeHBqOFoxOGsxeWxONkctajN0RGREZkVIOWJjdU43Q0FTaFVPQlZFWDU5Nm9BZlJacW5iOUd0VE9VcWlhQ2xjTnkzLThrTkdtUldBVm1UQmlaSVliVThnZDlj?oc=5",
+          "type": "google-news",
+          "publisher": "WSAU"
+        }
+      ],
+      "content": "![](https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2272/files/2025/01/dpo-center.jpg) \n\nDPO Data Center rendering. Image courtesy: Digital Power Optimization, Inc.\n\nWASHINGTON, D.C, (WSAU) – One of the most prominent Democrats in the U.S. Senate has formally come out in support of President Trump’s policies on artificial intelligence and data center expansion.\n\nIn a post on X on Saturday, U.S. Sen. John Fetterman of Pennsylvania criticized local governments and states for using “political pandering” and “AI doomsdaying,” claiming that the Chinese Communist Party benefits from the US’s “overreaction” to the Trump administration’s plan to compete with China’s rapidly expanding AI infrastructure.\n\n“AI supremacy and energy dominance underpins our national security,” Fetterman wrote in his post and added, “America must lead in the development of AI; otherwise we live under China’s rules. That must not happen.”\n\nPresident Trump’s administration has spoken extensively about the importance of building safe and reliable AI infrastructure, with President Trump recently stating on Friday, “The data center subject to me is a pretty simple one. If you pick the right location — and it’s got to be — not every location’s perfect for it. But if you pick the right location, it means jobs, lots of money, and lower taxes for a community. And the data centers now are mandated by me that they build their own electricity, so they’re not taking it from the grid.”\n\nThe Chinese Communist Party has invested nearly $300 billion in building data centers across China under the “Eastern Data, Western Computing” strategy. The strategy aims to develop infrastructure in rural areas, including underwater data centers, which experts claim will reduce power consumption by over 20%. China’s effort stems from recent studies that predict AI demand in China and throughout the world will expand by more than 500 times by 2030.\n\nThis projection is on track to be a low estimate, as AI token processing has climbed by more than 300% since 2024, and major tech companies such as Google and Microsoft say that first-party agent usage has increased 6 times year over year.\n\nAs of May, the United States leads the globe in data center building, with 5,427 finished projects, accounting for 46% of the total. Meanwhile, the next highest concentrations are in Germany (529), the United Kingdom (523), China (449), and Canada (337).",
+      "content_url": "https://wsau.com/2026/08/23/democrat-senator-fetterman-supports-trump-plan-to-expand-ai-data-center-access-warns-of-china-misinformation/"
+    },
+    {
+      "id": "2026-08-24-7cd13c",
+      "title": "DayOne Buying $153M Malaysia Data Centre Site After $5B IPO Filing",
+      "summary": "DayOne Data Centers CEO Jamie Khoo (Image: DayOne)",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "china",
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-23T07:12:18Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: GDS / DayOne",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ2h3VDlBYV9Jb0dxTGwyQ1IzN3dYSDVOdWQyRGE5S1FhU0ZlR0xuUGZpOTAwdlRicHg0cnBVM0w3RjZ2alQ1Umw4Y0NVdXdQdmROYkJvV0JSTkhyaV9rcGs4WEZlWGtTa28yRzB0eFNTRjgza0hCQWJqSlJPdVpvYXpySmVpTUlfb0U3b2tyWTFjNXh4THBJOU9jSVlTZmJNa3B3SHhSUHpYZkozeHE5eC1pVGlJdUly?oc=5",
+          "type": "google-news",
+          "publisher": "Mingtiandi"
+        }
+      ],
+      "companies": [
+        "DayOne"
+      ],
+      "content": "![Jamie Khoo of DayOne](https://s49634.pcdn.co/wp-content/uploads/2026/06/Jamie-Khoo-of-DayOne.jpg)\n\nDayOne Data Centers CEO Jamie Khoo (Image: DayOne)\n\nDayOne Data Centers has agreed to buy a site near Kuala Lumpur for MYR 617.9 million ($152.8 million), extending the GDS Holdings spin-off’s expansion spree days after its reported filing for a $5 billion US initial public offering.\n\nMalaysian developer Mah Sing Group signed a conditional sale and purchase agreement Thursday with a unit of DayOne for the three-parcel freehold site measuring 78.8 acres (31.9 hectares), according to a filing with Bursa Malaysia.\n\nThe site at Mah Sing’s Southville City precinct in Selangor state is vacant and intended for data centre development, with the acquisition set to give Singapore-based DayOne a development foothold in Greater Kuala Lumpur in addition to its fast-growing Johor operations.\n\n“The proposed disposal represents a strategic monetisation of part of the group’s landbank and is consistent with Mah Sing’s strategy of unlocking land value and recycling capital to support its future growth, including opportunities in digital infrastructure and recurring-income assets,” said the builder controlled by founder and managing director Leong Hoy Kum.\n\n### Ground Game\n\nDayOne, formerly a subsidiary of Chinese giant GDS, paid a 10 percent deposit of MYR 61.8 million for the Southville City land, with the balance due progressively and final payment to be made within two months of the deal becoming unconditional. Completion is targeted for the second half of 2027, subject to planning, land and regulatory approvals.\n\n![Leong Hoy Kum of Mah Sing](https://s49634.pcdn.co/wp-content/uploads/2026/08/Leong-Hoy-Kum-of-Mah-Sing.jpg)\n\nMah Sing Group founder and managing director Leong Hoy Kum (Image: Mah Sing)\n\nThe MYR 180 per square foot price is nearly 10 times the MYR 18.60 per square foot average cost at which Mah Sing acquired the wider Southville City land in 2012, before carrying out infrastructure works. The developer expects to book a gain upon completion but said the amount would depend on costs attributable to the site.\n\nThe purchase comes after DayOne was reported this month to have confidentially filed for a US listing that could take place as soon as next quarter and value the operator at roughly $20 billion. The platform in June closed a $4.5 billion Series C round led by Coatue Management and Hillhouse Investment.\n\nThe Southville agreement follows DayOne’s move in late June to buy 65.3 acres in Johor from Paragon Globe for MYR 398.1 million. Together, the two conditional purchases cover 144 acres and carry a combined price of over MYR 1 billion, or roughly $249 million.\n\nMah Sing had unveiled the Southville data centre hub in 2024 with Bain Capital-backed Bridge Data Centres, initially earmarking 17.6 acres for a 100-megawatt facility as part of plans for up to 500MW of capacity across 150 acres.\n\nThat arrangement lapsed in May 2025, while a second proposed Bridge project comprising a 200MW facility on 35.7 acres fell through five months later. DayOne’s parcel is larger than the two former project sites combined, though Mah Sing has not said whether the land overlaps those plots or disclosed a planned capacity or construction timetable.\n\n### AI Ambitions\n\nThe acquisition extends DayOne’s Malaysian development programme beyond Johor, which the company has described as its largest Asia Pacific market. The operator has committed to cumulative investment of more than MYR 28 billion in Malaysia by the end of 2026 and was reported in March to be seeking an expansion of its $3.4 billion loan facility to as much as $7 billion to finance that growth.\n\nMah Sing said separately that parties associated with the buyer had shown interest in bringing NeoCloud services and advanced Nvidia graphics processing capabilities together with data centre development and operations at Southville. The developer did not identify those parties or disclose any customer commitments.\n\nThe comments echo DayOne’s partnership with Australia’s Firmus Technologies on a 360MW AI infrastructure campus on Indonesia’s Batam island. Firmus has an agreement with Nvidia on procurement of up to 170,000 AI accelerators for the project, with the partners targeting an opening in the first quarter of 2027.\n\nDayOne was established in 2022 as GDS International, the overseas arm of Shanghai-based GDS, before rebranding in January 2025 as its former parent reduced its ownership. The company had secured more than 1.5 gigawatts of capacity bookings across Asia Pacific and Europe as of June, while GDS retained an estimated 19.9 percent stake.\n\nThe expansion is proceeding as DayOne’s route to its next ownership stage remains unsettled. Abu Dhabi investor MGX was reported in June to be exploring a multibillion-dollar takeover of the platform, though the potential buyer was said to be unwilling to match DayOne’s targeted $20 billion IPO valuation.",
+      "content_url": "https://www.mingtiandi.com/real-estate/data-centres/dayone-buying-153m-malaysia-data-centre-site-after-5b-ipo-filing/"
+    },
+    {
+      "id": "2026-08-24-cfbecb",
+      "title": "Neighbors cheer data center over ICE facility",
+      "summary": "",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [],
+      "published_at": "2026-08-23T04:20:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center Korea",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeVdOd25sR0VIc2RuNU9tVmt4cXdlcGsxSjM5dUdnSHBJQk5oS3ZGMGpQOEx5bTF3Vm1PeU5WRW03eDlWWHFObGFQRjNodDRYYkxMT0NtbDNBUXM4MDgwVFNTV2poQ1pGVFJhd0pzbkJEWUhlTjJYal9aNTU3T3IycEVXcDNmdmh5aGkwN0luSjN6dnNKMGlVeWI0VdIBmwFBVV95cUxPeVdOd25sR0VIc2RuNU9tVmt4cXdlcGsxSjM5dUdnSHBJQk5oS3ZGMGpQOEx5bTF3Vm1PeU5WRW03eDlWWHFObGFQRjNodDRYYkxMT0NtbDNBUXM4MDgwVFNTV2poQ1pGVFJhd0pzbkJEWUhlTjJYal9aNTU3T3IycEVXcDNmdmh5aGkwN0luSjN6dnNKMGlVeWI0VQ?oc=5",
+          "type": "google-news",
+          "publisher": "The Korea Times"
+        }
+      ],
+      "content": "Latest news\nSouth Korea\nForeign Affairs\nBusiness\nEconomy\nOpinion\nLifestyle\nEntertainment\nSports\nWorld\nVideo\nPhotos\nK-universities\nLearning Korean\nLearning English\nCorrections\nOpinion\nNeighbors cheer data center over ICE facility\nNeighbors cheer data center over ICE facility\nPublished Aug 23, 2026 1:20 PM KST\nData Center\nfacility\nIce\nin NIMBY\npreferred in us\nInteresting contents\nTaboola 후원링크\nRecommended Contents For You\nTaboola 후원링크",
+      "content_url": "https://www.koreatimes.co.kr/opinion/20260823/neighbors-cheer-data-center-over-ice-facility"
+    },
+    {
+      "id": "2026-08-24-c3b0a0",
+      "title": "Fetterman rejects data center and AI ‘doomsdaying’ after Shapiro executive order",
+      "summary": "Sen. John Fetterman (D-PA), one of the more centrist Democrats on Capitol Hill, took to social media on Saturday to underscore his stance on data centers after Gov. Josh Shapiro (D-PA) signed an…",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [],
+      "published_at": "2026-08-23T03:59:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center China",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUWJQbTNjSFZjOUJRMGpWVkFFUzZfZUN3a1JnZFdjVTd6aS12bUpWNk1LN24wR3c2Ykg0US1lYXBLV0ZCUVFHc3pORVh5elRXZi1MZXN1aUdQOGdVUXlwSVJrcFJ6dHFJdFJUamRNZEpGQ1NFX24wRXZuUTJkZHJxUzZYR09NRzFnNUpuNDdVVkxRM0FCQmNIOEkwLVJlSTdWRVhjY0lId0VhVzV2RnlmWDYweGRvZEU?oc=5",
+          "type": "google-news",
+          "publisher": "Washington Examiner"
+        }
+      ],
+      "content": "Sen. John Fetterman (D-PA), one of the more centrist Democrats on Capitol Hill, took to social media on Saturday to underscore his stance on data centers after Gov. Josh Shapiro (D-PA) signed an executive order restricting their development in Pennsylvania on Tuesday.\n\n“AI supremacy and energy dominance underpins our national security,” Fetterman said on X in reaction to an article about the artificial intelligence race between the United States and the Chinese Communist Party. “China continues to fuel and benefit from our overreaction. I reject the political pandering and hyperbole over data centers or AI doomsdaying.”\n\n# Recommended Stories\n\n![Fetterman rejects data center and AI ‘doomsdaying’ after Shapiro executive order](https://www.washingtonexaminer.com/wp-content/uploads/2026/08/image-collage-so1v911u5-1787453220732-e1787453331561.jpg?1787438921=&w=150&h=150&crop=1) \n\n### Fetterman rejects data center and AI ‘doomsdaying’ after Shapiro executive order\n\n![PHOTOS: Freedom 250 puts finishing touches on Indycar Grand Prix race track](https://www.washingtonexaminer.com/wp-content/uploads/2026/08/AP26232699308736.jpg?w=150&h=150&crop=1) \n\n### PHOTOS: Freedom 250 puts finishing touches on Indycar Grand Prix race track\n\n![Nevada Democrat hones in on data center tax breaks in attempt to gain ground in governor race](https://www.washingtonexaminer.com/wp-content/uploads/2026/08/AP26161173404737.jpg?w=150&h=150&crop=1) \n\n### Nevada Democrat hones in on data center tax breaks in attempt to gain ground in governor race\n\nDebates about data center construction have intensified in recent weeks and months, prompting lawmakers to publicly clarify or alter their positions on the controversial infrastructure used to power artificial intelligence models.\n\nGov. Greg Abbott (R-TX) called for an audit of new developments on Aug. 3rd after Gov. Kathy Hochul (D-NY) signed the first one-year, statewide moratorium on data center development in July. Republican Michigan Senate candidate Mike Rogers also told *Detroit News* this week he supports a one-year data center moratorium, while Rep. Tom Tiffany (R-WI), the Republican nominee for governor in Wisconsin, has called his opponent David Crowley “Data Center David Crowley.”\n\nFetterman has consistently pushed back against such data center and broader AI doomerism throughout the summer, as lawmakers on both sides of the aisle have been forced to take a policy position on an issue that’s both new and subject to shifting public opinion. He said “China wins” in reaction to Hochul’s announcement, and “this must not happen” after Sen. Bernie Sanders (I-VT) sent a letter to CEOs of AI companies calling for a pause in further industry development.\n\n“America must lead in the development of AI, otherwise we live under China’s rules,” he said in reaction to Sanders’ policy proposal, who introduced a bill alongside Rep. Alexandria Ocasio-Cortez (D-NY) in March that would enact a data center moratorium “until Congress passes comprehensive AI legislation that ensures the safety and prosperity of the American people.”\n\n**JOSH SHAPIRO SIGNS EXECUTIVE ORDER RESTRICTING DATA CENTER DEVELOPMENT IN PENNSYLVANIA**\n\nPresident Donald Trump defended data center construction on Friday, citing local job creation and tax benefits. “If you pick the right location, and it’s going to be not every location is perfect for it, but if you pick the right location, what it means for a community is jobs and lots of money and lower taxes,” he said.\n\nTrump also touted his ratepayer protection pledge while speaking to reporters, which requires that major technology companies that build data centers will “build, bring, or buy all of the energy needed for building and operating data centers” to “protect American consumers from price hikes due to data center energy and infrastructure requirements.”",
+      "content_url": "https://www.washingtonexaminer.com/policy/infrastructure/4697477/fetterman-data-center-ai-doomsdaying-shapiro-order/"
+    },
+    {
+      "id": "2026-08-24-11b916",
+      "title": "Ignis and Acciona look to build a data center in Segovia, Spain",
+      "summary": "The joint project also includes the development of a photovoltaic plant",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-22T14:00:33Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/ignis-and-acciona-join-forces-to-build-a-data-center-in-segovia/",
+          "type": "rss"
+        }
+      ],
+      "content": "Ignis and Acciona have formalized a joint venture to develop a data center project in the province of Segovia (Castile and León), which will be accompanied by an adjacent solar power plant designed to meet its electricity needs with renewable energy.\n\nThe transaction is structured through Ignis Data Epta, a company established in 2024 that until now was wholly owned by Ignis P2X, the data center platform jointly owned by IGNIS and the private equity firm KKR.\n\nAcciona has acquired a 50 percent stake in this vehicle, while Ignis retains the remaining half of the project. The transaction also included the joint acquisition of the solar plant adjacent to the data center.\n\nThe permits for access to and connection to the power grid required for the project were previously processed through two Ignis subsidiaries, and this transaction formalizes the joint presence of both companies in the development of the complex.\n\nFor Acciona, joining the Segovia project is part of a broader expansion plan in the data center business, through which the company chaired by José Manuel Entrecanales aims to reach 2GW of capacity. Until less than two years ago, this activity was handled solely by the group’s Construction division; since then, it has been managed by a dedicated unit: Acciona Data Centers.\n\nAs a precedent for this model, the company cites the agreement recently reached with Apto for the data center campus that Apto is developing in Fuenlabrada (Madrid). That agreement provides for 82MW of grid access and connection, along with a long-term power purchase agreement linked to a 94MW solar power plant developed and built by IGNIS.\n\n*This piece was automatically translated from DCD's Spanish site and edited by a member of DCD staff.*",
+      "content_url": "https://www.datacenterdynamics.com/en/news/ignis-and-acciona-join-forces-to-build-a-data-center-in-segovia/"
+    },
+    {
+      "id": "2026-08-24-2c75b8",
+      "title": "Terronova starts work on 300MW data center campus outside São Paulo, Brazil",
+      "summary": "Site could eventually exceed 1GW",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-08-22T11:00:30Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/terranova-boosts-technology-infrastructure-with-the-construction-of-one-of-latin-americas-first-ai-data-centers/",
+          "type": "rss"
+        }
+      ],
+      "content": "Latin American data center firm Terronova has started work on a new data center campus outside São Paulo, Brazil.\n\nThe company this week announced work had started on the first phase of Campus Campinas.\n\nThe site will feature a substation with an initial capacity of 300MW, scheduled to come online in December 2027 and with the potential to expand up to 1GW.\n\nThe investment in the construction of the campus will exceed $500 million (2.6 billion reais) in the initial phase, with additional funding throughout the implementation stages scheduled through 2029.\n\nThe project will utilize liquid cooling technology with a closed-loop water system to reduce water use.\n\nMauricio Giusti, managing director of Actis and interim CEO of Terranova, said that the start of construction represents a historic step for the company and for Latin America’s digital infrastructure. He added that the complex was designed specifically for the AI era, with capacity geared toward global hyperscale operations and innovative sustainability technologies.\n\nThe project will occupy a site of approximately 944,000 sqm, of which about 115,000 sqm will be allocated to built-up area and the rest preserved as green spaces or donated to the municipality, in addition to urban infrastructure such as public roads and water and wastewater treatment plants.\n\nInvestment firm Actis launched Terranova late last year, with plans to invest $1.5 billion over the next three years, developing a portfolio of campuses in Brazil, Mexico, and Chile, with additional markets under evaluation.\n\nNews that Actis was setting up a new Latam operator focused on hyperscale developments surfaced in September.\n\nThe company has reportedly secured land and power supply in strategic locations, with the goal of scaling up to 1GW of future capacity in the region.\n\n*This piece was automatically translated from DCD's Brazilian site and edited by a member of DCD staff.*",
+      "content_url": "https://www.datacenterdynamics.com/en/news/terranova-boosts-technology-infrastructure-with-the-construction-of-one-of-latin-americas-first-ai-data-centers/"
+    },
+    {
+      "id": "2026-08-24-b74f58",
+      "title": "DayOne Secures $415m Green Loan For Singapore Data Centre",
+      "summary": "Singapore-headquartered DayOne Data Centers has secured a four-year S$530 million ($415 million) green loan from DBS, OCBC, and UOB to finance its first data centre in Singapore, as demand for…",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "china",
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-08-22T10:47:08Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: GDS / DayOne",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLUJLMUdVOTFVbzFoMEFrRUxaRXgtbXl6anZnY09lMU9wbGVnUEQ3T3J2X3VhNkJtb3R4bTBWYzczbzVqUU40ZW9EUnBmaTVlVW8tMUJBb2Y4UmFMcWJlcDN3ekpfZll1WG5aR2Q2QU11eUp2NnBJZ0JyQWFmNFNySkRWMGpGVVhaTDFrVll0X2JzaGNQcDgxa21NTm1SUkwwVTVpUHJvQTU?oc=5",
+          "type": "google-news",
+          "publisher": "Crowdfund Insider"
+        }
+      ],
+      "companies": [
+        "DayOne"
+      ],
+      "content": "Singapore-headquartered **DayOne Data Centers** has secured a four-year S$530 million ($415 million) green loan from DBS, OCBC, and UOB to finance its first data centre in Singapore, as demand for digital infrastructure grows alongside artificial intelligence and cloud computing.\n\nDBS said the 20-megawatt facility could become Singapore’s first data centre to generate power on site using hydrogen fuel cells.\n\nLocated in western Singapore, the facility broke ground in July 2025 and is expected to begin operations in the first quarter of 2027.\n\nThe financing was structured under the Green Loan Principles, an international framework for lending that supports environmentally sustainable projects.\n\nDBS, OCBC, and UOB acted as joint mandated lead arrangers, bookrunners, and green loan coordinators. DBS also serves as facility and security agent.\n\nDayOne plans to incorporate on-site solid oxide fuel cell power generation as a proof of concept for hydrogen-based energy, which the company and lenders said would be a first for Singapore’s data centre industry.\n\nThe facility will also incorporate vertical building-integrated solar panels and use a combination of air and liquid cooling technologies aimed at improving energy efficiency.\n\n“Demand for digital infrastructure continues to accelerate, driven by AI and cloud computing, both of which are highly energy-intensive,” said **Han Kwee Juan**, group head of institutional banking at DBS.\n\nHan added that financing more energy-efficient facilities would be important as the digital economy expands.\n\nElaine Lam, head of global corporate banking at OCBC, said innovative energy solutions would play an increasingly important role in supporting the sustainable growth of digital infrastructure.\n\nThe financing comes as data centre operators seek to expand capacity while addressing the sector’s growing electricity requirements, particularly as AI workloads require increasingly power-intensive computing infrastructure.\n\nFounded in 2022, DayOne operates data centres across Asia and Europe. The company has a presence in Singapore, Malaysia, Indonesia, Thailand, Japan, Hong Kong, Finland, and Spain.\n\nIn June, DayOne announced the final closing of its Series C equity financing with total gross proceeds of $4.5 billion as the company moved to accelerate its expansion across Asia Pacific and Europe.\n\nThe Series C round was led by existing investors Coatue and Hillhouse, now DayOne’s two largest shareholders, with participation from new investors including the Indonesia Investment Authority and Achi Capital Partners.\n\nSince its inception in 2022, DayOne has secured more than 1.5 gigawatts of total bookings for capacity across Asia Pacific and Europe, making it one of the largest and fastest-growing international digital infrastructure platforms, according to the company.\n\nIts Singapore project marks an expansion into its home market while testing alternative power technologies that could help reduce the environmental impact of rapidly growing data centre infrastructure.",
+      "content_url": "https://www.crowdfundinsider.com/2026/08/300163-dayone-secures-415m-green-loan-for-singapore-data-centre/"
+    }
+  ]
+}

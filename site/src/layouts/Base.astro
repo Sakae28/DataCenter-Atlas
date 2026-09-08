@@ -1,12 +1,21 @@
 ---
 import '../styles/global.css';
+import Icon from '../components/Icon.astro';
 
 interface Props {
   title: string;
   description?: string;
+  /** Which sidebar nav item is highlighted */
+  active?: 'latest' | 'reports' | 'pipeline' | 'companies' | 'saved' | 'about';
 }
 
-const { title, description = 'Daily data center intelligence across Asia-Pacific' } = Astro.props;
+const {
+  title,
+  description = 'Daily data center intelligence across Asia-Pacific',
+  active = 'latest',
+} = Astro.props;
+
+const base = import.meta.env.BASE_URL;
 ---
 
 <!doctype html>
@@ -15,33 +24,174 @@ const { title, description = 'Daily data center intelligence across Asia-Pacific
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
-    <title>{title} · APAC DC Wire</title>
+    <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
+    <title>{title} · DataCenter Atlas</title>
   </head>
   <body>
-    <header class="site-header">
-      <div class="container">
-        <div class="site-header-row">
-          <div>
-            <a class="site-name" href="/">APAC DC Wire</a>
-            <p class="site-tagline">Daily data center intelligence across Asia-Pacific</p>
-          </div>
-          <nav class="site-nav">
-            <a href="/">Latest</a>
-            <a href="/about">About</a>
-          </nav>
+    <aside class="sidebar">
+      <a class="brand" href={base}>
+        <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true">
+          <defs>
+            <linearGradient id="brand-grad" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0" stop-color="#11a876" />
+              <stop offset="0.55" stop-color="#0b8a5f" />
+              <stop offset="1" stop-color="#087450" />
+            </linearGradient>
+          </defs>
+          <rect x="1" y="1" width="30" height="30" rx="8" fill="url(#brand-grad)" />
+          <rect x="8" y="7.6" width="16" height="3.6" rx="1.8" fill="#ffffff" />
+          <rect x="8" y="14.2" width="16" height="3.6" rx="1.8" fill="#ffffff" opacity="0.82" />
+          <rect x="8" y="20.8" width="16" height="3.6" rx="1.8" fill="#ffffff" opacity="0.64" />
+          <circle cx="21.2" cy="9.4" r="1.1" fill="#0b6e4e" />
+          <circle cx="21.2" cy="16" r="1.1" fill="#0b6e4e" />
+          <circle cx="21.2" cy="22.6" r="1.1" fill="#0b6e4e" />
+        </svg>
+        <span class="brand-word">DataCenter <span class="brand-accent">Atlas</span></span>
+      </a>
+      <nav class="side-nav" aria-label="Site">
+        <p class="side-label">Digest</p>
+        <a class="side-item" class:list={[{ 'is-active': active === 'latest' }]} href={base}>
+          <Icon name="bolt" size={15} class="side-icon" />
+          Latest
+        </a>
+        <a class="side-item" class:list={[{ 'is-active': active === 'reports' }]} href={`${base}/reports/`}>
+          <Icon name="newspaper" size={15} class="side-icon" />
+          Reports
+        </a>
+        <a class="side-item" class:list={[{ 'is-active': active === 'pipeline' }]} href={`${base}/pipeline/`}>
+          <Icon name="server" size={15} class="side-icon" />
+          Pipeline
+        </a>
+        <a class="side-item" class:list={[{ 'is-active': active === 'companies' }]} href={`${base}/companies/`}>
+          <Icon name="building" size={15} class="side-icon" />
+          Companies
+        </a>
+        <a class="side-item" class:list={[{ 'is-active': active === 'saved' }]} href={`${base}/saved/`}>
+          <Icon name="bookmark" size={15} class="side-icon" />
+          Saved
+        </a>
+        <a class="side-item" class:list={[{ 'is-active': active === 'about' }]} href={`${base}/about/`}>
+          <Icon name="info" size={15} class="side-icon" />
+          About
+        </a>
+      </nav>
+    </aside>
+
+    <div class="main">
+      <main class="main-inner">
+        <slot />
+      </main>
+      <footer class="site-footer">
+        <div class="main-inner">
+          <p>
+            DataCenter Atlas is an automated news digest. Scores and summaries are AI-generated
+            heuristics, not editorial judgment. All sources are credited and linked.
+          </p>
+          <p class="footer-links">
+            <a href={`${base}/rss.xml`} title="Subscribe to the RSS feed">
+              <Icon name="rss" size={13} /> RSS feed
+            </a>
+          </p>
         </div>
-      </div>
-    </header>
-    <main class="container">
-      <slot />
-    </main>
-    <footer class="site-footer">
-      <div class="container">
-        <p>
-          APAC DC Wire is an automated news digest. Scores and summaries are AI-generated
-          heuristics, not editorial judgment. All sources are credited and linked.
-        </p>
-      </div>
-    </footer>
+      </footer>
+    </div>
+
+    <script>
+      // Progressive enhancement: rewrite server-rendered UTC times to the
+      // visitor's local timezone. Without JS the UTC fallback text stays.
+      const MONTHS = [
+        'January', 'February', 'March', 'April', 'May', 'June',
+        'July', 'August', 'September', 'October', 'November', 'December',
+      ];
+      const pad = (n: number) => String(n).padStart(2, '0');
+
+      function formatLocal(iso: string, kind: string): string | null {
+        const t = Date.parse(iso);
+        if (Number.isNaN(t)) return null;
+        if (kind === 'relative') {
+          const diff = Math.max(0, Date.now() - t);
+          const minutes = Math.floor(diff / 60000);
+          if (minutes < 1) return 'just now';
+          if (minutes < 60) return `${minutes} minute${minutes === 1 ? '' : 's'} ago`;
+          const hours = Math.floor(minutes / 60);
+          if (hours < 24) return `${hours} hour${hours === 1 ? '' : 's'} ago`;
+          const days = Math.floor(hours / 24);
+          if (days < 30) return `${days} day${days === 1 ? '' : 's'} ago`;
+          const months = Math.floor(days / 30);
+          if (months < 12) return `${months} month${months === 1 ? '' : 's'} ago`;
+          const years = Math.floor(months / 12);
+          return `${years} year${years === 1 ? '' : 's'} ago`;
+        }
+        const d = new Date(t);
+        const hhmm = `${pad(d.getHours())}:${pad(d.getMinutes())}`;
+        if (kind === 'datetime') {
+          return `${MONTHS[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()} · ${hhmm}`;
+        }
+        return hhmm;
+      }
+
+      document.querySelectorAll<HTMLElement>('.js-time').forEach((el) => {
+        const iso = el.dataset.ts;
+        if (!iso) return;
+        const text = formatLocal(iso, el.dataset.timeFormat ?? 'time');
+        if (text !== null) el.textContent = text;
+      });
+
+      /* ---------- Favorites (news + projects), localStorage-backed ---------
+         Store shape: { news: string[], projects: string[] }. Pages react to
+         the "dcfav:change" CustomEvent (e.g. re-run a "Saved only" filter). */
+      interface FavStore { news: string[]; projects: string[] }
+      const FAV_KEY = 'dc-favs';
+
+      function loadFavs(): FavStore {
+        try {
+          const raw = JSON.parse(localStorage.getItem(FAV_KEY) ?? '{}');
+          return {
+            news: Array.isArray(raw.news) ? raw.news : [],
+            projects: Array.isArray(raw.projects) ? raw.projects : [],
+          };
+        } catch {
+          return { news: [], projects: [] };
+        }
+      }
+
+      function saveFavs(store: FavStore) {
+        try {
+          localStorage.setItem(FAV_KEY, JSON.stringify(store));
+        } catch { /* private mode */ }
+      }
+
+      function syncFavButtons(store: FavStore) {
+        document.querySelectorAll<HTMLElement>('.fav-btn').forEach((btn) => {
+          const type = (btn.dataset.favType ?? 'news') as keyof FavStore;
+          const on = store[type]?.includes(btn.dataset.favId ?? '') ?? false;
+          btn.classList.toggle('is-fav', on);
+          btn.setAttribute('aria-pressed', String(on));
+          btn.title = on ? 'Saved — click to remove' : 'Save';
+        });
+      }
+
+      let favStore = loadFavs();
+      syncFavButtons(favStore);
+
+      document.addEventListener('click', (e) => {
+        const btn = (e.target as HTMLElement).closest?.('.fav-btn') as HTMLElement | null;
+        if (!btn) return;
+        e.preventDefault(); // never follow a surrounding stretched link
+        e.stopPropagation();
+        const type = (btn.dataset.favType ?? 'news') as keyof FavStore;
+        const id = btn.dataset.favId ?? '';
+        if (!id) return;
+        const list = favStore[type] ?? (favStore[type] = []);
+        const i = list.indexOf(id);
+        if (i >= 0) list.splice(i, 1);
+        else list.push(id);
+        saveFavs(favStore);
+        syncFavButtons(favStore);
+        document.dispatchEvent(new CustomEvent('dcfav:change', {
+          detail: { type, id, saved: i < 0 },
+        }));
+      });
+    </script>
   </body>
 </html>

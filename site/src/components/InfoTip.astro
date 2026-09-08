@@ -1,0 +1,19 @@
+---
+/**
+ * Field-label help icon with a hover/focus tooltip bubble.
+ * Usage: <dt>Capacity <InfoTip tip="..." /></dt>
+ */
+import Icon from './Icon.astro';
+
+interface Props {
+  /** Tooltip text shown on hover/focus. */
+  tip: string;
+}
+
+const { tip } = Astro.props;
+---
+
+<span class="info-tip" tabindex="0" role="note" aria-label={tip}>
+  <Icon name="info" size={11} strokeWidth={2} />
+  <span class="info-tip-bubble" role="tooltip">{tip}</span>
+</span>

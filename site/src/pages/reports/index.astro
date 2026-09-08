@@ -1,0 +1,39 @@
+---
+/**
+ * /reports/ — renders the newest report issue (weekly or monthly, whichever
+ * is more recent). Empty state when the pipeline has produced none yet.
+ */
+import Base from '../../layouts/Base.astro';
+import Icon from '../../components/Icon.astro';
+import ReportView from '../../components/ReportView.astro';
+import { loadReports } from '../../lib/reports';
+import { loadAllStories, type NewsStory } from '../../lib/news';
+
+const reports = loadReports();
+const latest = reports[0] ?? null;
+const storiesById = new Map<string, NewsStory>(
+  loadAllStories().map(({ story }) => [story.id, story]),
+);
+---
+
+<Base title="Reports" active="reports">
+  {latest ? (
+    <ReportView report={latest} reports={reports} storiesById={storiesById} />
+  ) : (
+    <>
+      <div class="page-head">
+        <div>
+          <h1 class="page-title">Reports</h1>
+          <p class="page-sub">Weekly and monthly digests compiled from the daily news archive</p>
+        </div>
+      </div>
+      <div class="empty-state">
+        <span class="empty-icon"><Icon name="newspaper" size={22} /></span>
+        <p class="empty-title">No reports yet</p>
+        <p class="empty-sub">
+          Weekly reports are compiled every Monday, monthly reports on the first of the month.
+        </p>
+      </div>
+    </>
+  )}
+</Base>

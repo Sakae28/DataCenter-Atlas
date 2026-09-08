@@ -1,0 +1,20 @@
+---
+import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+
+const base = import.meta.env.BASE_URL;
+---
+
+<Base title="Page not found" active="latest">
+  {/* GitHub Pages serves this as 404.html for any unknown path. */}
+  <div class="empty-state not-found">
+    <span class="empty-icon"><Icon name="map" size={26} /></span>
+    <p class="empty-title">This page drifted off the map</p>
+    <p class="empty-sub">The page you're looking for doesn't exist or may have been moved.</p>
+    <div class="empty-actions">
+      <a class="btn btn-primary" href={base}>Home</a>
+      <a class="btn" href={`${base}/pipeline/`}>Pipeline</a>
+      <a class="btn" href={`${base}/companies/`}>Companies</a>
+    </div>
+  </div>
+</Base>

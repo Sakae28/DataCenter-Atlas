@@ -1,0 +1,1313 @@
+{
+  "date": "2026-08-25",
+  "source": "datacentermap",
+  "listings": 1827,
+  "created": [],
+  "changed": [
+    {
+      "id": "1-net-east-singapore",
+      "name": "1-Net East Singapore",
+      "dcm_id": 4911,
+      "fields": {
+        "description": [
+          "1-Net manages carrier-neutral Internet Data Centers, along with providing a comprehensive range of integrated services including network connectivity, managed services, work area recovery suite, cloud and media delivery services. 1-Net’s Data Center Corridor initiative interconnects key data centers in Singapore to provide diverse connectivity options for enterprises and service providers to facilitate quick deployment.",
+          "1-Net is fast transforming itself into Asia's Data Center of Choice and is expanding it data center footprints in Asia and Hong Kong. 1-Net manages carrier-neutral Internet Data Centers, along with providing a comprehensive range of integrated services including network connectivity, managed services, work area recovery suite, cloud and media delivery services. 1-Net East Data Center is a multi-tenant data center located in the east of Singapore, providing data center services to companies from various industries. With Singapore Internet Exchange (SGIX) and other carriers peering in 1-Net, our"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "accelerated-infrastructure-capital-aic-ho-chi-minh-city-sgi-hcm-campus",
+      "name": "SGI-HCM Campus",
+      "dcm_id": 15920,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ],
+        "capacity_mw": [
+          null,
+          200
+        ],
+        "rfs": [
+          null,
+          "2028"
+        ],
+        "description": [
+          null,
+          "The SGI-HCM Campus, located in Tan Phu Trung Industrial Park, Ho Chi Minh City, Vietnam, is a planned 200MW AI data center complex with the capacity to operate 100,000 GPUs. This large-scale project is a collaboration between Accelerated Infrastructure Capital (AIC), Kinh Bac City Development Holding Corporation (KBC), and Vietnam Joint Stock Commercial Bank for Industry and Trade (VietinBank). KBC, with expertise in industrial park development, aims to upgrade its industrial value chain by integrating digital and high-tech infrastructure. AIC brings international experience in data center dev"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "adelaide-arxis-pooraka",
+      "name": "Arxis Pooraka",
+      "dcm_id": 6223,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ],
+        "year_built": [
+          null,
+          "2010"
+        ],
+        "description": [
+          null,
+          "Evolve are a full-service datacentre located in Pooraka South Australia, with 8 datacentres around Australia. Our services include Racks (full and part), VPS, Dedicated Servers, Colocation and many other services tailored around your business. Who Are Evolve? With data centre, dedicated server, virtual server, colocation, security, network and managed hosting services, Evolve can accommodate all levels of client requirements, and is gaining rapid pace as a premium Cloud Hosting Solutions provider. What does Evolve Do? Evolve provides hassle-free products and services and has built reputation o"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "adelaide-colocity-dc3",
+      "name": "Colocity DC3",
+      "dcm_id": 7741,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "adelaide-comwire-data-center",
+      "name": "Comwire Data Center",
+      "dcm_id": 2362,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "adelaide-data-centre-5g-networks",
+      "name": "Adelaide Data Centre 5G Networks",
+      "dcm_id": 8807,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "adelaide-efex-data-center",
+      "name": "efex Data Center",
+      "dcm_id": 3332,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "adelaide-iren-bundey",
+      "name": "IREN Bundey",
+      "dcm_id": 17877,
+      "fields": {
+        "category": [
+          null,
+          "Neocloud"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "adelaide-telstra-waymouth-2",
+      "name": "Telstra Waymouth",
+      "dcm_id": 10083,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "adw-johnson-newcastle-au-kurri-kurri-data-centre",
+      "name": "Kurri Kurri Data Centre",
+      "dcm_id": 18176,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "aims-bangkok-2",
+      "name": "AIMS Bangkok",
+      "dcm_id": 8780,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "aims-cyberjaya",
+      "name": "AIMS Cyberjaya",
+      "dcm_id": 10956,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "aims-cyberjaya-cj1",
+      "name": "AIMS Cyberjaya CJ1",
+      "dcm_id": 10957,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "aims-kuala-lumpur",
+      "name": "AIMS Kuala Lumpur",
+      "dcm_id": 1666,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "aims-kuala-lumpur-2",
+      "name": "AIMS Kuala Lumpur 2",
+      "dcm_id": 10958,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "alor-setar-area-group-delapan-sbez-campus",
+      "name": "Area Group - Delapan SBEZ Campus",
+      "dcm_id": 12736,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "angeles-city-converge-ict-angeles",
+      "name": "Converge ICT Angeles",
+      "dcm_id": 15573,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "angeles-city-dito-clark-super-core-data-center",
+      "name": "DITO Clark Super Core Data Center",
+      "dcm_id": 16681,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "arxis-adelaide",
+      "name": "Arxis Adelaide",
+      "dcm_id": 6224,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "aslan-jakarta-data-centre",
+      "name": "Aslan Jakarta Data Centre",
+      "dcm_id": 14693,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "australian-data-centres-canberra-adc-fyshwick",
+      "name": "ADC Fyshwick",
+      "dcm_id": 16094,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "australian-data-centres-canberra-adc-mitchell",
+      "name": "ADC Mitchell",
+      "dcm_id": 10119,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "aws-jakarta-amazon-kutanegara",
+      "name": "Amazon: Kutanegara",
+      "dcm_id": 10737,
+      "fields": {
+        "category": [
+          "Hyperscale",
+          "Hyperscaler"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "aws-jakarta-amazon-margamulya",
+      "name": "Amazon: Margamulya",
+      "dcm_id": 10739,
+      "fields": {
+        "category": [
+          "Hyperscale",
+          "Hyperscaler"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "aws-jakarta-amazon-sukamahi",
+      "name": "Amazon: Sukamahi",
+      "dcm_id": 10738,
+      "fields": {
+        "category": [
+          "Hyperscale",
+          "Hyperscaler"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "balikpapan-neucentrix-batuampar",
+      "name": "neuCentrIX Batuampar",
+      "dcm_id": 9785,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "balikpapan-neucentrix-sepaku",
+      "name": "neuCentrIX Sepaku",
+      "dcm_id": 9786,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "ballarat-eureka-dc-alfredton",
+      "name": "Eureka DC Alfredton",
+      "dcm_id": 13334,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "ballarat-lateral-plains-data-centre",
+      "name": "Lateral Plains Data Centre",
+      "dcm_id": 13373,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "ballarat-x2m-connect-data-centre",
+      "name": "X2M Connect Data Centre",
+      "dcm_id": 18419,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "ban-chang-stp-planet-dc-co-ltd",
+      "name": "STP Planet DC Co., Ltd.",
+      "dcm_id": 12344,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "banda-aceh-neucentrix-aceh",
+      "name": "neuCentrIX Aceh",
+      "dcm_id": 9778,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "banda-aceh-sm-aceh-sme11",
+      "name": "SM+ Aceh SME11",
+      "dcm_id": 15302,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bandar-lampung-neucentrix-tanjung-karang",
+      "name": "neuCentrIX Tanjung Karang",
+      "dcm_id": 9780,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bandar-lampung-sm-lampung-sme15",
+      "name": "SM+ Lampung SME15",
+      "dcm_id": 15306,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bandung-bdx-cgk4",
+      "name": "BDx CGK4",
+      "dcm_id": 9760,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-csl-cyberworld-data-center",
+      "name": "CSL - CyberWorld Data Center",
+      "dcm_id": 5758,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-csl-the-cloud-data-center",
+      "name": "CSL - The Cloud Data Center",
+      "dcm_id": 5757,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-damac-digital-bkk01",
+      "name": "DAMAC Digital BKK01",
+      "dcm_id": 17570,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-damac-digital-bkk02",
+      "name": "DAMAC Digital BKK02",
+      "dcm_id": 11729,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-damac-digital-bkk03",
+      "name": "DAMAC Digital BKK03",
+      "dcm_id": 15935,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-digital-edge-chonburi",
+      "name": "Digital Edge - Chonburi",
+      "dcm_id": 15433,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-equinix-bk1",
+      "name": "Equinix BK1",
+      "dcm_id": 15734,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-freyr-samut-prakan",
+      "name": "Freyr: Samut Prakan",
+      "dcm_id": 18714,
+      "fields": {
+        "category": [
+          "Enterprise",
+          "Neocloud"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-gsa-data-center-01-2",
+      "name": "GSA Data Center 01",
+      "dcm_id": 16476,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-jastel-idc",
+      "name": "JasTel IDC",
+      "dcm_id": 5034,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-kirz-data-center-service",
+      "name": "KIRZ Data Center Service",
+      "dcm_id": 4124,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-nipa-data-center",
+      "name": "NIPA Data Center",
+      "dcm_id": 12251,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-nt-bangrak",
+      "name": "NT Bangrak",
+      "dcm_id": 2505,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-nt-nonthaburi-1",
+      "name": "NT Nonthaburi 1",
+      "dcm_id": 14824,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-nt-nonthaburi-2",
+      "name": "NT Nonthaburi 2",
+      "dcm_id": 14825,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-pacific-idc",
+      "name": "Pacific-IDC",
+      "dcm_id": 8966,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-pacific-internet-thailand",
+      "name": "Pacific Internet Thailand",
+      "dcm_id": 6498,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-proen-bang-rak-dc",
+      "name": "PROEN Bang Rak DC",
+      "dcm_id": 4274,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-proen-ott-dc",
+      "name": "PROEN OTT DC",
+      "dcm_id": 11148,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-servenet-cat-idc-fl14",
+      "name": "ServeNET CAT IDC FL14",
+      "dcm_id": 2766,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-tcct-bangna-data-center-bndc",
+      "name": "TCCT Bangna Data Center (BNDC)",
+      "dcm_id": 2545,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-tcct-empire-tower-data-center",
+      "name": "TCCT Empire Tower Data Center",
+      "dcm_id": 2544,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-true-idc-east-bangna",
+      "name": "True IDC - East Bangna",
+      "dcm_id": 7362,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-true-idc-midtown-pattanakarn-2",
+      "name": "True IDC - Midtown Pattanakarn",
+      "dcm_id": 7361,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bangkok-true-idc-midtown-ratchada-2",
+      "name": "True IDC - Midtown Ratchada",
+      "dcm_id": 3801,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "basis-bay-cyberjaya-dc-1",
+      "name": "Basis Bay Cyberjaya DC.1",
+      "dcm_id": 470,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "basis-bay-cyberjaya-dc-2",
+      "name": "Basis Bay Cyberjaya DC.2",
+      "dcm_id": 9911,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "batam-bw-digital-ndp1",
+      "name": "BW Digital NDP1",
+      "dcm_id": 15678,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "batam-dayone-kabil-tech-park",
+      "name": "DayOne Kabil Tech Park",
+      "dcm_id": 18226,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "batam-dayone-nongsa-digital-park-ndp1",
+      "name": "DayOne Nongsa Digital Park NDP1",
+      "dcm_id": 18412,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "batam-dayone-nongsa-digital-park-ndp2",
+      "name": "DayOne Nongsa Digital Park NDP2",
+      "dcm_id": 18413,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "batam-dayone-nongsa-digital-park-ndp3",
+      "name": "DayOne Nongsa Digital Park NDP3",
+      "dcm_id": 18414,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "batam-matrix-data-center-bm1",
+      "name": "Matrix Data Center BM1",
+      "dcm_id": 11457,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "batam-racks-central-rcbi",
+      "name": "Racks Central RCBI",
+      "dcm_id": 15781,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "batangas-yco-malvar-one",
+      "name": "YCO Malvar One",
+      "dcm_id": 14319,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "beijing-haoyang-cloud-data-technology-co-ltd-rayong-haoyang-rayong",
+      "name": "Haoyang Rayong",
+      "dcm_id": 14705,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bekasi-damac-digital-jkt02",
+      "name": "DAMAC Digital JKT02",
+      "dcm_id": 15700,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bekasi-mettadc-id01",
+      "name": "MettaDC ID01",
+      "dcm_id": 8950,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bekasi-neutradc-hdc-cikarang",
+      "name": "NeutraDC HDC Cikarang",
+      "dcm_id": 11229,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bekasi-princeton-digital-jc3",
+      "name": "Princeton Digital JC3",
+      "dcm_id": 15969,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bekasi-tera-dc-cgk01",
+      "name": "Tera DC CGK01",
+      "dcm_id": 17541,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bendigo-telco-data-centre",
+      "name": "Bendigo Telco Data Centre",
+      "dcm_id": 13279,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bi-an-laguna-metro-manila-digital-edge-narra1",
+      "name": "Digital Edge NARRA1",
+      "dcm_id": 10882,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bitera-data-center-jakarta-indonesia",
+      "name": "Bitera Data Center: Jakarta, Indonesia",
+      "dcm_id": 10947,
+      "fields": {
+        "category": [
+          "Crypto",
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "biznet-jakarta-midplaza-2",
+      "name": "Biznet Jakarta MidPlaza",
+      "dcm_id": 450,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bogor-area31-data-center",
+      "name": "AREA31 Data Center",
+      "dcm_id": 12250,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bogor-neutradc-sentul",
+      "name": "NeutraDC Sentul",
+      "dcm_id": 4895,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bonuan-gueset-bitstop-network-dagupan",
+      "name": "Bitstop Network Dagupan",
+      "dcm_id": 4851,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "brennan-brisbane",
+      "name": "Brennan Brisbane",
+      "dcm_id": 1741,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bridge-data-centres-bangkok-bdc-bkk01",
+      "name": "BDC BKK01",
+      "dcm_id": 10325,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bridge-data-centres-chonburi-bdc-qhi01",
+      "name": "BDC QHI01",
+      "dcm_id": 15097,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bridge-data-centres-cyberjaya-bdc-my02",
+      "name": "BDC MY02",
+      "dcm_id": 10321,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    },
+    {
+      "id": "bridge-data-centres-kuala-lumpur-mah-sing-dc-hub-southville-city",
+      "name": "Mah Sing DC Hub @ Southville City",
+      "dcm_id": 12777,
+      "fields": {
+        "category": [
+          null,
+          "Colocation"
+        ]
+      },
+      "via": "detail_refresh"
+    }
+  ],
+  "unchanged_count": 1814,
+  "linked_count": 4,
+  "deferred_count": 0,
+  "detail_refresh": {
+    "checked": 150,
+    "changed": 89,
+    "changed_ids": [
+      "1-net-east-singapore",
+      "accelerated-infrastructure-capital-aic-ho-chi-minh-city-sgi-hcm-campus",
+      "adelaide-arxis-pooraka",
+      "adelaide-colocity-dc3",
+      "adelaide-comwire-data-center",
+      "adelaide-data-centre-5g-networks",
+      "adelaide-efex-data-center",
+      "adelaide-iren-bundey",
+      "adelaide-telstra-waymouth-2",
+      "adw-johnson-newcastle-au-kurri-kurri-data-centre",
+      "aims-bangkok-2",
+      "aims-cyberjaya",
+      "aims-cyberjaya-cj1",
+      "aims-kuala-lumpur",
+      "aims-kuala-lumpur-2",
+      "alor-setar-area-group-delapan-sbez-campus",
+      "angeles-city-converge-ict-angeles",
+      "angeles-city-dito-clark-super-core-data-center",
+      "arxis-adelaide",
+      "aslan-jakarta-data-centre",
+      "australian-data-centres-canberra-adc-fyshwick",
+      "australian-data-centres-canberra-adc-mitchell",
+      "aws-jakarta-amazon-kutanegara",
+      "aws-jakarta-amazon-margamulya",
+      "aws-jakarta-amazon-sukamahi",
+      "balikpapan-neucentrix-batuampar",
+      "balikpapan-neucentrix-sepaku",
+      "ballarat-eureka-dc-alfredton",
+      "ballarat-lateral-plains-data-centre",
+      "ballarat-x2m-connect-data-centre",
+      "ban-chang-stp-planet-dc-co-ltd",
+      "banda-aceh-neucentrix-aceh",
+      "banda-aceh-sm-aceh-sme11",
+      "bandar-lampung-neucentrix-tanjung-karang",
+      "bandar-lampung-sm-lampung-sme15",
+      "bandung-bdx-cgk4",
+      "bangkok-csl-cyberworld-data-center",
+      "bangkok-csl-the-cloud-data-center",
+      "bangkok-damac-digital-bkk01",
+      "bangkok-damac-digital-bkk02",
+      "bangkok-damac-digital-bkk03",
+      "bangkok-digital-edge-chonburi",
+      "bangkok-equinix-bk1",
+      "bangkok-freyr-samut-prakan",
+      "bangkok-gsa-data-center-01-2",
+      "bangkok-jastel-idc",
+      "bangkok-kirz-data-center-service",
+      "bangkok-nipa-data-center",
+      "bangkok-nt-bangrak",
+      "bangkok-nt-nonthaburi-1",
+      "bangkok-nt-nonthaburi-2",
+      "bangkok-pacific-idc",
+      "bangkok-pacific-internet-thailand",
+      "bangkok-proen-bang-rak-dc",
+      "bangkok-proen-ott-dc",
+      "bangkok-servenet-cat-idc-fl14",
+      "bangkok-tcct-bangna-data-center-bndc",
+      "bangkok-tcct-empire-tower-data-center",
+      "bangkok-true-idc-east-bangna",
+      "bangkok-true-idc-midtown-pattanakarn-2",
+      "bangkok-true-idc-midtown-ratchada-2",
+      "basis-bay-cyberjaya-dc-1",
+      "basis-bay-cyberjaya-dc-2",
+      "batam-bw-digital-ndp1",
+      "batam-dayone-kabil-tech-park",
+      "batam-dayone-nongsa-digital-park-ndp1",
+      "batam-dayone-nongsa-digital-park-ndp2",
+      "batam-dayone-nongsa-digital-park-ndp3",
+      "batam-matrix-data-center-bm1",
+      "batam-racks-central-rcbi",
+      "batangas-yco-malvar-one",
+      "beijing-haoyang-cloud-data-technology-co-ltd-rayong-haoyang-rayong",
+      "bekasi-damac-digital-jkt02",
+      "bekasi-mettadc-id01",
+      "bekasi-neutradc-hdc-cikarang",
+      "bekasi-princeton-digital-jc3",
+      "bekasi-tera-dc-cgk01",
+      "bendigo-telco-data-centre",
+      "bi-an-laguna-metro-manila-digital-edge-narra1",
+      "bitera-data-center-jakarta-indonesia",
+      "biznet-jakarta-midplaza-2",
+      "bogor-area31-data-center",
+      "bogor-neutradc-sentul",
+      "bonuan-gueset-bitstop-network-dagupan",
+      "brennan-brisbane",
+      "bridge-data-centres-bangkok-bdc-bkk01",
+      "bridge-data-centres-chonburi-bdc-qhi01",
+      "bridge-data-centres-cyberjaya-bdc-my02",
+      "bridge-data-centres-kuala-lumpur-mah-sing-dc-hub-southville-city"
+    ]
+  },
+  "flags": [
+    {
+      "id": "china-telecom-shanghai-quanhua",
+      "name": "China Telecom Shanghai",
+      "field": "dcm_id",
+      "old": 1664,
+      "new": 4391,
+      "url": "/china/shanghai/china-telecom-shanghai/",
+      "lat": 31.23039,
+      "lon": 121.4737,
+      "note": "listing matches a project already linked to another DCM id — possible duplicate listing"
+    },
+    {
+      "id": "huawei-ulanqab-iii",
+      "name": "Huawei Ulanqab III",
+      "field": "dcm_id",
+      "old": 12131,
+      "new": 12684,
+      "url": "/china/ulanqab/huawei-ulanqab-iii/",
+      "lat": 40.98499,
+      "lon": 113.31504,
+      "note": "listing matches a project already linked to another DCM id — possible duplicate listing"
+    },
+    {
+      "id": "china-unicom-hangzhou",
+      "name": "China Unicom Hangzhou",
+      "field": "dcm_id",
+      "old": 4415,
+      "new": 4414,
+      "url": "/china/hangzhou/china-unicom-hangzhou/",
+      "lat": 30.27606,
+      "lon": 119.98548,
+      "note": "listing matches a project already linked to another DCM id — possible duplicate listing"
+    },
+    {
+      "id": "china-telecom-wuhu",
+      "name": "China Telecom Wuhu IDC",
+      "field": "dcm_id",
+      "old": 12678,
+      "new": 12715,
+      "url": "/china/wuhu/china-telecom-wuhu-idc/",
+      "lat": 31.33527,
+      "lon": 118.36315,
+      "note": "listing matches a project already linked to another DCM id — possible duplicate listing"
+    },
+    {
+      "id": "ordos-city-china-unicom-ordos-yun-base",
+      "name": "China Unicom Ordos",
+      "field": "dcm_id",
+      "old": 12696,
+      "new": 12697,
+      "url": "/china/ordos-city/china-unicom-ordos/",
+      "lat": 39.71876,
+      "lon": 109.91778,
+      "note": "listing matches a project already linked to another DCM id — possible duplicate listing"
+    },
+    {
+      "id": "kddi-telehouse-hong-kong-telehouse-hong-kong-ccc",
+      "name": "TELEHOUSE Hong Kong",
+      "field": "dcm_id",
+      "old": 5763,
+      "new": 4023,
+      "url": "/hong-kong/hong-kong/telehouse-hong-kong/",
+      "lat": 22.31217,
+      "lon": 114.25668,
+      "note": "listing matches a project already linked to another DCM id — possible duplicate listing"
+    },
+    {
+      "id": "tokyo-arteria-comspace-iii-annex",
+      "name": "ARTERIA ComSpace III",
+      "field": "dcm_id",
+      "old": 10856,
+      "new": 10855,
+      "url": "/japan/tokyo/arteria-comspace-iii/",
+      "lat": 35.67642,
+      "lon": 139.65003,
+      "note": "listing matches a project already linked to another DCM id — possible duplicate listing"
+    },
+    {
+      "id": "fukuoka-softbank-kitakyushu-e-port-ii",
+      "name": "SoftBank Kitakyushu e-PORT II",
+      "field": "dcm_id",
+      "old": 13860,
+      "new": 13861,
+      "url": "/japan/fukuoka/softbank-kitakyushu-e-port-ii/",
+      "lat": 33.88042,
+      "lon": 130.81377,
+      "note": "listing matches a project already linked to another DCM id — possible duplicate listing"
+    },
+    {
+      "id": "vocus-data-centre-brisbane",
+      "name": "Vocus Data Centre - Brisbane",
+      "field": "dcm_id",
+      "old": 763,
+      "new": 873,
+      "url": "/australia/brisbane/pipe-networks-brisbane/",
+      "lat": -27.46566,
+      "lon": 153.02777,
+      "note": "listing matches a project already linked to another DCM id — possible duplicate listing"
+    },
+    {
+      "id": "vocus-perth",
+      "name": "Vocus Data Centre - Perth",
+      "field": "dcm_id",
+      "old": 3109,
+      "new": 774,
+      "url": "/australia/perth/amcom-perth1/",
+      "lat": -31.95609,
+      "lon": 115.85893,
+      "note": "listing matches a project already linked to another DCM id — possible duplicate listing"
+    }
+  ],
+  "errors": [
+    "rejected new listing /south-korea/pohang/dci-pohang/",
+    "rejected new listing /australia/melbourne/585-berwick-cranbourne-rd/",
+    "rejected new listing /australia/brisbane/northern-concept-swanb-pty-ltd/"
+  ],
+  "requests": 395,
+  "duration_s": 703.2
+}

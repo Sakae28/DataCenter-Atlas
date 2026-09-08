@@ -1,0 +1,438 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-24T08:03:51Z",
+  "hot": [
+    "2026-08-21-0b9a75",
+    "2026-08-21-b95f4a",
+    "2026-08-21-8a3ae0",
+    "2026-08-21-cba13a",
+    "2026-08-21-2477a8"
+  ],
+  "stories": [
+    {
+      "id": "2026-08-21-e2a18a",
+      "title": "NVIDIA Backs Powered-Land Developer Cloverleaf via DSX Platform",
+      "summary": "NVIDIA is backing powered-land developer Cloverleaf through its DSX platform, a move intended to help the company bring its data center projects to completion. The partnership leverages NVIDIA's ecosystem to accelerate Cloverleaf's pipeline of power-ready development sites.",
+      "why_it_matters": "NVIDIA's involvement in powered-land development shows the chipmaker extending its influence upstream into site and power acquisition — the industry's most acute bottleneck — rather than staying confined to silicon. For developers, partnering with NVIDIA can de-risk projects by aligning them with likely end demand, while competitors should read this as a sign that control over powered land is becoming as strategically important as the compute itself.",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "investment",
+        "power"
+      ],
+      "published_at": "2026-08-21T16:20:47Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/nvidia-backs-data-center-powered-land-company-cloverleaf/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA",
+        "Cloverleaf Infrastructure"
+      ],
+      "content": "Nvidia has taken a minority stake in powered land provider Cloverleaf Infrastructure.\n\nAlongside the investment, Nvidia aims to support Cloverleaf's data center development.\n\nThe projects will be based on DSX, Nvidia's reference design, a guide to building data centers that support its latest CPU-GPU racks, Spectrum-X Ethernet networking, and storage.\n\n![Cloverleaf Infra logo](https://media.datacenterdynamics.com/media/images/Cloverleaf_Infra_logo.width-358.jpg) \n\n\"AI is accelerating demand for digital infrastructure at an unprecedented scale and driving strong economic development opportunities for American communities,\" said David Berry, co-founder and CEO of Cloverleaf.\n\n\"This partnership strengthens Cloverleaf's ability to identify and develop high-quality sites that provide the compute power for our country's growth and security. Together, we will help America's businesses and workers gain a critical edge.\"\n\nCloverleaf has sold projects capable of supporting more than 7GW to data center developers, including sites in Wisconsin for Oracle and OpenAI. It claims a pipeline of more than 10GW. However, like others in the industry, Cloverleaf has faced challenges in some markets due to local pushback.\n\nNvidia's investment comes as the company invests ever deeper into the data center ecosystem, helping keep the industry's growth going, while tying the companies into its ecosystem.\n\nThis week, it invested $1.5bn in SoftBank's SB Energy, and provided financial backing for its massive data center project for OpenAI in Ohio.\n\nEarlier this year, Nvidia took a 20 percent stake in Lancium, the power developer behind the Abilene, Texas, campus that Crusoe operates for Oracle and OpenAI.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/nvidia-backs-data-center-powered-land-company-cloverleaf/"
+    },
+    {
+      "id": "2026-08-21-d64654",
+      "title": "DayOne Seeks Loan to Fund Hong Kong Data Center Ahead of US IPO",
+      "summary": "DayOne Data Centers is seeking a loan to fund the development of a data center in Hong Kong as it prepares for a potential US initial public offering, according to The Malaysian Reserve. The financing would support expansion of the Singapore-headquartered platform's Hong Kong footprint ahead of the listing.",
+      "why_it_matters": "The loan pursuit shows DayOne bridging its capital needs with debt while positioning itself for public markets, a strategy that will test lender appetite for data center assets in Hong Kong's recovering but still cautious market. A successful US IPO would set a valuation benchmark for APAC data center platforms and could reopen the listing window for peers that have been waiting on the sidelines since the sector's last wave of public market activity.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "china"
+      ],
+      "topics": [
+        "financing",
+        "ipo",
+        "capacity",
+        "hong-kong"
+      ],
+      "published_at": "2026-08-21T15:04:33Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWkxSVU1sM2FnUXFNWFV4cWRId0p3RmRXRHpSd2M3V0xmb0Nvb2x0TDNMY29jT1VTRTNhdEpScElTaUpoOFY2SlVXYy00UmdoU01LVzdZZ0w4Z0ktZzVINlRSTnEwQUJSZjFTenVteDUweU1ZZzRBS3FSZmdsd05HdjdPYXFKX3F0cXZQSWVPOVdPZDlCc1dUV3NBbEwzOVEwWkZsMGRHdTYxTlE?oc=5",
+          "type": "google-news",
+          "publisher": "The Malaysian Reserve"
+        }
+      ],
+      "companies": [
+        "DayOne"
+      ]
+    },
+    {
+      "id": "2026-08-21-ffb133",
+      "title": "NVIDIA Q1 FY2027: Revenue $81.6B Beat, Data Center Segment Up 92%",
+      "summary": "NVIDIA reported first-quarter FY2027 revenue of $81.6 billion, beating expectations, with its data center segment growing 92% year over year. Analysts caution that the company's guidance, due August 26, will be the key test of whether this growth trajectory is sustainable.",
+      "why_it_matters": "NVIDIA's results are the de facto barometer for AI infrastructure demand, and a 92% jump in data center revenue validates the massive capex programs underway at hyperscalers and neoclouds across APAC and beyond. For data center developers and investors, the upcoming guidance matters more than the beat itself — any sign of deceleration would ripple directly through order books, project pipelines, and financing assumptions built on continued exponential growth.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "earnings",
+        "hyperscale"
+      ],
+      "published_at": "2026-08-21T14:01:19Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "GN: Data Center China",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOSmppUFVTbFJ6dEtndmF2WUUxekw4NWQxMG1NU09JSFV3bVpvVEs1VnZaU1ZucDlSSHJScHA5clJwM1RUcEUta24xVW5tZHNSN0dScTItRkViakl5UTk3NlgzRlFvM0JPTU1DRG5ybVdPdjI3VDZEeVVMN1Zjc2dCTVM2Z055UHcxZTliZ3J0aVRPeGFycG15MTFRam5BazM3aVpVeGpDRXlPSjBYUXhlRENpd1BscVF1SWViM01FYW9vdXg0ZjB5OUNIU2pOSXV2VnBfS1puSzE0aEhhZlk0N2xMRDB4eDJEV2o2UmZtangyWWVNa05vbU5ld3ctUGQ2cG9UYnlDdWxlWGhUa3J5c3Rvd1pKZHp3Ym80?oc=5",
+          "type": "google-news",
+          "publisher": "TradingKey"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "content": "![facebook](https://resource.tradingkey.com/cdn/images/media/facebook_active.png)\n\n![twitter](https://resource.tradingkey.com/cdn/images/media/x_active.png)\n\n![linkedin](https://resource.tradingkey.com/cdn/images/media/linkin_active.png)\n\n**View all comments（0）\n\n**\n\nNvidia reported record Q1 FY2027 revenue of $81.6 billion, up 85% year-over-year, driven by robust data center demand. Q2 guidance projects $91 billion in revenue, excluding China compute. While upcoming August 26 earnings and Vera Rubin production ramp-ups are critical catalysts, aggressive capital deployments—including a $1.5 billion investment and $105 billion lease guarantee with SB Energy, alongside participation in a $500 billion AI financing platform—significantly elevate the company's credit risk and balance-sheet exposure amid rising bond yields and shifting macroeconomic conditions.\n\n![](https://resource.tradingkey.com/uploads/20260227/nvi-3c46434859074d8aa04f076cb56ddcef.jpg)\n\nTradingKey - On May 20, Nvidia (NVDA) announced Q1 FY2027 revenue of $81.6 billion that exceeded consensus and increased by 85 percent from last year while data center revenue reached $75.2 billion, an increase of 92 percent from the previous year. However, the stock price fell after earnings as investors had more serious questions. Is this level of growth sustainable? The answer to that question will become available during the August 26 earnings as we will know if the guidance will be met as the Vera Rubin production begins to ramp up, the SB Energy financing closed at $105 billion with strong and secure demand, and hyperscaler data center capex remains strong despite the increase in bond yields. Several developments in August have moved the needle.\n\nH200 chips began to reach China in small quantities, Nvidia invested $1.5 billion in SB Energy for securing 8 GW of Ohio infrastructure, and joined a $500 billion financing platform with BlackRock and Apollo. The new focus for Nvidia suggests that while this may drive near-term revenue, it may also increase credit risk. The upcoming Jackson Hole Fed meeting, scheduled for August 27-29, will be a good indicator of the overall economy.\n\n## Q1 FY2027: Record Revenue $81.6B (+85% YoY), Data Center $75.2B (+92%)\n\nQ1 FY2027 revenue was $81.6 billion, an increase of 85 percent from last year, and 20 percent from the last quarter. Data Center revenue for the same period was $75.2 billion and increased by 92 percent from last year and 21 percent from the last quarter.\n\nOf this, revenue from hyperscale data center customers was $37.9 billion and from AI clouds, industrial, and enterprise customers was $37.4 billion. For the data center, the computing revenue was $60.4 billion and networking equipment revenue was $14.8 billion, an increase of 199 percent from the last year.\n\nGAAP gross margin was 74.9 percent. The 92 percent year over year growth can be attributed to the extraordinary demand for AI combined with constrained supply. Going forward, the guidance will exclude China data center compute (export controls still in effect).\n\n## Q2 FY2027 Guidance: $91B Revenue, No China Compute Assumed, August 26 Earnings Test\n\nNVIDIA set $91.0B revenue for the second quarter of FY2027, reflecting ~12% midpoint sequential growth. The expected GAAP and non-GAAP gross margins are 74.9% and 75.0%, respectively. Guidance also noted that there would be no data center compute revenue from China. Without this revenue contribution from China, any revenue contribution from China would signal a positive surprise, while sales from China would not count as a revenue miss.\n\nThe upcoming August 26 earnings call will illustrate whether revenue goals for the second quarter were met, whether there are revenue goals for the third quarter, and whether goals were met for gross margin goals with the increasing price of inputs and the high capital spend.\n\n## SB Energy Deal: $1.5B Investment, $105B Lease Guarantee, 8 GW Ohio Campus\n\nNVIDIA announced on August 17 that it would invest $1.5B and give up to $105B leasing guarantees in SB Energy (SoftBank subsidiary) for OpenAI's PORTS-Pike data center at an 8 GW Ohio campus. The lease is for 20 years. First phase 4.25 GW capacity, possible 3.75 GW more. SB Energy/SoftBank are planning to build 10 GW power capacity, $4.2B grid infrastructure. It is both financially strategic and risky, as NVIDIA now funds chips, land, and power. While a $105B guaranteed lease shows demand confidence, credit exposure and circular financing would also be a concern.\n\n## $500B Financing Platform: NVIDIA Joins BlackRock, Apollo, Others\n\nOn August 10, NVIDIA teamed up with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR to aim to raise $500B+ in a financing platform to provide capital for AI infrastructure third parties. Strategy: provide Scope, Power, and Data Center developments to alleviate points of constraint for AI-related capital expenditure (capex).\n\nAccording to the CEO of NVIDIA, Jensen Huang, the constraint for AI is now shifting from the chips to power and real estate. This may be a solutions-based approach addressing demand with regard to financing. On the other hand, this strategy could put NVIDIA in an uncomfortable contract with market forces. Should either of these two factors become pronounced; interest rates or confidence in the return on investment for AI decrease, financing may disappear.\n\n## Vera Rubin Production Ramping, H200 Small Shipments to China Begin\n\nVera Rubin is under full production support from over 350 factories across 30 countries. NVIDIA claims Rubin delivers a 10x scale agent compared to Grace Blackwell. Production racks have been set up in CoreWeave, Google Cloud, Microsoft Azure, and Oracle Cloud.\n\nWider production is expected in H2 2026. Ramping up Vera Rubin has a strong positive effect, as it will reduce the chance customers will defer orders due to a lack of next-gen technology. Additionally, small shipments of H200 chips started to arrive in mainland China in the middle of August.\n\nAccording to the Financial Times, ByteDance and Tencent each received around 10,000 chips. While small, this should not be underestimated as it is a clear case of export controls being tested. NVIDIA has denied they create a chip specific to China. Any revenues from China will be a positive surprise for NVIDIA in Q2.\n\n## Technical: Support $214.40, Resistance $221.01, Earnings Aug 26 Near\n\nNVDA closed at $217.56 (Aug 20), trading within the range of $215.66-$219.86. Support is at $214.40, confluence of the trendline, a moving average, and a horizontal level. Below that is support at $209.21 and $205. The first major resistance is at $221.01, while $229.51 and $234.51 are also key levels.\n\n![NVIDIA Price Chart - Source: Tradingview](https://resource.tradingkey.com/uploads/20260821/NVDA-8ab56f6263094664b0beceb99d4b8e41.jpg)\n\nNVIDIA Price Chart - Source: Tradingview\n\nStrong buying is present as the RSI is at 40. The stock is trading after a large run from the peak of $236.54. The 52-week high is $236.54, while the 52-week low is $164.07. Earnings are scheduled to come out after the close on Wednesday (Aug 26).\n\n### Key Levels\n\n- Sustaiing/Resistant: $221.01 (first) | $229.51 | $234.51 | $238.81\n- Supported/Weak: $214.40 (critical) | $209.21 | $205.00\n- NR52-Week Range: $164.07 - $236.54 (peak on May 14)\n\n## Bottom Line: Guidance Beat Required, But Financing Risk Matters More\n\nNVDA Q1: Revenue $81.6B (+85%, beat) | Data Center $75.2B (+92%). Q2 guidance $91B (+/- 2%), no China compute. SB Energy $1.5B invest, $105B guarantee, 8 GW Ohio, 20-year lease. Vera Rubin in production. H200 China shipments begun (incremental). $500B financing platform joined. August 26 earnings will be crucial.\n\nFor investors: Q2 guidance is not a problem, but margins and the sustainability of the hyperscaler demand are real issues. The SB Energy deal commits the company to the cash flow from OpenAI but concentrates credit risk. Rising bond yields indicate that the financing platforms will become the most important aspect of capital expenditures in the future.\n\nThe Aug 27-29 Jackson Hole Fed meeting might change the sentiment. $214.40 provides the best technical support, and above $221, the structure will be bullish.\n\n**Like\n\n## Recommended Articles\n\n![tk_center_stock_score](https://www.tradingkey.com/ssr-analysis/server/icon_stock_score-d5a261e0.png) Stock Score\n\n![search.intelligent.strategy](https://www.tradingkey.com/ssr-analysis/server/icon_strategy-bb2e227f.png) SmartPicks\n\n![](https://resource.tradingkey.com/uploads/20260821/kkkr-3d73cce773ae45ccacf0524bfe8afc22.jpg)\n\n![](https://resource.tradingkey.com/uploads/20240914/1f15ebb1834a4bd88d18517d5b06641foracle.jpg)\n\n![](https://resource.tradingkey.com/cms_uploads/img/20230818/76dd1ee97f62e5ebbf7a206a85a37947.jpg)\n\n![](https://resource.tradingkey.com/cms_uploads/img/20230925/638a04255cd4d515a63d5f9871786a1e.jpg)\n\n![](https://resource.tradingkey.com/uploads/20260120/TradingKey_-EN_optimized_150-af50e3d803094b2981fdc0ce98cb441f.png)",
+      "content_url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262124176-nvidia-nvda-q1-fy2027-81-6b-revenue-85-pct-data-center-75-2b-92-pct-q2-guidance-91b-sb-energy-1-5b-august-26-earnings-tradingkey"
+    },
+    {
+      "id": "2026-08-21-d55658",
+      "title": "High-Temperature Superconducting Feeders in Data Centers Explained",
+      "summary": "A new analysis examines whether high-temperature superconducting (HTS) feeders are beginning to make economic and technical sense for data center operators. The technology promises higher power density and lower losses than conventional cabling as facilities push toward ever-larger power loads.",
+      "why_it_matters": "As single-campus power demands climb into the hundreds of megawatts, the physical limits of copper distribution are becoming a genuine design constraint, and HTS feeders offer a potential way to move more power through less space with fewer losses. Adoption would change facility electrical design, cooling overhead, and campus density economics — making this an early signal worth tracking for operators and engineers planning next-generation builds.",
+      "score": 35,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "power",
+        "technology"
+      ],
+      "published_at": "2026-08-21T13:30:29Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/opinions/the-what-where-and-why-of-high-temperature-superconducting-feeders-in-data-centers/",
+          "type": "rss"
+        }
+      ],
+      "content": "In plain terms, a high-temperature superconducting (HTS) feeder is a medium-voltage cable built with a conductor that can carry very large current, but only if it is kept cold enough to stay in its superconducting state. The conductor sits inside a cryostat - essentially an insulated, sealed envelope - and a refrigeration system circulates cryogenic coolant, often liquid nitrogen, to hold the cable inside its operating window.\n\nThat trade is what makes HTS interesting and what makes it different. A conventional MV feeder is largely passive once it is installed. An HTS feeder is not. Its electrical behavior depends on a thermal plant that has to run continuously, stay instrumented, and respond correctly when something drifts out of range.\n\nFor data center readers, the simplest mental model is this: HTS can reduce the number of parallel feeders needed to move a given block of power, but it does so by adding refrigeration, controls, alarms, and recovery procedures to the electrical chain. That is why the topic belongs as much in operations and FMEA discussions as it does in an ampacity study.\n\nFigure 1 keeps that idea grounded. HTS is not magic wire. It is a compact conductor and insulation system packaged inside a cryogenic envelope.\n\n![Figure1_HTS_cable_cross-section](https://media.datacenterdynamics.com/media/images/Figure1_HTS_cable_cross-section.width-358.jpg) \n\n## Why data centers are paying attention\n\nData centers are revisiting HTS for a practical reason: some projects have run out of easy civil answers. The physics has been understood for decades. When a campus needs another 50 to 100MW, the classic response is more parallel MV cable. That works until the corridor is full, the roadway cannot be reopened again, the easement is fixed, or the outage window is so constrained that \"just add another circuit\" stops being the low-risk option.\n\nThis is the setting in which HTS starts to make sense. DOE-sponsored cable projects in Albany, Columbus, and on Long Island demonstrated that superconducting power cables can operate on live utility systems. For data centers, the open question is no longer whether the technology can move power. It is whether the operating model fits a 24/7 mission-critical campus.\n\nFigure 2 shows a data center campus under construction. On projects of this scale, underground feeder corridors, electrical yard placement, crossings, utility separation, and the sequence of civil work often control the schedule long before conductor ampacity does.\n\n![Figure2_data_center_campus_construction](https://media.datacenterdynamics.com/media/images/Figure2_data_center_campus_construction.width-358.jpg) \n\n## What changes in a mission-critical feeder\n\nThe usual shorthand for superconductivity - \"zero resistance\" - is not very useful in a design review. What matters in a facility is the operating envelope. As long as temperature margin, coolant flow, and current stay where they need to stay, the feeder behaves like a very low-impedance path. When those margins erode, the problem moves quickly from physics to operations: detect the condition, decide whether to transfer or derate, and trip if the design basis says the path is no longer acceptable.\n\nThis is also why the highest-risk pieces are rarely the simple talking points. The conductor matters, but field reliability tends to be dominated by the interfaces and auxiliaries: terminations and joints, the cryostat and its vacuum integrity, the refrigeration plant and pumps, and the controls that decide what operators see and what protective action occurs. If a concept paper spends all its time on cable ampacity and very little time on recoverability, it is talking about the easiest part of the problem.\n\nFigure 3 summarizes the HTS feeder the way an owner or commissioning agent is likely to review it: as an electrical path tied to a cryogenic plant, heat rejection, instrumentation, and response logic.\n\n![Figure3_HTS_feeder_system_concept](https://media.datacenterdynamics.com/media/images/Figure3_HTS_feeder_system_concept.width-358.png) \n\nThe one-line can still look familiar - utility or campus substation, breaker, feeder, MV switchgear, transformers - but the critical path has changed. In effect, HTS moves part of the availability discussion from passive cable installation to active system health. Data centers already understand that kind of trade from chilled water plants and generator auxiliaries. HTS belongs in that same category.\n\n## How to think about capacity\n\nAt MV, current turns into very large blocks of power quickly. At 34.5kV, every additional 1kA of continuous feeder capability is worth roughly 60 MVA, or about 60 MW at unity power factor. That is why HTS keeps coming up in corridor-constrained studies: increasing MW per feeder can reduce the number of parallel circuits that have to fit through the same route.\n\nBut cable capacity is not the same thing as usable building capacity. In real projects, the bottleneck often shows up first at the switchgear bus, breaker continuous-current rating, transformer primary interface, or the physical footprint and maintainability of terminations. Low feeder impedance can also change fault duty and relay coordination. So while HTS can shrink the cable count, it does not eliminate the need for multiple maintainable paths.\n\nA 100MW building served at 34.5kV needs roughly 1.67kA of feeder current at unity power factor. That number explains why conventional MV designs can quickly turn into multiple parallel cable sets. HTS can reduce that parallel count. What it should not do is tempt the design team into collapsing the building onto a single path that is hard to isolate or maintain.\n\n![Illustrative feeder capacities. Actual usable capacity depends on equipment ratings, routing conditions, cooling architecture, and redundancy strategy](https://media.datacenterdynamics.com/media/images/Table1_feeder_capacities_34kV.width-358.png) \n\n## Where the use case is strongest\n\nThe most convincing near-term use case is retrofit work. Brownfield and urban sites are where underground conditions, traffic control, easements, and outage windows turn additional MV circuits into a major project rather than a routine extension. In those jobs, the value of HTS is concrete: more MW delivered without tearing the site open again.\n\nEven then, the civil and constructability questions still come first. Bend radius, cryostat outside diameter, pull geometry, splice vaults, termination footprint, and cutover duration can kill a concept before the electrical math does. That is why HTS studies need constructability review early, not after the one-line is already sold.\n\nGreenfield campuses are a different conversation. The cleanest HTS concept on paper is usually a trunk or spine serving multiple buildings. The trouble is that the drawing gets cleaner at the same time the common-mode failure domain gets bigger. A campus trunk can be credible, but only if route diversity, sectionalizing, switching strategy, and cooling redundancy are thought through as seriously as the cable ampacity.\n\nFigure 4 shows one way to frame that discussion. Not every campus should be built this way. The test is whether the trunk concept holds up as a resilience problem, not merely as a cable-count optimization.\n\n![Figure4_campus_HTS_trunks_concept (1)](https://media.datacenterdynamics.com/media/images/Figure4_campus_HTS_trunks_concept_1.width-358.png) \n\n## The two questions that decide viability\n\nIn owner reviews, the conversation usually becomes practical very quickly. Two questions decide whether HTS survives that conversation.\n\nFirst, what happens if cooling is lost at peak load? No serious mission-critical design should assume that the feeder simply becomes copper and keeps carrying the same duty. Loss of cooling has to trigger a defined response: alarm, automatic transfer, derate, load shed, trip, or some combination of those actions based on the design basis. Quench behavior can influence current, but it is not a substitute for a protection philosophy.\n\nSecond, what is the realistic MTTR for the most likely failure? That answer depends on which failure the team thinks is most likely: a pump or controls problem, a sensor fault, a cryogenic leak, vacuum degradation, or a termination issue. It also depends on whether the failed section can be isolated without losing the whole route, whether spares are on site, and how much of the recovery sequence requires vendor involvement. This is where many enthusiastic concepts get quieter.\n\nThose two questions also force the design team to define what is actually critical. If cooling health is required to preserve feeder capacity, the cryogenic plant and its controls become critical loads too. That affects redundancy, generator backup, alarm routing, and operations staffing.\n\n## Protection, safety, and commissioning\n\nHTS does not eliminate conventional protection work; it adds to it. Because the feeder impedance is very low, fault levels and coordination margins can change. Abnormal temperature, pressure, and flow conditions should not live only in the BMS alarm list. In a mission-critical installation, they need defined interfaces to protective action and operating procedure.\n\nThe safety conversation is also non-negotiable. Cryogenic systems bring oxygen-deficiency risk, venting and pressure-relief design, cold-burn hazards, and training requirements. NFPA 55 governs compressed gases and cryogenic fluids, and both OSHA and DOE guidance use 19.5 percent oxygen as the threshold for an oxygen-deficient atmosphere. In practice, that means ODH monitoring, relief routing, emergency procedures, and careful attention to terminations and penetrations where condensation or ice can become an operating problem.\n\nCommissioning has to reflect the fact that HTS is a combined electrical and cryogenic system. Electrical acceptance testing still matters, but so do leak checks, cooldown verification, control sequencing, alarm validation, and demonstration that the system reaches and holds stable operating conditions at load. None of that is exotic. It simply has to be written into the basis of design and the turnover plan.\n\n## Economics and adoption\n\nThe economics are strongest when the avoided civil work is big enough to matter. If HTS can remove multiple new duct banks, roadway work, or corridor conflicts, the value proposition can be real. If the route is easy and conventional feeders fit cleanly, HTS has a much higher bar to clear.\n\nThe comparison also has to be honest. An HTS feeder is not a zero-loss system once it is installed. AC loss in the cable, dielectric loss, heat leak into the cryostat, and the electrical power required by the refrigeration plant all belong in the total-loss and total-cost-of-ownership calculation. So do spare parts, service support, heat rejection, commissioning effort, and the cost of abnormal-event recovery.\n\nFor that reason, HTS still belongs in the pilot and early-adopter category for data centers. The likely first wins are constrained routes, not blank-slate campuses. Wider adoption will come only after owners see more operating history, clearer code and insurance playbooks, and service models that look like they belong in a 24/7 critical facility rather than in a lab.",
+      "content_url": "https://www.datacenterdynamics.com/en/opinions/the-what-where-and-why-of-high-temperature-superconducting-feeders-in-data-centers/"
+    },
+    {
+      "id": "2026-08-21-d60d99",
+      "title": "STT GDC Exits Planned Ho Chi Minh City Data Center JV as VNG Takes Over",
+      "summary": "ST Telemedia Global Data Centres is exiting its planned data center joint venture in Ho Chi Minh City, with Vietnamese tech company VNG set to acquire STT GDC's stake. VNG intends to take over the project and pursue development of other facilities instead, according to reports.",
+      "why_it_matters": "The exit removes one of the region's largest operators from a flagship Vietnam project and hands control to a local player, changing the risk and execution profile of one of the country's most watched data center developments. It also suggests STT GDC is reallocating capital toward other priorities, while VNG's expanded role will test whether domestic firms can deliver hyperscale-grade capacity — an outcome that matters for cloud providers and enterprises evaluating Vietnam as a market.",
+      "score": 82,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "hyperscale",
+        "colocation"
+      ],
+      "published_at": "2026-08-21T12:35:58Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/stt-gdc-backs-out-of-planned-vietnam-data-center-project/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "STT GDC",
+        "VNG"
+      ],
+      "content": "Vietnamese telecoms firm VNG is set to buy out ST Telemedia Global Data Centres’ (STT GDC) share of a planned data center project in Ho Chi Minh City.\n\n![stt chennai 7](https://media.datacenterdynamics.com/media/images/stt_chennai_7.width-358.png) \n\nAs reported by Vietnam.vn and other local press, VNG is set to buy back STT GDC's 65 percent stake in VTH Software Development for VND480 billion ($18.3 million).\n\nVNG said it will take full control of VTH, which owns a land plot in Ho Chi Minh City designated for a data center project.\n\nThe two companies first partnered on the project in 2024, with plans to develop a 25,465 sqm (274,100 sq ft), 60MW facility known as STT VNG Ho Chi Minh City 2. Originally due live in H1 2026, STT GDC still lists the planned facility on its website at time of writing.\n\nAn STT GDC spokesperson told *DCD: \"*Following a review, STT GDC determined that the site did not meet its investment and commercial requirements and agreed to sell its shares in VTH to VNG, subject to the relevant approvals and completion conditions.\n\n\"The transaction relates only to VTH and the associated land parcel and is a site-specific portfolio decision. It does not involve STT GDC’s existing data centre operations in Vietnam and has no impact on its current services or customer commitments.\n\n\"STT GDC remains committed to growing its business in Vietnam. This site-specific decision does not change STT GDC’s commitment to pursuing growth opportunities in Vietnam.\"\n\nThe 2.5-hectare site is located in the Tan Thuan Export Processing Zone, held by VTH under a long-term lease expiring in September 2041.\n\nA stock exchange filing by VNG said STT GDC concluded that the project no longer aligned with its investment strategy and commercial objectives. The remaining land-use term was not optimal for the long-term investment and operation of a hyperscale data center.\n\nVNG, however, has concluded the site can still serve a purpose, possibly hosting offices, employee sports-recreational facilities, an e-sports center, and other business initiatives.\n\nThe two companies still operate the 9.6MW STT VNG Ho Chi Minh City 1 (previously referred to as VNG Data Center) in the Tan Thuan area of Ho Chi Minh City.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/stt-gdc-backs-out-of-planned-vietnam-data-center-project/"
+    },
+    {
+      "id": "2026-08-21-b95f4a",
+      "title": "Evolution DC Secures Long-Term Land Lease for 52MW Data Center in Ho Chi Minh City",
+      "summary": "Evolution DC has secured a long-term land lease for a planned 52 MW data center in Ho Chi Minh City's Saigon Hi-Tech Park. The site will host the company's planned facility, adding to the growing pipeline of data center projects in Vietnam's largest city.",
+      "why_it_matters": "Securing a long-term lease inside Saigon Hi-Tech Park converts Evolution DC's plans from proposal to executable project, in a market where land access and permitting are the primary bottlenecks. The 52 MW commitment adds meaningful supply to HCMC's thin inventory of carrier-neutral capacity, and the hi-tech park location positions the facility to capture enterprise and government-adjacent demand as Vietnam's data localization requirements bite.",
+      "score": 74,
+      "heat": 2,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "capacity",
+        "investment",
+        "colocation"
+      ],
+      "published_at": "2026-08-21T12:31:26Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/evolution-dc-secures-long-term-lease-for-land-in-ho-chi-minh-city-vietnam/",
+          "type": "rss"
+        },
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOTNCQzNsa0stS2lzNU5ocnJmdXZvejhTQ1hiUDRRdnFOcDljTU5sSlJJcHhKVVlNWHlJZVczdUxfOEtnTUpmRDJ2TGI3NC1IbFF2a3NXeEFBNEk4Ti1zWHgtQWZQZnVkZzFBTTNZcEJPMlVMLWZaLWg5bjJRRnp5UUsxZVpadm5VbDhkeWQ4SkplNFVNano3Z2ZfcTFlNXE4VUtWUUltSlNOU19ydFZIdktXU2d0MnJ5?oc=5",
+          "type": "google-news",
+          "publisher": "Data Center Dynamics"
+        }
+      ],
+      "companies": [
+        "Evolution Data Centres"
+      ],
+      "content": "APAC data center firm Evolution Data Centres has secured a land lease for a planned project in Ho Chi Minh City, Vietnam.\n\nLocal press, including Lao Dong and others, reports that Ho Chi Minh City has approved the lease of five hectares of land in the city to Evolution DC Vietnam HCMC Joint Stock Company for a planned data center.\n\nThe land, located in the Saigon Hi-Tech Park, is set to be leased to the company for 50 years. The planned data center could total 52MW.\n\n![evolution vietnam](https://media.datacenterdynamics.com/media/images/evolution_vietnam.width-358.png) \n\nThe project could see some $500 million invested, according to local press.\n\nAPAC operator Evolution Data Centers first partnered with HTC International Telecommunication JSC (HITC) to develop data centers in Vietnam late last year. The companies planned to develop projects in Ho Chi Minh City and Hanoi, though few details were shared at the time.\n\nToday, Evolution lists a live facility in Hanoi (VN01, offering 4.75MW and capacity for 750 racks across 2,000 sqm) and plans for VN02 in Ho Chi Minh City. The 52MW, 49,500 sqm (532,813 sq ft) facility is due to go live in Q4 2027.\n\nFounded in 2021 and headquartered in Singapore, Evolution received backing from Warburg Pincus in 2022. Zero Two, a division of the Abu Dhabi sovereign wealth fund, has also invested in the firm.\n\nThe company has projects in development in the Philippines (69MW) and Thailand (52MW).",
+      "content_url": "https://www.datacenterdynamics.com/en/news/evolution-dc-secures-long-term-lease-for-land-in-ho-chi-minh-city-vietnam/"
+    },
+    {
+      "id": "2026-08-21-cba13a",
+      "title": "India Becomes APAC's Top Data Center Market Outside China, Hits 1.7 GW: Study",
+      "summary": "India has become the largest data center market in Asia-Pacific outside of China, with capacity reaching 1.7 GW, according to a new industry study. The milestone reflects rapid expansion driven by cloud adoption, data localization rules, and AI-related demand.",
+      "why_it_matters": "India overtaking its regional peers redraws the APAC investment map, confirming that the center of gravity for new capacity growth is shifting toward South Asia. For operators and investors, the 1.7 GW figure validates aggressive expansion plans from both domestic conglomerates and global platforms, while intensifying competition for power, land, and connectivity in key hubs like Mumbai and Chennai — with implications for pricing and returns across the region.",
+      "score": 60,
+      "heat": 2,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "capacity",
+        "market",
+        "growth",
+        "apac"
+      ],
+      "published_at": "2026-08-21T09:47:16Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "GN: Data Center China",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNFJzYzZuNk5VYThDWmN6Zmd0Q3hKSmFBZ3dFbGNFS2lzVXBuNUJZMURYbi15SklDekNNU0l4Y2dsVW1jTHNNRC1JN0NzU3l4OThBS09ZVHVYb2o1NGxwMjFucmp4bkVMOURRLWZvODFGakRsakVrWktRTGlBQ21Wa0FLSGdka3B1RGN3bzEyQ2h5SVhNTVZEYlBmSk5rRVZ5eHZ1dGx3RV9NVVlPSGRONGxYNXRPM2R6eXBIbVpnSjhMN0N6SWc?oc=5",
+          "type": "google-news",
+          "publisher": "Saur Energy"
+        },
+        {
+          "name": "GN: Data Center APAC AI",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNFJzYzZuNk5VYThDWmN6Zmd0Q3hKSmFBZ3dFbGNFS2lzVXBuNUJZMURYbi15SklDekNNU0l4Y2dsVW1jTHNNRC1JN0NzU3l4OThBS09ZVHVYb2o1NGxwMjFucmp4bkVMOURRLWZvODFGakRsakVrWktRTGlBQ21Wa0FLSGdka3B1RGN3bzEyQ2h5SVhNTVZEYlBmSk5rRVZ5eHZ1dGx3RV9NVVlPSGRONGxYNXRPM2R6eXBIbVpnSjhMN0N6SWc?oc=5",
+          "type": "google-news",
+          "publisher": "Saur Energy"
+        }
+      ],
+      "content": "![Data Centers investment](<https://img-cdn.publive.online/fit-in/1280x960/filters:format(webp)/saur-energy/media/media_files/2026/08/21/data-centers-investment-2026-08-21-14-40-33.jpg>)\n\nIndia is now a major data-center market, with its live IT capacity quadrupling over the past six years to 1.7 GW, emerging as Asia Pacific (APAC’s) top data-center market outside China. The BloombergNEF report noted that India has a strong pipeline, with 1.3 GW under construction and another 3.2 GW of projects under development.\n\nIndia has emerged as a preferred destination for building data centers in the Asia-Pacific region, owing to its strong scores in energy availability and fiber connectivity. Additionally, the report noted that India has secured the land, power, and permits required for construction for projects that are under development.\n\n## Hyperscale AI Campuses Form 95% of Investment\n\nDomestic conglomerates Adani and Reliance have committed $210 billion to data-center development in India, accounting for 45% of total announced investment. Global hyperscalers Google, Amazon, and Microsoft are the next-largest investor group, with $84 billion announced. About 95% of all announced investment is targeting large hyperscale AI campuses.\n\n![data centers in India](<https://img-cdn.publive.online/filters:format(webp)/filters:format(webp)/saur-energy/media/media_files/2026/08/21/data-centers-in-india-2026-08-21-14-36-17.png>)\n\n## Maharashtra Propels India’s Growth\n\nWithin India, Maharashtra remains the country’s dominant data-center market. It has the largest live IT base, accounting for 55% of the country’s total capacity. It also has the largest pipeline of projects that have received the necessary approvals to begin construction.\n\nMaharashtra combines computing demand from enterprise customers with the data-center infrastructure needed to serve it, including cloud regions (clusters of data centers), subsea cable connectivity, and an established developer ecosystem.\n\nThe states of Andhra Pradesh, Gujarat, Karnataka, Tamil Nadu, Telangana, and Uttar Pradesh will play critical roles in the next phase of growth as companies announce large investments and projects in these states.\n\n## Data-Center Electricity Demand to Jump\n\nBloombergNEF expects India’s data-center electricity demand to grow more than eightfold to 91 TWh in 2035 from 11 TWh in 2025.\n\nMost Indian data centers use air to cool their servers and air-based systems to remove heat. Water is not an immediate constraint. However, in water-stressed cities such as Chennai and Bengaluru, data centers using cooling systems that consume large amounts of water could add pressure to local water supplies.\n\nSimilarlly, their power usage will also increase as under-construction hyperscale capacities come online over the next 3–10 years. Many hyperscalers have net-zero targets for 2030, so their use of renewable electricity is also expected to rise.\n\nIndia’s installed electricity generation capacity has grown at a 7.1% compound annual growth rate since 2021 to keep up with rising demand. However, slower transmission network development has delayed the commissioning of some power generation projects in the past. Without careful planning, this could also affect the development of large data centers.",
+      "content_url": "https://www.saurenergy.com/solar-energy-news/india-becomes-apacs-top-data-center-market-outside-china-hits-17-gw-study-12402653"
+    },
+    {
+      "id": "2026-08-21-642c9f",
+      "title": "AI Infrastructure Spending to Push Global Data Center Capex Above $3 Trillion by 2030",
+      "summary": "Global data center capital expenditure is forecast to exceed $3 trillion cumulatively by 2030, propelled by AI infrastructure spending from hyperscalers and AI-specialized cloud providers. The projection underscores the scale of investment flowing into compute capacity over the remainder of the decade.",
+      "why_it_matters": "A $3 trillion capex trajectory reframes the industry's challenge from finding demand to securing the inputs — power, equipment, land, and financing — needed to deliver on it. For APAC markets, it implies continued intense competition for grid capacity and capital, and raises the stakes on execution risk: if AI workload growth falters, a supply chain and development pipeline sized for this forecast would face a painful correction.",
+      "score": 58,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "hyperscale",
+        "capacity"
+      ],
+      "published_at": "2026-08-21T09:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Knowledge",
+          "url": "https://www.datacenterknowledge.com/ai-data-centers/ai-infrastructure-pushes-data-center-capex-forecast-above-3-trillion",
+          "type": "rss"
+        }
+      ],
+      "content": "AI infrastructure spending is forecast to push global data center capex beyond $3 trillion by 2030, driven by hyperscalers and AI-specialized clouds.\n\n![](https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/bltea0350a6c96e81f2/6a8750e6e27d71560283b90e/Hyperscale-Data-Center.jpg?width=1280&auto=webp&quality=80&disable=upscale)\n\nWorldwide data center capital spending is projected to surpass $3 trillion by 2030 as hyperscalers, sovereign AI programs, and specialized cloud providers expand infrastructure to support growing AI workloads, according to a new report from Dell’Oro Group.\n\nThe research firm said its 2030 capex outlook has nearly doubled since its January 2026 forecast, reflecting higher hyperscaler spending guidance, increased estimates for global data center power capacity, and rising commodity costs.\n\n“AI accelerators are expected to account for about a third of the $3 trillion in data center capex,” Baron Fung, vice president at Dell’Oro Group, told Data Center Knowledge. “AI infrastructure is a major driver.”\n\nHowever, the cost of accelerators alone does not reflect the full expense of AI infrastructure. Operators also need servers to host the chips, specialized networking for AI clusters, and storage to support training and inference.\n\nFung said the forecast assumes global data center power availability will increase to more than 200 GW.\n\nDell’Oro estimates the four largest US cloud providers could account for about half of global data center capex.\n\nIts AI-specialized cloud category, which includes model developers and neocloud providers, is projected to grow at a compound annual rate of nearly 60%, while general-purpose server demand is expected to rise as inference, agentic AI and storage workloads expand.\n\n## Hyperscaler Scale Could Tighten Supply\n\nThe largest cloud providers are using their purchasing power to secure preferred pricing and capacity commitments through long-term supplier agreements. Fung said those arrangements could reduce component availability for other buyers, extending lead times and increasing prices.\n\nTheir growing use of custom chips and architectures also lowers costs at scale while putting pressure on server manufacturers’ pricing. Enterprises may initially favor rented GPU capacity because it avoids major upfront investment while utilization and returns remain uncertain.\n\n“Ultimately, the scale and economics of the largest cloud providers could further favor cloud-based infrastructure, encouraging more enterprises to shift workloads to the cloud,” Fung explained.\n\nHe said he expects many enterprises to take a hybrid approach – stable, heavily utilized AI workloads could eventually move on-premises when ownership becomes cheaper, while variable or incremental demand remains in the cloud.\n\n## AI Spending Extends Beyond Compute\n\nHigher-density AI systems require changes throughout the physical data center, not only additional accelerators, Gordon Johnson, senior CFD manager at Subzero Engineering, a data center solutions company, told Data Center Knowledge.\n\n“AI workloads require more electrical power per rack than traditional computing, often requiring a combination of cooling strategies,” Johnson said.\n\nAccelerator deployments, therefore, drive related investment in power distribution, liquid cooling, containment and supporting architecture.\n\nJohnson suggested operators add capacity in stages, identify where high-density computing is required, and integrate new cooling methods with existing infrastructure.\n\n“The biggest risk is building too much too quickly, so operators must understand where high-density compute is required,” he said.\n\n## Power Availability to Shape Expansion\n\nPower availability is becoming the biggest constraint on AI infrastructure expansion, according to Luke Edney, a partner at Norton Rose Fulbright. Modern data centers can require hundreds of megawatts, with some campuses now being designed at the gigawatt scale.\n\n“Power is also changing the economics of projects – the cost and timeline risk associated with power procurement is now a critical factor in site-selection decisions,” Edney told Data Center Knowledge.\n\nGrid connection timelines in established markets may take more than five years, pushing developers toward locations with surplus renewable generation, flexible connection regimes and utilities willing to form proactive partnerships.\n\nDemand for reliable, low-carbon electricity is also accelerating interest in on-site generation, fuel cells, and small modular reactors.\n\nEdney said enterprises must balance the risk of falling behind against the financial exposure created by committing too early.\n\n“AI investment still needs to be tied to measurable business outcomes, not simply a response to market pressure,” Edney said.",
+      "content_url": "https://www.datacenterknowledge.com/ai-data-centers/ai-infrastructure-pushes-data-center-capex-forecast-above-3-trillion"
+    },
+    {
+      "id": "2026-08-21-eec490",
+      "title": "HCMC Leases 5-Ha Land for Singapore-Backed $508M Data Center Project",
+      "summary": "Ho Chi Minh City authorities have leased a 5-hectare land parcel for a Singapore-backed data center project valued at $508 million, according to Theinvestor. The lease marks a formal step forward for the development, though the identity of the investor and construction timeline were not detailed in the report.",
+      "why_it_matters": "The land lease signals that Vietnamese regulators are moving from rhetoric to execution on attracting foreign data center investment, a shift accelerated by relaxed foreign ownership rules. For Singapore-linked capital, it confirms Vietnam as a credible alternative growth market, and the deal's progress will be watched as a template for how quickly other proposed projects in HCMC can convert announcements into permitted, buildable sites.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "capacity",
+        "land",
+        "vietnam"
+      ],
+      "published_at": "2026-08-21T08:58:50Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORkZUSGR4QmJ0YlZheE4xRXdPdjFmVXFUOGJILVR1dHRSRm1ZbXNFX2Y4YkpGSEZ5bUx3U0RxcmZlVG5LTE1CMkNjZVo4MlI3cUhpdUdvc2RrTnU0QmhuMWl6V2Jvd0UtSjBLWG1QUkx1RE9rY1dLTFgwYjNEM3NqNGpuMWM2aXhzRkVEREYyTGlZYWtLUTFlTHZNT0Y4TWdqajNSWWpza1o?oc=5",
+          "type": "google-news",
+          "publisher": "Theinvestor"
+        }
+      ],
+      "content": "Ho Chi Minh City has leased nearly five hectares of land in its Saigon Hi-Tech Park for the development of a $508 million data center, as the city seeks to expand digital infrastructure to support artificial intelligence and cloud computing.\n\nThe HCMC People's Committee issued the land-lease decision to Evolution DC Vietnam HCMC on Wednesday. The site, located in Tang Nhon Phu ward, will be used for the project under an investment registration certificate issued by the Saigon Hi-Tech Park Authority on March 30.\n\nThe land will be leased for annual payment over 50 years, until March 2076. The lease will be granted without an auction of land-use rights or a tender to select an investor for the land-using project.\n\n![Saigon Hi-Tech Park in HCMC. Photo courtesy of Dau Tu (Investment) newspaper.](https://i.ex-cdn.com/theinvestor.vn/files/content/2026/08/21/kcn-cao-1517.jpg) \n\n## Saigon Hi-Tech Park in HCMC. Photo courtesy of Dau Tu (Investment) newspaper.\n\nThe Evolution DC Vietnam HCMC data center is one of four strategic high-tech projects for which HCMC granted investment certificates in April. The project is being developed by a consortium of three Singaporean investors: Hathor, Frontier, and Evolution.\n\nIt aims to develop large-scale data storage and processing infrastructure for cloud computing services, with a longer-term goal of building storage capacity of one billion gigabytes.\n\nThe infrastructure is expected to support growing demand for AI, cloud computing, and digital services while strengthening the city’s digital infrastructure and supporting its digital-economy ambitions.\n\nHCMC is seeking to attract more large-scale data center projects as demand for computing and data storage rises alongside the development of AI and cloud services.\n\nAccording to the municipal Department of Science and Technology, the city currently has 20 data centers, and nine others have been proposed. Several major projects are being planned in the city, including facilities focused on AI, cloud computing, and high-performance data processing.\n\nAt Tan Phu Trung Industrial Park in Cu Chi, Viettel is developing a large-scale data center project. Kinh Bac City Development Holding Corp., in partnership with Accelerated Infrastructure Capital and VietinBank, is also developing the SGI-HCM Campus, a data center and AI complex with total investment of nearly $2 billion.\n\nOther projects are being proposed in the Saigon Hi-Tech Park. These include a data center backed by a consortium of BW Industrial Development, Warburg Pincus and Digital Realty, as well as a proposal by Sembcorp and BB Holding with an estimated investment of about $850 million and planned capacity of 800 megawatts. UAE-based G42 has also proposed investing about $2 billion in an AI-focused hyperscale data center.\n\nIn Binh Duong ward, Saigon Asset Management last year launched the SAM DigitalHub, a $1.5 billion project focused on AI, data, and digital infrastructure.\n\nThe pipeline reflects Ho Chi Minh City’s push to position itself as a regional technology and digital-economy hub, while competition for data center investment is intensifying across Vietnam as demand for AI computing capacity and cloud infrastructure accelerates.",
+      "content_url": "https://theinvestor.vn/hcmc-leases-5-ha-land-for-singapore-backed-508-mln-data-center-project-d19847.html"
+    },
+    {
+      "id": "2026-08-21-8a3ae0",
+      "title": "DayOne, Cortical Labs and NUS Medicine Launch Singapore's First Biological Data Center Prototype",
+      "summary": "DayOne Data Centers has launched Singapore's first Biological Data Center Prototype in collaboration with Cortical Labs and the National University of Singapore's medical school (NUS Medicine). The prototype explores biological computing as a potentially more adaptive and energy-efficient complement to conventional silicon-based infrastructure.",
+      "why_it_matters": "While still experimental, the project positions a commercial data center operator at the front of research into computing architectures that could eventually address the industry's escalating power constraints. For Singapore, it extends the city-state's strategy of using its constrained market as a testbed for next-generation efficiency technologies, and for operators broadly, biological computing represents a long-dated but potentially transformative hedge against the physical limits of silicon-based AI infrastructure.",
+      "score": 62,
+      "heat": 2,
+      "regions": [
+        "southeast-asia",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "technology",
+        "research",
+        "innovation"
+      ],
+      "published_at": "2026-08-21T07:03:57Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/dayone-cortical-labs-nus-medicine-launch-singapores-first-biological-data-center-prototype/",
+          "type": "rss"
+        },
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON3RCZlNoRWNxc3Zmdm0yYXFpVzNNeHBYRk8xTUlfajdGNUx0T213OE41eC1oQ0JtVngwVXhnWTI0NWhPZTF1aVdaZEk4UElWZURuNVAydnRyZEI4V2NhV1N4V2Q1SjJIMzF2eTZCTFp2Q3ZYajRTSVBxcHAwaHFlZ1YxcUNPcG8?oc=5",
+          "type": "google-news",
+          "publisher": "Interesting Engineering"
+        }
+      ],
+      "companies": [
+        "DayOne",
+        "Cortical Labs",
+        "National University of Singapore"
+      ],
+      "content": "Singapore-headquartered data center platform DayOne Data Centers Limited recently launched Singapore’s first Biological Data Center Prototype in collaboration with Cortical Labs and the National University of Singapore (NUS Medicine). The prototype explores biological computing as a potentially more adaptive and energy-efficient complement to conventional silicon-based infrastructure, according to DayOne’s press release.\n\nBiological computing uses living neurons (nerve cells) grown from stem cells and connected to silicon hardware to process information. The neurons receive electrical signals, respond, and adapt over time, enabling the system to perform certain computing tasks on a fraction of the wattage required by digital computers. In short, the neurons are able to learn, adapt and act on information it receives similar to a computer chip, but requiring a fraction of the energy needed.\n\n![](https://w.media/wp-content/uploads/2026/08/THCDC-1024x199.png)\n\nAreas of exploration include neuro-inspired artificial intelligence, biomedical modelling, drug discovery, and neurological disease research. The initiative draws on NUS Medicine’s neurobiology expertise, Cortical Labs’ technology, and DayOne’s experience in designing, building, and operating mission-critical digital infrastructure.\n\nThe deployment of a 20-unit CL1 biological computing system – the first independently operated biologically integrated server rack in the world – brings Cortical Labs’ technology into a live research environment at NUS Medicine, hosted within infrastructure designed and supported by DayOne.\n\n“Our commitment to Singapore goes beyond capacity. We are here to help shape what the next generation of digital infrastructure looks like, and that means investing in approaches that meet Singapore’s sustainability ambitions alongside its AI ambitions. This prototype is a step toward demonstrating that scaling compute and reducing resource intensity are goals we can pursue together. Singapore has the research depth, infrastructure capability, and collaborative ecosystem to lead that exploration,” said Jamie Khoo, Chief Executive Officer of DayOne.\n\n“The establishment of this prototype shifts the conversation from research to commercial application,” said Hon Weng Chong, Founder and CEO, Cortical Labs. “Biological computing supplements AI in areas where data is sparse, learning from far less and adapting as conditions change. Our aim is to uncover the use cases where that advantage matters most, in areas such as drug discovery, humanoid robotics, cybersecurity and fraud detection. Singapore is the innovation hub for Asia’s data centre industry, and what we build here is the model we intend to replicate and scale globally.”\n\n“This partnership marks a genuine shift in how we think about computing and its broader scientific potential,” said Professor Rickie Patani, Professor of Neuroscience at NUS Medicine, Director of the Neurobiology Programme at the NUS Life Sciences Institute (LSI) and Chair of the Neuroscience Translational Research Programme at NUS Medicine. “By growing living human neurons from stem cells and pairing them with rigorous engineering, we’re not only building a more efficient alternative to silicon; we’re creating a platform that can help us understand learning and adaptation at their biological source. That dual promise is what makes this collaboration sustainable and scientifically generative. It gives us a real route to accelerate drug discovery and neurological disease research, turning laboratory insight into real-world impact far faster than we could before,” Patani added.\n\n![](https://w.media/wp-content/uploads/2026/07/Issue-13-Banner-1-1024x201.jpg)\n\nThe Biological Data Center Prototype is aligned with Singapore’s Green Data Center Roadmap, which sets out higher standards for energy efficiency.",
+      "content_url": "https://w.media/dayone-cortical-labs-nus-medicine-launch-singapores-first-biological-data-center-prototype/"
+    },
+    {
+      "id": "2026-08-21-0b9a75",
+      "title": "Singapore Awards DC-CFA2 Capacity to Digital Realty, Equinix, Keppel and STT GDC",
+      "summary": "Singapore has awarded capacity under its second Data Centre Call for Application (DC-CFA2) to Digital Realty, Equinix, Keppel Data Centres, and ST Telemedia Global Data Centres, with each receiving an allocation of 50 MW. The four operators were chosen from 20 proposals submitted by global and local players in an open competitive process. The awards mark a continuation of Singapore's tightly controlled approach to expanding data center capacity.",
+      "why_it_matters": "Singapore's CFA process remains the primary gate through which new capacity enters one of Asia's most power-constrained markets, so the allocation effectively determines which operators can grow there for the next several years. The four winners gain scarce, government-sanctioned megawatts and a strong competitive moat, while unsuccessful bidders must look to alternative routes such as Johor or retrofit projects — reinforcing the cross-border spillover dynamic that is reshaping the region's capacity map.",
+      "score": 90,
+      "heat": 2,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "capacity",
+        "regulation",
+        "hyperscale",
+        "investment"
+      ],
+      "published_at": "2026-08-21T05:12:26Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/singapores-dc-cfa2-winners-announced-third-cfa-possible/",
+          "type": "rss"
+        },
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWm5DU1BfVzRkWFcyZm9Eb2FBWTlPblBfcjBWb0MtUFBvbUZKWUJ0VXI4cWJFbkY1bEk2V0tXdmNhN0RxN3IyWm9fa2IwejNzWGZVcGtITzBSS0VhdmxWT2ZqUEtVRmRabGJWWDV0clBvd2dvLTNQdVpRVEJaVkVuQjNPRDA5ZEttOXUzY2FlMmE3ZEVyeWVWeWZtZ2VhdXFhcl9qRVFHX2FjMWlaT2I1aG51MGdtYWgwUUJMQmFrUGtvOFliLVRWSG9TR1M?oc=5",
+          "type": "google-news",
+          "publisher": "Data Center Dynamics"
+        }
+      ],
+      "companies": [
+        "Digital Realty",
+        "Equinix",
+        "Keppel Data Centres",
+        "STT GDC"
+      ],
+      "content": "Four data center platforms namely Digital Realty, Equinix, Keppel Data Centres and ST Telemedia Global Data Centres have been announced winners and allocated 50 megawatts (MW) each under Singapore’s second Data Centre – Call for Application (DC-CFA2) exercise. They were selected out of 20 proposals from global and local players through an open competitive process.\n\nThe Singapore Economic Development Board (EDB) and the Infocomm Media Development Authority (IMDA) announced this today in a press release.\n\nThe agencies also announced that they will continue to engage industry stakeholders and review the need for another Call for Application in 18 to 24 months.\n\n![](https://w.media/wp-content/uploads/2026/08/THCDC-1024x199.png)\n\nThe four data centers have committed to exceed the minimum sustainability requirements imposed for DC-CFA2, and will power more than 50 per cent of their DC capacity from green energy sources. The green energy could include biomethane, low-carbon ammonia, low-carbon hydrogen, and/or vertical building-integrated photovoltaics/building-applied photovoltaics.\n\nThey will also adopt advanced technologies such as liquid cooling and 100 per cent energy-efficient IT equipment including meeting Green Mark DC Platinum Certification, according to EDB’s press release.\n\nOther criteria include anchoring advanced compute capabilities in Singapore for technologies such as AI; and contributing economic benefits beyond direct DC including research and development collaborations with Singapore-based partners.\n\nAll four data centers will be hosted on Jurong Island, at the “Sustainable Data Centre Park”, the idea being to jumpstart the renewables sector in Singapore and to position the island as a global testbed for new energies and low-carbon technologies.\n\nLaunched on 1 December 2025, the DC-CFA2 is part of Singapore’s controlled-growth regime for approving new data centres.\n\n![](https://w.media/wp-content/uploads/2026/07/Issue-13-Banner-1-1024x201.jpg)\n\nThe pilot DC-CFA, announced in 2023, saw the eventual allocation of 80MW of data centre capacity to four winners who had to make submissions to IMDA and meet criteria such as data centre innovations and economic benefits to Singapore.",
+      "content_url": "https://w.media/singapores-dc-cfa2-winners-announced-third-cfa-possible/"
+    },
+    {
+      "id": "2026-08-21-2477a8",
+      "title": "YTL Power, JLand to Build 1.5GW Data Center in Johor",
+      "summary": "YTL Power and JLand Group have announced plans to develop a 1.5 GW data center project in Johor, Malaysia. Details of the partnership were reported by ET Datacenters, though specific timelines and phasing were not disclosed.",
+      "why_it_matters": "A 1.5 GW commitment would rank among the largest single data center developments ever announced in Southeast Asia, underscoring Johor's emergence as the region's primary release valve for demand that Singapore cannot absorb. For utilities, grid planners, and competing developers, the scale of this project raises immediate questions about power procurement, land assembly, and whether Johor's infrastructure can keep pace with the volume of gigawatt-scale announcements it is attracting.",
+      "score": 90,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "capacity",
+        "investment",
+        "power",
+        "malaysia"
+      ],
+      "published_at": "2026-08-21T04:21:23Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPWjBMUFFxQ3V2ZFFORVN3TWxXaUhBTHd4RWFRVExnRWRLRjkwd2dQbjZVbjhhWjctOE5FUXdXVTFNTFBqS3FZT21ZLUs3Ql93UV9PdXFJaXY1Q2UwVy12cEhCZ1RSaXY5WmtXSXY1ZG9pQ09UQy1jRnNNZ3Z1ZDZDdDVocmZzTWhBSVVOSVpKY3pVRXdpZ2Rzb2taQ09PZFVMaTZtYnozS2lGTXZjR2UtWVRmU2NHTTF5YnJTR2Q0OW5DbF9CVVhEQ0VFMVgxYWpZamktYzQtUlMtckJFWkZ1dDIxQ0xPck8wYVVXRmpoX3g1dkFVOFFzMkhjb0hIQ0N3TFBn0gHSAUFVX3lxTE9DRTNKdmZPVjk1MEgxMjdSVXpNckdQcktXakJCZmJzLXc4VVN3ZnJSNHRPdFZBQVZFOFhjRU9aMXFkSlY0TVZ3bGJUbVViR3VvOVlCSDh4UE80eTMwbDh5amV3dkdUbUZ4Q3BKRU1MXzR6bndYYmMtLW0yaHRtRWV4YVI5N2ZYN3BvekozZXJ5dy10TzRDOEpkWlhpNE0wMkFEcnZFXzdnM0JXUldFU2pheXFBR3dKSndZdzBuOVA1bVFieUEyTENNazhMc0pOZGNZZw?oc=5",
+          "type": "google-news",
+          "publisher": "ET Datacenters"
+        }
+      ],
+      "companies": [
+        "YTL Power",
+        "JLand"
+      ],
+      "content": "Malaysia's YTL Power International and JLand Group are partnering to develop a gigawatt-scale data center campus in Johor, with planned capacity reaching up to 1.5GW. This expansion aims to meet the rising regional demand for cloud computing and artificial intelligence workloads, significantly boosting digital infrastructure in Southeast Asia.\n\nSelect ETDatacenters as Preferred Choice on Google\n\nHighlights\n\nYTL Power and JLand Group partner to build a new 1.5GW data center campus in Johor, Malaysia.\n\nThe new campus adds to YTL's existing 1.2GW Kulai park, bringing total capacity to 2.7GW.\n\nYTL is considering an IPO for its data center unit by 2027 and its first sukuk financing.\n\nFuture plans include expansion into Thailand, Indonesia, Japan, and the UK, aiming for 3-4GW total capacity.\n\nMalaysia-based infrastructure developer YTL Power International and JLand Group have announced a partnership to develop a gigawatt-scale data center campus in Johor. The planned capacity for this new facility could range between 1.3 gigawatts (GW) and 1.5 GW, according to MBSB Research.This proposed campus will complement YTL’s existing Green Data Center Park in Kulai, which has a planned capacity of up to 1.2 GW. Combined, both campuses are projected to host up to 2.7 GW of capacity, positioning YTL to address the increasing regional demand for cloud computing and artificial intelligence (AI) workloads.\n\nExpansion and Financing Outlook\n\nYTL Power is reportedly exploring an initial public offering (IPO) for its data center unit in 2027, which could value the business at RM28 billion. The company is also in discussions to arrange its first sukuk financing specifically for its data centers. Future expansion plans for YTL include approximately 1 GW in the Klang Valley, alongside potential ventures into Thailand, Indonesia, Japan, and the United Kingdom, which could collectively grow its total capacity to between 3 GW and 4 GW.Under the partnership agreement, SIPP Power Sdn Bhd, a subsidiary of YTL Power, will acquire about 145 acres of land within Sedenak Tech Park West (STeP), with an option to purchase up to an additional 400 acres for future expansion. JLand’s role as the master developer of Ibrahim Technopolis (IBTEC), where STeP West is located, will be crucial in enabling the necessary infrastructure and ecosystem for the project.Malaysia’s state utility Tenaga Nasional Bhd (TNB) is developing a new 500-kilovolt substation in STeP West, a move expected to facilitate energy supply agreements for YTL Power with prospective data center customers.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/ytl-power-jland-to-build-1-5gw-data-center-in-johor/133391635"
+    },
+    {
+      "id": "2026-08-21-96e13f",
+      "title": "Stecon Eyes US$1.5 Billion in Data Center Jobs, in Talks to Invest in New DCs in Thailand",
+      "summary": "Thai construction group Stecon is targeting US$1.5 billion in data center contracts and is in discussions to invest directly in new data center projects in Thailand, according to W.Media. The move would expand the company's role beyond construction into asset ownership.",
+      "why_it_matters": "Stecon's ambition reflects a broader trend of regional construction and engineering firms moving up the value chain into data center development and ownership as Thailand's market accelerates. If the talks convert into investments, it adds a new well-capitalized local player to a market currently dominated by international operators and telcos, and signals growing confidence that Thai demand — buoyed by cloud region launches and government digital economy policy — can support sustained buildout.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "construction",
+        "capacity",
+        "thailand"
+      ],
+      "published_at": "2026-08-21T00:14:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "GN: Data Center Southeast Asia",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV3UyOHlZanlIVlNHQ19zNThVeVU0Tnc0aWJmcFhLNFBkRDdZVWhEekZZcHJtaTZqU3kwZ21FZnZ0YV8zNTNBS1labTRJMHU0RWM4Vnlvd2xOQzg2NFlDWTF0NjMwc2tRWWlEb09RcDRubE50Ni1kbU50ZUh0dmdGbmpWekplY1haMGNlSmpLaUJEdTN1WVNVZjVNOTVfeWoxS1o1MQ?oc=5",
+          "type": "google-news",
+          "publisher": "W.Media"
+        }
+      ],
+      "companies": [
+        "Stecon"
+      ],
+      "content": "Thai construction giant, Stecon Group Pcl aims to bid for three data-center construction projects worth a combined 49.8 billion baht (US$ 1.5 billion). The company, which is controlled by the family of Prime Minister Anutin Charnvirakul, is also in talks with several potential partners to jointly invest in several new data center projects in Thailand, according to Bloomberg quoting Siya Tansamrit, deputy chief strategy and new business officer of Stecon.\n\nAs of June 30, the company has in hand 13.2 billion baht of jobs from four data center facilities.\n\nThe projects are expected to open for bidding this year, according to Siya yesterday during a video conference with investors, as reported by Bloomberg.\n\n![](https://w.media/wp-content/uploads/2026/08/THCDC-1024x199.png)\n\n“We have a very bullish outlook for Thailand’s data-center business, with many projects in the pipeline. Stecon is also in talks with several potential partners to jointly invest in several new data-center projects,” she reportedly said. Stecon has an advantage due to its vast experience in large-scale construction.\n\nIf successful, the contracts would strengthen the company’s foothold in the digital infrastructure sector in Thailand. The sector is experiencing an unprecedented boom amid billions poured in from foreign operators looking to cash in on the strong demand for cloud computing and artificial intelligence.\n\nIn 1H2026, investment applications in Thailand surged to 1.47 trillion, a one-third increase compared to the previous reporting period.\n\n![](https://w.media/wp-content/uploads/2026/07/Issue-13-Banner-1-1024x201.jpg)\n\nIn July, __w.media__ reported that investment in AI dominated FDI into Thailand’s high tech sector, led by East Asians.",
+      "content_url": "https://w.media/stecon-eyes-us-1-5-billion-data-center-jobs-in-talks-to-invest-in-new-dcs-in-thailand/"
+    }
+  ]
+}
