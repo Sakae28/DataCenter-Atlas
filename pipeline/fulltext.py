@@ -408,9 +408,9 @@ def extract_markdown(html) -> str | None:
         include_comments=False,
         include_tables=False,
         include_links=False,
-        # Markdown image syntax comes out with absolute URLs on the sources
-        # we track, so images render standalone on the detail pages.
-        include_images=True,
+        # Images off: they hotlink the publisher's CDN (bandwidth + copyright
+        # exposure on a public mirror) and pull in promo/event banners.
+        include_images=False,
         # Prefer pulling in more of the article over aggressive pruning —
         # detail pages felt incomplete with the default precision bias.
         favor_recall=True,
@@ -510,12 +510,34 @@ def extract_story(client: httpx.Client, story: dict, url: str | None = None) -> 
     return content, content_url
 
 
+def _policy_map() -> dict[str, str]:
+    """Source name -> fulltext policy from sources.yaml (`fulltext:` key).
+    "none" skips extraction entirely (e.g. sources whose terms disallow
+    mirroring). Missing key defaults to "allowed"."""
+    try:
+        from pathlib import Path
+
+        import yaml
+
+        cfg = yaml.safe_load(
+            (Path(__file__).with_name("sources.yaml")).read_text(encoding="utf-8"))
+        return {s["name"]: s.get("fulltext", "allowed") for s in cfg.get("sources", [])}
+    except Exception:  # noqa: BLE001 - default to allowed on any config issue
+        return {}
+
+
 def enrich_stories(stories: list[dict]) -> tuple[int, int]:
     """Add `content`/`content_url` to each story in place where extraction
     succeeds. Returns (succeeded, failed) counts."""
+    policies = _policy_map()
     ok = failed = 0
     with make_client() as client:
         for story in stories:
+            primary = story.get("sources", [{}])[0].get("name", "")
+            if policies.get(primary, "allowed") == "none":
+                story.pop("content", None)
+                story.pop("content_url", None)
+                continue
             try:
                 got = extract_story(client, story)
             except Exception as exc:  # noqa: BLE001 - one story never kills the run

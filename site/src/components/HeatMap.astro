@@ -117,6 +117,21 @@ const legend = STATUS_ORDER.map((s) => ({
       role="img"
       aria-label="Map of tracked data center projects across Asia-Pacific"
     >
+      {/* Pin shapes as symbols: 2,811 pins reference 7 definitions instead of
+          repeating the geometry. Presentation attributes (not CSS) carry the
+          styling so it survives shadow-DOM cloning. */}
+      <defs>
+        <symbol id="pin-circle" viewBox="-12 -12 24 24"><circle r="9" fill="currentColor" /></symbol>
+        <symbol id="pin-triangle" viewBox="-12 -12 24 24"><path d="M0,-10 L9,7 L-9,7 Z" fill="currentColor" /></symbol>
+        <symbol id="pin-square" viewBox="-12 -12 24 24"><rect x="-8" y="-8" width="16" height="16" fill="currentColor" /></symbol>
+        <symbol id="pin-diamond" viewBox="-12 -12 24 24"><path d="M0,-9 L9,0 L0,9 L-9,0 Z" fill="currentColor" /></symbol>
+        <symbol id="pin-cross" viewBox="-12 -12 24 24"><path d="M-6,-6 L6,6 M6,-6 L-6,6" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" /></symbol>
+        <symbol id="pin-plus-circle" viewBox="-12 -12 24 24">
+          <circle r="9" fill="#ffffff" fill-opacity="0.9" stroke="currentColor" stroke-width="3.2" />
+          <path d="M-4.5,0 L4.5,0 M0,-4.5 L0,4.5" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" />
+        </symbol>
+        <symbol id="pin-square-hollow" viewBox="-12 -12 24 24"><rect x="-8" y="-8" width="16" height="16" fill="#ffffff" fill-opacity="0.85" stroke="currentColor" stroke-width="3" /></symbol>
+      </defs>
       {paths.map((p) => (
         <path d={p.d} class:list={['heatmap-country', { 'is-tracked': p.tracked }]}>
           <title>{p.name}</title>
@@ -135,20 +150,7 @@ const legend = STATUS_ORDER.map((s) => ({
             data-sl={pin.statusLabel}
             data-u={pin.url}
           >
-            {PIN_META[status].shape === 'circle' && <circle r="9" />}
-            {PIN_META[status].shape === 'triangle' && <path d="M0,-10 L9,7 L-9,7 Z" />}
-            {PIN_META[status].shape === 'square' && <rect x="-8" y="-8" width="16" height="16" />}
-            {PIN_META[status].shape === 'diamond' && <path d="M0,-9 L9,0 L0,9 L-9,0 Z" />}
-            {PIN_META[status].shape === 'cross' && <path d="M-6,-6 L6,6 M6,-6 L-6,6" class="pin-cross-lines" />}
-            {PIN_META[status].shape === 'plus-circle' && (
-              <g class="pin-plus">
-                <circle r="9" />
-                <path d="M-4.5,0 L4.5,0 M0,-4.5 L0,4.5" />
-              </g>
-            )}
-            {PIN_META[status].shape === 'square-hollow' && (
-              <rect class="pin-hollow" x="-8" y="-8" width="16" height="16" />
-            )}
+            <use href={`#pin-${PIN_META[status].shape}`} width="24" height="24" x="-12" y="-12" />
           </g>
         )),
       )}
@@ -222,8 +224,6 @@ const legend = STATUS_ORDER.map((s) => ({
 </div>
 
 <script>
-  import L from 'leaflet';
-  import 'leaflet/dist/leaflet.css';
   import {
     unprojectX,
     unprojectY,
@@ -437,10 +437,10 @@ const legend = STATUS_ORDER.map((s) => ({
     document.addEventListener('dcmap:locate', (e) => {
       const d = (e as CustomEvent<{ x: number; y: number; label: string; approx: boolean }>).detail;
       if (!d) return;
-      if (leafletMap) {
+      if (leafletMap && LRef) {
         if (!locateMarker) {
-          locateMarker = L.marker([0, 0], {
-            icon: L.divIcon({
+          locateMarker = LRef.marker([0, 0], {
+            icon: LRef.divIcon({
               className: 'dc-locate',
               html: '<span class="map-marker-ring"></span><span class="map-marker-dot"></span>',
               iconSize: [26, 26],
@@ -481,20 +481,35 @@ const legend = STATUS_ORDER.map((s) => ({
     });
 
     /* ---------- Progressive enhancement: Leaflet + OSM street tiles --------
-       The SVG above is the offline baseline. When online and the first tile
-       arrives, swap to Leaflet (street-level detail on zoom); any failure or
-       a 6s stall keeps the SVG. Pins reuse the SVG markers' shapes, colors
-       and data attributes, so both modes render identically. */
-    let leafletMap: L.Map | null = null;
-    let locateMarker: L.Marker | null = null;
+       The SVG above is the offline baseline. Leaflet + markercluster load
+       lazily (dynamic import) and take over only when the first tile
+       arrives; any failure or a 5s stall keeps the SVG. Pins reuse the SVG
+       markers' shapes, colors and data attributes. */
+    let leafletMap: import('leaflet').Map | null = null;
+    let locateMarker: import('leaflet').Marker | null = null;
+    let LRef: typeof import('leaflet') | null = null;
+    let clusterGroup: any = null;
+    const markersById = new Map<string, import('leaflet').Marker>();
 
     if (leafletEl && navigator.onLine) {
-      try {
-        const map = L.map(leafletEl, {
+      (async () => {
+        try {
+          LRef = await import('leaflet');
+          await import('leaflet/dist/leaflet.css');
+          await import('leaflet.markercluster');
+          await import('leaflet.markercluster/dist/MarkerCluster.css');
+          await import('leaflet.markercluster/dist/MarkerCluster.Default.css');
+        } catch {
+          return; // offline or load failure: stay on the SVG map
+        }
+        const L = LRef!;
+        try {
+        const map = L.map(leafletEl!, {
           zoomControl: true,
           minZoom: 3,
           maxZoom: 18,
           zoomSnap: 0.5,
+          preferCanvas: true,
         });
         map.fitBounds([[MAP_LAT0, MAP_LON0], [MAP_LAT1, MAP_LON1]]);
         // Re-measure on every container resize (list/map view toggle,
@@ -542,13 +557,20 @@ const legend = STATUS_ORDER.map((s) => ({
           tiles.addTo(map);
         };
 
-        const activate = (m: L.Map, _tiles: L.TileLayer) => {
+        const activate = (m: import('leaflet').Map, _tiles: import('leaflet').TileLayer) => {
           leafletMap = m;
           wrap!.classList.add('is-leaflet');
           // The view toggle may have resized the container while the first
           // tile was in flight — re-measure after layout so tiles and
           // markers land in the right place.
           requestAnimationFrame(() => m.invalidateSize());
+          // 2,811 pins would paint as an unreadable carpet at full view —
+          // cluster them; individual markers resolve on zoom.
+          clusterGroup = (L as any).markerClusterGroup({
+            chunkedLoading: true,
+            maxClusterRadius: 42,
+            disableClusteringAtZoom: 10,
+          });
           // Port every SVG pin to a Leaflet marker (same shape/color/data).
           svg!.querySelectorAll<SVGGElement>('g.pin').forEach((g) => {
             const mm = g.getAttribute('transform')
@@ -574,27 +596,29 @@ const legend = STATUS_ORDER.map((s) => ({
               '<span class="map-popup-cta">View project →</span>',
               { direction: 'top', offset: [0, -10], className: 'dc-tooltip' },
             );
-            if (g.classList.contains('is-hidden')) {
-              mk.on('add', () => mk.getElement()?.classList.add('is-hidden'));
-            }
             mk.on('click', () => { if (d.u) window.location.href = d.u; });
-            mk.addTo(m);
             markersById.set(d.id ?? '', mk);
           });
+          clusterGroup.addLayers([...markersById.values()]);
+          m.addLayer(clusterGroup);
         };
         tryLayer(0);
-      } catch { /* offline or init failure: stay on the SVG map */ }
+        } catch { /* offline or init failure: stay on the SVG map */ }
+      })();
     }
 
     /* Search/filter pin visibility (pipeline.astro dispatches dcmap:visible
-       with the visible project ids); SVG pins are class-toggled there. */
-    const markersById = new Map<string, L.Marker>();
+       with the visible project ids); SVG pins are class-toggled there. In
+       Leaflet mode the cluster rebuilds with just the visible markers. */
     document.addEventListener('dcmap:visible', (e) => {
-      if (!leafletMap) return;
+      if (!leafletMap || !clusterGroup) return;
       const ids = new Set((e as CustomEvent<{ ids: string[] }>).detail?.ids ?? []);
+      const keep: import('leaflet').Marker[] = [];
       markersById.forEach((mk, id) => {
-        mk.getElement()?.classList.toggle('is-hidden', !ids.has(id));
+        if (ids.has(id)) keep.push(mk);
       });
+      clusterGroup.clearLayers();
+      clusterGroup.addLayers(keep);
     });
   }
 </script>

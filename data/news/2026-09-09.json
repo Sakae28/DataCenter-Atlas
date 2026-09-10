@@ -1,6 +1,620 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-09T00:30:04Z",
-  "hot": [],
-  "stories": []
+  "generated_at": "2026-09-10T13:20:21Z",
+  "hot": [
+    "2026-09-09-6e50eb",
+    "2026-09-09-f8d6e1",
+    "2026-09-09-10a8a1",
+    "2026-09-09-916e90",
+    "2026-09-09-31b5cb"
+  ],
+  "stories": [
+    {
+      "id": "2026-09-09-52f87b",
+      "title": "Future of AI is distributed infrastructure built on open source",
+      "summary": "Rising AI demand is exposing cloud bottlenecks, as firms eye in-house open source systems to cut costs and limit vendor lock-in.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "cloud",
+        "open-source",
+        "infrastructure"
+      ],
+      "published_at": "2026-09-09T23:20:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/future-of-ai-is-distributed-infrastructure-built-on-open-source",
+          "type": "rss"
+        }
+      ],
+      "content": "# Future of AI is distributed infrastructure built on open source\n\nThu, 10th Sep 2026 (Today)\n\nThe exponential growth of AI workloads is driving a 10x-20x increase in demand within a short timeframe. Existing cloud infrastructure is proving inadequate with latency issues, bandwidth constraints, and the sheer volume of requests creating bottlenecks. Traditional cloud models are struggling to keep pace.\n\n\"No other space in technology has evolved or changed so fast as artificial intelligence,\" said Thierry Carrez, the General Manager of OpenInfra Foundation. \"We've seen open source being used in AI frameworks, in open models, in inference and in agents. But arguably there is no way you can run those frameworks or those harnesses or that inference without infrastructure that helps with running it.\"\n\nThe cost of that infrastructure is growing exponentially. Over the last year, infrastructure spending has more than doubled with Carrez saying it could reach USD$750B this year.\n\n### Powering frontier inference\n\n\"When it comes to infrastructure, you have a few choices to make. The first choice is where that infrastructure should run. You can run on someone else's infrastructure. That's the most convenient choice. You don't have to worry about infrastructure anymore. You can focus on your core business. But I would argue that you need to care about infrastructure because that's where your real gains are,\" said Carrez.\n\nHe argues that running AI on-prem as part of your business is the right choice in the age of AI because you can control costs, avoid vendor lock-in and better manage compliance.\n\n\"The traditional cloud model is reaching its limits. It's simply not designed to handle the scale and latency requirements of modern AI,\" said Carrez.\n\nAlongside the physical infrastructure, there are decisions to make about software. And while there are off-the-shelf solutions, he suggests that this is another type of vendor lock-in. Open source, he added, gives control and leverages the existing work of thousands of contributors.\n\n\"Open infrastructure is mature. It's been used in production for years at massive scale,\" he added.\n\n### Building the AI stack\n\nDelivering AI at scale requires a hardware and software stack that enables every component to be optimised. Carrez, along with many other open source experts at KubeCon in Shanghai, espoused a four-tier model.\n\nThe first-tier focusses on the edge and bringing compute power closer to the source of data whether that's IoT devices, industrial sensors, or end user devices. This reduces latency and bandwidth requirements. The goal is to move processing from centralised clouds to decentralised locations.\n\nSpecialised hardware is the basis of the second tier. While GPUs remain important, there's a growing recognition that specialised hardware accelerators like TPUs, FPGAs, and potentially entirely new architectures will be essential for specific AI workloads. But for them to be truly effective open standards and interoperability are key.\n\nTraditional networks are not up to the task. The need for low-latency, high-bandwidth networks that potentially use technologies like RDMA over Converged Ethernet are critical. This networking tier ensures that each layer of the infrastructure can send and receive data without becoming a bottleneck.\n\nThe fourth tier focusses on data pipelines and orchestration to enable the efficient movement and processing of the massive datasets required for AI training and inference.\n\nThe accelerating adoption of AI presents a significant infrastructural challenge, underscored by a massive increase in demand within the coming years. The limitations of traditional cloud models, such as latency, bandwidth, and the escalating volume of inference requests, highlight the importance of embracing a new approach.\n\nMoving infrastructure in-house offers strategic control over costs, mitigates vendor lock-in, and supports compliance management. A robust and adaptable AI ecosystem demands a layered architecture that encompasses edge compute, specialised hardware, optimised networking, and sophisticated data orchestration. This can be built on a foundation of open source technologies that ensure scalability and foster continuous innovation.",
+      "content_url": "https://datacenternews.asia/story/future-of-ai-is-distributed-infrastructure-built-on-open-source"
+    },
+    {
+      "id": "2026-09-09-0b6c5f",
+      "title": "AI drives enterprise storage demand as data piles up",
+      "summary": "Almost all firms are storing more because of AI, as archived data is being pulled back into use and storage costs climb.",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "storage",
+        "data-management"
+      ],
+      "published_at": "2026-09-09T22:46:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/ai-drives-enterprise-storage-demand-as-data-piles-up",
+          "type": "rss"
+        }
+      ],
+      "content": "# AI drives enterprise storage demand as data piles up\n\nThu, 10th Sep 2026 (Today)\n\nWD has published IDC research showing that artificial intelligence is increasing enterprise data storage requirements, with most organisations expecting AI-related data growth to continue over the next three years.\n\nThe findings point to a shift in how companies manage information created and reused by AI systems, including larger data lakes, longer retention periods and more archived material being brought back into active use.\n\nIDC surveyed 763 IT and business decision-makers across seven countries with direct responsibility for AI infrastructure or data storage decisions. The study found that 94.7% of organisations had stored more data over the past 12 months because of AI and generative AI adoption.\n\nAmong those respondents, 61% said AI had driven data growth of 25% or more in the past year. A larger share, 74%, expected data volumes to rise by at least 25% over the next three years.\n\n### Data growth\n\nThe research found that 85.4% of organisations had seen their data lake volumes increase over the past year. It identified AI-generated data, including synthetic data, inference outputs and model logs, as the main reason for that expansion for 59.4% of respondents.\n\nThis suggests AI's impact on storage extends beyond the datasets used to train models. Data produced during the operation of AI systems is also adding to long-term storage demand.\n\nNearly 95% of respondents said AI and generative AI adoption had increased the value of their organisation's data. At the same time, 74.3% said those technologies had led them to retain data for longer.\n\nThe survey also found that 75.9% were bringing back growing volumes of archived cold-tier data to support AI workloads. In another sign of changing storage needs, 96% said they expected to need faster archive retrieval for AI inference and retrieval-augmented generation applications.\n\n### Storage mix\n\nIDC's findings suggest much of the information used by businesses sits outside the fastest storage layers. According to the research, 74.6% of enterprise data resides in warm, cool and cold storage tiers, while more than 60% of data lake volume consists of cold or infrequently accessed data.\n\nThis matters because companies often build AI systems around assumptions of immediate access to large volumes of information. The figures indicate that a substantial share of potentially useful data is held in storage tiers designed for lower access frequency and lower cost.\n\nThe survey found near-universal focus on spending for storage infrastructure. Some 98.2% of respondents said total cost of ownership per terabyte was important or very important when making storage decisions.\n\nThe results come as companies reassess the balance between compute spending and the less visible costs of storing and retrieving data over time. Much of the recent debate around AI infrastructure has focused on processors and model training, but the report argues that data persistence is becoming a central issue.\n\nWD said the economics of storage are changing as data created by one AI workload can remain useful for later applications. That includes training datasets, model checkpoints, logs, synthetic data and inference outputs that may be retained and reused rather than deleted once an initial task is complete.\n\n### Executive view\n\nIrving Tan, Chief Executive Officer, WD, said the findings reflected a broader shift in AI infrastructure planning.\n\n\"For the last few years, the AI infrastructure conversation has centred on compute. But AI runs on data,\" said Irving Tan, Chief Executive Officer, WD.\n\n\"Organisations are generating more data, keeping it longer, and finding new ways to create value from the information they already have. Compute requirements will evolve over time, but the need to store, manage and access data at scale is only growing. That foundation will play a critical role in determining how far AI can go.\"\n\nThe white paper was based on a quantitative survey and supported by qualitative interviews with three senior storage industry leaders. It focused on organisations already involved in AI infrastructure and data storage decisions, showing how established AI users are adapting their systems as historical and newly generated data become more closely linked.\n\nOne of the clearest messages in the study is that many organisations no longer treat archived data as dormant. Instead, they are recalling historical datasets to support newer AI tasks, changing how they think about the boundary between active and inactive information.\n\nThat trend could have practical consequences for spending priorities across corporate IT, particularly as companies weigh the cost of keeping more information accessible against the potential benefits of using it in model training, inference and retrieval-based systems. The IDC figures show that, for many organisations, pressure is already building across the full data lifecycle rather than in compute alone.",
+      "content_url": "https://datacenternews.asia/story/ai-drives-enterprise-storage-demand-as-data-piles-up"
+    },
+    {
+      "id": "2026-09-09-10a8a1",
+      "title": "FlexSysAI launches grid-flexibility pilot with ResetData, CSIRO, University of Queensland",
+      "summary": "FlexSysAI has launched a grid-flexibility pilot in partnership with data center operator ResetData, Australia's national science agency CSIRO, and the University of Queensland. The trial will test how AI computing facilities can modulate their power use to support grid stability.",
+      "why_it_matters": "The pilot addresses a central tension in Australia's data center growth: grid operators need flexible loads to balance renewable-heavy power systems, and data centers are among the largest new consumers. If AI workloads can reliably shift or curtail demand, it could ease connection bottlenecks and give operators a new revenue stream from energy markets.",
+      "score": 72,
+      "heat": 2,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "power",
+        "grid",
+        "ai",
+        "sustainability"
+      ],
+      "published_at": "2026-09-09T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/flexsysai-launches-grid-flexibility-pilot-with-resetdata-csiro-university-of-queensland/",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/flexsysai-launches-grid-flexibility-pilot-with-resetdata-csiro-university-of-queensland/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "FlexSysAI",
+        "ResetData",
+        "CSIRO",
+        "University of Queensland"
+      ],
+      "content": "Australian AI workload orchestration firm FlexSysAI has launched a pilot with ResetData, Australia’s national science agency CSIRO, and the University of Queensland to test its new platform’s ability to shift AI workloads without impacting performance.\n\nAs part of the pilot, ResetData will provide the sovereign AI infrastructure and live AI data center environment to test the technology, with CSIRO and the University of Queensland supporting the validation of the project. The project is already underway and is managing workloads of an Nvidia H200 cluster at ResetData’s AI-F1.\n\n“Early testing has been extremely promising, showing our platform can rapidly respond to electricity market signals and shift AI workloads to when and where power is more readily available. This reduces strain on the energy system, lowers operators’ energy costs, and unlocks additional capacity in existing infrastructure, meaning quicker connections to the Grid,” said Victor Feoktistov, co-founder of FlexSysAI.\n\nThe FlexSysAI platform, launched last month, works by connecting live electricity market and grid conditions with AI workload balancing, shifting compute workloads to locations where power is cheap and abundant, while also allowing non-critical workloads to be reduced where necessary during periods of grid stress.\n\nThe company claims it will allow data center operators to connect to the grid sooner, lower power bills, access low-carbon power during periods of abundance, and monetize demand response services, while providing optionality over where workloads are shifted.\n\nAccording to the companies, the pilot will use FlexSysAI to categorize AI workloads into distinct \"Flex Tiers,\" ensuring that critical tasks are protected while elastic training jobs provide reliable load-shifting.\n\n“It’s great to be working with FlexSysAI, CSIRO and the University of Queensland on this pilot. As Australia’s sovereign AI infrastructure provider, we want to enable Australian innovation by providing the infrastructure to test and prove new ideas that can have a meaningful impact across the industry,” added Marcel Zalloua, co-CEO of ResetData.\n\nFlexSysAI is one of several companies to develop a platform that can modulate AI workloads to reduce grid impact. The most notable is Emerald AI, which has developed a platform called the Emerald Conductor that mediates between the grid and data centers, orchestrating AI workloads in real time. The company has completed several demonstration projects to prove its system works within real-world data center environments. So far, it has completed two in the US, in Phoenix and Chicago, and one in the UK in partnership with the National Grid.\n\nThe company announced its first commercial project in October, with the orchestration software set to be deployed at Nvidia’s under-construction 96MW Aurora data center in Manassas, Virginia.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/flexsysai-launches-grid-flexibility-pilot-with-resetdata-csiro-university-of-queensland/",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-09-09-6e50eb",
+      "title": "JD Cloud and Moore Threads team up on cluster of 100,000 GPUs",
+      "summary": "JD Cloud is partnering with Chinese GPU maker Moore Threads to build a computing cluster comprising 100,000 graphics processors. The collaboration pairs one of China's major cloud providers with a domestic chip designer as the country pushes for self-sufficient AI infrastructure.",
+      "why_it_matters": "The project is a significant test of whether homegrown Chinese GPUs can operate at hyperscale, given ongoing US export restrictions on Nvidia's top chips. Success would reduce China's reliance on foreign silicon and give domestic chipmakers a flagship reference deployment to win further cloud contracts.",
+      "score": 82,
+      "heat": 2,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "gpus",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-09T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/jd-cloud-and-moore-threads-team-up-on-cluster-of-100000-gpus/",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/jd-cloud-and-moore-threads-team-up-on-cluster-of-100000-gpus/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "JD Cloud",
+        "Moore Threads"
+      ],
+      "content": "China's JD Cloud and chip maker Moore Threads are set to work together on a 100,000-strong GPU cluster.\n\nRevealed at JD's 2026 Global Technology Explorers Conference, the project will use Chinese hardware. According to JD Cloud, this is the first cluster of its kind to be hosted by a major domestic AI cloud provider.\n\nAs reported by Chinese publication Securities Times, the cluster will comprise Moore Threads' \"full-featured GPUs\" and will be designed for large-scale model training, inference, and embodied intelligence workloads.\n\nThe two companies have previously partnered on a 10,000 GPU cluster.\n\nDetails about the GPUs have not been provided.\n\nAccording to Moore Threads' website, the company has the MTT S5000 GPU, powered by the Moore Threads' PH100 chip and built on the advanced \"PingHu\" architecture. The company says it can deliver full-precision compute support from FP8 to FP64. The company also offers the MTT S4000 and S3000 GPUs, the latter of which is based on the ChunXiao chip.\n\nCloud provider JD Cloud operates data centers across China, with its core regions in Beijing, Guangzhou, Shanghai, and Suqian.\n\nMoore Threads was founded by former Nvidia executive James Zhang Jianzhong in 2020. The company has received funding from Shenzhen Capital Group, GGV Capital, Sequoia Capital China, ByteDance, and Tencent, and went public on the Shanghai Stock Exchange in December 2025. The company is listed on the US Bureau of Industry and Security's Entity List.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/jd-cloud-and-moore-threads-team-up-on-cluster-of-100000-gpus/",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-09-09-f8d6e1",
+      "title": "Samsung working with OpenAI on next-generation custom chip - report",
+      "summary": "Samsung is reportedly collaborating with OpenAI on a next-generation custom chip, according to a media report. Details of the design scope and production timeline have not been confirmed by either company.",
+      "why_it_matters": "If confirmed, the tie-up would give OpenAI another path to reduce its dependence on Nvidia while deepening Samsung's foundry and memory role in the AI supply chain. It would also intensify the race among hyperscalers and AI labs to secure bespoke silicon, with implications for chip pricing and foundry capacity across Asia.",
+      "score": 76,
+      "heat": 2,
+      "regions": [
+        "korea",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "semiconductors"
+      ],
+      "published_at": "2026-09-09T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/samsung-working-with-openai-on-next-generation-custom-chip-report/",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/samsung-working-with-openai-on-next-generation-custom-chip-report/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Samsung",
+        "OpenAI"
+      ],
+      "content": "Samsung is reportedly working with OpenAI on the next generation of the ChatGPT-maker’s custom chips.\n\nHarrison Kim, general manager of OpenAI Korea, told reporters that the two companies were expanding their partnership across semiconductors and enterprise AI deployment.\n\n\"One of the areas where we have made the most progress and gained the most recognition with Samsung Electronics is our joint production and research on the next-generation chips we are developing,\" Kim said, in comments first reported by Reuters.\n\nOpenAI revealed details of its first foray into semiconductors, named Jalapeño, last month. Developed in partnership with Broadcom, it is rated at 700W, and will be deployed in racks featuring 128 chips. TSMC manufactures the chips in its fabs in Taiwan.\n\nQuite what form OpenAI’s extended collaboration with Samsung has taken remains to be seen. *DCD* has contacted both firms for comment.\n\nLast year, Samsung and another Korean semiconductor firm, SK Hynix, signed a non-binding letter of intent to supply memory chips to OpenAI for use in its data centers.\n\nSpeaking at a press conference, Kim said Samsung is one of the biggest corporate users of ChatGPT globally. South Korea is the second-largest market in the world when it comes to paid users of the chatbot, behind the US.\n\nThe news comes a day after OpenAI revealed it was taking space at two data centers in South Korea operated by Firmus. But the firm’s plan to build its own Stargate data center in Korea is apparently facing delays as it struggles to procure a suitable site.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/samsung-working-with-openai-on-next-generation-custom-chip-report/",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-09-09-166746",
+      "title": "Google and Blackstone JV experiences delays in data center projects - report",
+      "summary": "A data center joint venture between Google and Blackstone is experiencing delays across its projects, according to a media report. The specific causes and revised timelines were not disclosed.",
+      "why_it_matters": "Setbacks at a high-profile hyperscaler-private equity partnership underscore how power availability, supply chains, and construction constraints are slowing even the best-capitalized players. Delays ripple through to tenants waiting on capacity, contractors holding schedules, and investors underwriting aggressive delivery timelines across the sector.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "hyperscale",
+        "investment",
+        "capacity"
+      ],
+      "published_at": "2026-09-09T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/google-and-blackstone-jv-experiences-delays-in-data-center-projects-report/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Google",
+        "Blackstone"
+      ],
+      "content": "Google and Blackstone's joint venture has been hit with delays at some of its data center projects.\n\nAs reported by Bloomberg, the company is facing obstacles at various data center locations across the US, but the JV remains optimistic about its progress.\n\nKnown internally as Project Braid, the JV was formed in May of this year and saw Google and Blackstone planning to launch a new cloud platform offering Google's Tensor Processing Units (TPUs). Blackstone said it would invest $5 billion in equity capital from its funds, and the two aim to bring 500MW of capacity online in 2027, with plans to expand over time.\n\nAccording to the Bloomberg report, among the projects hit with delays is a data center that was being developed in Cheyenne, Wyoming. Previously, the project was being pursued by Crusoe as a 1.8GW campus that could scale to 10GW. But in June, Crusoe said it had paused work on the site \"at the request of our customer.\" Google then took over the project the following month.\n\nAccording to Bloomberg's anonymous sources, this was due to Google losing confidence in Crusoe's ability to deliver the project. *DCD* has not been able to independently verify this. The project has since been scaled down.\n\nAnother project site was deemed unsuitable as it had the wrong kinds of transformers, and Governor Greg Abbott's decision to freeze new projects in Texas has also presented an obstacle.\n\nDespite this, Benjamin Treynor Sloss, the CEO of the JV, said: \"We are making strong progress building out our infrastructure and are fully on track to deliver on our 500MW target in 2027. Given higher-than-expected demand for our compute capacity, we are actively expanding our pipeline to evaluate a broader pool of sites to support our long-term scaling plans. It is very common for individual potential sites to progress at different rates and we had always factored that into our planning, which is why we have a diversified set of options.”\n\nSources told Bloomberg that the JV has identified some 29 potential data center locations.\n\n*DCD* has reached out to Google, Blackstone, and Crusoe for comment.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/google-and-blackstone-jv-experiences-delays-in-data-center-projects-report/",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-09-09-432e85",
+      "title": "SoftBank-backed SB Energy subsidiary to develop former Texas 3M campus into R&D tech center",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "investment",
+        "ai",
+        "development"
+      ],
+      "published_at": "2026-09-09T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/softbank-backed-sb-energy-subsidiary-to-develop-former-texas-3m-campus-in-rd-tech-center/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "SoftBank",
+        "SB Energy"
+      ],
+      "content": "Softbank affiliate SE Cosmos will convert the former Texas 3M campus into a research and development technology center, according to a filing with the US Securities and Exchange Commission (SEC).\n\nSE Cosmos, which is indirectly owned by SoftBank-backed SB Energy, has secured about $1 billion in financing to convert the Austin campus for this purpose.\n\nBuilt in the 1980s, 3M sold the site, which is now referred to as the “Cosmos Technology Campus,” in 2018.\n\nA ratings note from S&P Global said that the site would comprise 50MW of critical IT load of rack development halls, silicon development bench spaces, and high-density powered lab halls. SoftBank will use the facilities for R&D to support its AI technology development strategy.\n\nIn its note, S&P also revealed that the facility will be powered by the local public utility, Austin Energy, which will be making upgrades to its existing substation.\n\nAccording to the SEC filing, Silver Bands 3 (US) Corp., another affiliate of SoftBank, has leased space in the facility for an initial 15-year term. The lease is expected to generate $2.5bn in rent over the term and will commence in stages between 2026 and 2027.\n\nSB Energy was founded as a subsidiary of SoftBank in 2011, with a separate global entity, SB Energy Global, founded in 2015 to develop projects outside of Japan.\n\nLast week, SB Energy filed for an initial public offering (IPO), targeting a raise of between $5bn and $7bn, with a valuation of $50bn.\n\nIn August, Nvidia confirmed it would invest $1.5bn in SB Energy for support on a separate data center campus in Pike County, Ohio.\n\nThe company has also signed on to build and operate OpenAI’s 1.2GW Stargate data center in Milam County, Texas.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/softbank-backed-sb-energy-subsidiary-to-develop-former-texas-3m-campus-in-rd-tech-center/",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-09-09-fb2dac",
+      "title": "Oil leak from data center contaminates water in Bangkok, Thailand",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "incident",
+        "environment",
+        "operations"
+      ],
+      "published_at": "2026-09-09T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/oil-leak-from-data-center-contaminates-water-in-bangkok-thailand/",
+          "type": "html-list"
+        }
+      ],
+      "content": "An oil leak at a data center in Bangkok, Thailand, that saw 32 cubic meters of water contaminated, has been cleaned up.\n\nThe Thai capital's Pollution Control Department (PCD) said on Tuesday that the leak, which local media reports say stemmed from Damac Digital Thailand’s BKK 01 facility on Rama 9 Road, had been successfully contained.\n\nAccording to The Nation, an emergency clean-up operation was launched on Monday evening after residents in the area reported oil and chemical odors rising from their drains.\n\nInitial response teams deployed oil-absorbing booms to stop the spread, and then applied an environmentally-friendly solution to break down oil molecules in the water without causing any residual problems.\n\nDamac Digital then sent in contractors to remove 32 cubic meters of contaminated water and sludge from the system.\n\nThe PCD said its inspection showed that no volatile organic compounds or hydrogen sulfide remained in the air following the clean-up, but that it will continue to monitor conditions in the area.\n\n*DCD* has contacted Damac Digital for comment. The company has not released any details on the cause of the leak.\n\nFormerly known as Edgnex, Damac Digital is the data center arm of UAE-based commercial property firm Damac, and was founded in 2021 by Hussain Sajwani, beginning operations with a 12MW campus in Riyadh, Saudi Arabia.\n\nIt announced plans for the Bangkok facility in 2024, and said it would comprise of two 10MW data center buildings.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/oil-leak-from-data-center-contaminates-water-in-bangkok-thailand/",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-09-09-830f87",
+      "title": "Firmus focuses on Asia as Australian approvals stumble ahead of IPO",
+      "summary": "Firmus is shifting its expansion focus toward Asian markets as regulatory approvals for its Australian projects face setbacks ahead of a planned initial public offering. The pivot comes as the AI infrastructure company seeks to demonstrate growth to prospective investors.",
+      "why_it_matters": "The move highlights how permitting and planning delays in Australia are pushing capital and capacity toward more receptive Asian jurisdictions such as Malaysia. For investors weighing the IPO, it raises questions about execution risk in the home market even as overseas expansion improves the growth story.",
+      "score": 72,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "capacity",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-09T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/technology/firmus-focuses-on-asia-as-australian-approvals-stumble-ahead-of-ipo-20260909-p60vrp",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Firmus Technologies"
+      ],
+      "content": "Firmus is being forced to focus on dealmaking in Asia as it builds momentum ahead of a blockbuster ASX-listing, with its attempts at developing Australian data centre projects meeting planning hurdles.\n\nWhile Firmus has secured a deal with OpenAI allowing the developer of the ChatGPT artificial intelligence platform to use two new sites in Malaysia, and is building another data centre in Indonesia, its Australian operations are taking longer than expected to start processing computer chips.",
+      "content_url": "https://www.afr.com/technology/firmus-focuses-on-asia-as-australian-approvals-stumble-ahead-of-ipo-20260909-p60vrp",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-09-09-916e90",
+      "title": "Nvidia-backed firm in Indonesia signs US$3.1b GPU loan",
+      "summary": "Zankore, an Indonesian AI infrastructure platform backed by Nvidia, has secured a US$3.1 billion loan to buy advanced chips. The financing ranks among the largest GPU-backed debt deals in Asia and reflects lenders' growing willingness to fund AI hardware at scale in the region.",
+      "why_it_matters": "A chip purchase financed by multi-billion-dollar debt shows how capital-intensive Southeast Asia's AI buildout has become, and how dependent it is on continued access to US-controlled GPU supply. Indonesian operators gain compute capacity, but the leverage involved raises the stakes if AI demand or export rules shift.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "investment",
+        "capacity"
+      ],
+      "published_at": "2026-09-09T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817443",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA",
+        "Zankore"
+      ],
+      "content": "(Sept 9): Zankore, an Indonesian AI infrastructure platform backed by Nvidia Corp, signed a US$3.1 billion (RM12.6 billion) loan deal on Wednesday to purchase advanced chips, underscoring surging demand for computing capacity across Asia.\n\nCitigroup Inc, ING, Natixis, Qatar National Bank and United Overseas Bank Ltd underwrote the loan, one of Asia’s largest AI infrastructure financing, according to a statement by Zankore. Citigroup is the sole debt adviser on the deal.\n\nProceeds will be used to acquire and deploy advanced Nvidia graphics processing units in the company’s new AI factory, which will have an initial capacity of 100 megawatts before expanding to one gigawatt.\n\nGPU financing is emerging as the next frontier for AI lenders, as banks and private credit expand beyond data centres to the hardware that powers them. Bank-led deals have been scarce in Asia, where uncertainty over the residual value of chips and geopolitical risks amid US-China technology rivalry remain key obstacles.\n\nZankore’s financing carries a revenue-sharing and credit-support model from Nvidia, which would ease lenders’ concerns over repayment and credit risk.\n\n“Nvidia is helping us to make it financeable,” Vikram Sinha, chairman of Zankore, said in an interview. Nvidia’s service order will ensure that the computing capacity can be extended to not only investment grade customers but “small enterprises who need compute on demand,” he said.\n\nNvidia launched the model in July to help its partners broaden access to data center infrastructure and provide financial support for smaller AI players.\n\nApart from Nvidia, Zankore’s shareholders include Indonesia’s second-largest mobile carrier Indosat Ooredoo Hutchison Tbk, Ooredoo Group and Nokia.\n\n*Uploaded by Magessan Varatharaja*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817443",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-09-09-6b4a2a",
+      "title": "S&P sees Malaysian data centre operators tapping offshore US dollar bonds as local banks tighten financing",
+      "summary": "S&P Global Ratings expects Malaysian data center operators to begin issuing offshore US dollar bonds as local banks grow more selective about lending to the sector. Deal sizes continue to expand even as domestic financing appetite tightens, pushing operators toward international capital markets.",
+      "why_it_matters": "A shift to offshore dollar funding would open deeper pools of capital for Malaysia's buildout but expose operators to currency and refinancing risk their ringgit revenues may not naturally hedge. How these debut deals price will set benchmarks that shape funding costs for the entire Southeast Asian data center sector.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "financing",
+        "capacity"
+      ],
+      "published_at": "2026-09-09T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817412",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "S&P Global Ratings"
+      ],
+      "content": "KUALA LUMPUR (Sept 9): Malaysian data centre operators could turn to the offshore US dollar bond market for funding “quite soon” as local banks become increasingly selective in financing a sector where data centre deals continue to grow in size, according to S&P Global Ratings.\n\nS&P Global Ratings director of financial institutions ratings Nikita Anand said that with data centre exposure accounting for only 1% of total loans currently, Malaysian banks are not yet close to their lending limits.\n\n“Generally, banks are not approaching their sectoral or single counterparty exposure limits yet, but we understand that this could be a constraint, especially for banks which are smaller and have a smaller capital base. It can limit their ability to lend further,” Anand said during S&P Global Ratings’ Spotlight on Emerging Markets webinar on Wednesday.\n\nS&P Global Ratings director of corporate ratings Yijing Ng said the first such deals in Malaysia or the wider Asia-Pacific market are likely to be structured more conservatively as investors become familiar with data centre financing.\n\n“Our expectation is that the first deal that hits Malaysia or the Apac market would likely be a little bit more conservative, a little bit more protected, as investors seek familiarity and comfort at first,” she said.\n\nAccording to S&P, Malaysia’s data centre industry is expanding rapidly, with capacity projected to exceed 4,500 megawatts (MW) by 2030, driven by strong demand for cloud services and artificial intelligence (AI) workloads, as well as Malaysia’s strategic advantage as a hub close to Singapore.\n\nTo achieve this scale, the credit rating agency said the industry could face sizeable funding requirements. This funding is expected to support powered shells, power and cooling infrastructure, and equipment.\n\nS&P had previously estimated that Malaysia’s data centre sector could require more than US$20 billion (RM81.3 billion) in funding over the next three years.\n\nAs a result, developers are expected to explore alternative funding sources, including project financing, private credit and offshore US dollar bond markets to bridge the funding gap.\n\nThese financing channels will be crucial to sustaining Malaysia’s data centre build-out, ensuring that capacity additions are delivered on time and aligned with the country’s digital agenda.\n\nEdited ByPresenna Nambiar\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817412",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-09-09-ced651",
+      "title": "Google to Invest 13 Billion Euros in AI Infrastructure in Finland",
+      "summary": "Google plans to invest 13 billion euros in AI infrastructure in Finland, including the construction of at least three new data centers. The commitment ranks among the largest single technology investments in the Nordic country.",
+      "why_it_matters": "The investment reinforces the Nordics' position as Europe's preferred location for large-scale AI compute, thanks to abundant clean energy and cool climates. It will strain local grids and labor markets while delivering a major economic boost, and raises the bar for competing regions trying to attract hyperscaler capital.",
+      "score": 72,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "hyperscale",
+        "capacity"
+      ],
+      "published_at": "2026-09-09T10:32:13Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/google-invest-13-billion-euros-ai-infrastructure-finland",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Google"
+      ],
+      "content": "The investments will include the construction of at least three new data centres\n\n[HELSINKI] Alphabet’s Google is planning its biggest investment in Europe, an artificial intelligence infrastructure build out worth at least 13 billion euros (US$15.1 billion) in Finland.\n\nThe investments over the next two years will include the construction of at least three new data centres as well as the expansion of its existing data centre in the southeastern city of Hamina, the company said in a statement on Wednesday (Sep 9).\n\nGoogle’s move is part of a large-scale build-out of computing capacity in the Nordic country, coming on top of an estimated 43 billion euros worth of projects being planned or executed.\n\nThose projects are taking advantage of Finland’s relatively cold climate, which requires little cooling and where heat generated by the servers can be captured to warm up homes. In addition, 96 per cent of electricity in the Nordic country is based on carbon-free production, mostly a mix of nuclear and renewable power. There’s also plenty of available fresh water, and most data centres in Finland are built with a closed loop system reducing water waste.\n\n“Google is proud to deepen our roots in Finland with the company’s largest single investment in Europe,” chief investment officer Ruth Porat said in a statement.\n\nThe announcement buoyed local companies that will benefit from the project. Shares in utility Fortum Oyj, which will sell Google half the output of its Loviisa nuclear power plant, rose more than 11 per cent, the most in almost four years.\n\nNetwork infrastructure provider Nokia Oyj rose as much as 6 per cent and telecommunications operator Elisa Oyj was up 2 per cent. The companies will enable connectivity for the new data centres.\n\nThe Finnish investment is part of Alphabet’s efforts to accelerate an expansion of AI computing capacity. The Silicon Valley giant in July raised its capital spending forecast to as much as US$205 billion this year in a race with rivals to dominate the AI landscape.\n\nThe projects in Finland haven’t inspired as intense a public backlash as some of the proposed sites in the US or other parts of Europe, where concerns over land and resource use and power costs have delayed or derailed projects. In the US, data centre’s contribution to higher electricity bills is becoming a key issue in upcoming midterm elections.\n\nSEE ALSO\n\nFor Finland, the investment is a major boost as it struggles to revive economic growth. The Nordic country has struggled with weak demand, the collapse of trade with neighbouring Russia and the effects of fiscal tightening aimed at bringing public finances under control. The unemployment rate has topped 10 per cent, the highest level in the European Union.\n\nGoogle estimates that the projects will employ 16,000 construction workers. The new data centres will be built in Kajaani, Muhos and Vaala in northern part of the country where the company had previously acquired land. The sites were selected to take advantage of existing grid infrastructure, Google said.\n\n“These locations at strong grid points both help the whole electricity system and ensure cost-effective network development,” Asta Sihvonen-Punkka, chief executive of transmission system operator Fingrid Oyj, said in the statement.\n\nGoogle said it is also expanding the energy infrastructure supporting the projects with new wind-power agreements and a 94-megawatt battery system at the Kajaani site to help balance the grid. The data centres come with heat recovery readiness.\n\nFortum also announced a 22-year power-purchase agreement with Google, covering the lifetime extension period of the Loviisa plant. From 2030 to 2049, the deal will reach 50 per cent of the two-reactor plant’s capacity, Fortum said.\n\nOther companies building, operating or planning data centres in Finland include Microsoft, Nscale, AtNorth Holding, Pure Data Centres Group, Nebius Group, DayOne Data Centers and Polarnode. There are so many projects that the government is planning a law that would require operators to register data centres to ensure officials can keep track of them all. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services\n\n## TRENDING NOW\n\nSingdollar hits 10-month high against MYR; analysts still bullish on ringgit\n\nWhat’s luck got to do with it? Everything, says Malaysian jewellery king Tomei’s chief\n\nThe coming food price shock: How war, weather and fuel are colliding\n\nCanada’s fight with the US has far bigger stakes than trade",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/google-invest-13-billion-euros-ai-infrastructure-finland"
+    },
+    {
+      "id": "2026-09-09-5a588e",
+      "title": "US' Bessent Warns 'Nothing Would Matter' If China Wins the AI Race",
+      "summary": "Comments appear aimed at US voices upset over data centre projects getting built in their backyards",
+      "why_it_matters": "",
+      "score": 62,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "regulation",
+        "investment",
+        "geopolitics"
+      ],
+      "published_at": "2026-09-09T06:26:39Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/us-bessent-warns-nothing-would-matter-if-china-wins-ai-race",
+          "type": "rss"
+        }
+      ],
+      "content": "Comments appear aimed at US voices upset over data centre projects getting built in their backyards\n\n[WASHINGTON] US Treasury Secretary Scott Bessent warned that the US faces dire consequences if it loses out in the artificial intelligence race with China, highlighting the angst in Washington about its rival’s tech advances.\n\n“There is no day after tomorrow if China wins at this,” Bessent said at a Breitbart News event in Washington on Tuesday (Sep 8), indicating also that the US’ large defence budget would fail to protect the nation.\n\n“If they were to pull away from us on AI, then nothing else would matter.”\n\nThe comments appear aimed at some voices in the US upset that large data centre projects are getting built in their backyards.\n\nLate in August, US President Donald Trump warned that a growing public backlash to the projects in the US poses an economic threat and risks giving China the upper hand in AI.\n\nIn China, many new projects are going up far from big cities in less populated regions in the north and northwest.\n\nBessent’s remarks also highlight worries in the US about open-weight Chinese models that are nearly as powerful as American versions at a fraction of the cost for the user.\n\nThat is happening even though the US has tried to deny China access to its most advanced tech.\n\nAlso on Tuesday, US government agencies said Alibaba, DeepSeek, Moonshot AI and other China-based AI companies “extracted billions of tokens across millions of exchanges/ requests from US frontier AI models”.\n\nSEE ALSO\n\nThese include variants of Anthropic’s Claude, Alphabet’s Gemini and SpaceXAI’s Grok since at least late 2024.\n\nTokens are units of data processed by models during training and inference. They enable prediction, generation and reasoning.\n\nThe actions were potentially taken “with Chinese government awareness”, the Federal Bureau of Investigation, National Security Agency and Cybersecurity and Infrastructure Security Agency said in a statement.\n\nReuters has reported that the US and China were preparing to discuss AI safety risks in mid-September, talks that if they happened would come just before Chinese leader Xi Jinping meets Trump in Washington on Sep 24. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services\n\n## TRENDING NOW\n\nSingdollar hits 10-month high against MYR; analysts still bullish on ringgit\n\nWhat’s luck got to do with it? Everything, says Malaysian jewellery king Tomei’s chief\n\nThe coming food price shock: How war, weather and fuel are colliding\n\nCanada’s fight with the US has far bigger stakes than trade",
+      "content_url": "https://www.businesstimes.com.sg/international/us-bessent-warns-nothing-would-matter-if-china-wins-ai-race"
+    },
+    {
+      "id": "2026-09-09-b2b2cc",
+      "title": "Data Centre GPUs: Physical vs. Economic Lifespan for AI",
+      "summary": "Data centre operators face a dual challenge in managing graphics processing unit (GPU) lifespans, balancing physical durability against rapid economic obsolescence driven by AI advancements. This impacts long-term capacity planning and e-waste mitigation strategies for AI infrastructure.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "capacity",
+        "sustainability"
+      ],
+      "published_at": "2026-09-09T04:10:06Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/data-centre-gpus-physical-vs-economic-lifespan-for-ai/133952097",
+          "type": "rss"
+        }
+      ],
+      "content": "Data centre operators face a dual challenge in managing graphics processing unit (GPU) lifespans, balancing physical durability against rapid economic obsolescence driven by AI advancements. This impacts long-term capacity planning and e-waste mitigation strategies for AI infrastructure.\n\nSelect ETDatacenters as Preferred Choice on Google\n\nHighlights\n\nData centre GPUs typically operate for at least five years physically, but economic lifespan averages two to four years.\n\nRapid AI advancements, like Nvidia's Blackwell offering 10x inference cost reduction over Hopper, drive early upgrades.\n\nPhysical failures are often due to thermal stress, power instability, or environmental factors, not mechanical wear.\n\nReselling decommissioned GPUs can recover 10-20% of original cost, mitigating e-waste and funding upgrades.\n\nGPU-as-a-Service (GPUaaS) offers an alternative to ownership, deferring hardware replacement decisions for operators.\n\nThe discussion around data centres and graphics processing units (GPUs) for artificial intelligence (AI) workloads is increasingly shifting from procurement speed to lifecycle management. This involves understanding how long GPUs truly last and what strategies businesses should adopt at the end of their useful life, questions central to long-term capacity planning and addressing e-waste challenges created by AI infrastructure.The concept of \"lifespan\" for GPUs is complex, encompassing both physical operability and economic viability. While GPUs can remain physically functional for at least five years, their economic lifespan is often considerably shorter due to rapid advancements in performance and efficiency.\n\nPhysical Durability and Failure Factors\n\nAs a general rule, most GPUs can operate for a minimum of five years, and potentially longer, when defined purely by physical functionality. Unlike mechanical systems, GPUs lack moving parts at the card level, as data centre GPUs are typically passively cooled with system fans located in the chassis, preventing natural degradation from normal use.However, failures do occur, primarily due to external or board-level issues. These include thermal stress and inadequate cooling, which can accelerate solder fatigue and degrade High Bandwidth Memory (HBM) and Video RAM. Power quality and transients, such as prolonged instability or voltage surges, can also damage GPUs, stemming from facility power irregularities or server-level faults like failing power supply units. Additionally, environmental factors like dust, humidity, and contamination increase failure risks if filtration and monitoring are insufficient.With robust cooling, clean power, and continuous monitoring, many operators experience multi-year service lifespans. However, warranty and support windows, often around three years with OEM/ODM extensions, frequently become a practical ceiling for hardware use, even if physically functional.\n\nEconomic Obsolescence Drives Upgrades\n\nFrom an economic perspective, the lifespan of a GPU is typically shorter, often averaging two to four years, especially when tracking product cycles from manufacturers like Nvidia. Organisations focused on maximising return on investment (ROI) must decide when to replace existing devices with newer, more powerful models.This decision involves several factors: the capital invested in current GPUs, the cost of next-generation hardware, potential resale value of decommissioned devices, the performance gap between existing and new GPUs, the performance requirements of AI workloads, and the actual utilisation rate of the GPU fleet. Upgrades become economically sensible when utilisation is high, workload demands are increasing, and the performance gains from new hardware outweigh the incremental cost.For instance, Nvidia's Hopper GPUs, introduced in 2022, are approximately 2.5 times less powerful than the Blackwell generation launched in 2024. Blackwell chips reportedly reduce AI inference costs by up to 10x. With similar price points, organisations that invested in Hopper can build a strong case for upgrading to Blackwell GPUs, assuming supply is secured.\n\nEnd-of-Life Strategies and GPU-as-a-Service\n\nWhen GPUs are no longer economically viable, discarding them results in forfeited residual value and increased e-waste. Since most devices remain physically sound, reselling them in thriving secondary markets is a more effective approach. Even if resale prices are only 10% to 20% of the original cost, this recovers capital for reinvestment and reduces disposal costs.A strategic alternative for organisations concerned about short economic lifespans is to adopt GPU-as-a-Service (GPUaaS). The expansion of GPUaaS offerings and neocloud providers allows businesses to rent capacity instead of owning hardware, deferring or avoiding replacement decisions. This model can be a pragmatic solution for many companies outside the hyperscale segment to meet evolving performance needs without tying up capital in rapidly obsolescing equipment.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/data-centre-gpus-physical-vs-economic-lifespan-for-ai/133952097"
+    },
+    {
+      "id": "2026-09-09-f3e1b4",
+      "title": "DCI CEO: Certainty, Not Megawatts, is Data Center's Scarcest Resource",
+      "summary": "DCI Data Centers CEO Sumit Mukhija argues that the data centre industry's most critical resource is no longer raw megawatts but the certainty of delivering that planned capacity. This shift reflects the rapid changes driven by AI and increasing demands on compute, power, and capital.",
+      "why_it_matters": "",
+      "score": 40,
+      "heat": 1,
+      "regions": [
+        "australia",
+        "southeast-asia"
+      ],
+      "topics": [
+        "capacity",
+        "power",
+        "ai",
+        "investment"
+      ],
+      "published_at": "2026-09-09T03:50:06Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/market-insights-analysis/dci-ceo-certainty-not-megawatts-is-data-centers-scarcest-resource/133951531",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "DCI Data Centers"
+      ],
+      "content": "DCI Data Centers CEO Sumit Mukhija argues that the data centre industry's most critical resource is no longer raw megawatts but the certainty of delivering that planned capacity. This shift reflects the rapid changes driven by AI and increasing demands on compute, power, and capital.\n\nSelect ETDatacenters as Preferred Choice on Google\n\nHighlights\n\nDCI CEO Sumit Mukhija states capacity delivery certainty is scarcer than megawatts.\n\nAI mainstreaming drives demand for compute, power, and sophisticated cooling.\n\nOperational capacity depends on land, capital, approvals, secured power, and supply chains.\n\nInfrastructure must be flexible to adapt to evolving AI hardware and cooling architectures.\n\nSumit Mukhija, CEO of DCI Data Centers, will deliver a keynote at the Sydney Cloud & Datacenter Convention on September 17, asserting that certainty of capacity delivery has become a more valuable commodity than raw megawatts in the data centre industry. Mukhija's address, titled \"The Capacity Paradox: Why Certainty, and not Megawatts, has become the Industry’s Scarcest Resource,\" highlights the challenges of translating planned capacity into operational infrastructure amidst rapid market shifts.Mukhija, who has over three decades of experience in IT, cloud, and data centre infrastructure, including a decade leading ST Telemedia Global Data Centres (STT GDC) in South Asia, noted that the industry has seen significant changes in scale, density, and speed. Rack densities have evolved from 3-5kW to 150-300kW today, with potential for 1MW per rack, while data centres have scaled from tens of megawatts to campuses approaching a gigawatt. The mainstreaming of artificial intelligence (AI) is identified as perhaps the biggest change.\n\nDelivery Certainty for AI Workloads\n\nThe increasing demands for compute, power, capital, and sophisticated cooling are reshaping the equation for customers, investors, and operators. Mukhija emphasised that for customers, time to market and time to compute are critical. Investors face higher upfront capital commitments, often before customer contracts are finalised, making contract quality and bankability crucial. Operators, in turn, face significantly increased delivery risks due to the scale of commitments.The common challenge across these groups is the need for certainty: how much capacity can be delivered, when and where, and with what confidence. Mukhija pointed out that while AI and technology cycles are shortening, the underlying infrastructure can still take years to secure, approve, and build. This creates a paradox where more capacity is planned than ever before, but the certainty of its realisation is increasingly scarce.\n\nBeyond Headline Megawatts\n\nMukhija argues that headline capacity figures only tell part of the story, as projects carry different levels of certainty at various stages. The journey from planned capacity to an operational megawatt involves numerous dependencies, including land acquisition, capital commitment, regulatory approvals, community acceptance, secured power and energisation timelines, customer commitments, long-lead equipment, robust supply chains, design, and execution. Therefore, understanding the level of certainty behind announced megawatts is crucial.Power availability, for instance, has become less about whether sufficient electricity exists and more about when it can actually reach the site. DCI Data Centers’ development strategy focuses on secured power that can be energised and delivered within customer timeframes, distinguishing it from longer-term campus potential. For AI customers, the timing of compute delivery directly impacts economic value, making clarity on delivery and commitment certainty paramount.\n\nFlexible Infrastructure for Evolving Technology\n\nAnother dimension of certainty involves building infrastructure that remains relevant across multiple technology and investment cycles, given the rapid pace of change in AI hardware and workloads. Mukhija advocated against designing infrastructure too tightly around a particular generation of hardware. Instead, the focus should be on building flexible infrastructure with sufficient headroom for future densities and the adaptability to accommodate evolving compute and cooling architectures.When assessing data centre projects, Mukhija’s test is whether critical components are converging, rather than solely focusing on campus size. Key elements for project credibility include land, secured power and timing, approvals, community acceptance, committed capital, customer demand, supply-chain readiness, adaptable infrastructure, and a capable operator. He also highlighted that additional requirements, such as operators funding upstream electricity and water infrastructure, could add significant costs and potentially impact Australia's competitiveness relative to other regional markets.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/market-insights-analysis/dci-ceo-certainty-not-megawatts-is-data-centers-scarcest-resource/133951531"
+    },
+    {
+      "id": "2026-09-09-a307cc",
+      "title": "Qualcomm, Amazon Partner on Custom AI Data Centre Chips for AWS",
+      "summary": "Qualcomm and Amazon have agreed on a multi-generational collaboration to develop custom silicon for AWS AI data centers, targeting large-scale inference workloads. The partnership also covers advanced optical connectivity for data center networks.",
+      "why_it_matters": "The deal extends AWS's custom-silicon strategy beyond its in-house Annapurna Labs team and gives Qualcomm a major entry point into data center AI, a market it has long sought to crack. For cloud customers, more custom chip options could mean lower inference costs, while Nvidia faces yet another credible challenger in its core market.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-09T03:40:20Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/qualcomm-amazon-partner-on-custom-ai-data-centre-chips-for-aws/133951273",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Qualcomm",
+        "Amazon",
+        "AWS"
+      ],
+      "content": "Qualcomm and Amazon have announced a multi-generational collaboration to develop custom silicon for Amazon Web Services (AWS) AI data centre infrastructure. This partnership aims to enhance performance and efficiency for large-scale AI inference workloads and includes advanced optical connectivity solutions.\n\nSelect ETDatacenters as Preferred Choice on Google\n\nHighlights\n\nQualcomm and Amazon partner on multi-generational custom silicon for AWS AI data centres.\n\nCollaboration focuses on large-scale AI inference and advanced optical connectivity up to 1.6T.\n\nQualcomm expands use of AWS AI infrastructure, including Amazon Bedrock, for chip design workloads.\n\nThe initiative aims to enhance performance, efficiency, and cost-effectiveness of AI infrastructure.\n\nQualcomm has announced a multi-generational collaboration with Amazon focusing on customised silicon for Amazon Web Services (AWS) artificial intelligence (AI) data centre infrastructure. This agreement also covers optical connectivity advancements and an expanded use of AWS tools by Qualcomm for its chip design workloads, aiming to shorten chip design cycles.The companies will work together across multiple generations of silicon for large-scale AI data centres, with a particular emphasis on AI inference. This collaboration positions Qualcomm more directly with major cloud providers, which are increasingly designing or commissioning custom chips to meet the escalating demands of AI services.\n\nOptical Connectivity Focus\n\nThe partnership extends to developing optical connectivity products, aiming for 1.6T and later-generation designs. Qualcomm stated that this effort will leverage its serializer-deserializer (SerDes) technology and optical digital signal processing. The demand for AI infrastructure has prompted cloud operators to seek improvements not only in processors but also in the links connecting servers and networking equipment within data centres. Faster optical interconnects are becoming crucial as AI systems scale up, requiring increased bandwidth between compute, storage, and memory resources.For AWS, this collaboration complements its broader strategy of building and sourcing specialised silicon for AI workloads. Custom chips have emerged as a key area of competition among cloud providers as they aim to manage the cost, performance, and energy consumption of increasingly complex AI models.\n\nQualcomm's Data Centre Push\n\nQualcomm, historically known for its mobile and communications chips, has recently diversified into automotive, personal computing, and infrastructure markets. The Amazon tie-up signals a deeper strategic entry into data centre hardware, a sector where AI investment has driven significant activity among semiconductor suppliers and hyperscale operators. As part of this broader arrangement, Qualcomm plans to expand its use of AWS AI infrastructure for electronic design automation (EDA) workloads, including Amazon Bedrock, to accelerate chip design processes.Cristiano Amon, President and Chief Executive Officer of Qualcomm, highlighted the infrastructure challenges presented by AI growth. He stated that \"As AI demand accelerates, data center infrastructure will require advances in both computing and connectivity to deliver greater performance with more efficiency.\" Prasad Kalyanaraman, Vice President at AWS, added that the agreement builds on an existing partnership, aiming to deliver \"more performant, efficient, and cost-effective infrastructure for our customers.\"",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/qualcomm-amazon-partner-on-custom-ai-data-centre-chips-for-aws/133951273"
+    },
+    {
+      "id": "2026-09-09-31b5cb",
+      "title": "Firmus Signs OpenAI as Anchor for 900MW AI Compute Capacity",
+      "summary": "Firmus Technologies has signed a multi-year agreement making OpenAI the anchor customer for dedicated AI compute capacity hosted at its Malaysian data center sites. The deal lifts the Australian firm's total contracted capacity beyond 900MW and marks its entry into a fourth Asia-Pacific market.",
+      "why_it_matters": "The agreement signals that frontier AI labs are now locking up gigawatt-scale capacity in Southeast Asia rather than relying solely on US infrastructure, accelerating Malaysia's rise as a compute hub. For regional operators and energy suppliers, anchor tenants of this size reshape financing, grid planning, and competition for power allocation.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "australia",
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "capacity",
+        "investment",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-09T03:30:16Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/firmus-signs-openai-as-anchor-for-900mw-ai-compute-capacity/133951025",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Firmus Technologies",
+        "OpenAI"
+      ],
+      "content": "Australian AI infrastructure firm Firmus Technologies has signed a multi-year deal with OpenAI for dedicated AI compute capacity from its Malaysian sites, expanding into its fourth Asia-Pacific market. This agreement makes OpenAI an anchor customer, pushing Firmus's total contracted capacity across all customers past 900MW.\n\nSelect ETDatacenters as Preferred Choice on Google\n\nHighlights\n\nFirmus Technologies signed a multi-year deal with OpenAI for dedicated AI compute capacity.\n\nOpenAI becomes an anchor customer, boosting Firmus's contracted capacity past 900MW.\n\nFirmus expands into Malaysia, its fourth Asia-Pacific market, with seven AI factories planned.\n\nMalaysian sites will deploy NVIDIA's Vera Rubin NVL72 systems and Firmus's HyperCube liquid cooling.\n\nAustralian artificial intelligence (AI) infrastructure company Firmus Technologies has secured a multi-year agreement with OpenAI to provide dedicated AI compute capacity from two of its AI Factory sites in Malaysia. This marks Firmus’s expansion into a fourth Asia-Pacific market, following its existing footprint in Australia, Singapore, and Indonesia.The agreement establishes OpenAI as a key anchor customer for Firmus and increases the company’s total contracted capacity across all customers to more than 900 megawatts (MW). The financial terms of the agreement were not disclosed by either party.\n\nAI Factory Expansion and Technology Deployment\n\nFirmus's portfolio now includes seven AI factories across Australia, Singapore, Indonesia, and Malaysia. Two of these sites are currently operational in Australia and Singapore, while the remaining five are under development and are targeted to be ready for service within the next 24 months.The Malaysian sites are slated to deploy NVIDIA’s Vera Rubin NVL72 rack-scale systems through the NVIDIA DSX AI Factory Platform. These systems will be integrated with Firmus’s proprietary HyperCube infrastructure, which combines liquid cooling, mechanical systems, and electrification into a prefabricated infrastructure system. Firmus stated that this approach, with manufacturing based in regional New South Wales, is designed to integrate more of the AI factory supply chain and support faster deployment.Sachin Katti, Vice President of Compute Strategy at OpenAI, noted that the Malaysian facilities would aid the company in expanding its global compute capacity and meeting the growing demand for its products in the region and globally.\n\nStrategic Investment and Australian Operations\n\nAlongside its geographic expansion, Firmus has been building out its financing and infrastructure platform. The company recently announced a fully subscribed USD 2 billion strategic equity investment, which included participation from existing investors Coatue and NVIDIA, and new investment from Blackstone Tactical Opportunities and other Blackstone vehicles, as well as Jane Street. This funding round brought Firmus’s total equity raised over the preceding 12 months to more than USD 3 billion, valuing the company at over USD 10.5 billion post-money.Firmus is also expanding its Australian operations, with AI factories under development in Tasmania and South Australia. The Tasmanian pipeline includes projects at St Leonards, Bell Bay, and Wesley Vale, while South Australian plans involve facilities at Tailem Bend and Stirling North. These Australian projects are part of a broader platform aimed at integrating power, cooling, accelerated computing, networking, software, and workload performance.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/firmus-signs-openai-as-anchor-for-900mw-ai-compute-capacity/133951025"
+    },
+    {
+      "id": "2026-09-09-33cde5",
+      "title": "Malaysia Data Centers Create 9 GW Gas Power Gap by 2032",
+      "summary": "Malaysia faces a projected 9GW shortfall in gas-fired power capacity by 2032 as data center electricity demand climbs, a gap compounded by higher cooling needs from rising temperatures. The crunch comes as the country phases out coal while courting investment from tech giants including Amazon and Microsoft.",
+      "why_it_matters": "The projected gap puts pressure on Malaysia's government and utilities to fast-track generation and grid investment or risk constraining one of the world's fastest-growing data center markets. Developers may face higher power costs, slower connection timelines, or demands to co-invest in energy infrastructure, reshaping site economics across Johor and beyond.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "capacity",
+        "energy",
+        "investment"
+      ],
+      "published_at": "2026-09-09T03:30:06Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/malaysia-data-centers-create-9-gw-gas-power-gap-by-2032/133951014",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Amazon",
+        "Microsoft"
+      ],
+      "content": "Malaysia's data centers are driving increased power consumption, exacerbated by rising temperatures, leading to a projected 9 gigawatt (GW) gas-fired capacity gap by 2032. The nation, a growing data center hub, is phasing out coal while attracting investments from global tech firms like Amazon and Microsoft.\n\nSelect ETDatacenters as Preferred Choice on Google\n\nHighlights\n\nMalaysia faces a 9 GW gas-fired power capacity gap by 2032 due to data center growth.\n\nData centers' power share surged to 9.3% in August, from 7% average this year.\n\nCooling systems demand more energy as temperatures rise, straining power grids.\n\nAmazon and Microsoft are investing in Malaysia, leveraging domestic gas reserves.\n\nMalaysia's rapidly expanding data center sector is intensifying power demand, creating a projected 9 gigawatt (GW) gas-fired capacity gap by 2032, according to officials from the Energy Commission. This surge in consumption is partly due to rising temperatures, which necessitate more energy for cooling systems within data centers.The share of data centers in Malaysia's overall power consumption reached a record 9.3% in the second week of August, up from an average of 7% this year, Energy Commission CEO Siti Safinah Salleh said. She noted that hotter weather significantly increases the energy required for cooling. Zaharin Zulkifli, deputy director for economic statistics and research at the Energy Commission, indicated that data centers could account for as much as 31% of peninsular Malaysia's power demand by 2035.\n\nCapacity Augmentation Plans\n\nAs Malaysia, which is emerging as Southeast Asia's fastest-growing data center hub, gradually phases out coal-fired power plants by 2044, the country plans to augment its gas-fired capacity by 9 GW by 2032, Economy Minister Akmal Nasir stated. This strategy is also attracting billions of dollars in investments from major global tech firms, including Amazon and Microsoft, who are leveraging Malaysia's domestic gas reserves.Despite the rising demand, no additional gas-fired power capacity is expected to come online this year or next. Siti Safinah Salleh confirmed that Malaysia would \"optimise\" its current fleet to manage demand until the end of 2027, without providing further details. The Energy Commission did not anticipate the hot weather persisting beyond early September, which had led to higher power usage and low levels in hydro dams.\n\nGrid Planning and Future Outlook\n\nGary Goh, senior manager for business development at Sprint DC Consulting, affirmed that Malaysia does not anticipate near-term power shortages due to data center deployments. He added that the demand surge is entirely within grid planning parameters and is expected to ramp predictably. This suggests that while significant capacity additions are needed, the country's energy infrastructure planning is attempting to keep pace with the rapid digital expansion.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/malaysia-data-centers-create-9-gw-gas-power-gap-by-2032/133951014"
+    },
+    {
+      "id": "2026-09-09-7d526c",
+      "title": "HPE deepens Oracle tie-up on AI data centre networking",
+      "summary": "HPE is expanding its partnership with Oracle through a multi-year networking rollout aimed at relieving bandwidth and latency bottlenecks in Oracle's GPU-dense cloud clusters. The deployment will support Oracle's global AI infrastructure as it scales.",
+      "why_it_matters": "As AI clusters grow, networking rather than compute is increasingly the constraint, and this deal positions HPE as a key supplier in Oracle's aggressive cloud expansion. It also signals that enterprise networking vendors are capturing a larger share of AI infrastructure spending that once flowed almost entirely to chipmakers.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "networking",
+        "cloud",
+        "chips"
+      ],
+      "published_at": "2026-09-09T02:25:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/hpe-deepens-oracle-tie-up-on-ai-data-centre-networking",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "HPE",
+        "Oracle"
+      ],
+      "content": "# HPE deepens Oracle tie-up on AI data centre networking\n\nWed, 9th Sep 2026 (Yesterday)\n\nHPE has expanded its collaboration with Oracle on networking for AI data centres, with Oracle planning a multi-year global deployment of HPE Juniper Networking products across its AI infrastructure.\n\nThe arrangement extends more than a decade of engineering work between Oracle and Juniper Networks, now part of HPE, and includes support services and financing.\n\nThe deployment is intended to span AI superclusters, regional data centre fabrics and edge networks across Oracle's cloud estate. HPE Juniper Networking PTX and MX routing platforms, along with QFX and EX switching platforms, are set to be used across Oracle data centres globally.\n\nThe companies are deepening ties as Oracle expands Oracle Cloud Infrastructure for AI workloads, where large GPU clusters place heavy demands on bandwidth, latency, congestion management and fault recovery. Oracle's regional and edge networks must also connect those clusters with services, customers and external networks across multiple markets.\n\nJuniper equipment already supports parts of Oracle's network. The companies said MX and PTX routers are used in sections of the edge network, while QFX switches are deployed in several layers of the regional data centre fabric.\n\nThe latest expansion puts greater focus on the backend networks used by AI systems. HPE said its newer QFX switches are designed to provide the high-density connectivity, dynamic load balancing and congestion management needed for large RoCEv2 networks, a form of Ethernet networking commonly used to link AI servers at scale.\n\n### Infrastructure push\n\nThe move reflects the growing importance of networking in large AI buildouts, where the ability to move data quickly between processors can affect the efficiency of expensive computing clusters. Alongside power use, floor space and operational complexity, network design has become a central issue for cloud providers building larger AI environments.\n\nRami Rahim, executive vice president, president and general manager of networking at HPE, said Oracle's expansion would be a major test of network architecture for AI infrastructure. \"Oracle is building AI infrastructure at extraordinary scale, and HPE is uniquely positioned to support OCI with one of the industry's most comprehensive networking portfolios for AI data centers,\" Rahim said.\n\n\"Together, we are advancing a high-performance networking architecture that helps Oracle address the traffic management, power, space, and operational requirements of increasingly large AI environments,\" he added.\n\nFor Oracle, the agreement gives HPE Juniper Networking equipment a larger role across several layers of its cloud network rather than in isolated segments. That includes AI clusters, broader regional data centre networks and edge systems that connect users and services to core infrastructure.\n\nMahesh Thiagarajan, executive vice president of Oracle Cloud Infrastructure, said the supplier had become more central to Oracle's design. \"Building AI infrastructure at Oracle's scale requires an integrated ecosystem where every layer of the stack works together,\" Thiagarajan said.\n\n\"HPE Juniper Networking has been an important part of our cloud architecture and now plays a key role in our AI clusters, regional data centers, and edge networks with the scale, performance, and reliability our customers expect,\" he added.\n\n### Telemetry work\n\nAlongside the hardware deployment, the companies said they are working together on intelligent telemetry to provide deeper visibility into device and fabric behaviour. The aim is to spot queue build-up, packet loss, traffic imbalances and component degradation earlier, so issues can be addressed before they have a wider effect on AI operations.\n\nThat focus highlights a technical challenge for operators of large AI systems: even brief slowdowns in one part of a cluster can reduce overall utilisation. In tightly connected GPU environments, delays measured in microseconds can have knock-on effects across the wider system.\n\nPraveen Jain, senior vice president and general manager of data center and AI networking at HPE, said the telemetry work is intended to improve fault detection and availability. \"Every microsecond matters to AI models and agents,\" Jain said.\n\n\"Through high-performance networking and our work with Oracle on deeper fabric visibility, we are helping OCI detect bottlenecks faster, maintain network availability, and improve the efficiency of AI infrastructure,\" he added.\n\nAs part of the agreement, HPE has issued Oracle warrants to purchase shares of HPE common stock.",
+      "content_url": "https://datacenternews.asia/story/hpe-deepens-oracle-tie-up-on-ai-data-centre-networking"
+    }
+  ]
 }

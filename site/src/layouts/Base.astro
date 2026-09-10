@@ -7,15 +7,21 @@ interface Props {
   description?: string;
   /** Which sidebar nav item is highlighted */
   active?: 'latest' | 'reports' | 'pipeline' | 'companies' | 'saved' | 'about';
+  /** Open Graph type — "article" on news detail pages. */
+  ogType?: 'website' | 'article';
 }
 
 const {
   title,
   description = 'Daily data center intelligence across Asia-Pacific',
   active = 'latest',
+  ogType = 'website',
 } = Astro.props;
 
 const base = import.meta.env.BASE_URL;
+const site = Astro.site ?? new URL('https://sakae28.github.io');
+const canonical = new URL(Astro.url.pathname, site);
+const ogImage = new URL(`${base}/og-default.png`, site);
 ---
 
 <!doctype html>
@@ -25,9 +31,23 @@ const base = import.meta.env.BASE_URL;
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
     <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
+    <link rel="icon" type="image/x-icon" href={`${base}/favicon.ico`} sizes="32x32" />
+    <link rel="apple-touch-icon" href={`${base}/apple-touch-icon.png`} />
+    <link rel="canonical" href={canonical} />
+    <link rel="alternate" type="application/rss+xml" title="DataCenter Atlas" href={`${base}/rss.xml`} />
+    <meta property="og:site_name" content="DataCenter Atlas" />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="theme-color" content="#0b8a5f" />
     <title>{title} · DataCenter Atlas</title>
+    <slot name="head" />
   </head>
   <body>
+    <a class="skip" href="#main">Skip to content</a>
     <aside class="sidebar">
       <a class="brand" href={base}>
         <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true">
@@ -78,7 +98,7 @@ const base = import.meta.env.BASE_URL;
     </aside>
 
     <div class="main">
-      <main class="main-inner">
+      <main class="main-inner" id="main">
         <slot />
       </main>
       <footer class="site-footer">
@@ -105,7 +125,7 @@ const base = import.meta.env.BASE_URL;
       ];
       const pad = (n: number) => String(n).padStart(2, '0');
 
-      function formatLocal(iso: string, kind: string): string | null {
+      function formatLocal(iso: string, kind: string, precision?: string, groupDate?: string): string | null {
         const t = Date.parse(iso);
         if (Number.isNaN(t)) return null;
         if (kind === 'relative') {
@@ -123,9 +143,29 @@ const base = import.meta.env.BASE_URL;
           return `${years} year${years === 1 ? '' : 's'} ago`;
         }
         const d = new Date(t);
+        // Date-only precision: never show a fabricated time of day. Use the
+        // UTC calendar date (the timestamp is pinned to noon UTC).
+        if (precision === 'day') {
+          if (kind === 'datetime') {
+            return `${MONTHS[d.getUTCMonth()]} ${d.getUTCDate()}, ${d.getUTCFullYear()}`;
+          }
+          return `${MONTHS[d.getUTCMonth()].slice(0, 3)} ${d.getUTCDate()}`;
+        }
         const hhmm = `${pad(d.getHours())}:${pad(d.getMinutes())}`;
         if (kind === 'datetime') {
           return `${MONTHS[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()} · ${hhmm}`;
+        }
+        // Rail time on the digest timeline: show a bare HH:MM when the story
+        // falls on the digest date in the visitor's timezone; otherwise
+        // prefix the short date so "Sep 8 · 22:48" can't masquerade as a
+        // Sep 10 story.
+        if (kind === 'rail' && groupDate) {
+          const gd = new Date(`${groupDate}T12:00:00Z`);
+          const sameDay =
+            d.getFullYear() === gd.getUTCFullYear() &&
+            d.getMonth() === gd.getUTCMonth() &&
+            d.getDate() === gd.getUTCDate();
+          if (!sameDay) return `${MONTHS[d.getMonth()].slice(0, 3)} ${d.getDate()} · ${hhmm}`;
         }
         return hhmm;
       }
@@ -133,7 +173,7 @@ const base = import.meta.env.BASE_URL;
       document.querySelectorAll<HTMLElement>('.js-time').forEach((el) => {
         const iso = el.dataset.ts;
         if (!iso) return;
-        const text = formatLocal(iso, el.dataset.timeFormat ?? 'time');
+        const text = formatLocal(iso, el.dataset.timeFormat ?? 'time', el.dataset.precision, el.dataset.day);
         if (text !== null) el.textContent = text;
       });
 
@@ -173,6 +213,10 @@ const base = import.meta.env.BASE_URL;
 
       let favStore = loadFavs();
       syncFavButtons(favStore);
+
+      // Pages that render fav buttons dynamically (pipeline client-side
+      // rows) fire this after inserting new buttons.
+      document.addEventListener('dcfav:refresh', () => syncFavButtons(favStore));
 
       document.addEventListener('click', (e) => {
         const btn = (e.target as HTMLElement).closest?.('.fav-btn') as HTMLElement | null;

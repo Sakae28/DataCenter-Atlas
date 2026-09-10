@@ -10,6 +10,308 @@
   ],
   "stories": [
     {
+      "id": "2026-09-08-2b7977",
+      "title": "Mistral AI Raises at €21 Billion Valuation in Samsung-Led Round",
+      "summary": "Mistral AI has raised €3 billion (about RM14.1 billion) in a funding round led by Samsung Electronics, valuing the French AI developer at more than €21 billion. The capital will fund development of AI models and the build-out of computing infrastructure.",
+      "why_it_matters": "The raise deepens Europe's challenge to US AI dominance and gives Mistral the firepower to secure compute at scale — a growing share of which flows to data centre operators. Samsung's lead role also signals Asian hardware giants are taking strategic stakes in model developers to lock in demand for their chips and infrastructure.",
+      "score": 68,
+      "heat": 2,
+      "regions": [
+        "korea",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "funding",
+        "compute"
+      ],
+      "published_at": "2026-09-08T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/startups-tech/startups/mistral-raises-record-3-billion-euros-samsung-led-round-over-21-billion-euro-valuation",
+          "type": "rss"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817197",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Mistral AI",
+        "Samsung Electronics"
+      ],
+      "content": "The French AI startup plans to treble its Singapore headcount as it expands in South-east Asia\n\n[SINGAPORE] French artificial intelligence startup Mistral has raised three billion euros (US$3.5 billion) in a Series D funding round, valuing the three-year-old company at more than 21 billion euros.\n\nThe Series D, announced on Tuesday (Sep 8), is the largest equity fundraising round completed by a European technology company, said Mistral.\n\nSamsung Electronics led the round, with the Scaleup Europe Fund, managed by EQT, and existing investor PSG Equity as co-leads.\n\nNew investors include funds and accounts managed by BlackRock and Luxembourg. Existing backers such as ASML and Nvidia also participated.\n\nThe funds will be used to expand Mistral’s frontier AI research, as well as scale compute capacity for training AI models. Infrastructure expansion and commercial and geographical growth will also be fuelled by the capital injection.\n\nMistral currently operates in 20 countries, including Singapore, where it opened an office in January 2025. The startup plans to treble its headcount in Singapore as it chases growth in South-east Asia.\n\nGlobally, Mistral supports more than 125 enterprises in their AI transformation.\n\n“This round means we can move faster on R&D, products, infrastructure and keep giving organisations the ability to run AI at scale, on their own terms,” said Arthur Mensch, co-founder and CEO of Mistral.\n\nSamsung Electronics’ investment comes after a Series C round led by Dutch semiconductor player ASML.\n\nSEE ALSO\n\n“We believe that the combination of ambition and execution puts Mistral in a strong position to shape the next era of AI”, said Kirk Lepke, partner at EQT and Scaleup Europe Fund.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.\n\n## TRENDING NOW\n\nWatch live: PM Wong, Chan Chun Sing to address political office-holders’ salary review in Parliament\n\nVietnam pitches its real economy, not a Singapore replica, in two-city IFC push\n\nLawsuit from ex-advisers adds to claims arising from Hao Mart’s lease of Taste Orchard\n\nCanada’s fight with the US has far bigger stakes than trade",
+      "content_url": "https://www.businesstimes.com.sg/startups-tech/startups/mistral-raises-record-3-billion-euros-samsung-led-round-over-21-billion-euro-valuation",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-09-08-7e35b1",
+      "title": "AI hotshot Firmus tees up IPO meetings after OpenAI win in Malaysia",
+      "summary": "Firmus is arranging meetings with prospective investors ahead of a potential initial public offering, capitalising on momentum from its recently won OpenAI compute deal in Malaysia. The Australian AI infrastructure company is positioning the agreement as proof of commercial traction as it courts public-market interest.",
+      "why_it_matters": "An IPO would test whether public investors are willing to price neocloud and AI infrastructure businesses on contracted AI demand rather than speculative growth, setting a benchmark for the many APAC players weighing listings. Success could unlock a new funding channel for capital-hungry AI data centre developers; failure would signal that public markets remain sceptical of the sector's economics.",
+      "score": 82,
+      "heat": 1,
+      "regions": [
+        "australia",
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "ipo",
+        "investment",
+        "capacity"
+      ],
+      "published_at": "2026-09-08T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/street-talk/ai-hotshot-firmus-tees-up-ipo-meetings-after-openai-win-in-malaysia-20260908-p60vdn",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Firmus",
+        "OpenAI"
+      ],
+      "content": "Rubber is about to hit the road for $15.5 billion neocloud Firmus Technologies’ hotly anticipated arrival on the ASX.\n\nThe business, co-founded by Oliver Curtis, Tim Rosenfield and Jonathan Levee, plans to kick off investor meetings next week for its initial public offering, sources told Street Talk on the condition of anonymity.\n\nLoading...\n\nSarah Thompson has co-edited Street Talk since 2009, specialising in private equity, investment banking, M&A and equity capital markets stories. Prior to that, she spent 10 years in London as a markets and M&A reporter at Bloomberg and Dow Jones. Email Sarah at sarah.thompson@afr.com\n\nAngira Bharadwaj is a co-editor of Street Talk. She covers IPOs, capital raises, mergers and acquisitions and other breaking news in Australia’s capital markets. Previously, she covered financial services, state, and federal politics. Send tips to @angirab.60 on encrypted messaging platform Signal. Email Angira at angira.bharadwaj@nine.com.au",
+      "content_url": "https://www.afr.com/street-talk/ai-hotshot-firmus-tees-up-ipo-meetings-after-openai-win-in-malaysia-20260908-p60vdn",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-09-08-2652a3",
+      "title": "A tenth of Malaysia's electricity consumption is from data centres, says energy regulator",
+      "summary": "Malaysia's Energy Commission says data centres now account for nearly a tenth of the country's total electricity consumption. The regulator expects power demand from the sector to climb further by the end of the year.",
+      "why_it_matters": "The figure quantifies the strain the data centre boom is placing on Malaysia's grid and will sharpen debate over tariffs, renewable energy obligations and approval conditions for new facilities. Utilities, policymakers and developers now face pressure to align capacity expansion with grid investment, or risk backlash from consumers facing rising costs.",
+      "score": 88,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "capacity",
+        "regulation"
+      ],
+      "published_at": "2026-09-08T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817208",
+          "type": "html-list"
+        }
+      ],
+      "content": "PETALING JAYA (Sept 8): Data centres make up nearly a tenth of Malaysia’s electricity consumption, according to the Energy Commission, with demand for power expected to pick up further by the end of the year.\n\nElectricity consumption by data centres has risen to 9.28% of total consumption, said EC chief executive officer Siti Safinah Salleh, adding that the warmer weather also saw cooling systems using more power.\n\nMore data centres expected to come online in November would also push up consumption, she noted.\n\nMalaysia has attracted RM95.8 billion in data centre and cloud-computing projects in the first half of this year alone, the Malaysian Investment Development Authority said recently.\n\nMost of Malaysia's data centre invesetments are concentrated in Johor. The Knight Frank Data Centre Atlas 2026 report released in July said data centres in the state had a live capacity of 1,110 megawatts (MW) and an incoming pipeline capacity at 8,542MW. Data centre capacity is often measured by the a amount of power it can draw on.\n\nBy comparison, the EC's MyEnergyStats portal records Malaysia's installed electricity generation capacity at 27,333MW as of 2025, with a peak demand of 21,049MW recorded on May 28 last year. \n\n    \n\nDeputy Minister Datuk Seri Fadillah Yusof previously told Parliament in July that data centres are expected to consume around one third of Malaysia’s electricity supply by 2035. At the time, data centres accounted for 7% of electricity consumption.\n\nThe government has hinted at putting the brakes on data centre investments, with the Investment, Trade and Industry (MITI) saying projects will be approved only after ensuring that energy and water supply capacity is sufficient.\n\n*Read also: Data centres, cloud projects make up nearly half of Malaysia's RM218.5b approved investments in 1H2026 — Mida\nJohor leads Asia-Pacific data centre pipeline as Klang Valley sees 1H2026 investment rebound, says Knight Frank\nData centres to guzzle one-third of Malaysia’s electricity by 2035, govt taking measures to ensure supply*\n\nEdited BySyed Azahedi\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817208",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-09-08-73ecc1",
+      "title": "Australia's Firmus inks compute deal with OpenAI for Malaysian data centers",
+      "summary": "Firmus, an Australian AI infrastructure company, has signed a compute agreement with OpenAI that will see its Malaysian data center facilities provide capacity for the US AI company's workloads. The deal extends OpenAI's infrastructure footprint into Southeast Asia through a regional partner rather than its own build-out.",
+      "why_it_matters": "The agreement positions Malaysia as a viable host for frontier AI workloads at a time when the country is aggressively courting hyperscale investment, and gives Firmus a marquee anchor customer that could unlock further capital raising. It also signals that US AI labs are diversifying compute sourcing beyond traditional hubs, which matters for regional operators competing to land AI tenants.",
+      "score": 92,
+      "heat": 4,
+      "regions": [
+        "australia",
+        "southeast-asia",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "capacity",
+        "investment",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-08T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/australia-s-firmus-inks-compute-deal-with-openai-for-malaysian-data-centers",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/startups-tech/technology/nvidia-backed-ai-firm-firmus-signs-deal-openai-malaysia-data-centre-capacity",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/startups-tech/technology/nvidia-backed-ai-firm-firmus-signs-deal-openai-malaysia-data-centre-capacity",
+          "type": "html-list"
+        },
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/technology/firmus-lands-openai-deal-for-malaysian-data-centres-20260908-p60vdb",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Firmus",
+        "OpenAI",
+        "NVIDIA",
+        "Firmus Technologies"
+      ],
+      "content": "CANBERRA -- Firmus, an Nvidia-backed developer and operator of artificial intelligence-focused data centers, on Tuesday announced an agreement with frontier AI developer OpenAI, which will contract compute capacity from two data centers the Australian company is to develop in Malaysia.",
+      "content_url": "https://asia.nikkei.com/business/technology/australia-s-firmus-inks-compute-deal-with-openai-for-malaysian-data-centers",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-09-08-ee3bbb",
+      "title": "South Korea's Power Demand Set to Soar on AI Boom as Nation Weighs Expanding Nuclear Energy",
+      "summary": "South Korea's energy minister said national power demand will surge in coming years due to semiconductor fab expansions by Samsung Electronics and SK Hynix alongside new AI data center construction. The government is weighing expanded nuclear generation to meet the projected load growth.",
+      "why_it_matters": "Korea's power planning has become a binding constraint on both its chip industry and AI ambitions, making nuclear policy a data center story. The outcome will determine whether Korea can host competitive AI infrastructure or watch investment migrate to markets with more readily available power, while also shaping electricity costs for the entire industrial sector.",
+      "score": 78,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [
+        "power",
+        "ai",
+        "chips",
+        "energy"
+      ],
+      "published_at": "2026-09-08T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817223",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Samsung Electronics",
+        "SK Hynix"
+      ],
+      "content": "SEOUL (Sept 8): South Korea's demand for power in the coming years is set to surge on plans by chipmakers Samsung Electronics and SK Hynix to expand production and the building of new AI data centres, according to the country's energy minister.\n\nThose AI-driven power needs alone will lift South Korea's demand for power by 25 to 30 gigawatts, the Minister of Climate, Energy and Environment Kim Sung-whan said in a *Reuters* interview this month.\n\nOn top of that, the country will also need to contend with increased power demand due to the shift to electric vehicles from gasoline-engine cars and to heating via electricity rather than gas, he added.\n\nHis comments come ahead of a government plan to unveil next month an update to the nation's long-term energy roadmap, extending it by two years to 2040. One key focus is whether South Korea will announce plans to build more nuclear reactors.\n\nKim declined to comment on how many more reactors he thinks the country needs, saying the matter was being reviewed by experts. But he described nuclear energy as \"an essential element to consider within the power generation structure of our energy mix.\"\n\nIf an extra 25 to 30 gigawatts were to come from nuclear energy alone, that would be equivalent to the capacity of about 20 reactors based on the current standards of a South Korean-designed unit.\n\nAsia's fourth-largest economy currently has 26 nuclear reactors and nuclear energy accounts for just under a third of the country's power needs.\n\nSamsung and SK Hynix — two of the world's biggest chipmakers whose products are essential to AI infrastructure — have pledged to build new factories in the country's southwest as part of an 800 trillion won (US$590 billion) \"mega project\" announced by the government this year.\n\n\"Projects originally planned to be built by around 2045 have been significantly accelerated and are now due to be completed by the early 2030s,\" Kim said.\n\nKim also said that several US tech companies including Nvidia NVDA.O have expressed interest in building data centres in South Korea because of its dependable power supply.\n\nWhile South Korea aims to boost renewables — which account for 11% of its power needs currently — reliance on nuclear energy is unavoidable for now despite its safety risks, he said.\n\nA poll by the state-run Korea Energy Information Culture Agency found 79% of 2,000 respondents supported including new nuclear plants in the roadmap.\n\nBut in May, a civic group in Ulsan, a potential site for new plants, collected more than 10,000 signatures opposing additional reactors on safety grounds.\n\nKim said he did not expect the planned cluster of chip plants in the country's southwest to require a new nuclear plant, because six reactors already operate there alongside existing solar and wind farms.\n\nInstead, regions such as Seoul, which depend on electricity transmitted from that area, would need additional solar plants or even liquefied natural gas plants, he said.\n\nOther energy sources in South Korea include coal, which accounts for 29% of its power needs currently, while gas accounts for 27%.\n\nThe country has 60 coal-fired power plants and aims to phase them out by 2040. That said, 20 of them will still have a legal design lifespan beyond that point in time and one option could be to keep them as emergency backup power.\n\n\"It's a kind of safety power reserve. You never know what might happen, so completely dismantling everything could put us in a difficult situation,\" Kim said.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817223",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-09-08-568357",
+      "title": "Malaysia Already Studying Potential Role of Nuclear Energy, Says Chang",
+      "summary": "GEORGE TOWN (Sept 8): Malaysia is already studying the potential role of nuclear energy in its future energy mix, with the government also undertaking preparatory work in technology, talent and regulatory development.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "energy",
+        "nuclear",
+        "regulation"
+      ],
+      "published_at": "2026-09-08T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817219",
+          "type": "html-list"
+        }
+      ],
+      "content": "GEORGE TOWN (Sept 8): Malaysia is already studying the potential role of nuclear energy in its future energy mix, with the government also undertaking preparatory work in technology, talent and regulatory development.\n\nMinister of Science, Technology and Innovation Datuk Chang Lih Kang said, however, the ongoing preparations did not mean the government had decided to adopt nuclear energy as a source of power.\n\n\"Of course, we are now doing the preparatory work. It does not mean that we have already made a decision but we need to be prepared so that our regulatory framework is ready, our talent is ready, and at the same time, we need to ensure the industry is also ready.\n\n\"Three areas fall under the Ministry of Science, Technology and Innovation's (Mosti) portfolio in relation to the nuclear energy preparedness efforts (technology, talent and regulatory development), while the other areas will be considered by the Ministry of Energy Transition and Water Transformation (Petra),\" he said.\n\nHe told reporters this after officiating the ninth edition of the Engineering, Science and Technology Congress (ESTCON 2026), organised by Universiti Teknologi PETRONAS (UTP), here on Tuesday. The event was also attended by UTP Chancellor Tan Sri Dr Mohd Hassan Marican.\n\nChang said that Malaysia's growing energy demand, driven by the expansion of strategic sectors such as semiconductors, advanced manufacturing, artificial intelligence (AI), cloud computing and hyperscale data centres, required the country to consider a full range of options for its longer-term energy needs.\n\nHe said the preparations required more than technological assessments, stressing that Malaysia also needs strong scientific and engineering capabilities, a robust regulatory and safety framework, a highly competent workforce and domestic industry readiness.\n\n\"Malaysia must ensure that its economic and technological growth are supported by energy that is secure, affordable and increasingly sustainable, as well as that Malaysia must also strengthen its capabilities in strategic and emerging technologies, including AI, advanced materials, space and nuclear technologies,\" he said.\n\nChang noted that the efforts were aligned with the National Science, Technology and Innovation Policy 2030, which provides strategic direction for strengthening Malaysia's science, technology and innovation (STI) capabilities through research and development, future-ready talent, technology adoption and innovation.\n\nThe minister also said Malaysia's STI ambitions also extended to the regional level, with greater Asean cooperation needed in areas such as energy connectivity, digital infrastructure, research and emerging technologies.\n\nHe added that such collaboration would be crucial in strengthening the region's collective resilience and competitiveness amid rapid technological change, climate challenges and geopolitical tensions.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817219",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-09-08-f03c63",
+      "title": "Thailand Maps Plan to Source 89% of Power from Clean Energy",
+      "summary": "Thailand is considering generating 89% of its electricity from cleaner sources by 2050 as it formally puts a more ambitious long-term power plan to public consultation.",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "renewable energy",
+        "sustainability",
+        "regulation"
+      ],
+      "published_at": "2026-09-08T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817214",
+          "type": "html-list"
+        }
+      ],
+      "content": "(Sept 8): Thailand is considering generating 89% of its electricity from cleaner sources by 2050 as it formally puts a more ambitious long-term power plan to public consultation.\n\nThe draft released Tuesday sets a minimum clean-power share of 65%, with several more aggressive options also under consideration. The most renewable-heavy scenario would lift that share to 89%, well above the target outlined by Energy Minister Akanat Promphan last month.\n\nThe plan comes as the country faces rising electricity demand from data centres and advanced manufacturing while trying to cut its reliance on imported natural gas, which still supplies most of its power. That dependence leaves Thailand exposed to swings in global fuel prices, a risk highlighted by the Middle East conflict and higher gas import costs.\n\n“Achieving net zero is a key challenge as global trade and investment increasingly focus on cutting greenhouse gas emissions,” Prasert Sinsukprasert, the Energy Ministry’s permanent secretary, said Tuesday. “Major global companies, particularly data centre operators, are choosing Thailand as an investment hub because they have confidence in the country’s power policies and its commitment to clean energy.”\n\n*Bloomberg News* first reported last month that the government was preparing to sharply increase its use of renewable energy and add nuclear power to the national plan. Renewables currently account for about 15% of the power mix.\n\nThe country has attracted billions of dollars of investment in data centres, cloud computing and advanced manufacturing, adding to pressure on the government to ensure there is enough electricity without pushing up household power bills.\n\nUnder the draft, about 51,000MW of new power capacity would be added through 2037, with most of it coming from solar, wind and battery storage, alongside new gas and nuclear power.\n\nThe most renewable-heavy option could require about 700 billion baht (RM85.99 billion) of investment through 2050 in power networks, batteries and other equipment needed to support a much larger share of renewable energy.\n\nThe plan also includes up to 9,000MW of nuclear capacity. The government is studying small modular reactors and micro modular reactors as options for future nuclear power plants.\n\nThailand last revised its 25-year power development plan in 2023, before the latest energy shock and the surge in electricity demand linked to artificial intelligence. The country still aims to reach net zero by 2050.\n\n*Uploaded by Arion Yeow*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817214",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-09-08-959a04",
+      "title": "Selangor Closely Monitoring Water, Power Supply Amid Data Centre Expansion",
+      "summary": "Selangor's state government is closely tracking water and power supply capacity as data center development accelerates, Menteri Besar Amirudin Shari said. The monitoring effort reflects concerns that the state's infrastructure may struggle to keep pace with the concentration of new facilities.",
+      "why_it_matters": "Selangor hosts much of Malaysia's data center growth, and any utility constraints there directly affect project timelines for the industry's biggest operators. The state government's posture suggests future approvals may be conditioned on resource availability, pushing developers to secure dedicated power and water arrangements earlier in the planning cycle.",
+      "score": 82,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "water",
+        "regulation",
+        "capacity"
+      ],
+      "published_at": "2026-09-08T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817204",
+          "type": "html-list"
+        }
+      ],
+      "content": "SEPANG (Sept 8): The Selangor government is closely monitoring water and power supply capacity amid the rapid expansion of data centres in the state, said Menteri Besar Datuk Seri Amirudin Shari.\n\nHe said the state would not approve data centre projects without ensuring adequate water and electricity supply, amid growing public concerns over the industry’s resource requirements.\n\n“We are very aware of the concerns of the public related to power and water supply, and we are monitoring closely.\n\n“Without enough water, definitely the data centre cannot be approved in Selangor,” he told reporters after witnessing the handover of vacant possession for NCT Smart Industrial Park (NSIP) Phase 1 here on Tuesday.\n\nAmirudin was commenting on NCT Alliance Bhd’s (KL:NCT) recent announcement that it had signed a term sheet for the proposed sale of a 100-acre land parcel within NSIP for a data centre development that could support up to 800 megawatts (MW) of capacity.\n\nAmirudin said every data centre application must obtain approval from the Federal Data Centre Task Force, with power supply requirements to be cleared by Tenaga Nasional Bhd (KL:TENAGA) and water supply by Pengurusan Air Selangor Sdn Bhd.\n\nHe said the state government is confident that its water supply capacity would be sufficient, particularly with the Rasau Water Supply Scheme expected to provide an additional 350 million litres per day (MLD), while the capacity could reach 700 MLD upon full completion of its first phase.\n\nHe also stressed that the state government is encouraging data centre operators to adopt water-recycling systems and technologies that could reduce water consumption for cooling purposes.\n\n“We are encouraging the recycling of water … so that the processed water is not discharged, but instead recycled within each data centre,” he said.\n\nAmirudin said the rapid expansion of data centres could also generate wider economic benefits by supporting the development of the electrical and electronics (E&E), chip and semiconductor sectors.\n\nHe added that Selangor had also introduced a 30% policy to ensure small and medium enterprises (SMEs) benefitted from data centre operations in the state.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817204",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-09-08-d267d6",
+      "title": "Malaysia Expects Nine GW of Gas-Fired Power Capacity by 2032 to Meet Rising Demand",
+      "summary": "PETALING JAYA (Sept 8): Malaysia expects about nine gigawatts (GW) of gas-fired power capacity to be deployed by 2032 as the country manages growing electricity demand, while progressively phasing out coal-fired generation.",
+      "why_it_matters": "",
+      "score": 62,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "energy",
+        "malaysia",
+        "gas"
+      ],
+      "published_at": "2026-09-08T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817202",
+          "type": "html-list"
+        }
+      ],
+      "content": "PETALING JAYA (Sept 8): Malaysia expects about nine gigawatts (GW) of gas-fired power capacity to be deployed by 2032 as the country manages growing electricity demand, while progressively phasing out coal-fired generation.\n\nMinister of Economy Akmal Nasrullah Mohd Nasir said the capacity would form part of the country’s efforts to manage electricity demand, with the last coal-fired power plant expected to be retired in 2044.\n\nAkmal Nasrullah said energy demand was showing an upward trend, driven by factors including population growth and higher consumption from energy-intensive sectors such as data centres.\n\n“In terms of the projection for energy demand, definitely we see a pattern of increase. One is population growth.\n\n“But number two, there is also an increase in energy consumption by high-usage sectors such as data centres,” he told reporters after the Energy Regulatory Insights 2026 here on Tuesday.\n\nHe said weather and climate conditions could also change energy demand patterns, particularly as hotter conditions increase the need for cooling systems and air conditioning.\n\nAgainst this backdrop, Akmal Nasrullah said managing energy demand would become as crucial as managing energy supply over the next five to 10 years.\n\n“I think for the next five to 10 years, Malaysia must really remain disciplined enough to ensure our system is continuously upgraded, not just in terms of the power produced, but also the grid and infrastructure, so that our system remains affordable, safe and sustainable,” he added.\n\nHe said energy planning should not only focus on the megawatts that need to be deployed in the system, but also on energy efficiency and conservation.\n\nAkmal Nasrullah said the planning would need to be managed by the Ministry of Energy Transition and Water Transformation and the Energy Commission to ensure the country could manage demand, while remaining committed to sustainability efforts and reducing the energy sector’s carbon footprint.\n\nEarlier in his keynote address, Akmal Nasrullah outlined three priorities for the next phase of energy reform, starting with the need for a competitive and progressive energy market with clear and predictable rules and transparent access arrangements.\n\nSecondly, he said expanding generation capacity must be supported by a modern grid that is intelligent, visible, secure and flexible, with grid modernisation under the 13th Malaysia Plan regarded as essential economic infrastructure to enable investments to connect faster, improve system efficiency and support reliable economic growth.\n\nThirdly, Akmal Nasrullah said energy efficiency must be treated as an energy resource in its own right, as it could reduce operating costs, ease pressure on the system and strengthen competitiveness.\n\nHe said the first National Energy Efficiency Action Plan (NEEAP) exceeded its original target, delivering cumulative electricity savings of 60,886 gigawatt-hours, equivalent to RM16.1 billion in savings, from 2016 to 2025.\n\nUnder NEEAP 2.0, Malaysia is targeting an 11.6% reduction in energy demand against the business-as-usual scenario by 2035, which is expected to help lower energy costs, ease pressure on the system and support more productive and competitive economic activity.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817202",
+      "published_precision": "day"
+    },
+    {
       "id": "2026-09-08-b473eb",
       "title": "South Korea to Combine 5 Utilities to Prepare for AI, Chip Power Demand",
       "summary": "SEOUL -- South Korea plans to integrate five public power companies in October 2027, hoping to speed investments that meet rising energy demands as the country's artificial intelligence and…",
@@ -123,32 +425,6 @@
       ],
       "content": "The data centre industry is planning more capacity than ever, but DCI Data Centers CEO Sumit Mukhija says the increasingly scarce commodity is not megawatts; it is certainty that those megawatts can actually be delivered.\n\nMukhija will explore that argument at the **Sydney Cloud & Datacenter Convention on 17 September**, where he will deliver the keynote “The Capacity Paradox: Why Certainty, and not Megawatts, has become the Industry’s Scarcest Resource.”\n\nThe shift reflects the rapid change in the infrastructure market, Mukhija told W.Media ahead of next week’s event. Mukhija has spent more than three decades working across IT, cloud and data centre infrastructure, including more than a decade leading ST Telemedia Global Data Centres (STT GDC) in South Asia.\n\n“A lot has changed in terms of scale, density and speed,” he says. “Over my career, we have gone from 3-5kW racks to 150-300kW today and potentially a MW per rack; and from data centres measured in tens of megawatts to campuses in the hundreds of megawatts, with some now approaching a gigawatt. Perhaps the biggest change, though, is the mainstreaming of AI.”\n\nThe resulting demands for compute, power, capital and more sophisticated cooling are changing the equation for customers, investors and operators. “For customers, time to market and increasingly time to compute are critical. For investors, much more capital needs to be committed upfront, often well before customer contracts are finalised, making the quality and bankability of those contracts important. For operators, the scale of the commitments and the associated delivery risk have increased significantly,” he explains.\n\nThat leaves all three groups asking essentially the same question. “The common theme is therefore ‘certainty’ [that is] how much can be delivered, when and where it can be delivered, and with what level of confidence,” he says.\n\n“AI and technology cycles are getting shorter, while the underlying infrastructure supporting them can still take years to secure, approve and build. That is the paradox: we have more capacity planned than ever before, but certainty around when and how that capacity becomes real has become increasingly valuable,” he says.\n\n### From announced MW to operational capacity\n\nFor Mukhija, the headline capacity attached to a project tells only part of the story. “I think it is important to recognise that projects simply carry different levels of certainty at different stages of their lifecycle,” he says.\n\nBetween planned capacity and an operational megawatt, he identifies a series of dependencies: land, capital, approvals, community acceptance, secured power and an energisation timeline, customer commitments, long-lead equipment, supply chains, design and execution. “So, beyond counting megawatts, we also need to understand the level of certainty behind those megawatts,” he says.\n\n### Power is a question of timing\n\nPower availability has consequently become less about a straightforward assessment of whether sufficient electricity exists and more about when it can actually reach the site. “Power is increasingly a time question as much as a capacity question,” Mukhija says. “Knowing that power will ultimately be available is very different from knowing when it can actually be energised.”\n\nThat affects DCI’s development strategy with its own facilities and the commitments it makes to customers. “We therefore focus not simply on how much power may ultimately be available, but on what is secured, when it can be energised, and when that capacity can actually be delivered to customers,” he says.\n\nMukhija says DCI distinguishes between secured capacity that can be delivered within a customer’s required timeframe and longer-term campus potential or future power availability. “We market secured power and capacity that can be delivered within the timelines our customers require, supported by land readiness, energisation timelines, the necessary approvals and investor confidence,” he explains.\n\nFor AI customers, he adds, that distinction can have direct economic consequences. “The timing of compute can have significant economic value. Our responsibility as an operator is to provide customers and investors with clarity on how much we can deliver, when we can deliver it, and the level of certainty behind that commitment,” he says.\n\n### Uncertain technology cycles\n\nThe other side of the equation is the pace at which AI hardware and workloads are changing. A data centre may be expected to operate for decades, while the technology installed inside it can change within months.\n\nMukhija therefore argues against designing infrastructure too tightly around any particular generation of hardware. “The key is to build infrastructure that can remain relevant and be redeployed across multiple technology and investment cycles,” he says. “That means not locking the design too tightly to a particular chip, cooling architecture or today’s density. We need sufficient headroom for future densities and the flexibility to accommodate different compute and cooling architectures as they evolve.”\n\nFor Mukhija, that is another dimension of certainty. “Certainty is not knowing exactly what the future will look like. It is building infrastructure that remains valuable when the future changes,” he says.\n\n**What makes a project credible?**\n\nThe same principle applies when customers, investors and governments assess the growing pipeline of Australian data centre projects. Mukhija’s test is whether the critical components of a project are coming together rather than simply how large the proposed campus is.\n\n“It comes down to whether the key elements are actually coming together: land, secured power and timing, approvals and community acceptance, committed capital, customer demand, supply-chain readiness, adaptable infrastructure and an operator that can execute,” he says. “No single element is enough on its own.”\n\nThat assessment also feeds into a broader question about Australia’s attractiveness to infrastructure investors. “We have historically benefited from strong investor confidence, supported by stable institutions, transparent regulation and a predictable investment environment,” Mukhija says. “These are important advantages when competing for global infrastructure capital, and we should not take them for granted.”\n\nHe supports data centres taking responsibility for their impacts on infrastructure and communities, but says the cost of additional requirements needs to be considered alongside Australia’s competitiveness. “I fully support the principle that data centres should be responsible for their impact on infrastructure and communities. But some of the emerging requirements around operators funding upstream electricity and water infrastructure and supporting additional renewable generation will add significant costs to development,” he warns.\n\nThe issue, he argues, is whether those costs deliver corresponding benefits. “If these costs are incremental, without corresponding benefits in operating costs or greater certainty of delivery, we risk making Australia less cost-competitive relative to other markets in the region,” he says.\n\n“We therefore need to get the balance right: responsible development and strong social licence, while preserving the investment certainty and competitiveness that have made Australia an attractive market in the first place,” he says.\n\nUltimately, Mukhija says the industry needs to change how it evaluates the capacity coming into the market. “Customers, investors and governments need to look beyond the headline megawatt figure and understand what sits behind it and the level of certainty around delivery,” he told W.Media. “Announced capacity is a number. Capacity with certainty is a promise you can underwrite.”\n\n*Sumit Mukhija will deliver the international keynote “The Capacity Paradox: Why Certainty, and not Megawatts, has become the Industry’s Scarcest Resource” at the **Sydney Cloud & Datacenter Convention** at 9.30am on 17 September, as part of the Data Center Plenary.* \n\nThe Sydney Cloud & Datacenter Convention 2026 will take place at the ICC Sydney, Exhibition Centre, Hall 4 on 16–17 September 2026. To attend the event **please visit the event website**.",
       "content_url": "https://w.media/dcis-sumit-mukhija-why-certainty-matters-more-than-megawatts/"
-    },
-    {
-      "id": "2026-09-08-4471db",
-      "title": "The race to secure power without burdening the grid",
-      "summary": "AI is certainly changing the power mix, and the demand is huge. But how have bottlenecks changed the way data centers are planned and built?",
-      "why_it_matters": "",
-      "score": 30,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [
-        "power",
-        "capacity"
-      ],
-      "published_at": "2026-09-08T07:00:34Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "Data Center Dynamics",
-          "url": "https://www.datacenterdynamics.com/en/marketwatch/the-race-to-secure-power-without-burdening-the-grid/",
-          "type": "rss"
-        }
-      ],
-      "content": "With power demands for AI continuing to surge, data center operators are fighting to secure power quickly and reliably. The journey, however, doesn’t always now start with the grid.\n\nHistorically, developers selected a site based on fiber connectivity, line availability, incentives, and access to a strong workforce. Now, according to Cummins VP for power generation, Stiven Smith, grid connection delays have led to a wide industry rethink.\n\n“The first question developers ask now is ‘how quickly can I secure power?’ When the grid tells them they need to wait five to seven years, they decide to take things under their own control,” he explains during a recent DCD>Talk. “The trend is: let’s secure power now and connect to the grid later.”\n\nCummins specializes in diesel and alternative fuel engines and generators. Smith is responsible for leading a team to solve prime power needs using natural gas and microgrids, integrating solar panels and battery energy storage systems (BESS).\n\nWhat he’s witnessing now is other technologies emerging in recent years, as AI hyperscalers and colocation data centers started to consider natural gas prime power for their solutions. Within this, the development of on-site prime power solutions has become central to data center power strategies.\n\n“Specifically for AI data centers, workloads are fluctuating and huge,” he says. “Power is needed now.”\n\nThe path to success for AI data centers depends on how quickly power can be secured, rather than depending on utilities, Smith adds. He advocates for alternative solutions, including behind-the-meter (BTM).\n\n“The ‘bring-your-own-power’ model is paramount. You can decide when to turn it on, how to maintain it, and how to scale it,” he says. “In the US specifically, we are one of the four largest natural gas producers. Not only that, but we can extract it, compress it, and transport it. There is an extensive network across some states, so it’s a relatively cheap fuel source.”\n\nHe advocates for natural gas as the answer to 24/7 data center operations – and their ability to respond to current industry demands. In line with this, Cummins recently announced a new large-megawatt natural gas platform, which came after the company recognized a need from its customers and the wider market.\n\n“Natural gas prime power technology isn’t new to us,” explains Smith. “The platform is moving to a 3.3MW generator … and is a continuation of our portfolio, based on understanding where the market will evolve in the future.”\n\nCummins’ platform is mainly designed to speed up time-to-power and accelerate deployment. The company is using an existing platform and scaling it with a longer cylinder block and additional cylinder heads, Smith explains.\n\n“To address grid interconnection delays, the generator can be scaled from hundreds of megawatts to potentially gigawatts,” he adds. “You have that flexibility with the footprint.”\n\nThe platform also enables fast integration into microgrids and BTM requests, in addition to its ability to work in parallel with hybrid energy architectures.\n\n“We currently have an extensive network of branches in every major city across the US,” Smith says. “That allows us to leverage proven natural gas technology with the ability to service and maintain it over the long term and provide an answer to the market.”\n\nWith consistent power the urgent need, Smith views data center power solutions migrating towards a more diversified energy portfolio – as the technology evolves to optimize chips.\n\n“We’re learning every day,” he shares. “We understand we need to provide a base load of power and there are spikes in AI requests from chips. These are very large and still evolving, it’s almost impossible that one single technology will be able to meet every requirement.”\n\nTo secure power via natural gas, Cummins uses BESS to help regulate the load. Combining the two technologies with natural gas turbines means the turbines manage a portion of the base load, generators handle a second base load, and batteries manage the third and more fluctuating part.\n\nLooking ahead, Smith foresees nuclear technologies one day entering the mix too.\n\n“It’s a dynamic and evolving market. Natural gas is the primary answer now, but we expect more diversification in the future,” he says. “In my opinion, the winners will be companies that truly understand this complexity and can architect resilient solutions that are also economically attractive for developers.”\n\nFor operators looking to the future, he encourages them to secure power early, consider flexibility, to think about hybrid energy systems, and avoid losing sight of maintenance.\n\n“Think beyond immediate power needs,” he adds. “There should be the ability to scale … and become more resilient. You’re no longer depending on just one source; you’re pulling several resources together into a single solution.”\n\n*Click here* *to listen to the full DCD>Talks interview with Stiven Smith.*\n\n- \n                \n    \n![GettyImages-485756494](https://media.datacenterdynamics.com/media/images/GettyImages-485756494.2e16d0ba.fill-280x185.jpg)  # Sponsored The architecture advantage: Rethinking power for AI data centersReliable components alone no longer guarantee a reliable campus. In the AI era, resilience increasingly depends on how power systems are architected to perform together\n- \n                \n    \n![GettyImages-1400275363](https://media.datacenterdynamics.com/media/images/GettyImages-1400275363.7e6b9d3a.fill-280x185.jpg)  # Sponsored The new data center playbook: Diversifying power strategy to unlock growthManaging the power bottleneck by redefining it as a strategic lever for growth\n- \n                \n    \n![Screenshot 2026-05-26 111525](https://media.datacenterdynamics.com/media/images/Screenshot_2026-05-26_111525.height-150.png)  # Emissions considerations for resiliency and flexibilityMaster grid constraints and maximize data center uptime",
-      "content_url": "https://www.datacenterdynamics.com/en/marketwatch/the-race-to-secure-power-without-burdening-the-grid/"
     },
     {
       "id": "2026-09-08-e073eb",
@@ -338,7 +614,7 @@
       "companies": [
         "DigitalBridge"
       ],
-      "content": "![DigitalBridge opens Tokyo office to expand in Japan](https://datacenternews.asia/uploads/story/2026/09/08/neutral-tokyo-office-cityscape-data-center-network-cables-digital-illustration-story-318464.webp) \n\n# DigitalBridge opens Tokyo office to expand in Japan\n\nTue, 8th Sep 2026 (Today)\n![Karen Joy Bacudo](<https://datacenternews.asia/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--019183c634a09650fab653c6e35bf96cd3b99fba/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpbGwiOlsxNjAsMTYwXSwicXVhbGl0eSI6ODV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--89ddf5e6765c65a563c2258053e9d33c05d195da/images%20(22)%201.webp>) \n\nDigitalBridge has opened an office in Tokyo to lead the investment firm's expansion in Japan.\n\nSoichiro Suda, who joined the company as Managing Director earlier this year, will lead investment activities in Japan and serve as its senior representative in the market. His remit includes identifying, evaluating, executing and managing investments across DigitalBridge's digital infrastructure portfolio.\n\nThe move gives DigitalBridge a local base in a market where it already invests in data centres, telecoms towers and connectivity assets. The new office is intended to help source deals, support closer work with portfolio companies and deepen ties with local partners.\n\nJapan has become a growing focus for international infrastructure investors as demand for computing capacity and network links rises across the economy. That demand has been tied to artificial intelligence, broader cloud adoption and businesses' digital transformation.\n\nEarlier this year, DigitalBridge launched Nippon Gateway Infrastructure, an enterprise data centre platform formed with JEXI. The platform was built around a portfolio of data centre facilities acquired from NEC.\n\nIts holdings in Japan also include JTOWER, an independent telecommunications infrastructure company, and Vantage Data Centres, which operates hyperscale data centre capacity in Osaka. Together, those assets give the firm exposure across several segments of the digital infrastructure market as it expands its presence in the country.\n\n### Japan focus\n\nThe broader market backdrop has also drawn investor attention. The Japanese government has announced a long-term economic strategy calling for ¥101.6 trillion in combined public and private investment in artificial intelligence and semiconductors through 2040, equivalent to about USD $630 billion.\n\nThat policy direction has reinforced expectations of heavier spending on the digital systems needed to support data processing, storage and communications. Data centres and telecoms infrastructure are among the assets expected to benefit if those investment plans translate into projects on the ground.\n\nDigitalBridge, based in Boca Raton, manages digital infrastructure investments across sectors including cell towers, data centres, fibre, small cells and edge infrastructure. It has operated in the broader digital investment market for more than three decades and has offices across North America, Europe, the Middle East and Asia.\n\nSuda brings more than 30 years of experience across energy, infrastructure advisory, asset management and investment banking. Before joining DigitalBridge, he was Chief Investment Officer at Japan Extensive Infrastructure.\n\nHe also spent seven years as a Managing Director at Macquarie Asset Management, where he worked on infrastructure investments in Japan. Earlier roles included Director positions at Ernst & Young Transaction Advisory, where he led infrastructure advisory, and at Storm Harbour Japan.\n\nBefore that, Suda spent 17 years at Mitsubishi Corporation in a range of energy and natural gas roles. His work there included project development in Australia, business development in Malaysia, treasury and finance, and liquefied petroleum gas marketing across Asia.\n\nDigitalBridge's senior leadership said the Tokyo opening reflects Japan's importance to its strategy in Asia and the strength of its existing portfolio in the country. The firm has been active in the market for several years, but the new office marks a shift toward a more permanent local operating presence.\n\nMarc Ganzi, Chief Executive Officer of DigitalBridge, linked the opening to the firm's existing footprint in towers and data centres.\n\n\"Japan has been an important market for DigitalBridge for many years, and we have built a differentiated platform spanning towers, hyperscale, and enterprise data centers,\" said Ganzi. \"Soichiro's leadership, together with the opening of our Tokyo office, strengthens our ability to support the growth of our portfolio and continue investing behind Japan's growing demand for AI, cloud, and connectivity infrastructure.\"\n\nJustin Chang, Senior Managing Director and Head of Asia at DigitalBridge, said Suda's background would support the firm's local activity.\n\n\"Japan is one of the most attractive digital infrastructure markets in Asia, with world-class enterprises and growing demand for AI, cloud, and connectivity infrastructure,\" said Chang. \"Soichiro's deep experience across infrastructure investing, advisory, and finance strengthens our local investment capabilities and relationships in Japan. He plays an important role in advancing our investment activities and supporting our portfolio companies and partners across the market.\"\n\nSoichiro Suda, Managing Director at DigitalBridge said the company sees a broad set of opportunities in the country.\n\n\"Japan is a highly strategic market for DigitalBridge, with significant opportunities emerging across data centers, connectivity, and the broader digital infrastructure ecosystem,\" said Suda. \"Over the past several months, I've seen firsthand the strength of DigitalBridge's platform, global capabilities, and relationships in the Japanese market. I look forward to building on that foundation alongside our investment teams, portfolio companies, and local partners.\"",
+      "content": "# DigitalBridge opens Tokyo office to expand in Japan\n\nTue, 8th Sep 2026 (Today)\n%201.webp>)\n\nDigitalBridge has opened an office in Tokyo to lead the investment firm's expansion in Japan.\n\nSoichiro Suda, who joined the company as Managing Director earlier this year, will lead investment activities in Japan and serve as its senior representative in the market. His remit includes identifying, evaluating, executing and managing investments across DigitalBridge's digital infrastructure portfolio.\n\nThe move gives DigitalBridge a local base in a market where it already invests in data centres, telecoms towers and connectivity assets. The new office is intended to help source deals, support closer work with portfolio companies and deepen ties with local partners.\n\nJapan has become a growing focus for international infrastructure investors as demand for computing capacity and network links rises across the economy. That demand has been tied to artificial intelligence, broader cloud adoption and businesses' digital transformation.\n\nEarlier this year, DigitalBridge launched Nippon Gateway Infrastructure, an enterprise data centre platform formed with JEXI. The platform was built around a portfolio of data centre facilities acquired from NEC.\n\nIts holdings in Japan also include JTOWER, an independent telecommunications infrastructure company, and Vantage Data Centres, which operates hyperscale data centre capacity in Osaka. Together, those assets give the firm exposure across several segments of the digital infrastructure market as it expands its presence in the country.\n\n### Japan focus\n\nThe broader market backdrop has also drawn investor attention. The Japanese government has announced a long-term economic strategy calling for ¥101.6 trillion in combined public and private investment in artificial intelligence and semiconductors through 2040, equivalent to about USD $630 billion.\n\nThat policy direction has reinforced expectations of heavier spending on the digital systems needed to support data processing, storage and communications. Data centres and telecoms infrastructure are among the assets expected to benefit if those investment plans translate into projects on the ground.\n\nDigitalBridge, based in Boca Raton, manages digital infrastructure investments across sectors including cell towers, data centres, fibre, small cells and edge infrastructure. It has operated in the broader digital investment market for more than three decades and has offices across North America, Europe, the Middle East and Asia.\n\nSuda brings more than 30 years of experience across energy, infrastructure advisory, asset management and investment banking. Before joining DigitalBridge, he was Chief Investment Officer at Japan Extensive Infrastructure.\n\nHe also spent seven years as a Managing Director at Macquarie Asset Management, where he worked on infrastructure investments in Japan. Earlier roles included Director positions at Ernst & Young Transaction Advisory, where he led infrastructure advisory, and at Storm Harbour Japan.\n\nBefore that, Suda spent 17 years at Mitsubishi Corporation in a range of energy and natural gas roles. His work there included project development in Australia, business development in Malaysia, treasury and finance, and liquefied petroleum gas marketing across Asia.\n\nDigitalBridge's senior leadership said the Tokyo opening reflects Japan's importance to its strategy in Asia and the strength of its existing portfolio in the country. The firm has been active in the market for several years, but the new office marks a shift toward a more permanent local operating presence.\n\nMarc Ganzi, Chief Executive Officer of DigitalBridge, linked the opening to the firm's existing footprint in towers and data centres.\n\n\"Japan has been an important market for DigitalBridge for many years, and we have built a differentiated platform spanning towers, hyperscale, and enterprise data centers,\" said Ganzi. \"Soichiro's leadership, together with the opening of our Tokyo office, strengthens our ability to support the growth of our portfolio and continue investing behind Japan's growing demand for AI, cloud, and connectivity infrastructure.\"\n\nJustin Chang, Senior Managing Director and Head of Asia at DigitalBridge, said Suda's background would support the firm's local activity.\n\n\"Japan is one of the most attractive digital infrastructure markets in Asia, with world-class enterprises and growing demand for AI, cloud, and connectivity infrastructure,\" said Chang. \"Soichiro's deep experience across infrastructure investing, advisory, and finance strengthens our local investment capabilities and relationships in Japan. He plays an important role in advancing our investment activities and supporting our portfolio companies and partners across the market.\"\n\nSoichiro Suda, Managing Director at DigitalBridge said the company sees a broad set of opportunities in the country.\n\n\"Japan is a highly strategic market for DigitalBridge, with significant opportunities emerging across data centers, connectivity, and the broader digital infrastructure ecosystem,\" said Suda. \"Over the past several months, I've seen firsthand the strength of DigitalBridge's platform, global capabilities, and relationships in the Japanese market. I look forward to building on that foundation alongside our investment teams, portfolio companies, and local partners.\"",
       "content_url": "https://datacenternews.asia/story/digitalbridge-opens-tokyo-office-to-expand-in-japan"
     },
     {
@@ -366,7 +642,7 @@
           "type": "rss"
         }
       ],
-      "content": "![AI data centres make grid access key to power deals](https://datacenternews.asia/uploads/story/2026/09/08/james-cameron-steven-jack-and-matt-eastwick-story-318462.webp) \n\n![Sean Mitchell](https://datacenternews.asia/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--a929a91c2a04d9af95ed98b14ed4d405bc70c1a7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpbGwiOlsxNjAsMTYwXSwicXVhbGl0eSI6ODV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--89ddf5e6765c65a563c2258053e9d33c05d195da/IMG_3092.webp) \n\nArtificial intelligence demand and data centre expansion are reshaping global power markets, with grid access becoming a central factor in project viability, according to JLL.\n\nIts analysis points to a sharp rise in electricity demand after years of relative stability or decline, with data centre growth emerging as a major driver across the United States, Europe and Asia Pacific. In Asia Pacific, data centre capacity is projected to rise from 32GW to 57GW by 2030, while global capacity could reach 200GW over the same period.\n\nThis shift is colliding with grid systems built for large, centralised power stations rather than a faster-growing, more dispersed mix of renewable generation and large-scale computing facilities. In several markets, queues to connect new projects now stretch to four years or longer, and some regions have paused new connections altogether.\n\nThat pressure is increasing the importance of transmission access in energy, property and digital infrastructure deals. Investors are placing greater weight on whether an asset already has a connection or a credible path to securing one, turning power access from an operational issue into a valuation question.\n\nHyperscale technology companies are also increasing spending as they build out cloud and AI infrastructure. JLL said hyperscalers had announced USD $200 billion of infrastructure spending for 2026, up 51% from 2025.\n\nThe trends are not uniform across regions. In the United States, interconnection reform and exposure to merchant power markets are altering deal structures. In Europe, regulatory change is moving at different speeds between countries. In Asia Pacific, the pace of data centre construction is outstripping grid planning in several markets.\n\nSteven Jack, Head of Energy and Infrastructure Advisory, EMEA, at JLL, described the scale of the shift in power demand.\n\n\"We've seen a generational shift in power demand as a result of data centres and AI,\" Jack said. \"This was not on the radar until very recently. Utilities that were forecasting modest growth are now grappling with figures nearly double their previous estimates. For any energy developer, without a grid connection, you don't have a project. For investors, this grid congestion translates directly into risk, but it also creates a scarcity premium for assets that provide or secure grid access. In a world of geopolitical uncertainty, generating your own power is about energy sovereignty or energy autonomy, and it's simply the cheapest way to produce power today.\"\n\n### Storage focus\n\nBattery energy storage systems are becoming more prominent as developers and investors look for ways to manage intermittency, reduce stress on constrained grids and improve the economics of renewable supply. Their growth reflects a broader effort to build more flexibility into power systems as data centre demand rises.\n\nMatt Eastwick, Group Head and Senior Managing Director, Energy and Infrastructure Advisory, U.S., at JLL, said batteries had become a key part of that response.\n\n\"Batteries are a very important component and asset in that balancing act,\" Eastwick said. \"They act as shock absorbers for constrained grids, charging when power is cheap and abundant, then discharging when demand and price are high. We're in a brave new world. Power demand is rising faster than grids were built to handle. Capital is available, but certainty is harder to find. In this environment, winners will be those who factor grid constraints and power availability into their investment decisions from day one.\"\n\nJLL also highlighted its recent advisory role on the disposal of a 395MW/790MWh operational battery storage portfolio in the UK, which it described as the largest operational sale of its kind in Europe. The firm said the transaction set a new pricing benchmark for the market.\n\n### Regional models\n\nGrid bottlenecks are also changing the relationship between energy producers and major electricity users. Large technology groups are taking a more direct role in securing generation, including through purchases of operating renewable assets, to reduce reliance on uncertain connection timelines and wholesale market volatility.\n\nOne recent example cited by JLL involved a Bitcoin miner in Texas buying an operating wind farm that the firm had been marketing to secure its own power supply. The case illustrates the premium some users are prepared to pay for dependable access to electricity.\n\nIn Asia Pacific, investors are increasingly treating grid status and location as the first point of due diligence for development assets, particularly in liberalised electricity markets. JLL identified Australia, India, Japan and the Philippines as examples where connection status can have the biggest effect on valuation.\n\nJames Cameron, Head of Energy and Infrastructure, APAC, at JLL, said the pressure was producing new deal structures in the region.\n\n\"In liberalised markets in Asia Pacific, such as Australia, India, Japan and the Philippines, status and location of grid connection is the first question for investors and has the largest valuation impact for development assets,\" Cameron said. \"In Australia, where legislation is expected to require data centre developers to ensure new renewable power generation matches additional capacity, we're seeing a range of innovative models, from joint ventures to the inclusion of batteries in data centre design to facilitate grid connection. While the solution will differ depending on circumstances, it is clear we will see many more partnership opportunities and innovative solutions between data centre and energy clients across the region.\"",
+      "content": "Artificial intelligence demand and data centre expansion are reshaping global power markets, with grid access becoming a central factor in project viability, according to JLL.\n\nIts analysis points to a sharp rise in electricity demand after years of relative stability or decline, with data centre growth emerging as a major driver across the United States, Europe and Asia Pacific. In Asia Pacific, data centre capacity is projected to rise from 32GW to 57GW by 2030, while global capacity could reach 200GW over the same period.\n\nThis shift is colliding with grid systems built for large, centralised power stations rather than a faster-growing, more dispersed mix of renewable generation and large-scale computing facilities. In several markets, queues to connect new projects now stretch to four years or longer, and some regions have paused new connections altogether.\n\nThat pressure is increasing the importance of transmission access in energy, property and digital infrastructure deals. Investors are placing greater weight on whether an asset already has a connection or a credible path to securing one, turning power access from an operational issue into a valuation question.\n\nHyperscale technology companies are also increasing spending as they build out cloud and AI infrastructure. JLL said hyperscalers had announced USD $200 billion of infrastructure spending for 2026, up 51% from 2025.\n\nThe trends are not uniform across regions. In the United States, interconnection reform and exposure to merchant power markets are altering deal structures. In Europe, regulatory change is moving at different speeds between countries. In Asia Pacific, the pace of data centre construction is outstripping grid planning in several markets.\n\nSteven Jack, Head of Energy and Infrastructure Advisory, EMEA, at JLL, described the scale of the shift in power demand.\n\n\"We've seen a generational shift in power demand as a result of data centres and AI,\" Jack said. \"This was not on the radar until very recently. Utilities that were forecasting modest growth are now grappling with figures nearly double their previous estimates. For any energy developer, without a grid connection, you don't have a project. For investors, this grid congestion translates directly into risk, but it also creates a scarcity premium for assets that provide or secure grid access. In a world of geopolitical uncertainty, generating your own power is about energy sovereignty or energy autonomy, and it's simply the cheapest way to produce power today.\"\n\n### Storage focus\n\nBattery energy storage systems are becoming more prominent as developers and investors look for ways to manage intermittency, reduce stress on constrained grids and improve the economics of renewable supply. Their growth reflects a broader effort to build more flexibility into power systems as data centre demand rises.\n\nMatt Eastwick, Group Head and Senior Managing Director, Energy and Infrastructure Advisory, U.S., at JLL, said batteries had become a key part of that response.\n\n\"Batteries are a very important component and asset in that balancing act,\" Eastwick said. \"They act as shock absorbers for constrained grids, charging when power is cheap and abundant, then discharging when demand and price are high. We're in a brave new world. Power demand is rising faster than grids were built to handle. Capital is available, but certainty is harder to find. In this environment, winners will be those who factor grid constraints and power availability into their investment decisions from day one.\"\n\nJLL also highlighted its recent advisory role on the disposal of a 395MW/790MWh operational battery storage portfolio in the UK, which it described as the largest operational sale of its kind in Europe. The firm said the transaction set a new pricing benchmark for the market.\n\n### Regional models\n\nGrid bottlenecks are also changing the relationship between energy producers and major electricity users. Large technology groups are taking a more direct role in securing generation, including through purchases of operating renewable assets, to reduce reliance on uncertain connection timelines and wholesale market volatility.\n\nOne recent example cited by JLL involved a Bitcoin miner in Texas buying an operating wind farm that the firm had been marketing to secure its own power supply. The case illustrates the premium some users are prepared to pay for dependable access to electricity.\n\nIn Asia Pacific, investors are increasingly treating grid status and location as the first point of due diligence for development assets, particularly in liberalised electricity markets. JLL identified Australia, India, Japan and the Philippines as examples where connection status can have the biggest effect on valuation.\n\nJames Cameron, Head of Energy and Infrastructure, APAC, at JLL, said the pressure was producing new deal structures in the region.\n\n\"In liberalised markets in Asia Pacific, such as Australia, India, Japan and the Philippines, status and location of grid connection is the first question for investors and has the largest valuation impact for development assets,\" Cameron said. \"In Australia, where legislation is expected to require data centre developers to ensure new renewable power generation matches additional capacity, we're seeing a range of innovative models, from joint ventures to the inclusion of batteries in data centre design to facilitate grid connection. While the solution will differ depending on circumstances, it is clear we will see many more partnership opportunities and innovative solutions between data centre and energy clients across the region.\"",
       "content_url": "https://datacenternews.asia/story/ai-data-centres-make-grid-access-key-to-power-deals"
     },
     {
@@ -427,323 +703,97 @@
       "content_url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/energy-diversification-singapore-has-make-business-sense-gan-siow-huang"
     },
     {
-      "id": "2026-09-08-2b7977",
-      "title": "Mistral AI Raises at €21 Billion Valuation in Samsung-Led Round",
-      "summary": "Mistral AI has raised €3 billion (about RM14.1 billion) in a funding round led by Samsung Electronics, valuing the French AI developer at more than €21 billion. The capital will fund development of AI models and the build-out of computing infrastructure.",
-      "why_it_matters": "The raise deepens Europe's challenge to US AI dominance and gives Mistral the firepower to secure compute at scale — a growing share of which flows to data centre operators. Samsung's lead role also signals Asian hardware giants are taking strategic stakes in model developers to lock in demand for their chips and infrastructure.",
-      "score": 68,
-      "heat": 2,
-      "regions": [
-        "korea",
-        "global"
-      ],
-      "topics": [
-        "ai",
-        "investment",
-        "funding",
-        "compute"
-      ],
-      "published_at": "2026-09-08T00:00:00Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Business Times",
-          "url": "https://www.businesstimes.com.sg/startups-tech/startups/mistral-raises-record-3-billion-euros-samsung-led-round-over-21-billion-euro-valuation",
-          "type": "rss"
-        },
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/817197",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Mistral AI",
-        "Samsung Electronics"
-      ],
-      "content": "The French AI startup plans to treble its Singapore headcount as it expands in South-east Asia\n\n[SINGAPORE] French artificial intelligence startup Mistral has raised three billion euros (US$3.5 billion) in a Series D funding round, valuing the three-year-old company at more than 21 billion euros.\n\nThe Series D, announced on Tuesday (Sep 8), is the largest equity fundraising round completed by a European technology company, said Mistral.\n\nSamsung Electronics led the round, with the Scaleup Europe Fund, managed by EQT, and existing investor PSG Equity as co-leads.\n\nNew investors include funds and accounts managed by BlackRock and Luxembourg. Existing backers such as ASML and Nvidia also participated.\n\nThe funds will be used to expand Mistral’s frontier AI research, as well as scale compute capacity for training AI models. Infrastructure expansion and commercial and geographical growth will also be fuelled by the capital injection.\n\nMistral currently operates in 20 countries, including Singapore, where it opened an office in January 2025. The startup plans to treble its headcount in Singapore as it chases growth in South-east Asia.\n\nGlobally, Mistral supports more than 125 enterprises in their AI transformation.\n\n“This round means we can move faster on R&D, products, infrastructure and keep giving organisations the ability to run AI at scale, on their own terms,” said Arthur Mensch, co-founder and CEO of Mistral.\n\nSamsung Electronics’ investment comes after a Series C round led by Dutch semiconductor player ASML.\n\nSEE ALSO\n\n“We believe that the combination of ambition and execution puts Mistral in a strong position to shape the next era of AI”, said Kirk Lepke, partner at EQT and Scaleup Europe Fund.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.\n\n## TRENDING NOW\n\nWatch live: PM Wong, Chan Chun Sing to address political office-holders’ salary review in Parliament\n\nVietnam pitches its real economy, not a Singapore replica, in two-city IFC push\n\nLawsuit from ex-advisers adds to claims arising from Hao Mart’s lease of Taste Orchard\n\nCanada’s fight with the US has far bigger stakes than trade",
-      "content_url": "https://www.businesstimes.com.sg/startups-tech/startups/mistral-raises-record-3-billion-euros-samsung-led-round-over-21-billion-euro-valuation"
-    },
-    {
-      "id": "2026-09-08-7e35b1",
-      "title": "AI hotshot Firmus tees up IPO meetings after OpenAI win in Malaysia",
-      "summary": "Firmus is arranging meetings with prospective investors ahead of a potential initial public offering, capitalising on momentum from its recently won OpenAI compute deal in Malaysia. The Australian AI infrastructure company is positioning the agreement as proof of commercial traction as it courts public-market interest.",
-      "why_it_matters": "An IPO would test whether public investors are willing to price neocloud and AI infrastructure businesses on contracted AI demand rather than speculative growth, setting a benchmark for the many APAC players weighing listings. Success could unlock a new funding channel for capital-hungry AI data centre developers; failure would signal that public markets remain sceptical of the sector's economics.",
-      "score": 82,
-      "heat": 1,
-      "regions": [
-        "australia",
-        "southeast-asia"
-      ],
-      "topics": [
-        "ai",
-        "ipo",
-        "investment",
-        "capacity"
-      ],
-      "published_at": "2026-09-08T00:00:00Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/street-talk/ai-hotshot-firmus-tees-up-ipo-meetings-after-openai-win-in-malaysia-20260908-p60vdn",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Firmus",
-        "OpenAI"
-      ],
-      "content": "Rubber is about to hit the road for $15.5 billion neocloud Firmus Technologies’ hotly anticipated arrival on the ASX.\n\nThe business, co-founded by Oliver Curtis, Tim Rosenfield and Jonathan Levee, plans to kick off investor meetings next week for its initial public offering, sources told Street Talk on the condition of anonymity.\n\nLoading...\n\nSarah Thompson has co-edited Street Talk since 2009, specialising in private equity, investment banking, M&A and equity capital markets stories. Prior to that, she spent 10 years in London as a markets and M&A reporter at Bloomberg and Dow Jones. Email Sarah at sarah.thompson@afr.com\n\nAngira Bharadwaj is a co-editor of Street Talk. She covers IPOs, capital raises, mergers and acquisitions and other breaking news in Australia’s capital markets. Previously, she covered financial services, state, and federal politics. Send tips to @angirab.60 on encrypted messaging platform Signal. Email Angira at angira.bharadwaj@nine.com.au",
-      "content_url": "https://www.afr.com/street-talk/ai-hotshot-firmus-tees-up-ipo-meetings-after-openai-win-in-malaysia-20260908-p60vdn"
-    },
-    {
-      "id": "2026-09-08-2652a3",
-      "title": "A tenth of Malaysia's electricity consumption is from data centres, says energy regulator",
-      "summary": "Malaysia's Energy Commission says data centres now account for nearly a tenth of the country's total electricity consumption. The regulator expects power demand from the sector to climb further by the end of the year.",
-      "why_it_matters": "The figure quantifies the strain the data centre boom is placing on Malaysia's grid and will sharpen debate over tariffs, renewable energy obligations and approval conditions for new facilities. Utilities, policymakers and developers now face pressure to align capacity expansion with grid investment, or risk backlash from consumers facing rising costs.",
-      "score": 88,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "power",
-        "capacity",
-        "regulation"
-      ],
-      "published_at": "2026-09-08T00:00:00Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/817208",
-          "type": "html-list"
-        }
-      ],
-      "content": "PETALING JAYA (Sept 8): Data centres make up nearly a tenth of Malaysia’s electricity consumption, according to the Energy Commission, with demand for power expected to pick up further by the end of the year.\n\nElectricity consumption by data centres has risen to 9.28% of total consumption, said EC chief executive officer Siti Safinah Salleh, adding that the warmer weather also saw cooling systems using more power.\n\nMore data centres expected to come online in November would also push up consumption, she noted.\n\nMalaysia has attracted RM95.8 billion in data centre and cloud-computing projects in the first half of this year alone, the Malaysian Investment Development Authority said recently.\n\nMost of Malaysia's data centre invesetments are concentrated in Johor. The Knight Frank Data Centre Atlas 2026 report released in July said data centres in the state had a live capacity of 1,110 megawatts (MW) and an incoming pipeline capacity at 8,542MW. Data centre capacity is often measured by the a amount of power it can draw on.\n\nBy comparison, the EC's MyEnergyStats portal records Malaysia's installed electricity generation capacity at 27,333MW as of 2025, with a peak demand of 21,049MW recorded on May 28 last year. \n\n    \n\nDeputy Minister Datuk Seri Fadillah Yusof previously told Parliament in July that data centres are expected to consume around one third of Malaysia’s electricity supply by 2035. At the time, data centres accounted for 7% of electricity consumption.\n\nThe government has hinted at putting the brakes on data centre investments, with the Investment, Trade and Industry (MITI) saying projects will be approved only after ensuring that energy and water supply capacity is sufficient.\n\n*Read also: Data centres, cloud projects make up nearly half of Malaysia's RM218.5b approved investments in 1H2026 — Mida\nJohor leads Asia-Pacific data centre pipeline as Klang Valley sees 1H2026 investment rebound, says Knight Frank\nData centres to guzzle one-third of Malaysia’s electricity by 2035, govt taking measures to ensure supply*\n\nEdited BySyed Azahedi\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/817208"
-    },
-    {
-      "id": "2026-09-08-73ecc1",
-      "title": "Australia's Firmus inks compute deal with OpenAI for Malaysian data centers",
-      "summary": "Firmus, an Australian AI infrastructure company, has signed a compute agreement with OpenAI that will see its Malaysian data center facilities provide capacity for the US AI company's workloads. The deal extends OpenAI's infrastructure footprint into Southeast Asia through a regional partner rather than its own build-out.",
-      "why_it_matters": "The agreement positions Malaysia as a viable host for frontier AI workloads at a time when the country is aggressively courting hyperscale investment, and gives Firmus a marquee anchor customer that could unlock further capital raising. It also signals that US AI labs are diversifying compute sourcing beyond traditional hubs, which matters for regional operators competing to land AI tenants.",
-      "score": 92,
-      "heat": 4,
-      "regions": [
-        "australia",
-        "southeast-asia",
-        "global"
-      ],
-      "topics": [
-        "ai",
-        "capacity",
-        "investment",
-        "hyperscale"
-      ],
-      "published_at": "2026-09-08T00:00:00Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/business/technology/australia-s-firmus-inks-compute-deal-with-openai-for-malaysian-data-centers",
-          "type": "rss"
-        },
-        {
-          "name": "The Business Times",
-          "url": "https://www.businesstimes.com.sg/startups-tech/technology/nvidia-backed-ai-firm-firmus-signs-deal-openai-malaysia-data-centre-capacity",
-          "type": "rss"
-        },
-        {
-          "name": "The Business Times — Data Centres topic",
-          "url": "https://www.businesstimes.com.sg/startups-tech/technology/nvidia-backed-ai-firm-firmus-signs-deal-openai-malaysia-data-centre-capacity",
-          "type": "html-list"
-        },
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/technology/firmus-lands-openai-deal-for-malaysian-data-centres-20260908-p60vdb",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Firmus",
-        "OpenAI",
-        "NVIDIA",
-        "Firmus Technologies"
-      ],
-      "content": "CANBERRA -- Firmus, an Nvidia-backed developer and operator of artificial intelligence-focused data centers, on Tuesday announced an agreement with frontier AI developer OpenAI, which will contract compute capacity from two data centers the Australian company is to develop in Malaysia.",
-      "content_url": "https://asia.nikkei.com/business/technology/australia-s-firmus-inks-compute-deal-with-openai-for-malaysian-data-centers"
-    },
-    {
-      "id": "2026-09-08-ee3bbb",
-      "title": "South Korea's Power Demand Set to Soar on AI Boom as Nation Weighs Expanding Nuclear Energy",
-      "summary": "South Korea's energy minister said national power demand will surge in coming years due to semiconductor fab expansions by Samsung Electronics and SK Hynix alongside new AI data center construction. The government is weighing expanded nuclear generation to meet the projected load growth.",
-      "why_it_matters": "Korea's power planning has become a binding constraint on both its chip industry and AI ambitions, making nuclear policy a data center story. The outcome will determine whether Korea can host competitive AI infrastructure or watch investment migrate to markets with more readily available power, while also shaping electricity costs for the entire industrial sector.",
+      "id": "2026-09-08-ba3e11",
+      "title": "CBH Engineering shares hit fresh high after data centre-linked job wins",
+      "summary": "CBH Engineering Holding Bhd shares reached a fresh high after the company won an RM88.05 million contract to design and build a 275kV consumer landing station serving a data centre in Selangor, Malaysia. The award adds to a string of data centre-related job wins for the engineering firm.",
+      "why_it_matters": "The contract shows how Malaysia's data centre boom is cascading into the local engineering and power infrastructure supply chain, boosting order books for listed contractors. It also underscores the scale of high-voltage grid connections being built in Selangor to support new capacity.",
       "score": 78,
       "heat": 1,
       "regions": [
-        "korea"
+        "southeast-asia"
       ],
       "topics": [
-        "power",
-        "ai",
-        "chips",
-        "energy"
+        "construction",
+        "investment",
+        "capacity",
+        "power"
       ],
-      "published_at": "2026-09-08T00:00:00Z",
+      "published_at": "2026-09-07T12:00:00Z",
       "featured": true,
       "sources": [
         {
           "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/817223",
+          "url": "https://theedgemalaysia.com/node/817169",
           "type": "html-list"
         }
       ],
       "companies": [
-        "Samsung Electronics",
-        "SK Hynix"
+        "CBH Engineering"
       ],
-      "content": "SEOUL (Sept 8): South Korea's demand for power in the coming years is set to surge on plans by chipmakers Samsung Electronics and SK Hynix to expand production and the building of new AI data centres, according to the country's energy minister.\n\nThose AI-driven power needs alone will lift South Korea's demand for power by 25 to 30 gigawatts, the Minister of Climate, Energy and Environment Kim Sung-whan said in a *Reuters* interview this month.\n\nOn top of that, the country will also need to contend with increased power demand due to the shift to electric vehicles from gasoline-engine cars and to heating via electricity rather than gas, he added.\n\nHis comments come ahead of a government plan to unveil next month an update to the nation's long-term energy roadmap, extending it by two years to 2040. One key focus is whether South Korea will announce plans to build more nuclear reactors.\n\nKim declined to comment on how many more reactors he thinks the country needs, saying the matter was being reviewed by experts. But he described nuclear energy as \"an essential element to consider within the power generation structure of our energy mix.\"\n\nIf an extra 25 to 30 gigawatts were to come from nuclear energy alone, that would be equivalent to the capacity of about 20 reactors based on the current standards of a South Korean-designed unit.\n\nAsia's fourth-largest economy currently has 26 nuclear reactors and nuclear energy accounts for just under a third of the country's power needs.\n\nSamsung and SK Hynix — two of the world's biggest chipmakers whose products are essential to AI infrastructure — have pledged to build new factories in the country's southwest as part of an 800 trillion won (US$590 billion) \"mega project\" announced by the government this year.\n\n\"Projects originally planned to be built by around 2045 have been significantly accelerated and are now due to be completed by the early 2030s,\" Kim said.\n\nKim also said that several US tech companies including Nvidia NVDA.O have expressed interest in building data centres in South Korea because of its dependable power supply.\n\nWhile South Korea aims to boost renewables — which account for 11% of its power needs currently — reliance on nuclear energy is unavoidable for now despite its safety risks, he said.\n\nA poll by the state-run Korea Energy Information Culture Agency found 79% of 2,000 respondents supported including new nuclear plants in the roadmap.\n\nBut in May, a civic group in Ulsan, a potential site for new plants, collected more than 10,000 signatures opposing additional reactors on safety grounds.\n\nKim said he did not expect the planned cluster of chip plants in the country's southwest to require a new nuclear plant, because six reactors already operate there alongside existing solar and wind farms.\n\nInstead, regions such as Seoul, which depend on electricity transmitted from that area, would need additional solar plants or even liquefied natural gas plants, he said.\n\nOther energy sources in South Korea include coal, which accounts for 29% of its power needs currently, while gas accounts for 27%.\n\nThe country has 60 coal-fired power plants and aims to phase them out by 2040. That said, 20 of them will still have a legal design lifespan beyond that point in time and one option could be to keep them as emergency backup power.\n\n\"It's a kind of safety power reserve. You never know what might happen, so completely dismantling everything could put us in a difficult situation,\" Kim said.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/817223"
+      "content": "KUALA LUMPUR (Sept 8): Shares of CBH Engineering Holding Bhd (KL:CBHB) rose to a fresh high since its listing in January last year after the group secured RM147.66 million worth of data centre-linked jobs in Johor and Selangor in less than two weeks.\n\nThe counter rose as high as 5.26% to hit the RM1 mark in morning trade on Tuesday. At the time of writing, it was up 3.5 sen, or 3.68%, at 98.5 sen, with 12.86 million shares changing hands, valuing the group at RM1.85 billion.\n\nOn Monday, CBHB via wholly owned subsidiary CBH Engineering Sdn Bhd had secured a RM88.05 million contract to design and build a 275kV consumer landing station serving a data centre in Selangor.\n\nTen days before that, CBH Engineering was awarded a RM59.61 million work order for electrical infrastructure works at a data centre in Johor.\n\nThe wins lifted its outstanding order book to RM1.16 billion from six contracts secured in FY2026, bringing its total year-to-date order wins to RM477.2 million.\n\nResearch houses are bullish on CBHB's prospects due to its run of contract wins.\n\nApex Securities, in a note to clients, estimated that the Selangor contract could generate about RM20.7 million in gross profit over its nine-month duration, based on an assumed gross profit margin of 23.5%. Of this, RM10.7 million is expected to be recognised in FY2026 and RM10 million in FY2027.\n\nThe research house expects data centre-related job momentum to remain strong, backed by continued investment from hyperscalers in data centre and artificial intelligence (AI) infrastructure.\n\nCBHB currently has about RM1 billion worth of substation projects in its FY2026 tender book. Assuming a 60% win rate, Apex Securities expects this to translate into about RM600 million in new orders.\n\n“Given year-to-date order wins have reached 80% of our assumption, and with four months left in the year, should the contracts continue at its current pace, we see scope for an upward revision to our FY2026 and FY2027 replenishment assumptions and earnings forecasts,” it added.\n\nMeanwhile, Philip Capital said CBHB could secure additional packages as subsequent phases of the Selangor project are rolled out.\n\nIt also highlighted the group’s track record in executing hyperscaler projects and its above-industry margin profile.\n\nKey downside risks include slower-than-expected contract awards, project execution risks and rising project costs.\n\nApex Securities and Philip Capital maintain their \"buy\" call on the stock, increasing their target prices to RM1.05 and RM1.11, respectively, from the last closing price of 95 sen.\n\nCBHB shares have been on a steady uptrend since its listing in January last year. The stock has more than doubled since the start of 2026 and is now more than three times its IPO price of 28 sen.\n\nEdited BySyed Azahedi\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817169",
+      "published_precision": "day"
     },
     {
-      "id": "2026-09-08-568357",
-      "title": "Malaysia Already Studying Potential Role of Nuclear Energy, Says Chang",
-      "summary": "GEORGE TOWN (Sept 8): Malaysia is already studying the potential role of nuclear energy in its future energy mix, with the government also undertaking preparatory work in technology, talent and regulatory development.",
-      "why_it_matters": "",
-      "score": 55,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "power",
-        "energy",
-        "nuclear",
-        "regulation"
-      ],
-      "published_at": "2026-09-08T00:00:00Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/817219",
-          "type": "html-list"
-        }
-      ],
-      "content": "GEORGE TOWN (Sept 8): Malaysia is already studying the potential role of nuclear energy in its future energy mix, with the government also undertaking preparatory work in technology, talent and regulatory development.\n\nMinister of Science, Technology and Innovation Datuk Chang Lih Kang said, however, the ongoing preparations did not mean the government had decided to adopt nuclear energy as a source of power.\n\n\"Of course, we are now doing the preparatory work. It does not mean that we have already made a decision but we need to be prepared so that our regulatory framework is ready, our talent is ready, and at the same time, we need to ensure the industry is also ready.\n\n\"Three areas fall under the Ministry of Science, Technology and Innovation's (Mosti) portfolio in relation to the nuclear energy preparedness efforts (technology, talent and regulatory development), while the other areas will be considered by the Ministry of Energy Transition and Water Transformation (Petra),\" he said.\n\nHe told reporters this after officiating the ninth edition of the Engineering, Science and Technology Congress (ESTCON 2026), organised by Universiti Teknologi PETRONAS (UTP), here on Tuesday. The event was also attended by UTP Chancellor Tan Sri Dr Mohd Hassan Marican.\n\nChang said that Malaysia's growing energy demand, driven by the expansion of strategic sectors such as semiconductors, advanced manufacturing, artificial intelligence (AI), cloud computing and hyperscale data centres, required the country to consider a full range of options for its longer-term energy needs.\n\nHe said the preparations required more than technological assessments, stressing that Malaysia also needs strong scientific and engineering capabilities, a robust regulatory and safety framework, a highly competent workforce and domestic industry readiness.\n\n\"Malaysia must ensure that its economic and technological growth are supported by energy that is secure, affordable and increasingly sustainable, as well as that Malaysia must also strengthen its capabilities in strategic and emerging technologies, including AI, advanced materials, space and nuclear technologies,\" he said.\n\nChang noted that the efforts were aligned with the National Science, Technology and Innovation Policy 2030, which provides strategic direction for strengthening Malaysia's science, technology and innovation (STI) capabilities through research and development, future-ready talent, technology adoption and innovation.\n\nThe minister also said Malaysia's STI ambitions also extended to the regional level, with greater Asean cooperation needed in areas such as energy connectivity, digital infrastructure, research and emerging technologies.\n\nHe added that such collaboration would be crucial in strengthening the region's collective resilience and competitiveness amid rapid technological change, climate challenges and geopolitical tensions.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/817219"
-    },
-    {
-      "id": "2026-09-08-f03c63",
-      "title": "Thailand Maps Plan to Source 89% of Power from Clean Energy",
-      "summary": "Thailand is considering generating 89% of its electricity from cleaner sources by 2050 as it formally puts a more ambitious long-term power plan to public consultation.",
-      "why_it_matters": "",
-      "score": 50,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "power",
-        "renewable energy",
-        "sustainability",
-        "regulation"
-      ],
-      "published_at": "2026-09-08T00:00:00Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/817214",
-          "type": "html-list"
-        }
-      ],
-      "content": "(Sept 8): Thailand is considering generating 89% of its electricity from cleaner sources by 2050 as it formally puts a more ambitious long-term power plan to public consultation.\n\nThe draft released Tuesday sets a minimum clean-power share of 65%, with several more aggressive options also under consideration. The most renewable-heavy scenario would lift that share to 89%, well above the target outlined by Energy Minister Akanat Promphan last month.\n\nThe plan comes as the country faces rising electricity demand from data centres and advanced manufacturing while trying to cut its reliance on imported natural gas, which still supplies most of its power. That dependence leaves Thailand exposed to swings in global fuel prices, a risk highlighted by the Middle East conflict and higher gas import costs.\n\n“Achieving net zero is a key challenge as global trade and investment increasingly focus on cutting greenhouse gas emissions,” Prasert Sinsukprasert, the Energy Ministry’s permanent secretary, said Tuesday. “Major global companies, particularly data centre operators, are choosing Thailand as an investment hub because they have confidence in the country’s power policies and its commitment to clean energy.”\n\n*Bloomberg News* first reported last month that the government was preparing to sharply increase its use of renewable energy and add nuclear power to the national plan. Renewables currently account for about 15% of the power mix.\n\nThe country has attracted billions of dollars of investment in data centres, cloud computing and advanced manufacturing, adding to pressure on the government to ensure there is enough electricity without pushing up household power bills.\n\nUnder the draft, about 51,000MW of new power capacity would be added through 2037, with most of it coming from solar, wind and battery storage, alongside new gas and nuclear power.\n\nThe most renewable-heavy option could require about 700 billion baht (RM85.99 billion) of investment through 2050 in power networks, batteries and other equipment needed to support a much larger share of renewable energy.\n\nThe plan also includes up to 9,000MW of nuclear capacity. The government is studying small modular reactors and micro modular reactors as options for future nuclear power plants.\n\nThailand last revised its 25-year power development plan in 2023, before the latest energy shock and the surge in electricity demand linked to artificial intelligence. The country still aims to reach net zero by 2050.\n\n*Uploaded by Arion Yeow*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/817214"
-    },
-    {
-      "id": "2026-09-08-959a04",
-      "title": "Selangor Closely Monitoring Water, Power Supply Amid Data Centre Expansion",
-      "summary": "Selangor's state government is closely tracking water and power supply capacity as data center development accelerates, Menteri Besar Amirudin Shari said. The monitoring effort reflects concerns that the state's infrastructure may struggle to keep pace with the concentration of new facilities.",
-      "why_it_matters": "Selangor hosts much of Malaysia's data center growth, and any utility constraints there directly affect project timelines for the industry's biggest operators. The state government's posture suggests future approvals may be conditioned on resource availability, pushing developers to secure dedicated power and water arrangements earlier in the planning cycle.",
-      "score": 82,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "power",
-        "water",
-        "regulation",
-        "capacity"
-      ],
-      "published_at": "2026-09-08T00:00:00Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/817204",
-          "type": "html-list"
-        }
-      ],
-      "content": "SEPANG (Sept 8): The Selangor government is closely monitoring water and power supply capacity amid the rapid expansion of data centres in the state, said Menteri Besar Datuk Seri Amirudin Shari.\n\nHe said the state would not approve data centre projects without ensuring adequate water and electricity supply, amid growing public concerns over the industry’s resource requirements.\n\n“We are very aware of the concerns of the public related to power and water supply, and we are monitoring closely.\n\n“Without enough water, definitely the data centre cannot be approved in Selangor,” he told reporters after witnessing the handover of vacant possession for NCT Smart Industrial Park (NSIP) Phase 1 here on Tuesday.\n\nAmirudin was commenting on NCT Alliance Bhd’s (KL:NCT) recent announcement that it had signed a term sheet for the proposed sale of a 100-acre land parcel within NSIP for a data centre development that could support up to 800 megawatts (MW) of capacity.\n\nAmirudin said every data centre application must obtain approval from the Federal Data Centre Task Force, with power supply requirements to be cleared by Tenaga Nasional Bhd (KL:TENAGA) and water supply by Pengurusan Air Selangor Sdn Bhd.\n\nHe said the state government is confident that its water supply capacity would be sufficient, particularly with the Rasau Water Supply Scheme expected to provide an additional 350 million litres per day (MLD), while the capacity could reach 700 MLD upon full completion of its first phase.\n\nHe also stressed that the state government is encouraging data centre operators to adopt water-recycling systems and technologies that could reduce water consumption for cooling purposes.\n\n“We are encouraging the recycling of water … so that the processed water is not discharged, but instead recycled within each data centre,” he said.\n\nAmirudin said the rapid expansion of data centres could also generate wider economic benefits by supporting the development of the electrical and electronics (E&E), chip and semiconductor sectors.\n\nHe added that Selangor had also introduced a 30% policy to ensure small and medium enterprises (SMEs) benefitted from data centre operations in the state.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/817204"
-    },
-    {
-      "id": "2026-09-08-d267d6",
-      "title": "Malaysia Expects Nine GW of Gas-Fired Power Capacity by 2032 to Meet Rising Demand",
-      "summary": "PETALING JAYA (Sept 8): Malaysia expects about nine gigawatts (GW) of gas-fired power capacity to be deployed by 2032 as the country manages growing electricity demand, while progressively phasing out coal-fired generation.",
-      "why_it_matters": "",
-      "score": 62,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "power",
-        "energy",
-        "malaysia",
-        "gas"
-      ],
-      "published_at": "2026-09-08T00:00:00Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/817202",
-          "type": "html-list"
-        }
-      ],
-      "content": "PETALING JAYA (Sept 8): Malaysia expects about nine gigawatts (GW) of gas-fired power capacity to be deployed by 2032 as the country manages growing electricity demand, while progressively phasing out coal-fired generation.\n\nMinister of Economy Akmal Nasrullah Mohd Nasir said the capacity would form part of the country’s efforts to manage electricity demand, with the last coal-fired power plant expected to be retired in 2044.\n\nAkmal Nasrullah said energy demand was showing an upward trend, driven by factors including population growth and higher consumption from energy-intensive sectors such as data centres.\n\n“In terms of the projection for energy demand, definitely we see a pattern of increase. One is population growth.\n\n“But number two, there is also an increase in energy consumption by high-usage sectors such as data centres,” he told reporters after the Energy Regulatory Insights 2026 here on Tuesday.\n\nHe said weather and climate conditions could also change energy demand patterns, particularly as hotter conditions increase the need for cooling systems and air conditioning.\n\nAgainst this backdrop, Akmal Nasrullah said managing energy demand would become as crucial as managing energy supply over the next five to 10 years.\n\n“I think for the next five to 10 years, Malaysia must really remain disciplined enough to ensure our system is continuously upgraded, not just in terms of the power produced, but also the grid and infrastructure, so that our system remains affordable, safe and sustainable,” he added.\n\nHe said energy planning should not only focus on the megawatts that need to be deployed in the system, but also on energy efficiency and conservation.\n\nAkmal Nasrullah said the planning would need to be managed by the Ministry of Energy Transition and Water Transformation and the Energy Commission to ensure the country could manage demand, while remaining committed to sustainability efforts and reducing the energy sector’s carbon footprint.\n\nEarlier in his keynote address, Akmal Nasrullah outlined three priorities for the next phase of energy reform, starting with the need for a competitive and progressive energy market with clear and predictable rules and transparent access arrangements.\n\nSecondly, he said expanding generation capacity must be supported by a modern grid that is intelligent, visible, secure and flexible, with grid modernisation under the 13th Malaysia Plan regarded as essential economic infrastructure to enable investments to connect faster, improve system efficiency and support reliable economic growth.\n\nThirdly, Akmal Nasrullah said energy efficiency must be treated as an energy resource in its own right, as it could reduce operating costs, ease pressure on the system and strengthen competitiveness.\n\nHe said the first National Energy Efficiency Action Plan (NEEAP) exceeded its original target, delivering cumulative electricity savings of 60,886 gigawatt-hours, equivalent to RM16.1 billion in savings, from 2016 to 2025.\n\nUnder NEEAP 2.0, Malaysia is targeting an 11.6% reduction in energy demand against the business-as-usual scenario by 2035, which is expected to help lower energy costs, ease pressure on the system and support more productive and competitive economic activity.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/817202"
-    },
-    {
-      "id": "2026-09-08-6b4a64",
-      "title": "The cooling loop can't keep up",
-      "summary": "Why thermal lag in CDU control systems is an unaccounted-for reliability risk",
+      "id": "2026-09-08-5bc6c1",
+      "title": "Corporate announcements recap: Zetrix AI, MN Holdings, NexG Bina, Gas Malaysia, CBH Engineering, Pekat",
+      "summary": "Here is a brief recap of some corporate announcements that made the news on Monday.",
       "why_it_matters": "",
       "score": 35,
       "heat": 1,
       "regions": [
-        "global"
+        "southeast-asia"
       ],
       "topics": [
-        "cooling",
-        "reliability"
+        "construction"
       ],
-      "published_at": "2026-09-07T15:41:16Z",
+      "published_at": "2026-09-07T12:00:00Z",
       "featured": false,
       "sources": [
         {
-          "name": "Data Center Dynamics",
-          "url": "https://www.datacenterdynamics.com/en/opinions/the-cooling-loop-cant-keep-up/",
-          "type": "rss"
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817146",
+          "type": "html-list"
         }
       ],
-      "content": "The engineering mismatch at the center of this article is deceptively simple to state: modern AI accelerators change their power draw in milliseconds, while the liquid cooling systems designed to serve them respond in minutes. Between those two timescales lies an interval — largely unmonitored in current deployments — during which thermal energy accumulates at the chip junction faster than the cooling circuit can remove it.\n\nFor traditional data center workloads, this gap was inconsequential. Server power levels changed gradually, and the thermal inertia of a well-designed liquid cooling loop was sufficient to absorb any transition without consequence. In AI training and inference environments, the gap is no longer inconsequential. It is a quantifiable reliability risk — and one that is almost entirely absent from current operational monitoring, reliability calculations, and facility risk frameworks.\n\n## AI accelerators and the power step problem\n\nThe thermal density of AI compute infrastructure has increased at a rate that few cooling engineers anticipated when contemporary CDU control architectures were standardized. The highest-performing liquid-cooled AI accelerators currently in volume production deployment dissipate 700 to 1,000W per device under sustained compute load. Rack-scale AI compute systems — where multiple accelerators are integrated with high-bandwidth interconnects in a purpose-built liquid-cooled chassis — sustain rack-level power draws in excess of 100kW. These figures represent a fundamental change in the thermal load that facility infrastructure must manage.\n\nMore significant than the peak power figure, however, is the rate at which that power changes. AI training workloads — particularly large language model training using data-parallel or tensor-parallel compute distribution — impose rapid power transitions at job boundaries. When a training job initializes, all accelerators in a compute cluster transition from low-power standby to full compute load within tens of milliseconds. Modern AI accelerator firmware is designed to execute this transition as rapidly as possible in order to minimize time-to-compute: power management modes that governed the ramp rate on earlier-generation hardware have been progressively eliminated in favor of near-instantaneous transitions.\n\nThe result is a step function in power demand, not a ramp. Inference workloads present a different but similarly demanding profile: query bursts produce stochastic power spikes reaching 60 to 80 percent of peak TDP within 30 to 50 milliseconds as the accelerator transitions between prefill and decode processing phases. Table 1 presents the key power transient parameters of current AI accelerator platform classes alongside CDU response characteristics.\n\n![Thermal_Lag_data centre dynamics_visuals.pptx](https://media.datacenterdynamics.com/media/images/Thermal_Lag_data_centre_dynamics_visuals.pptx.width-358.png) \n\n## Anatomy of a CDU control response\n\nA coolant distribution unit is a closed-loop feedback control system. It monitors a set of process variables — primarily supply coolant temperature, return coolant temperature, differential pressure, and volumetric flow rate — and adjusts pump speed and control valve position to maintain defined setpoints. In the large majority of deployed systems, this is implemented via proportional-integral-derivative (PID) control, with controller parameters tuned during commissioning to achieve stable operation under expected steady-state load conditions.\n\nThe physics of PID control in a hydronic thermal system introduces inherent response lag at every stage of the control chain. This is not a consequence of poor design; it is a property of the physical system the controller is acting upon. Figure 1 traces the full sequence of events from an initial GPU power surge to the point at which the CDU delivers corrected supply-temperature coolant to the cold plate.\n\nThe durations shown in Figure 1 are derived from first-principles engineering analysis. Propagation delay through the secondary loop (15 to 45 seconds) is calculated from loop geometry: with secondary loop volumes of 10 to 25 liters per rack row and design flow velocities of 0.2 to 0.5 meters per second, fluid transit time falls within this range. Sensor thermal response time (three to eight seconds) reflects published specification data for PT100 resistance thermometers in standard industrial pocket-mount configurations. Controller polling intervals (one to five seconds) represent the scan cycle range documented by industrial CDU controller manufacturers for PLC-based systems. Valve actuator response times (five to 30 seconds) are drawn from published electric ball valve actuator specifications for the pipe diameters used in CDU primary loop installations. Heat exchanger equilibration times (15 to 60 seconds) are derived from thermal mass calculations based on plate heat exchanger water content of 10 to 40 liters at representative operating flow rates.\n\n![Thermal_Lag_data centre dynamics_visuals.pptx (1)](https://media.datacenterdynamics.com/media/images/Thermal_Lag_data_centre_dynamics_visuals.pptx_.width-358.png) \n\n## Thermal debt window: Quantifying the risk\n\nThe thermal debt window — the interval between GPU power surge and CDU corrective response — is not merely an operational inconvenience. It carries reliability consequences that operate across two distinct timescales.\n\nIn the immediate term, junction temperatures on accelerators operating near their thermal design limit will exceed the steady-state baseline during the debt window. For a rack-scale AI compute system operating at 95 percent of peak TDP with a supply coolant temperature of 35°C, a CDU response lag of 60 seconds can permit the junction temperature to rise 10 to 20°C above its steady-state operating point — estimated from standard thermal resistance analysis using Rₜₕ,j₋c ≈ 0.015–0.025°C/W for direct-liquid-cooled accelerator packages (a range consistent with vendor-published chip thermal design specifications) combined with a coolant temperature excursion of five–12°C at the cold plate inlet during the lag window, applied via ΔTjunction = Rₜₕ,j₋c × Q + ΔTcoolant.\n\nFor accelerators tuned to operate near the firmware-level throttle threshold — a configuration common in deployments optimizing maximum utilization per watt of cooling energy — this exceedance triggers frequency capping and a measurable reduction in computing throughput. The throttling event is logged. It is rarely investigated. Operators observe a brief dip in compute utilization metrics and attribute it to job scheduler overhead or inter-node communication latency. The thermal root cause typically goes undiagnosed.\n\nIn the medium term, the cumulative effect of repeated thermal cycling across thousands of training job launches accelerates mechanical fatigue within the accelerator package. The temperature differential between chip substrate and cold plate surface during a transient event produces differential thermal expansion. Repeated cycling of this differential — even within published specification limits — progressively accumulates solder joint fatigue, underfill delamination at the package edge, and interposer stress in multi-die accelerator architectures. Failures are cumulative and non-obvious: a device that ceases to function after 18 months of operation in a liquid-cooled AI deployment may be exhibiting the accumulated mechanical damage of tens of thousands of thermal cycles, rather than a latent manufacturing defect.\n\n## The visibility gap in current operational practice\n\nCurrent operational monitoring platforms for liquid-cooled AI deployments are configured, almost universally, around steady-state thermal parameters. DCIM systems report supply and return coolant temperatures as rolling averages — typically over one-to-five-minute windows. Differential pressure and flow rates are monitored at similar cadences. These parameters serve their intended purpose well: they confirm that the cooling system is maintaining adequate performance under normal sustained operation.\n\nWhat they do not reveal is thermal behavior on the timescale of seconds to minutes. A DCIM platform reporting supply coolant temperature within ±0.5°C of setpoint is providing an accurate picture of steady-state performance — and no picture at all of what occurs during the first 90 seconds of a GPU cluster power transition.\n\nThe thermal signal exists in the data. Modern AI accelerators expose junction temperature telemetry through the baseboard management controller at sub-second polling intervals. An accelerator operating at 35°C in steady state and reaching 52°C during a 75-second transient will register that excursion in BMC logs — if that data is being collected and correlated against CDU response timestamps. In most deployed systems, that correlation is not being made. Accelerator-side telemetry and CDU-side control logs exist in separate systems, managed by separate operational teams, and are rarely examined together.\n\nThe result is a structural visibility gap: the precise interval during which thermal reliability risk is highest is the interval that current monitoring architectures are least equipped to observe. Table 3 maps this gap across the key monitoring dimensions relevant to transient thermal behavior.\n\n![Thermal_Lag_data centre dynamics_visuals.pptx (2)](https://media.datacenterdynamics.com/media/images/Thermal_Lag_data_centre_dynamics_visuals_U2yRIM4.pptx_.width-358.png) \n\n## Making thermal lag visible in operations\n\nClosing the visibility gap does not require new instrumentation. The data needed to identify and characterise thermal lag effects is already present in deployed AI liquid-cooled facilities; the gap lies in how it is integrated and what questions are being asked of it.\n\nSeveral operational signals already available in deployed systems offer a practical route to improved transient thermal visibility.\n\n### Rate-of-change of CDU return temperature\n\nThe derivative of return temperature with respect to time (dT/dt) provides a leading indicator of transient thermal loading that the temperature value alone does not. A return temperature rising at 0.5°C per second represents a qualitatively different thermal event from the same absolute temperature reached gradually over five minutes. CDU PLC controllers that log return temperature at their native polling rate already contain this information; extracting and visualising it as a rate-of-change signal requires software configuration, not hardware changes.\n\n### GPU junction temperature at sub-second resolution\n\nModern AI accelerator BMC interfaces support junction temperature polling at intervals of 500 milliseconds or less. Configuring operational monitoring platforms to ingest this data at native resolution — rather than as periodic health-check snapshots — provides direct visibility of transient temperature excursions at the device level. The associated data volume is manageable on current time-series monitoring platforms.\n\n### GPU power-to-junction temperature correlation\n\nIf GPU power draw and junction temperature are logged together with matched timestamps, the effective thermal response of the cooling circuit can be characterised for a given deployment. Divergence from the expected steady-state thermal resistance relationship — where junction temperature rises above what steady-state conditions would predict — identifies a transient lag condition in post-processing analysis, without requiring any new instrumentation.\n\n### Throttle event density relative to job launch timing\n\nFirmware-level frequency capping events that cluster in the first 60 to 90 seconds of training job launches are a circumstantial indicator of thermal lag. Analysing the temporal distribution of throttle events relative to job start timestamps provides a low-cost initial diagnostic screen for whether lag-driven thermal stress is occurring in a given deployment, using data that is already collected in standard compute monitoring pipelines.\n\n## Technical approaches to closing the loop\n\nThe thermal lag problem is addressable through a combination of control architecture improvements, operational discipline, and targeted testing. The following approaches are technically available today and represent practical paths to improved thermal reliability in AI liquid-cooled deployments.\n\n### Feedforward control augmentation\n\nRather than relying solely on measured return temperature to trigger corrective action, a feedforward-augmented CDU system ingests GPU power telemetry directly — via the baseboard management controller or the accelerator's power management interface — and pre-emptively adjusts pump speed and valve position before the thermal load arrives at the heat exchanger. End-to-end latency from GPU power sensor to CDU actuator can be reduced to under two seconds in a well-implemented feedforward architecture, collapsing the thermal debt window from 60 to 120 seconds to under 10 seconds. This capability is increasingly available as a software option in current-generation CDU control systems and is a feature worth specifying explicitly in procurement documentation for AI deployments.\n\n### Thermal headroom buffering\n\nTargeting supply coolant temperatures 5 to 8°C below the maximum allowable setpoint creates a thermal buffer that absorbs the first 30 to 60 seconds of a transient event without allowing junction temperatures to approach the throttle threshold. The primary cooling energy penalty of maintaining this buffer is typically three to eight percent of chiller plant energy — a figure grounded in the thermodynamic relationship between supply temperature setpoint and vapour-compression cycle coefficient of performance (COP) — while the reliability benefit, measured as a reduction in thermal cycling events across tens of thousands of GPU operating hours, is disproportionately larger. At the rack power densities of current-generation AI deployments, this is a favourable exchange.\n\n### Step-load transient testing at commissioning\n\nA step-load thermal transient test — in which an IT load bank or GPU cluster transitions from a low-power state to near-peak TDP in under 500 milliseconds — directly characterises CDU transient response in a way that steady-state acceptance tests cannot. Operators incorporating such a test into their commissioning programme obtain a measured characterisation of how the CDU responds to the kind of power step that AI training job launches produce in normal operation. The test records CDU actuator response timing, supply coolant temperature trajectory, and GPU junction temperature simultaneously at sub-second resolution. The resulting data provides a baseline against which future performance can be compared and an objective measure of whether any subsequent changes to CDU firmware, control tuning, or secondary loop configuration have altered transient response behaviour.\n\n### Sub-second telemetry integration\n\nIdentifying transient thermal events requires GPU junction temperature data to be collected at the resolution at which those events occur — sub-second, not sub-minute. Enabling sub-second BMC polling on deployed accelerators and routing that data into the facility-side monitoring environment creates the visibility needed to detect, log, and correlate thermal transient events against CDU response timing in near real time.\n\n## Looking ahead\n\nAI liquid cooling is, broadly speaking, a technology success. The cooling infrastructure industry has demonstrated substantial engineering capability in scaling liquid cooling to power densities that would have been impractical with air cooling, and the deployment rate continues to accelerate.\n\nWhat is less settled is the reliability and monitoring discipline surrounding those systems. CDU control architectures designed for the gradual, predictable thermal profiles of HPC and traditional enterprise compute are being operated against AI workloads that produce power transitions orders of magnitude faster than the control loop can follow. The thermal debt that accumulates in the gap between those timescales is real and measurable — and currently absent from the monitoring frameworks of most deployed AI facilities.\n\nThe data to address this gap already exists within the infrastructure. The engineering interventions that would close it are available from current-generation CDU vendors and monitoring platforms. What remains is the operational recognition that CDU thermal response — and its relationship to AI workload power dynamics — is a system-level reliability variable that deserves the same rigorous attention already given to power quality, cooling capacity, and network redundancy in the design and operation of AI data centre infrastructure.",
-      "content_url": "https://www.datacenterdynamics.com/en/opinions/the-cooling-loop-cant-keep-up/"
+      "companies": [
+        "CBH Engineering"
+      ],
+      "content": "KUALA LUMPUR (Sept 7): Here is a brief recap of some corporate announcements that made the news on Monday.\n\nZetrix AI Bhd (KL:ZETRIX) is reviving its plan to acquire a 50% stake in Philippines-based information technology services provider MYEG Ventures Inc for RM130 million, after scrapping the deal last week. Under the revised arrangement, the stake will be acquired from IPVG Employees Inc instead of Next Lion Ltd. IPVG will first acquire a 40.6% stake in MYEG Ventures from its other shareholders before selling its entire 50% stake to Zetrix AI. About 78% of the acquisition cost will be funded through the issuance of new Zetrix AI shares, with the remaining RM29 million funded through internal cash. — *Zetrix AI’s Philippine acquisition is back on*\n\nMeanwhile, forced selling of shares held by Wong Thean Soon, co-founder and single-largest shareholder of Zetrix AI, continued, with Wong offloading more than 12% of his stake in the digital services company in just over a week. Wong and his vehicle Asia Internet Holdings Sdn Bhd  disposed of a net 960.7 million shares, equivalent to a 12.193% stake, for a combined RM227.99 million. The sell-down reduced Wong’s total stake in Zetrix AI to 17.129%, comprising an 8.402% direct stake and an 8.896% indirect stake, from 29.49%, comprising 15.19% direct and 14.30% indirect. — *TS Wong cuts Zetrix AI stake by over 12% amid forced selling*\n\nMN Holdings Bhd(KL:MNHLDG) said its wholly owned subsidiary MN Utilities Engineering Sdn Bhd and Pembinaan Tajri Sdn Bhd have jointly secured a RM67.32 million contract from Tenaga Nasional Bhd (KL:TENAGA) to install a 275kV underground cable for bulk power supply to Intel Penang. The works, undertaken through an 80:20 joint venture, cover the engineering, design, supply and erection of the cable, as well as associated civil works, and are expected to be completed within 540 days. — *MN Holdings JV bags RM67 mil TNB contract for cable works in Penang*\n\nNexG Bina Bhd (KL:NEXGBINA) has mutually terminated a heads of agreement to sell a 49% stake in its wholly owned lingerie units Classita (M) Sdn Bhd and Marywah Industries Sdn Bhd to their director Choo Peng Hung, citing a lack of material progress since the deal was signed in September last year. The then-proposed RM34.1 million sale was intended to help fund NexG Bina’s property projects. — *NexG Bina aborts talks to offload part of lingerie business*\n\nGas Malaysia Bhd (KL:GASMSIA) is working with PETRONAS Gas Bhd (KL:PETGAS) on a feasibility study for a pipeline connecting the proposed Yan LNG regasification terminal to the Peninsular Gas Utilisation (PGU) system. The study will assess the proposed interconnection’s technical, operational and commercial viability, with its findings to support Gas Malaysia’s progress on the Yan project and submission to the Energy Commission. — *Gas Malaysia, PETRONAS Gas study pipeline link for proposed Yan LNG terminal*\n\nCengild Medical Bhd (KL:CENGILD) plans to place up to 16.66 million new shares, or 2% of its issued share capital, to contractual specialist medical practitioners to attract and retain experienced doctors who are not eligible for its existing share option scheme. At an illustrative issue price of 17.2 sen per share, the placement is expected to raise about RM2.87 million. — *Cengild plans placement of up to 2% of shares to medical consultants*\n\nIndependent advisers have given contrasting recommendations on Batu Kawan Bhd’s (KL:BKAWAN) takeover offers for MKH Bhd (KL:MKH) and MKH Oil Palm Bhd (KL:MKHOP). MKH shareholders were advised to accept the RM2 offer, despite Kenanga Investment Bank saying it undervalues MKH at RM4.31 per share, as the offer is reasonable given the stock’s illiquidity and lack of alternatives. Meanwhile, MKHOP shareholders were advised to reject Batu Kawan’s 66.26 sen offer, which MainStreet Advisers deemed “not fair and not reasonable” as it is 47% below the plantation arm’s net realisable asset value of RM1.26 per share.  — *Shareholders advised to accept Batu Kawan's takeover offer for MKH, but reject bid for plantation unit*\n\nCBH Engineering Holding Bhd (KL:CBHB) has secured its second data centre-related contract in a fortnight, an RM88.05 million job to design and build a 275kV consumer landing station for a data centre in Selangor, with the project due for completion by May 2027. The latest job brings the group’s data centre-related contract wins over the past two weeks to RM147.66 million, including a RM59.61 million electrical infrastructure work order in Johor secured on Aug 26. — *CBH Engineering lands RM88m Selangor job, second data centre-linked job in under two weeks*\n\nHengyuan Refining Company Bhd (KL:HENGYUAN) has agreed on key terms to renew its product supply agreement with Shell Malaysia for up to 10 years from 2027 to 2036. The initial term will run for five years from 2027 to 2031, with an option to extend for another five years subject to mutual agreement. Hengyuan said the binding term sheet sets out the commercial framework for a definitive agreement to be negotiated and executed. — *Hengyuan, Shell Malaysia agree key terms for 10-year offtake deal renewal*\n\nConstruction outfit Vestland Bhd (KL:VLB) has secured a RM263.73 million flood mitigation contract in Kelantan, bringing its contract wins for the year to RM1.1 billion. The latest contract, its sixth win this year, involves construction of a dual-function sheet pile wall and bridge works along Sungai Golok, with completion scheduled for April 2028. Its outstanding order book now stands at RM1.5 billion. — *Vestland's 2026 contract wins top RM1 bil with RM263.7m Sungai Golok flood mitigation works*\n\nPekat Group Bhd (KL:PEKAT) has secured three subcontracts worth RM57.18 million for earthing and lightning protection works for a project in Johor Bahru. The contracts, awarded to its subsidiary Pekat E & LP Sdn Bhd, cover the design, supply, installation, testing and commissioning of the systems, including civil works and substation applications. — *Pekat bags three subcontracts worth RM57 mil for earthing and lightning protection systems*\n\nEdited BySyed Azahedi\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817146",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-09-08-66c128",
+      "title": "ByteDance founder joins AI elite in race to perfect world models",
+      "summary": "ByteDance Ltd is readying an artificial intelligence (AI) model geared for real-time spatial video generation, taking on Meta Platforms Inc and Alphabet Inc in an arena with applications in robotics and autonomous systems.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "ai"
+      ],
+      "published_at": "2026-09-07T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817141",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "ByteDance",
+        "Meta",
+        "Alphabet"
+      ],
+      "content": "(Sept 7): ByteDance Ltd is readying an artificial intelligence (AI) model geared for real-time spatial video generation, taking on Meta Platforms Inc and Alphabet Inc in an arena with applications in robotics and autonomous systems.\n\nFounder Zhang Yiming is personally overseeing the development of a new model slated for launch as soon as next month, according to people familiar with the matter. The billionaire has been coordinating the efforts of business units across the company and throwing AI resources and computing capacity behind the effort, the people said, asking not to be identified discussing private information. The timing of the launch is not certain and plans may change, one of the people said.\n\nBuilt on Seedance — ByteDance’s existing AI model for generating cinematic videos — the model would allow users to create interactive virtual worlds for live streams, short-form dramas and games, the people said. A spokesperson for ByteDance didn’t respond to a request for comments.\n\nZhang hopes his latest AI model will launch the TikTok creator into the burgeoning arena of world models, armed with top-tier expertise in video. He would be joining the likes of Fei-Fei Li and Yann LeCun in exploring a visual approach to AI that’s considered crucial for robotics, games and self-driving cars.\n\nThe move is part of an ongoing strategic shift within ByteDance, as the Beijing-based company redirects much of its business-to-business operations towards video production and generation. Zhang sees the spatial-video model — which would place the user in a three-dimensional world much like Google’s Genie — as a flywheel, linking ByteDance’s AI models and cloud-computing resources with its content platforms and extended reality arm Pico’s hardware, the people said.\n\nBoth ByteDance and Google’s systems are part of a video-centric push to build models that can simulate physical environments for AI agents. Genie was launched earlier this year to let users interact with a real-time rendered world.\n\nIf successful, the new model may open a new front in ByteDance’s rivalry with Meta and Apple Inc, which have invested heavily in virtual- and mixed-reality devices. Meta has sought to build a mass-market ecosystem around its Quest headsets, while Apple has positioned Vision Pro as a premium spatial-computing platform. Both have struggled to go mainstream.\n\nByteDance’s latest model aims to generate virtual worlds that respond to Pico headset users’ voices or movements. The model can offer on-demand videos with a latency of about 0.05 second at 20 frames per second and serve spatial-computing environments and interfaces, one of the people said.\n\nThe Chinese model seeks to lower the upfront cost of VR adoption by moving the computationally intensive process of generating spatial content to the cloud. That would reduce processing power required in headsets and open a path for cheaper and less sophisticated hardware. Swift content generation might also help shift the battleground for users away from hardware specs to AI models, computing infrastructure and content-distribution platforms.\n\nSeedance has emerged as ByteDance’s signature AI success, even as the company lags rivals in a domestic field crowded with the likes of Alibaba Group Holding Ltd, DeepSeek and Moonshot AI. It underpins a slew of ByteDance products, including CapCut and Doubao, China’s most popular AI chatbot. The video tool has also become the go-to choice for independent film studios, creators and emerging AI start-ups.\n\nByteDance, which Zhang founded alongside Liang Rubo in 2012, has secured a US$30 billion (RM121 billion) loan as it rushes to expand its AI capabilities and amass data centres and other hardware, *Bloomberg* reported last week.\n\n*Uploaded by Tham Yek Lee*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817141",
+      "published_precision": "day"
     },
     {
       "id": "2026-09-08-f8ef66",
@@ -802,98 +852,8 @@
       "companies": [
         "Infleqtion"
       ],
-      "content": "Infleqtion, a global provider of neutral-atom solutions for quantum computing, networking, sensing, and security, has launched Japan’s first operational neutral-atom full-stack quantum computer. The system, referred to as “Shunkai”, is initially expected to operate with approximately 50 qubits, with plans to scale to around 500 qubits as development progresses.\n\nThe project supports a research team led by Professor Kenji Ohmori at the Institute for Molecular Science (IMS), part of the National Institutes of Natural Sciences. Infleqtion was selected by the Japan Science and Technology Agency (JST) for its Quantum Moonshot program that aims to enable the transition from research and development to an operational full-stack quantum computing platform.\n\n![](https://w.media/wp-content/uploads/2026/06/Japan-CDC-2026-Banner.jpg)\n\n“This milestone marks a pivotal moment for Japan’s quantum ambitions as well as Infleqtion’s role in advancing production-ready quantum platforms at scale,” said Pranav Gokhale, Chief Technology Officer at Infleqtion. “Bringing a full-stack quantum system into production operation is a meaningful step toward fault-tolerant quantum computing that also serves as strong validation of neutral-atom architecture. Our quantum processing unit delivers the programmability, scalability and fidelity control that next-generation systems demand.”\n\nAs part of the next phase of the Ohmori Moonshot project that began in April 2026, the IMS team will focus on improving system integration, stability, and scalability, with the goal of realizing a high-performance neutral-atom fault-tolerant quantum computer with up to 10,000 physical qubits and quantum error detection and correction capabilities.The system is also expected to be made available to external users to support the development of applications and advance quantum error correction research across academia and industry.\n\n![](https://w.media/wp-content/uploads/2026/07/Issue-13-Banner-1.jpg)\n\nResearch And Markets expects the global quantum computing market to reach an estimated US$ 7.7 billion by 2031, at a Compounded Average Growth Rate (CAGR) of 36.8 percent from 2025 to 2031. “The quantum computing market in Japan is also forecasted to witness strong growth over the forecast period. The major drivers for this market are the growing need for high-performance computing and the rising demand for quantum computing solutions from various industries,” it says. Meanwhile, according to Grand View Horizon, Japan’s quantum computing market generated a revenue of US$ 84.7 million in 2025, and is expected to reach US$ 555.5 million by 2033. It further expects the market to grow at a CAGR of 27 percent from 2026 to 2033.",
+      "content": "Infleqtion, a global provider of neutral-atom solutions for quantum computing, networking, sensing, and security, has launched Japan’s first operational neutral-atom full-stack quantum computer. The system, referred to as “Shunkai”, is initially expected to operate with approximately 50 qubits, with plans to scale to around 500 qubits as development progresses.\n\nThe project supports a research team led by Professor Kenji Ohmori at the Institute for Molecular Science (IMS), part of the National Institutes of Natural Sciences. Infleqtion was selected by the Japan Science and Technology Agency (JST) for its Quantum Moonshot program that aims to enable the transition from research and development to an operational full-stack quantum computing platform.\n\n“This milestone marks a pivotal moment for Japan’s quantum ambitions as well as Infleqtion’s role in advancing production-ready quantum platforms at scale,” said Pranav Gokhale, Chief Technology Officer at Infleqtion. “Bringing a full-stack quantum system into production operation is a meaningful step toward fault-tolerant quantum computing that also serves as strong validation of neutral-atom architecture. Our quantum processing unit delivers the programmability, scalability and fidelity control that next-generation systems demand.”\n\nAs part of the next phase of the Ohmori Moonshot project that began in April 2026, the IMS team will focus on improving system integration, stability, and scalability, with the goal of realizing a high-performance neutral-atom fault-tolerant quantum computer with up to 10,000 physical qubits and quantum error detection and correction capabilities.The system is also expected to be made available to external users to support the development of applications and advance quantum error correction research across academia and industry.\n\nResearch And Markets expects the global quantum computing market to reach an estimated US$ 7.7 billion by 2031, at a Compounded Average Growth Rate (CAGR) of 36.8 percent from 2025 to 2031. “The quantum computing market in Japan is also forecasted to witness strong growth over the forecast period. The major drivers for this market are the growing need for high-performance computing and the rising demand for quantum computing solutions from various industries,” it says. Meanwhile, according to Grand View Horizon, Japan’s quantum computing market generated a revenue of US$ 84.7 million in 2025, and is expected to reach US$ 555.5 million by 2033. It further expects the market to grow at a CAGR of 27 percent from 2026 to 2033.",
       "content_url": "https://w.media/infleqtions-shunkai-neutral-atom-quantum-computer-now-operational/"
-    },
-    {
-      "id": "2026-09-08-ba3e11",
-      "title": "CBH Engineering shares hit fresh high after data centre-linked job wins",
-      "summary": "CBH Engineering Holding Bhd shares reached a fresh high after the company won an RM88.05 million contract to design and build a 275kV consumer landing station serving a data centre in Selangor, Malaysia. The award adds to a string of data centre-related job wins for the engineering firm.",
-      "why_it_matters": "The contract shows how Malaysia's data centre boom is cascading into the local engineering and power infrastructure supply chain, boosting order books for listed contractors. It also underscores the scale of high-voltage grid connections being built in Selangor to support new capacity.",
-      "score": 78,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "construction",
-        "investment",
-        "capacity",
-        "power"
-      ],
-      "published_at": "2026-09-07T00:00:00Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/817169",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "CBH Engineering"
-      ],
-      "content": "KUALA LUMPUR (Sept 8): Shares of CBH Engineering Holding Bhd (KL:CBHB) rose to a fresh high since its listing in January last year after the group secured RM147.66 million worth of data centre-linked jobs in Johor and Selangor in less than two weeks.\n\nThe counter rose as high as 5.26% to hit the RM1 mark in morning trade on Tuesday. At the time of writing, it was up 3.5 sen, or 3.68%, at 98.5 sen, with 12.86 million shares changing hands, valuing the group at RM1.85 billion.\n\nOn Monday, CBHB via wholly owned subsidiary CBH Engineering Sdn Bhd had secured a RM88.05 million contract to design and build a 275kV consumer landing station serving a data centre in Selangor.\n\nTen days before that, CBH Engineering was awarded a RM59.61 million work order for electrical infrastructure works at a data centre in Johor.\n\nThe wins lifted its outstanding order book to RM1.16 billion from six contracts secured in FY2026, bringing its total year-to-date order wins to RM477.2 million.\n\nResearch houses are bullish on CBHB's prospects due to its run of contract wins.\n\nApex Securities, in a note to clients, estimated that the Selangor contract could generate about RM20.7 million in gross profit over its nine-month duration, based on an assumed gross profit margin of 23.5%. Of this, RM10.7 million is expected to be recognised in FY2026 and RM10 million in FY2027.\n\nThe research house expects data centre-related job momentum to remain strong, backed by continued investment from hyperscalers in data centre and artificial intelligence (AI) infrastructure.\n\nCBHB currently has about RM1 billion worth of substation projects in its FY2026 tender book. Assuming a 60% win rate, Apex Securities expects this to translate into about RM600 million in new orders.\n\n“Given year-to-date order wins have reached 80% of our assumption, and with four months left in the year, should the contracts continue at its current pace, we see scope for an upward revision to our FY2026 and FY2027 replenishment assumptions and earnings forecasts,” it added.\n\nMeanwhile, Philip Capital said CBHB could secure additional packages as subsequent phases of the Selangor project are rolled out.\n\nIt also highlighted the group’s track record in executing hyperscaler projects and its above-industry margin profile.\n\nKey downside risks include slower-than-expected contract awards, project execution risks and rising project costs.\n\nApex Securities and Philip Capital maintain their \"buy\" call on the stock, increasing their target prices to RM1.05 and RM1.11, respectively, from the last closing price of 95 sen.\n\nCBHB shares have been on a steady uptrend since its listing in January last year. The stock has more than doubled since the start of 2026 and is now more than three times its IPO price of 28 sen.\n\nEdited BySyed Azahedi\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/817169"
-    },
-    {
-      "id": "2026-09-08-5bc6c1",
-      "title": "Corporate announcements recap: Zetrix AI, MN Holdings, NexG Bina, Gas Malaysia, CBH Engineering, Pekat",
-      "summary": "Here is a brief recap of some corporate announcements that made the news on Monday.",
-      "why_it_matters": "",
-      "score": 35,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "construction"
-      ],
-      "published_at": "2026-09-07T00:00:00Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/817146",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "CBH Engineering"
-      ],
-      "content": "KUALA LUMPUR (Sept 7): Here is a brief recap of some corporate announcements that made the news on Monday.\n\nZetrix AI Bhd (KL:ZETRIX) is reviving its plan to acquire a 50% stake in Philippines-based information technology services provider MYEG Ventures Inc for RM130 million, after scrapping the deal last week. Under the revised arrangement, the stake will be acquired from IPVG Employees Inc instead of Next Lion Ltd. IPVG will first acquire a 40.6% stake in MYEG Ventures from its other shareholders before selling its entire 50% stake to Zetrix AI. About 78% of the acquisition cost will be funded through the issuance of new Zetrix AI shares, with the remaining RM29 million funded through internal cash. — *Zetrix AI’s Philippine acquisition is back on*\n\nMeanwhile, forced selling of shares held by Wong Thean Soon, co-founder and single-largest shareholder of Zetrix AI, continued, with Wong offloading more than 12% of his stake in the digital services company in just over a week. Wong and his vehicle Asia Internet Holdings Sdn Bhd  disposed of a net 960.7 million shares, equivalent to a 12.193% stake, for a combined RM227.99 million. The sell-down reduced Wong’s total stake in Zetrix AI to 17.129%, comprising an 8.402% direct stake and an 8.896% indirect stake, from 29.49%, comprising 15.19% direct and 14.30% indirect. — *TS Wong cuts Zetrix AI stake by over 12% amid forced selling*\n\nMN Holdings Bhd(KL:MNHLDG) said its wholly owned subsidiary MN Utilities Engineering Sdn Bhd and Pembinaan Tajri Sdn Bhd have jointly secured a RM67.32 million contract from Tenaga Nasional Bhd (KL:TENAGA) to install a 275kV underground cable for bulk power supply to Intel Penang. The works, undertaken through an 80:20 joint venture, cover the engineering, design, supply and erection of the cable, as well as associated civil works, and are expected to be completed within 540 days. — *MN Holdings JV bags RM67 mil TNB contract for cable works in Penang*\n\nNexG Bina Bhd (KL:NEXGBINA) has mutually terminated a heads of agreement to sell a 49% stake in its wholly owned lingerie units Classita (M) Sdn Bhd and Marywah Industries Sdn Bhd to their director Choo Peng Hung, citing a lack of material progress since the deal was signed in September last year. The then-proposed RM34.1 million sale was intended to help fund NexG Bina’s property projects. — *NexG Bina aborts talks to offload part of lingerie business*\n\nGas Malaysia Bhd (KL:GASMSIA) is working with PETRONAS Gas Bhd (KL:PETGAS) on a feasibility study for a pipeline connecting the proposed Yan LNG regasification terminal to the Peninsular Gas Utilisation (PGU) system. The study will assess the proposed interconnection’s technical, operational and commercial viability, with its findings to support Gas Malaysia’s progress on the Yan project and submission to the Energy Commission. — *Gas Malaysia, PETRONAS Gas study pipeline link for proposed Yan LNG terminal*\n\nCengild Medical Bhd (KL:CENGILD) plans to place up to 16.66 million new shares, or 2% of its issued share capital, to contractual specialist medical practitioners to attract and retain experienced doctors who are not eligible for its existing share option scheme. At an illustrative issue price of 17.2 sen per share, the placement is expected to raise about RM2.87 million. — *Cengild plans placement of up to 2% of shares to medical consultants*\n\nIndependent advisers have given contrasting recommendations on Batu Kawan Bhd’s (KL:BKAWAN) takeover offers for MKH Bhd (KL:MKH) and MKH Oil Palm Bhd (KL:MKHOP). MKH shareholders were advised to accept the RM2 offer, despite Kenanga Investment Bank saying it undervalues MKH at RM4.31 per share, as the offer is reasonable given the stock’s illiquidity and lack of alternatives. Meanwhile, MKHOP shareholders were advised to reject Batu Kawan’s 66.26 sen offer, which MainStreet Advisers deemed “not fair and not reasonable” as it is 47% below the plantation arm’s net realisable asset value of RM1.26 per share.  — *Shareholders advised to accept Batu Kawan's takeover offer for MKH, but reject bid for plantation unit*\n\nCBH Engineering Holding Bhd (KL:CBHB) has secured its second data centre-related contract in a fortnight, an RM88.05 million job to design and build a 275kV consumer landing station for a data centre in Selangor, with the project due for completion by May 2027. The latest job brings the group’s data centre-related contract wins over the past two weeks to RM147.66 million, including a RM59.61 million electrical infrastructure work order in Johor secured on Aug 26. — *CBH Engineering lands RM88m Selangor job, second data centre-linked job in under two weeks*\n\nHengyuan Refining Company Bhd (KL:HENGYUAN) has agreed on key terms to renew its product supply agreement with Shell Malaysia for up to 10 years from 2027 to 2036. The initial term will run for five years from 2027 to 2031, with an option to extend for another five years subject to mutual agreement. Hengyuan said the binding term sheet sets out the commercial framework for a definitive agreement to be negotiated and executed. — *Hengyuan, Shell Malaysia agree key terms for 10-year offtake deal renewal*\n\nConstruction outfit Vestland Bhd (KL:VLB) has secured a RM263.73 million flood mitigation contract in Kelantan, bringing its contract wins for the year to RM1.1 billion. The latest contract, its sixth win this year, involves construction of a dual-function sheet pile wall and bridge works along Sungai Golok, with completion scheduled for April 2028. Its outstanding order book now stands at RM1.5 billion. — *Vestland's 2026 contract wins top RM1 bil with RM263.7m Sungai Golok flood mitigation works*\n\nPekat Group Bhd (KL:PEKAT) has secured three subcontracts worth RM57.18 million for earthing and lightning protection works for a project in Johor Bahru. The contracts, awarded to its subsidiary Pekat E & LP Sdn Bhd, cover the design, supply, installation, testing and commissioning of the systems, including civil works and substation applications. — *Pekat bags three subcontracts worth RM57 mil for earthing and lightning protection systems*\n\nEdited BySyed Azahedi\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/817146"
-    },
-    {
-      "id": "2026-09-08-66c128",
-      "title": "ByteDance founder joins AI elite in race to perfect world models",
-      "summary": "ByteDance Ltd is readying an artificial intelligence (AI) model geared for real-time spatial video generation, taking on Meta Platforms Inc and Alphabet Inc in an arena with applications in robotics and autonomous systems.",
-      "why_it_matters": "",
-      "score": 55,
-      "heat": 1,
-      "regions": [
-        "china",
-        "global"
-      ],
-      "topics": [
-        "ai"
-      ],
-      "published_at": "2026-09-07T00:00:00Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/817141",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "ByteDance",
-        "Meta",
-        "Alphabet"
-      ],
-      "content": "(Sept 7): ByteDance Ltd is readying an artificial intelligence (AI) model geared for real-time spatial video generation, taking on Meta Platforms Inc and Alphabet Inc in an arena with applications in robotics and autonomous systems.\n\nFounder Zhang Yiming is personally overseeing the development of a new model slated for launch as soon as next month, according to people familiar with the matter. The billionaire has been coordinating the efforts of business units across the company and throwing AI resources and computing capacity behind the effort, the people said, asking not to be identified discussing private information. The timing of the launch is not certain and plans may change, one of the people said.\n\nBuilt on Seedance — ByteDance’s existing AI model for generating cinematic videos — the model would allow users to create interactive virtual worlds for live streams, short-form dramas and games, the people said. A spokesperson for ByteDance didn’t respond to a request for comments.\n\nZhang hopes his latest AI model will launch the TikTok creator into the burgeoning arena of world models, armed with top-tier expertise in video. He would be joining the likes of Fei-Fei Li and Yann LeCun in exploring a visual approach to AI that’s considered crucial for robotics, games and self-driving cars.\n\nThe move is part of an ongoing strategic shift within ByteDance, as the Beijing-based company redirects much of its business-to-business operations towards video production and generation. Zhang sees the spatial-video model — which would place the user in a three-dimensional world much like Google’s Genie — as a flywheel, linking ByteDance’s AI models and cloud-computing resources with its content platforms and extended reality arm Pico’s hardware, the people said.\n\nBoth ByteDance and Google’s systems are part of a video-centric push to build models that can simulate physical environments for AI agents. Genie was launched earlier this year to let users interact with a real-time rendered world.\n\nIf successful, the new model may open a new front in ByteDance’s rivalry with Meta and Apple Inc, which have invested heavily in virtual- and mixed-reality devices. Meta has sought to build a mass-market ecosystem around its Quest headsets, while Apple has positioned Vision Pro as a premium spatial-computing platform. Both have struggled to go mainstream.\n\nByteDance’s latest model aims to generate virtual worlds that respond to Pico headset users’ voices or movements. The model can offer on-demand videos with a latency of about 0.05 second at 20 frames per second and serve spatial-computing environments and interfaces, one of the people said.\n\nThe Chinese model seeks to lower the upfront cost of VR adoption by moving the computationally intensive process of generating spatial content to the cloud. That would reduce processing power required in headsets and open a path for cheaper and less sophisticated hardware. Swift content generation might also help shift the battleground for users away from hardware specs to AI models, computing infrastructure and content-distribution platforms.\n\nSeedance has emerged as ByteDance’s signature AI success, even as the company lags rivals in a domestic field crowded with the likes of Alibaba Group Holding Ltd, DeepSeek and Moonshot AI. It underpins a slew of ByteDance products, including CapCut and Doubao, China’s most popular AI chatbot. The video tool has also become the go-to choice for independent film studios, creators and emerging AI start-ups.\n\nByteDance, which Zhang founded alongside Liang Rubo in 2012, has secured a US$30 billion (RM121 billion) loan as it rushes to expand its AI capabilities and amass data centres and other hardware, *Bloomberg* reported last week.\n\n*Uploaded by Tham Yek Lee*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/817141"
     }
   ]
 }

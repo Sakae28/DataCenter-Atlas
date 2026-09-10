@@ -19,22 +19,24 @@ import Base from '../layouts/Base.astro';
 
     <h2>Latest — the daily digest</h2>
     <p>
-      An automated pipeline polls industry publications, Google News queries and company
-      newsrooms every day. An AI pass clusters duplicate coverage of the same story,
+      An automated pipeline polls industry publications and company newsrooms every day.
+      An AI pass clusters duplicate coverage of the same story (follow-up reports are
+      merged into the first story's source list rather than repeated on the timeline),
       scores each story for relevance and importance (0–100), and writes the summaries
-      and "why it matters" notes. Full article text is extracted where the publisher
-      allows it, so you can read without leaving the site; every story still credits and
-      links the original reporting. The "sources" count on trending stories is the number
-      of distinct publications covering the same story.
+      and "why it matters" notes. Article text is mirrored for reading convenience —
+      collapsed by default, images stripped, always credited and linked to the original.
+      If a publisher asks us not to mirror their text, we don't: their stories show the
+      AI summary and link out. The "sources" count on trending stories is the number of
+      distinct publications covering the same story.
     </p>
-    <p>Coverage is organized into five APAC regions, plus a Global bucket:</p>
+    <p>Coverage is organized into five APAC regions, plus a Global bucket. India is out of scope.</p>
     <ul>
       <li><strong>China</strong> (including Hong Kong)</li>
       <li><strong>Japan</strong></li>
       <li><strong>Korea</strong></li>
       <li><strong>Australia</strong></li>
       <li><strong>Southeast Asia</strong> — Singapore, Malaysia, Indonesia, Thailand, Vietnam, the Philippines, and neighbors</li>
-      <li><strong>Global</strong> — stories outside the region that materially affect APAC, such as GPU supply or global cloud capex</li>
+      <li><strong>Global</strong> — stories outside the region that materially affect APAC, such as GPU supply or global cloud capex; low-signal global items are filtered out</li>
     </ul>
 
     <h2>Pipeline — the project database</h2>
@@ -64,8 +66,8 @@ import Base from '../layouts/Base.astro';
 
     <h2>Saved — your bookmarks</h2>
     <p>
-      The bookmark icon on any story or project saves it for later; the Saved toggle on
-      the Latest and Pipeline pages filters to your bookmarks. Bookmarks live in your
+      The bookmark icon on any story or project saves it for later; the Saved-only toggle
+      on the Latest and Pipeline pages filters to your bookmarks. Bookmarks live in your
       browser's local storage — no account, no tracking, and they don't leave your
       device.
     </p>

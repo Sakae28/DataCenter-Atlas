@@ -1,0 +1,50 @@
+---
+/**
+ * Per-day digest archive: /day/2026-08-26/. Older days are not embedded in
+ * the homepage (it ships only the latest week) — each gets this static page.
+ */
+import Base from '../../layouts/Base.astro';
+import Icon from '../../components/Icon.astro';
+import StoryCard from '../../components/StoryCard.astro';
+import { loadNewsDays, formatDate, weekdayOf } from '../../lib/news';
+import { loadProjects, buildStoryProjectIndex } from '../../lib/projects';
+import { companySlugMap } from '../../lib/companies';
+
+export function getStaticPaths() {
+  const { days } = loadNewsDays();
+  return days
+    .filter((d) => d.stories.length > 0)
+    .map((day) => ({ params: { date: day.date }, props: { day } }));
+}
+
+const { day } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const projectByStory = buildStoryProjectIndex(loadProjects().projects);
+const companySlugByName = companySlugMap();
+---
+
+<Base title={`Digest ${day.date}`} description={`APAC data center news digest for ${formatDate(day.date)}`} active="latest">
+  <header class="page-head">
+    <div>
+      <h1 class="page-title">{formatDate(day.date)}</h1>
+      <p class="page-sub">
+        {weekdayOf(day.date)} · {day.stories.length} {day.stories.length === 1 ? 'story' : 'stories'} · archived digest
+      </p>
+      <p class="tz-note">Times shown in your local timezone</p>
+    </div>
+    <a class="article-bar-back" href={base}><Icon name="arrow-left" size={14} />Latest</a>
+  </header>
+
+  <section class="timeline">
+    <div class="story-list">
+      {day.stories.map((story) => (
+        <StoryCard
+          story={story}
+          dayDate={day.date}
+          project={projectByStory.get(story.id)}
+          companySlugByName={companySlugByName}
+        />
+      ))}
+    </div>
+  </section>
+</Base>

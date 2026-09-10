@@ -8,7 +8,7 @@
   --surface: #ffffff;
   --text: #16181d;
   --text-secondary: #4a525b;
-  --text-faint: #7c848d;
+  --text-faint: #5b6570;
   --border: #e4e6e9;
   --accent: #0e9f6e;
   --accent-deep: #0b8a5f;
@@ -20,7 +20,7 @@
   --chip-region-bg: #e8edf4;
   --chip-region-text: #3b5b85;
   --chip-topic-bg: #eef0f1;
-  --chip-topic-text: #64707a;
+  --chip-topic-text: #55616c;
   --chip-company-bg: var(--accent-soft);
   --chip-company-text: var(--accent-ink);
   --sidebar-width: 224px;
@@ -308,6 +308,7 @@ a:hover {
 
 .main-inner {
   width: 100%;
+  max-width: 1200px;
   padding: 28px 40px 48px;
 }
 
@@ -423,6 +424,13 @@ a:hover {
   font-size: 15px;
   font-weight: 750;
   margin: 0 0 6px;
+}
+
+/* Small caption under panel headings (e.g. Trending ranking note). */
+.panel-note {
+  margin: -2px 0 10px;
+  font-size: 12px;
+  color: var(--text-faint);
 }
 
 /* Signature green vertical accent bar (from the reference "Ad Spend" card). */
@@ -1576,8 +1584,9 @@ a.chip.company:hover {
   align-items: start;
 }
 
-/* Give the wide table more room: tighter page padding on this page only. */
+/* Give the wide table more room: no content width cap, tighter padding. */
 .main-inner:has(.pipeline-layout) {
+  max-width: none;
   padding-left: 16px;
   padding-right: 16px;
 }
@@ -3122,6 +3131,64 @@ a.chip.company:hover {
   }
 }
 
+/* ---------- Very narrow phones (<=480px) ---------- */
+
+@media (max-width: 480px) {
+  /* Trending rows: rank + two-line clamped title + actions on row 1,
+     company/source meta on row 2. Nothing gets squeezed to unreadable. */
+  .hot-item {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    grid-template-areas:
+      "rank title right"
+      "rank meta meta";
+    align-items: start;
+    column-gap: 10px;
+    row-gap: 2px;
+  }
+
+  .hot-rank {
+    grid-area: rank;
+    padding-top: 2px;
+  }
+
+  .hot-title {
+    grid-area: title;
+    white-space: normal;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+
+  .hot-companies {
+    grid-area: meta;
+    white-space: normal;
+  }
+
+  .hot-right {
+    grid-area: right;
+  }
+
+  /* Region tabs scroll sideways instead of wrapping into a tall stack. */
+  .tabs {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    scroll-snap-type: x proximity;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .tabs .tab {
+    flex-shrink: 0;
+    scroll-snap-align: start;
+  }
+
+  /* Sources popover must never overflow the viewport. */
+  .sources-pop {
+    max-width: calc(100vw - 32px);
+    overflow-x: hidden;
+  }
+}
+
 /* ---------- Saved page (/saved/) ---------- */
 
 .saved-section {
@@ -3222,6 +3289,26 @@ a.chip.company:hover {
 
 .footer-links a:hover {
   color: var(--accent);
+}
+
+/* Skip link: visually hidden until keyboard focus. */
+.skip {
+  position: fixed;
+  top: 8px;
+  left: 8px;
+  z-index: 200;
+  padding: 8px 14px;
+  background: var(--text);
+  color: #ffffff;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  transform: translateY(-200%);
+  transition: transform 0.15s ease;
+}
+
+.skip:focus-visible {
+  transform: none;
 }
 
 /* ---------- Reports (weekly / monthly digests) ---------- */
@@ -3657,3 +3744,241 @@ a.chip.company:hover {
   }
 }
 
+
+/* ---------- Pipeline filter bar (filters live above the table) ---------- */
+
+.pipeline-filterbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 10px;
+  position: relative;
+  z-index: 6;
+}
+
+.fb-item {
+  position: relative;
+}
+
+.fb-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface);
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  cursor: pointer;
+}
+
+.fb-btn:hover {
+  border-color: var(--accent);
+  color: var(--text);
+}
+
+.fb-btn.is-active {
+  background: var(--accent-soft);
+  border-color: var(--accent-deep);
+  color: var(--accent-ink);
+}
+
+.fb-item .th-dropdown {
+  top: calc(100% + 6px);
+}
+
+.th-dropdown[data-col="operator"] {
+  min-width: 240px;
+}
+
+.th-dropdown-search {
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0 0 5px;
+  padding: 6px 8px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font: inherit;
+  font-size: 12.5px;
+}
+
+.pipeline-sentinel {
+  height: 1px;
+}
+
+/* Medium widths: Investment is the first column to go (still on detail pages). */
+@media (max-width: 1400px) {
+  .pipeline-table .col-invest,
+  .pipeline-table .proj-invest {
+    display: none;
+  }
+}
+
+/* ---------- Archive nav (homepage -> /day/<date>/ pages) ---------- */
+
+.archive-nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 10px;
+  padding: 4px 2px 20px;
+  font-size: 12.5px;
+}
+
+.archive-label {
+  color: var(--text-faint);
+  font-weight: 600;
+}
+
+.archive-link {
+  padding: 3px 10px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--text-secondary);
+  font-weight: 600;
+}
+
+.archive-link:hover {
+  border-color: var(--accent);
+  color: var(--accent-ink);
+}
+
+/* ---------- Full-text fold (news detail) ---------- */
+
+.fulltext-fold > summary {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  flex-wrap: wrap;
+  cursor: pointer;
+  padding: 10px 14px;
+  border: 1px dashed var(--border);
+  border-radius: var(--radius-sm);
+  list-style: none;
+}
+
+.fulltext-fold > summary::-webkit-details-marker {
+  display: none;
+}
+
+.fulltext-fold-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--accent-ink);
+}
+
+.fulltext-fold-hint {
+  font-size: 12px;
+  color: var(--text-faint);
+}
+
+.fulltext-fold[open] > summary {
+  margin-bottom: 14px;
+  border-style: solid;
+}
+
+.fulltext-fold .article-body {
+  padding-top: 4px;
+}
+
+/* ---------- Phone navigation: bottom tab bar (<=640px) ----------
+   The top-stacked brand + nav costs ~186px of every mobile page; move it to
+   a fixed bottom tab bar, thumb-reachable and out of the reading flow. */
+@media (max-width: 640px) {
+  .sidebar {
+    position: fixed;
+    inset: auto 0 0 0;
+    z-index: 100;
+    padding: 4px 6px calc(4px + env(safe-area-inset-bottom, 0px));
+    border-bottom: none;
+    border-top: 1px solid var(--border);
+    box-shadow: 0 -6px 24px rgba(16, 24, 40, 0.08);
+  }
+
+  .sidebar .brand,
+  .sidebar .side-label {
+    display: none;
+  }
+
+  .side-nav {
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    gap: 0;
+  }
+
+  .side-item {
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    padding: 6px 10px;
+    font-size: 10.5px;
+    border-radius: 10px;
+  }
+
+  .main {
+    padding-bottom: 70px;
+  }
+}
+
+/* ---------- Dark mode (follows the OS setting) ---------- */
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #12161a;
+    --surface: #1c2126;
+    --text: #e5e9ec;
+    --text-secondary: #adb6bf;
+    --text-faint: #8d97a0;
+    --border: #2d343b;
+    --accent: #2fbf8f;
+    --accent-deep: #28ab7e;
+    --accent-ink: #86dcb9;
+    --accent-soft: #1e3a2f;
+    --featured-bg: #39331f;
+    --featured-text: #e0c56a;
+    --chip-region-bg: #27313d;
+    --chip-region-text: #9fb9da;
+    --chip-topic-bg: #272d34;
+    --chip-topic-text: #9da7b1;
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.35), 0 12px 32px rgba(0, 0, 0, 0.45);
+    --shadow-pop: 0 12px 32px rgba(0, 0, 0, 0.55);
+  }
+
+  /* Hardcoded light values that don't go through variables. */
+  .th-option:hover,
+  .pipeline-table tbody tr:hover {
+    background: #232a30;
+  }
+
+  .sort-arrow::before {
+    border-bottom-color: #3b454d;
+  }
+
+  .sort-arrow::after {
+    border-top-color: #3b454d;
+  }
+
+  .heatmap-country {
+    fill: #242b31;
+    stroke: #12161a;
+  }
+
+  .heatmap-country.is-tracked {
+    fill: #1f332b;
+  }
+
+  .heatmap-rank-bar {
+    background: linear-gradient(90deg, var(--accent-soft), var(--accent));
+  }
+}
+
+/* Saved-only toggle: never wrap its label onto two lines. */
+.saved-toggle {
+  white-space: nowrap;
+}

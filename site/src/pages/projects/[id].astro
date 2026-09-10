@@ -328,6 +328,16 @@ const SPEC_TIPS: Record<string, string> = {
           <p class="empty-state">No tracked news yet.</p>
         )}
       </section>
+
+      <p class="report-issue">
+        <a
+          href={`https://github.com/Sakae28/DataCenter-Atlas/issues/new?title=${encodeURIComponent(`Data issue: ${project.name}`)}&body=${encodeURIComponent(`Project: ${project.name}\nURL: https://sakae28.github.io/DataCenter-Atlas/projects/${project.id}/\n\nWhat's wrong:\n`)}`}
+          target="_blank"
+          rel="noopener"
+        >
+          <Icon name="flag" size={12} /> Report a data issue
+        </a>
+      </p>
     </div>
   </div>
 </Base>

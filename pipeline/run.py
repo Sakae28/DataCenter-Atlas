@@ -5,6 +5,8 @@ import hashlib
 import json
 import logging
 import os
+import re
+import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -41,12 +43,16 @@ def assemble_story(date: str, cluster: dict, generated_at: str) -> dict:
     published = sorted(i["published_at"] for i in items if i["published_at"])
     regions = cluster.get("regions")
     if not regions:
+        # LLM undecided. A source configured with a long region list (e.g.
+        # W.Media covering all of APAC) must not tag every story with every
+        # region — only inherit when the items agree on exactly one region,
+        # otherwise tag "global".
         seen = []
         for item in items:
             for r in item["regions"]:
                 if r in process.REGIONS and r not in seen:
                     seen.append(r)
-        regions = seen or ["global"]
+        regions = seen if len(seen) == 1 else ["global"]
     # Dedup source entries: one entry per source NAME (a Google News query
     # feed can surface the same story under several redirect URLs — listing
     # the same source repeatedly is meaningless to readers). First wins,
@@ -76,6 +82,13 @@ def assemble_story(date: str, cluster: dict, generated_at: str) -> dict:
     companies = (cluster.get("companies") or [])[:6]
     if companies:
         story["companies"] = companies
+    # Date-only sources: surface the precision marker so the site renders a
+    # bare date instead of a fabricated time of day.
+    if published:
+        for item in items:
+            if item["published_at"] == published[0] and item.get("published_precision"):
+                story["published_precision"] = item["published_precision"]
+                break
     return story
 
 
@@ -102,7 +115,7 @@ def absorb(winner: dict, loser: dict) -> None:
             known_names.add(src["name"])
             known_urls.add(src["url"])
     winner["heat"] = len({s["name"] for s in winner["sources"]})
-    for field in ("content", "content_url"):
+    for field in ("content", "content_url", "published_precision"):
         if not winner.get(field) and loser.get(field):
             winner[field] = loser[field]
     companies = list(dict.fromkeys((winner.get("companies") or []) +
@@ -156,6 +169,19 @@ def hot_ids(stories: list[dict]) -> list[str]:
     return [s["id"] for s in ranked[:5]]
 
 
+def title_fingerprint(title: str) -> str:
+    """Normalized title for cross-day duplicate detection: lowercase,
+    US/UK spelling unified, punctuation stripped. Exact-fingerprint matches
+    across different URLs are the same wire story re-run on another day."""
+    t = title.lower().replace("centre", "center")
+    t = re.sub(r"[^a-z0-9 ]+", " ", t)
+    return re.sub(r"\s+", " ", t).strip()
+
+
+# Fingerprints shorter than this are too generic to trust as dup signals.
+MIN_FINGERPRINT_LEN = 40
+
+
 def recently_reported_urls(today: str, lookback_days: int = 2) -> set[str]:
     """Canonical source URLs from the previous days' files. The 48h fetch
     window overlaps consecutive days, so a story already reported yesterday
@@ -176,6 +202,61 @@ def recently_reported_urls(today: str, lookback_days: int = 2) -> set[str]:
     return seen
 
 
+def recently_reported_index(today: str, lookback_days: int = 14):
+    """Load previous days' stories for cross-day dedup. Returns
+    (by_url, by_title, loaded): canonical URL / title fingerprint map to
+    (day_path, story); `loaded` maps day_path -> full day data so that
+    absorb() mutations can be written back."""
+    by_url: dict[str, tuple[Path, dict]] = {}
+    by_title: dict[str, tuple[Path, dict]] = {}
+    loaded: dict[Path, dict] = {}
+    day = datetime.strptime(today, "%Y-%m-%d").date()
+    for back in range(1, lookback_days + 1):
+        path = DATA_DIR / f"{day - timedelta(days=back)}.json"
+        if not path.exists():
+            continue
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError) as exc:
+            log.warning("could not read %s for cross-day dedup: %s", path, exc)
+            continue
+        loaded[path] = data
+        for story in data.get("stories", []):
+            for u in story_urls(story):
+                by_url.setdefault(u, (path, story))
+            fp = title_fingerprint(story.get("title", ""))
+            if len(fp) >= MIN_FINGERPRINT_LEN:
+                by_title.setdefault(fp, (path, story))
+    return by_url, by_title, loaded
+
+
+def merge_into_previous(by_url, by_title, story: dict) -> Path | None:
+    """If `story` duplicates a previous day's story (shared canonical URL or
+    identical title fingerprint), absorb it into that story and return the
+    path of the day file that needs rewriting; otherwise None."""
+    hit: tuple[Path, dict] | None = None
+    for u in story_urls(story):
+        if u in by_url:
+            hit = by_url[u]
+            break
+    if hit is None:
+        fp = title_fingerprint(story.get("title", ""))
+        if len(fp) >= MIN_FINGERPRINT_LEN:
+            hit = by_title.get(fp)
+    if hit is None:
+        return None
+    path, orig = hit
+    absorb(orig, story)
+    # Register the new story's keys so later duplicates today hit the
+    # already-merged original too.
+    for u in story_urls(story):
+        by_url.setdefault(u, (path, orig))
+    fp = title_fingerprint(story.get("title", ""))
+    if len(fp) >= MIN_FINGERPRINT_LEN:
+        by_title.setdefault(fp, (path, orig))
+    return path
+
+
 def main() -> None:
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
     load_env()
@@ -192,25 +273,24 @@ def main() -> None:
     stories = [assemble_story(date, c, generated_at) for c in clusters]
     stories.sort(key=lambda s: s["published_at"], reverse=True)
 
-    # Cross-day dedup: drop stories whose primary source URL was already
-    # reported in the previous ~2 days (the 48h fetch window overlaps).
-    # html-list sources (topic/list pages) keep articles on the page for
-    # many days, so they get a longer 7-day lookback.
-    reported = recently_reported_urls(date)
-    reported_long = recently_reported_urls(date, lookback_days=7)
-    if reported or reported_long:
-        def is_fresh(s: dict) -> bool:
-            primary = s["sources"][0]
-            url = process.canonical_url(primary["url"])
-            if url in reported:
-                return False
-            if primary.get("type") == "html-list" and url in reported_long:
-                return False
-            return True
-
-        fresh = [s for s in stories if is_fresh(s)]
+    # Cross-day dedup: stories whose primary URL or normalized title already
+    # ran in the last 14 days don't re-enter today's file — the new source is
+    # merged into the original day's story (heat goes up, one canonical
+    # entry per event). The old 2-day URL-only drop missed same-event
+    # re-reports from different outlets.
+    by_url, by_title, loaded_days = recently_reported_index(date)
+    dirty_days: dict[Path, None] = {}
+    if by_url or by_title:
+        fresh = []
+        for s in stories:
+            dirty = merge_into_previous(by_url, by_title, s)
+            if dirty is not None:
+                dirty_days[dirty] = None
+                log.info("cross-day merge: %r -> %s", s["title"][:60], dirty.name)
+            else:
+                fresh.append(s)
         if len(fresh) < len(stories):
-            log.info("cross-day dedup: dropped %d already-reported stories",
+            log.info("cross-day dedup: merged %d already-reported stories into previous days",
                      len(stories) - len(fresh))
         stories = fresh
 
@@ -244,6 +324,15 @@ def main() -> None:
     backend = process.select_backend()
     projects.update_projects_step(backend, stories, today=date)
 
+    # Empty-digest guard: a run that produced zero stories is a failure
+    # (accelerator down, sources unreachable, ...), not a "quiet news day".
+    # Never write/publish an empty day file; exit non-zero so the caller
+    # (daily_run.bat) skips the commit and the failure shows up in the log.
+    if not stories:
+        log.error("EMPTY DIGEST: 0 stories after processing — refusing to "
+                  "write %s. Check fetch failures above.", out_path)
+        sys.exit(2)
+
     payload = {
         "date": date,
         "generated_at": generated_at,
@@ -254,6 +343,16 @@ def main() -> None:
     out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
                         encoding="utf-8")
     log.info("wrote %s (%d stories, %d hot)", out_path, len(stories), len(payload["hot"]))
+
+    # Rewrite previous-day files that absorbed cross-day duplicates (sources
+    # merged in memory by merge_into_previous; persist + refresh hot list).
+    for path in dirty_days:
+        day_data = loaded_days[path]
+        day_data["stories"].sort(key=lambda s: s["published_at"], reverse=True)
+        day_data["hot"] = hot_ids(day_data["stories"])[:5]
+        path.write_text(json.dumps(day_data, ensure_ascii=False, indent=2) + "\n",
+                        encoding="utf-8")
+        log.info("updated %s after cross-day source merge", path.name)
 
     # Reports: on Mondays / the 1st, compile last week's / last month's report.
     # Failures here must never break the digest itself.

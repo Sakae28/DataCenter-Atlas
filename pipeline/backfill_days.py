@@ -93,21 +93,38 @@ def main(argv: list[str]) -> None:
     for date in days:
         day_items = by_day[date]
         if not day_items:
-            log.warning("%s: no items in window — writing empty digest", date)
+            log.warning("%s: no items in window — skipping (empty digests are never written)", date)
+            continue
         clusters = process.process_items(day_items)
         stories = [run.assemble_story(date, c, generated_at) for c in clusters]
         stories.sort(key=lambda s: s["published_at"], reverse=True)
 
-        # Same cross-day dedup as run.py: drop stories whose primary source
-        # URL was already reported in the previous ~2 days.
-        reported = run.recently_reported_urls(date)
-        if reported:
-            fresh = [s for s in stories
-                     if process.canonical_url(s["sources"][0]["url"]) not in reported]
-            if len(fresh) < len(stories):
-                log.info("%s: cross-day dedup dropped %d already-reported stories",
-                         date, len(stories) - len(fresh))
-            stories = fresh
+        # Cross-day dedup (same rules as run.py): skip stories whose primary
+        # source URL or normalized title already ran in the previous days.
+        reported = run.recently_reported_urls(date, lookback_days=14)
+        reported_titles = set()
+        day0 = datetime.strptime(date, "%Y-%m-%d").date()
+        for back in range(1, 15):
+            prev = DATA_DIR / f"{day0 - timedelta(days=back)}.json"
+            if prev.exists():
+                try:
+                    for st in json.loads(prev.read_text(encoding="utf-8")).get("stories", []):
+                        fp = run.title_fingerprint(st.get("title", ""))
+                        if len(fp) >= run.MIN_FINGERPRINT_LEN:
+                            reported_titles.add(fp)
+                except (json.JSONDecodeError, OSError):
+                    continue
+        def _is_fresh(s: dict) -> bool:
+            if process.canonical_url(s["sources"][0]["url"]) in reported:
+                return False
+            fp = run.title_fingerprint(s["title"])
+            return not (len(fp) >= run.MIN_FINGERPRINT_LEN and fp in reported_titles)
+
+        fresh = [s for s in stories if _is_fresh(s)]
+        if len(fresh) < len(stories):
+            log.info("%s: cross-day dedup dropped %d already-reported stories",
+                     date, len(stories) - len(fresh))
+        stories = fresh
 
         if fulltext.enabled():
             ok, no_content = fulltext.enrich_stories(stories)

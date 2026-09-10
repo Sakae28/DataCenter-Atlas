@@ -4,6 +4,7 @@ import Icon from '../../components/Icon.astro';
 import FavButton from '../../components/FavButton.astro';
 import {
   loadAllStories,
+  formatDate,
   formatDateTime,
   relativeTime,
   sourceDisplayName,
@@ -43,6 +44,7 @@ const companySlugByName = companySlugMap();
 const project = buildStoryProjectIndex(loadProjects().projects).get(story.id);
 
 const hasContent = !!(story.content && story.content.trim().length > 0);
+const wordCount = hasContent ? story.content!.split(/\s+/).length : 0;
 // Don't show summaries that merely repeat the headline (see hasDistinctSummary).
 const showSummary = hasDistinctSummary(story.title, story.summary);
 const { html: bodyHtml, toc } = hasContent
@@ -50,7 +52,24 @@ const { html: bodyHtml, toc } = hasContent
   : { html: '', toc: [] };
 ---
 
-<Base title={story.title} description={story.summary} active="latest">
+<Base title={story.title} description={story.summary} active="latest" ogType="article">
+  <script
+    slot="head"
+    type="application/ld+json"
+    set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'NewsArticle',
+      headline: story.title,
+      description: story.summary,
+      datePublished: story.published_at,
+      author: story.sources.map((s) => ({
+        '@type': 'Organization',
+        name: sourceDisplayName(s, story),
+        url: s.url,
+      })),
+      isBasedOn: story.sources[0]?.url,
+    })}
+  />
   <div class="article-bar">
     <a class="article-bar-back" href={base}><Icon name="arrow-left" size={14} />Back</a>
     <div class="article-bar-right">
@@ -73,7 +92,7 @@ const { html: bodyHtml, toc } = hasContent
         <div class="article-meta">
           <span>{names.join(', ')}</span>
           <span class="article-meta-sep" aria-hidden="true">·</span>
-          <time class="js-time" data-time-format="datetime" data-ts={story.published_at} datetime={story.published_at}>{formatDateTime(story.published_at)}</time>
+          <time class="js-time" data-time-format="datetime" data-precision={story.published_precision} data-ts={story.published_at} datetime={story.published_at}>{story.published_precision === 'day' ? formatDate(story.published_at.slice(0, 10)) : formatDateTime(story.published_at)}</time>
           {rel && (
             <>
               <span class="article-meta-sep" aria-hidden="true">·</span>
@@ -92,7 +111,16 @@ const { html: bodyHtml, toc } = hasContent
         <hr class="article-divider" />
 
         {hasContent ? (
-          <div class="article-body" set:html={bodyHtml} />
+          <details class="fulltext-fold">
+            <summary>
+              <span class="fulltext-fold-label">
+                <Icon name="newspaper" size={13} />
+                Full text · {wordCount} words
+              </span>
+              <span class="fulltext-fold-hint">Excerpted from the publisher — tap to expand</span>
+            </summary>
+            <div class="article-body" set:html={bodyHtml} />
+          </details>
         ) : (
           <div class="article-body">
             {showSummary && <p>{story.summary}</p>}

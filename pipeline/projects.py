@@ -665,6 +665,21 @@ def _clean(text) -> str:
     return "" if t.lower() in _PLACEHOLDER_STRINGS else t
 
 
+_POWER_RE = re.compile(
+    r"\b(mw|gw|kw|kilowatt|megawatt|gigawatt|pue|ppa|power|renewable|solar|"
+    r"wind|grid|ups|generator|battery|cooling|hvdc|substation)\b", re.I)
+
+
+def _clean_power(text) -> str | None:
+    """The power field must read like power/capacity infrastructure data; the
+    LLM occasionally drops unrelated specs (GPU platforms, network gear) in
+    here. Reject values without any power keyword."""
+    t = _clean(text)
+    if not t:
+        return None
+    return t if _POWER_RE.search(t) else None
+
+
 def _validate_update(raw: dict) -> dict | None:
     story_id = str(raw.get("story_id", "")).strip()
     name = _clean(raw.get("name"))
@@ -712,7 +727,10 @@ def _validate_update(raw: dict) -> dict | None:
         "investment": _clean(raw.get("investment")) or None,
         "phases": _clean(raw.get("phases")) or None,
         "anchor_tenants": tenants,
-        "power": _clean(raw.get("power")) or None,
+        # Sanity gate: the power field must read like power data (MW/GW/kW,
+        # PUE, PPA, renewable...); the LLM occasionally stuffs GPU platform
+        # notes or other specs in here — those drop to None instead.
+        "power": _clean_power(raw.get("power")),
         "announced": _clean(raw.get("announced")) or None,
         "construction_start": _clean(raw.get("construction_start")) or None,
         "rfs": _clean(raw.get("rfs")) or None,

@@ -16,6 +16,8 @@
 #   page_url / pages  optional pagination for archive-style sources:
 #                 page_url carries a {page} placeholder, pages is the total
 #                 page count including page 1
+# fulltext: allowed (default) = mirror extracted article text on the detail
+#        page; none = never extract (summary + outbound link only).
 # html-list items often carry no date and stay on the page for days;
 # run.py dedups them against a 7-day lookback instead of the usual 2.
 #

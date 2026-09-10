@@ -6,7 +6,7 @@
     "2026-08-28-b573dd",
     "2026-08-28-82a841",
     "2026-08-28-1223e3",
-    "2026-08-28-feb768"
+    "2026-08-28-52487d"
   ],
   "stories": [
     {
@@ -34,7 +34,7 @@
           "type": "rss"
         }
       ],
-      "content": "The Trump administration is considering further tariffs on semiconductors.\n\nSuch tariffs may even be expanded, Politico reports, to include the goods that use chips - including data center servers. Tariffs are paid by the importer, not the exporter.\n\n![money_dollar_bills_benjamin_franklin_1366x768_2.original.jpg](https://media.datacenterdynamics.com/media/images/money_dollar_bills_benjamin_franklin_1366x768_.width-358_JqglF12.jpg) \n\nThe tariff discussions are still in an early stage, and could change in the coming weeks or months. As it stands, the administration is considering a phase-in period for the new tariffs, while Commerce Secretary Howard Lutnick is in favor of using it to force investment in US chip manufacturing. Those that invest would escape the tariffs.\n\n“Reshoring semiconductor manufacturing is a top priority for President Trump, whose policies have already secured hundreds of billions of dollars of investments in this key sector,” White House spokesperson Kush Desai said of the report.\n\n“The Trump administration remains focused on delivering more investments and economic relief for the American people while safeguarding our national security.”\n\nTariffs could cost the US about $90 billion in GDP losses annually and delay or cancel around 20 percent of data center projects planned through 2030, the Computer and Communications Industry Association (CCIA) claimed in June.",
+      "content": "The Trump administration is considering further tariffs on semiconductors.\n\nSuch tariffs may even be expanded, Politico reports, to include the goods that use chips - including data center servers. Tariffs are paid by the importer, not the exporter.\n\nThe tariff discussions are still in an early stage, and could change in the coming weeks or months. As it stands, the administration is considering a phase-in period for the new tariffs, while Commerce Secretary Howard Lutnick is in favor of using it to force investment in US chip manufacturing. Those that invest would escape the tariffs.\n\n“Reshoring semiconductor manufacturing is a top priority for President Trump, whose policies have already secured hundreds of billions of dollars of investments in this key sector,” White House spokesperson Kush Desai said of the report.\n\n“The Trump administration remains focused on delivering more investments and economic relief for the American people while safeguarding our national security.”\n\nTariffs could cost the US about $90 billion in GDP losses annually and delay or cancel around 20 percent of data center projects planned through 2030, the Computer and Communications Industry Association (CCIA) claimed in June.",
       "content_url": "https://www.datacenterdynamics.com/en/news/trump-admin-considers-more-semiconductor-tariffs-and-possibly-data-center-servers/"
     },
     {
@@ -64,7 +64,7 @@
       "companies": [
         "NVIDIA"
       ],
-      "content": "![NVIDIA expands NVLink Fusion with new NVHBM memory](https://datacenternews.asia/uploads/story/2026/08/28/neutral-hyperscale-data-center-server-racks-gpu-board-digital-illustration-story-317813.webp) \n\n![Sean Mitchell](https://datacenternews.asia/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--a929a91c2a04d9af95ed98b14ed4d405bc70c1a7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpbGwiOlsxNjAsMTYwXSwicXVhbGl0eSI6ODV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--89ddf5e6765c65a563c2258053e9d33c05d195da/IMG_3092.webp) \n\nNVIDIA has expanded NVLink Fusion with a new high-bandwidth memory technology called NVHBM, extending its semi-custom AI infrastructure offering into memory design.\n\nNVHBM moves the memory controller from the XPU die into the HBM base die, changing the long-established arrangement in which the controller sits on the processor itself. NVIDIA says that shift can free more silicon area for compute while improving memory throughput and reducing power use.\n\nThe technology is based on the same approach NVIDIA plans to use in future GPUs. It will be validated and supplied by multiple memory partners, with the aim of giving NVLink Fusion customers a standard implementation that can be sourced from more than one provider.\n\nAccording to NVIDIA, the design delivers up to 30% greater memory bandwidth and 15% lower HBM power consumption than standard HBM4E. It can also free up to 25% more area on the XPU compute die by removing the memory controller from that chip.\n\n### AWS link\n\nAmazon's Annapurna Labs will be the first group to work on NVHBM under its broader collaboration with NVIDIA on NVLink Fusion. The work will also cover the NVLink scale-up architecture for AI workloads.\n\nAnnapurna Labs is already part of Amazon's Trainium effort, and support for NVLink Fusion is planned for the next generation of those chips, starting with Trainium4. That would allow Amazon chips and NVIDIA GPUs to operate together within a shared rack-scale architecture.\n\n\"NVHBM represents a new architectural approach to advancing high-bandwidth memory performance and efficiency,\" said Nafea Bshara, Vice President of Annapurna Labs at Amazon.\n\n\"We look forward to this technology collaboration to benefit future AWS infrastructure designs,\" Bshara said.\n\n### Memory shift\n\nHigh-bandwidth memory has become central to AI system design as model sizes grow and data movement puts more strain on system architecture. In conventional designs, memory controllers occupy space on the XPU die, limiting how much of that silicon is available for compute functions.\n\nNVIDIA's proposal is to embed its custom memory controller in the three-dimensional HBM stack instead. That should reduce the engineering work needed to integrate and qualify memory from different suppliers because the NVHBM implementation will be standardised across several providers.\n\nThat matters for cloud companies and chip designers seeking more customised AI systems without having to build every element themselves. NVLink Fusion is NVIDIA's framework for linking custom XPUs and CPUs to its broader rack-scale platform, including chiplets, interconnect, switches, systems and racks.\n\n### Broader strategy\n\nThe move shows how NVIDIA is trying to extend its influence beyond GPUs into the surrounding architecture of AI data centres. Rather than offering only finished processors, it is packaging interconnect, system design and now memory architecture into a platform that outside partners can use with their own silicon.\n\nFor hyperscalers and AI-focused infrastructure developers, that model offers a route to building semi-custom systems while staying aligned with NVIDIA's networking and rack design. It also gives NVIDIA a way to remain at the centre of AI infrastructure decisions even when customers develop chips in-house.\n\nNVLink Fusion gives partners access to NVIDIA NVLink chiplets, NVLink-C2C, NVLink switches, and MGX systems and racks, alongside a wider ecosystem of CPU partners, ASIC designers, system manufacturers, and other technology providers. NVIDIA positions the platform as a way for customers to focus on XPU design while relying on an existing stack for scale-up and scale-out networking, rack systems, and software.\n\nAdding memory architecture strengthens that proposition, particularly as AI customers look for gains not just from processor performance but from the balance between compute, memory and system efficiency. As AI agents and very large models place heavier demands on infrastructure, control over those design trade-offs is becoming more important across the supply chain.\n\nAmazon's participation gives the effort an early high-profile user with a history of building its own AI silicon.",
+      "content": "NVIDIA has expanded NVLink Fusion with a new high-bandwidth memory technology called NVHBM, extending its semi-custom AI infrastructure offering into memory design.\n\nNVHBM moves the memory controller from the XPU die into the HBM base die, changing the long-established arrangement in which the controller sits on the processor itself. NVIDIA says that shift can free more silicon area for compute while improving memory throughput and reducing power use.\n\nThe technology is based on the same approach NVIDIA plans to use in future GPUs. It will be validated and supplied by multiple memory partners, with the aim of giving NVLink Fusion customers a standard implementation that can be sourced from more than one provider.\n\nAccording to NVIDIA, the design delivers up to 30% greater memory bandwidth and 15% lower HBM power consumption than standard HBM4E. It can also free up to 25% more area on the XPU compute die by removing the memory controller from that chip.\n\n### AWS link\n\nAmazon's Annapurna Labs will be the first group to work on NVHBM under its broader collaboration with NVIDIA on NVLink Fusion. The work will also cover the NVLink scale-up architecture for AI workloads.\n\nAnnapurna Labs is already part of Amazon's Trainium effort, and support for NVLink Fusion is planned for the next generation of those chips, starting with Trainium4. That would allow Amazon chips and NVIDIA GPUs to operate together within a shared rack-scale architecture.\n\n\"NVHBM represents a new architectural approach to advancing high-bandwidth memory performance and efficiency,\" said Nafea Bshara, Vice President of Annapurna Labs at Amazon.\n\n\"We look forward to this technology collaboration to benefit future AWS infrastructure designs,\" Bshara said.\n\n### Memory shift\n\nHigh-bandwidth memory has become central to AI system design as model sizes grow and data movement puts more strain on system architecture. In conventional designs, memory controllers occupy space on the XPU die, limiting how much of that silicon is available for compute functions.\n\nNVIDIA's proposal is to embed its custom memory controller in the three-dimensional HBM stack instead. That should reduce the engineering work needed to integrate and qualify memory from different suppliers because the NVHBM implementation will be standardised across several providers.\n\nThat matters for cloud companies and chip designers seeking more customised AI systems without having to build every element themselves. NVLink Fusion is NVIDIA's framework for linking custom XPUs and CPUs to its broader rack-scale platform, including chiplets, interconnect, switches, systems and racks.\n\n### Broader strategy\n\nThe move shows how NVIDIA is trying to extend its influence beyond GPUs into the surrounding architecture of AI data centres. Rather than offering only finished processors, it is packaging interconnect, system design and now memory architecture into a platform that outside partners can use with their own silicon.\n\nFor hyperscalers and AI-focused infrastructure developers, that model offers a route to building semi-custom systems while staying aligned with NVIDIA's networking and rack design. It also gives NVIDIA a way to remain at the centre of AI infrastructure decisions even when customers develop chips in-house.\n\nNVLink Fusion gives partners access to NVIDIA NVLink chiplets, NVLink-C2C, NVLink switches, and MGX systems and racks, alongside a wider ecosystem of CPU partners, ASIC designers, system manufacturers, and other technology providers. NVIDIA positions the platform as a way for customers to focus on XPU design while relying on an existing stack for scale-up and scale-out networking, rack systems, and software.\n\nAdding memory architecture strengthens that proposition, particularly as AI customers look for gains not just from processor performance but from the balance between compute, memory and system efficiency. As AI agents and very large models place heavier demands on infrastructure, control over those design trade-offs is becoming more important across the supply chain.\n\nAmazon's participation gives the effort an early high-profile user with a history of building its own AI silicon.",
       "content_url": "https://datacenternews.asia/story/nvidia-expands-nvlink-fusion-with-new-nvhbm-memory"
     },
     {
@@ -96,7 +96,7 @@
         "AWS",
         "NVIDIA"
       ],
-      "content": "![AWS, NVIDIA to deploy 2 million more GPUs for AI workloads](https://datacenternews.asia/uploads/story/2026/08/28/installation-cloud-data-center-robotic-arms-gpu-chip-digital-illustration-story-317818.webp) \n\n# AWS, NVIDIA to deploy 2 million more GPUs for AI workloads\n\nFri, 28th Aug 2026\n![Mark Tarre](https://datacenternews.asia/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYyMywicHVyIjoiYmxvYl9pZCJ9fQ==--47487b3f4571870114142b0dc77b848fa071f6b5/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2ZpbGwiOlsxNjAsMTYwXSwicXVhbGl0eSI6ODV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--89ddf5e6765c65a563c2258053e9d33c05d195da/MARK%20TARRE%20TECHDAY%20PORTRAIT.webp) \n\nAmazon Web Services and NVIDIA will deploy 2 million additional graphics processing units for artificial intelligence workloads and expand their collaboration into central processing units, networking and robotics.\n\nThe move further scales infrastructure tied to surging demand for AI computing, as cloud providers and chipmakers race to add processing capacity for model training and deployment.\n\nThe deployment will add to the large installed base of NVIDIA hardware already used across AWS's cloud platform. NVIDIA has become the dominant supplier of AI chips, while AWS has sought to balance demand for NVIDIA systems with its own in-house silicon, including Trainium and Inferentia.\n\n### Wider build-out\n\nThe broader tie-up points to a relationship that now extends beyond graphics processors. By naming CPUs, networking and robotics alongside GPUs, the companies signalled that they are working across a wider set of technologies at the centre of data centre expansion and AI system design.\n\nCloud infrastructure groups have been spending heavily to secure enough processors, networking equipment and power to keep pace with corporate and consumer use of generative AI services. NVIDIA's chips remain central to that build-out because they are widely used to train large language models and run inference tasks after deployment.\n\nFor AWS, the additional GPUs could help it serve customers that want access to NVIDIA systems through the cloud rather than build their own data centre estates. The arrangement also reflects how large cloud operators are trying to preserve flexibility by combining merchant chip supply with internally developed processors and tightly integrated networking gear.\n\nRobotics is a newer area of overlap. NVIDIA has pushed software and hardware platforms for robotic systems and industrial automation, while Amazon has long invested in warehouse automation and machine learning systems in its logistics network. A deeper collaboration in that segment suggests the partnership could extend beyond cloud computing into physical AI applications.\n\n### Competitive pressure\n\nThe announcement comes as competition intensifies among hyperscale cloud providers to secure the equipment needed for AI services. Microsoft, Google and other large operators have been expanding their infrastructure footprints, signing supply agreements and introducing their own chip designs in an effort to reduce costs and manage dependence on external vendors.\n\nThat backdrop has increased NVIDIA's strategic importance to the biggest technology groups. Even as customers pursue alternatives, its GPUs and networking products remain deeply embedded in AI system architecture, making access to supply a priority for cloud operators serving start-ups, developers and large corporate clients.\n\nThe inclusion of CPUs in the expanded alliance is also notable because it suggests closer alignment in how AI systems are assembled. While GPUs do most of the heavy lifting for many AI tasks, CPUs remain essential for orchestrating workloads, managing memory and running broader application environments inside data centres.\n\nNetworking has become equally important as AI clusters grow larger. Moving data quickly between processors is critical to training advanced models efficiently, and NVIDIA has expanded in that segment through high-speed interconnect and data centre networking products. Closer work with AWS on networking could therefore shape how future AI clusters are configured within the cloud provider's infrastructure.\n\n### Industry context\n\nThe scale of 2 million additional GPUs underlines how AI has become a capital-intensive contest among the world's largest technology companies. Building and operating systems at that size requires substantial investment not only in chips, but also in servers, networking, software integration, cooling and electricity.\n\nInvestors and customers have been watching whether spending on AI infrastructure will translate into sustainable revenue growth for cloud providers and semiconductor groups. AWS has been under pressure to show that demand for AI services can support the cost of rapid expansion, while NVIDIA has faced questions about how long the current level of demand can continue.\n\nEven so, the latest deployment shows that both companies are still preparing for further growth in AI use across business software, consumer applications and industrial systems. The addition of 2 million GPUs, alongside broader work in CPUs, networking and robotics, points to a partnership becoming more deeply woven into the infrastructure behind the current AI market.\n\nNVIDIA is the dominant supplier of AI chips, while AWS remains one of the world's largest cloud operators seeking to meet rising customer demand for access to advanced computing systems.",
+      "content": "# AWS, NVIDIA to deploy 2 million more GPUs for AI workloads\n\nFri, 28th Aug 2026\n\nAmazon Web Services and NVIDIA will deploy 2 million additional graphics processing units for artificial intelligence workloads and expand their collaboration into central processing units, networking and robotics.\n\nThe move further scales infrastructure tied to surging demand for AI computing, as cloud providers and chipmakers race to add processing capacity for model training and deployment.\n\nThe deployment will add to the large installed base of NVIDIA hardware already used across AWS's cloud platform. NVIDIA has become the dominant supplier of AI chips, while AWS has sought to balance demand for NVIDIA systems with its own in-house silicon, including Trainium and Inferentia.\n\n### Wider build-out\n\nThe broader tie-up points to a relationship that now extends beyond graphics processors. By naming CPUs, networking and robotics alongside GPUs, the companies signalled that they are working across a wider set of technologies at the centre of data centre expansion and AI system design.\n\nCloud infrastructure groups have been spending heavily to secure enough processors, networking equipment and power to keep pace with corporate and consumer use of generative AI services. NVIDIA's chips remain central to that build-out because they are widely used to train large language models and run inference tasks after deployment.\n\nFor AWS, the additional GPUs could help it serve customers that want access to NVIDIA systems through the cloud rather than build their own data centre estates. The arrangement also reflects how large cloud operators are trying to preserve flexibility by combining merchant chip supply with internally developed processors and tightly integrated networking gear.\n\nRobotics is a newer area of overlap. NVIDIA has pushed software and hardware platforms for robotic systems and industrial automation, while Amazon has long invested in warehouse automation and machine learning systems in its logistics network. A deeper collaboration in that segment suggests the partnership could extend beyond cloud computing into physical AI applications.\n\n### Competitive pressure\n\nThe announcement comes as competition intensifies among hyperscale cloud providers to secure the equipment needed for AI services. Microsoft, Google and other large operators have been expanding their infrastructure footprints, signing supply agreements and introducing their own chip designs in an effort to reduce costs and manage dependence on external vendors.\n\nThat backdrop has increased NVIDIA's strategic importance to the biggest technology groups. Even as customers pursue alternatives, its GPUs and networking products remain deeply embedded in AI system architecture, making access to supply a priority for cloud operators serving start-ups, developers and large corporate clients.\n\nThe inclusion of CPUs in the expanded alliance is also notable because it suggests closer alignment in how AI systems are assembled. While GPUs do most of the heavy lifting for many AI tasks, CPUs remain essential for orchestrating workloads, managing memory and running broader application environments inside data centres.\n\nNetworking has become equally important as AI clusters grow larger. Moving data quickly between processors is critical to training advanced models efficiently, and NVIDIA has expanded in that segment through high-speed interconnect and data centre networking products. Closer work with AWS on networking could therefore shape how future AI clusters are configured within the cloud provider's infrastructure.\n\n### Industry context\n\nThe scale of 2 million additional GPUs underlines how AI has become a capital-intensive contest among the world's largest technology companies. Building and operating systems at that size requires substantial investment not only in chips, but also in servers, networking, software integration, cooling and electricity.\n\nInvestors and customers have been watching whether spending on AI infrastructure will translate into sustainable revenue growth for cloud providers and semiconductor groups. AWS has been under pressure to show that demand for AI services can support the cost of rapid expansion, while NVIDIA has faced questions about how long the current level of demand can continue.\n\nEven so, the latest deployment shows that both companies are still preparing for further growth in AI use across business software, consumer applications and industrial systems. The addition of 2 million GPUs, alongside broader work in CPUs, networking and robotics, points to a partnership becoming more deeply woven into the infrastructure behind the current AI market.\n\nNVIDIA is the dominant supplier of AI chips, while AWS remains one of the world's largest cloud operators seeking to meet rising customer demand for access to advanced computing systems.",
       "content_url": "https://datacenternews.asia/story/aws-nvidia-to-deploy-2-million-more-gpus-for-ai-workloads"
     },
     {
@@ -126,7 +126,7 @@
       "companies": [
         "X2M"
       ],
-      "content": "Australian IoT company X2M Connect has established a dedicated data center subsidiary as it moves into the data center sphere.\n\nThe wholly owned subsidiary, named X2MDC, has been formed to contract and deliver high-density GPU-accelerated data centers. X2M’s planned pipeline of data center projects could reach up to 150MW.\n\nX2MDC operations will include commissioning, engineering, design, delivery, installation, and operation of data centers. It will also provide Software as a Service (SaaS) throughout the operating life of the facilities.\n\nThe subsidiary will provide two services: Platform Services, which consist of AI integration and management for data centers by bringing cooling, power, water, and environmental systems, and Managed Delivery, the end-to-end service from contracting to delivering a complete data center, including design, supplier selection, and long-term operations.\n\nThe company says it expects contracts to vary depending on customer requirements.\n\nX2M CEO Mohan Jesudason said: “X2MDC gives us a dedicated vehicle to execute on our pipeline of possible data center opportunities. X2M has spent more than a decade connecting and optimizing devices across water, gas and energy, and that is exactly the challenge for every AI facility being planned or built today.”\n\nHe added: “We are excited at the prospect of delivering services in association with some of the top providers in the world and offering a comprehensive platform and delivery service to land and data center owners across the country.\"\n\nThe formation of X2M’s dedicated data center subsidiary business follows a McKinsey report published in April 2026, which indicates an increase in Australian data center demand from 1.5GW in 2025 to as much as 5GW by 2030, which the management consulting firm expects will require up to AU$190bn (~US$135bn) of digital infrastructure investment.\n\n## **X2M signs a deal for an AI-enabled data center project**\n\nX2M signed a binding agreement to deliver an AI-enabled data center this week, just two days after forming its dedicated data center subsidiary.\n\nThe company has been contracted to provide a high-density GPU data center with an estimated project cost of more than AU$250m (~US$180m), with full delivery over a three-to-five-year period.\n\n![X2M Connect logo](https://media.datacenterdynamics.com/media/images/Screenshot_2026-08-28_124441.width-358.png) \n\nThe customer is yet to be named and the location yet to be confirmed, and the company has said the agreement does not currently include a value for the data center power capacity to be deployed.\n\nThe customer contract is the first of X2M’s dedicated data center subsidiary business and will operate under the company’s Managed Delivery business model. It will consequently include the provision of services for engineering, design, supply, installation, commissioning, and operation of the data center.\n\nWithin the agreement, X2M is pre-approved to contract partners across telecommunications, energy systems, compute, AI chip, networking, and research. The agreement is conditional only on approval being given for the development of the data center.\n\nJesudason shared: “This agreement is transformational for X2M. We play a key role in the data center delivery, and that in turn creates a materially large business opportunity for us. We are excited at the prospect of delivering services from some of the top providers in the world and offering a comprehensive service to this customer and land and data center owners across the country.”\n\nThe contracted data center is part of X2M’s pipeline of potential Australian data centers, the majority of which will be located in Queensland. In some locations, facility development has already been approved. The data centers will range in size from 1MW upwards, with a target total of 150MW across the company’s pipeline of potential data center sites.\n\nAustralia-based X2M was founded in 2019 and is headquartered in Mount Waverley, Victoria, Australia. The company describes itself as a smart city technology company that delivers solutions to enhance productivity, reduce operational costs, and improve public safety for utility and government customers. The firm claims to have connected more than 500,000 devices supporting more than 90 customers across five geographic regions, and continues to expand its footprint.\n\nIn June this year, X2M announced a partnership with real estate firm Resi Ventures to develop data centers across regional Australia. The collaboration shared that it had completed settlement for land approximately 10 kilometers (6.2 miles) from Ballarat’s central business district in Victoria in July. Allegedly, the data center will be a high-density AI-enabled facility, with a potential capacity ranging from 10-100MW.",
+      "content": "Australian IoT company X2M Connect has established a dedicated data center subsidiary as it moves into the data center sphere.\n\nThe wholly owned subsidiary, named X2MDC, has been formed to contract and deliver high-density GPU-accelerated data centers. X2M’s planned pipeline of data center projects could reach up to 150MW.\n\nX2MDC operations will include commissioning, engineering, design, delivery, installation, and operation of data centers. It will also provide Software as a Service (SaaS) throughout the operating life of the facilities.\n\nThe subsidiary will provide two services: Platform Services, which consist of AI integration and management for data centers by bringing cooling, power, water, and environmental systems, and Managed Delivery, the end-to-end service from contracting to delivering a complete data center, including design, supplier selection, and long-term operations.\n\nThe company says it expects contracts to vary depending on customer requirements.\n\nX2M CEO Mohan Jesudason said: “X2MDC gives us a dedicated vehicle to execute on our pipeline of possible data center opportunities. X2M has spent more than a decade connecting and optimizing devices across water, gas and energy, and that is exactly the challenge for every AI facility being planned or built today.”\n\nHe added: “We are excited at the prospect of delivering services in association with some of the top providers in the world and offering a comprehensive platform and delivery service to land and data center owners across the country.\"\n\nThe formation of X2M’s dedicated data center subsidiary business follows a McKinsey report published in April 2026, which indicates an increase in Australian data center demand from 1.5GW in 2025 to as much as 5GW by 2030, which the management consulting firm expects will require up to AU$190bn (~US$135bn) of digital infrastructure investment.\n\n## **X2M signs a deal for an AI-enabled data center project**\n\nX2M signed a binding agreement to deliver an AI-enabled data center this week, just two days after forming its dedicated data center subsidiary.\n\nThe company has been contracted to provide a high-density GPU data center with an estimated project cost of more than AU$250m (~US$180m), with full delivery over a three-to-five-year period.\n\nThe customer is yet to be named and the location yet to be confirmed, and the company has said the agreement does not currently include a value for the data center power capacity to be deployed.\n\nThe customer contract is the first of X2M’s dedicated data center subsidiary business and will operate under the company’s Managed Delivery business model. It will consequently include the provision of services for engineering, design, supply, installation, commissioning, and operation of the data center.\n\nWithin the agreement, X2M is pre-approved to contract partners across telecommunications, energy systems, compute, AI chip, networking, and research. The agreement is conditional only on approval being given for the development of the data center.\n\nJesudason shared: “This agreement is transformational for X2M. We play a key role in the data center delivery, and that in turn creates a materially large business opportunity for us. We are excited at the prospect of delivering services from some of the top providers in the world and offering a comprehensive service to this customer and land and data center owners across the country.”\n\nThe contracted data center is part of X2M’s pipeline of potential Australian data centers, the majority of which will be located in Queensland. In some locations, facility development has already been approved. The data centers will range in size from 1MW upwards, with a target total of 150MW across the company’s pipeline of potential data center sites.\n\nAustralia-based X2M was founded in 2019 and is headquartered in Mount Waverley, Victoria, Australia. The company describes itself as a smart city technology company that delivers solutions to enhance productivity, reduce operational costs, and improve public safety for utility and government customers. The firm claims to have connected more than 500,000 devices supporting more than 90 customers across five geographic regions, and continues to expand its footprint.\n\nIn June this year, X2M announced a partnership with real estate firm Resi Ventures to develop data centers across regional Australia. The collaboration shared that it had completed settlement for land approximately 10 kilometers (6.2 miles) from Ballarat’s central business district in Victoria in July. Allegedly, the data center will be a high-density AI-enabled facility, with a potential capacity ranging from 10-100MW.",
       "content_url": "https://www.datacenterdynamics.com/en/news/x2m-sets-up-dedicated-data-center-subsidiary-and-signs-a-deal-for-data-center-project/"
     },
     {
@@ -157,8 +157,288 @@
       "companies": [
         "NVIDIA"
       ],
-      "content": "Nvidia is pausing some of its cloud revenue-sharing deals, in which it partners with cloud providers to set up AI compute clusters.\n\nAccording to a report from Wall Street Journal and citing people familiar with the matter, the company has halted some of these initiatives over concerns that it could lease to antitrust scrutiny.\n\n![Nvidia](https://media.datacenterdynamics.com/media/images/Nvidia_wk6Y1B5.width-358.jpg) \n\nNvidia announced plans for the revenue-sharing agreements in July 2026, in which the chip designer acts as a financial backstop for companies seeking to deploy large-scale clusters, in return for part of the revenue from operations.\n\nThe backstop also sees Nvidia agreeing to rent back unused GPUs at a fixed rate. Firmus and Sharon AI were among the first companies to have adopted the offer, with Firmus deploying 170,000 GPUs in Batam, Indonesia, and Sharon AI deploying 40,000 GB300 GPUs.\n\nAccording to WSJ, this is merely a pause on such deals, and the program has not been fully scrapped.\n\nDespite this, Nvidia told *DCD:* \"The new business model we introduced in July that opens up compute access to the fast-growing AI ecosystem is still in place and continues to evolve due to high demand.” \n\nThese reports emerged shortly after Nvidia posted its Q2 earnings, in which it saw revenue of $96.2bn, up 18 percent from the previous quarter and up 106 percent from a year ago, while GAAP and non-GAAP gross margins were both 75 percent.\n\nNotably, the earnings also showed that Nvidia disclosed $108.5 billion in guarantees and other agreements to enable AI cloud computing. $3.5bn was for land, power, and shell guarantees for AI clouds, while $105bn was toward SB Energy Corp for OpenAI's Ohio campus.",
+      "content": "Nvidia is pausing some of its cloud revenue-sharing deals, in which it partners with cloud providers to set up AI compute clusters.\n\nAccording to a report from Wall Street Journal and citing people familiar with the matter, the company has halted some of these initiatives over concerns that it could lease to antitrust scrutiny.\n\nNvidia announced plans for the revenue-sharing agreements in July 2026, in which the chip designer acts as a financial backstop for companies seeking to deploy large-scale clusters, in return for part of the revenue from operations.\n\nThe backstop also sees Nvidia agreeing to rent back unused GPUs at a fixed rate. Firmus and Sharon AI were among the first companies to have adopted the offer, with Firmus deploying 170,000 GPUs in Batam, Indonesia, and Sharon AI deploying 40,000 GB300 GPUs.\n\nAccording to WSJ, this is merely a pause on such deals, and the program has not been fully scrapped.\n\nDespite this, Nvidia told *DCD:* \"The new business model we introduced in July that opens up compute access to the fast-growing AI ecosystem is still in place and continues to evolve due to high demand.” \n\nThese reports emerged shortly after Nvidia posted its Q2 earnings, in which it saw revenue of $96.2bn, up 18 percent from the previous quarter and up 106 percent from a year ago, while GAAP and non-GAAP gross margins were both 75 percent.\n\nNotably, the earnings also showed that Nvidia disclosed $108.5 billion in guarantees and other agreements to enable AI cloud computing. $3.5bn was for land, power, and shell guarantees for AI clouds, while $105bn was toward SB Energy Corp for OpenAI's Ohio campus.",
       "content_url": "https://www.datacenterdynamics.com/en/news/nvidia-pauses-some-cloud-revenue-sharing-deals-report/"
+    },
+    {
+      "id": "2026-08-28-970a87",
+      "title": "Firmus, Nvidia, and the Circular AI Money Machine Coming to the ASX",
+      "summary": "Firmus, the Australian AI infrastructure company backed by NVIDIA, is heading toward an ASX listing amid scrutiny of the circular financing arrangements underpinning parts of the AI sector, where chipmakers invest in customers that in turn buy their hardware.",
+      "why_it_matters": "A public listing will subject the NVIDIA-investee model to Australian market disclosure and investor judgment for the first time, testing appetite for AI infrastructure stocks whose revenues trace back to their own backers. The outcome will signal whether public markets still reward the circular deal structures driving the AI buildout.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "investment",
+        "ipo"
+      ],
+      "published_at": "2026-08-28T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/chanticleer/firmus-nvidia-and-the-circular-ai-money-machine-coming-to-the-asx-20260828-p60si7",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Firmus",
+        "NVIDIA"
+      ],
+      "content": "ASX titan in waiting or the ultimate rort? Firmus tests Nvidia’s empire.\n\nThe reporting season’s most eye-catching number was Nvidia’s 70 per cent. Quarterly revenue is doubling year-on-year, annual revenue should hit $US400 billion ($557 billion) this year – roughly 10 times BHP’s revenue – and management expects another 70 per cent increase next year.\n\nAnother 70 per cent would get Nvidia to $US700 billion – a stonking 25-times increase in five years. It was Nvidia’s first full-year forward revenue guidance, and analysts are buying it. How is that next leg of growth possible? We’re about to get a decent peek.",
+      "content_url": "https://www.afr.com/chanticleer/firmus-nvidia-and-the-circular-ai-money-machine-coming-to-the-asx-20260828-p60si7",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-08-28-8bcc87",
+      "title": "'No Carve-Outs' for Queensland on Data Centres, Says Bowen",
+      "summary": "Australian Climate Change and Energy Minister Chris Bowen has ruled out any special treatment for Queensland on data center energy policy, insisting the state will receive no carve-outs from national rules.",
+      "why_it_matters": "The refusal sets a firm line that data center operators cannot shop between Australian states for softer energy or emissions treatment, forcing projects in Queensland to meet the same obligations as elsewhere. It signals Canberra intends to manage the sector's surging power demand through uniform national policy rather than state-level concessions.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "regulation",
+        "policy"
+      ],
+      "published_at": "2026-08-28T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/policy/energy-and-climate/no-carve-outs-for-queensland-on-data-centres-bowen-20260828-p60sdf",
+          "type": "html-list"
+        }
+      ],
+      "content": "Energy Minister Chris Bowen says the federal government’s new national data centre rules do not include carve-outs for Queensland and the Northern Territory to power their energy-hungry facilities exclusively with coal and gas.\n\nThe national standards agreed on Wednesday require data centres to invest in new renewable energy to offset their power demand, but also included a new clause that gives leeway to states with government-owned electricity assets.",
+      "content_url": "https://www.afr.com/policy/energy-and-climate/no-carve-outs-for-queensland-on-data-centres-bowen-20260828-p60sdf",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-08-28-cc759c",
+      "title": "Kerjaya Prospek to Keep 31% ES Sunlogy Stake, Eyes RM3b-Plus New Jobs in FY2026",
+      "summary": "Kerjaya Prospek Group Bhd (KL:KERJAYA) plans to maintain its 31% stake in ES Sunlogy Bhd (KL:SUNLOGY), with the aim of tapping the company’s expertise in semiconductor, data centre and power-grid projects.",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "construction",
+        "power"
+      ],
+      "published_at": "2026-08-28T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/816214",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Kerjaya Prospek",
+        "ES Sunlogy"
+      ],
+      "content": "KUALA LUMPUR (Aug 28): Kerjaya Prospek Group Bhd (KL:KERJAYA) plans to maintain its 31% stake in ES Sunlogy Bhd (KL:SUNLOGY), with the aim of tapping the company’s expertise in semiconductor, data centre and power-grid projects.\n\nKerjaya Prospek became ES Sunlogy’s largest shareholder after three acquisitions between July 16 and Aug 17, investing a total of RM64.3 million.\n\nIts chairman Datuk Seri Tee Eng Ho told reporters at the group's second-quarter earnings briefing on Friday that the group intends to keep the 31% stake for now. Kerjaya Prospek has worked with ES Sunlogy for about 10 years, with the latter serving as one of its subcontractors.\n\nES Sunlogy, which listed on Bursa Malaysia’s ACE Market in February 2025, provides high- and low-voltage electrical systems, extra-low-voltage systems, mechanical engineering services and solar energy solutions.\n\nDespite recent domestic political uncertainty, Tee said Kerjaya Prospek had not seen any impact on its construction tendering activities and orderbook replenishment.\n\n“No, so far no. Business is still going,” he said when asked whether domestic political uncertainty could delay construction tenders.\n\nOn its construction business, Kerjaya Prospek expressed confidence to clinch more than RM3 billion in new orders for FY2026, having secured about RM2.37 billion in new jobs so far this year.\n\nKerjaya Prospek had an outstanding construction order book of about RM5 billion as at end-June this year, of which around 58% or RM2.9 billion comprised related-party projects.\n\nOn rising operating costs, including raw materials such as copper and cement, Tee said the group's strategy is to work harder and secure new jobs with higher margins.\n\nCopper prices have risen about 16% this year so far. Copper was at about US$12,504 per tonne at end-2025, before rising to its peak of US$14,850 on Aug 17. It was traded at US$14,490 on Aug 27.\n\nKerjaya Prospek on Friday (Aug 28) reported a 22.6% year-on-year increase in second-quarter profit to RM66.67 million, despite revenue falling 25.3% to RM403.09 million.\n\nThe group attributed the earnings improvement mainly to prudent cost management and contributions from higher-margin projects. Its net profit margin improved to 16.54% in 2QFY2026 from 10.1% a year earlier.\n\nFor the first half of FY2026 (1HFY2026), its net profit rose 23% to RM 124 million from RM100.5 million a year ago, while revenue dropped 16% to RM849.9 million from RM1.01 billion.\n\nEdited ByPresenna Nambiar\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/816214",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-08-28-52487d",
+      "title": "Data Centres, Cloud Projects Make Up Nearly Half of Malaysia's RM218.5b Approved Investments in 1H2026 — Mida",
+      "summary": "Malaysia's approved investments reached RM218.5 billion in the first half of 2026, up 11.7% year-on-year, with data center and cloud-computing projects accounting for nearly half of the total, according to MIDA.",
+      "why_it_matters": "The figures confirm Malaysia's emergence as one of APAC's primary data center destinations, with digital infrastructure now dominating the national investment pipeline. That concentration raises both the stakes for power and land policy and the risk of overexposure if hyperscale demand cools.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "cloud",
+        "capacity",
+        "malaysia"
+      ],
+      "published_at": "2026-08-28T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/816173",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "MIDA"
+      ],
+      "content": "KUALA LUMPUR (Aug 28): Data centre and cloud-computing projects accounted for nearly half of Malaysia's approved investments in the first half of 2026 (1H2026), as overall approved investments rose 11.7% year-on-year to RM218.5 billion.\n\nData centre and cloud-computing projects attracted RM95.8 billion in investments during the six-month period, equivalent to nearly 44% of total approved investments, as demand for artificial intelligence (AI) computing power continued to grow across the region, the Malaysian Investment Development Authority (Mida) said in a statement on Friday.\n\nThe services sector accounted for the bulk of approved investments at RM149.6 billion or 68.5% of the total, followed by manufacturing at RM51.3 billion or 23.5%, and the primary sector at RM17.6 billion or 8%.\n\nWithin services, approved investments rose 21% year-on-year, while information and communications — which includes data centre and cloud-computing projects — surged 68.2% to RM103.3 billion.\n\nForeign investments rose 18.5% to RM126.9 billion and accounted for 58.1% of total approved investments, while domestic investments increased 3.5% to RM91.6 billion.\n\nThe US was the largest source of foreign investments at RM33.1 billion, followed by Singapore at RM25.9 billion, Japan at RM22.3 billion, China at RM16.5 billion and the Cayman Islands at RM4.1 billion. These five top foreign sources of investment accounted for more than 80% of approved foreign investments.\n\nBy location, Selangor attracted the most approved investments at RM70 billion across 835 projects, followed by Johor at RM59.4 billion, Kuala Lumpur at RM26.6 billion, Penang at RM20.2 billion and Sarawak at RM10.8 billion.\n\nMida chairman Tengku Datuk Seri Zafrul Abdul Aziz said the manufacturing sector saw semiconductor investment shift from back-end assembly towards front-end design and equipment, reflecting the implementation of the National Semiconductor Strategy.\n\n\"Guided by the New Industrial Master Plan 2030, Mida will continue to prioritise and implement investments that transfer technology, deepen local vendor participation and create high-value jobs for Malaysians,” he said.\n\nApproved manufacturing investments, however, fell 25.1% year-on-year to RM51.3 billion, although the number of projects surged 88.2% to 973.\n\nMida said the decline was due to unusually large investments of RM18.5 billion in basic metals, chemicals and non-metallic minerals approved in the first half of 2025. Excluding these projects, manufacturing investments would have grown 2.6%.\n\nDomestic manufacturing investments rose 23% to RM18.6 billion, while foreign investments accounted for RM32.7 billion or 63.8% of manufacturing approvals.\n\nMeanwhile, approved investments in the primary sector surged more than fivefold to RM17.6 billion from RM3.5 billion, driven entirely by 23 offshore oil and gas projects.\n\nThe first-half figure has already surpassed the RM14.2 billion approved for the primary sector for the whole of 2025.\n\nLooking ahead, Mida said it was reviewing 227 investment proposals worth RM72.1 billion as at Aug 10, comprising 128 services projects worth RM36.5 billion and 99 manufacturing projects worth RM35.6 billion.\n\nAnother RM58.4 billion worth of potential investments were under discussion, with the near-term pipeline concentrated in semiconductors, AI infrastructure, renewable energy and medical devices.\n\nOn the implementation of previously approved investments, Mida said 87% of the 5,822 manufacturing projects approved between 2021 and June 2026 had reached implementation stage, while 9.8% remained in the planning phase and 3.2% were not implemented.\n\nMore than 90% of manufacturing projects approved between 2021 and 2024 have been implemented, while the implementation rates for projects approved in 2025 and 1H2026 stood at 83.8% and 65.5%, respectively.\n\nMida chief executive officer Datuk Sikh Shamsul Ibrahim Sikh Abdul Majid said securing investment commitments was only part of Mida's role, as the agency also helps investors overcome regulatory and implementation hurdles to ensure approved projects materialise.\n\n\"Our engagement does not end at approvals: we stay involved to handhold projects and, through #InvestLokal, deepen the participation of SMEs and local vendors, so that each ringgit committed becomes real capacity and skilled employment for Malaysians,” he said.\n\nEdited ByPresenna Nambiar\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/816173",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-08-28-aea432",
+      "title": "SoftBank Seeks Another US$10b Loan for OpenAI Stake Funding",
+      "summary": "SoftBank Group Corp is seeking a US$10 billion (RM40.3 billion) loan, as it looks for more funding to help refinance debt used for its investment in US tech giant OpenAI, according to people familiar with the matter.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "funding"
+      ],
+      "published_at": "2026-08-28T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/816157",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "SoftBank",
+        "OpenAI"
+      ],
+      "content": "(Aug 28): SoftBank Group Corp is seeking a US$10 billion (RM40.3 billion) loan, as it looks for more funding to help refinance debt used for its investment in US tech giant OpenAI, according to people familiar with the matter.\n\nThe interest margin on the two-year facility would be around 275 basis point over the benchmark Secured Overnight Financing Rate, and Mizuho Bank Ltd is the mandated lead arranger and bookrunner, said the people, who asked not to be identified as the matter is private.\n\nThe loan would add to SoftBank’s flurry of recent debt financing activities tied to its bet on OpenAI, including a potential bond sale of as much as US$20 billion, despite concerns about growing credit risks in the artificial intelligence sector. SoftBank, founded and led by billionaire Masayoshi Son, is slated to invest close to US$65 billion in OpenAI by October.\n\nProceeds of the loan could partly be used to repay a US$40 billion bridge loan secured earlier this year for the OpenAI investments, the people said. Commitments are due Aug 31 and banks are already in talks to join, the people added.\n\nThe International Financing Review reported news of the deal earlier this week.\n\nSoftBank is also looking at tapping the bond market for additional funding. It’s considering US$10 billion to US$20 billion offering to help refinance the bridge loan, and it’s planning a record ¥1 trillion retail bond sale in its home market for its investment commitments to OpenAI.\n\nThe company earlier this month also secured a US$10 billion loan backed by its OpenAI stake, which includes covenants that may require it to post cash or repay early.\n\nSoftBank and Mizuho declined to comment.\n\nSoftBank’s borrowings come as US tech firms are planning to pour trillions of dollars into data centres and other AI infrastructure in the coming years. Companies have already borrowed more than US$410 billion so far this year for such facilities and other AI investments in the bond markets alone, according to data compiled by *Bloomberg News*.\n\n*Uploaded by Magessan Varatharaja*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/816157",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-08-28-50e73f",
+      "title": "Gamuda Lands Another RM3.57 Bil in Hyperscale Data Centre Jobs in Port Dickson",
+      "summary": "Gamuda Bhd has won contracts worth a combined RM3.57 billion to construct two hyperscale data centers in Port Dickson, Negeri Sembilan, extending its run of large digital infrastructure wins.",
+      "why_it_matters": "The awards spread Malaysia's data center growth beyond the established Johor and Klang Valley hubs, opening a new development corridor in Negeri Sembilan. For Gamuda, the contracts cement its transformation from a traditional builder into a major beneficiary of the hyperscale construction boom.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "hyperscale",
+        "construction",
+        "investment",
+        "capacity"
+      ],
+      "published_at": "2026-08-28T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/816137",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Gamuda"
+      ],
+      "content": "KUALA LUMPUR (Aug 28): Gamuda Bhd (KL:GAMUDA) on Friday said it has secured contracts worth a combined RM3.57 billion to build two hyperscale data centres in Port Dickson, Negeri Sembilan.\n\nIn a filing with Bursa Malaysia, the construction giant said the contracts were awarded to its wholly-owned subsidiary Gamuda Engineering Sdn Bhd (GESB) by a US-headquartered multinational technology company.\n\nThe scope of works covers the construction of two single-storey hyperscale data centre facilities, including site infrastructure, building core and shell construction, and mechanical, electrical and plumbing (MEP) fit-out works.\n\nThe first contract is worth RM1.79 billion, while the second is valued at RM1.78 billion.\n\nBoth projects are expected to commence in the fourth quarter of 2026. The first data centre is scheduled for completion in the third quarter of 2028, while the second is expected to be completed in the fourth quarter of 2028.\n\nThe latest awards mark Gamuda’s third hyperscale data centre construction job in Port Dickson this year.\n\nThe group previously secured a RM1.72 billion contract in April and another RM1.71 billion contract earlier this month for data centre construction in the same location.\n\nAs at end-April, Gamuda’s construction order book stood at RM52 billion.\n\nGamuda said the latest projects are expected to contribute positively to the group’s revenue and earnings for the financial year ending July 31, 2027 and thereafter until their completion.\n\nGamuda shares fell 11 sen, or 2.4%, to RM4.41 after the announcement, giving the group a market capitalisation of RM26.39 billion. The stock has fallen more than 11% since the start of the year.\n\nEdited ByPresenna Nambiar\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/816137",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-08-28-ac98d5",
+      "title": "CXMT's 570% Rally Raises Bar for First Earnings Since IPO",
+      "summary": "CXMT Corp’s first earnings as a public company will test whether its business can live up to a stock market debut that instantly made it China’s most valuable listed company.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "chips",
+        "semiconductors",
+        "earnings"
+      ],
+      "published_at": "2026-08-28T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/816129",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "CXMT"
+      ],
+      "content": "(Aug 28): CXMT Corp’s first earnings as a public company will test whether its business can live up to a stock market debut that instantly made it China’s most valuable listed company.\n\nShares of China’s homegrown memory chipmaker have jumped more than 570% since listing and remain within 10% of their peak, making it the most resilient market debut onshore this quarter, data compiled by *Bloomberg* show. They fell as much as 1.7% on Friday.  \n\nAs the world’s fourth-biggest DRAM producer, CXMT has become a symbol of China’s effort to reduce its reliance on foreign technology. Even after the surge, the stock still trades at a significant discount to global peers, Goldman Sachs Group Inc said. Closing that gap may depend on whether CXMT can show its profits are sustainable and its capacity expansion can deliver further growth.\n\n“It’s no longer a question of whether CXMT can generate exceptional profits,” said Wang Xi, chairman of Shenzhen-based investment firm Jiuxing Investment Co. “The quality and durability of those numbers, pace of spending, and tangible progress in high-bandwidth — those factors will drive earnings expectations and set its valuation anchor from here.”\n\nWang said investors are also turning more selective on memory stocks, looking for fresh evidence that validates the company’s business model and growth expectations.\n\nCXMT has forecast a strong first half, expecting revenue of 110 billion yuan (RM65.9 billion) to 120 billion yuan, at least double its first-quarter sales of 50.8 billion yuan, according to its prospectus. Net profit is seen at 50 billion yuan to 57 billion yuan, compared with 24.8 billion yuan in the three months through March. It’s set to report results on Friday.\n\nThat guidance helped fuel the stock’s blockbuster debut late July, when CXMT reached a market value of 3.3 trillion yuan. It went on to surpass Hong Kong-listed Tencent Holdings Ltd in the following days, becoming China’s largest listed company by market capitalisation.\n\nThere are signs that even blowout earnings may not be enough. SK Hynix Inc shares fell almost 10% after reporting a sixfold surge in quarterly profit. Samsung Electronics Co also declined after a sharp profit increase. Chinese memory firms including GigaDevice Semiconductor Inc and Shenzhen Techwinsemi Technology Co saw similarly muted or negative reactions to results or preliminary figures.\n\nThe reactions this week to Chinese hardware tech earnings have been subdued. Sharetronic Data Technology Co traded lower after reporting earnings that more than quadrupled. Victory Giant Technology Co shares fell more than 7% in Hong Kong following a revenue miss.\n\nThe “violent AI selloff” in July marked a shift in investor psychology, said Yang Tingwu, a fund manager at Fujian Tongheng Investment. Strong earnings may make a company’s valuation look cheaper, he said, but that is rarely a reason to turn bullish on a cyclical stock. “That’s just the market’s way of signaling peak earnings may be approaching.”\n\nCXMT trades at about 10 times estimated 2027 earnings, a “significant discount to global peers”, according to Goldman Sachs. The multiple is based on forecasts for net income to more than double to 361 billion yuan in 2027 from an estimated 161 billion yuan this year.\n\nCapacity will be central to that outlook. CXMT’s “very aggressive” investment plan will be an important factor as investors gauge the global memory supply-demand balance by 2028, Goldman analysts including Allen Chang wrote this week.\n\nThey expect CXMT’s scarcity value, product mix upgrades and role as a beneficiary of supplier diversification to help its earnings outpace the industry, underpinning their Street-high price target of 129 yuan. The shares traded at 58.36 yuan as of mid-day on Friday.\n\nCXMT’s reign at the top of China’s stock market may soon face a new challenger. Yangtze Memory Technologies Co, or YMTC, has joined the IPO pipeline with plans to raise 33 billion yuan on Shanghai’s Star board, more than the 30 billion yuan sought by CXMT.\n\nThe Wuhan-based company makes NAND flash memory, the storage technology used in solid-state drives and data centres. Like CXMT, it emerged from China’s state-led drive to reduce dependence on foreign technology and is now the country’s dominant player in the sector. YMTC ranks third globally by sales and output, according to its prospectus, while its net profit and net margin surpassed CXMT’s in the March quarter.\n\nThat could make YMTC an even bigger test of investor appetite for China’s memory-chip champions. NAND faces fewer manufacturing barriers, potentially giving YMTC more room to challenge global incumbents.\n\n“Valuations across hardware firms in China are propped up by the idea that self-sufficiency will create a large total addressable market,” said Morningstar Inc analyst Jing Jie Yu. “YMTC will probably start from a stronger competitive position than the rest.”\n\n*Uploaded by Felyx Teoh*\n\n \n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/816129",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-08-28-733bfd",
+      "title": "Dunham-Bush Industries Acquires 32 Acres at SPD Tech Valley for RM172 Mil Manufacturing Expansion",
+      "summary": "Dunham-Bush Industries Sdn Bhd will invest approximately RM172 million in the first phase of a new manufacturing facility at SPD Tech Valley in Senawang, Negeri Sembilan, as the heating, ventilation and air conditioning solutions manufacturer seeks to expand its production capacity in Malaysia.",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "cooling",
+        "manufacturing",
+        "supply-chain"
+      ],
+      "published_at": "2026-08-28T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/816119",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Dunham-Bush"
+      ],
+      "content": "KUALA LUMPUR (Aug 28): Dunham-Bush Industries Sdn Bhd will invest approximately RM172 million in the first phase of a new manufacturing facility at SPD Tech Valley in Senawang, Negeri Sembilan, as the heating, ventilation and air conditioning solutions manufacturer seeks to expand its production capacity in Malaysia.\n\nThe company signed a sale and purchase agreement with SPD Tech Valley Sdn Bhd, a wholly owned subsidiary of Seri Pajam Development Group (SPD Group), on Friday to acquire approximately 32 acres at the 523-acre freehold industrial park.\n\nPhase 1 is expected to create up to 400 jobs. Construction is targeted to begin in the first quarter of 2027, with operations expected to commence in the first quarter of 2028.\n\nThe new facility will aim to strengthen Dunham-Bush’s manufacturing capacity, serving Malaysian and international markets.\n\nDunham-Bush Industries managing director Yu Baoshuang said the company’s decision to locate at SPD Tech Valley was part of its next stage of expansion in Malaysia, adding that the company also saw opportunities from the growth of data centres and other high-value industries in Malaysia.\n\nPreviously, Dunham-Bush Industries established a manufacturing plant in Kajang, Selangor in 1998.\n\nSPD Group chief executive officer Ten Wee Seong said Dunham-Bush’s decision to locate its new facility at SPD Tech Valley marked another milestone for the industrial park. “Today marks another meaningful milestone for SPD Tech Valley, and we are pleased to welcome Dunham-Bush Industries. When we first planned SPD Tech Valley, our mission was to create a smart, sustainable and managed industrial park that supports the needs of modern global industry,” said Ten in an SPA signing ceremony held at Menara Merdeka Maybank.\n\nMeanwhile, Negeri Sembilan Menteri Besar Datuk Ismail Lasim said the SPA reflected investor confidence in the state and the partnership between the public and private sectors.\n\n“Today’s ceremony is more than a commercial agreement. It reflects confidence in Negeri Sembilan as an investment destination,” he said.\n\nIsmail said the state government was targeting RM30 billion in new investments over the next five years, with a focus on investments that bring technology, expertise, quality jobs and opportunities for local vendors and supply chains.\n\n“Our focus is not simply on capital investment. We want investments that bring technology, expertise, quality jobs and opportunities for local vendors and supply chains,” he said.\n\nHe also called on Dunham-Bush Industries to work with universities and technical and vocational education and training (TVET) institutions to develop talent and industry skills.\n\n“Global investors today look beyond land and cost. They consider infrastructure, connectivity, talent, utilities and the overall business ecosystem,” said Ismail.\n\nEdited ByRacheal Lee\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/816119",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-08-28-3b516c",
+      "title": "Chip Veteran Raises Malaysia's E&E Export Forecast to US$223 Bil",
+      "summary": "Malaysia’s chip industry chief raised his forecast for the nation’s electrical and electronics (E&E) exports this year to more than RM900 billion (US$223 billion), as demand fuelled by the global artificial-intelligence (AI) boom surpassed earlier expectations.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "chips",
+        "semiconductors",
+        "ai",
+        "exports"
+      ],
+      "published_at": "2026-08-28T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/816110",
+          "type": "html-list"
+        }
+      ],
+      "content": "(Aug 28): Malaysia’s chip industry chief raised his forecast for the nation’s electrical and electronics (E&E) exports this year to more than RM900 billion (US$223 billion), as demand fuelled by the global artificial-intelligence (AI) boom surpassed earlier expectations.\n\nAs recently as the second quarter, Malaysia Semiconductor Industry Association president Wong Siew Hai had forecast shipments of more than RM800 billion. E&E exports rose to RM711 billion in 2025 from RM601 billion the previous year.\n\nMalaysia’s tech exports jumped 44% in the first seven months of 2026 to about RM564 billion, accounting for roughly 48% of the country’s total shipments abroad, according to Wong. Semiconductors make up almost three-quarters of the category.\n\n“With this momentum, it’ll probably breach RM900 billion,” this year, Wong, who spent 27 years at Intel Corp, said in an interview on Friday. “Everybody is building AI infrastructure at every level.”\n\nThe AI boom and a shift in global supply chains are driving Malaysia’s electronics exports higher. Strong demand for semiconductors, servers and data-centre equipment has boosted orders for the country’s chip industry, while companies looking to reduce their reliance on China have expanded production in Malaysia. That investment is adding capacity in assembly, testing and packaging and pushing the industry into more advanced parts of the semiconductor supply chain.\n\n*Uploaded by Felyx Teoh*\n\n \n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/816110",
+      "published_precision": "day"
     },
     {
       "id": "2026-08-28-539515",
@@ -188,7 +468,7 @@
       "companies": [
         "Indosat"
       ],
-      "content": "Infra Fiber Teknologi (IFT), the digital infrastructure spin-off of Indosat Ooredoo Hutchison, has announced the launch of an AI-powered digital infrastructure platform.\n\nDubbed \"RAIA Grid,\" the platform aims to establish Indonesia's \"digital highway.\"\n\n![RAIA Grid (1)](https://media.datacenterdynamics.com/media/images/RAIA_Grid_1.width-358.jpg) \n\nIt comes after Indonesian telco Indosat spun off its fiber business last month to create IFT as an independent fiber infrastructure platform along with Indonesian investment firm Arsari Group.\n\nThe company operates more than 86,000km (53,437 miles) of fiber infrastructure across Indonesia. This is made up of backbone, domestic subsea, and access networks, as an independently governed, open-access platform.\n\nIFT will leverage its existing infrastructure as part of its RAIA Grid project.\n\nIFT's RAIA Grid will embed Machine Learning (ML), Artificial Intelligence (AI), and Agentic AI into how its infrastructure is planned, deployed, and operated, which the company notes makes it \"an AI-powered infrastructure platform by design.\"\n\nThese features will enable the company to \"support intelligent network planning and demand forecasting, optimize fiber routes and investment decisions, accelerate deployment through automation, and enable predictive maintenance and more autonomous network operations.\"\n\nAccording to IFT, its RAIA Grid platform is designed to support connectivity for 5G, fiber-to-the-home (FTTH), and data center-to-data center (DC-to-DC) connections.\n\nRAIA Grid is an open-access model that will serve telcos, data centers, cloud providers, hyperscalers, and enterprises to create infrastructure pathways that allow data and digital services to move efficiently across the country.\n\n“RAIA Grid is built with a clear strategic ambition: to become the digital superhighway connecting Indonesia’s increasingly complex digital ecosystem, from data center to data center, and ultimately connecting Indonesia to the world,\" said Hendri Mulya Syam, president director of RAIA Grid.\n\n\"We are creating the infrastructure layer that enables compute, data and intelligence to move seamlessly at scale, turning connectivity into a strategic advantage for Indonesia’s digital future.”\n\nVikram Sinha, CEO, Indosat, added that the RAIA Grid project ties into the company's Zankore by Indosat data center play, which was announced last month.\n\nThe carrier has paired with the wider Ooredoo Group, Nokia, and Nvidia to launch Zankore by Indosat as it aims to deploy up to 1GW of AI data center capacity.\n\n“The opportunity ahead is bigger than connectivity. RAIA Grid is building the highway that connects data centers, cloud platforms, businesses and AI infrastructure, creating the foundation for a full AI stack,\" said Sinha.\n\n\"By bringing together RAIA Grid, Indosat and Zankore, we are connecting the critical layers needed to make AI more real, scalable, and accessible across Indonesia. This convergence allows us to move beyond connecting infrastructure to connecting intelligence, creating new opportunities for businesses, industries, and people.”\n\nAryo Djojohadikusumo, deputy CEO and COO of Arsari Group, added: \"Our ambition is to build the capabilities Indonesia will need for the next era of computing and AI. We are looking beyond connectivity to support high-performance computing today, while laying the foundation for future capabilities, including supercomputer manufacturing in Indonesia. By building these capabilities here, we can strengthen Indonesia’s technological independence and create opportunities to compete on a global stage.”",
+      "content": "Infra Fiber Teknologi (IFT), the digital infrastructure spin-off of Indosat Ooredoo Hutchison, has announced the launch of an AI-powered digital infrastructure platform.\n\nDubbed \"RAIA Grid,\" the platform aims to establish Indonesia's \"digital highway.\"\n\nIt comes after Indonesian telco Indosat spun off its fiber business last month to create IFT as an independent fiber infrastructure platform along with Indonesian investment firm Arsari Group.\n\nThe company operates more than 86,000km (53,437 miles) of fiber infrastructure across Indonesia. This is made up of backbone, domestic subsea, and access networks, as an independently governed, open-access platform.\n\nIFT will leverage its existing infrastructure as part of its RAIA Grid project.\n\nIFT's RAIA Grid will embed Machine Learning (ML), Artificial Intelligence (AI), and Agentic AI into how its infrastructure is planned, deployed, and operated, which the company notes makes it \"an AI-powered infrastructure platform by design.\"\n\nThese features will enable the company to \"support intelligent network planning and demand forecasting, optimize fiber routes and investment decisions, accelerate deployment through automation, and enable predictive maintenance and more autonomous network operations.\"\n\nAccording to IFT, its RAIA Grid platform is designed to support connectivity for 5G, fiber-to-the-home (FTTH), and data center-to-data center (DC-to-DC) connections.\n\nRAIA Grid is an open-access model that will serve telcos, data centers, cloud providers, hyperscalers, and enterprises to create infrastructure pathways that allow data and digital services to move efficiently across the country.\n\n“RAIA Grid is built with a clear strategic ambition: to become the digital superhighway connecting Indonesia’s increasingly complex digital ecosystem, from data center to data center, and ultimately connecting Indonesia to the world,\" said Hendri Mulya Syam, president director of RAIA Grid.\n\n\"We are creating the infrastructure layer that enables compute, data and intelligence to move seamlessly at scale, turning connectivity into a strategic advantage for Indonesia’s digital future.”\n\nVikram Sinha, CEO, Indosat, added that the RAIA Grid project ties into the company's Zankore by Indosat data center play, which was announced last month.\n\nThe carrier has paired with the wider Ooredoo Group, Nokia, and Nvidia to launch Zankore by Indosat as it aims to deploy up to 1GW of AI data center capacity.\n\n“The opportunity ahead is bigger than connectivity. RAIA Grid is building the highway that connects data centers, cloud platforms, businesses and AI infrastructure, creating the foundation for a full AI stack,\" said Sinha.\n\n\"By bringing together RAIA Grid, Indosat and Zankore, we are connecting the critical layers needed to make AI more real, scalable, and accessible across Indonesia. This convergence allows us to move beyond connecting infrastructure to connecting intelligence, creating new opportunities for businesses, industries, and people.”\n\nAryo Djojohadikusumo, deputy CEO and COO of Arsari Group, added: \"Our ambition is to build the capabilities Indonesia will need for the next era of computing and AI. We are looking beyond connectivity to support high-performance computing today, while laying the foundation for future capabilities, including supercomputer manufacturing in Indonesia. By building these capabilities here, we can strengthen Indonesia’s technological independence and create opportunities to compete on a global stage.”",
       "content_url": "https://www.datacenterdynamics.com/en/news/indosats-infra-fiber-teknologi-spin-off-launches-ai-ready-raia-grid/"
     },
     {
@@ -261,64 +541,6 @@
       "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/nscale-secures-45-billion-ai-compute-contract-anthropic-reportedly-customer/133582567"
     },
     {
-      "id": "2026-08-28-ccc34d",
-      "title": "Armada Launches 10 MW Orion Modular Data Center for Sovereign AI",
-      "summary": "Modular AI infrastructure developer Armada has launched Orion, a 10 MW prefabricated data center designed for rapid deployment within existing structures. This development aims to support sovereign AI initiatives by providing scalable, high-density compute capacity.",
-      "why_it_matters": "",
-      "score": 48,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [
-        "ai",
-        "modular",
-        "capacity",
-        "sovereign-ai"
-      ],
-      "published_at": "2026-08-28T03:45:12Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/armada-launches-10-mw-orion-modular-data-center-for-sovereign-ai/133582441",
-          "type": "rss"
-        }
-      ],
-      "companies": [
-        "Armada"
-      ],
-      "content": "Modular AI infrastructure developer Armada has launched Orion, a 10 MW prefabricated data center designed for rapid deployment within existing structures. This development aims to support sovereign AI initiatives by providing scalable, high-density compute capacity.\n\nSelect ETDatacenters as Preferred Choice on Google\n\nHighlights\n\nArmada launched Orion, a 10 MW prefabricated data center for AI infrastructure.\n\nFossefall selected Armada to help build 1 GW of Nordic-owned AI capacity by 2030.\n\nOrion supports 2,880 GPUs across 40 racks, compatible with NVIDIA Blackwell.\n\nModular data center market is valued at US$34 billion, projected to reach US$75.77 billion by 2030.\n\nArmada, a developer of modular artificial intelligence (AI) infrastructure, has introduced Orion, a 10 megawatt (MW) prefabricated data center. This new unit is designed for deployment within existing structures, offering a solution for rapid AI infrastructure buildouts.The company has also been selected by Fossefall as a technology partner for its initiative to establish 1 gigawatt (GW) of Nordic-owned AI capacity by 2030. As part of this partnership, Armada will supply Fossefall with five Leviathan Galleons, each supporting a maximum of 1.77 MW of IT load.\n\nOrion’s Capacity and Design\n\nOrion is engineered to scale to hundreds of megawatts across distributed sites. Each unit integrates compute, networking, power, and cooling into a prefabricated six-module core. The system supports 2,880 graphics processing units (GPUs) across 40 racks and is compatible with NVIDIA Blackwell architecture, while also being Vera Rubin-ready. The units are designed to achieve N+1 redundancy.Dan Wright, Armada Co-founder and Chief Executive Officer, stated, \"AI infrastructure should be fast to deploy, easy to scale, and sovereign wherever it needs to live. Orion raises the ceiling on what a single deployment can deliver \" ten megawatts per unit, infinitely scalable, in months instead of years.\"Øyvind Vesterdal, Fossefall Chief Executive Officer, commented on the partnership, \"We selected Armada for its best-in-class technology, proven execution capabilities, and ability to significantly accelerate time to market. We were also keen to work with a strategic partner manufacturing in Europe, to provide a resilient supply chain and reduce exposure to global disruptions.\"\n\nModular Data Center Market Trend\n\nThe modular data center market is currently valued at an estimated US$34 billion, according to Grand View Research. Projections indicate a compound annual growth rate (CAGR) of 17.4% through 2030, with the market expected to reach US$75.77 billion. This growth is driven by increasing demand for compute capacity closer to the edge and the pursuit of sovereign AI capabilities.",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/armada-launches-10-mw-orion-modular-data-center-for-sovereign-ai/133582441"
-    },
-    {
-      "id": "2026-08-28-9c1187",
-      "title": "AI Demands Reshape Data Centre Battery Strategy",
-      "summary": "The increasing power demands of artificial intelligence (AI) are compelling data centres to redefine their battery strategies, moving beyond traditional backup roles. This shift integrates batteries into active energy management for enhanced resilience, flexibility, and sustainability.",
-      "why_it_matters": "",
-      "score": 45,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [
-        "ai",
-        "power",
-        "sustainability"
-      ],
-      "published_at": "2026-08-28T03:45:07Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/ai-demands-reshape-data-centre-battery-strategy/133582437",
-          "type": "rss"
-        }
-      ],
-      "content": "The increasing power demands of artificial intelligence (AI) are compelling data centres to redefine their battery strategies, moving beyond traditional backup roles. This shift integrates batteries into active energy management for enhanced resilience, flexibility, and sustainability.\n\nSelect ETDatacenters as Preferred Choice on Google\n\nHighlights\n\nAI workloads are pushing rack power densities from 132 kW towards 1 MW, redefining resilience needs.\n\nUPS systems must now protect cooling infrastructure like pumps and CDUs, not just IT loads.\n\nBatteries are evolving from backup to strategic assets, supporting peak shaving and grid services.\n\nEmerging battery technologies like sodium-ion and second-life EV batteries are being considered.\n\nThe escalating power requirements driven by artificial intelligence (AI) workloads are fundamentally reshaping how data centres approach battery infrastructure, moving beyond simple backup to strategic energy management for resilience, flexibility, and sustainability.Racks drawing 132 kW today are projected to push towards 1 MW in the near future, compelling a re-evaluation of data centre resilience strategies. Cooling systems, which can no longer rely solely on thermal ride-through, now require uninterrupted power supply (UPS) systems to safeguard pumps, cooling distribution units (CDUs), and control mechanisms, alongside traditional IT loads. This convergence is transforming cooling and power into an integrated design challenge.\n\nGrid Constraints and Demand Shifts\n\nThe UK’s grid connection queue, currently exceeding 700 GW against an available 81 GW, underscores the global challenge of securing adequate power. AI is not only increasing overall electricity consumption but also altering the nature of demand, with large graphics processing unit (GPU) clusters experiencing rapid ramp-up and ramp-down cycles. This dynamic demand profile necessitates a more strategic role for batteries.Batteries are evolving from passive backup components into active energy assets. This enables them to support critical functions such as peak shaving, optimising renewable energy consumption, and, where commercially viable, providing grid-balancing and flexibility services.\n\nBattery Technology Evolution and Strategy\n\nCurrent battery solutions predominantly include Valve Regulated Lead Acid (VRLA) and lithium-ion technologies. However, emerging options such as sodium-ion, flow batteries, and second-life electric vehicle (EV) batteries are being explored for their potential roles in data centre power infrastructure.Paul Lowbridge, General Sales Manager – Reserve & Renewable Power at GS Yuasa Battery Sales UK Ltd, emphasised that resilience in the AI era begins well before a power outage. He highlighted the importance of selecting the appropriate battery chemistry, integrating intelligent monitoring with proactive maintenance, and adopting a comprehensive whole-lifecycle approach to battery management.",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/ai-demands-reshape-data-centre-battery-strategy/133582437"
-    },
-    {
       "id": "2026-08-28-eb64cf",
       "title": "Singapore Launches Liquid Cooling Standard for Tropical Data Centers",
       "summary": "Singapore has published what it describes as the world's first national standard for liquid cooling in tropical data centers, targeting the high-density racks demanded by AI workloads. The standard addresses region-specific challenges such as equipment corrosion and reliability in hot, humid conditions.",
@@ -348,41 +570,8 @@
           "type": "rss"
         }
       ],
-      "content": "- **Liquid cooling can cut data-centre energy use by over 30%.**\n\nSingapore has introduced what the Infocomm Media Development Authority (IMDA) and Enterprise Singapore (EnterpriseSG) describe as the world’s first liquid-cooling standard for tropical data centres. The standard addresses facilities supporting high-density computing equipment used for AI and other advanced workloads.\n\nThe Singapore Standard SS 726:2026, titled *Liquid Cooling in Tropical Data Centres*, was developed by IMDA and EnterpriseSG through the Singapore Standards Council. The standard covers the planning, design, deployment, operation, maintenance, and risk management of liquid-cooled systems.\n\nIts foreword links the move toward liquid cooling with higher rack densities, noting that the data-centre industry is shifting from low-density to high-density racks with different infrastructure, space-planning, and operational requirements from conventional air-cooled systems. SS 726 also states that traditional air-cooling designs become less efficient as IT equipment increases in density and energy use. It builds on existing international liquid-cooling specifications while adding requirements and recommendations for systems operating under tropical temperatures and humidity.\n\n### AI racks push power higher\n\nNewer AI systems illustrate the amount of power that can now be concentrated within a single rack. Nvidia’s DGX GB200 NVL72, for example, combines 72 Blackwell GPUs and 36 Grace CPUs in one rack-scale system and has an approximate rack power consumption of 120kW.\n\nThe system uses liquid cooling for its CPUs and GPUs, while components including networking and storage equipment remain air cooled. Liquid runs through manifolds and cold plates attached to the processors.\n\nSS 726 addresses heat removal at the data-centre level, covering systems that use coolant to remove heat directly from components such as CPUs, GPUs, and tensor processing units. The standard does not cover rear-door systems that use liquid to remove heat from air behind equipment racks or other indirect liquid-cooling designs. Two-phase and hybrid single- and two-phase cooling systems are also outside its scope.\n\nAccording to SS 726, removing heat directly from heat-generating components can maintain lower and more stable operating temperatures than air cooling at comparable rack densities. It can also reduce server-fan power consumption and the risk of thermal throttling, where processors reduce performance as operating temperatures rise. A greater share of heat removed by liquid can also support denser equipment deployments while reducing residual heat released into the data hall.\n\nIMDA and EnterpriseSG said liquid cooling can reduce energy consumption at the data-centre level by more than 30% compared with traditional air cooling.\n\n### Cooling for tropical conditions\n\nSingapore’s tropical climate adds specific requirements to data-centre cooling design. SS 726 identifies high humidity and ambient temperatures that often exceed 30°C as conditions that require additional operational measures.\n\nCooling already represents a large part of data-centre energy use. IMDA has previously estimated that cooling systems can account for up to 40% of total energy consumption in a typical data centre, with warmer tropical conditions requiring additional energy to operate cooling systems.\n\nSingapore’s earlier Tropical Data Centre Standard allows facilities to operate safely at higher temperatures. IMDA said each 1°C increase in data-centre operating temperature can produce cooling-energy savings of around 2% to 5%.\n\nSS 726 covers systems that remove heat directly from increasingly dense IT equipment. The standard states that liquid-cooling systems designed for fluid temperatures above 40°C are suited to tropical environments because they can use higher coolant temperatures for heat rejection.\n\nThis can reduce reliance on energy-intensive chillers, according to the standard. Higher-temperature liquid also carries waste heat at a higher temperature than conventional hot-air recapture, which can make the recovered heat more suitable for reuse where practical.\n\nTropical conditions also introduce specific operational risks. IMDA and EnterpriseSG said high temperatures and humidity can contribute to equipment corrosion, which can affect cooling efficiency and system reliability.\n\nInstalling liquid-cooled computing equipment requires supporting infrastructure beyond the processors themselves. SS 726 covers liquid-cooling facilities and equipment, pre-deployment testing and commissioning, operations and maintenance, risk management, and sustainability indicators.\n\nThe standard includes different coolant distribution unit, or CDU, configurations, including rack-mounted systems and floor-mounted liquid-to-liquid and liquid-to-air units. CDUs connect computing equipment with the wider cooling infrastructure and manage the flow of coolant through the system.\n\nLiquid-cooled AI systems also require monitoring for coolant leaks and other cooling-system faults. Nvidia’s DGX GB systems, for example, incorporate leak detection to identify leaks before they damage equipment.\n\nSS 726 provides guidance on cooling fluids, materials, maintenance, and other operational risks. It also supports the integration of liquid cooling with existing air-cooled data centres, covering facilities that use both cooling methods.\n\nSS 726 also includes recommendations for measuring and optimising water use associated with liquid-cooling infrastructure.\n\nIMDA and EnterpriseSG developed the standard with input from industry, academia, and technical experts.\n\n“Liquid cooling is increasingly important to support the higher power densities required for AI and other advanced computing workloads, while improving cooling efficiency,” Aileen Chia, deputy chief executive at IMDA, said.\n\n### Singapore adds data-centre capacity\n\nSingapore has also provisionally allocated 200MW of new data-centre capacity to four operators under its second Data Centre Call for Application. IMDA and the Singapore Economic Development Board announced the allocations on August 21, 2026.\n\nThe application exercise was launched in December 2025, with the agencies identifying AI and data-centre investment among its objectives.\n\nFacilities selected under the programme must achieve a Power Usage Effectiveness (PUE) of 1.25 or better at full IT load. Applicants must also use equipment that meets or exceeds the energy-efficiency requirements in Singapore Standard SS 715:2025 and optimise equipment utilisation. At least 50% of the proposed new data-centre capacity must be powered through eligible green-energy pathways.\n\nSS 715:2025 sets energy-efficiency requirements for data-centre IT equipment and requires covered equipment to operate safely at temperatures of up to 35°C. It sits alongside SS 697:2023, which covers operating data centres at higher temperatures in tropical conditions.\n\nSS 726 extends that standards framework to liquid-cooling infrastructure, covering systems that remove heat directly from higher-density processors.\n\nSingapore’s Energy Market Authority (EMA) expects peak electricity demand to increase by between 2.4% and 4.8% annually over the next decade, reaching between 9.6GW and 11.4GW by 2031. EMA identified energy-intensive sectors including data centres and semiconductor manufacturing among the contributors to demand growth.\n\nThe authority has also awarded Tuas Power the right to build 670MW of additional generation capacity, scheduled to enter operation by December 2031.\n\nSS 726 complements Singapore’s Green Data Centre Roadmap, which IMDA introduced in 2024. The roadmap included plans to develop standards for IT equipment efficiency and liquid cooling.\n\n![](https://techwireasia.com/wp-content/uploads/2026/03/AI.png)\n\n**Want to learn more about AI and big data from industry leaders?** Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.\n\nTech Wire Asia is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.",
+      "content": "- **Liquid cooling can cut data-centre energy use by over 30%.**\n\nSingapore has introduced what the Infocomm Media Development Authority (IMDA) and Enterprise Singapore (EnterpriseSG) describe as the world’s first liquid-cooling standard for tropical data centres. The standard addresses facilities supporting high-density computing equipment used for AI and other advanced workloads.\n\nThe Singapore Standard SS 726:2026, titled *Liquid Cooling in Tropical Data Centres*, was developed by IMDA and EnterpriseSG through the Singapore Standards Council. The standard covers the planning, design, deployment, operation, maintenance, and risk management of liquid-cooled systems.\n\nIts foreword links the move toward liquid cooling with higher rack densities, noting that the data-centre industry is shifting from low-density to high-density racks with different infrastructure, space-planning, and operational requirements from conventional air-cooled systems. SS 726 also states that traditional air-cooling designs become less efficient as IT equipment increases in density and energy use. It builds on existing international liquid-cooling specifications while adding requirements and recommendations for systems operating under tropical temperatures and humidity.\n\n### AI racks push power higher\n\nNewer AI systems illustrate the amount of power that can now be concentrated within a single rack. Nvidia’s DGX GB200 NVL72, for example, combines 72 Blackwell GPUs and 36 Grace CPUs in one rack-scale system and has an approximate rack power consumption of 120kW.\n\nThe system uses liquid cooling for its CPUs and GPUs, while components including networking and storage equipment remain air cooled. Liquid runs through manifolds and cold plates attached to the processors.\n\nSS 726 addresses heat removal at the data-centre level, covering systems that use coolant to remove heat directly from components such as CPUs, GPUs, and tensor processing units. The standard does not cover rear-door systems that use liquid to remove heat from air behind equipment racks or other indirect liquid-cooling designs. Two-phase and hybrid single- and two-phase cooling systems are also outside its scope.\n\nAccording to SS 726, removing heat directly from heat-generating components can maintain lower and more stable operating temperatures than air cooling at comparable rack densities. It can also reduce server-fan power consumption and the risk of thermal throttling, where processors reduce performance as operating temperatures rise. A greater share of heat removed by liquid can also support denser equipment deployments while reducing residual heat released into the data hall.\n\nIMDA and EnterpriseSG said liquid cooling can reduce energy consumption at the data-centre level by more than 30% compared with traditional air cooling.\n\n### Cooling for tropical conditions\n\nSingapore’s tropical climate adds specific requirements to data-centre cooling design. SS 726 identifies high humidity and ambient temperatures that often exceed 30°C as conditions that require additional operational measures.\n\nCooling already represents a large part of data-centre energy use. IMDA has previously estimated that cooling systems can account for up to 40% of total energy consumption in a typical data centre, with warmer tropical conditions requiring additional energy to operate cooling systems.\n\nSingapore’s earlier Tropical Data Centre Standard allows facilities to operate safely at higher temperatures. IMDA said each 1°C increase in data-centre operating temperature can produce cooling-energy savings of around 2% to 5%.\n\nSS 726 covers systems that remove heat directly from increasingly dense IT equipment. The standard states that liquid-cooling systems designed for fluid temperatures above 40°C are suited to tropical environments because they can use higher coolant temperatures for heat rejection.\n\nThis can reduce reliance on energy-intensive chillers, according to the standard. Higher-temperature liquid also carries waste heat at a higher temperature than conventional hot-air recapture, which can make the recovered heat more suitable for reuse where practical.\n\nTropical conditions also introduce specific operational risks. IMDA and EnterpriseSG said high temperatures and humidity can contribute to equipment corrosion, which can affect cooling efficiency and system reliability.\n\nInstalling liquid-cooled computing equipment requires supporting infrastructure beyond the processors themselves. SS 726 covers liquid-cooling facilities and equipment, pre-deployment testing and commissioning, operations and maintenance, risk management, and sustainability indicators.\n\nThe standard includes different coolant distribution unit, or CDU, configurations, including rack-mounted systems and floor-mounted liquid-to-liquid and liquid-to-air units. CDUs connect computing equipment with the wider cooling infrastructure and manage the flow of coolant through the system.\n\nLiquid-cooled AI systems also require monitoring for coolant leaks and other cooling-system faults. Nvidia’s DGX GB systems, for example, incorporate leak detection to identify leaks before they damage equipment.\n\nSS 726 provides guidance on cooling fluids, materials, maintenance, and other operational risks. It also supports the integration of liquid cooling with existing air-cooled data centres, covering facilities that use both cooling methods.\n\nSS 726 also includes recommendations for measuring and optimising water use associated with liquid-cooling infrastructure.\n\nIMDA and EnterpriseSG developed the standard with input from industry, academia, and technical experts.\n\n“Liquid cooling is increasingly important to support the higher power densities required for AI and other advanced computing workloads, while improving cooling efficiency,” Aileen Chia, deputy chief executive at IMDA, said.\n\n### Singapore adds data-centre capacity\n\nSingapore has also provisionally allocated 200MW of new data-centre capacity to four operators under its second Data Centre Call for Application. IMDA and the Singapore Economic Development Board announced the allocations on August 21, 2026.\n\nThe application exercise was launched in December 2025, with the agencies identifying AI and data-centre investment among its objectives.\n\nFacilities selected under the programme must achieve a Power Usage Effectiveness (PUE) of 1.25 or better at full IT load. Applicants must also use equipment that meets or exceeds the energy-efficiency requirements in Singapore Standard SS 715:2025 and optimise equipment utilisation. At least 50% of the proposed new data-centre capacity must be powered through eligible green-energy pathways.\n\nSS 715:2025 sets energy-efficiency requirements for data-centre IT equipment and requires covered equipment to operate safely at temperatures of up to 35°C. It sits alongside SS 697:2023, which covers operating data centres at higher temperatures in tropical conditions.\n\nSS 726 extends that standards framework to liquid-cooling infrastructure, covering systems that remove heat directly from higher-density processors.\n\nSingapore’s Energy Market Authority (EMA) expects peak electricity demand to increase by between 2.4% and 4.8% annually over the next decade, reaching between 9.6GW and 11.4GW by 2031. EMA identified energy-intensive sectors including data centres and semiconductor manufacturing among the contributors to demand growth.\n\nThe authority has also awarded Tuas Power the right to build 670MW of additional generation capacity, scheduled to enter operation by December 2031.\n\nSS 726 complements Singapore’s Green Data Centre Roadmap, which IMDA introduced in 2024. The roadmap included plans to develop standards for IT equipment efficiency and liquid cooling.\n\n**Want to learn more about AI and big data from industry leaders?** Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.\n\nTech Wire Asia is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.",
       "content_url": "https://techwireasia.com/2026/08/singapore-liquid-cooling-standard-ai-data-centres/"
-    },
-    {
-      "id": "2026-08-28-c9829b",
-      "title": "Google's 1GW Vizag Data Centre to Anchor India AI Corridor",
-      "summary": "Google is building a US$15 billion, 1GW data center campus in Visakhapatnam, Andhra Pradesh, backed by Adani and Airtel, with the first phase targeted for mid-2028. The project cleared approvals quickly and is positioned as the anchor of a broader Indian AI corridor.",
-      "why_it_matters": "A gigawatt-scale commitment from Google gives India its largest single digital infrastructure bet and validates the country's pitch as an AI compute destination. The Adani-Airtel partnership model and fast-tracked approvals set a precedent other states will compete to replicate.",
-      "score": 80,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [
-        "ai",
-        "hyperscale",
-        "investment",
-        "capacity"
-      ],
-      "published_at": "2026-08-28T03:25:12Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/googles-1gw-vizag-data-centre-to-anchor-india-ai-corridor/133582220",
-          "type": "rss"
-        }
-      ],
-      "companies": [
-        "Google",
-        "Adani",
-        "Airtel"
-      ],
-      "content": "Google is establishing a $15 billion, 1GW data centre in Vizag, Andhra Pradesh, which is slated to become a key AI corridor in India. The project, backed by Adani and Airtel, received swift approvals, with its first phase expected by mid-2028. This development is anticipated to attract more technology firms to the region and significantly boost India's digital infrastructure.\n\nSelect ETDatacenters as Preferred Choice on Google\n\nHighlights\n\nGoogle commits $15 billion for a 1GW data centre in Vizag, India.\n\nThe project is set to establish Vizag as a key AI corridor.\n\nAdani and Airtel are backing the data centre development.\n\nFirst phase of the facility is expected to be operational by mid-2028.\n\nGoogle's $15 billion, 1GW data centre in Vizag, Andhra Pradesh, is positioned to anchor an emerging artificial intelligence (AI) corridor in India, according to reports. The project, which involves partnerships with Adani and Airtel, reportedly benefited from expedited approvals, with its initial phase targeted for completion by mid-2028.\n\nAI Corridor Development\n\nThe Vizag data centre is expected to serve as a foundational element for a new AI corridor, potentially drawing additional technology firms to the region. This initiative underscores the growing focus on developing robust digital infrastructure to support advanced computing needs in India.\n\nInvestment and Strategic Partnerships\n\nThe substantial investment by Google, coupled with the involvement of Adani and Airtel, highlights a collaborative effort to enhance India's data centre capacity. The rapid approval process for such a large-scale project indicates governmental support for digital infrastructure development, which could influence future investment timelines in other states.The first phase of the data centre is anticipated to be operational by mid-2028, contributing to India's overall AI compute capacity and positioning Vizag as a significant hub for data and AI infrastructure.",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/googles-1gw-vizag-data-centre-to-anchor-india-ai-corridor/133582220"
     },
     {
       "id": "2026-08-28-feb768",
@@ -510,309 +699,6 @@
       ],
       "content": "South Korean telecommunications major SK Telecom has launched SK Horizon, a new artificial intelligence data center (AI DC) company, with a combined KRW 3.08 trillion (~ US$ 2.2 billion) equity investment from KKR and the IMM Investment-Stonebridge consortium. The new entity aims to expand SKT's existing AI DC infrastructure and pursue phased expansion of submarine cable infrastructure, crucial for global AI businesses.\n\nSK Horizon will expand existing AI DC infrastructure to 318 MW across eight operational data centers.\n\nThe new entity will also pursue phased expansion of submarine cable infrastructure.\n\nSK Telecom retains 51% management control; KKR and IMM consortium hold 29% and 20% stakes.\n\nSK Hyper targets 5 GW by 2029 and 15 GW by 2035 for new AI data center projects.\n\nSouth Korean telecommunications major SK Telecom has announced the launch of SK Horizon, a new artificial intelligence data center (AI DC) company, which will operate and expand its existing AI DC infrastructure. The move is supported by a combined KRW 3.08 trillion (~ US$ 2.2 billion) equity investment from funds managed by KKR, a global investment firm, and the IMM Investment-Stonebridge consortium.SK Telecom will retain management control of SK Horizon with a 51 percent stake, while KKR and the IMM consortium will hold 29 percent and 20 percent stakes, respectively. This governance restructuring is intended to strengthen expertise and accelerate execution in the AI DC business, according to Kim Seong-soo, CEO of SK Broadband, who is expected to concurrently serve as CEO of SK Horizon.\n\nCapacity Expansion and Infrastructure Focus\n\nSK Horizon's mandate includes expanding its infrastructure to a total capacity of 318 MW, encompassing eight data centers already in operation across locations like Seocho, Ilsan, Bundang, Gasan, Centum, Yangju, and Pangyo. New AI DCs currently under construction, including those in Ulsan and Guro, will also fall under its purview. The company will also focus on the phased expansion of its submarine cable infrastructure, which is deemed essential for global AI businesses.The establishment of SK Horizon, alongside SK Hyper, a recently formed specialized company targeting 5 GW of capacity by 2029 and 15 GW by 2035 for new AI DC projects, completes SKT's full-scale AI DC business structure. SK Telecom expects this streamlined decision-making to enhance funding efforts for key business areas, including through external investment.\n\nInvestor Perspective\n\nKeith Kim, Partner at KKR, stated that Korea's advanced digital ecosystem and growing demand for AI capacity provide a strong foundation for SK Horizon's growth. KKR is making this investment primarily from its Asia Pacific infrastructure strategy, adding to its over USD 100 billion in infrastructure assets under management globally.Kim Byung-hun, Head of Infrastructure at IMM Investment, highlighted the importance of AI data centers and submarine cables for Korea's digital sovereignty and industrial competitiveness. The IMM Investment-Stonebridge Consortium, comprising IMM Investment and Stonebridge Capital, aims to build a sustainable growth structure by combining global and domestic capital strength.",
       "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/sk-telecom-launches-ai-dc-firm-sk-horizon-with-kkr-imm-investment/133582021"
-    },
-    {
-      "id": "2026-08-28-375372",
-      "title": "Yotta to Order 95,000 Nvidia GPUs for Delhi Data Center",
-      "summary": "Yotta Data Services is ordering roughly 50,000 NVIDIA Vera Rubin GPUs and 45,000 GB-300 GPUs — a package valued at about US$7.5 billion — to equip its upcoming 120MW D4 data center in Delhi. It is India's largest AI compute infrastructure investment to date.",
-      "why_it_matters": "The order moves India from aspirational talk about sovereign AI compute to committed hardware at hyperscale volumes, giving domestic enterprises and government programs local access to cutting-edge GPU capacity. It also tests whether India's power and data center ecosystem can support next-generation, high-density AI infrastructure.",
-      "score": 80,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [
-        "ai",
-        "chips",
-        "capacity",
-        "investment"
-      ],
-      "published_at": "2026-08-28T03:05:05Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/yotta-to-order-95000-nvidia-gpus-for-delhi-data-center/133582018",
-          "type": "rss"
-        }
-      ],
-      "companies": [
-        "Yotta Data Services",
-        "NVIDIA"
-      ],
-      "content": "Yotta Data Services is in the process of ordering 50,000 Nvidia Vera Rubin GPUs and 45,000 GB-300 GPUs, marking India's largest AI compute infrastructure investment to date. This acquisition, valued at approximately $7.5 billion, will power Yotta's upcoming 120 megawatt (MW) D4 data center in Delhi, significantly expanding the country's capacity for advanced AI workloads.\n\nSelect ETDatacenters as Preferred Choice on Google\n\nHighlights\n\nYotta plans to acquire 50,000 Nvidia Vera Rubin GPUs and 45,000 GB-300 GPUs.\n\nThe Vera Rubin chip acquisition, including networking, is valued at $7.5 billion.\n\nAn additional $750 million is allocated for data center construction in Delhi.\n\nThese GPUs will power Yotta's 120 MW D4 data center in Delhi, going live by 2027.\n\nYotta Data Services is in the process of ordering 50,000 Nvidia Vera Rubin graphics processing units (GPUs) and an additional 45,000 GB-300 GPUs, which are part of Nvidia’s Blackwell family architecture and represent the company’s latest offerings. This procurement, estimated at around $7.5 billion for the Vera Rubin chips, networking, and associated equipment, will be the largest GPU order in India to date, according to Yotta Data Services Cofounder, Managing Director (MD), and Chief Executive Officer (CEO) Sunil Gupta.An additional $750 million will be required for the construction of the data center infrastructure. The new GPUs are slated to power Yotta’s upcoming 120 MW D4 data center in Delhi. The D4 facility is projected to go live between May and August 2027, with GPU deliveries expected around March to June 2027.\n\nAI Compute Capacity Boost\n\nThe Vera Rubin GPUs are designed for agentic artificial intelligence (AI), enabling advanced models to utilise tools and execute complex, multi-step problem-solving. These next-generation GPUs offer 10x higher efficiency than the previous Blackwell architecture, delivering 5x faster inference and 3.5x improved training capabilities. The graphic chips use a 3 nanometre manufacturing process, enhancing data memory speeds beyond 1,500 terabytes per second and significantly lowering the cost per token.Previously, Hyderabad-based AMI Intelligence, part of the Greenko group, had placed a binding order for 9,000 Vera Rubin GPUs for its intelligent factory in Hyderabad. Yotta’s current order, once finalised, will surpass this, establishing a new benchmark for AI compute investment in India.",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/yotta-to-order-95000-nvidia-gpus-for-delhi-data-center/133582018"
-    },
-    {
-      "id": "2026-08-28-970a87",
-      "title": "Firmus, Nvidia, and the Circular AI Money Machine Coming to the ASX",
-      "summary": "Firmus, the Australian AI infrastructure company backed by NVIDIA, is heading toward an ASX listing amid scrutiny of the circular financing arrangements underpinning parts of the AI sector, where chipmakers invest in customers that in turn buy their hardware.",
-      "why_it_matters": "A public listing will subject the NVIDIA-investee model to Australian market disclosure and investor judgment for the first time, testing appetite for AI infrastructure stocks whose revenues trace back to their own backers. The outcome will signal whether public markets still reward the circular deal structures driving the AI buildout.",
-      "score": 75,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "ai",
-        "chips",
-        "investment",
-        "ipo"
-      ],
-      "published_at": "2026-08-28T00:00:00Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/chanticleer/firmus-nvidia-and-the-circular-ai-money-machine-coming-to-the-asx-20260828-p60si7",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Firmus",
-        "NVIDIA"
-      ],
-      "content": "ASX titan in waiting or the ultimate rort? Firmus tests Nvidia’s empire.\n\nThe reporting season’s most eye-catching number was Nvidia’s 70 per cent. Quarterly revenue is doubling year-on-year, annual revenue should hit $US400 billion ($557 billion) this year – roughly 10 times BHP’s revenue – and management expects another 70 per cent increase next year.\n\nAnother 70 per cent would get Nvidia to $US700 billion – a stonking 25-times increase in five years. It was Nvidia’s first full-year forward revenue guidance, and analysts are buying it. How is that next leg of growth possible? We’re about to get a decent peek.",
-      "content_url": "https://www.afr.com/chanticleer/firmus-nvidia-and-the-circular-ai-money-machine-coming-to-the-asx-20260828-p60si7"
-    },
-    {
-      "id": "2026-08-28-8bcc87",
-      "title": "'No Carve-Outs' for Queensland on Data Centres, Says Bowen",
-      "summary": "Australian Climate Change and Energy Minister Chris Bowen has ruled out any special treatment for Queensland on data center energy policy, insisting the state will receive no carve-outs from national rules.",
-      "why_it_matters": "The refusal sets a firm line that data center operators cannot shop between Australian states for softer energy or emissions treatment, forcing projects in Queensland to meet the same obligations as elsewhere. It signals Canberra intends to manage the sector's surging power demand through uniform national policy rather than state-level concessions.",
-      "score": 70,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "regulation",
-        "policy"
-      ],
-      "published_at": "2026-08-28T00:00:00Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/policy/energy-and-climate/no-carve-outs-for-queensland-on-data-centres-bowen-20260828-p60sdf",
-          "type": "html-list"
-        }
-      ],
-      "content": "Energy Minister Chris Bowen says the federal government’s new national data centre rules do not include carve-outs for Queensland and the Northern Territory to power their energy-hungry facilities exclusively with coal and gas.\n\nThe national standards agreed on Wednesday require data centres to invest in new renewable energy to offset their power demand, but also included a new clause that gives leeway to states with government-owned electricity assets.",
-      "content_url": "https://www.afr.com/policy/energy-and-climate/no-carve-outs-for-queensland-on-data-centres-bowen-20260828-p60sdf"
-    },
-    {
-      "id": "2026-08-28-cc759c",
-      "title": "Kerjaya Prospek to Keep 31% ES Sunlogy Stake, Eyes RM3b-Plus New Jobs in FY2026",
-      "summary": "Kerjaya Prospek Group Bhd (KL:KERJAYA) plans to maintain its 31% stake in ES Sunlogy Bhd (KL:SUNLOGY), with the aim of tapping the company’s expertise in semiconductor, data centre and power-grid projects.",
-      "why_it_matters": "",
-      "score": 50,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "investment",
-        "construction",
-        "power"
-      ],
-      "published_at": "2026-08-28T00:00:00Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/816214",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Kerjaya Prospek",
-        "ES Sunlogy"
-      ],
-      "content": "KUALA LUMPUR (Aug 28): Kerjaya Prospek Group Bhd (KL:KERJAYA) plans to maintain its 31% stake in ES Sunlogy Bhd (KL:SUNLOGY), with the aim of tapping the company’s expertise in semiconductor, data centre and power-grid projects.\n\nKerjaya Prospek became ES Sunlogy’s largest shareholder after three acquisitions between July 16 and Aug 17, investing a total of RM64.3 million.\n\nIts chairman Datuk Seri Tee Eng Ho told reporters at the group's second-quarter earnings briefing on Friday that the group intends to keep the 31% stake for now. Kerjaya Prospek has worked with ES Sunlogy for about 10 years, with the latter serving as one of its subcontractors.\n\nES Sunlogy, which listed on Bursa Malaysia’s ACE Market in February 2025, provides high- and low-voltage electrical systems, extra-low-voltage systems, mechanical engineering services and solar energy solutions.\n\nDespite recent domestic political uncertainty, Tee said Kerjaya Prospek had not seen any impact on its construction tendering activities and orderbook replenishment.\n\n“No, so far no. Business is still going,” he said when asked whether domestic political uncertainty could delay construction tenders.\n\nOn its construction business, Kerjaya Prospek expressed confidence to clinch more than RM3 billion in new orders for FY2026, having secured about RM2.37 billion in new jobs so far this year.\n\nKerjaya Prospek had an outstanding construction order book of about RM5 billion as at end-June this year, of which around 58% or RM2.9 billion comprised related-party projects.\n\nOn rising operating costs, including raw materials such as copper and cement, Tee said the group's strategy is to work harder and secure new jobs with higher margins.\n\nCopper prices have risen about 16% this year so far. Copper was at about US$12,504 per tonne at end-2025, before rising to its peak of US$14,850 on Aug 17. It was traded at US$14,490 on Aug 27.\n\nKerjaya Prospek on Friday (Aug 28) reported a 22.6% year-on-year increase in second-quarter profit to RM66.67 million, despite revenue falling 25.3% to RM403.09 million.\n\nThe group attributed the earnings improvement mainly to prudent cost management and contributions from higher-margin projects. Its net profit margin improved to 16.54% in 2QFY2026 from 10.1% a year earlier.\n\nFor the first half of FY2026 (1HFY2026), its net profit rose 23% to RM 124 million from RM100.5 million a year ago, while revenue dropped 16% to RM849.9 million from RM1.01 billion.\n\nEdited ByPresenna Nambiar\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/816214"
-    },
-    {
-      "id": "2026-08-28-52487d",
-      "title": "Data Centres, Cloud Projects Make Up Nearly Half of Malaysia's RM218.5b Approved Investments in 1H2026 — Mida",
-      "summary": "Malaysia's approved investments reached RM218.5 billion in the first half of 2026, up 11.7% year-on-year, with data center and cloud-computing projects accounting for nearly half of the total, according to MIDA.",
-      "why_it_matters": "The figures confirm Malaysia's emergence as one of APAC's primary data center destinations, with digital infrastructure now dominating the national investment pipeline. That concentration raises both the stakes for power and land policy and the risk of overexposure if hyperscale demand cools.",
-      "score": 85,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "investment",
-        "cloud",
-        "capacity",
-        "malaysia"
-      ],
-      "published_at": "2026-08-28T00:00:00Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/816173",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "MIDA"
-      ],
-      "content": "KUALA LUMPUR (Aug 28): Data centre and cloud-computing projects accounted for nearly half of Malaysia's approved investments in the first half of 2026 (1H2026), as overall approved investments rose 11.7% year-on-year to RM218.5 billion.\n\nData centre and cloud-computing projects attracted RM95.8 billion in investments during the six-month period, equivalent to nearly 44% of total approved investments, as demand for artificial intelligence (AI) computing power continued to grow across the region, the Malaysian Investment Development Authority (Mida) said in a statement on Friday.\n\nThe services sector accounted for the bulk of approved investments at RM149.6 billion or 68.5% of the total, followed by manufacturing at RM51.3 billion or 23.5%, and the primary sector at RM17.6 billion or 8%.\n\nWithin services, approved investments rose 21% year-on-year, while information and communications — which includes data centre and cloud-computing projects — surged 68.2% to RM103.3 billion.\n\nForeign investments rose 18.5% to RM126.9 billion and accounted for 58.1% of total approved investments, while domestic investments increased 3.5% to RM91.6 billion.\n\nThe US was the largest source of foreign investments at RM33.1 billion, followed by Singapore at RM25.9 billion, Japan at RM22.3 billion, China at RM16.5 billion and the Cayman Islands at RM4.1 billion. These five top foreign sources of investment accounted for more than 80% of approved foreign investments.\n\nBy location, Selangor attracted the most approved investments at RM70 billion across 835 projects, followed by Johor at RM59.4 billion, Kuala Lumpur at RM26.6 billion, Penang at RM20.2 billion and Sarawak at RM10.8 billion.\n\nMida chairman Tengku Datuk Seri Zafrul Abdul Aziz said the manufacturing sector saw semiconductor investment shift from back-end assembly towards front-end design and equipment, reflecting the implementation of the National Semiconductor Strategy.\n\n\"Guided by the New Industrial Master Plan 2030, Mida will continue to prioritise and implement investments that transfer technology, deepen local vendor participation and create high-value jobs for Malaysians,” he said.\n\nApproved manufacturing investments, however, fell 25.1% year-on-year to RM51.3 billion, although the number of projects surged 88.2% to 973.\n\nMida said the decline was due to unusually large investments of RM18.5 billion in basic metals, chemicals and non-metallic minerals approved in the first half of 2025. Excluding these projects, manufacturing investments would have grown 2.6%.\n\nDomestic manufacturing investments rose 23% to RM18.6 billion, while foreign investments accounted for RM32.7 billion or 63.8% of manufacturing approvals.\n\nMeanwhile, approved investments in the primary sector surged more than fivefold to RM17.6 billion from RM3.5 billion, driven entirely by 23 offshore oil and gas projects.\n\nThe first-half figure has already surpassed the RM14.2 billion approved for the primary sector for the whole of 2025.\n\nLooking ahead, Mida said it was reviewing 227 investment proposals worth RM72.1 billion as at Aug 10, comprising 128 services projects worth RM36.5 billion and 99 manufacturing projects worth RM35.6 billion.\n\nAnother RM58.4 billion worth of potential investments were under discussion, with the near-term pipeline concentrated in semiconductors, AI infrastructure, renewable energy and medical devices.\n\nOn the implementation of previously approved investments, Mida said 87% of the 5,822 manufacturing projects approved between 2021 and June 2026 had reached implementation stage, while 9.8% remained in the planning phase and 3.2% were not implemented.\n\nMore than 90% of manufacturing projects approved between 2021 and 2024 have been implemented, while the implementation rates for projects approved in 2025 and 1H2026 stood at 83.8% and 65.5%, respectively.\n\nMida chief executive officer Datuk Sikh Shamsul Ibrahim Sikh Abdul Majid said securing investment commitments was only part of Mida's role, as the agency also helps investors overcome regulatory and implementation hurdles to ensure approved projects materialise.\n\n\"Our engagement does not end at approvals: we stay involved to handhold projects and, through #InvestLokal, deepen the participation of SMEs and local vendors, so that each ringgit committed becomes real capacity and skilled employment for Malaysians,” he said.\n\nEdited ByPresenna Nambiar\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/816173"
-    },
-    {
-      "id": "2026-08-28-aea432",
-      "title": "SoftBank Seeks Another US$10b Loan for OpenAI Stake Funding",
-      "summary": "SoftBank Group Corp is seeking a US$10 billion (RM40.3 billion) loan, as it looks for more funding to help refinance debt used for its investment in US tech giant OpenAI, according to people familiar with the matter.",
-      "why_it_matters": "",
-      "score": 60,
-      "heat": 1,
-      "regions": [
-        "japan",
-        "global"
-      ],
-      "topics": [
-        "ai",
-        "investment",
-        "funding"
-      ],
-      "published_at": "2026-08-28T00:00:00Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/816157",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "SoftBank",
-        "OpenAI"
-      ],
-      "content": "(Aug 28): SoftBank Group Corp is seeking a US$10 billion (RM40.3 billion) loan, as it looks for more funding to help refinance debt used for its investment in US tech giant OpenAI, according to people familiar with the matter.\n\nThe interest margin on the two-year facility would be around 275 basis point over the benchmark Secured Overnight Financing Rate, and Mizuho Bank Ltd is the mandated lead arranger and bookrunner, said the people, who asked not to be identified as the matter is private.\n\nThe loan would add to SoftBank’s flurry of recent debt financing activities tied to its bet on OpenAI, including a potential bond sale of as much as US$20 billion, despite concerns about growing credit risks in the artificial intelligence sector. SoftBank, founded and led by billionaire Masayoshi Son, is slated to invest close to US$65 billion in OpenAI by October.\n\nProceeds of the loan could partly be used to repay a US$40 billion bridge loan secured earlier this year for the OpenAI investments, the people said. Commitments are due Aug 31 and banks are already in talks to join, the people added.\n\nThe International Financing Review reported news of the deal earlier this week.\n\nSoftBank is also looking at tapping the bond market for additional funding. It’s considering US$10 billion to US$20 billion offering to help refinance the bridge loan, and it’s planning a record ¥1 trillion retail bond sale in its home market for its investment commitments to OpenAI.\n\nThe company earlier this month also secured a US$10 billion loan backed by its OpenAI stake, which includes covenants that may require it to post cash or repay early.\n\nSoftBank and Mizuho declined to comment.\n\nSoftBank’s borrowings come as US tech firms are planning to pour trillions of dollars into data centres and other AI infrastructure in the coming years. Companies have already borrowed more than US$410 billion so far this year for such facilities and other AI investments in the bond markets alone, according to data compiled by *Bloomberg News*.\n\n*Uploaded by Magessan Varatharaja*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/816157"
-    },
-    {
-      "id": "2026-08-28-50e73f",
-      "title": "Gamuda Lands Another RM3.57 Bil in Hyperscale Data Centre Jobs in Port Dickson",
-      "summary": "Gamuda Bhd has won contracts worth a combined RM3.57 billion to construct two hyperscale data centers in Port Dickson, Negeri Sembilan, extending its run of large digital infrastructure wins.",
-      "why_it_matters": "The awards spread Malaysia's data center growth beyond the established Johor and Klang Valley hubs, opening a new development corridor in Negeri Sembilan. For Gamuda, the contracts cement its transformation from a traditional builder into a major beneficiary of the hyperscale construction boom.",
-      "score": 85,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "hyperscale",
-        "construction",
-        "investment",
-        "capacity"
-      ],
-      "published_at": "2026-08-28T00:00:00Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/816137",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Gamuda"
-      ],
-      "content": "KUALA LUMPUR (Aug 28): Gamuda Bhd (KL:GAMUDA) on Friday said it has secured contracts worth a combined RM3.57 billion to build two hyperscale data centres in Port Dickson, Negeri Sembilan.\n\nIn a filing with Bursa Malaysia, the construction giant said the contracts were awarded to its wholly-owned subsidiary Gamuda Engineering Sdn Bhd (GESB) by a US-headquartered multinational technology company.\n\nThe scope of works covers the construction of two single-storey hyperscale data centre facilities, including site infrastructure, building core and shell construction, and mechanical, electrical and plumbing (MEP) fit-out works.\n\nThe first contract is worth RM1.79 billion, while the second is valued at RM1.78 billion.\n\nBoth projects are expected to commence in the fourth quarter of 2026. The first data centre is scheduled for completion in the third quarter of 2028, while the second is expected to be completed in the fourth quarter of 2028.\n\nThe latest awards mark Gamuda’s third hyperscale data centre construction job in Port Dickson this year.\n\nThe group previously secured a RM1.72 billion contract in April and another RM1.71 billion contract earlier this month for data centre construction in the same location.\n\nAs at end-April, Gamuda’s construction order book stood at RM52 billion.\n\nGamuda said the latest projects are expected to contribute positively to the group’s revenue and earnings for the financial year ending July 31, 2027 and thereafter until their completion.\n\nGamuda shares fell 11 sen, or 2.4%, to RM4.41 after the announcement, giving the group a market capitalisation of RM26.39 billion. The stock has fallen more than 11% since the start of the year.\n\nEdited ByPresenna Nambiar\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/816137"
-    },
-    {
-      "id": "2026-08-28-ac98d5",
-      "title": "CXMT's 570% Rally Raises Bar for First Earnings Since IPO",
-      "summary": "CXMT Corp’s first earnings as a public company will test whether its business can live up to a stock market debut that instantly made it China’s most valuable listed company.",
-      "why_it_matters": "",
-      "score": 55,
-      "heat": 1,
-      "regions": [
-        "china"
-      ],
-      "topics": [
-        "chips",
-        "semiconductors",
-        "earnings"
-      ],
-      "published_at": "2026-08-28T00:00:00Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/816129",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "CXMT"
-      ],
-      "content": "(Aug 28): CXMT Corp’s first earnings as a public company will test whether its business can live up to a stock market debut that instantly made it China’s most valuable listed company.\n\nShares of China’s homegrown memory chipmaker have jumped more than 570% since listing and remain within 10% of their peak, making it the most resilient market debut onshore this quarter, data compiled by *Bloomberg* show. They fell as much as 1.7% on Friday.  \n\nAs the world’s fourth-biggest DRAM producer, CXMT has become a symbol of China’s effort to reduce its reliance on foreign technology. Even after the surge, the stock still trades at a significant discount to global peers, Goldman Sachs Group Inc said. Closing that gap may depend on whether CXMT can show its profits are sustainable and its capacity expansion can deliver further growth.\n\n“It’s no longer a question of whether CXMT can generate exceptional profits,” said Wang Xi, chairman of Shenzhen-based investment firm Jiuxing Investment Co. “The quality and durability of those numbers, pace of spending, and tangible progress in high-bandwidth — those factors will drive earnings expectations and set its valuation anchor from here.”\n\nWang said investors are also turning more selective on memory stocks, looking for fresh evidence that validates the company’s business model and growth expectations.\n\nCXMT has forecast a strong first half, expecting revenue of 110 billion yuan (RM65.9 billion) to 120 billion yuan, at least double its first-quarter sales of 50.8 billion yuan, according to its prospectus. Net profit is seen at 50 billion yuan to 57 billion yuan, compared with 24.8 billion yuan in the three months through March. It’s set to report results on Friday.\n\nThat guidance helped fuel the stock’s blockbuster debut late July, when CXMT reached a market value of 3.3 trillion yuan. It went on to surpass Hong Kong-listed Tencent Holdings Ltd in the following days, becoming China’s largest listed company by market capitalisation.\n\nThere are signs that even blowout earnings may not be enough. SK Hynix Inc shares fell almost 10% after reporting a sixfold surge in quarterly profit. Samsung Electronics Co also declined after a sharp profit increase. Chinese memory firms including GigaDevice Semiconductor Inc and Shenzhen Techwinsemi Technology Co saw similarly muted or negative reactions to results or preliminary figures.\n\nThe reactions this week to Chinese hardware tech earnings have been subdued. Sharetronic Data Technology Co traded lower after reporting earnings that more than quadrupled. Victory Giant Technology Co shares fell more than 7% in Hong Kong following a revenue miss.\n\nThe “violent AI selloff” in July marked a shift in investor psychology, said Yang Tingwu, a fund manager at Fujian Tongheng Investment. Strong earnings may make a company’s valuation look cheaper, he said, but that is rarely a reason to turn bullish on a cyclical stock. “That’s just the market’s way of signaling peak earnings may be approaching.”\n\nCXMT trades at about 10 times estimated 2027 earnings, a “significant discount to global peers”, according to Goldman Sachs. The multiple is based on forecasts for net income to more than double to 361 billion yuan in 2027 from an estimated 161 billion yuan this year.\n\nCapacity will be central to that outlook. CXMT’s “very aggressive” investment plan will be an important factor as investors gauge the global memory supply-demand balance by 2028, Goldman analysts including Allen Chang wrote this week.\n\nThey expect CXMT’s scarcity value, product mix upgrades and role as a beneficiary of supplier diversification to help its earnings outpace the industry, underpinning their Street-high price target of 129 yuan. The shares traded at 58.36 yuan as of mid-day on Friday.\n\nCXMT’s reign at the top of China’s stock market may soon face a new challenger. Yangtze Memory Technologies Co, or YMTC, has joined the IPO pipeline with plans to raise 33 billion yuan on Shanghai’s Star board, more than the 30 billion yuan sought by CXMT.\n\nThe Wuhan-based company makes NAND flash memory, the storage technology used in solid-state drives and data centres. Like CXMT, it emerged from China’s state-led drive to reduce dependence on foreign technology and is now the country’s dominant player in the sector. YMTC ranks third globally by sales and output, according to its prospectus, while its net profit and net margin surpassed CXMT’s in the March quarter.\n\nThat could make YMTC an even bigger test of investor appetite for China’s memory-chip champions. NAND faces fewer manufacturing barriers, potentially giving YMTC more room to challenge global incumbents.\n\n“Valuations across hardware firms in China are propped up by the idea that self-sufficiency will create a large total addressable market,” said Morningstar Inc analyst Jing Jie Yu. “YMTC will probably start from a stronger competitive position than the rest.”\n\n*Uploaded by Felyx Teoh*\n\n \n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/816129"
-    },
-    {
-      "id": "2026-08-28-733bfd",
-      "title": "Dunham-Bush Industries Acquires 32 Acres at SPD Tech Valley for RM172 Mil Manufacturing Expansion",
-      "summary": "Dunham-Bush Industries Sdn Bhd will invest approximately RM172 million in the first phase of a new manufacturing facility at SPD Tech Valley in Senawang, Negeri Sembilan, as the heating, ventilation and air conditioning solutions manufacturer seeks to expand its production capacity in Malaysia.",
-      "why_it_matters": "",
-      "score": 45,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "cooling",
-        "manufacturing",
-        "supply-chain"
-      ],
-      "published_at": "2026-08-28T00:00:00Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/816119",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Dunham-Bush"
-      ],
-      "content": "KUALA LUMPUR (Aug 28): Dunham-Bush Industries Sdn Bhd will invest approximately RM172 million in the first phase of a new manufacturing facility at SPD Tech Valley in Senawang, Negeri Sembilan, as the heating, ventilation and air conditioning solutions manufacturer seeks to expand its production capacity in Malaysia.\n\nThe company signed a sale and purchase agreement with SPD Tech Valley Sdn Bhd, a wholly owned subsidiary of Seri Pajam Development Group (SPD Group), on Friday to acquire approximately 32 acres at the 523-acre freehold industrial park.\n\nPhase 1 is expected to create up to 400 jobs. Construction is targeted to begin in the first quarter of 2027, with operations expected to commence in the first quarter of 2028.\n\nThe new facility will aim to strengthen Dunham-Bush’s manufacturing capacity, serving Malaysian and international markets.\n\nDunham-Bush Industries managing director Yu Baoshuang said the company’s decision to locate at SPD Tech Valley was part of its next stage of expansion in Malaysia, adding that the company also saw opportunities from the growth of data centres and other high-value industries in Malaysia.\n\nPreviously, Dunham-Bush Industries established a manufacturing plant in Kajang, Selangor in 1998.\n\nSPD Group chief executive officer Ten Wee Seong said Dunham-Bush’s decision to locate its new facility at SPD Tech Valley marked another milestone for the industrial park. “Today marks another meaningful milestone for SPD Tech Valley, and we are pleased to welcome Dunham-Bush Industries. When we first planned SPD Tech Valley, our mission was to create a smart, sustainable and managed industrial park that supports the needs of modern global industry,” said Ten in an SPA signing ceremony held at Menara Merdeka Maybank.\n\nMeanwhile, Negeri Sembilan Menteri Besar Datuk Ismail Lasim said the SPA reflected investor confidence in the state and the partnership between the public and private sectors.\n\n“Today’s ceremony is more than a commercial agreement. It reflects confidence in Negeri Sembilan as an investment destination,” he said.\n\nIsmail said the state government was targeting RM30 billion in new investments over the next five years, with a focus on investments that bring technology, expertise, quality jobs and opportunities for local vendors and supply chains.\n\n“Our focus is not simply on capital investment. We want investments that bring technology, expertise, quality jobs and opportunities for local vendors and supply chains,” he said.\n\nHe also called on Dunham-Bush Industries to work with universities and technical and vocational education and training (TVET) institutions to develop talent and industry skills.\n\n“Global investors today look beyond land and cost. They consider infrastructure, connectivity, talent, utilities and the overall business ecosystem,” said Ismail.\n\nEdited ByRacheal Lee\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/816119"
-    },
-    {
-      "id": "2026-08-28-3b516c",
-      "title": "Chip Veteran Raises Malaysia's E&E Export Forecast to US$223 Bil",
-      "summary": "Malaysia’s chip industry chief raised his forecast for the nation’s electrical and electronics (E&E) exports this year to more than RM900 billion (US$223 billion), as demand fuelled by the global artificial-intelligence (AI) boom surpassed earlier expectations.",
-      "why_it_matters": "",
-      "score": 55,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "chips",
-        "semiconductors",
-        "ai",
-        "exports"
-      ],
-      "published_at": "2026-08-28T00:00:00Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/816110",
-          "type": "html-list"
-        }
-      ],
-      "content": "(Aug 28): Malaysia’s chip industry chief raised his forecast for the nation’s electrical and electronics (E&E) exports this year to more than RM900 billion (US$223 billion), as demand fuelled by the global artificial-intelligence (AI) boom surpassed earlier expectations.\n\nAs recently as the second quarter, Malaysia Semiconductor Industry Association president Wong Siew Hai had forecast shipments of more than RM800 billion. E&E exports rose to RM711 billion in 2025 from RM601 billion the previous year.\n\nMalaysia’s tech exports jumped 44% in the first seven months of 2026 to about RM564 billion, accounting for roughly 48% of the country’s total shipments abroad, according to Wong. Semiconductors make up almost three-quarters of the category.\n\n“With this momentum, it’ll probably breach RM900 billion,” this year, Wong, who spent 27 years at Intel Corp, said in an interview on Friday. “Everybody is building AI infrastructure at every level.”\n\nThe AI boom and a shift in global supply chains are driving Malaysia’s electronics exports higher. Strong demand for semiconductors, servers and data-centre equipment has boosted orders for the country’s chip industry, while companies looking to reduce their reliance on China have expanded production in Malaysia. That investment is adding capacity in assembly, testing and packaging and pushing the industry into more advanced parts of the semiconductor supply chain.\n\n*Uploaded by Felyx Teoh*\n\n \n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/816110"
     }
   ]
 }

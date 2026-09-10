@@ -20,11 +20,16 @@ export const GET: APIRoute = (context) => {
   const site = (context.site ?? new URL('https://sakae28.github.io')).origin;
   const base = import.meta.env.BASE_URL;
   const stories = loadAllStories().slice(0, MAX_ITEMS);
+  const selfUrl = `${site}${base}/rss.xml`;
+  const lastBuild = new Date().toUTCString();
 
   const items = stories
     .map(({ story }) => {
       const link = `${site}${base}/news/${story.id}/`;
       const pubDate = new Date(story.published_at);
+      const categories = story.regions.map(
+        (r) => `      <category>${esc(r)}</category>`,
+      );
       return [
         '    <item>',
         `      <title>${esc(story.title)}</title>`,
@@ -32,18 +37,21 @@ export const GET: APIRoute = (context) => {
         `      <guid isPermaLink="true">${esc(link)}</guid>`,
         ...(Number.isNaN(pubDate.getTime()) ? [] : [`      <pubDate>${pubDate.toUTCString()}</pubDate>`]),
         `      <description>${esc(story.summary)}</description>`,
+        ...categories,
         '    </item>',
       ].join('\n');
     })
     .join('\n');
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DataCenter Atlas</title>
     <link>${esc(`${site}${base}/`)}</link>
+    <atom:link href="${esc(selfUrl)}" rel="self" type="application/rss+xml" />
     <description>Daily data center intelligence across Asia-Pacific</description>
     <language>en</language>
+    <lastBuildDate>${lastBuild}</lastBuildDate>
 ${items}
   </channel>
 </rss>

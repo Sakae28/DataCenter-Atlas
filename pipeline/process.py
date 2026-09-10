@@ -321,7 +321,10 @@ _RELEVANCE_SYSTEM = (
     "For each candidate news item decide: relevant — true only if it is about "
     "the data center industry AND (concerns China, Japan, Korea, Australia or "
     "Southeast Asia, OR is a global story materially affecting APAC, e.g. "
-    "NVIDIA/chip supply, hyperscaler strategy). "
+    "NVIDIA/chip supply, hyperscaler strategy). India is OUT OF SCOPE: stories "
+    "only about India are not relevant. Purely US/Europe stories with no APAC "
+    "angle (a Kentucky campus, a Pennsylvania power deal) are not relevant "
+    "either — 'global' is reserved for stories that materially affect APAC. "
     "score — 0-100 industry relevance/importance (0 if not relevant). "
     "regions — subset of " + json.dumps(REGIONS) + "; use \"global\" only for "
     "global stories materially affecting APAC. "
@@ -585,6 +588,17 @@ def process_items(items: list[dict]) -> list[dict]:
         heuristic_relevance(clusters)
 
     clusters = [c for c in clusters if c.get("relevant")]
+    # Low-signal global noise floor: a story tagged only "global" with a
+    # mediocre score (US/Europe-only news the LLM was too generous with)
+    # dilutes the digest — drop it. Scored items only: heuristic fallback
+    # (score None) keeps its keyword judgment.
+    before = len(clusters)
+    clusters = [c for c in clusters
+                if not (c.get("regions") == ["global"]
+                        and c.get("score") is not None
+                        and c["score"] < 50)]
+    if len(clusters) < before:
+        log.info("dropped %d low-score global-only clusters", before - len(clusters))
     log.info("%d relevant clusters after filtering", len(clusters))
 
     if backend is not None and llm_ok:

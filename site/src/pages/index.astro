@@ -2,20 +2,26 @@
 import Base from '../layouts/Base.astro';
 import Icon from '../components/Icon.astro';
 import FavButton from '../components/FavButton.astro';
+import StoryCard from '../components/StoryCard.astro';
 import {
   loadNewsDays,
   formatDate,
-  formatTime,
   weekdayOf,
-  sourceDisplayName,
-  hasDistinctSummary,
   REGIONS,
   REGION_LABELS,
 } from '../lib/news';
 import { loadProjects, buildStoryProjectIndex } from '../lib/projects';
 import { companySlugMap } from '../lib/companies';
 
-const { days, source } = loadNewsDays();
+const { days: allDays, source } = loadNewsDays();
+// Empty digest files (failed runs that slipped through) must not render as
+// "0 stories" groups — drop them entirely.
+const nonEmpty = allDays.filter((d) => d.stories.length > 0);
+// Only the latest week is embedded; older days live on /day/<date>/ archive
+// pages (keeps the homepage HTML small as the archive grows).
+const HOME_DAYS = 7;
+const days = nonEmpty.slice(0, HOME_DAYS);
+const archiveDays = nonEmpty.slice(HOME_DAYS);
 const base = import.meta.env.BASE_URL;
 // Reverse index story_id → project, for the "Project: <name>" link on cards.
 const projectByStory = buildStoryProjectIndex(loadProjects().projects);
@@ -38,7 +44,7 @@ for (const story of latest?.stories ?? []) {
 }
 const railSources = [...sourceCounts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
 
-/** Lowercase haystack for the client-side search filter. */
+/** Lowercase haystack for the client-side search filter (Trending items). */
 const searchText = (title: string, summary: string, companies?: string[]) =>
   `${title} ${summary} ${(companies ?? []).join(' ')}`.toLowerCase();
 ---
@@ -49,7 +55,7 @@ const searchText = (title: string, summary: string, companies?: string[]) =>
       <h1 class="page-title">Latest</h1>
       {latest && (
         <p class="page-sub">
-          {weekdayOf(latest.date)}, {formatDate(latest.date)} · AI-curated APAC data center digest
+          Digest for {formatDate(latest.date)} ({weekdayOf(latest.date)}) · AI-curated APAC data center news
         </p>
         <p class="tz-note">Times shown in your local timezone</p>
       )}
@@ -65,7 +71,7 @@ const searchText = (title: string, summary: string, companies?: string[]) =>
     </div>
     <div class="filter-right">
       <button class="tab saved-toggle" type="button" aria-pressed="false">
-        <Icon name="bookmark" size={13} /> Saved
+        <Icon name="bookmark" size={13} /> Saved only
       </button>
       {railSources.length > 0 && (
         <details class="sources-menu">
@@ -100,6 +106,7 @@ const searchText = (title: string, summary: string, companies?: string[]) =>
   {hotStories.length > 0 && (
     <section class="trending">
       <h2 class="panel-title">Trending</h2>
+      <p class="panel-note">Ranked by source count, then AI relevance score</p>
       <ol class="hot-list">
         {hotStories.map((story, i) => (
           <li class="hot-item" data-id={story.id} data-regions={story.regions.join(' ')} data-search={searchText(story.title, story.summary, story.companies)}>
@@ -130,79 +137,28 @@ const searchText = (title: string, summary: string, companies?: string[]) =>
             <span class="day-sub">{weekdayOf(day.date)} · {day.stories.length} {day.stories.length === 1 ? 'story' : 'stories'}</span>
           </h2>
         </summary>
-        <div class="story-list">
+        <div class="story-list" data-total={day.stories.length}>
           {day.stories.map((story) => (
-            <div class="story-row" data-id={story.id} data-regions={story.regions.join(' ')} data-search={searchText(story.title, story.summary, story.companies)}>
-              <div class="story-rail" aria-hidden="true">
-                <time class="rail-time js-time" data-time-format="time" data-ts={story.published_at} datetime={story.published_at}>{formatTime(story.published_at)}</time>
-                <span class="rail-dot"></span>
-              </div>
-              <article class="story-card">
-                <div class="story-top">
-                  <div class="story-origin">
-                    <span class="story-source-name">{sourceDisplayName(story.sources[0], story)}</span>
-                    {story.featured && <span class="badge featured">Featured</span>}
-                  </div>
-                  <div class="story-actions">
-                    {story.score !== null && (
-                      <span class="ai-score" title="AI relevance score">AI score {story.score}/100</span>
-                    )}
-                    <FavButton type="news" id={story.id} />
-                  </div>
-                </div>
-                <h3 class="story-title">
-                  <a class="stretched-link" href={`${base}/news/${story.id}/`}>{story.title}</a>
-                </h3>
-                {hasDistinctSummary(story.title, story.summary) && (
-                  <p class="story-summary">{story.summary}</p>
-                )}
-                <div class="story-tags">
-                  {story.regions.map((r) => (
-                    <span class="chip region">{REGION_LABELS[r]}</span>
-                  ))}
-                  {story.companies?.map((c) => {
-                    const slug = companySlugByName.get(c.toLowerCase());
-                    return slug ? (
-                      <a class="chip company chip-link" href={`${base}/companies/${slug}/`}>{c}</a>
-                    ) : (
-                      <span class="chip company">{c}</span>
-                    );
-                  })}
-                  {story.topics.map((t) => (
-                    <span class="chip topic">#{t}</span>
-                  ))}
-                </div>
-                {(() => {
-                  const p = projectByStory.get(story.id);
-                  return p ? (
-                    <a class="project-link" href={`${base}/projects/${p.id}/`}>
-                      <Icon name="server" size={12} />Project: {p.name}
-                    </a>
-                  ) : null;
-                })()}
-                {story.sources.length > 1 && (
-                  <p class="also-reported">
-                    Also reported by{' '}
-                    {story.sources.slice(1).map((s, i) => (
-                      <>
-                        <a href={s.url}>{sourceDisplayName(s, story)}</a>{i < story.sources.length - 2 ? ', ' : ''}
-                      </>
-                    ))}
-                  </p>
-                )}
-                {story.why_it_matters && (
-                  <p class="why-it-matters">
-                    <span class="why-label">Why it matters</span>
-                    {story.why_it_matters}
-                  </p>
-                )}
-              </article>
-            </div>
+            <StoryCard
+              story={story}
+              dayDate={day.date}
+              project={projectByStory.get(story.id)}
+              companySlugByName={companySlugByName}
+            />
           ))}
         </div>
       </details>
     ))}
   </section>
+
+  {archiveDays.length > 0 && (
+    <nav class="archive-nav" aria-label="Older digests">
+      <span class="archive-label">Older digests:</span>
+      {archiveDays.map((day) => (
+        <a class="archive-link" href={`${base}/day/${day.date}/`}>{formatDate(day.date)}</a>
+      ))}
+    </nav>
+  )}
 
   <div class="empty-state" id="empty-state" hidden>
     <span class="empty-icon empty-icon-saved"><Icon name="bookmark" size={26} /></span>
@@ -222,6 +178,46 @@ const searchText = (title: string, summary: string, companies?: string[]) =>
     let query = '';
     let savedOnly = false;
     const savedToggle = document.querySelector<HTMLButtonElement>('.saved-toggle');
+
+    // Original day-group sub-lines ("Wednesday · 29 stories") for restore.
+    const daySubs = dayGroups.map((g) => {
+      const el = g.querySelector<HTMLElement>('.day-sub');
+      const total = parseInt(
+        g.querySelector<HTMLElement>('.story-list')?.dataset.total ?? '0', 10);
+      return { el, original: el?.textContent ?? '', total };
+    });
+
+    // Filter state lives in the URL (?region=&q=&saved=1) so a filtered view
+    // survives refresh and can be shared.
+    function syncUrl() {
+      const p = new URLSearchParams();
+      if (activeRegion !== 'all') p.set('region', activeRegion);
+      if (query) p.set('q', query);
+      if (savedOnly) p.set('saved', '1');
+      const qs = p.toString();
+      history.replaceState(null, '', location.pathname + (qs ? `?${qs}` : ''));
+    }
+
+    {
+      const params = new URLSearchParams(location.search);
+      const initRegion = params.get('region');
+      const pill = [...pills].find((p) => p.dataset.region === initRegion);
+      if (pill) {
+        pills.forEach((p) => p.classList.remove('is-active'));
+        pill.classList.add('is-active');
+        activeRegion = pill.dataset.region ?? 'all';
+      }
+      const initQ = params.get('q');
+      if (initQ && searchInput) {
+        searchInput.value = initQ;
+        query = initQ.trim().toLowerCase();
+      }
+      if (params.get('saved') === '1' && savedToggle) {
+        savedOnly = true;
+        savedToggle.classList.add('is-active');
+        savedToggle.setAttribute('aria-pressed', 'true');
+      }
+    }
 
     function favNewsIds(): Set<string> {
       try {
@@ -250,6 +246,17 @@ const searchText = (title: string, summary: string, companies?: string[]) =>
         group.classList.toggle('is-hidden', visible === 0);
         group.open = filtering ? visible > 0 : i === 0;
       });
+      // While filtering, show "3 / 29 stories" per day; restore after.
+      daySubs.forEach(({ el, original, total }, i) => {
+        if (!el) return;
+        if (!filtering) {
+          el.textContent = original;
+          return;
+        }
+        const visible = dayGroups[i].querySelectorAll('.story-row:not(.is-hidden)').length;
+        el.textContent = original.replace(/\d+ (stor(?:y|ies))/i, `${visible} / ${total} $1`);
+      });
+      syncUrl();
       if (trending) {
         const visible = trending.querySelectorAll('.hot-item:not(.is-hidden)').length;
         trending.classList.toggle('is-hidden', visible === 0);
@@ -304,5 +311,24 @@ const searchText = (title: string, summary: string, companies?: string[]) =>
       query = searchInput.value.trim().toLowerCase();
       applyFilters();
     });
+
+    // Restore filters coming in via URL on first paint.
+    if (activeRegion !== 'all' || query !== '' || savedOnly) applyFilters();
+
+    // "Sources today" popover: close on Esc / click outside.
+    const sourcesMenu = document.querySelector<HTMLDetailsElement>('details.sources-menu');
+    if (sourcesMenu) {
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && sourcesMenu.open) {
+          sourcesMenu.open = false;
+          sourcesMenu.querySelector('summary')?.focus();
+        }
+      });
+      document.addEventListener('click', (e) => {
+        if (sourcesMenu.open && !sourcesMenu.contains(e.target as Node)) {
+          sourcesMenu.open = false;
+        }
+      });
+    }
   </script>
 </Base>

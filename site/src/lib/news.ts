@@ -45,6 +45,9 @@ const StorySchema = z.object({
   // added by the pipeline's backfill step.
   companies: z.array(z.string()).max(6).optional(),
   published_at: z.string(),
+  // "day" when the source only gives a calendar date (no time of day) —
+  // the UI renders a bare date instead of a fabricated time.
+  published_precision: z.enum(['day', 'time']).optional(),
   featured: z.boolean(),
   sources: z.array(SourceSchema).min(1),
   // Optional full-text fields added by the pipeline's extraction step

@@ -17,6 +17,10 @@ echo. >> logs\daily.log
 echo ===== %DATE% %TIME% ===== >> logs\daily.log
 if defined FETCH_PROXY (echo accelerator: ON >> logs\daily.log) else (echo accelerator: OFF >> logs\daily.log)
 .venv\Scripts\python.exe run.py >> logs\daily.log 2>&1
+if errorlevel 1 (
+  echo *** RUN FAILED ^(exit %errorlevel%^) — skipping commit/push. Check the log above. *** >> logs\daily.log
+  exit /b %errorlevel%
+)
 
 rem Commit fresh data and push; the GitHub Actions "Deploy site" workflow
 rem rebuilds and publishes the site on every push.

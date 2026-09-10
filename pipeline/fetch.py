@@ -73,6 +73,18 @@ def parse_published(entry) -> datetime | None:
     return None
 
 
+def _apply_precision(item: dict) -> dict:
+    """Sources that publish only a date (no time of day) surface as exactly
+    midnight UTC. A genuine midnight-UTC publication is vanishingly rare, so
+    treat exact midnight as date-only: mark precision "day" and shift to
+    noon UTC so timezone conversion can't flip the calendar date."""
+    ts = item.get("published_at")
+    if ts and ts.endswith("T00:00:00Z"):
+        item["published_at"] = ts[:10] + "T12:00:00Z"
+        item["published_precision"] = "day"
+    return item
+
+
 def normalize_item(entry, source: dict) -> dict | None:
     title = clean_text(entry.get("title"))
     url = entry.get("link")
@@ -82,7 +94,7 @@ def normalize_item(entry, source: dict) -> dict | None:
     snippet = clean_text(entry.get("summary") or entry.get("description"))
     if len(snippet) > 500:
         snippet = snippet[:500].rsplit(" ", 1)[0] + "…"
-    return {
+    return _apply_precision({
         "title": title,
         "url": url,
         "source": source["name"],
@@ -91,7 +103,7 @@ def normalize_item(entry, source: dict) -> dict | None:
         "regions": list(source.get("regions", [])),
         "published_at": published.isoformat().replace("+00:00", "Z") if published else None,
         "snippet": snippet,
-    }
+    })
 
 
 def fetch_source(source: dict, client: httpx.Client) -> list[dict]:
@@ -135,7 +147,7 @@ def make_item(title: str, url: str, source: dict,
         return None
     if len(snippet) > 500:
         snippet = snippet[:500].rsplit(" ", 1)[0] + "…"
-    return {
+    return _apply_precision({
         "title": title,
         "url": url,
         "source": source["name"],
@@ -144,7 +156,7 @@ def make_item(title: str, url: str, source: dict,
         "regions": list(source.get("regions", [])),
         "published_at": published.isoformat().replace("+00:00", "Z") if published else None,
         "snippet": snippet,
-    }
+    })
 
 
 _DATE_FORMATS = ("%Y-%m-%d %H:%M:%S", "%Y-%m-%d", "%Y%m%d", "%d %B %Y")

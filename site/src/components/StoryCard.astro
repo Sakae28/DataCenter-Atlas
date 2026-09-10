@@ -1,0 +1,95 @@
+---
+/**
+ * One story row on the digest timeline: rail time + card. Shared by the
+ * homepage (index.astro) and the per-day archive pages (day/[date].astro).
+ */
+import Icon from './Icon.astro';
+import FavButton from './FavButton.astro';
+import {
+  formatDate,
+  formatDateTime,
+  formatTime,
+  sourceDisplayName,
+  hasDistinctSummary,
+  REGION_LABELS,
+  type NewsStory,
+} from '../lib/news';
+
+interface Props {
+  story: NewsStory;
+  /** Digest date (YYYY-MM-DD) — the rail time uses it to decide between
+      "HH:MM" and "Sep 8 · HH:MM" for cross-day stories. */
+  dayDate: string;
+  /** Project tracking this story, if any (reverse index lookup). */
+  project?: { id: string; name: string };
+  /** Canonical company/operator name (lowercased) → directory slug. */
+  companySlugByName: Map<string, string>;
+}
+
+const { story, dayDate, project, companySlugByName } = Astro.props;
+const base = import.meta.env.BASE_URL;
+---
+
+<div class="story-row" data-id={story.id} data-regions={story.regions.join(' ')} data-search={`${story.title} ${story.summary} ${(story.companies ?? []).join(' ')}`.toLowerCase()}>
+  <div class="story-rail" aria-hidden="true">
+    <time class="rail-time js-time" data-time-format="rail" data-day={dayDate} data-precision={story.published_precision} data-ts={story.published_at} datetime={story.published_at} title={story.published_precision === 'day' ? formatDate(story.published_at.slice(0, 10)) : formatDateTime(story.published_at)}>{story.published_precision === 'day' ? formatDate(story.published_at.slice(0, 10)) : formatTime(story.published_at)}</time>
+    <span class="rail-dot"></span>
+  </div>
+  <article class="story-card">
+    <div class="story-top">
+      <div class="story-origin">
+        <span class="story-source-name">{sourceDisplayName(story.sources[0], story)}</span>
+        {story.featured && <span class="badge featured">Featured</span>}
+      </div>
+      <div class="story-actions">
+        {story.score !== null && (
+          <span class="ai-score" title="AI relevance score (0–100): how central this story is to the APAC data center industry">AI score {story.score}/100</span>
+        )}
+        <FavButton type="news" id={story.id} />
+      </div>
+    </div>
+    <h3 class="story-title">
+      <a class="stretched-link" href={`${base}/news/${story.id}/`}>{story.title}</a>
+    </h3>
+    {hasDistinctSummary(story.title, story.summary) && (
+      <p class="story-summary">{story.summary}</p>
+    )}
+    <div class="story-tags">
+      {story.regions.map((r) => (
+        <span class="chip region">{REGION_LABELS[r]}</span>
+      ))}
+      {story.companies?.map((c) => {
+        const slug = companySlugByName.get(c.toLowerCase());
+        return slug ? (
+          <a class="chip company chip-link" href={`${base}/companies/${slug}/`}>{c}</a>
+        ) : (
+          <span class="chip company">{c}</span>
+        );
+      })}
+      {story.topics.map((t) => (
+        <span class="chip topic">#{t}</span>
+      ))}
+    </div>
+    {project && (
+      <a class="project-link" href={`${base}/projects/${project.id}/`}>
+        <Icon name="server" size={12} />Project: {project.name}
+      </a>
+    )}
+    {story.sources.length > 1 && (
+      <p class="also-reported">
+        Also reported by{' '}
+        {story.sources.slice(1).map((s, i) => (
+          <>
+            <a href={s.url}>{sourceDisplayName(s, story)}</a>{i < story.sources.length - 2 ? ', ' : ''}
+          </>
+        ))}
+      </p>
+    )}
+    {story.why_it_matters && (
+      <p class="why-it-matters">
+        <span class="why-label">Why it matters</span>
+        {story.why_it_matters}
+      </p>
+    )}
+  </article>
+</div>

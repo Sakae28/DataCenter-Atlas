@@ -148,30 +148,67 @@ const shortDate = (date: string) =>
     timeZone: 'UTC',
   });
 
-// State filter options: '' = geocoding fallback rows, shown as "—".
-const stateOptions = alphaOptions(rows.map((r) => r.state ?? '')).map((o) =>
-  o.value === '' ? { ...o, label: '— Unknown' } : o,
-);
-
-// Column model for the table head: plain label, spreadsheet-style filter
-// dropdown, or click-to-sort toggle.
-type Column =
-  | { type: 'plain'; label: string }
-  | { type: 'filter'; key: string; label: string; options: FilterOption[]; alignRight?: boolean }
-  | { type: 'sort'; key: 'capacity' | 'investment' | 'updated'; label: string; dir: 'asc' | 'desc' | 'none' };
-
-const columns: Column[] = [
-  { type: 'plain', label: 'Project' },
-  { type: 'filter', key: 'operator', label: 'Operator', options: alphaOptions(projects.map((p) => p.operator)) },
-  { type: 'filter', key: 'region', label: 'Region', options: orderedOptions(PROJECT_REGIONS, REGION_LABELS, projects.map((p) => p.region)) },
-  { type: 'filter', key: 'country', label: 'Country', options: alphaOptions(projects.map((p) => p.country)) },
-  { type: 'filter', key: 'state', label: 'State', options: stateOptions },
-  { type: 'plain', label: 'City' },
-  { type: 'sort', key: 'capacity', label: 'Capacity', dir: 'none' },
-  { type: 'sort', key: 'investment', label: 'Investment', dir: 'none' },
-  { type: 'filter', key: 'status', label: 'Status', options: orderedOptions(PROJECT_STATUSES, statusLabels, projects.map((p) => p.status)), alignRight: true },
-  { type: 'sort', key: 'updated', label: 'Updated', dir: 'desc' },
+// Filter bar above the table. Operator's ~600 options are NOT rendered into
+// HTML (page weight); they ship in the embedded JSON and render lazily.
+const operatorOptions = alphaOptions(projects.map((p) => p.operator));
+const filters = [
+  { key: 'operator', label: 'Operator', lazy: true, options: [] as FilterOption[] },
+  { key: 'region', label: 'Region', lazy: false, options: orderedOptions(PROJECT_REGIONS, REGION_LABELS, projects.map((p) => p.region)) },
+  { key: 'country', label: 'Country', lazy: false, options: alphaOptions(projects.map((p) => p.country)) },
+  { key: 'status', label: 'Status', lazy: false, options: orderedOptions(PROJECT_STATUSES, statusLabels, projects.map((p) => p.status)) },
 ];
+
+/* ---------- Client-render data -------------------------------------------
+   Only the first SERVER_ROWS rows ship as HTML (no-JS baseline + fast first
+   paint); every row ships as a slim precomputed JSON record the client
+   renders/filters/sorts. All display strings are computed here so the
+   client-side template stays dumb. */
+const SERVER_ROWS = 200;
+
+interface RowData {
+  id: string; name: string; op: string; rg: string; rc: string;
+  co: string; st: string | null; ci: string; loc: string;
+  stt: string; stl: string; stc: string;
+  cap: number | null; capv: string; capn: string | null;
+  lease: boolean;
+  inv: string | null; invm: number | null;
+  upd: string | null; upds: string | null;
+  u: string; sea: string; mx: number | null; my: number | null; ex: boolean;
+}
+
+const allRows: RowData[] = rows.map(({ p, state, mx, my, geoExact, investUsdM }) => {
+  const cap = formatCapacity(p);
+  const loc = [...new Set([p.city, state].filter(Boolean))].join(', ');
+  return {
+    id: p.id,
+    name: p.name,
+    op: p.operator,
+    rg: p.region,
+    rc: regionChip(p.region),
+    co: p.country,
+    st: state,
+    ci: p.city,
+    loc,
+    stt: p.status,
+    stl: STATUS_META[p.status].label,
+    stc: STATUS_META[p.status].className,
+    cap: p.capacity_mw,
+    capv: cap.value,
+    capn: cap.note ?? null,
+    lease: !!p.leased_from,
+    inv: p.investment ?? null,
+    invm: investUsdM,
+    upd: p.last_updated,
+    upds: p.last_updated ? shortDate(p.last_updated) : null,
+    u: `${base}/projects/${p.id}/`,
+    sea: `${p.name} ${p.operator} ${p.city} ${state ?? ''} ${p.country}`.toLowerCase(),
+    mx, my, ex: geoExact,
+  };
+});
+
+const clientData = { rows: allRows, operators: operatorOptions };
+const clientJson = JSON.stringify(clientData).replace(/</g, '\\u003c');
+const serverRows = rows.slice(0, SERVER_ROWS);
 ---
 
 <Base title="Pipeline" active="pipeline">
@@ -211,98 +248,113 @@ const columns: Column[] = [
       <kbd class="search-hint" aria-hidden="true">/</kbd>
     </span>
     <button class="tab saved-toggle" type="button" aria-pressed="false">
-      <Icon name="bookmark" size={13} /> Saved
+      <Icon name="bookmark" size={13} /> Saved only
     </button>
   </p>
 
+  {/* Column filters live above the table, not inside <th> — the table head
+      keeps plain labels and sort buttons only. */}
+  <div class="pipeline-filterbar" id="pipeline-filterbar">
+    {filters.map((f, fi) => (
+      <div class="fb-item" data-col={f.key}>
+        <button
+          type="button"
+          class="tab fb-btn"
+          data-col={f.key}
+          aria-expanded="false"
+          aria-haspopup="true"
+        >
+          <Icon name="funnel" size={12} />
+          {f.label}
+        </button>
+        <div
+          class:list={['th-dropdown is-hidden', { 'th-dropdown--right': fi === filters.length - 1 }]}
+          data-col={f.key}
+          role="group"
+          aria-label={`${f.label} filter`}
+        >
+          {f.lazy ? (
+            <>
+              <input
+                type="search"
+                class="th-dropdown-search"
+                placeholder="Type to filter operators…"
+                aria-label="Filter operator list"
+              />
+              <div class="th-options-host" />
+            </>
+          ) : (
+            <>
+              <label class="th-option th-option-all">
+                <input type="checkbox" data-all checked />
+                <span class="th-option-label">All</span>
+              </label>
+              {f.options.map((opt) => (
+                <label class="th-option">
+                  <input type="checkbox" value={opt.value} checked />
+                  <span class="th-option-label">{opt.label}</span>
+                  <span class="th-option-count">{opt.count}</span>
+                </label>
+              ))}
+            </>
+          )}
+        </div>
+      </div>
+    ))}
+  </div>
+
   <div class="pipeline-layout" id="pipeline-layout" data-mode="list">
     <div class="panel pipeline-panel">
-      {rows.length > 0 ? (
+      {serverRows.length > 0 ? (
         <table class="pipeline-table">
           <colgroup>
-            <col style="width: 14.5%" />
-            <col style="width: 10.5%" />
+            <col style="width: 16%" />
+            <col style="width: 11%" />
             <col style="width: 8.5%" />
+            <col style="width: 10%" />
+            <col style="width: 12%" />
             <col style="width: 9.5%" />
-            <col style="width: 7.5%" />
-            <col style="width: 8%" />
-            <col style="width: 9%" />
-            <col style="width: 10.5%" />
-            <col style="width: 13%" />
-            <col style="width: 9%" />
+            <col style="width: 11%" />
+            <col style="width: 12%" />
+            <col style="width: 10%" />
           </colgroup>
           <thead>
             <tr>
-              {columns.map((col) => {
-                if (col.type === 'filter') {
-                  return (
-                    <th class="th-filterable">
-                      <span class="th-label">
-                        <span class="th-text">{col.label}</span>
-                        <button
-                          type="button"
-                          class="th-filter-btn"
-                          data-col={col.key}
-                          aria-expanded="false"
-                          aria-label={`Filter by ${col.label.toLowerCase()}`}
-                          title={`Filter ${col.label.toLowerCase()}`}
-                        >
-                          <Icon name="funnel" size={12} />
-                        </button>
-                      </span>
-                      <div
-                        class:list={['th-dropdown is-hidden', { 'th-dropdown--right': col.alignRight }]}
-                        data-col={col.key}
-                        role="group"
-                        aria-label={`${col.label} filter`}
-                      >
-                        <label class="th-option th-option-all">
-                          <input type="checkbox" data-all checked />
-                          <span class="th-option-label">All</span>
-                        </label>
-                        {col.options.map((opt) => (
-                          <label class="th-option">
-                            <input type="checkbox" value={opt.value} checked />
-                            <span class="th-option-label">{opt.label}</span>
-                            <span class="th-option-count">{opt.count}</span>
-                          </label>
-                        ))}
-                      </div>
-                    </th>
-                  );
-                }
-                if (col.type === 'sort') {
-                  return (
-                    <th>
-                      <button type="button" class="th-sort" data-sort={col.key} data-dir={col.dir}>
-                        <span class="th-text">{col.label}</span>
-                        <span class="sort-arrow" aria-hidden="true"></span>
-                      </button>
-                    </th>
-                  );
-                }
-                return <th><span class="th-text">{col.label}</span></th>;
-              })}
+              <th><span class="th-text">Project</span></th>
+              <th><span class="th-text">Operator</span></th>
+              <th><span class="th-text">Region</span></th>
+              <th><span class="th-text">Country</span></th>
+              <th><span class="th-text">Location</span></th>
+              <th aria-sort="none">
+                <button type="button" class="th-sort" data-sort="capacity" data-dir="none">
+                  <span class="th-text">Capacity</span>
+                  <span class="sort-arrow" aria-hidden="true"></span>
+                </button>
+              </th>
+              <th class="col-invest" aria-sort="none">
+                <button type="button" class="th-sort" data-sort="investment" data-dir="none">
+                  <span class="th-text">Investment</span>
+                  <span class="sort-arrow" aria-hidden="true"></span>
+                </button>
+              </th>
+              <th><span class="th-text">Status</span></th>
+              <th aria-sort="descending">
+                <button type="button" class="th-sort" data-sort="updated" data-dir="desc">
+                  <span class="th-text">Updated</span>
+                  <span class="sort-arrow" aria-hidden="true"></span>
+                </button>
+              </th>
             </tr>
           </thead>
           <tbody id="pipeline-body">
-            {rows.map(({ p, state, mx, my, geoExact, investUsdM }) => {
+            {serverRows.map(({ p, state, mx, my, geoExact }) => {
               const cap = formatCapacity(p);
               const meta = STATUS_META[p.status];
+              const loc = [...new Set([p.city, state].filter(Boolean))].join(', ');
               return (
                 <tr
                   data-id={p.id}
-                  data-operator={p.operator}
-                  data-region={p.region}
-                  data-country={p.country}
-                  data-state={state ?? ''}
-                  data-status={p.status}
-                  data-capacity={p.capacity_mw ?? ''}
-                  data-leased={p.leased_from ? '1' : ''}
-                  data-investment={investUsdM ?? ''}
-                  data-updated={p.last_updated ?? ''}
                   data-name={p.name}
-                  data-search={`${p.name} ${p.operator} ${p.city} ${p.country}`.toLowerCase()}
                   data-mx={mx ?? ''}
                   data-my={my ?? ''}
                   data-exact={geoExact ? '1' : '0'}
@@ -314,8 +366,7 @@ const columns: Column[] = [
                   <td class="proj-operator" data-label="Operator" title={p.operator}>{p.operator}</td>
                   <td class="proj-region" data-label="Region"><span class="chip region">{regionChip(p.region)}</span></td>
                   <td class="proj-loc" data-label="Country" title={p.country}>{p.country}</td>
-                  <td class="proj-loc" data-label="State" title={state ?? undefined}>{state ?? <span class="is-empty">—</span>}</td>
-                  <td class="proj-loc" data-label="City" title={p.city}>{p.city}</td>
+                  <td class="proj-loc" data-label="Location" title={loc}>{loc || <span class="is-empty">—</span>}</td>
                   <td class="proj-cap" data-label="Capacity">
                     <span class="cap-value" class:list={[{ 'is-empty': p.capacity_mw === null }]}>{cap.value}</span>
                     {cap.note && <span class="cap-note">{cap.note}</span>}
@@ -337,6 +388,7 @@ const columns: Column[] = [
       ) : (
         <p class="pipeline-empty">No projects tracked yet.</p>
       )}
+      <div class="pipeline-sentinel" id="pipeline-sentinel" hidden aria-hidden="true"></div>
       <div class="empty-state is-hidden" id="pipeline-empty">
         <span class="empty-icon empty-icon-saved"><Icon name="bookmark" size={26} /></span>
         <span class="empty-icon empty-icon-filter" hidden><Icon name="search" size={26} /></span>
@@ -353,7 +405,35 @@ const columns: Column[] = [
     </aside>
   </div>
 
+  {/* Full dataset for the client-side renderer (slim precomputed rows). */}
+  <script type="application/json" id="pipeline-data" set:html={clientJson} />
+
   <script>
+    /* ---------- Data ---------- */
+    interface RowData {
+      id: string; name: string; op: string; rg: string; rc: string;
+      co: string; st: string | null; ci: string; loc: string;
+      stt: string; stl: string; stc: string;
+      cap: number | null; capv: string; capn: string | null;
+      lease: boolean;
+      inv: string | null; invm: number | null;
+      upd: string | null; upds: string | null;
+      u: string; sea: string; mx: number | null; my: number | null; ex: boolean;
+    }
+    interface ClientData {
+      rows: RowData[];
+      operators: { value: string; label: string; count: number }[];
+    }
+    const DATA: ClientData = JSON.parse(
+      document.getElementById('pipeline-data')!.textContent ?? '{"rows":[],"operators":[]}',
+    );
+    const SERVER_ROWS = 200;
+    const PAGE = 300;
+
+    const esc = (s: string) =>
+      s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+       .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+
     /* ---------- List / map view toggle (persisted) ---------- */
     const layoutEl = document.getElementById('pipeline-layout');
     const modeBtns = [...document.querySelectorAll<HTMLButtonElement>('.view-toggle-btn')];
@@ -369,28 +449,19 @@ const columns: Column[] = [
       try {
         localStorage.setItem('pipeline-mode', mode);
       } catch { /* private mode */ }
+      syncUrl();
     }
 
     modeBtns.forEach((b) => b.addEventListener('click', () => setMode(b.dataset.mode ?? 'list')));
-    try {
-      const saved = localStorage.getItem('pipeline-mode');
-      if (saved === 'map' || saved === 'list') setMode(saved);
-    } catch { /* private mode */ }
 
     const tbody = document.querySelector<HTMLTableSectionElement>('#pipeline-body');
-    const rows = tbody ? [...tbody.querySelectorAll<HTMLTableRowElement>('tr')] : [];
+    const sentinel = document.getElementById('pipeline-sentinel');
     const statCount = document.querySelector<HTMLElement>('#stat-count');
     const statMw = document.querySelector<HTMLElement>('#stat-mw');
     const emptyMsg = document.querySelector<HTMLElement>('#pipeline-empty');
-
-    const numOf = (tr: HTMLTableRowElement, key: string): number | null => {
-      const v = parseFloat(tr.dataset[key] ?? '');
-      return Number.isNaN(v) ? null : v;
-    };
-
-    /* ---------- Project search (filters table rows AND map pins) ---------- */
     const searchInput = document.querySelector<HTMLInputElement>('#pipeline-search');
     const mapPins = [...document.querySelectorAll<SVGGElement>('#dc-map .pin')];
+
     let query = '';
     let savedOnly = false;
     const savedToggle = document.querySelector<HTMLButtonElement>('.saved-toggle');
@@ -404,87 +475,122 @@ const columns: Column[] = [
       }
     }
 
-    /* ---------- Header filter dropdowns (spreadsheet-style) ----------
-       Each filterable column keeps a Set of allowed values; a row shows only
-       if it matches every column's set (AND across columns, OR within one). */
-    const selected = new Map<string, Set<string>>();
+    /* ---------- Column filters ---------- */
+    // Column key -> RowData field.
+    const COL_FIELD: Record<string, (r: RowData) => string> = {
+      operator: (r) => r.op,
+      region: (r) => r.rg,
+      country: (r) => r.co,
+      status: (r) => r.stt,
+    };
 
+    const selected = new Map<string, Set<string>>();
+    for (const col of Object.keys(COL_FIELD)) {
+      const vals = col === 'operator'
+        ? DATA.operators.map((o) => o.value)
+        : [...new Set(DATA.rows.map((r) => COL_FIELD[col](r)))];
+      selected.set(col, new Set(vals));
+    }
+
+    /* Lazy operator dropdown: options render (and re-render on typing) from
+       the embedded JSON, checked state derived from `selected`. */
+    const operatorHost = document.querySelector<HTMLElement>(
+      '.th-dropdown[data-col="operator"] .th-options-host');
+    const operatorSearch = document.querySelector<HTMLInputElement>(
+      '.th-dropdown[data-col="operator"] .th-dropdown-search');
+
+    function renderOperatorOptions() {
+      if (!operatorHost) return;
+      const allowed = selected.get('operator')!;
+      const q = (operatorSearch?.value ?? '').trim().toLowerCase();
+      const opts = DATA.operators.filter((o) => !q || o.label.toLowerCase().includes(q));
+      const allBox = `<label class="th-option th-option-all"><input type="checkbox" data-all ${
+        allowed.size === DATA.operators.length ? 'checked' : ''} /><span class="th-option-label">All</span></label>`;
+      operatorHost.innerHTML = allBox + opts.map((o) =>
+        `<label class="th-option"><input type="checkbox" value="${esc(o.value)}"${
+          allowed.has(o.value) ? ' checked' : ''} /><span class="th-option-label">${esc(o.label)}</span>` +
+        `<span class="th-option-count">${o.count}</span></label>`,
+      ).join('');
+    }
+
+    operatorSearch?.addEventListener('input', renderOperatorOptions);
+
+    /* Checkbox changes (delegated — operator options are rendered lazily). */
     document.querySelectorAll<HTMLElement>('.th-dropdown').forEach((dropdown) => {
       const col = dropdown.dataset.col ?? '';
-      const allBox = dropdown.querySelector<HTMLInputElement>('input[data-all]');
-      const boxes = [...dropdown.querySelectorAll<HTMLInputElement>('input[type="checkbox"]:not([data-all])')];
-      const filterBtn = document.querySelector<HTMLButtonElement>(`.th-filter-btn[data-col="${col}"]`);
-      selected.set(col, new Set(boxes.map((b) => b.value)));
-
-      const syncState = () => {
+      dropdown.addEventListener('change', (e) => {
+        const box = (e.target as HTMLElement).closest('input[type="checkbox"]') as HTMLInputElement | null;
+        if (!box) return;
         const allowed = selected.get(col)!;
-        const checkedCount = boxes.filter((b) => b.checked).length;
-        if (allBox) {
-          allBox.checked = checkedCount === boxes.length;
-          allBox.indeterminate = checkedCount > 0 && checkedCount < boxes.length;
-        }
-        filterBtn?.classList.toggle('is-active', checkedCount < boxes.length);
-      };
-
-      boxes.forEach((box) => {
-        box.addEventListener('change', () => {
-          const allowed = selected.get(col)!;
+        if (box.hasAttribute('data-all')) {
+          const every = col === 'operator' ? DATA.operators.map((o) => o.value)
+            : [...dropdown.querySelectorAll<HTMLInputElement>('input[type="checkbox"]:not([data-all])')].map((b) => b.value);
+          if (box.checked) every.forEach((v) => allowed.add(v));
+          else allowed.clear();
+          if (col === 'operator') renderOperatorOptions();
+          else dropdown.querySelectorAll<HTMLInputElement>('input[type="checkbox"]:not([data-all])')
+            .forEach((b) => (b.checked = box.checked));
+        } else {
           if (box.checked) allowed.add(box.value);
           else allowed.delete(box.value);
-          syncState();
-          applyFilters();
-        });
-      });
-
-      allBox?.addEventListener('change', () => {
-        const allowed = selected.get(col)!;
-        boxes.forEach((b) => {
-          b.checked = allBox.checked;
-          if (allBox.checked) allowed.add(b.value);
-          else allowed.delete(b.value);
-        });
-        syncState();
+          const allBox = dropdown.querySelector<HTMLInputElement>('input[data-all]');
+          if (allBox && col !== 'operator') {
+            const boxes = [...dropdown.querySelectorAll<HTMLInputElement>('input[type="checkbox"]:not([data-all])')];
+            const checked = boxes.filter((b) => b.checked).length;
+            allBox.checked = checked === boxes.length;
+            allBox.indeterminate = checked > 0 && checked < boxes.length;
+          }
+        }
+        syncFilterButtons();
         applyFilters();
       });
     });
 
+    function syncFilterButtons() {
+      document.querySelectorAll<HTMLButtonElement>('.fb-btn').forEach((btn) => {
+        const col = btn.dataset.col ?? '';
+        const allowed = selected.get(col);
+        if (!allowed) return;
+        const total = col === 'operator'
+          ? DATA.operators.length
+          : new Set(DATA.rows.map((r) => COL_FIELD[col](r))).size;
+        btn.classList.toggle('is-active', allowed.size < total);
+      });
+    }
+
+    /* ---------- Filtering + stats + map sync ---------- */
+    let current: RowData[] = DATA.rows;
+    let shown = PAGE;
+
     function applyFilters() {
-      let count = 0;
+      const favs = savedOnly ? favProjectIds() : null;
+      const entries = [...selected.entries()];
+      current = DATA.rows.filter((r) =>
+        entries.every(([col, allowed]) => allowed.has(COL_FIELD[col](r)))
+        && (!query || r.sea.includes(query))
+        && (!favs || favs.has(r.id)));
+
       let mw = 0;
       let x0 = Infinity, y0 = Infinity, x1 = -Infinity, y1 = -Infinity;
       const visibleIds = new Set<string>();
-      const favs = savedOnly ? favProjectIds() : null;
-      rows.forEach((tr) => {
-        const ok = [...selected.entries()].every(([col, allowed]) =>
-          allowed.has(tr.dataset[col] ?? ''),
-        ) && (!query || (tr.dataset.search ?? '').includes(query))
-          && (!favs || favs.has(tr.dataset.id ?? ''));
-        tr.classList.toggle('is-hidden', !ok);
-        if (ok) {
-          visibleIds.add(tr.dataset.id ?? '');
-          count++;
-          mw += tr.dataset.leased ? 0 : (numOf(tr, 'capacity') ?? 0);
-          const px = parseFloat(tr.dataset.mx ?? '');
-          const py = parseFloat(tr.dataset.my ?? '');
-          if (!Number.isNaN(px) && !Number.isNaN(py)) {
-            x0 = Math.min(x0, px); x1 = Math.max(x1, px);
-            y0 = Math.min(y0, py); y1 = Math.max(y1, py);
-          }
+      for (const r of current) {
+        visibleIds.add(r.id);
+        mw += r.lease ? 0 : (r.cap ?? 0);
+        if (r.mx !== null && r.my !== null) {
+          x0 = Math.min(x0, r.mx); x1 = Math.max(x1, r.mx);
+          y0 = Math.min(y0, r.my); y1 = Math.max(y1, r.my);
         }
-      });
-      // Keep the map in sync: only pins for visible projects stay on.
+      }
       mapPins.forEach((pin) =>
-        pin.classList.toggle('is-hidden', !visibleIds.has(pin.dataset.id ?? '')),
-      );
-      // Leaflet mode syncs its markers off the same id set.
+        pin.classList.toggle('is-hidden', !visibleIds.has(pin.dataset.id ?? '')));
       document.dispatchEvent(new CustomEvent('dcmap:visible', {
         detail: { ids: [...visibleIds] },
       }));
-      if (statCount) statCount.textContent = `${count} ${count === 1 ? 'project' : 'projects'}`;
+      if (statCount) statCount.textContent = `${current.length} ${current.length === 1 ? 'project' : 'projects'}`;
       if (statMw) statMw.textContent = `${Math.round(mw).toLocaleString('en-US')} MW tracked`;
       if (emptyMsg) {
-        emptyMsg.classList.toggle('is-hidden', count > 0);
-        if (count === 0) {
+        emptyMsg.classList.toggle('is-hidden', current.length > 0);
+        if (current.length === 0) {
           const title = emptyMsg.querySelector('#pipeline-empty-title');
           const sub = emptyMsg.querySelector('#pipeline-empty-sub');
           const iconSaved = emptyMsg.querySelector('.empty-icon-saved');
@@ -500,13 +606,50 @@ const columns: Column[] = [
           iconFilter?.toggleAttribute('hidden', savedOnly);
         }
       }
-      // Re-frame the map on the filtered set (the HeatMap script listens).
-      if (count > 0 && Number.isFinite(x0)) {
+      if (current.length > 0 && Number.isFinite(x0)) {
         document.dispatchEvent(new CustomEvent('dcmap:fit', { detail: { x0, y0, x1, y1 } }));
       }
+      shown = PAGE;
+      renderRows();
+      syncUrl();
     }
 
-    /* Search wiring: debounced input, "/" focuses, Escape clears. */
+    /* ---------- Client-side row rendering ---------- */
+    const BOOKMARK = '<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6.5 3.5h11a1 1 0 0 1 1 1v16l-6.5-4.2L5.5 20.5v-16a1 1 0 0 1 1-1z"/></svg>';
+
+    function rowHtml(r: RowData): string {
+      return `<tr data-id="${esc(r.id)}" data-name="${esc(r.name)}" data-mx="${r.mx ?? ''}" data-my="${r.my ?? ''}" data-exact="${r.ex ? '1' : '0'}">` +
+        `<td class="proj-name"><button type="button" class="fav-btn" data-fav-type="projects" data-fav-id="${esc(r.id)}" aria-pressed="false" aria-label="Save this project" title="Save">${BOOKMARK}</button> <a href="${r.u}">${esc(r.name)}</a></td>` +
+        `<td class="proj-operator" data-label="Operator" title="${esc(r.op)}">${esc(r.op)}</td>` +
+        `<td class="proj-region" data-label="Region"><span class="chip region">${esc(r.rc)}</span></td>` +
+        `<td class="proj-loc" data-label="Country" title="${esc(r.co)}">${esc(r.co)}</td>` +
+        `<td class="proj-loc" data-label="Location" title="${esc(r.loc)}">${r.loc ? esc(r.loc) : '<span class="is-empty">—</span>'}</td>` +
+        `<td class="proj-cap" data-label="Capacity"><span class="cap-value${r.cap === null ? ' is-empty' : ''}">${esc(r.capv)}</span>${r.capn ? `<span class="cap-note">${esc(r.capn)}</span>` : ''}</td>` +
+        `<td class="proj-invest" data-label="Investment">${r.inv ? `<span title="${esc(r.inv)}">${esc(r.inv)}</span>` : '<span class="is-empty">—</span>'}</td>` +
+        `<td data-label="Status"><span class="badge ${esc(r.stc)}">${esc(r.stl)}</span></td>` +
+        `<td class="proj-updated" data-label="Updated">${r.upds ? esc(r.upds) : '<span class="is-empty">—</span>'}</td>` +
+        `</tr>`;
+    }
+
+    function renderRows() {
+      if (!tbody) return;
+      tbody.innerHTML = current.slice(0, shown).map(rowHtml).join('');
+      if (sentinel) sentinel.hidden = shown >= current.length;
+      // New fav buttons need their saved state painted.
+      document.dispatchEvent(new CustomEvent('dcfav:refresh'));
+    }
+
+    /* Infinite append: grow the window when the sentinel scrolls into view. */
+    if (sentinel && 'IntersectionObserver' in window) {
+      new IntersectionObserver((entries2) => {
+        if (entries2.some((en) => en.isIntersecting) && shown < current.length) {
+          shown += PAGE;
+          renderRows();
+        }
+      }, { root: document.querySelector('.pipeline-panel'), rootMargin: '600px' }).observe(sentinel);
+    }
+
+    /* ---------- Search ---------- */
     let searchTimer = 0;
     searchInput?.addEventListener('input', () => {
       window.clearTimeout(searchTimer);
@@ -540,7 +683,7 @@ const columns: Column[] = [
     });
 
     /* ---------- Dropdown open / close ---------- */
-    const filterBtns = [...document.querySelectorAll<HTMLButtonElement>('.th-filter-btn')];
+    const filterBtns = [...document.querySelectorAll<HTMLButtonElement>('.fb-btn')];
 
     function closeDropdowns() {
       document.querySelectorAll<HTMLElement>('.th-dropdown').forEach((dd) => dd.classList.add('is-hidden'));
@@ -549,11 +692,14 @@ const columns: Column[] = [
 
     filterBtns.forEach((btn) => {
       btn.addEventListener('click', () => {
-        const dropdown = btn.closest('th')?.querySelector<HTMLElement>('.th-dropdown');
+        const dropdown = btn.closest('.fb-item')?.querySelector<HTMLElement>('.th-dropdown');
         if (!dropdown) return;
         const willOpen = dropdown.classList.contains('is-hidden');
         closeDropdowns();
         if (willOpen) {
+          if (btn.dataset.col === 'operator' && operatorHost && !operatorHost.hasChildNodes()) {
+            renderOperatorOptions();
+          }
           dropdown.classList.remove('is-hidden');
           btn.setAttribute('aria-expanded', 'true');
         }
@@ -561,7 +707,7 @@ const columns: Column[] = [
     });
 
     document.addEventListener('click', (e) => {
-      if (!(e.target as HTMLElement).closest('.th-filterable')) closeDropdowns();
+      if (!(e.target as HTMLElement).closest('.fb-item')) closeDropdowns();
     });
 
     document.addEventListener('keydown', (e) => {
@@ -571,62 +717,157 @@ const columns: Column[] = [
       openBtn?.focus();
     });
 
-    /* ---------- Sortable headers (Capacity / Investment / Last updated) ---------- */
+    /* ---------- Sorting (data-level, then re-render) ---------- */
     const sortBtns = [...document.querySelectorAll<HTMLButtonElement>('.th-sort')];
 
     function applySort(key: string, dir: string) {
-      if (!tbody) return;
       const mul = dir === 'asc' ? 1 : -1;
-      [...rows]
-        .sort((a, b) => {
-          if (key === 'capacity' || key === 'investment') {
-            const av = numOf(a, key);
-            const bv = numOf(b, key);
-            // Empty (unknown) sinks to the bottom in both directions.
-            if (av === null) return bv === null ? 0 : 1;
-            if (bv === null) return -1;
-            return (av - bv) * mul;
-          }
-          const av = a.dataset.updated ?? '';
-          const bv = b.dataset.updated ?? '';
-          // Empty (never updated) sinks to the bottom in both directions.
-          if (av === '') return bv === '' ? 0 : 1;
-          if (bv === '') return -1;
-          return (av < bv ? -1 : av > bv ? 1 : 0) * mul;
-        })
-        .forEach((tr) => tbody.appendChild(tr));
+      current = [...current].sort((a, b) => {
+        if (key === 'capacity' || key === 'investment') {
+          const av = key === 'capacity' ? a.cap : a.invm;
+          const bv = key === 'capacity' ? b.cap : b.invm;
+          if (av === null) return bv === null ? 0 : 1;
+          if (bv === null) return -1;
+          return (av - bv) * mul;
+        }
+        const av = a.upd ?? '';
+        const bv = b.upd ?? '';
+        if (av === '') return bv === '' ? 0 : 1;
+        if (bv === '') return -1;
+        return (av < bv ? -1 : av > bv ? 1 : 0) * mul;
+      });
+      renderRows();
+      syncUrl();
     }
 
     sortBtns.forEach((btn) => {
       btn.addEventListener('click', () => {
         const nextDir = btn.dataset.dir === 'desc' ? 'asc' : 'desc';
-        sortBtns.forEach((b) => (b.dataset.dir = 'none'));
+        sortBtns.forEach((b) => {
+          b.dataset.dir = 'none';
+          b.closest('th')?.setAttribute('aria-sort', 'none');
+        });
         btn.dataset.dir = nextDir;
+        btn.closest('th')?.setAttribute('aria-sort', nextDir === 'asc' ? 'ascending' : 'descending');
         applySort(btn.dataset.sort ?? 'updated', nextDir);
       });
     });
 
-    /* ---------- Row hover -> map pin (Baxtel-style locate) ----------
-       Rows carry the pin in SVG viewBox units (data-mx/data-my, projected at
-       build time); HeatMap.astro listens for dcmap:locate and places the
-       marker in whichever map mode is active (SVG or Leaflet). */
-    rows.forEach((tr) => {
-      tr.addEventListener('mouseenter', () => {
-        const sx = parseFloat(tr.dataset.mx ?? '');
-        const sy = parseFloat(tr.dataset.my ?? '');
-        if (Number.isNaN(sx) || Number.isNaN(sy)) return;
-        document.dispatchEvent(new CustomEvent('dcmap:locate', {
-          detail: {
-            x: sx,
-            y: sy,
-            label: tr.dataset.name ?? '',
-            approx: tr.dataset.exact === '0',
-          },
-        }));
-      });
-      tr.addEventListener('mouseleave', () => {
-        document.dispatchEvent(new CustomEvent('dcmap:unlocate'));
-      });
+    /* ---------- Row hover -> map pin (event delegation) ---------- */
+    let hoverTr: HTMLTableRowElement | null = null;
+    tbody?.addEventListener('mouseover', (e) => {
+      const tr = (e.target as HTMLElement).closest('tr');
+      if (!tr || tr === hoverTr) return;
+      hoverTr = tr as HTMLTableRowElement;
+      const sx = parseFloat(hoverTr.dataset.mx ?? '');
+      const sy = parseFloat(hoverTr.dataset.my ?? '');
+      if (Number.isNaN(sx) || Number.isNaN(sy)) return;
+      document.dispatchEvent(new CustomEvent('dcmap:locate', {
+        detail: {
+          x: sx,
+          y: sy,
+          label: hoverTr.dataset.name ?? '',
+          approx: hoverTr.dataset.exact === '0',
+        },
+      }));
     });
+    tbody?.addEventListener('mouseleave', () => {
+      hoverTr = null;
+      document.dispatchEvent(new CustomEvent('dcmap:unlocate'));
+    });
+
+    /* ---------- URL state ---------- */
+    function syncUrl() {
+      const p = new URLSearchParams();
+      if (query) p.set('q', query);
+      if (savedOnly) p.set('saved', '1');
+      for (const [col, allowed] of selected) {
+        const total = col === 'operator'
+          ? DATA.operators.length
+          : new Set(DATA.rows.map((r) => COL_FIELD[col](r))).size;
+        if (allowed.size < total) {
+          p.set(col, allowed.size === 0 ? '__none__' : [...allowed].join(','));
+        }
+      }
+      const activeSort = sortBtns.find((b) => b.dataset.dir && b.dataset.dir !== 'none');
+      if (activeSort && !(activeSort.dataset.sort === 'updated' && activeSort.dataset.dir === 'desc')) {
+        p.set('sort', activeSort.dataset.sort ?? '');
+        p.set('dir', activeSort.dataset.dir ?? '');
+      }
+      if (layoutEl?.dataset.mode === 'map') p.set('mode', 'map');
+      const qs = p.toString();
+      history.replaceState(null, '', location.pathname + (qs ? `?${qs}` : ''));
+    }
+
+    function restoreFromUrl() {
+      const p = new URLSearchParams(location.search);
+      const q0 = p.get('q');
+      if (q0 && searchInput) {
+        searchInput.value = q0;
+        query = q0.trim().toLowerCase();
+      }
+      if (p.get('saved') === '1' && savedToggle) {
+        savedOnly = true;
+        savedToggle.classList.add('is-active');
+        savedToggle.setAttribute('aria-pressed', 'true');
+      }
+      for (const col of Object.keys(COL_FIELD)) {
+        const raw = p.get(col);
+        if (raw === null) continue;
+        const allowed = selected.get(col)!;
+        if (raw === '__none__') {
+          allowed.clear();
+        } else {
+          const wanted = new Set(raw.split(','));
+          for (const v of [...allowed]) if (!wanted.has(v)) allowed.delete(v);
+        }
+        if (col !== 'operator') {
+          const dropdown = document.querySelector<HTMLElement>(`.th-dropdown[data-col="${col}"]`);
+          dropdown?.querySelectorAll<HTMLInputElement>('input[type="checkbox"]').forEach((b) => {
+            if (b.hasAttribute('data-all')) return;
+            b.checked = allowed.has(b.value);
+          });
+          const allBox = dropdown?.querySelector<HTMLInputElement>('input[data-all]');
+          const boxes = dropdown ? [...dropdown.querySelectorAll<HTMLInputElement>('input[type="checkbox"]:not([data-all])')] : [];
+          if (allBox) {
+            const checked = boxes.filter((b) => b.checked).length;
+            allBox.checked = checked === boxes.length;
+            allBox.indeterminate = checked > 0 && checked < boxes.length;
+          }
+        }
+      }
+      const sortKey = p.get('sort');
+      const sortDir = p.get('dir') === 'asc' ? 'asc' : 'desc';
+      if (sortKey && ['capacity', 'investment', 'updated'].includes(sortKey)) {
+        sortBtns.forEach((b) => {
+          const on = b.dataset.sort === sortKey;
+          b.dataset.dir = on ? sortDir : 'none';
+          b.closest('th')?.setAttribute('aria-sort', on ? (sortDir === 'asc' ? 'ascending' : 'descending') : 'none');
+        });
+      }
+      if (p.get('mode') === 'map') setMode('map');
+      else {
+        try {
+          const savedMode = localStorage.getItem('pipeline-mode');
+          if (!p.get('mode') && (savedMode === 'map' || savedMode === 'list')) setMode(savedMode);
+        } catch { /* private mode */ }
+      }
+      syncFilterButtons();
+    }
+
+    restoreFromUrl();
+
+    /* First paint: the server already rendered the first SERVER_ROWS rows in
+       the default order; just top up to a full PAGE from the data. */
+    if (DATA.rows.length > SERVER_ROWS && tbody) {
+      tbody.insertAdjacentHTML(
+        'beforeend',
+        DATA.rows.slice(SERVER_ROWS, Math.min(PAGE, DATA.rows.length)).map(rowHtml).join(''),
+      );
+      if (sentinel) sentinel.hidden = DATA.rows.length <= PAGE;
+      document.dispatchEvent(new CustomEvent('dcfav:refresh'));
+    }
+    // If the URL carried any state, re-render through the filter pipeline.
+    if (location.search) applyFilters();
   </script>
 </Base>

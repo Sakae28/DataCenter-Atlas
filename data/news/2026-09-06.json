@@ -2,72 +2,11 @@
   "date": "2026-09-06",
   "generated_at": "2026-09-08T07:48:42Z",
   "hot": [
-    "2026-09-06-ebd8c9",
-    "2026-09-06-c48a62",
+    "2026-09-06-578046",
     "2026-09-06-a9da04",
-    "2026-09-06-578046"
+    "2026-09-06-c48a62"
   ],
   "stories": [
-    {
-      "id": "2026-09-06-578046",
-      "title": "Macquarie passes on Stack Infra's $28b-plus data centres as bids land",
-      "summary": "Macquarie has declined to participate in the sale process for Stack Infrastructure's Asia-Pacific data centre portfolio, valued at more than A$28 billion, as formal bids from other suitors are submitted. The decision removes one of the most prominent infrastructure investors from contention in what would rank among the region's largest-ever digital infrastructure transactions. Remaining bidders are now positioning offers for the hyperscale-focused platform.",
-      "why_it_matters": "Macquarie's exit narrows the field of deep-pocketed buyers and could reshape the pricing and structure of one of APAC's largest data centre deals, affecting valuations across the sector. For operators and investors, it signals that even the most active infrastructure funds are being selective about entry price amid rising build costs and interest-rate pressure.",
-      "score": 85,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "investment",
-        "m&a",
-        "hyperscale",
-        "capacity"
-      ],
-      "published_at": "2026-09-06T00:00:00Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/street-talk/macquarie-passes-on-stack-infra-s-28b-plus-data-centres-as-bids-land-20260906-p60uvm",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Macquarie",
-        "Stack Infrastructure"
-      ],
-      "content": "Macquarie Asset Management did not submit an indicative offer for the Stack portfolio, multiple sources told Street Talk on the condition of anonymity. That’s despite it hiring two investment banks, UBS and Goldman Sachs, for advice on funding and diligence.\n\nLoading...\n\nSarah Thompson has co-edited Street Talk since 2009, specialising in private equity, investment banking, M&A and equity capital markets stories. Prior to that, she spent 10 years in London as a markets and M&A reporter at Bloomberg and Dow Jones. Email Sarah at sarah.thompson@afr.com\n\nAngira Bharadwaj is a co-editor of Street Talk. She covers IPOs, capital raises, mergers and acquisitions and other breaking news in Australia’s capital markets. Previously, she covered financial services, state, and federal politics. Send tips to @angirab.60 on encrypted messaging platform Signal. Email Angira at angira.bharadwaj@nine.com.au",
-      "content_url": "https://www.afr.com/street-talk/macquarie-passes-on-stack-infra-s-28b-plus-data-centres-as-bids-land-20260906-p60uvm"
-    },
-    {
-      "id": "2026-09-06-a9da04",
-      "title": "Energy overtakes land as biggest data centre bottleneck",
-      "summary": "Industry executives and analysts report that securing power supply has replaced land acquisition as the primary constraint on data centre development across Asia-Pacific markets. Grid connection queues, limited substation capacity, and competition from electrification demand are delaying projects in key hubs even where sites are available. The shift is forcing developers to engage utilities earlier and to explore self-generation and alternative energy arrangements.",
-      "why_it_matters": "This marks a fundamental reordering of site-selection economics: markets once prized for cheap land and connectivity now win or lose projects on power availability. Developers, utilities, and governments face pressure to accelerate grid investment, while operators in power-constrained hubs risk multi-year delays that could redirect capacity growth toward emerging markets with more accessible energy.",
-      "score": 80,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "power",
-        "capacity",
-        "energy",
-        "land"
-      ],
-      "published_at": "2026-09-06T00:00:00Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/companies/infrastructure/energy-overtakes-land-as-biggest-data-centre-bottleneck-20260906-p60utk",
-          "type": "html-list"
-        }
-      ],
-      "content": "CompaniesInfrastructureData centresPrint articleEnergy overtakes land as biggest data centre bottleneckJenny WigginsSenior reporterSep 6, 2026 – 8.00pmSecuring access to power has trumped land acquisitions as the biggest hurdle to building new data centres, developers say, as projects worth tens of billions of dollars compete for renewable energy contracts amid surging demand.Developers will tell The Australian Financial Review Property Summit on Monday that land is no longer the biggest constraint to development, but that they could have trouble securing enough renewable energy to meet new national standards if additional power is not added to the Australian grid.Loading...SaveLog in or Subscribe to save articleShareCopy linkCopiedEmailLinkedInTwitterFacebookCopy linkCopiedShare via...Gift this articleSubscribe to gift this articleGift 5 articles to anyone you choose each month when you subscribe.Subscribe nowAlready a subscriber? LoginLicense articleRead MoreData centresFirmus GridRenewablesElectricityLatest In InfrastructureFetching latest articlesMost Viewed In Companies",
-      "content_url": "https://www.afr.com/companies/infrastructure/energy-overtakes-land-as-biggest-data-centre-bottleneck-20260906-p60utk"
-    },
     {
       "id": "2026-09-06-c48a62",
       "title": "Vocus hit by Australia Singapore Cable break in Indonesian waters",
@@ -96,40 +35,70 @@
       "companies": [
         "Vocus"
       ],
-      "content": "## Key points\n\n- Vocus is grappling with a cable break on its Australia Singapore Cable (ASC) system between Perth and Singapore, following a shunt fault on the second major cable on the route weeks earlier.\n- COTDR testing from the Perth cable landing station has pinpointed the break to Indonesian waters between Anyer and Singapore, with Vocus now coordinating marine repairs, spare materials and regulatory approvals.\n- Internet traffic has been rerouted via alternate paths, with network engineers on Reddit reporting traffic shifting to Australian east coast cables and then through Japan or the United States.\n\n![Vocus hit by Australia Singapore Cable break](https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2f17_vocus.jpg&h=420&w=748&c=0&s=0) \n\nVocus is dealing with a break on its Australia Singapore Cable (ASC) system that runs between Perth and Singapore, weeks after the second major cable on the route experienced a shunt fault.\n\nThe problems with ASC began Friday night and were traced to a cable break between Anyer, which sits about 80km west of Jakarta, and Singapore, in Indonesian waters.\n\nVocus said in status updates that coherent optical time domain reflectometry (COTDR) testing from its Perth cable landing station had provided a more “accurate measurement of the cable break location.”\n\n”[We are] working closely with its marine repair partner to progress repair readiness, including reviewing the latest diagnostic results, confirming the required spare materials, and coordinating the necessary permits and regulatory approvals,” it said in its most recent status update.\n\nThe transmission operator said that internet traffic had been “rerouted via alternate paths”.\n\nWhat this means will vary by internet service provider or other organisations that rely on west coast subsea paths to route traffic to Singapore and beyond.\n\nBut network engineers posting to Reddit indicated that traffic was rerouting to cables on Australian east coast, and then via countries such as Japan or the United States.\n\nThe last published status updates for Indigo West indicated a repair timeframe in the first part of September.",
+      "content": "## Key points\n\n- Vocus is grappling with a cable break on its Australia Singapore Cable (ASC) system between Perth and Singapore, following a shunt fault on the second major cable on the route weeks earlier.\n- COTDR testing from the Perth cable landing station has pinpointed the break to Indonesian waters between Anyer and Singapore, with Vocus now coordinating marine repairs, spare materials and regulatory approvals.\n- Internet traffic has been rerouted via alternate paths, with network engineers on Reddit reporting traffic shifting to Australian east coast cables and then through Japan or the United States.\n\nVocus is dealing with a break on its Australia Singapore Cable (ASC) system that runs between Perth and Singapore, weeks after the second major cable on the route experienced a shunt fault.\n\nThe problems with ASC began Friday night and were traced to a cable break between Anyer, which sits about 80km west of Jakarta, and Singapore, in Indonesian waters.\n\nVocus said in status updates that coherent optical time domain reflectometry (COTDR) testing from its Perth cable landing station had provided a more “accurate measurement of the cable break location.”\n\n”[We are] working closely with its marine repair partner to progress repair readiness, including reviewing the latest diagnostic results, confirming the required spare materials, and coordinating the necessary permits and regulatory approvals,” it said in its most recent status update.\n\nThe transmission operator said that internet traffic had been “rerouted via alternate paths”.\n\nWhat this means will vary by internet service provider or other organisations that rely on west coast subsea paths to route traffic to Singapore and beyond.\n\nBut network engineers posting to Reddit indicated that traffic was rerouting to cables on Australian east coast, and then via countries such as Japan or the United States.\n\nThe last published status updates for Indigo West indicated a repair timeframe in the first part of September.",
       "content_url": "https://www.itnews.com.au/news/vocus-hit-by-australia-singapore-cable-break-628720"
     },
     {
-      "id": "2026-09-06-ebd8c9",
-      "title": "TCS HyperVault to build 1 GW AI data centre campus in Hyderabad",
-      "summary": "HyperVault, a subsidiary of Tata Consultancy Services, has chosen Hyderabad for a planned 1 GW AI data centre campus backed by up to ₹70,000 crore in combined investment from the company and its partners. The facility is designed to support high-density GPU deployments for advanced AI computing workloads.",
-      "why_it_matters": "The commitment marks one of India's largest single AI infrastructure bets and elevates Hyderabad's standing against rival hubs such as Mumbai and Chennai. It also signals that IT services giants like TCS are moving directly into AI compute infrastructure, competing with established data centre operators for hyperscale and enterprise AI demand.",
-      "score": 40,
+      "id": "2026-09-06-578046",
+      "title": "Macquarie passes on Stack Infra's $28b-plus data centres as bids land",
+      "summary": "Macquarie has declined to participate in the sale process for Stack Infrastructure's Asia-Pacific data centre portfolio, valued at more than A$28 billion, as formal bids from other suitors are submitted. The decision removes one of the most prominent infrastructure investors from contention in what would rank among the region's largest-ever digital infrastructure transactions. Remaining bidders are now positioning offers for the hyperscale-focused platform.",
+      "why_it_matters": "Macquarie's exit narrows the field of deep-pocketed buyers and could reshape the pricing and structure of one of APAC's largest data centre deals, affecting valuations across the sector. For operators and investors, it signals that even the most active infrastructure funds are being selective about entry price amid rising build costs and interest-rate pressure.",
+      "score": 85,
       "heat": 1,
       "regions": [
-        "global"
+        "australia"
       ],
       "topics": [
-        "ai",
-        "data-centre",
         "investment",
+        "m&a",
+        "hyperscale",
         "capacity"
       ],
-      "published_at": "2026-09-06T03:15:07Z",
-      "featured": false,
+      "published_at": "2026-09-06T12:00:00Z",
+      "featured": true,
       "sources": [
         {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/tcs-hypervault-to-build-1-gw-ai-data-centre-campus-in-hyderabad/133824094",
-          "type": "rss"
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/street-talk/macquarie-passes-on-stack-infra-s-28b-plus-data-centres-as-bids-land-20260906-p60uvm",
+          "type": "html-list"
         }
       ],
       "companies": [
-        "TCS",
-        "HyperVault"
+        "Macquarie",
+        "Stack Infrastructure"
       ],
-      "content": "TCS subsidiary HyperVault has selected Hyderabad for a 1 GW artificial intelligence (AI) data centre campus, with investments of up to 70,000 crore planned by the company and its partners. This significant investment is set to boost India's AI infrastructure, enabling high-density GPU deployments for advanced computing workloads.\n\nSelect ETDatacenters as Preferred Choice on Google\n\nHighlights\n\nTCS subsidiary HyperVault selects Hyderabad for a 1 GW AI data centre campus\n\nThe project involves up to 70,000 crore investment from HyperVault and partners\n\nCampus to support high-density GPU deployments for frontier AI and hyperscalers\n\nDevelopment will be phased, incorporating green energy and water-neutral design\n\nHyperVault, the data centre subsidiary of Tata Consultancy Services (TCS), has secured 264 acres of land in Hyderabad to develop a large-scale artificial intelligence (AI) data centre campus with a capacity of up to 1 gigawatt (GW). The project, which involves HyperVault and its partners, is expected to see investments of up to 70,000 crore for its construction and management.The Hyderabad AI data centre campus is purpose-built to cater to the requirements of frontier AI companies and hyperscalers, facilitating high-density graphics processing unit (GPU) deployments for AI training, inference, and other advanced computing workloads. K Krithivasan, Chief Executive Officer (CEO) and Managing Director (MD) of TCS, stated that HyperVault advances TCS Infrastructure-to-Intelligence strategy by integrating AI-ready infrastructure with its cloud, engineering, enterprise transformation, and AI capabilities. He noted that Hyderabad offers the necessary scale, talent, and ecosystem to serve global customers.\n\nPhased Development and Green Initiatives\n\nThe development of the data centre campus will proceed in a phased manner, aligning with customer demand and evolving technology requirements. Upon full build-out, the campus is projected to be among India's most advanced and largest AI infrastructure campuses. Telangana Chief Minister A Revanth Reddy described the establishment of the data centre in Telangana as historic, asserting that it positions Hyderabad at the forefront of the global AI revolution with a strong focus on infrastructure. He added that access to AI models and compute is rapidly becoming public infrastructure, and having this compute reside in Telangana provides a distinct advantage.The campus is also designed to incorporate green energy sources and water-neutral design principles as part of its construction. Beyond the immediate campus, the project is anticipated to catalyse Indias broader AI infrastructure ecosystem across various sectors, including power, cooling, networking, construction, engineering, and operations. The initiative is expected to generate several thousand direct and indirect jobs within the region.IT and Industries Minister D Sridhar Babu, who led the negotiations for the agreement, mentioned that the partnership originated from a conversation between Chief Minister Reddy and N Chandrasekaran, Chairman of Tata Sons, in Davos earlier this year. Deepesh Kiran Nanda, CEO and MD of HyperVault AI Data Center Limited, highlighted that the infrastructure is being built to address the future direction of AI, which includes higher density, liquid cooling, larger power blocks, and faster deployment. He credited Hyderabad for providing the foundation to build such infrastructure at scale for frontier AI companies and hyperscalers.Last year, TCS announced its entry into the data centre segment with the formation of HyperVault. Private equity firm TPG is investing $1 billion in the business.",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/tcs-hypervault-to-build-1-gw-ai-data-centre-campus-in-hyderabad/133824094"
+      "content": "Macquarie Asset Management did not submit an indicative offer for the Stack portfolio, multiple sources told Street Talk on the condition of anonymity. That’s despite it hiring two investment banks, UBS and Goldman Sachs, for advice on funding and diligence.\n\nLoading...\n\nSarah Thompson has co-edited Street Talk since 2009, specialising in private equity, investment banking, M&A and equity capital markets stories. Prior to that, she spent 10 years in London as a markets and M&A reporter at Bloomberg and Dow Jones. Email Sarah at sarah.thompson@afr.com\n\nAngira Bharadwaj is a co-editor of Street Talk. She covers IPOs, capital raises, mergers and acquisitions and other breaking news in Australia’s capital markets. Previously, she covered financial services, state, and federal politics. Send tips to @angirab.60 on encrypted messaging platform Signal. Email Angira at angira.bharadwaj@nine.com.au",
+      "content_url": "https://www.afr.com/street-talk/macquarie-passes-on-stack-infra-s-28b-plus-data-centres-as-bids-land-20260906-p60uvm",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-09-06-a9da04",
+      "title": "Energy overtakes land as biggest data centre bottleneck",
+      "summary": "Industry executives and analysts report that securing power supply has replaced land acquisition as the primary constraint on data centre development across Asia-Pacific markets. Grid connection queues, limited substation capacity, and competition from electrification demand are delaying projects in key hubs even where sites are available. The shift is forcing developers to engage utilities earlier and to explore self-generation and alternative energy arrangements.",
+      "why_it_matters": "This marks a fundamental reordering of site-selection economics: markets once prized for cheap land and connectivity now win or lose projects on power availability. Developers, utilities, and governments face pressure to accelerate grid investment, while operators in power-constrained hubs risk multi-year delays that could redirect capacity growth toward emerging markets with more accessible energy.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "power",
+        "capacity",
+        "energy",
+        "land"
+      ],
+      "published_at": "2026-09-06T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/infrastructure/energy-overtakes-land-as-biggest-data-centre-bottleneck-20260906-p60utk",
+          "type": "html-list"
+        }
+      ],
+      "content": "CompaniesInfrastructureData centresPrint articleEnergy overtakes land as biggest data centre bottleneckJenny WigginsSenior reporterSep 6, 2026 – 8.00pmSecuring access to power has trumped land acquisitions as the biggest hurdle to building new data centres, developers say, as projects worth tens of billions of dollars compete for renewable energy contracts amid surging demand.Developers will tell The Australian Financial Review Property Summit on Monday that land is no longer the biggest constraint to development, but that they could have trouble securing enough renewable energy to meet new national standards if additional power is not added to the Australian grid.Loading...SaveLog in or Subscribe to save articleShareCopy linkCopiedEmailLinkedInTwitterFacebookCopy linkCopiedShare via...Gift this articleSubscribe to gift this articleGift 5 articles to anyone you choose each month when you subscribe.Subscribe nowAlready a subscriber? LoginLicense articleRead MoreData centresFirmus GridRenewablesElectricityLatest In InfrastructureFetching latest articlesMost Viewed In Companies",
+      "content_url": "https://www.afr.com/companies/infrastructure/energy-overtakes-land-as-biggest-data-centre-bottleneck-20260906-p60utk",
+      "published_precision": "day"
     }
   ]
 }
