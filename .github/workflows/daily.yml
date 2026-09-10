@@ -5,6 +5,11 @@ name: Deploy site
 # on the user's machine) and commits data/ back to the repo. This workflow
 # only builds and deploys the site on push — it no longer fetches news, so
 # it needs neither the accelerator nor an LLM API key.
+#
+# Job structure follows the official Astro GitHub Pages guide
+# (https://docs.astro.build/en/guides/deploy/github/): withastro/action only
+# builds and uploads the artifact; actions/deploy-pages does the actual
+# deployment. Repo Settings → Pages → Source must be "GitHub Actions".
 
 on:
   push:
@@ -12,7 +17,8 @@ on:
   workflow_dispatch:
 
 permissions:
-  pages: write      # deploy to GitHub Pages
+  contents: read
+  pages: write
   id-token: write
 
 concurrency:
@@ -20,12 +26,23 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build-deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build and deploy site
+      - name: Install, build, and upload the site
         uses: withastro/action@v3
         with:
           path: ./site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
