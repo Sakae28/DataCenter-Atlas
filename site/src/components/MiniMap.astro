@@ -50,17 +50,19 @@ const { lat, lon, label, status } = Astro.props;
       });
       new ResizeObserver(() => map.invalidateSize()).observe(el);
 
-      // Same tile sources as HeatMap: CARTO Positron (English labels) first,
-      // plain OSM as backup when nothing loads within 5s.
+      // Tile sources in fallback order (5s stall -> next). CARTO Positron was
+      // dropped 2026-09-10: CARTO now demands an API key on every tile
+      // ("API KEY REQUIRED" watermark). OSM standard first, OSM France HOT
+      // second — the latter is reachable directly from mainland China.
       const TILE_SOURCES: { url: string; subdomains?: string; attribution: string }[] = [
-        {
-          url: 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png',
-          subdomains: 'abcd',
-          attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions" target="_blank" rel="noopener">CARTO</a>',
-        },
         {
           url: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
           attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors',
+        },
+        {
+          url: 'https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png',
+          subdomains: 'abc',
+          attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors, Tiles style by <a href="https://www.hotosm.org" target="_blank" rel="noopener">HOT</a> hosted by <a href="https://openstreetmap.fr" target="_blank" rel="noopener">OSM France</a>',
         },
       ];
       let settled = false;

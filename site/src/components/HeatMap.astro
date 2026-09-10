@@ -501,17 +501,20 @@ const legend = STATUS_ORDER.map((s) => ({
         // window resize). Registered at init — not only after the first
         // tile — so size changes during tile loading are tracked too.
         new ResizeObserver(() => map.invalidateSize()).observe(wrap!);
-        // English-labeled tiles first (CARTO Positron renders name:en), plain
-        // OSM as backup, the static SVG if nothing loads within 5s per source.
+        // OSM standard first, OSM France HOT second (reachable directly from
+        // mainland China), the static SVG if nothing loads within 5s per
+        // source. CARTO Positron was dropped 2026-09-10: it now demands an
+        // API key on every tile ("API KEY REQUIRED" watermark) and its 200
+        // responses never trigger this stall fallback.
         const TILE_SOURCES: { url: string; subdomains?: string; attribution: string }[] = [
-          {
-            url: 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png',
-            subdomains: 'abcd',
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions" target="_blank" rel="noopener">CARTO</a>',
-          },
           {
             url: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors',
+          },
+          {
+            url: 'https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png',
+            subdomains: 'abc',
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors, Tiles style by <a href="https://www.hotosm.org" target="_blank" rel="noopener">HOT</a> hosted by <a href="https://openstreetmap.fr" target="_blank" rel="noopener">OSM France</a>',
           },
         ];
         let settled = false;
