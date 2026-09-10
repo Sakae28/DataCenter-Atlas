@@ -102586,7 +102586,51 @@
       "first_seen": "2026-09-04",
       "last_updated": "2026-09-04",
       "seed": false
+    },
+    {
+      "id": "firmus-ai-factory-malaysia-sites",
+      "name": "Firmus AI Factory Malaysia Sites",
+      "operator": "Firmus",
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "city": "",
+      "capacity_mw": null,
+      "status": "under_construction",
+      "developer": null,
+      "investor": "NVIDIA",
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [
+        "OpenAI"
+      ],
+      "power": "will deploy Nvidia Vera Rubin platform",
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "under_construction",
+          "date": "2026-09-10",
+          "story_id": "2026-09-10-c8a637"
+        }
+      ],
+      "story_ids": [
+        "2026-09-10-c8a637"
+      ],
+      "first_seen": "2026-09-10",
+      "last_updated": "2026-09-10",
+      "seed": false,
+      "capacity_note": "deal pushes Firmus past 900MW of total contracted capacity"
     }
   ],
-  "updated_at": "2026-09-08T07:52:51Z"
+  "updated_at": "2026-09-10T00:37:11Z"
 }
