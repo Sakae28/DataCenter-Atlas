@@ -308,6 +308,18 @@ def canonical_country(country: str) -> str:
     return COUNTRY_ALIASES.get(_canon(country), country)
 
 
+# Coverage scope: China / Japan / Korea / Australia / Southeast Asia only.
+# The LLM occasionally mis-tags an out-of-scope story (e.g. an India project
+# labeled "southeast-asia"); the region check alone can't catch that, so the
+# country whitelist is the hard guard. Empty country still passes (the region
+# field is already validated).
+TRACKED_COUNTRIES = {
+    "China", "Japan", "South Korea", "Australia", "Taiwan",
+    "Indonesia", "Malaysia", "Singapore", "Thailand", "Vietnam",
+    "Philippines",
+}
+
+
 def slugify(*parts: str) -> str:
     return _ALNUM_RE.sub("-", "-".join(p for p in parts if p).lower()).strip("-")
 
@@ -660,6 +672,9 @@ def _validate_update(raw: dict) -> dict | None:
     region = str(raw.get("region", "")).strip()
     if not (name and operator) or region not in REGIONS:
         return None
+    country = canonical_country(_clean(raw.get("country")))
+    if country and country not in TRACKED_COUNTRIES:
+        return None  # out of coverage scope (e.g. India mis-tagged as SEA)
     if operator.lower().startswith(("unnamed", "unknown", "undisclosed")):
         return None  # no canonical operator -> can never be matched reliably
     if _canon(operator) in DROP_OPERATORS:
@@ -686,7 +701,7 @@ def _validate_update(raw: dict) -> dict | None:
         "story_id": story_id,
         "name": name,
         "operator": operator,
-        "country": canonical_country(_clean(raw.get("country"))),
+        "country": country,
         "city": _clean(raw.get("city")),
         "region": region,
         "capacity_mw": cap,

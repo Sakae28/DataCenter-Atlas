@@ -102377,48 +102377,6 @@
       "seed": false
     },
     {
-      "id": "tcs-hypervault-hyderabad-ai-data-centre-campus",
-      "name": "TCS HyperVault Hyderabad AI Data Centre Campus",
-      "operator": "HyperVault",
-      "region": "southeast-asia",
-      "country": "India",
-      "city": "Hyderabad",
-      "capacity_mw": 1000,
-      "status": "announced",
-      "developer": null,
-      "investor": null,
-      "investment": "up to ₹70,000 crore combined investment from TCS and partners",
-      "phases": null,
-      "anchor_tenants": [],
-      "power": "designed for high-density GPU deployments",
-      "announced": "2026-09",
-      "construction_start": null,
-      "rfs": null,
-      "lat": null,
-      "lon": null,
-      "category": null,
-      "company_type": null,
-      "description": null,
-      "year_built": null,
-      "stage_detail": null,
-      "expansion_planned": null,
-      "specs": null,
-      "status_history": [
-        {
-          "status": "announced",
-          "date": "2026-09-06",
-          "story_id": "2026-09-06-ebd8c9"
-        }
-      ],
-      "story_ids": [
-        "2026-09-06-ebd8c9"
-      ],
-      "first_seen": "2026-09-06",
-      "last_updated": "2026-09-06",
-      "seed": false,
-      "capacity_note": "total planned"
-    },
-    {
       "id": "glp-foshan-data-center-campus",
       "name": "GLP Foshan Data Center Campus",
       "operator": "GLP",

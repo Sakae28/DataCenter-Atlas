@@ -1421,6 +1421,11 @@ a.chip.company:hover {
   margin-bottom: 16px;
 }
 
+.co-profile-body {
+  flex: 1;
+  min-width: 0;
+}
+
 .co-profile-name {
   font-size: 22px;
   font-weight: 800;
@@ -1432,7 +1437,7 @@ a.chip.company:hover {
   line-height: 1.6;
   color: var(--text-secondary);
   margin: 10px 0 14px;
-  max-width: 560px;
+  max-width: 780px;
 }
 
 .co-site {
