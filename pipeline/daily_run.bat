@@ -25,9 +25,9 @@ git add data/news data/reports data/projects.json >> pipeline\logs\daily.log 2>&
 git diff --cached --quiet >> pipeline\logs\daily.log 2>&1
 if errorlevel 1 (
   git commit -m "data: daily digest (local run)" >> pipeline\logs\daily.log 2>&1
-  git pull --rebase >> pipeline\logs\daily.log 2>&1 || git rebase --abort >> pipeline\logs\daily.log 2>&1
-  rem GitHub connectivity from CN is flaky: try direct first, fall back to
-  rem the accelerator when it is up.
+  rem GitHub connectivity from CN is flaky: direct first, accelerator as
+  rem fallback. Empty -c http.proxy= clears the global proxy config.
+  git -c http.proxy= -c https.proxy= pull --rebase >> pipeline\logs\daily.log 2>&1 || git rebase --abort >> pipeline\logs\daily.log 2>&1
   git -c http.proxy= -c https.proxy= push >> pipeline\logs\daily.log 2>&1
   if errorlevel 1 if defined FETCH_PROXY git -c http.proxy=%FETCH_PROXY% -c https.proxy=%FETCH_PROXY% push >> pipeline\logs\daily.log 2>&1
 )
