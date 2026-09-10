@@ -63,18 +63,6 @@ def period_id(kind: str, start: date) -> str:
     return start.strftime("%Y-%m")
 
 
-def auto_periods(today: date) -> list[tuple[str, str]]:
-    """Periods due today: last ISO week on Mondays, last month on the 1st."""
-    out: list[tuple[str, str]] = []
-    if today.weekday() == 0:
-        start = today - timedelta(days=7)
-        out.append(("weekly", period_id("weekly", start)))
-    if today.day == 1:
-        end = today - timedelta(days=1)
-        out.append(("monthly", period_id("monthly", end.replace(day=1))))
-    return out
-
-
 # ----------------------------------------------------------- data gathering
 
 def load_news_days() -> dict[date, list[dict]]:
@@ -360,15 +348,26 @@ def generate(kind: str, period: str, today: date | None = None) -> Path | None:
 
 
 def auto_generate(today: date | None = None) -> list[Path]:
-    """Generate whatever is due today (called by run.py after the digest)."""
+    """Generate missing reports (called by run.py after the digest).
+
+    Catch-up rather than calendar-triggered: the last COMPLETE ISO week and
+    the last calendar month are generated whenever their report file is
+    missing, regardless of today's weekday — a skipped daily run (weekend
+    away, Monday outage) no longer silently drops a period."""
     today = today or datetime.now(timezone.utc).date()
+    last_week_day = today - timedelta(days=today.weekday() + 7)
+    last_month_day = (today.replace(day=1) - timedelta(days=1)).replace(day=1)
+    due = [("weekly", period_id("weekly", last_week_day)),
+           ("monthly", period_id("monthly", last_month_day))]
     made = []
-    for kind, period in auto_periods(today):
+    for kind, period in due:
+        if (REPORTS_DIR / f"{kind}-{period}.json").exists():
+            continue
         out = generate(kind, period, today=today)
         if out:
             made.append(out)
     if not made:
-        log.info("reports: nothing due today")
+        log.info("reports: nothing due")
     return made
 
 

@@ -1,0 +1,146 @@
+{
+  "type": "weekly",
+  "period": "2026-W36",
+  "date_range": {
+    "start": "2026-08-31",
+    "end": "2026-09-06"
+  },
+  "generated_at": "2026-09-10T06:14:14Z",
+  "complete": true,
+  "stats": {
+    "stories": 139,
+    "sources": 16,
+    "days": 7,
+    "read_minutes": 3
+  },
+  "title": "Power squeeze reshapes Asia's data centre boom",
+  "lede": "The defining thread of the week was electricity: across Asia-Pacific, securing power has overtaken land as the primary constraint on data centre development. In Malaysia, DayOne moved to line up as much as 1.5GW of on-site generation and battery storage with utility Tenaga Nasional Berhad for a planned Selangor campus, a signal that large operators increasingly expect to supply their own power rather than wait on grids. Australia went further, with its energy regulator recommending that big data centers self-generate clean, firm power and pay full network connection costs. Singapore, meanwhile, awarded 50MW of new capacity under strict sustainability conditions while repositioning itself as the region's premium tier as Johor and Batam absorb scale demand. Capital remained abundant: KKR and Singtel completed their takeover of STT GDC, Keppel and its REIT spent over US$1.1 billion on Tokyo assets, and bids landed for Stack Infrastructure's A$28 billion portfolio. But community backlash over power, water and land spread across Asia, and subsea cable investment surged as operators raced to connect the build-out.",
+  "themes": [
+    {
+      "heading": "Power becomes the industry's binding constraint",
+      "narrative": "Energy supply displaced land as the top bottleneck for Asia-Pacific data centre development, with grid queues and substation limits slowing projects. DayOne's twin agreements with Tenaga Nasional Berhad to develop up to 1.5GW of on-site generation and battery storage for a Selangor campus show operators moving toward self-supplied power. In Singapore, energy stakeholders warned that AI-driven data centre demand will strain the city-state's power system.",
+      "story_ids": [
+        "2026-09-06-a9da04",
+        "2026-09-04-bca63f",
+        "2026-09-01-02021a",
+        "2026-09-02-50ed7b",
+        "2026-08-31-4b93ce"
+      ]
+    },
+    {
+      "heading": "Singapore plays premium as neighbours take scale",
+      "narrative": "Singapore awarded 50MW of new capacity to operators including Digital Realty and STT GDC under its tightly controlled, sustainability-conditioned process. The city-state is repositioning as the region's premium tier for high-value, low-latency workloads while Johor and Batam absorb hyperscale demand, though its renewable-energy mandate for new facilities faces practical hurdles. A new liquid cooling standard for tropical climates and data showing Singapore firms captured 98% of US$11.5 billion in regional data centre funding reinforced its hub status.",
+      "story_ids": [
+        "2026-08-31-caa5e1",
+        "2026-08-31-029009",
+        "2026-08-31-bac512",
+        "2026-08-31-349f2f",
+        "2026-08-31-5e2d0d"
+      ]
+    },
+    {
+      "heading": "Capital keeps flowing to platforms and pipelines",
+      "narrative": "KKR and Singtel completed their joint takeover of STT GDC, one of Asia's largest data center platforms, to fund faster AI-ready build-out. DayOne closed a S$530 million green loan from DBS, OCBC and UOB for a Singapore project and sought further borrowing for a Hong Kong facility ahead of a planned US IPO. In Australia, bids landed for Stack Infrastructure's portfolio valued at more than A$28 billion, though Macquarie ultimately passed on the process.",
+      "story_ids": [
+        "2026-09-02-ed0059",
+        "2026-08-31-f53ec7",
+        "2026-08-31-7319a5",
+        "2026-09-01-df9445",
+        "2026-09-06-578046"
+      ]
+    },
+    {
+      "heading": "Keppel deepens its Tokyo bet",
+      "narrative": "Keppel acquired a majority stake in two Tokyo data centers while Keppel DC REIT agreed to buy two freehold Japanese facilities for about US$1.1 billion, upsizing its private placement to S$625 million on strong investor demand. Not all observers are convinced: one analysis warned the easy yen-financing trade is over and that Tokyo valuations now carry obsolescence risk. Ada Infrastructure added to the momentum, breaking ground on a new Tokyo facility.",
+      "story_ids": [
+        "2026-09-03-5c0fd3",
+        "2026-09-02-96044b",
+        "2026-09-02-8b4817",
+        "2026-09-03-507bc1",
+        "2026-09-03-c698e5"
+      ]
+    },
+    {
+      "heading": "Backlash and regulation catch up with the boom",
+      "narrative": "Community opposition to rapid data centre construction spread across Malaysia, Indonesia and India, with residents citing electricity costs, water use and land pressures. Australia's debate intensified around energy shortages, bubble fears and public trust, while its energy regulator recommended requiring large data centers to self-generate clean power and pay full connection costs. Experts argued Australia's AI ambitions hinge on smarter management of energy and water constraints.",
+      "story_ids": [
+        "2026-09-02-bf08de",
+        "2026-09-01-96e871",
+        "2026-09-02-5aac8a",
+        "2026-09-01-1d86c5"
+      ]
+    },
+    {
+      "heading": "Subsea cables race to connect AI capacity",
+      "narrative": "AWS is building a 420Tbps transpacific cable linking Japan to Washington state, the first system to land there in over two decades, engineered for distributed AI traffic. Australian AI infrastructure firm Firmus committed about US$300 million to SUBCO's APX East cable, locking in up to 150Tbps of Australia-US capacity for 25 years. The investment push contrasted with Vietnam, where simultaneous faults on four subsea systems caused fresh nationwide connectivity outages.",
+      "story_ids": [
+        "2026-09-03-39c71a",
+        "2026-09-03-000163",
+        "2026-09-03-a0a1c4",
+        "2026-09-01-4dc283"
+      ]
+    }
+  ],
+  "project_milestones": [
+    {
+      "project_id": "dayone-selangor-campus",
+      "name": "DayOne Selangor Campus",
+      "operator": "DayOne",
+      "date": "2026-09-01",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-09-01-02021a"
+    },
+    {
+      "project_id": "dayone-greater-kuala-lumpur-campus",
+      "name": "DayOne Greater Kuala Lumpur Campus",
+      "operator": "DayOne",
+      "date": "2026-09-02",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-09-02-50ed7b"
+    },
+    {
+      "project_id": "two-freehold-data-centers-in-japan-keppel-dc-reit-acquisition",
+      "name": "Two freehold data centers in Japan (Keppel DC REIT acquisition)",
+      "operator": "Keppel DC REIT",
+      "date": "2026-09-02",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": "2026-09-02-96044b"
+    },
+    {
+      "project_id": "ada-infrastructure-tokyo-data-center",
+      "name": "Ada Infrastructure Tokyo Data Center",
+      "operator": "Ada Infrastructure",
+      "date": "2026-09-03",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-09-03-c698e5"
+    },
+    {
+      "project_id": "evolution-dc-bangkok-data-centre",
+      "name": "Evolution DC Bangkok Data Centre",
+      "operator": "Evolution Data Centres",
+      "date": "2026-09-04",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-09-04-e6c6a3"
+    }
+  ]
+}
