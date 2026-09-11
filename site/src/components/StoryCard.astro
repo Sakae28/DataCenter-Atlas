@@ -32,7 +32,7 @@ const base = import.meta.env.BASE_URL;
 
 <div class="story-row" data-id={story.id} data-regions={story.regions.join(' ')} data-search={`${story.title} ${story.summary} ${(story.companies ?? []).join(' ')}`.toLowerCase()}>
   <div class="story-rail" aria-hidden="true">
-    <time class="rail-time js-time" data-time-format="rail" data-day={dayDate} data-precision={story.published_precision} data-ts={story.published_at} datetime={story.published_at} title={story.published_precision === 'day' ? formatDate(story.published_at.slice(0, 10)) : formatDateTime(story.published_at)}>{story.published_precision === 'day' ? formatDate(story.published_at.slice(0, 10)) : formatTime(story.published_at)}</time>
+    <time class="rail-time js-time" class:list={[{ 'rail-time--day': story.published_precision === 'day' }]} data-time-format="rail" data-day={dayDate} data-precision={story.published_precision} data-ts={story.published_at} datetime={story.published_at} title={story.published_precision === 'day' ? `${formatDate(story.published_at.slice(0, 10))} — exact time unknown (the source published only a date)` : formatDateTime(story.published_at)}>{story.published_precision === 'day' ? '—' : formatTime(story.published_at)}</time>
     <span class="rail-dot"></span>
   </div>
   <article class="story-card">

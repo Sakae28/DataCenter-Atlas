@@ -703,6 +703,13 @@ a:hover {
   font-variant-numeric: tabular-nums;
 }
 
+/* Date-only precision: muted em dash. The day-group heading already
+   shows the date, so repeating it here read as a second date header. */
+.rail-time--day {
+  color: var(--text-faint);
+  font-weight: 500;
+}
+
 .rail-dot {
   width: 7px;
   height: 7px;

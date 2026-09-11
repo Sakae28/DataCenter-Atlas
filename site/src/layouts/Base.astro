@@ -149,7 +149,10 @@ const ogImage = new URL(`${base}/og-default.png`, site);
           if (kind === 'datetime') {
             return `${MONTHS[d.getUTCMonth()]} ${d.getUTCDate()}, ${d.getUTCFullYear()}`;
           }
-          return `${MONTHS[d.getUTCMonth()].slice(0, 3)} ${d.getUTCDate()}`;
+          // Rail: the day-group heading already carries the date, so repeating
+          // "Sep 8" beside the card reads as a second date header. An em dash
+          // reads as "time unknown" (see .rail-time--day + the title tooltip).
+          return '—';
         }
         const hhmm = `${pad(d.getHours())}:${pad(d.getMinutes())}`;
         if (kind === 'datetime') {
