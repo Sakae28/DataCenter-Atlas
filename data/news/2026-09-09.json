@@ -2,8 +2,8 @@
   "date": "2026-09-09",
   "generated_at": "2026-09-10T13:20:21Z",
   "hot": [
-    "2026-09-09-6e50eb",
     "2026-09-09-f8d6e1",
+    "2026-09-09-6e50eb",
     "2026-09-09-10a8a1",
     "2026-09-09-916e90",
     "2026-09-09-31b5cb"
@@ -148,7 +148,7 @@
       "summary": "Samsung is reportedly collaborating with OpenAI on a next-generation custom chip, according to a media report. Details of the design scope and production timeline have not been confirmed by either company.",
       "why_it_matters": "If confirmed, the tie-up would give OpenAI another path to reduce its dependence on Nvidia while deepening Samsung's foundry and memory role in the AI supply chain. It would also intensify the race among hyperscalers and AI labs to secure bespoke silicon, with implications for chip pricing and foundry capacity across Asia.",
       "score": 76,
-      "heat": 2,
+      "heat": 3,
       "regions": [
         "korea",
         "global"
@@ -169,6 +169,11 @@
         {
           "name": "Data Center Dynamics — News archive",
           "url": "https://www.datacenterdynamics.com/en/news/samsung-working-with-openai-on-next-generation-custom-chip-report/",
+          "type": "html-list"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817617",
           "type": "html-list"
         }
       ],
@@ -298,7 +303,8 @@
         }
       ],
       "companies": [
-        "Firmus Technologies"
+        "Firmus Technologies",
+        "Firmus"
       ],
       "content": "Firmus is being forced to focus on dealmaking in Asia as it builds momentum ahead of a blockbuster ASX-listing, with its attempts at developing Australian data centre projects meeting planning hurdles.\n\nWhile Firmus has secured a deal with OpenAI allowing the developer of the ChatGPT artificial intelligence platform to use two new sites in Malaysia, and is building another data centre in Indonesia, its Australian operations are taking longer than expected to start processing computer chips.",
       "content_url": "https://www.afr.com/technology/firmus-focuses-on-asia-as-australian-approvals-stumble-ahead-of-ipo-20260909-p60vrp",

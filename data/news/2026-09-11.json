@@ -1,0 +1,957 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T07:46:44Z",
+  "hot": [
+    "2026-09-11-e00c5a",
+    "2026-09-11-2d8e43",
+    "2026-09-11-9bc887",
+    "2026-09-11-16a4bd",
+    "2026-09-11-1df9e3"
+  ],
+  "stories": [
+    {
+      "id": "2026-09-11-af2e54",
+      "title": "Chinese Nvidia Challenger Enflame Jumps 179% in Shanghai Market Debut",
+      "summary": "Chinese AI chip designer Enflame, which positions itself as a domestic rival to Nvidia, surged 179% in its debut on the Shanghai stock market. The listing drew intense investor demand for exposure to China's semiconductor self-sufficiency drive.",
+      "why_it_matters": "The explosive debut shows how policy tailwinds and Nvidia's restricted access to China are funneling capital into domestic AI chip names, giving challengers like Enflame war chests to scale. Rich valuations also raise expectations these firms must now meet on performance and production volume.",
+      "score": 72,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "investment",
+        "ipo"
+      ],
+      "published_at": "2026-09-11T07:46:44Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/markets/ipo/chinese-nvidia-challenger-enflame-jumps-179-in-shanghai-market-debut",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Enflame",
+        "NVIDIA"
+      ],
+      "content": "HONG KONG/SHANGHAI -- Shanghai Enflame Technology, one of China's leading makers of artificial intelligence chips and the country's answer to Nvidia, rose 179% in its first day of trading on Shanghai's bourse on Friday, after the company flagged a lower valuation relative to peers.",
+      "content_url": "https://asia.nikkei.com/business/markets/ipo/chinese-nvidia-challenger-enflame-jumps-179-in-shanghai-market-debut"
+    },
+    {
+      "id": "2026-09-11-541c57",
+      "title": "China's CXMT tops SK Hynix, Micron to take memory profit margin crown",
+      "summary": "TOKYO -- Chinese chipmaker ChangXin Memory Technologies (CXMT) has raced to the lead among global competitors in terms of profit margin, signaling a shift in a sector dominated by South Korean, U.S.…",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "china",
+        "korea",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "memory",
+        "ai"
+      ],
+      "published_at": "2026-09-11T07:46:44Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/tech/semiconductors/china-s-cxmt-tops-sk-hynix-micron-to-take-memory-profit-margin-crown",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "CXMT",
+        "SK Hynix",
+        "Micron"
+      ],
+      "content": "TOKYO -- Chinese chipmaker ChangXin Memory Technologies (CXMT) has raced to the lead among global competitors in terms of profit margin, signaling a shift in a sector dominated by South Korean, U.S. and Japanese suppliers.\n\nSemiconductors\n# China's CXMT tops SK Hynix, Micron to take memory profit margin crown\n\nRising chipmaker turns tight supply of commodity-grade DRAM to its advantage in Q2\n\nCXMT's main products include DDR5 memory, which has seen a jump in prices in recent months. © Reuters",
+      "content_url": "https://asia.nikkei.com/business/tech/semiconductors/china-s-cxmt-tops-sk-hynix-micron-to-take-memory-profit-margin-crown"
+    },
+    {
+      "id": "2026-09-11-830817",
+      "title": "Huawei unveils new optical tech standard in challenge to Nvidia, Broadcom",
+      "summary": "TAIPEI -- Huawei on Thursday introduced its own standard for optical communication technology in a challenge to Nvidia and Broadcom, as the Chinese tech giant aims to have a greater say in an…",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "networking",
+        "ai",
+        "interconnect"
+      ],
+      "published_at": "2026-09-11T07:46:44Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/huawei-unveils-new-optical-tech-standard-in-challenge-to-nvidia-broadcom",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Huawei",
+        "NVIDIA",
+        "Broadcom"
+      ],
+      "content": "TAIPEI -- Huawei on Thursday introduced its own standard for optical communication technology in a challenge to Nvidia and Broadcom, as the Chinese tech giant aims to have a greater say in an emerging area of chipmaking that could shape the future of artificial intelligence computing.",
+      "content_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/huawei-unveils-new-optical-tech-standard-in-challenge-to-nvidia-broadcom"
+    },
+    {
+      "id": "2026-09-11-9dffc1",
+      "title": "Google, Blackstone cloud venture faces delays at data centre sites",
+      "summary": "The cloud venture between Google and Blackstone is experiencing delays at data centre sites intended for its buildout. The setbacks affect the timeline for the partnership's planned capacity ramp.",
+      "why_it_matters": "Delays underscore that even the best-capitalized AI infrastructure ventures are running into the physical bottlenecks — power, construction, and permitting — now defining the sector's pace. Slippage at marquee projects tightens near-term AI compute supply and supports pricing for operators with ready capacity.",
+      "score": 72,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "cloud",
+        "hyperscale",
+        "capacity",
+        "investment"
+      ],
+      "published_at": "2026-09-11T07:46:44Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/startups-tech/technology/google-blackstone-cloud-venture-faces-delays-data-centre-sites",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Google",
+        "Blackstone"
+      ],
+      "content": "The Alphabet unit has taken over the project, which will scale down after facing snag, sources say\n\n[NEW YORK] Alphabet and Blackstone’s new cloud venture has hit delays for major data centre locations that were supposed to run Google’s chips, underscoring the obstacles standing in the way of Big Tech’s artificial intelligence ambitions.\n\nThe startup – known internally as “Project Braid” – was launched with US$5 billion from Blackstone and aims to rent Google AI processors to customers in 2027.\n\nThe business joins a growing number of neoclouds, entities that lease chips and computing capacity.\n\nThe venture faced an early snag when Alphabet’s Google scrapped a plan for upstart data centre developer Crusoe to build sites in Cheyenne, Wyoming, according to people familiar with the matter, who asked not to be identified discussing confidential details.\n\nGoogle took over the project and is reapplying for permits after losing confidence in Crusoe’s ability to deliver, the people said. Local officials told residents the project will be scaled down.\n\nAnother site was unsuitable because it was not stocked with the right transformers, one of the people said. Data centre builders are facing shortages of such equipment, with wait times of almost a year, according to a McKinsey report.\n\nTexas’ turn against data centres upended other plans, some of the people said. Governor Greg Abbott ordered a freeze on new projects while the state collects more information about how developers and tech companies pay for electricity.\n\n## JV executives unfazed, say business is on track\n\nProject Braid executives say they are unfazed.\n\n“It is very common for individual potential sites to progress at different rates,” Benjamin Treynor Sloss, the venture’s chief executive officer, said in an emailed statement.\n\nThe neocloud factored that into planning, has a “diversified set of options” and is making “strong progress”, he added.\n\nHe said the business is on track to deliver its targeted 500 megawatts in 2027.\n\nGoogle declined to comment, while Blackstone referred to the joint venture’s (JV) emailed statement. Crusoe, best known for OpenAI and Oracle’s flagship Stargate facility in Texas, did not reply to messages seeking comment.\n\n## Limitations of AI infrastructure buildout\n\nCompanies are running into the physical limits of building out AI infrastructure.\n\nOrganised opposition is forcing policymakers to scrutinise projects more vigorously, and data centres have become a potent campaign issue ahead of 2026’s midterm elections.\n\nMore than 60 per cent of the capacity planned for completion in 2027 has yet to begin construction, JPMorgan Chase said in a May report. Supply shortages for switchgear and skilled labour are also creating bottlenecks.\n\nExecutives involved with Project Braid have accepted that data centre projects now have a 50 per cent chance of meeting delivery dates, down from 90 per cent three years ago, the people said.\n\nThat could complicate Blackstone’s goal to cement itself as the world’s largest financier of digital infrastructure.\n\nGoogle is trying to bring the chips running its Gemini AI model to a broader swath of customers – and build a hardware ecosystem to better rival that of Nvidia.\n\nMany of the largest neoclouds, such as CoreWeave, only run on Nvidia’s AI chips. To make a bigger dent, Alphabet needs to build out more data centres for its Google Cloud and find partners to host its chips, known as tensor processing units.\n\nGoogle, which projects as much as US$205 billion of capital expenditures in 2026, forged the JV with Blackstone to limit the direct costs of its AI buildout. The arrangement would move some spending and risks off the tech giant’s balance sheet.\n\nProject Braid’s backers have tapped their networks to scout for new sites. In recent weeks, Google asked neocloud executives it works with for help, one person said. Blackstone has tapped consultants and allies for new sites, other people said.\n\nThat will be a test for BXN1, Blackstone’s new division for AI investments, which emerged from a business focused on growth-equity bets.\n\nThe alternative asset manager is also spreading its bets. It recently joined other firms that pledged to partner with Nvidia to spend billions on AI infrastructure.\n\nBlackstone and Google’s neocloud has identified 29 potential data centre locations, one of the people said.\n\n“Given higher-than-expected demand for our compute capacity, we are actively expanding our pipeline to evaluate a broader pool of sites to support our long-term scaling plans,” according to the emailed statement. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/startups-tech/technology/google-blackstone-cloud-venture-faces-delays-data-centre-sites"
+    },
+    {
+      "id": "2026-09-11-f503be",
+      "title": "Malaysia's data centres guzzling more power as temperatures soar",
+      "summary": "[KUALA LUMPUR] Malaysia’s data centres are consuming more power as temperatures rise, leaving a 9 gigawatt gas-fired capacity gap for the government to fill by 2032, officials said on Tuesday (Sep 8).",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "energy",
+        "capacity",
+        "sustainability"
+      ],
+      "published_at": "2026-09-11T07:46:44Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/malaysias-data-centres-guzzling-more-power-temperatures-soar",
+          "type": "html-list"
+        }
+      ],
+      "content": "[KUALA LUMPUR] Malaysia’s data centres are consuming more power as temperatures rise, leaving a 9 gigawatt gas-fired capacity gap for the government to fill by 2032, officials said on Tuesday (Sep 8).\n\nThe share of data centres in overall power consumption surged to a record 9.3 per cent in the second week of August, compared with an average of 7 per cent this year, Energy Commission CEO Siti Safinah Salleh said.\n\n“With the hotter weather, the cooling system requires a lot more energy,” she said.\n\nData centres could account for as much as 31 per cent of peninsular Malaysia’s power demand by 2035, said Zaharin Zulkifli, deputy director for economic statistics and research at the Energy Commission.\n\nAs Malaysia, the region’s fastest-growing data centre hub, gradually phases out coal-fired power, the nation of about 35 million people will have to augment its gas-fired capacity by 9 GW by 2032, economy minister Akmal Nasir said.\n\nThe South-east Asian country plans to retire the last of its coal-fired power plants by 2044, Akmal told reporters at an Energy Commission conference.\n\nMalaysia is attracting billions of dollars in investments from major global tech firms including Amazon and Microsoft, leveraging its domestic gas reserves to address rising power demand this year and buck a regional decline in gas-fired generation as the Iran war chokes liquefied natural gas imports.\n\nBut with no additional gas-fired power expected to come online this year and next, Malaysia will “optimise” its current fleet to address rising demand until the end of 2027, Siti said, without providing further details.\n\nThe energy commission did not anticipate hot weather persisting longer than early September, which she said resulted in higher power use, she said.\n\n“Because of the hot weather, our hydro dams are also at very low levels.”\n\nStill, Malaysia does not face power shortages in the near future due to rising data centre deployments, said Gary Goh, senior manager for business development at Sprint DC Consulting.\n\n“The demand surge is entirely within grid planning parameters and will continue to ramp predictably,” Goh said. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/malaysias-data-centres-guzzling-more-power-temperatures-soar"
+    },
+    {
+      "id": "2026-09-11-e89af7",
+      "title": "Thailand puts 49 data centres on hold over resource strain, community impact",
+      "summary": "Thai authorities have suspended 49 data centre projects, citing strain on national resources and concerns about impacts on local communities. The hold affects a substantial share of the pipeline in one of Southeast Asia's fastest-growing data centre markets.",
+      "why_it_matters": "Thailand's pause shows governments in the region are moving from welcoming data centre investment to actively rationing it where power, water, and land pressures mount. Developers with Thai exposure face permitting uncertainty, while rival markets like Malaysia and Indonesia could absorb redirected demand.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "regulation",
+        "power",
+        "capacity",
+        "thailand"
+      ],
+      "published_at": "2026-09-11T07:46:44Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/international/asean/thailand-puts-49-data-centres-hold-over-resource-strain-community-impact",
+          "type": "html-list"
+        }
+      ],
+      "content": "Projects halt to make time to develop new regulations, amid growing concerns about the facilities\n\nTHAILAND’S embrace of data centres hit a speed bump after the government suspended construction of 49 server farms as public concerns about the power-hungry facilities’ impact on communities intensify.\n\nThe projects were halted to give officials time to develop new industry regulations, expected to be announced in a month, Danucha Pichayanan, secretary-general of the National Economic and Social Development Council, said at a press briefing on Friday (Sep 4).\n\nDanucha spoke after the first meeting of the country’s data centre supervision commission, led by Finance Minister Ekniti Nitithanprapas.\n\n“Today’s decision doesn’t mean Thailand is closing the door to data centre investment because the industry is critical to the country’s competitiveness,” Ekniti said.\n\n“We simply want clear and consistent standards in place to ensure the industry can grow sustainably.”\n\nThailand will establish uniform oversight of data centres in operation as well as those being developed, Danucha said.\n\nGovernments around the world are tightening oversight of data centres as the rapid adoption of artificial intelligence has led to a surge in such facilities.\n\nGlobal data centre spending is set to reach US$31.6 trillion through 2050 to meet the world’s growing appetite for AI, amid an investment boom that has no precedent in history, according to PricewaterhouseCoopers.\n\nAt the same time, the tech industry led by US giants such as Microsoft and Amazon is trying to blunt a backlash against data centres that threatens to slow the buildout.\n\nAt least 75 projects in the US, worth about US$130 billion combined, were blocked or delayed by local opposition during the first three months of 2026, according to research group Data Center Watch.\n\nProtesters cite concerns about environmental impact, resource consumption and more broadly how AI could upend employment and society.\n\nIn the US, the data centre backlash is becoming a force in the November midterm elections.\n\nThailand is experiencing a proliferation of data centres as tech investment soars.\n\nThe South-east Asian nation has emerged as a regional destination for AI and cloud infrastructure as global technology companies including Alphabet’s Google, Amazon and Microsoft build out data centre capacity.\n\nIn May, the government approved TikTok System (Thailand)’s data infrastructure expansion, including data-hosting services, servers and storage facilities.\n\nThe government approved 88 projects with a total investment of 886 billion baht (US$27 billion) related to AI and data centres in the first six months of the year, according to Board of Investment data.\n\nTech investment in the first half has already surpassed the 623 billion baht recorded for all of 2025.\n\nData centres’ drain on power and water is now causing the government to rethink its approach to the industry.\n\nIt is weighing higher electricity rates for large data centre operators and stepping up scrutiny of projects in densely populated areas after concerns emerged over facilities being developed in central Bangkok.\n\nBangkok authorities temporarily halted approvals for three other projects after complaints over a data centre being built next to a hospital exposed a regulatory gap that allows such facilities to seek permits as warehouses, Governor Chadchart Sittipunt told reporters before the meeting on Friday.\n\nThere should be some environmental impact reviews of data centres, he said.\n\nNationwide, 35 data centres are now in operation, while 117 proposed facilities are awaiting investment approvals, according to Danucha. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/international/asean/thailand-puts-49-data-centres-hold-over-resource-strain-community-impact"
+    },
+    {
+      "id": "2026-09-11-15cce1",
+      "title": "Telkomsel mulls stake sale of NeutraDC",
+      "summary": "Telkomsel, Indonesia's largest mobile operator, is considering selling a majority stake in its data center arm NeutraDC through a strategic partnership targeted for completion by end-2026. Parent Telkom Indonesia's wholesale director Budi Satria Dharma Purba has said a process to select a strategic partner is under way.",
+      "why_it_matters": "A majority sale would hand control of one of Indonesia's most strategically positioned data center platforms to an outside investor, reflecting telcos' growing preference to monetize infrastructure and fund expansion with external capital. The process will draw heavy interest from global operators and funds seeking scale in Indonesia's booming market.",
+      "score": 82,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "m&a",
+        "telecom",
+        "capacity"
+      ],
+      "published_at": "2026-09-11T07:20:49Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/telkomsel-mulls-stake-sale-of-neutradc/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Telkomsel",
+        "NeutraDC",
+        "Telkom Indonesia"
+      ],
+      "content": "Indonesia’s telecom operator PT Telekomunikasi Selular (Telkomsel), is considering selling a majority stake in NeutraDC, its data center arm, through a strategic partnership targeted for completion by end-2026, according to local reports recently.\n\nTelkom Indonesia’s Director of Wholesale and International Service, Budi Satria Dharma Purba, has reportedly said the the process of selecting a strategic partner has entered the binding offer evaluation stage and could involve the sale of a majority stake in NeutraDC. Budi who spoke during an event in Jakarta recently, did not disclose the stake percentage but analysts have tagged it at about 70 per cent.\n\nThis would be Telkomsel’s fifth attempt to sell its data center unit. In February, __w.media__ reported that the utility was seeking between US$$1 billion and US$1.5 billion for a majority stake in NeutraDC. The telco was reportedly working with financial advisers for the proposed sale, the report said, citing Bloomberg.\n\nhttps://w.media/magazines/cd-magazine-july-sept-2026-13/\n\nBudi attributed the proposed divestment decision to the substantial investment requirements of a data center. The utility is seeking a partner who is able to contribute operational capabilities, market access, and relationships with hyperscale customers. This would lessen Telkom’s capital expenditure burden while helping to expedite the expansion of the business.\n\nIf the divestment is completed, the proceeds would potentially be used to strengthen Telkom’s balance sheet, for investment, or for additional shareholder returns.\n\n“We will evaluate the use of the transaction proceeds holistically, whether for investment, strengthening the balance sheet, or potentially providing additional shareholder returns,” Budi reportedly said.\n\nIn its first-half 2026 report, Telkom said the consolidation of its data center assets under NeutraDC is part of its TLKM 30 transformation strategy to monetise assets and create growth opportunities with strategic partners.",
+      "content_url": "https://w.media/telkomsel-mulls-stake-sale-of-neutradc/"
+    },
+    {
+      "id": "2026-09-11-c46828",
+      "title": "DeepSeek’s low-cost model deals fresh blow to rivals OpenAI, Z.AI; hits memory makers",
+      "summary": "It claims its V4.1 Flash outperforms mainstays, yet offers a steep discount to the competition",
+      "why_it_matters": "",
+      "score": 68,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "memory",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-11T05:07:03Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/startups-tech/technology/deepseeks-low-cost-model-deals-fresh-blow-rivals-openai-z-ai-hits-memory-makers",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "DeepSeek",
+        "OpenAI",
+        "Z.AI"
+      ],
+      "content": "It claims its V4.1 Flash outperforms mainstays, yet offers a steep discount to the competition\n\n[BENGALURU] DeepSeek rolled out an artificial intelligence model that charges as little as a fraction of a cent per million tokens, ramping up the pressure on rivals from Anthropic to Z.AI.\n\nThe Chinese startup unveiled the V4.1 Flash on Thursday (Sep 10), a slimmed-down platform it claims outperformed mainstays such as Moonshot’s Kimi K3, yet offers a steep discount to the competition.\n\nShares in MiniMax Group and Z.AI plunged more than 8 per cent in Hong Kong. Alibaba, the e-commerce giant that is pivoting into AI, slid more than 2 per cent.\n\nDeepSeek’s latest move highlights the intensifying price battle between Chinese open-weight models and their US counterparts, at a time Anthropic and ChatGPT-developer OpenAI are preparing to go public.\n\nThe Chinese firm is betting that good-enough yet ultra-cheap models can beat top-tier models to drive the next phase of AI adoption.\n\nThe Hangzhou-headquartered lab that has roiled the industry with inventive techniques said its latest model offered “more efficient architecture” at lower prices.\n\nDeepSeek’s discounts are reshaping how developers, startups and enterprises budget for AI agents that can run hours at a stretch, completing tasks autonomously while working towards a targeted goal.\n\nThe industry’s focus has shifted towards AI agents that can write code over long sessions, summon tools or browse the web in search of information – all with little or no human intervention.\n\n## DeepSeek “death zone”\n\nThe advent of cheap yet high-powered Chinese models has created what Artificial Analysis terms a DeepSeek “death zone”.\n\nTo compete, AI contenders must now either beat DeepSeek and its Chinese peers on price, or soundly surpass them on capability.\n\nDeepSeek’s announcement that it has trimmed what is known as KV cache in the latest model – reducing the required amount of high-bandwidth memory and solid state drive storage – has given investors fresh concerns about tech.\n\nThere has been a chronic shortage of memory chips because of strong AI demand, driving up profits for companies like Micron Technology and SK Hynix.\n\nDeepSeek said it is using a “causal encoder-decoder” design that activates only a tiny part of the capacity of its 552 billion-parameter model at a time.\n\nThat is a fraction of what the larger V4-Pro required. In benchmarks, the new model beats the V4-Pro on coding and agentic tasks, though it trails the flagship models of Anthropic and OpenAI.\n\nStarting Sep 14, the startup is retiring the V4-Pro by automatically rerouting all inference tasks to the V4.1 Flash, which will in turn be billed at the cheaper rates.\n\n## Memory makers hit\n\nFor fund managers wading back into South Korean memory makers’ stocks, it raises doubts on the strength of demand for memory.\n\nSamsung Electronics and SK Hynix shares dipped more than 3 per cent each on Friday, paring their nascent rebound from July’s steep sell-off.\n\nWhile most investors see the latest DeepSeek development as a short-term setback, the latest declines show the rebound will not be linear.\n\n“DeepSeek’s new model could stoke concerns about a slowdown in semiconductor demand in the near term,” said Ha Seok-keun, chief investment officer at Eugene Asset Management.\n\nStill, new models from the likes of Meta Platforms and OpenAI “will have a greater impact on the industry’s fundamentals by boosting actual AI usage and semiconductor demand”.\n\nLocal retail traders drove a feverish rally in Samsung and SK Hynix earlier this year before abruptly reversing course on a severe bout of AI scepticism.\n\nThey have been rapidly exiting leveraged exchange-traded funds tied to the chipmakers, and have sold more than US$10 billion worth of the two stocks in September alone.\n\nDaily swings being less dictated by the whims of retail investors has tempted the return of some foreign funds, which have been large sellers year to date.\n\n“We are definitely more positive on (South) Korean memory chipmakers than anything else in semiconductors,” said Isaac Thong, senior investment director and manager of the Aberdeen Asian Income Fund in Singapore.\n\nBased on a blend of price-to-book and price-to-earnings valuations, “these stocks look cheap, especially compared to global peers”, he added.\n\nSamsung trades at 2.7 times current book value and SK Hynix at five times, compared with 11 times for the Philadelphia Semiconductor Index.\n\nThe Korean memory stocks are both trading at around four times forward estimated earnings, versus 19 times for the gauge of global chipmakers.\n\nThe two Korean memory stocks remain more than 25 per cent below their all-time highs, however, with investors still spooked by wild swings on daily news and position adjustments. While volatility has subsided, it remains near peak levels seen during Covid and the 2008 financial crisis.\n\n“These names are going to be volatile. For most investors, there are ways to get the same returns with a lot less volatility,” said Matthew Tuttle, CEO at Tuttle Capital Management.\n\nDespite the decrease in leverage and measures implemented by regulators in an effort to restore calm, daily moves of 5 per cent or more are still common for Samsung and SK Hynix.\n\nGiven the strong fundamentals, foreign investors may return when there is a significant decrease in volatility, according to Jung In Yun, CEO at Fibonacci Asset Management Global.\n\nThe DeepSeek news may drive “some sentiment-driven pressure rather than assume a lasting sector sell-off”, he added. Longer term, “cheaper AI could drive greater usage, offsetting efficiency gains”. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/startups-tech/technology/deepseeks-low-cost-model-deals-fresh-blow-rivals-openai-z-ai-hits-memory-makers"
+    },
+    {
+      "id": "2026-09-11-c67462",
+      "title": "China's AI chip push runs into a costly problem: memory",
+      "summary": "Chinese AI chipmakers including Huawei are raising prices on current and upcoming processors, with the indicated price of Huawei's Ascend 950DT accelerator card increased, as a shortage of high-bandwidth memory lifts production costs. US export controls restricting China's access to HBM are tightening supply even as domestic memory maker CXMT expands output.",
+      "why_it_matters": "HBM has become the critical chokepoint in China's bid for AI chip self-sufficiency, translating export controls directly into higher costs for domestic accelerators. Rising prices could slow China's AI compute build-out and raise the stakes for CXMT's ability to close the memory gap with Korean and US suppliers.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "memory",
+        "supply chain"
+      ],
+      "published_at": "2026-09-11T04:00:51Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Tech Wire Asia",
+          "url": "https://techwireasia.com/2026/09/china-ai-chip-hbm-shortage/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Huawei",
+        "CXMT"
+      ],
+      "content": "- **China’s AI chip prices rise as HBM supply tightens.**\n- **US controls limit China’s HBM access as CXMT expands output.**\n\nChinese AI chipmakers are raising prices for current and upcoming processors as a shortage of high-bandwidth memory (HBM) pushes up production costs.\n\nHuawei has lifted the indicated price of its upcoming Ascend 950DT accelerator card to more than 250,000 yuan (US$37,255), between 20% and 50% above quotes given to customers two months earlier, according to *Reuters*. Cambricon has raised the indicated price of its next-generation 690 processor by between 20% and 30%, while MetaX and Iluvatar CoreX have also increased prices.\n\n### Memory becomes the constraint\n\nTrendForce said DRAM supply is expected to remain tight through 2027, while uncertainty around production and validation of next-generation HBM4E is already affecting planned AI accelerator configurations. Nvidia began evaluating lower-HBM alternatives for its Rubin Ultra platform during the third quarter of 2026, including configurations using fewer memory layers and HBM4 rather than HBM4E.\n\nSeveral cloud service providers are also evaluating lower HBM capacities for their next-generation in-house AI accelerators, according to TrendForce. The research firm said memory shortages had already led cloud providers and server manufacturers to reduce RDIMM capacities in some server configurations during the first half of the year.\n\nTrendForce expects HBM bit shipments to increase by 50% to 60% year on year in 2027, but said that growth would still be insufficient to keep pace with demand. The firm expects HBM suppliers to retain pricing power under those conditions.\n\nTrendForce reported on September 7 that inventories among DRAM suppliers remained at historically low levels in the second quarter of 2026. Additional supply was mainly being allocated to servers, while overall DRAM bit shipments increased only modestly during the quarter.\n\nDRAM industry revenue reached US$154.73 billion during the quarter, up 59.5% from the previous quarter. TrendForce also reported higher shipments of HBM3E, LPDDR5X, and high-capacity RDIMMs.\n\nThe supply pressure extends beyond HBM. Server DRAM revenue reached US$75.58 billion in the second quarter, up 53% quarter on quarter, while average contract prices increased by between 53% and 58%, according to TrendForce.\n\nMemory manufacturers are allocating more production capacity to HBM, restricting growth in the supply of RDIMMs used in servers. TrendForce expects server DRAM shortages and higher prices to continue through 2027 as manufacturers prioritise HBM and higher-capacity server products.\n\nSK hynix said in July that it had finalised long-term agreements with around 10 customers and was continuing discussions with major customers on multi-year contracts. The company began mass shipments of HBM4 during the second quarter and plans to increase production in the second half of 2026.\n\nSamsung said it began mass production of HBM4 and shipped commercial products to customers in February. Its HBM4 uses sixth-generation 10-nanometre-class DRAM and a 4nm logic base die.\n\nTrendForce estimates that HBM and RDIMM will account for 51% of global DRAM bit supply in 2026. It projects DRAM and NAND flash will rise from 47% of capital expenditure among major cloud service providers in 2026 to 68% in 2027.\n\n### China faces tighter HBM access\n\nThe US introduced additional controls on exports of advanced HBM to China in December 2024. The Bureau of Industry and Security said the measures cover US-origin HBM as well as certain foreign-produced HBM subject to US export rules.\n\nBIS added HBM-specific controls alongside new restrictions on semiconductor manufacturing equipment and software. It described HBM as critical to AI training and inference at scale and as a key component of advanced computing chips.\n\nChinese AI chip companies have increasingly sourced restricted HBM through grey-market channels following the controls, *Reuters* reported, with some supplies costing several times the prices available to buyers outside China. The higher procurement costs have contributed to the latest accelerator price increases.\n\nHuawei is also increasing memory capacity and bandwidth across its Ascend processor roadmap. The company has developed two proprietary HBM products for its Ascend 950 series, with different memory configurations for separate AI workloads.\n\nThe Ascend 950PR uses Huawei’s HiBL 1.0 HBM and is designed for the prefill stage of inference and recommendation workloads. Huawei said these workloads require more parallel computing but less memory-access bandwidth than model training and the decode stage of inference.\n\nHuawei said HiBL 1.0 is more cost-effective than HBM3E and HBM4E. The Ascend 950PR and 950DT use different HBM configurations for workloads with different memory-bandwidth requirements.\n\nThe Ascend 950DT, scheduled for availability in the fourth quarter of 2026, is designed for model training and the decode stage of inference. Its HiZQ 2.0 memory provides 144GB of capacity and 4TB per second of memory-access bandwidth, while the chip provides 2TB per second of interconnect bandwidth.\n\nHuawei plans to increase those memory specifications alongside processor performance in subsequent generations. The company said the planned Ascend 960 will double the Ascend 950 series’ computing power, memory capacity, memory-access bandwidth, and number of interconnect ports.\n\n### China expands domestic HBM production\n\nChina is developing domestic HBM capacity alongside its efforts to produce more AI processors locally. CXMT, China’s leading DRAM chipmaker, held about 7.7% of the global DRAM market in 2025, according to *Reuters*.\n\nCXMT’s HBM programme remains at an earlier stage than its established DRAM business. TrendForce said in January that CXMT was focusing on HBM3-generation products and advanced packaging but continued to face technical barriers and was still in early verification stages.\n\n*Reuters* reported on August 31 that CXMT had begun small-scale production of HBM3E. Alibaba’s T-Head and Cambricon are testing the memory with their processors, while CXMT plans to expand production in 2027.\n\nCXMT has progressed further in other categories of memory. The company said on September 7 that it had entered mass production of LPDDR6, with the memory first being used in Xiaomi’s 18 Fold smartphone. The product follows CXMT’s previous work on DDR5 and LPDDR5X.\n\nTrendForce said US export controls announced in January 2025 affect CXMT’s process technology, wafer input, yield rates, and market deployment. The restrictions cover all of the company’s process nodes and have affected its development plans for 2025 and 2026.\n\n**Want to learn more about AI and big data from industry leaders?** Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.\n\nTech Wire Asia is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.",
+      "content_url": "https://techwireasia.com/2026/09/china-ai-chip-hbm-shortage/"
+    },
+    {
+      "id": "2026-09-11-6f9bcf",
+      "title": "AI data centers pivot to industrial boilers for power amid turbine delays",
+      "summary": "AI data centers are increasingly turning to industrial boilers and steam turbines for power generation as lead times for gas turbines extend to 2032. This shift allows data center developers to deploy critical compute infrastructure faster, leveraging proven technology with shorter delivery timelines. The move addresses significant power availability challenges hindering AI data center expansion.",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "power",
+        "energy",
+        "capacity"
+      ],
+      "published_at": "2026-09-11T03:20:06Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/ai-data-centers-pivot-to-industrial-boilers-for-power-amid-turbine-delays/134043037",
+          "type": "rss"
+        }
+      ],
+      "content": "Artificial intelligence (AI) data centers are being constructed at an unprecedented rate, facing considerable power supply challenges. A survey by Black & Veach indicated that lack of available power is the primary obstacle for AI ambitions, with 53 per cent of utilities citing it as the top issue for bringing data centers online.Data center developers have been acquiring gas turbines to power facilities or partner with utilities to bolster grid capacity. However, lead times for gas turbine orders can now extend until 2032, according to Wes Cummins, chairman and CEO of Applied Digital, a data center developer and operator. Applied Digital, which operates AI facilities in Ellendale and Harwood, North Dakota, has ordered 1.2 gigawatts (GW) of steam turbines fed by gas-fired industrial boilers for another data center in North Dakota, with two more planned. This initial facility is expected to be operational by late 2028.\n\nThe boiler and steam turbine combination is a proven solution for the scale of AI power demands, Cummins stated. Applied Digital signed a $2.4 billion design/build agreement for this setup with independent power producer Base Electron. When gas turbines become available, Applied Digital intends to convert these facilities into combined cycle plants to enhance efficiency, with boilers continuing to play a supplementary role.Packaged boilers are preferred for faster manufacturing and delivery, often within a year. These units are factory-assembled with burners and controls, shipped as complete systems requiring minimal on-site installation. Gerardo Lara, vice president of Boiler Sales at Rentech Boiler Systems, confirmed that his company can deliver a packaged boiler within a year. Rentech's models are suitable for steam turbines ranging from 10 megawatts (MW) to 20 MW, with modular designs accommodating turbines up to 50 MW.Lara noted that the industrial boiler market is robust, with significant interest from the data center community due to the long backlog for gas turbine deliveries. Companies such as GE Vernova, Siemens Energy, Solar Turbines, and Mitsubishi Power are reporting similar supply delays for gas turbines. However, the supply chain for industrial boilers and mid-sized steam turbines is extensive, with manufacturers like Siemens Energy, GE Vernova, Mitsubishi Power, and others having established capacity. The steam turbine market is projected to grow almost threefold between 2025 and 2034, with a similar trajectory expected for industrial boilers, according to Global Market Insights. Lara anticipates many data centers will opt for packaged boilers and steam turbines over the next few years, allowing for the installation of multiple units to meet large power demands.\n\n### Faster deployment for AI compute\n\nThe boiler and steam turbine combination is a proven solution for the scale of AI power demands, Cummins stated. Applied Digital signed a $2.4 billion design/build agreement for this setup with independent power producer Base Electron. When gas turbines become available, Applied Digital intends to convert these facilities into combined cycle plants to enhance efficiency, with boilers continuing to play a supplementary role.Packaged boilers are preferred for faster manufacturing and delivery, often within a year. These units are factory-assembled with burners and controls, shipped as complete systems requiring minimal on-site installation. Gerardo Lara, vice president of Boiler Sales at Rentech Boiler Systems, confirmed that his company can deliver a packaged boiler within a year. Rentech's models are suitable for steam turbines ranging from 10 megawatts (MW) to 20 MW, with modular designs accommodating turbines up to 50 MW.Lara noted that the industrial boiler market is robust, with significant interest from the data center community due to the long backlog for gas turbine deliveries. Companies such as GE Vernova, Siemens Energy, Solar Turbines, and Mitsubishi Power are reporting similar supply delays for gas turbines. However, the supply chain for industrial boilers and mid-sized steam turbines is extensive, with manufacturers like Siemens Energy, GE Vernova, Mitsubishi Power, and others having established capacity. The steam turbine market is projected to grow almost threefold between 2025 and 2034, with a similar trajectory expected for industrial boilers, according to Global Market Insights. Lara anticipates many data centers will opt for packaged boilers and steam turbines over the next few years, allowing for the installation of multiple units to meet large power demands.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/ai-data-centers-pivot-to-industrial-boilers-for-power-amid-turbine-delays/134043037"
+    },
+    {
+      "id": "2026-09-11-032c62",
+      "title": "Gulf and Singtel ink MOU to build new submarine cable system connecting Vietnam, Thailand and Singapore",
+      "summary": "Thai energy conglomerate Gulf Development and Singapore’s telecommunications group Singtel Group recently signed a Memorandum of Understanding (MOU) for a strategic partnership to develop new submarine cable connectivity between Thailand and Singapore, with their first joint venture being the Vietnam-Thailand-Singapore (VTS) Cable System. Execution will be carried out through their respective subsidiaries, Advanced Info Service […]",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "submarine cable",
+        "connectivity",
+        "investment"
+      ],
+      "published_at": "2026-09-11T02:50:10Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/gulf-and-singtel-ink-mou-to-build-new-submarine-cable-system-connecting-vietnam-thailand-and-singapore/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Gulf Development",
+        "Singtel"
+      ],
+      "content": "Thai energy conglomerate Gulf Development and Singapore’s telecommunications group Singtel Group recently signed a Memorandum of Understanding (MOU) for a strategic partnership to develop new submarine cable connectivity between Thailand and Singapore, with their first joint venture being the Vietnam-Thailand-Singapore (VTS) Cable System.\n\nExecution will be carried out through their respective subsidiaries, Advanced Info Service (AIS) and Singtel Singapore which bring together their respective expertise in infrastructure development and leadership in submarine cable infrastructure and services. The firms will also draw on their market expertise, connectivity capabilities and customer reach to support the development and commercialisation of the system.\n\nThe VTS Cable System is expected to be operational by 2030, with capital requirements spread out over multiple years, according to Gulf’s press release. The firms could also consider investing in terrestrial cable systems and other subsea cable systems in the future.\n\nThe partnership builds on Gulf and Singtel Group’s collaborations in Thailand across telecommunications and data centres providing a platform to pursue further opportunities across Southeast Asia.\n\nSarath Ratanavadi, Chief Executive Officer of Gulf Development, said, “This partnership with Singtel represents an important milestone in Gulf’s digital infrastructure strategy. Together, we are creating a platform that strengthens submarine cable connectivity between Thailand and Singapore while supporting Thailand’s ambition to become a leading digital and AI economy in Southeast Asia.”\n\nYuen Kuan Moon, Group Chief Executive Officer of Singtel, said, “Our partnership with Gulf brings together our expertise in digital infrastructure and submarine cable systems to meet the growing demand for cloud, AI, data centre and digital services. We look forward to deepening submarine cable links between our two countries and supporting the next phase of digital growth and innovation in the region.”",
+      "content_url": "https://w.media/gulf-and-singtel-ink-mou-to-build-new-submarine-cable-system-connecting-vietnam-thailand-and-singapore/"
+    },
+    {
+      "id": "2026-09-11-1df9e3",
+      "title": "Singapore data centre Reits chase Japan deals as power crunch raises stakes",
+      "summary": "Singapore-listed data centre REITs are pursuing acquisitions in Japan, where scarcity of power-ready assets is supporting valuations. At the same time, grid constraints in Japan could complicate further expansion by new owners.",
+      "why_it_matters": "The pivot to Japan reflects how Singapore's REITs are deploying capital where AI demand meets constrained supply, but it also imports grid-connection risk into their portfolios. Investors will be watching whether premium pricing for power-secured Japanese assets holds up as connection queues lengthen.",
+      "score": 82,
+      "heat": 2,
+      "regions": [
+        "southeast-asia",
+        "japan"
+      ],
+      "topics": [
+        "power",
+        "investment",
+        "reit",
+        "capacity"
+      ],
+      "published_at": "2026-09-10T23:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/singapore-data-centre-reits-chase-japan-deals-power-crunch-raises-stakes",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/singapore-data-centre-reits-chase-japan-deals-power-crunch-raises-stakes",
+          "type": "html-list"
+        }
+      ],
+      "content": "Scarcity of power-ready assets supports valuations, but grid constraints could make further expansion harder\n\n[SINGAPORE] Singapore-listed data centre real estate investment trusts (Reits) are stepping up their bets on Japan, as surging demand for computing capacity intensifies competition for scarce power-ready assets.\n\nKeppel DC Reit in September proposed to acquire two Tokyo data centres, which would raise Japan’s rental income contribution to 23 per cent, from 9 per cent.\n\nA month earlier, Digital Core Reit agreed to acquire an additional 25 per cent stake in an Osaka data centre, increasing its stake to 45 per cent from 20 per cent.\n\nAnalysts said that Japan offers Singapore Reits a combination of scale, market maturity, lower market risk, as well as deeper liquidity, compared with other data centre markets in the region.\n\nThe recent deals reflect growing investor appetite for high quality, operational data centres in Japan that are fully fitted and have long-term access to power, they added.\n\nPritesh Swamy, head of research and consulting for the Asia-Pacific data centre group at Cushman & Wakefield, said: “In today’s environment, especially in Japan, power availability itself has become one of the most valuable attributes of a data centre asset.”\n\nHe observed that competition for operational facilities in Japan has driven up asset values over the past two years, with investors more willing to accept lower yields for assets offering immediate income.\n\nBoth Keppel DC Reit’s proposed Tokyo assets, as well as Digital Core Reit’s Osaka assets are fully occupied.\n\nJapan’s data centre market is underpinned by increasing domestic enterprise workloads, cloud adoption and rising artificial intelligence workloads, while relatively attractive yen-denominated financing has also supported investor appetite.\n\nHigh domestic data consumption has also fuelled hyperscale demand, which accounts for 60 to 70 per cent of total capacity, said Neil Bear-Hetherington, director for Asia-Pacific data centre capital markets at CBRE.\n\nJapan has more than 1.8 gigawatts (GW) of operational capacity and a vacancy rate of 6.6 per cent, making it one of Asia-Pacific’s largest and most mature data centre markets, Swamy told *The Business Times*.\n\nAmid the increase in demand for Japanese data centre assets, prices of colocation racks – which are servers shared in a data centre facility – rose about 3 per cent in 2025, Bear-Hetherington added.\n\nMore supply is on the way, with Cushman & Wakefield estimating that Japan has a further 3.5 GW of data centre pipeline to be developed by 2030.\n\nSwamy noted that nearly 40 per cent of the under-construction capacity and 26 per cent of the planned capacity in Japan is pre-leased.\n\n## Sponsors remain crucial\n\nFor Singapore Reits looking to expand in Japan, securing access to suitable assets remains a key hurdle, putting their sponsors in an important position.\n\n“Sponsors-to-Reit transactions are important as they incubate, develop and stabilise assets on their balance sheets before dropping them into their linked specialised Reits,” Bear-Hetherington told BT.\n\nDigital Core Reit, for example, recently purchased an additional 25 per cent interest in a freehold Osaka data centre from its own sponsor, Digital Realty.\n\nSponsor relationships can also provide access to proprietary opportunities, development expertise and acquisition certainty, said Swamy.\n\nHowever, Bear-Hetherington noted that while sponsors are important, there is a “strong market” of Reits and other investors buying assets from unrelated sellers.\n\nHe noted that in March, CapitaLand Ascendas Reit and a Mitsui-managed fund acquired a 45.9 MW data centre in Greater Osaka for US$997 million.\n\n“Data centre investment allocation from wider investors is increasingly sought as a thematic allocation and to diversify portfolios into a growing sector,” he said.\n\n## Access does not guarantee returns\n\nBut even with a strong sponsor-to-Reit pipeline, attractive returns are not assured.\n\nAlthough yen-denominated debt remains attractive for investors, higher interest rates and compressed capitalisation rates could weigh on transaction activity and returns.\n\nPower constraints present another challenge. While scarcity of power-ready capacity can drive up the value of operational data centres, it could also limit the development of new capacity and the expansion of existing facilities.\n\nThis shortage is particularly pronounced in the Greater Tokyo region, said Bear-Hetherington.\n\n“Access to high-voltage grid power is key to the growth of the market and the resultant stabilised assets, particularly in Greater Tokyo,” he said.\n\nThe Greater Osaka region, in comparison, has seen more data centre growth as it has “comparatively better power availability”, he added, noting that the supply of data centres in the Osaka region is expected to increase from 2027.\n\nAcross Japan, electricity demand is expected to grow 5.3 per cent over the next decade, driven in part by rising consumption from data centres.\n\nTo meet this rising demand, the nation is seeking to upgrade its grid infrastructure, with the Japanese government looking to build and bolster 30 power substations across the country.\n\nAnalysts expect the power grid to be under even more pressure, as legacy data centre facilities seek to upgrade its electrical infrastructure to meet higher-density AI workloads.\n\n“Overall, we believe infrastructure constraints, particularly power availability, are likely to remain one of the key challenges for sector growth over the next two years,” said Swamy.\n\nDespite these challenges, Jack Harkness, senior director, data centre lead for Asia-Pacific, regional industrial and logistic services at Savills, expects the demand for Japanese data centres to remain strong, supported by established hyperscale demand and long-term growth potential.\n\nHowever, the scarcity of power-ready assets means that buyers will have to become increasingly selective.\n\n“Ultimately, investors are focused on opportunities where power, delivery and future income can be underwritten with sufficient certainty,” said Harkness.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/singapore-data-centre-reits-chase-japan-deals-power-crunch-raises-stakes"
+    },
+    {
+      "id": "2026-09-11-9bc887",
+      "title": "Oracle's cloud sales beat estimates as surging AI demand outpaces supply",
+      "summary": "Oracle reported cloud revenue above analyst estimates as AI demand continues to exceed its available capacity. The company is undertaking a major data centre buildout to serve OpenAI and other large customers.",
+      "why_it_matters": "Oracle's results confirm that hyperscale and neocloud capacity remains sold out, with revenue constrained by supply rather than demand — a dynamic driving record capital expenditure across the sector. For APAC markets, Oracle's buildout adds to the wave of AI capacity investment flowing into new regions, including Southeast Asia and India.",
+      "score": 82,
+      "heat": 3,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "cloud",
+        "capacity",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-10T22:11:40Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/oracles-cloud-sales-beat-estimates-surging-ai-demand-outpaces-supply",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/oracles-cloud-sales-beat-estimates-surging-ai-demand-outpaces-supply",
+          "type": "html-list"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817696",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Oracle",
+        "OpenAI"
+      ],
+      "content": "Firm is embarking on a major buildout of data centres for OpenAI and other customers\n\nORACLE’S cloud computing business grew faster than analysts projected, signalling the company’s big bets on large AI data centre projects are paying off.\n\nSales in the closely watched cloud infrastructure business jumped 121 per cent to US$7.4 billion, the company said on Thursday (Sep 10) in a statement. Analysts, on average, expected the division to post US$7.19 billion in sales, according to data compiled by Bloomberg.\n\nThe company also said it completed a plan to sell US$20 billion of equity from time to time at market value. Ahead of Thursday’s earnings, several analysts had raised questions about the timing of the at-the-market equity sale.\n\nOracle, long known for its database software, has refashioned itself as a provider of computing power for artificial intelligence work and is embarking on a major buildout of data centres for OpenAI and other customers. Wall Street is watching the scale of spending on these ambitious projects and how quickly Oracle can complete them. The company said it added 850 megawatts of data centre capacity in the quarter.\n\nThe shares gained about 6 per cent in extended trading after closing at US$152.94 in New York. The stock had dropped 38 per cent since its Jun 1 high for the year on concerns over financing needs, rising component costs and news reports on data centre construction challenges, wrote Derrick Wood, an analyst at TD Cowen, ahead of the results.\n\nOracle reported US$28.5 billion in capital expenditures, mostly on data centre equipment, in the three months ended Aug 31. In a briefing with reporters, chief financial officer Hilary Maxson affirmed the company’s US$70 billion forecast for that spending in the year ending May 2027, with an additional US$20 billion to US$25 billion due to prepayments for some components.\n\nThe company said it booked more than US$30 billion of additional AI cloud contracts during the quarter, raising its remaining performance obligations, a measure of future revenue.\n\nFiscal first-quarter sales gained 30 per cent to US$19.3 billion. Profit, excluding some items, was US$1.92 per share. Analysts, on average estimated US$1.75 a share, according to data compiled by Bloomberg.\n\nSales of cloud applications increased 10 per cent to US$4.22 billion. Software revenue declined 3 per cent to US$5.55 billion, which Oracle said reflected the “continued migration” of customers from on-premises products to those on the cloud. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/oracles-cloud-sales-beat-estimates-surging-ai-demand-outpaces-supply"
+    },
+    {
+      "id": "2026-09-11-487e6c",
+      "title": "Alibaba Cloud, Cambricon join PyTorch Foundation board",
+      "summary": "Chinese AI groups gain formal sway over PyTorch's direction, as developers seek support across more chips and cloud environments.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "cloud"
+      ],
+      "published_at": "2026-09-10T18:35:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/alibaba-cloud-cambricon-join-pytorch-foundation-board",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Alibaba Cloud",
+        "Cambricon"
+      ],
+      "content": "Fri, 11th Sep 2026 (Today)\nAlibaba Cloud and Cambricon have joined the PyTorch Foundation as Platinum members, while Ant Group has joined at Gold level. Their arrival adds three Chinese technology groups to the open-source artificial intelligence body alongside existing member Huawei.\n\nAlibaba Cloud and Cambricon gain seats on the PyTorch Foundation Governing Board and Technical Advisory Council. Ant Group joins as the foundation expands the roster of companies involved in developing the PyTorch software ecosystem.\n\nPyTorch is one of the most widely used open-source machine learning frameworks, and the new memberships highlight the growing role of Chinese companies in the AI software stack, from models and chips to deployment tools. More than 250 organisations across China already contribute to projects in the foundation's orbit, including PyTorch, DeepSpeed, Ray, Safetensors, Helion and vLLM.\n\nHuawei, which joined earlier, remains a visible participant in that effort. All four companies appeared together in Shanghai, where executives and engineers discussed the open AI stack, from semiconductors and accelerators to model infrastructure and runtime systems.\n\n### Board seats\n\nFor Alibaba Cloud and Cambricon, Platinum membership brings formal influence over governance and technical direction. Both are expected to work with other members on support for different hardware platforms and accelerators across the PyTorch ecosystem.\n\nThat is a central issue for AI developers seeking to run models across a wider mix of chips. PyTorch has long been closely associated with Nvidia-based computing, but growing demand for alternatives has pushed chipmakers and infrastructure providers to deepen their involvement in the software layers that determine how easily researchers and companies can use their hardware.\n\nCambricon, a Chinese designer of AI chips and accelerators, is positioning itself directly in that debate. It said it supports an open development model around its Machine Learning Unit hardware with toolkits, drivers and machine learning pipelines.\n\nAlibaba Cloud approached the announcement from the infrastructure side. At the Shanghai gathering, its engineers discussed how the company serves Qwen, its family of large language and multimodal models, across large-scale systems.\n\nAnt Group focused further up the stack, on software tools for AI agents and secure runtime environments built with cloud-native components such as Kubernetes Agent Sandbox and Kata Containers. That reflects a broader push to adapt existing cloud software for AI workloads rather than build entirely separate systems.\n\n### Open stack\n\nThe membership changes also show how competition in AI is increasingly shaped by open-source software communities as much as by proprietary models. Companies are trying to influence the common tools used to train, distribute and run models, especially as more businesses seek flexibility across cloud environments and processor types.\n\nMark Collier, Executive Director of the PyTorch Foundation, commented on the new members.\n\n\"Open source has become the default way the world builds AI, and the PyTorch Foundation is a leading hub for this innovation. Welcoming Alibaba Cloud, Cambricon, and Ant Group as members alongside Huawei further strengthens the global open source AI ecosystem and community building the open source intelligence layer developers rely on for training, optimizing, serving, distributing, and running models. PyTorch Conference China brings that community together in Shanghai to continue learning from one another,\" said Collier.\n\nEach of the new members framed its decision as part of a broader open-source AI strategy.\n\n\"We believe the future of AI is built on open, production-proven infrastructure - and PyTorch sits at the heart of that future. Joining the PyTorch Foundation is a natural step given our years of running PyTorch at scale across heterogeneous hardware on Alibaba Cloud. We look forward to working alongside the PyTorch Foundation to raise the bar for AI infrastructure and help developers build the next generation of models with confidence,\" said Dr. Feifei Li, Chief Technology Officer at Alibaba Cloud.\n\nAnt Group linked its membership to practical adoption and lower barriers for developers.\n\n\"AI proves its value through real tasks and real users. We want more people to be able to build with AI and afford to use it. Joining the PyTorch Foundation is another step in Ant Group's long-term participation in global open-source collaboration. We look forward to working with the community to lower the barriers to AI development and adoption through open models, infrastructure and agent technologies,\" said He.\n\nCambricon stressed the link between hardware design and software integration.\n\n\"We believe that realizing the full potential of AI computing requires both software-hardware co-optimization and a thriving open ecosystem. Joining the PyTorch Foundation gives us an opportunity to contribute our experience from large-scale AI deployments. We want to work closely with the community to help PyTorch deliver a native, out-of-the-box developer experience across a broader range of backends. We are excited to collaborate with global developers and industry partners to build a truly open and unified AI infrastructure,\" said Gong.\n\nHuawei welcomed the additions while reiterating its own work inside the foundation on broader accelerator support.\n\n\"When Huawei joined the PyTorch Foundation in 2023, we came with a goal we still hold today: to help make diverse computing power ubiquitous, and to do that work upstream first. That is what led us to help start the Accelerator Integration Working Group, and what carried Ascend NPU through to becoming the first additional platform in PyTorch. It is a goal that gets easier the more of us are pursuing it, so I'm glad to welcome Alibaba Cloud, Ant Group and Cambricon to the Foundation. We will keep working toward native support for Ascend - native development, native release, native distribution - so that developers get the same PyTorch experience whichever accelerator they reach for,\" said Li.",
+      "content_url": "https://datacenternews.asia/story/alibaba-cloud-cambricon-join-pytorch-foundation-board"
+    },
+    {
+      "id": "2026-09-11-413ed0",
+      "title": "Nvidia's Groq deal facing DOJ probe amid regulator scrutiny into acqui-hires: report",
+      "summary": "Nvidia's deal involving AI chip startup Groq is reportedly facing a probe by the US Department of Justice, amid broader regulatory scrutiny of so-called acqui-hire transactions. Regulators are examining whether such arrangements circumvent merger review.",
+      "why_it_matters": "A DOJ probe signals that US antitrust enforcers are closing in on the licensing-and-talent deals big tech has used to absorb AI startups without formal acquisitions. A tougher stance could reshape how Nvidia and its peers consolidate AI talent and technology, with knock-on effects for startup valuations and exit paths.",
+      "score": 70,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "regulation",
+        "m&a"
+      ],
+      "published_at": "2026-09-10T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/nvidias-groq-deal-facing-doj-probe-amid-regulator-scrutiny-into-acqui-hires-report/",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/nvidias-groq-deal-facing-doj-probe-amid-regulator-scrutiny-into-acqui-hires-report/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA",
+        "Groq"
+      ],
+      "published_precision": "day",
+      "content": "Nvidia’s deal with Groq is back in the spotlight amid reports that the Department of Justice (DOJ) could look into the deal.\n\n*The New York Times* reports that DOJ officials have sent a formal request for information to Nvidia regarding the deal. An investigation commenced following its disclosure in late December, with antitrust officials reportedly looking into whether the chip giant sought to skirt an antitrust probe.\n\nNvidia billed the deal as a “nonexclusive licensing agreement” that saw Groq founder and then CEO Jonathan Ross jump across to Nvidia, along with several key members of the Groq team.\n\nExact terms were not disclosed, though a reported $20 billion was spent on the apparent licensing deal providing the green light for Groq’s low-latency processors to be integrated into Nvidia’s so-called AI factory architecture.\n\nNvidia quickly went on to debut the Groq 3 language processing unit (LPU), which forms the basis of the LPX rack-scale platform designed as a complementary add-on for operators running Nvidia's flagship NVL72 to power low-latency AI inference workloads. The platform recently entered full production ahead of an anticipated launch later this year.\n\n*\"*The Groq story is a prime example of the American system working as designed to promote innovation, reward entrepreneurs, and benefit consumers,\" Nvidia spokesperson John Rizzo told the *Times.* “The law is designed to encourage America’s start-up ecosystem and promote the fundamental rights of inventors and workers to pursue their dreams.”\n\nNvidia has previously fallen foul of antitrust regulators with its $40 billion attempt to buy Arm in 2022. One Nvidia deal that will face the wrath of the regulator will be its recently announced $12.9bn bid for open source AI repository monolith Hugging Face.\n\nThe GRoq probe comes amid a Federal Trade Commission (FTC) examination into big tech’s love for acqui-hires. Chairman Andrew Ferguson told *Bloomberg* in February that it wants to ensure such deals “are not an attempt to get around” its merger review process.\n\nNvidia’s Groq ransack hasn’t stopped the startup from pressing on, with Meta’s former lead network engineer recently joining as head of network and data center engineering.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/nvidias-groq-deal-facing-doj-probe-amid-regulator-scrutiny-into-acqui-hires-report/"
+    },
+    {
+      "id": "2026-09-11-816bf7",
+      "title": "Cryptominer BTC Digital could build AI data center in Vietnam",
+      "summary": "Cryptomining firm BTC Digital has signed a memorandum of understanding (MoU) to explore the development of an AI data center in Hai Phong, Vietnam.",
+      "why_it_matters": "",
+      "score": 62,
+      "heat": 2,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "cryptocurrency",
+        "capacity"
+      ],
+      "published_at": "2026-09-10T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/cryptominer-btc-digital-could-build-ai-data-center-in-vietnam/",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/cryptominer-btc-digital-could-build-ai-data-center-in-vietnam/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "BTC Digital"
+      ],
+      "published_precision": "day",
+      "content": "Cryptomining firm BTC Digital has signed a memorandum of understanding (MoU) to explore the development of an AI data center in Hai Phong, Vietnam.\n\nThe Nasdaq-listed company announced that it signed the agreement with Nam Trang Cat Investment and Development Joint Stock Company (NTC) and SG Partners Co., Limited (SGP) on August 20.\n\nThe proposed facility would be located at the Nam Trang Cat Industrial Park, which spans approximately two million sqm (21.5 million sq ft).\n\nAccording to NTC, the industrial park has a planned power load of around 300MW. However, BTC Digital has not disclosed the proposed capacity of the data center, and the MoU does not include a power supply agreement.\n\nThe three companies will initially assess the project’s feasibility, site conditions, power availability, network and cooling requirements, permitting needs, customer demand, and financing options.\n\nNTC will assist with local coordination and the verification of the site, power, and supporting infrastructure. BTC Digital will contribute to the technical evaluation, while SGP will engage with potential investors, financing providers, and other industry participants.\n\nThe MoU has a two-year term and provides for an initial six-month exclusivity period. Its principal commercial provisions are otherwise non-binding.\n\nAny investment, construction, equipment procurement, power supply, customer, or operating agreement would remain subject to due diligence, regulatory approvals, financing, and the signing of definitive contracts.\n\n“We intend to advance the Hai Phong opportunity in stages and make investment or construction decisions only after the key conditions have been validated,” said BTC Digital CEO Siguang Peng.\n\nInfrastructure development at Nam Trang Cat Industrial Park itself only broke ground in May 2026. The Hai Phong government identifies Vinhomes Industrial Park Investment Joint Stock Company as the developer of the wider 200-hectare project.\n\nBTC Digital, formerly known as Meten Holding Group, changed its name in August 2023. An August 2026 SEC filing describes the company as a crypto asset technology business focused on Bitcoin mining, alongside mining-machine sales, rentals, and hosting services.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/cryptominer-btc-digital-could-build-ai-data-center-in-vietnam/"
+    },
+    {
+      "id": "2026-09-11-2d8e43",
+      "title": "Blackstone's AirTrunk said to seek US$1.6 bil loan for Singapore IPO",
+      "summary": "Blackstone-owned data centre operator AirTrunk is in talks with banks to borrow about S$2 billion (US$1.6 billion) to finance the public listing of a real estate investment trust backed by its assets, according to people familiar with the matter. The loan would support the REIT structure planned for a Singapore IPO.",
+      "why_it_matters": "An AirTrunk REIT listing would test public-market appetite for APAC data centre assets at a time of record AI-driven valuations, potentially setting a pricing benchmark for the sector. For Blackstone, it offers a path to crystallize returns on one of its largest infrastructure bets while recycling capital into new builds.",
+      "score": 85,
+      "heat": 3,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "capital-markets",
+        "reit",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-10T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/startups-tech/technology/blackstones-airtrunk-seeks-s1-6-billion-loan-singapore-ipo",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/startups-tech/technology/blackstones-airtrunk-seeks-s1-6-billion-loan-singapore-ipo",
+          "type": "html-list"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817688",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "AirTrunk",
+        "Blackstone"
+      ],
+      "published_precision": "day",
+      "content": "The proposed offering will be a key test for data centre financing in Asia\n\n[SINGAPORE] AirTrunk, a data centre operator owned by Blackstone, is in talks with banks to borrow about S$2 billion (US$1.6 billion) to help finance the public listing of a real estate investment trust (Reit) backed by its assets, according to people familiar with the matter.\n\nThe company has sent requests to lenders seeking several tranches of debt ranging from three to seven years in Singapore dollars and yen, said the people, who asked not to be identified discussing private talks.\n\nThe loan, raised by the Reit, will likely be used to acquire assets from AirTrunk and refinance existing debt, they said, adding that terms have not been finalised and could still change.\n\nRepresentatives for AirTrunk and Blackstone declined to comment.\n\nThe proposed Reit initial public offering in Singapore will be a key test for data centre financing in Asia, where banks are hitting their sector limits and becoming more selective about which projects they lend to.\n\nData centre loans in the region have surged to nearly US$29 billion since the start of 2025, according to data compiled by Bloomberg.\n\nAs demand continues to grow, bankers are devising new ways to free up balance sheets for further lending such as through asset-backed bonds, which AirTrunk is also exploring.\n\nWith the IPO, AirTrunk can shift some of its assets into the Reit and raise capital from a wider pool of investors.\n\nAirTrunk has been one of the region’s more aggressive borrowers, having secured billions for data centre build outs including a recent US$2.3 billion green loan for a facility in Malaysia.\n\nBut its backing from Blackstone means many banks are still willing to extend debt even as they reject smaller, lesser-known operators, the people familiar said.\n\nAirTrunk is close to filing confidentially for the Reit IPO, people familiar with the matter said in June.\n\nEarlier in the year, other people had said that it may raise about US$1.5 billion in the offering. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/startups-tech/technology/blackstones-airtrunk-seeks-s1-6-billion-loan-singapore-ipo"
+    },
+    {
+      "id": "2026-09-11-5bbc39",
+      "title": "Paragon Globe secures RM45 mil contract for Johor data centre development",
+      "summary": "Paragon Globe Bhd has secured a RM45.16 million contract to carry out earthworks and construct retaining walls for a data centre development in Johor, Malaysia. The contract was announced to the Bursa Malaysia on Thursday.",
+      "why_it_matters": "The award is another data point in Johor's rapid build-out as Malaysia's data centre epicentre, with early-stage civil works signaling new projects moving from announcement to construction. Local contractors are emerging as direct beneficiaries of the spillover from Singapore-constrained demand.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "construction",
+        "capacity",
+        "investment",
+        "johor"
+      ],
+      "published_at": "2026-09-10T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817655",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Paragon Globe"
+      ],
+      "published_precision": "day",
+      "content": "KUALA LUMPUR (Sept 10): Paragon Globe Bhd (KL:PGLOBE) said on Thursday it has secured a contract worth RM45.16 million to undertake earthworks and retaining walls for a data centre development in Johor.\n\nIn its bourse filing on Thursday, the Johor-based property developer said the contract was awaded by a data centre operator but did not name the firm.\n\nThe works, to be carried out by its wholly-owned unit PGBG Construction Sdn Bhd, are targeted for completion by the fourth quarter of 2026, said Paragon Globe.\n\nThe company said the contract is expected to contribute positively to its earnings and net assets over the duration of the works, assuming that there are no material delays.\n\n“The works will not have any effect on the share capital or substantial shareholders' shareholding of the company,” it added.\n\nParagon Globe shares closed unchanged at 73.5 sen on Thursday, giving the company a market capitalisation of RM548.8 million.\n\nEdited ByS Kanagaraju\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817655"
+    },
+    {
+      "id": "2026-09-11-6242bb",
+      "title": "South Korea nears agreement worth over US$100 bil in US investments, WSJ reports",
+      "summary": "The South Korean government is preparing to announce a major energy investment project in the United States worth more than US$100 billion (RM406.61 billion) aimed at boosting artificial intelligence build-out, The Wall Street Journal reported on Thursday.",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [
+        "ai",
+        "energy",
+        "investment"
+      ],
+      "published_at": "2026-09-10T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817611",
+          "type": "html-list"
+        }
+      ],
+      "published_precision": "day",
+      "content": "(Sept 10): The South Korean government is preparing to announce a major energy investment project in the United States worth more than US$100 billion (RM406.61 billion) aimed at boosting artificial intelligence build-out, *The Wall Street Journal* reported on Thursday.\n\nThe deal would see South Korea financing the construction of up to eight nuclear power plants and a natural gas project, the report said, citing people familiar with the matter.\n\nSouth Korea's trade ministry said details regarding investment in the US have not been finalised. The US Commerce Department and the White House did not immediately respond to requests for comment sent outside regular business hours.\n\nThe administration continues to engage with major trading partners, including South Korea, to address longstanding trade and economic issues, and any reports about a possible agreement should be treated as \"baseless speculation\" unless officially announced, a White House official told *Reuters* in an emailed statement.\n\nUS President Donald Trump and South Korea's President Lee Jae Myung reached a trade deal last October that saw South Korea commit US$350 billion worth of investments to US manufacturing in return for Washington capping tariffs on Korean imports at 15%.\n\nSeoul has since faced delays in implementing the trade deal, however, leading Trump to threaten the country with a tariff hike earlier this year.\n\nAccording to *The Wall Street Journal* report, the investments from South Korea are expected to unfold over a number of years.\n\nThe deal involves the construction of up to eight nuclear reactors in the US, the first of which would use American firm Westinghouse Electric’s design, the report said. Some subsequent reactors could use designs from South Korea's Kepco.\n\nAnother potential investment, at roughly US$20 billion, is tied to a natural-gas power plant in Texas, which would power AI data centres, *WSJ* said.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817611"
+    },
+    {
+      "id": "2026-09-11-e00c5a",
+      "title": "Nvidia partners with Aussie companies to bring 2GW online by 2027",
+      "summary": "Nvidia is working with Australian cloud providers and data center operators to bring 2GW of compute capacity online by 2027. The partnership is aimed at scaling AI infrastructure in Australia amid surging demand for GPU-based workloads.",
+      "why_it_matters": "A 2GW commitment would represent a step change in Australia's data center footprint, accelerating the country's position as an AI compute hub. For local operators and utilities, it signals a wave of large-scale power and land deals — and intensifies pressure on grid capacity that is already a constraint in major metros.",
+      "score": 92,
+      "heat": 3,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "capacity",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-10T10:35:04Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/nvidia-partners-with-aussie-companies-to-bring-2gw-online-by-2027/",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/nvidia-partners-with-aussie-companies-to-bring-2gw-online-by-2027/",
+          "type": "html-list"
+        },
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/technology/nvidia-outlines-sprawling-australian-vision-and-energy-strain-20260910-p60w4e",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "content": "Nvidia is partnering with companies in Australia to help expand AI infrastructure capacity in the country.\n\nThe chip designer is collaborating with companies including Firmus, Sharon AI, Iren, ResetData, Megaport, CDC, NextDC, and AirTrunk, with the target of bringing 2GW of compute online by 2027.\n\nThe companies are collaborating to expand land, power, and shell capacity to host Nvidia infrastructure and to support the country's demand for AI compute. The partners will operate AI data centers with the Nvidia DSX platform.\n\n“AI factories turn energy into intelligence — the essential resource of the AI economy,” said Raj Mirpuri, vice president of global AI clouds and infrastructure ecosystem at Nvidia. “Nvidia DSX is a full-stack platform compatible with the CUDA ecosystem and enhanced through software over the life of the infrastructure, making AI factories more productive, fungible and durable — and a new investable asset class. Through our partnerships with Australian NCPs, this infrastructure can support multiple generations of Nvidia compute and expand local access to accelerated computing and Nvidia Nemotron open models, helping Australian innovators build AI at home.”\n\nFirmus is expanding its Project Southgate initiative as part of the collaboration, while Sharon AI is deploying up to 68,000 Nvidia GPUs using the DSX platform. Iren, another neocloud partner, is combining the DSX AI factory architecture with its power, land, data centers, GPU deployment, and infrastructure operations, and Megaport is expanding access to Nvidia compute through its Latitude.sh subsidiary.\n\n“Building AI infrastructure at scale requires integrating every layer: data centers, compute and software,” said Daniel Roberts, co-founder and co-CEO of Iren. “Combining Iren's vertically integrated platform with the Nvidia DSX AI factory reference architecture provides a repeatable blueprint to bring capacity online at scale. We are applying that blueprint across our development portfolio, bringing Iren's proven international delivery and operating experience to our 800MW Bundey campus in South Australia.”\n\nThe data center operators partnering with Nvidia, meanwhile, have made sure their facilities are suitable for the high-density deployments.\n\nAirTrunk is currently expanding AI-ready powered shells across the region, including direct-to-chip liquid-cooling infrastructure designed to support high-density AI workloads.\n\n“AI is reshaping hyperscale infrastructure in Australia, driving new approaches to location, capacity, cooling, power and connectivity,” said Damien Spillane, chief customer and innovation officer of AirTrunk. “AirTrunk is innovating to meet this demand while creating skilled expertise, capability and economic value in Australia.”",
+      "content_url": "https://www.datacenterdynamics.com/en/news/nvidia-partners-with-aussie-companies-to-bring-2gw-online-by-2027/"
+    },
+    {
+      "id": "2026-09-11-769897",
+      "title": "Google-Blackstone's TPU neocloud named Crux AI, hires Meta's data center engineering head Alan Duong",
+      "summary": "The TPU-based neocloud venture backed by Google and Blackstone has been named Crux AI and has hired Alan Duong, Meta's head of data center engineering. The company is planning a hiring spree ahead of a targeted ramp of 2GW of capacity per year.",
+      "why_it_matters": "Branding the venture and poaching senior talent from Meta signals the Google-Blackstone project is moving from concept to execution at an aggressive 2GW-per-year pace. A well-capitalized TPU-based alternative to Nvidia-centric clouds could reshape competition for AI tenants and intensify the race for power and sites worldwide.",
+      "score": 78,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "hyperscale",
+        "investment"
+      ],
+      "published_at": "2026-09-10T10:16:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/google-blackstones-tpu-neocloud-named-crux-ai-hires-metas-data-center-engineering-head-alan-duong/",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/google-blackstones-tpu-neocloud-named-crux-ai-hires-metas-data-center-engineering-head-alan-duong/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Google",
+        "Blackstone",
+        "Meta",
+        "Crux AI"
+      ],
+      "content": "The neocloud set up by Google and Blackstone to offer TPU services has officially launched as Crux AI.\n\nThe company, led by former Google engineering VP Benjamin Treynor Sloss, also this week hired the VP and head of data center engineering and construction at Meta, Alan Duong.\n\nDuong spent more than 12 years at Meta, and was instrumental in the company's aggressive pivot to AI data centers. In 2023, the company paused all of its in-development facilities, with Duong leading the team that redesigned the projects for the AI era (we profiled Duong's work at the time here).\n\nAt Crux, Duong has been named chief development officer, where he will be \"responsible for end-to-end delivery of multiple GW of data center capacity over the coming years,\" he said.\n\n\"I spent the last 12 years at Meta building data centers, and the clearest lesson from that time is that success in this business isn't one thing done well. It's a chain that has to hold, end-to-end: originating sites with real power and real runway, showing up in host communities as a long-term neighbor rather than a transaction, designing for efficient use of power, water and materials, building safely with the trades who put the steel in the ground, and handing over facilities that operators can run for decades. Break any link and the rest doesn't save you. That end-to-end view is what I'm bringing to Crux AI, and what we'll build the organization around as we scale.\"\n\nThe company, backed by $5bn from Blackstone, plans to bring 500MW of capacity online in 2027. On its site, the company said that it plans to scale to 2GW of capacity. Data centers will be a mixture of powered shells, build-to-suits, colo blocks, and turnkey partner deals, as well as first-party greenfield development.\n\n“AI presents a generational technological shift and, with it, the opportunity to reimagine the infrastructure powering it from the ground up,” said Treynor Sloss, Crux AI CEO.\n\n“That is what we are building at Crux AI: an integrated platform designed end-to-end to operate reliably at enormous scale. Our ambition is to become the infrastructure company trusted with the workloads that matter most.”\n\nThe company, which hired the CFO of Charter Communications earlier this year, plans a major hiring spree. It currently has 17 open positions, including data center construction manager, data center energy manager, head of data center operations, lead supply negotiator, and a VP of capital markets.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/google-blackstones-tpu-neocloud-named-crux-ai-hires-metas-data-center-engineering-head-alan-duong/"
+    },
+    {
+      "id": "2026-09-11-16a4bd",
+      "title": "Transgrid warns Sydney data centre demand is stretching grid capacity",
+      "summary": "Transgrid, New South Wales' transmission network operator, says more than 20GW of data centre connection enquiries are in its pipeline, and existing transmission capacity in Sydney is largely committed. The operator warns that new data centre developments will face constraints connecting to the grid.",
+      "why_it_matters": "The warning quantifies the grid bottleneck facing Australia's largest data centre market: with capacity largely spoken for, new projects risk multi-year connection delays or costly network upgrades. Developers, investors, and policymakers now face pressure to coordinate transmission build-out with the pace of AI-driven demand.",
+      "score": 85,
+      "heat": 2,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "power",
+        "capacity",
+        "grid",
+        "regulation"
+      ],
+      "published_at": "2026-09-10T10:15:24Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/transgrid-warns-sydney-data-centre-demand-is-stretching-grid-capacity/",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/sydney-data-centre-boom-strains-grid-requires-network-upgrades/134042669",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Transgrid"
+      ],
+      "content": "Transgrid, the transmission network operator for New South Wales, is warning that Sydney’s data centre boom is putting increasing pressure on the transmission network, with more than 20GW of data centre connection enquiries now in the pipeline across NSW.\n\nThe company says existing capacity in Sydney is largely committed, meaning new data centre developments will need to fund network upgrades to unlock additional capacity.\n\nThe figures come as Transgrid released its **2026 Transmission Annual Planning Report (TAPR)**, which identifies data centres as one of the biggest drivers of future electricity demand in NSW. NSW is already home to roughly 100 data centres, but these have typically connected to the distribution network. It’s the emergence of much larger facilities, some adding more than 1GW of demand at a single site, that is now pushing developers towards direct transmission connections and therefore into Transgrid’s remit.\n\nTransgrid said the 20GW figure relates specifically to data centre connection enquiries, although only a proportion of the projects are expected to proceed. The pipeline is roughly twice current NSW peak electricity demand.\n\nAround 1.5GW of data centre capacity is already covered by signed connection agreements in Greater Sydney, with all of those projects still to connect. Project maturity across the pipeline varies considerably, ranging from advanced developments with secured land, financing and end customers through to early-stage speculative proposals.\n\nTransgrid said additional capacity in Sydney could be unlocked through network investment, including the proposed South Creek substation and associated transmission upgrades in Western Sydney. Technical studies are still being finalised, but the solution could unlock up to 2GW of additional transmission capacity.\n\n### Market-led allocation\n\nAllocation of that capacity will be market-led, with projects effectively competing to be first to commit to funding the required augmentation, subject to meeting Transgrid’s readiness criteria.\n\nThe constraints are prompting Transgrid to point prospective data centre developers towards regional NSW, where parts of the network may have greater capacity.\n\nThe TAPR identifies potential opportunities around areas including the Hunter and Riverina, although available capacity is indicative and would depend on the requirements of individual projects and any necessary network upgrades.\n\nThe report also highlights the potential impact of making large new electricity users pay for the full capacity they reserve, rather than only the capacity they ultimately use. Transgrid estimates such a reform could reduce like-for-like transmission costs for other consumers by up to 15%.\n\nData centre demand is also rising much faster than previously forecast. Transgrid’s latest analysis, prepared by Baringa, projects data centre peak demand in NSW to rise from around 660MW in 2027 to 3.67GW in 2036.\n\n### Four times higher\n\nThe report says data centre loads are now forecast to be approximately four times higher in 10 years than projected in Transgrid’s 2025 report. Under Baringa’s central scenario, data centres could reach around 3.5GW of peak demand by 2035, roughly twice the equivalent peak demand implied by AEMO’s 2026 ESOO Step Change scenario.\n\nTransgrid estimates data centres will account for 66% of the growth in NSW end-use electricity consumption between FY2026 and FY2035, reflecting the extent to which the sector is reshaping the state’s demand outlook.\n\nData centres currently account for around 3% of NSW peak electricity demand, but Transgrid forecasts this could rise to around 20% by 2035.\n\nThe scale and characteristics of data centre demand are also becoming an important consideration for network planning. Traditional data centre loads tend to consume electricity relatively consistently throughout the day, while AI workloads can introduce greater variability.\n\nTransgrid says connection agreements can incorporate provisions allowing loads to be curtailed during periods of system stress. Battery energy storage, intelligent workload scheduling and other forms of demand-side flexibility could also create additional room on the network.",
+      "content_url": "https://w.media/transgrid-warns-sydney-data-centre-demand-is-stretching-grid-capacity/"
+    },
+    {
+      "id": "2026-09-11-336c3d",
+      "title": "How Singapore and Malaysia are betting on advanced packaging from opposite ends of the value chain",
+      "summary": "Singapore’s new advanced packaging consortium with Synopsys brings software licences, not capacity. Malaysia’s MAPC has RM185 million to work with, and one member puts a pilot line alone at RM400 million Synopsys and Singapore’s Agency for Science, Technology and Research (ASTAR) have signed a memorandum of understanding earlier this week on advanced packaging and simulation […] The post How Singapore and Malaysia are betting on advanced packaging from opposite ends of the value chain appeared…",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "chips",
+        "advanced packaging",
+        "investment"
+      ],
+      "published_at": "2026-09-10T06:00:52Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Tech Wire Asia",
+          "url": "https://techwireasia.com/2026/09/singapore-malaysia-advanced-packaging-jicse-mapc/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Synopsys",
+        "A*STAR"
+      ],
+      "content": "- **Singapore’s new advanced packaging consortium with Synopsys brings software licences, not capacity.**\n- **Malaysia’s MAPC has RM185 million to work with, and one member puts a pilot line alone at RM400 million**\n\nSynopsys and Singapore’s Agency for Science, Technology and Research (ASTAR) have signed a memorandum of understanding earlier this week on advanced packaging and simulation technologies, with the work running through a new body called the ASTAR IME-Ansys Joint Innovation Consortium for Semiconductor Excellence (JICSE). Under it, Synopsys will provide trial licences to its Ansys simulation software to ASTAR’s Institute of Microelectronics (ASTAR IME) and to up to ten consortium member companies.\n\nThe first phase covers mechanical design, modelling and analysis, with named targets including package and wafer warpage, thermo-mechanical stress, solder joint reliability, and moisture-induced failures in multi-chiplet architectures. A*STAR IME will lead the R&D activities. Neither party disclosed a funding figure, a licence period, or a timeline for recruiting member companies.\n\nWhat the agreement does not involve is equipment, capacity or process development. It sits at the design and verification layer, where problems get caught before anything is physically built. That is a different place on the value chain from where Malaysia put its money four months ago.\n\n### Malaysia’s advanced packaging bet starts further down\n\nThe Malaysia Advanced Packaging Consortium (MAPC) was launched with an MoU signed at SEMICON Southeast Asia 2026 in May by five local companies: SkyeChip, Inari Technology, FusionAP, Pentamaster Instrumentation and NSW Automation. It carries RM185 million, of which RM92 million is an R&D grant from the Malaysia Science Endowment running over 24 months, matched by RM93 million from industry.\n\nThe target is 7% of the global advanced packaging market by 2035, which the consortium estimates at around US$5 billion in annual revenue. MAPC’s first project is an HBM4 pilot line, with SkyeChip on the driver design, FusionAP on interposer and substrate technology, Inari on assembly and test, and Pentamaster and NSW Automation supplying test and dispensing equipment.\n\n*See also: Malaysia wants 7% of the global advanced packaging market by 2035. Right now, it has zero.*\n\nKenanga Investment Bank, in a June note following SEMICON SEA, set out the phased roadmap behind it: pilot validation through 2026, a C4 bumping line in Malaysia by 2027, and 2.5D die-on-interposer capability by 2028, with co-packaged optics and finer interconnect pitches further out.\n\nSpeaking from the main stage at SEMICON SEA in May, Tan Eng Tong, representing the consortium, put Malaysia at zero on advanced packaging, in a country that is the world’s sixth-largest semiconductor exporter and handles roughly 13% of global assembly, test and packaging work. Science, Technology and Innovation Minister Chang Lih Kang has said the aim is domestic capability within two years, and has pointed to Vietnam closing the gap on the commoditised back-end work Malaysia currently depends on.\n\nThe capital requirement is the other constraint. FusionAP has estimated it needs RM400 million to build its own pilot line and a further RM2 billion to scale to high-volume manufacturing, against the RM185 million committed across the whole consortium. SkyeChip, the only listed member to raise recently, took in RM352 million at its Bursa Main Market debut in May.\n\nHong Leong Investment Bank put advanced packaging gross margins at 40 to 50% in March, against 15 to 20% for traditional packaging, and that spread is what both countries are aiming at. Reaching it from Malaysia’s position means bumping lines, interposers and a customer willing to qualify them. Reaching it from Singapore’s, at least for now, means licence agreements and researchers.\n\nJICSE is also not ASTAR’s first advanced packaging tie-up with a foreign chip supplier. GlobalFoundries signed an MoU in May 2025 giving it access to ASTAR’s R&D facilities and technical support for advanced packaging development and workforce training, with GF supplying equipment to ASTAR in return. Terence Gan, executive director at ASTAR IME, appears in both announcements. The pattern is a national research institute acting as counterparty for foreign vendors wanting a Singapore foothold, with the capital equipment arriving as part of the deal rather than off the state’s balance sheet.\n\nMAPC’s next checkpoints are already public and close. C4 bumping is a 2027 milestone, the government grant runs for 24 months from approval, and HLIB noted in March that an anchor customer and a proven pilot line are still ahead of the consortium. JICSE has published no dates at all.\n\n**Want to learn more about AI and big data from industry leaders?** Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.\n\nTech Wire Asia is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.",
+      "content_url": "https://techwireasia.com/2026/09/singapore-malaysia-advanced-packaging-jicse-mapc/"
+    },
+    {
+      "id": "2026-09-11-f931bc",
+      "title": "GSMA urges renewable energy reform in Asia Pacific",
+      "summary": "Rising data demand is driving emissions higher in parts of Asia Pacific, as mobile operators struggle to secure cleaner electricity.",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "australia"
+      ],
+      "topics": [
+        "power",
+        "renewable energy",
+        "sustainability"
+      ],
+      "published_at": "2026-09-10T05:19:18Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/gsma-urges-renewable-energy-reform-in-asia-pacific",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "GSMA"
+      ],
+      "content": "Thu, 10th Sep 2026 (Yesterday)\nGSMA has called for wider access to renewable energy to help mobile operators in Asia Pacific cut emissions, arguing that energy market reform is needed across the region.\n\nIts latest regional analysis found emissions are moving in different directions across Asia Pacific as demand for mobile services continues to rise. In emerging Asian markets, operator emissions have increased by more than 20% since 2019. In Japan and Oceania, operators have cut emissions by more than 30%.\n\nMobile data traffic in the region rose 350% between 2019 and 2024, while mobile connections increased 6%. Over the same period, operational emissions across Asia Pacific climbed 6%, reaching about 23 MtCO2e in 2024.\n\nThe figures point to a widening gap between markets with strong access to renewable electricity and those where procurement remains difficult. In Southeast Asia, including Malaysia, emissions rose about 20% as operators expanded networks to meet demand.\n\nBy contrast, mobile operators in Japan and Australia have reached renewable electricity shares of more than 50%. In Southeast Asia, operators matched only 4% of electricity consumption with renewables, while the figure in Malaysia was 5%.\n\nAcross the wider region, mobile operators purchased or generated 7 TWh of renewable electricity in 2024. That equalled about 15% of total electricity consumption, up from 1% in 2019, but still below the global average of 24%.\n\n### Rising energy use\n\nEnergy consumption and costs are becoming a bigger issue for the sector. Operators in Asia Pacific spent about USD $7 billion on energy in 2024, using 50 TWh of electricity and 350 million litres of diesel and gasoline.\n\nThese costs are significant for an industry that continues to add traffic and maintain large, distributed networks, especially mobile towers in markets where grid access and renewable supply options remain uneven. In some countries, off-site renewable procurement mechanisms are limited or still at an early stage. In others, high prices and a lack of products suited to telecom infrastructure have slowed adoption.\n\nThe report also found that climate targets are spreading across the industry. Twenty-one operators in Asia Pacific have validated near-term science-based targets, covering 55% of mobile connections in the region and about three-quarters of revenues. Thirteen operators have validated net-zero targets, covering 40% of connections, with the earliest set for 2040.\n\nSome operators in Southeast Asia have made progress despite these constraints. Globe Telecom in the Philippines met a third of its electricity needs in 2025 with renewables, while Telekom Malaysia and True in Thailand each exceeded 20%.\n\n### Policy barriers\n\nPolicy reform will be central if these gains are to spread more widely. GSMA is urging governments to expand renewable energy procurement and aggregation mechanisms for distributed telecom loads, streamline permitting for clean energy and grids, reform electricity market design, and speed up coal phase-outs.\n\nThe organisation also wants mobile networks to be recognised as critical infrastructure in climate resilience planning, reflecting the region's exposure to climate-related disruption, including typhoons, floods, and sea level rise affecting low-lying coastal and island areas.\n\nAnother challenge lies beyond operators' direct energy use. Scope 3 emissions were estimated at about 110 MtCO2e in 2024, accounting for more than 80% of the mobile industry's overall footprint in Asia Pacific.\n\nThat increases pressure on suppliers and tower companies, many of which operate in the region, to improve climate disclosures, set science-based targets, and increase their use of clean energy. GSMA also pointed to the need for ecodesign and circularity in products as part of a broader reduction effort.\n\nSteven Moore, Head of Climate Action at GSMA, said the core problem is now less about operator intent than access to cleaner electricity.\n\n“Mobile operators across Asia Pacific are strengthening their climate commitments and investing in more efficient networks to meet growing demand. But progress on reducing emissions will be difficult without greater access to renewable electricity,” he said.\n\nMoore added that the issue has become more urgent as both connectivity demand and energy needs continue to expand across the region.\n\n“The region's growing demand for connectivity and energy makes this an urgent issue. Operators need access to renewable energy across the markets where they operate, including mechanisms that work for distributed infrastructure such as mobile towers. Policymakers play a critical role in creating the conditions for investment in renewable energy and modern grids. Expanding access to clean, reliable power will help the mobile industry reduce emissions, manage energy costs, and build more resilient networks,” he said.",
+      "content_url": "https://datacenternews.asia/story/gsma-urges-renewable-energy-reform-in-asia-pacific"
+    },
+    {
+      "id": "2026-09-11-e71096",
+      "title": "AI data centres make grid access key to power deals: JLL",
+      "summary": "Artificial intelligence (AI) demand and data centre expansion are reshaping global power markets, with grid access becoming a central factor in project viability, according to JLL. This shift is increasing the importance of transmission access in energy, property, and digital infrastructure deals.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "power",
+        "grid",
+        "investment"
+      ],
+      "published_at": "2026-09-10T05:06:43Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/ai-data-centres-make-grid-access-key-to-power-deals-jll/133994566",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "JLL"
+      ],
+      "content": "Artificial intelligence (AI) demand and data centre expansion are reshaping global power markets, with grid access becoming a central factor in project viability, according to JLL. This shift is increasing the importance of transmission access in energy, property, and digital infrastructure deals.\n\nSelect ETDatacenters as Preferred Choice on Google\n\nHighlights\n\nAI demand and data centre expansion are making grid access a central factor for project viability and valuation, according to JLL.\n\nAsia Pacific data centre capacity is projected to rise from 32GW to 57GW by 2030, with global capacity reaching 200GW.\n\nGrid systems are struggling to accommodate rapid data centre growth, leading to connection queues of four years or longer.\n\nBattery energy storage systems are becoming crucial for managing intermittency and reducing stress on constrained grids.\n\nArtificial intelligence (AI) demand and data centre expansion are significantly reshaping global power markets, making grid access a central factor in project viability, according to a JLL analysis. The report highlights a sharp rise in electricity demand after years of relative stability or decline, with data centre growth emerging as a major driver across the United States, Europe, and Asia Pacific.In the Asia Pacific region, data centre capacity is projected to increase from 32GW to 57GW by 2030, while global capacity could reach 200GW over the same period. This rapid growth is colliding with existing grid systems that were built for large, centralised power stations rather than a faster-growing, more dispersed mix of renewable generation and large-scale computing facilities. In several markets, connection queues for new projects now extend to four years or longer, with some regions pausing new connections entirely.\n\nGrid Congestion Impacts Valuation\n\nThis pressure is elevating the importance of transmission access in energy, property, and digital infrastructure deals. Investors are now placing greater weight on whether an asset already possesses a connection or has a credible path to securing one, effectively transforming power access from an operational issue into a valuation question.Hyperscale technology companies are also increasing their spending on cloud and AI infrastructure. JLL noted that hyperscalers had announced USD 200 billion in infrastructure spending for 2026, marking a 51% increase from 2025.The trends exhibit regional variations. In the United States, interconnection reform and exposure to merchant power markets are altering deal structures. In Europe, regulatory changes are progressing at different speeds across countries. In Asia Pacific, the pace of data centre construction is outstripping grid planning in several markets.Steven Jack, Head of Energy and Infrastructure Advisory, EMEA, at JLL, commented on the scale of this shift. \"We've seen a generational shift in power demand as a result of data centres and AI,\" Jack said. \"Utilities that were forecasting modest growth are now grappling with figures nearly double their previous estimates. For any energy developer, without a grid connection, you don't have a project.\"\n\nBattery Storage and Innovative Models\n\nBattery energy storage systems (BESS) are gaining prominence as developers and investors seek solutions to manage intermittency, reduce stress on constrained grids, and enhance the economics of renewable supply. Their growth reflects a broader effort to build more flexibility into power systems as data centre demand escalates.Matt Eastwick, Group Head and Senior Managing Director, Energy and Infrastructure Advisory, U.S., at JLL, emphasised the role of batteries. \"Batteries are a very important component and asset in that balancing act,\" Eastwick said. \"They act as shock absorbers for constrained grids, charging when power is cheap and abundant, then discharging when demand and price are high.\"Grid bottlenecks are also changing the relationship between energy producers and major electricity users. Large technology groups are increasingly taking a direct role in securing generation, including through purchases of operating renewable assets, to mitigate reliance on uncertain connection timelines and wholesale market volatility.In Asia Pacific, investors are increasingly considering grid status and location as the primary point of due diligence for development assets, particularly in liberalised electricity markets. JLL identified Australia, India, Japan, and the Philippines as examples where connection status can significantly affect valuation.James Cameron, Head of Energy and Infrastructure, APAC, at JLL, noted new deal structures emerging in the region. \"In liberalised markets in Asia Pacific, such as Australia, India, Japan and the Philippines, status and location of grid connection is the first question for investors and has the largest valuation impact for development assets,\" Cameron said. \"In Australia, we're seeing a range of innovative models, from joint ventures to the inclusion of batteries in data centre design to facilitate grid connection.\"",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/ai-data-centres-make-grid-access-key-to-power-deals-jll/133994566"
+    },
+    {
+      "id": "2026-09-11-c466f9",
+      "title": "Fewer servers, more performance: The new logic of the modern data center",
+      "summary": "Australian firms could cut server counts and energy use sharply as AI workloads push data centres to prioritise density over expansion.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 2,
+      "regions": [
+        "australia",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "capacity",
+        "energy efficiency",
+        "chips"
+      ],
+      "published_at": "2026-09-10T03:45:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/fewer-servers-more-performance-the-new-logic-of-the-modern-data-center",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/amd-epyc-processors-drive-data-center-efficiency-with-fewer-servers/134043045",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "AMD"
+      ],
+      "content": "Thu, 10th Sep 2026 (Yesterday)\nBusiness growth in Asia Pacific is entering a new phase. The sustained increase in data, process automation, and the advancement of artificial intelligence are redefining the way enterprises compete and operate. In this scenario, computing has ceased to be a technical support and has become a strategic factor, directly linked to productivity and growth capacity.\n\nThe growing adoption of artificial intelligence, advanced analytics, and automation is increasing the demands placed on enterprise technology infrastructure. As models and workloads become more complex, organisations require platforms that can scale efficiently while maintaining performance and optimising energy consumption. In this context, modern computing architectures are evolving toward models that enable greater processing capacity to be consolidated within a smaller physical infrastructure footprint. The typical result is a more efficient operation, with reduced space, power, and management requirements. In fact, comparing a solution powered by 5th Gen AMD EPYC processors to a legacy solution to deliver the same workload showed the EPYC solution can reduce the number of servers required by up to 86%, lower energy consumption by as much as 69%, and decrease total cost of ownership (TCO) by up to 41% over a three-year period.<sub>1</sub>\n\nThis shift is driving a transformation in data center architecture. The model based on physical expansion, more servers, more space, more consumption, is being replaced by schemes that prioritise efficiency, compute density and load consolidation, In practice, this means doing more with less: running more applications on fewer servers, reducing costs and operational complexity.\n\nThe impact can have a direct impact on total cost of ownership (TCO). By optimising the use of existing infrastructure, companies can reduce energy consumption, reduce space requirements, and simplify technology management. This approach is especially relevant in markets such as Australia, where operational efficiency has become a key factor in sustaining competitiveness.\n\nAt the same time, energy efficiency has become a priority. Electricity consumption represents one of the main costs in data centers, so improving performance per unit of energy not only has a financial impact, but also on the sustainability commitments that more and more companies are assuming.\n\nAnother central element is scalability. Organisations require infrastructures capable of adapting to variations in demand, especially in environments where artificial intelligence demands real-time processing. Frictionless scaling allows you to accelerate service deployment and respond more quickly to market needs.\n\nIn the Australian case, this change in focus offers potential benefits: greater processing capacity without the need for physical expansion, reduced operating costs, and an infrastructure prepared to sustain future growth. In an environment where digital transformation is progressing unevenly, the adoption of more efficient models can make a significant difference in terms of competitiveness.\n\nIn this sense, recent technological evolution points towards more compact, efficient platforms designed for modern workloads. The focus is no longer on the volume of infrastructure, but on its capacity for performance and optimisation.\n\nThe breaking point is clear: the future of the data center is not necessarily about growing in size, but in efficiency. Consolidating loads and optimising resources has become a strategic decision to help reduce costs and sustain growth in the digital economy.\n\nAs a final reflection, the opportunity for companies in Australia is not only to adopt new technologies, but to do so under a strategic approach. Organisations that understand that computing is the core of their growth, and not just a support, will be better positioned to capture the value of artificial intelligence. Today, efficiency is not optional; it is the basis on which tomorrow's competitiveness is built.\n\n \n\n<sup>1</sup> AMD notes that 14 servers powered by AMD EPYC 9965 5th Gen processors can deliver the same integer-processing performance as 100 servers equipped with 2020-era Intel® Xeon® Platinum 8280 processors to deliver 391,000 units of integer performance, highlighting the consolidation and efficiency potential of modern data center architectures.\n\nSource: AMD EPYC Server CPUs: Your Foundation for AI",
+      "content_url": "https://datacenternews.asia/story/fewer-servers-more-performance-the-new-logic-of-the-modern-data-center"
+    },
+    {
+      "id": "2026-09-11-8df659",
+      "title": "Zankore secures US$ 3.1 billion loan; targets 1GW AI Factory in Indonesia",
+      "summary": "Indonesian AI platform Zankore has signed a senior term loan facility of up to US$3.1 billion to fund an AI Factory of up to 1GW, starting with an initial 100MW phase. The transaction is described as the first syndicated deal of this scale in APAC and one of Asia's largest data center financings.",
+      "why_it_matters": "A US$3.1 billion syndicated loan for an Indonesian AI build signals that bank lenders are now willing to underwrite gigawatt-scale AI campuses in Southeast Asia, not just in established hubs. If it proceeds, it vaults Indonesia into the top tier of regional AI infrastructure markets and raises the financing benchmark for competitors.",
+      "score": 90,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "capacity",
+        "financing"
+      ],
+      "published_at": "2026-09-10T02:23:54Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/zankore-secures-us-3-1-billion-loan-to-develop-ai-infrastructure-in-indonesia/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Zankore"
+      ],
+      "content": "Indonesia-based AI platform Zankore announced yesterday the signing of a senior term loan facility of up to US$3.1 billion with plans to build an AI Factory of up to 1GW in Indonesia, starting initially with 100MW. This is believed to be the first syndicated deal of this scale in APAC and one of Asia’s largest AI infrastructure financing, according to the firm’s press release.\n\nCiti, ING, Natixis CIB, Qatar National Bank (QNB) Group, and United Overseas Bank (UOB) acted as senior mandated lead arrangers, underwriters and bookrunners (SMLAUBs) for the senior term loan facility. The SMLAUBs’ underwriting of the facility reflects the growing recognition that the next phase of AI development will require significant investment in the infrastructure that powers the AI era.\n\nThe financing follows the launch of Zankore, announced in August, with Ooredoo Group, Indosat Ooredoo Hutchison, NVIDIA and Nokia. At the launch, Zankore announced plans to build one of Asia’s largest AI infrastructure platforms, targeting 1 GW of NVIDIA DSX AI Factory capacity and about 200 MW of initial capacity in the first half of 2027.\n\nProceeds from the debt financing will support the acquisition and deployment of advanced NVIDIA GPU infrastructure to deliver cloud services to AI-native enterprises, startups, developers and institutions across Indonesia and Southeast Asia. The deployment will be based on a revenue-sharing and credit-support model which will align infrastructure deployment with customer demand.\n\nBuilt on NVIDIA’s full-stack AI computing technologies, the platform will provide high-performance GPU clusters designed for AI training and inference.\n\nVikram Sinha, Director and Chairman of Zankore, said: “AI is creating a defining opportunity for Indonesia and Southeast Asia. The question is no longer simply whether the region will use AI, but whether we build the infrastructure that enables us to participate meaningfully in creating its future. With NVIDIA’s support, Zankore is building the advanced AI computing foundation needed to help turn that opportunity into reality.”\n\nKaustubh Kulkarni, Head of Investment Banking, Asia Pacific at Citi, said: “This landmark financing demonstrates the scale of capital and collaboration required to build the next generation of AI infrastructure.”\n\nUday Sareen, Head of Wholesale Banking, Asia Pacific at ING, said: “ING is delighted to have partnered with Zankore and its shareholders on this pioneering transaction, marking a significant milestone in the financing of AI compute infrastructure within the APAC syndicated loan market. Given the substantial capital demands associated with AI compute and GPU deployments, we are proud to have applied our deep sector knowledge to develop a sustainable and replicable financing solution that can underpin Zankore’s long-term growth and expansion plans.”\n\nOlivier Menard, Head of Global Trade, Asia Pacific at Natixis CIB said: “AI Compute is a new asset class that requires innovative financial solutions, such as this landmark financing for Zankore. We’d like to thank Indosat Ooredoo Hutchison for their trust in our expertise and strong track record, and to congratulate all the sponsors on setting a benchmark for future GPU financing projects in Asia Pacific.”\n\nKhalid A. Al-Sada, Senior Executive Vice President, Group Corporate and Institutional Banking at QNB, said: “This financing reflects the scale of investment and international collaboration required to build the advanced computing capacity that will support Southeast Asia’s next phase of digital growth. Beyond meeting rising demand for AI compute, infrastructure of this scale can enable businesses to develop and deploy new technologies, accelerate innovation and unlock broader economic opportunities across the region. By bringing together our teams in Singapore and Indonesia, we are helping to connect capital with strategically important opportunities while supporting Indonesia’s ambition to become a leading regional hub for AI infrastructure.”\n\nSamuel Tan, Managing Director and Head of Group Investment Banking at UOB, said: “The AI economy will be shaped not only by breakthroughs in technology, but by the infrastructure that enables innovation at scale. Zankore’s ambition to establish one of Asia’s largest AI computing platforms marks a significant milestone for ASEAN’s digital future. Through this landmark financing, alongside a strong ecosystem of sponsors, technology partners and financial institutions, UOB is supporting that ambition by combining capital, expertise and our regional network to advance critical AI infrastructure, accelerate AI adoption across industries, and strengthen ASEAN’s position in the global AI economy.”\n\nFrom the release, it is not clear how the US$3.1 billion loan will be allocated as it “juxtaposes a 100MW project now under development, an earlier 200MW initial-capacity target and a longer-term 1GW ambition without explicitly allocating the debt among those phases.” It also did not specify what the full collateral is nor details about the revenue-sharing and credit-support model, according to an analyst.",
+      "content_url": "https://w.media/zankore-secures-us-3-1-billion-loan-to-develop-ai-infrastructure-in-indonesia/"
+    },
+    {
+      "id": "2026-09-11-5b3fb7",
+      "title": "TSMC and Samsung commit to adopting ASML's High NA EUV lithography tools by 2030",
+      "summary": "TSMC and Samsung have committed to using ASML’s High NA extreme ultraviolet (EUV) lithography technology.",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "korea",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "semiconductors",
+        "supply chain"
+      ],
+      "published_at": "2026-09-09T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/tsmc-and-samsung-commit-to-adopting-asmls-high-na-euv-lithography-tools-by-2030/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "TSMC",
+        "Samsung",
+        "ASML"
+      ],
+      "published_precision": "day",
+      "content": "TSMC and Samsung have committed to using ASML’s High NA extreme ultraviolet (EUV) lithography technology.\n\nSamsung said it plans to begin adoption of the technology by 2028 for production of its memory chips, while TSMC will start using the tools from 2030.\n\nIn July, ASML announced that Intel has already started using its High NA EUV technology to manufacture its Intel Core Ultra Series 3 processors, code-named Panther Lake, built on Intel 18A process node technology.\n\nThe news comes five months after TSMC released an updated 2029 product roadmap, with the chipmaker stating at the time that all the technologies included on it would be manufactured using extreme-ultraviolet lithography (EUV) tools from ASML, instead of the most advanced high-NA EUV machines.\n\nASML also announced it would be working with Intel, Samsung, and TSMC on an industry initiative that aims to support the transition from six-inch to 12-inch photomasks (the templates for a chip’s design).\n\nIn a statement, ASML CEO Christophe Fouquet said the move to 12-inch masks will enable “greater scanner productivity and allow the industry to meet the demand for smaller, faster and more energy-efficient chips.”\n\n“We are pleased by the strong initial support of semiconductor manufacturers, mask suppliers and partners for this initiative,” he added.\n\nNetherlands-based ASML is the sole global supplier of EUV photolithography machines that are needed to make the most advanced 3nm and 5nm chips.\n\nHigh NA EUV machines – the most advanced lithography tools available – require less light per exposure than traditional EUV machines, reducing the time required to print each layer and therefore increasing wafer output. However, they also cost around double the amount of the standard EUV machines, with each unit costing approximately $370 million.\n\nFollowing the publication of the Dutch company’s Q2 2026 results, Fouquet said that in 2027, ASML was “pretty much already close” to receiving all the EUV orders it needs, “this is with us adding about 30 percent capacity for EUV in 2027 versus 2026.”\n\nFor 2028, he said that the company had begun exploring an additional 30 percent capacity increase, due, in part, to the “large number of orders from our customers for EUV” that it has already received.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/tsmc-and-samsung-commit-to-adopting-asmls-high-na-euv-lithography-tools-by-2030/"
+    }
+  ]
+}
