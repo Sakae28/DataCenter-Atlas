@@ -1591,11 +1591,11 @@ a.chip.company:hover {
   align-items: start;
 }
 
-/* Give the wide table more room: no content width cap, tighter padding. */
+/* Give the wide table more room, but keep the page left edge aligned
+   with every other page (same inherited 40px side padding) and cap growth
+   on very wide monitors so the layout does not sprawl. */
 .main-inner:has(.pipeline-layout) {
-  max-width: none;
-  padding-left: 16px;
-  padding-right: 16px;
+  max-width: 1600px;
 }
 
 /* Dense table: smaller chips/badges so columns fit beside the map rail. */
