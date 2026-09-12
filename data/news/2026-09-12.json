@@ -1,0 +1,425 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T06:16:41Z",
+  "hot": [
+    "2026-09-12-c8cf69",
+    "2026-09-12-4b3fda",
+    "2026-09-12-bedd08",
+    "2026-09-12-fb1dfc",
+    "2026-09-12-19d56b"
+  ],
+  "stories": [
+    {
+      "id": "2026-09-12-520164",
+      "title": "Urban data centers: Essential for low-latency, high-interconnection workloads",
+      "summary": "Urban data centers, located within metropolitan cores, offer critical low-latency and dense interconnection capabilities. These facilities are vital for specific workloads like high-frequency trading and edge computing, despite their smaller scale and higher operating costs compared to hyperscale campuses.",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "colocation",
+        "edge",
+        "latency",
+        "interconnection"
+      ],
+      "published_at": "2026-09-12T03:30:07Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/urban-data-centers-essential-for-low-latency-high-interconnection-workloads/134106151",
+          "type": "rss"
+        }
+      ],
+      "content": "Urban data centers are critical facilities located within metropolitan cores, offering low latency and dense interconnection essential for specific workloads. These city-center hubs play a significant role in the data center ecosystem, providing proximity to major population centers and dense network interconnection points.Unlike large, standalone data centers in outlying districts, urban facilities are typically smaller, often supporting 10 MW or less compared to 100+ MW hyperscale campuses. However, they offer compelling advantages, including reduced data round-trip time and jitter for latency-sensitive applications like trading, gaming, and real-time analytics. Their location in city centers also provides access to extensive fiber-optic infrastructure, multiple networks, and cross-connect options, enhancing resiliency and performance. Furthermore, urban locations simplify operational access for customer teams and technicians, which is particularly beneficial for colocation environments with frequent changes.\n\nWhile offering distinct advantages, urban data centers present several trade-offs. Higher real estate costs, taxes, and permitting expenses contribute to a higher total cost of ownership. Space and power constraints are also significant, complicating on-site generation and fuel storage, and increasing vulnerability to power outages. Emissions rules and noise ordinances can further limit generator runtime or type. Converting older buildings into data centers, a common necessity in dense urban areas, introduces complexities related to floor loading, elevator access, mechanical, electrical, and plumbing (MEP) distribution, and fire suppression systems.These facilities are ideal for organisations prioritising ultra-low latency, rich interconnection, and high-throughput connectivity within a specific metro area. This includes financial services, high-frequency trading firms, media and gaming providers, SaaS and ad tech platforms, and telco/Multi-access Edge Computing (MEC) deployments, as well as enterprises with stringent data residency requirements. Organisations seeking maximum IT capacity per dollar or serving users across large geographic areas may find suburban or regional campuses more suitable. AI inference is also pulling infrastructure back into metro data centers.Businesses can either build their own urban data centers, a complex and capital-intensive process requiring deep local expertise, or rent colocation space from operators like Digital Realty, Equinix, CoreSite, Telehouse, and DataBank. When evaluating providers for urban deployments, factors such as interconnection options, cross-connect pricing, power availability and density, redundancy architecture, generator constraints, physical security, sustainability programs, and logistics are crucial. To inform strategic planning for data center operators and investors considering expansion or new builds in India's rapidly urbanising metros, it is important to evaluate the feasibility and economic viability of urban data center deployments or colocation partnerships, considering local real estate, power, and connectivity infrastructure. Additionally, assessing the demand for low-latency, high-interconnection capacity to support specific workloads like financial services, gaming, and edge computing in urban Indian markets is essential. Reviewing operational constraints such as power availability, generator runtime, and retrofit complexities when planning urban data center projects in India is also advised.\n\n### Key Considerations and Trade-offs\n\nWhile offering distinct advantages, urban data centers present several trade-offs. Higher real estate costs, taxes, and permitting expenses contribute to a higher total cost of ownership. Space and power constraints are also significant, complicating on-site generation and fuel storage, and increasing vulnerability to power outages. Emissions rules and noise ordinances can further limit generator runtime or type. Converting older buildings into data centers, a common necessity in dense urban areas, introduces complexities related to floor loading, elevator access, mechanical, electrical, and plumbing (MEP) distribution, and fire suppression systems.These facilities are ideal for organisations prioritising ultra-low latency, rich interconnection, and high-throughput connectivity within a specific metro area. This includes financial services, high-frequency trading firms, media and gaming providers, SaaS and ad tech platforms, and telco/Multi-access Edge Computing (MEC) deployments, as well as enterprises with stringent data residency requirements. Organisations seeking maximum IT capacity per dollar or serving users across large geographic areas may find suburban or regional campuses more suitable. AI inference is also pulling infrastructure back into metro data centers.Businesses can either build their own urban data centers, a complex and capital-intensive process requiring deep local expertise, or rent colocation space from operators like Digital Realty, Equinix, CoreSite, Telehouse, and DataBank. When evaluating providers for urban deployments, factors such as interconnection options, cross-connect pricing, power availability and density, redundancy architecture, generator constraints, physical security, sustainability programs, and logistics are crucial. To inform strategic planning for data center operators and investors considering expansion or new builds in India's rapidly urbanising metros, it is important to evaluate the feasibility and economic viability of urban data center deployments or colocation partnerships, considering local real estate, power, and connectivity infrastructure. Additionally, assessing the demand for low-latency, high-interconnection capacity to support specific workloads like financial services, gaming, and edge computing in urban Indian markets is essential. Reviewing operational constraints such as power availability, generator runtime, and retrofit complexities when planning urban data center projects in India is also advised.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/urban-data-centers-essential-for-low-latency-high-interconnection-workloads/134106151"
+    },
+    {
+      "id": "2026-09-12-fcf6ff",
+      "title": "Data centre energy demand from Asean telcos not a 'big risk', says industry group",
+      "summary": "This is because telcos in this region have not made plans to significantly expand their data centre capabilities",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "energy",
+        "power",
+        "telecom",
+        "capacity"
+      ],
+      "published_at": "2026-09-11T14:08:50Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/esg/data-centre-energy-demand-asean-telcos-not-big-risk-says-industry-group",
+          "type": "rss"
+        }
+      ],
+      "content": "This is because telcos in this region have not made plans to significantly expand their data centre capabilities\n\n[SINGAPORE] The energy demand, and hence emissions growth, from new data centres by telecommunications companies in Asean is not “such a big risk”, said the head of climate action of GSMA, a global trade body for mobile network operators.\n\nThat’s mainly because telcos in this region have not made plans to significantly expand their data centre capabilities, unlike those in China, India and South Korea, said Steven Moore, speaking with *The Business Times.*\n\n“There has been some interest from in Singapore, but there’s also some some energy constraints in this part of the world as well that we’re seeing. So, and we’ve also seen some challenges actually in Malaysia, in terms of building data centres, and particularly in the south of the country. Again, because of the pressure potentially placing on energy grids,” he said.\n\nIn addition, there is also a global crunch on specialised semiconductor chips for artificial intelligence.\n\nMoore was speaking to BT on a GSMA report detailing the emissions data of Asia-Pacific mobile network operators that was released on Thursday (Sep 10).\n\nGiven that most (70 per cent) of a telco’s operational emissions come from mobile networks and their cell towers, a limited expansion of data centres over the next few years would not significantly add to telcos’ electricity consumption. Operational emissions refer to emissions arising from a company’s business activities (Scope 1), as well as its purchase of electricity (Scope 2).\n\nOf course, there are exceptions. Moore highlighted that telcos in China, Japan and South Korea have indicated significant expansion plans.\n\nFor South Korea, the report stated that operators have announced plans to build more than 6 gigawatts (GW) of new AI data centre capacity by 2030, and more than 16 GW by 2035.\n\n“If fully built, these data centres could consume between 30 and 40 terawatt-hours of electricity in 2030 – five times more than their current electricity consumption,” it said.\n\nThe higher electricity consumption comes with expected higher energy costs as well.\n\nThe report said that the estimated cost of fuels was US$400 million in 2024, with operators consuming around 350 million litres of petrol and diesel – mostly among those in South Asia and South-east Asia – while tower companies consumed an additional one billion litres.\n\nThis cost is likely to be considerably higher in 2026, with prices of fuels surging as a result of the Iran war.\n\n“Although many mobile operators and tower companies in the region have significantly reduced their diesel consumption over the past decade through grid connections and on-site solar and hybrid solutions, diesel generators remain the biggest source of Scope 1 emissions, and a large and volatile cost,” said the report.\n\n## Carbon emissions\n\nOperational emissions of telcos in the Asia-Pacific rose 6 per cent between 2019 and 2024. While emissions went down by 30 per cent among operators in Japan and Oceania, they increased in many emerging markets, including South Asia and South-east Asia.\n\nIn South-east Asia, emissions from telcos rose by 20 per cent between 2019 and 2025. However, renewables only contributed 4 per cent of the region’s electricity consumption.\n\nThe share of renewables among telcos across the wider Asia-Pacific region was 15 per cent.\n\n“South and South-east Asia have some of the most carbon-intensive and fossil-fuel-dependent electricity grids in the world. While renewable energy is increasing in many of these markets, mobile operators and other companies face challenges in accessing renewable energy,” said the report.\n\n“In some countries, procurement mechanisms to access off-site renewables, for example, power purchase agreements, are limited or under development. In more advanced markets, barriers for mobile operators include high costs or a lack of options for distributed loads such as mobile towers,” it added.\n\nMoore said that operators in South-east Asia face challenges as the national energy grids of their markets are still largely reliant on fossil fuels.\n\n“There is no lack of appetite from operators in South-east Asia for decarbonising their networks, and we have many operators that have set science-based targets, and that are actively looking to improve energy efficiency, access more renewable energy, move away from diesel generators, (and) towards things like solar, battery, and alternative lower-carbon forms of fuel.”\n\nHe added: “But we know there’s also a limit to how much you can do on-site.”\n\nHowever, the association expects to see more liberalisation of energy markets in the next few years.\n\n“Once that’s happened, we expect to see mobile network operators at the front of the queue in terms of the purchase of renewables. They are definitely ready and willing buyers of renewable energy as soon as it becomes available,” said Moore.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.",
+      "content_url": "https://www.businesstimes.com.sg/esg/data-centre-energy-demand-asean-telcos-not-big-risk-says-industry-group"
+    },
+    {
+      "id": "2026-09-12-88eb67",
+      "title": "Cybersecurity Law Must Work Beyond the Checklist",
+      "summary": "Malaysia’s Cyber Security Act has set firm duties for critical infrastructure. The next test is whether organisations can turn those duties into fast, practised action.",
+      "why_it_matters": "",
+      "score": 40,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "regulation",
+        "cybersecurity"
+      ],
+      "published_at": "2026-09-11T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817592",
+          "type": "html-list"
+        }
+      ],
+      "published_precision": "day",
+      "content": "**Malaysia’s Cyber Security Act has set firm duties for critical infrastructure. The next test is whether organisations can turn those duties into fast, practised action.**\n\nWHEN the next cyber incident disrupts a hospital, payment system, water operator or transport network, the public will not ask whether the organisation had completed a compliance spreadsheet. People will ask whether services were restored, damage was contained and the authorities were informed in time.\n\nThat is the practical test facing Malaysia after the Cyber Security Act 2024 (Act 854) came into force on Aug 26, 2024. The law gives the country a clearer structure for protecting National Critical Information Infrastructure (NCII) — the systems whose disruption could harm national security, economic stability, public health, safety or the government’s ability to function.\n\nIts reach covers 11 sectors: government; banking and finance; transportation; defence and national security; information, communication and digital services; healthcare; water, sewerage and waste management; energy; agriculture and plantation; trade, industry and economy; and science, technology and innovation.\n\nThe framework is significant. Yet legislation alone cannot defend a network. Its strength will be measured by what happens inside organisations at 2am, when an alert appears and staff must decide whether it is an incident, who has authority to act and how quickly accurate information can reach the right agencies.\n\nCritical infrastructure protection needs board-level ownership, rehearsed incident reporting and tested recovery.\n\nThe most demanding feature is the incident-notification timetable. An NCII entity must notify the chief executive of the National Cyber Security Agency (Nacsa) and its sector lead immediately after an incident has, or might have, come to its knowledge. Specified initial details must follow within six hours. Supplementary information is due, as far as practicable, within 14 days.\n\nThis is more than a reporting rule. It requires a clear internal chain from technical detection to management decision-making. Security teams need agreed thresholds, an authorised reporting officer, current contact details and a short process for obtaining legal and operational input without losing hours in internal debate.\n\nA six-hour requirement cannot be met through a document that no one has rehearsed. Organisations should test it through exercises involving technology, legal, communications, operations and senior management. The exercise should begin with an incomplete alert, since that is how real incidents usually arrive.\n\nAct 854 requires NCII entities to conduct a cybersecurity risk assessment at least once a year and an audit at least once every two years, or more often if directed. Reports must be submitted within 30 days of completion. These duties place cybersecurity within organisational governance, not solely within the information technology unit.\n\nBoards and senior leaders need a clear view of the systems that support critical services, the risks that remain after controls are applied, and the resources required to close gaps. They should ask whether recovery plans have been tested, whether backup systems are isolated and usable, and whether the organisation can continue its most important services during an attack.\n\nThe penalties reinforce the seriousness of these duties. Failure to implement an applicable code of practice, or to notify a qualifying incident, can attract a fine of up to RM500,000, imprisonment for up to 10 years, or both. Failure to conduct the required assessment or audit, or to submit the report, can attract a fine of up to RM200,000, imprisonment for up to three years, or both.\n\nThe better reason to act, though, is operational continuity. A penalty arrives after a failure. A well-prepared response can limit the failure itself.\n\nFew critical services operate within one organisation’s walls. Cloud providers, software companies, telecommunications partners, maintenance contractors and managed security teams may hold the first evidence that something has gone wrong.\n\nNCII entities should identify which suppliers can affect critical operations and write rapid notification, evidence preservation and incident-support duties into their contracts. Contact paths should be tested. Access granted to vendors should be limited, monitored and removed when no longer needed.\n\nLicensing checks require precision. Under the 2024 regulations, the licensing regime applies to managed security operations centre monitoring and penetration-testing services, subject to stated exceptions. Procurement teams should verify the status and scope of a provider’s licence rather than assuming that a general security credential is sufficient.\n\nNCII entities may already answer to sector regulators and to laws such as the Personal Data Protection Act. Treating each requirement as a separate project creates repeated audits, duplicated evidence and staff fatigue.\n\nThe answer is a single control map showing how each security measure meets the Nacsa code of practice, sector rules and other legal duties. Act 854 permits alternative measures that provide equal or higher protection to the satisfaction of the chief executive. It also recognises measures implemented under other written laws, provided they do not conflict with the applicable code of practice.\n\nThis gives organisations room to build one coherent system rather than several disconnected compliance programmes. Common evidence — asset inventories, access reviews, test results, incident records and recovery exercises — can support several obligations when it is current and reliable.\n\nThe immediate agenda is practical. Each organisation should confirm its NCII designation and sector lead, identify the systems within scope, assign executive accountability, map its controls against the applicable code, test the six-hour reporting process and review critical suppliers. Risk assessments and audits should sit on the corporate calendar with named owners and budgets.\n\nNacsa and sector leads have a matching role: keep guidance accessible, communicate changes clearly and promote consistent expectations across sectors. Smaller entities and suppliers will need usable templates, exercises and access to qualified professionals, not only legal language.\n\nMalaysia now has a statutory foundation for protecting the digital systems on which daily life relies. The next stage is to make compliance visible in real decisions: faster escalation, clearer ownership, tested recovery and honest reporting.\n\nThe strongest evidence of success will not be a certificate on a wall. It will be a critical service that continues, or recovers quickly, when an attack occurs.\n\n*The views expressed are the writer’s own. This article provides general information and does not constitute legal advice.*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817592"
+    },
+    {
+      "id": "2026-09-12-4b3fda",
+      "title": "Microsoft targets 38GW of data center capacity in 2032 - report",
+      "summary": "Microsoft is targeting 38GW of data centre capacity by 2032, according to a report, a more than threefold increase from the roughly 12GW it operates today. The plan would rank among the most aggressive infrastructure expansions ever undertaken by a hyperscaler.",
+      "why_it_matters": "A tripling of capacity in seven years signals Microsoft sees AI demand as far from peaking and is prepared to commit unprecedented capital to stay ahead. The scale raises stakes for power markets, equipment suppliers and grid operators worldwide, and intensifies competitive pressure on rivals like Amazon and Google.",
+      "score": 82,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "hyperscale",
+        "capacity",
+        "investment",
+        "ai"
+      ],
+      "published_at": "2026-09-11T11:28:09Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/microsoft-targets-38gw-of-data-center-capacity-in-2032-report/",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/microsoft-targets-38gw-of-data-center-capacity-in-2032-report/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "content": "Microsoft is planning to more than triple its data center capacity over the next five years.\n\nAs reported by Bloomberg and citing people \"familiar with the plans,\" the cloud company is targeting 38GW of capacity in 2032. It currently operates around 12GW of data center capacity.\n\nThis will comprise a combination of self-owned and operated data centers and leased capacity from third-party providers, including neoclouds, with which Microsoft has signed some large contracts, including CoreWeave, Nscale, Lambda, Iren, and Nebius. In November 2025, it had spent an estimated $60 billion.\n\nThe company's capex has consistently grown as well. In 2024, total capex was $55.7bn. In the years following, this has grown to $115.9bn and then $145.3bn in 2026, estimated to reach $175bn for 2027.\n\nMicrosoft declined to comment on its data center building plans to Bloomberg, but the company is known to be developing in several locations globally, having sworn off NDAs related to its projects in March of this year.\n\nIn recent quarters, the company has brought online 1GW of capacity, and in FY2026 brought online 88 data centers. In Q4 alone, the company brought online 31 data centers.\n\nTo reach 38GW in 2032, the company will need to slightly ramp up its deployment rate, bringing the average quarterly rate to just over 1GW.\n\nAmong the projects to have come online are two of the company's \"Fairwater\" sites, which are large and powered AI-dedicated data centers that house hundreds of thousands of GPUs.\n\n*DCD* has reached out to Microsoft for comment.\n\nWhile data center capacity is being built out at a rapid pace by hyperscalers and data center operators alike, public pushback and scrutiny are also increasing. In the US, states are increasingly introducing requirements for data center projects to pay their own way and cover costs of upgrading electrical and water infrastructure in the region. Some states are even enacting pauses on new projects, adding another layer of complexity to build-out plans.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/microsoft-targets-38gw-of-data-center-capacity-in-2032-report/"
+    },
+    {
+      "id": "2026-09-12-fb1dfc",
+      "title": "Oracle delivered 300,000 GPUs in Q1 FY2027",
+      "summary": "Oracle disclosed that it delivered 300,000 GPUs to customers in the first quarter of its fiscal 2027, underscoring the pace of its AI infrastructure rollout. Executives also teased a forthcoming 'agentic AI accelerator' product.",
+      "why_it_matters": "The delivery figure offers a rare concrete gauge of how quickly AI compute is being deployed at scale, and positions Oracle as a leading GPU distribution channel alongside hyperscalers. The teased accelerator suggests Oracle intends to move deeper into the AI stack, potentially reshaping its relationships with chip suppliers like Nvidia.",
+      "score": 70,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "cloud",
+        "capacity"
+      ],
+      "published_at": "2026-09-11T10:58:37Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/oracle-delivered-300000-gpus-in-q1-fy2027/",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/oracle-delivered-300000-gpus-in-q1-fy2027/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Oracle"
+      ],
+      "content": "Oracle delivered more than 300,000 GPUs and 850MW of data center capacity to customers during Q1 of fiscal year 2027.\n\nRevealed during the company's earnings call on September 10, 2026, co-CEO Clay Magouyrk noted that this was \"almost three times what we delivered in all of Q4, and 73 percent of the total capacity delivered last fiscal year.\"\n\nOracle's cloud Infrastructure as a Service revenue was up 121 percent Year-on-Year (YoY), bringing in $7.4 billion, by far the fastest-growing business offering. This beat the previous quarter's growth rate of 93 percent. Total revenue for the quarter was $19.3bn, up 30 percent YoY.\n\nRemaining performance obligations (RPO) are also up $209bn YoY to $664bn.\n\nCFO Hilary Maxson noted that the RPO increased $26bn in the last quarter alone, of which the \"vast majority\" of contracts were \"prepay or bring your own hardware or similar mechanic, so will not require incremental capital from Oracle.\"\n\nMagouyrk later expanded: \"While there clearly are capital expenditures, it does not require Oracle to go out and find additional cash to do it. Now, the question becomes, well, how do you do that? Well, we have a variety of different models. Sometimes it's working with our suppliers, through different financing arrangements that allow us to pay for the capacity as the customers pay us. That's one mechanism.\n\n\"Another mechanism is that a customer says, 'Hi, I'd like to pay for the hardware, but use your operational ability and your cloud infrastructure technology assets and your data center to go out and actually turn that into an AI cluster.' It's a different option. A third option is that the customer has been able to raise money. Maybe it is a startup, maybe it is an established company, and says, 'Hi, I would like to pay you upfront as a prepayment,' and in return, that doesn't require you to front the cash to go out and spend your dollars on that capex.\"\n\nThe company expects FY 2027 capex to be between $90bn and $95bn, significantly less than the other cloud hyperscalers. For example, Amazon Web Services expects to spend some $220 billion for the year (including its retail arm), and Microsoft expects to spend $175bn in FY2027.\n\nAccording to executives, utilization remains high at 97.9 percent, and of the GPUs that came up for renewal in the quarter, it was \"renewed or resold at a 20 percent premium to prior contracts,\" while the majority of those GPUs were four years or older.\n\nMagouyrk also revealed that Oracle completed its previously announced $20 billion equity issuance in Q1 2027. Previously, the company said that it was expecting to raise $40 billion in debt and equity in FY2027, though no further reference to the debt was made in the latest earnings call.\n\nInterestingly, during the earnings call, CEO Mike Sicilia revealed: \"At AI World in October, we will unveil a new agentic AI accelerator poised to redefine how customers deploy Oracle applications faster, simpler, and at a dramatically lower cost.\"\n\nNo further details were provided on this, though *DCD* has contacted the company for more information.\n\nOracle has consistently denied to *DCD* that it plans to develop custom chips, however, this seems to suggest that the company could be pivoting on that decision.\n\nOther key performance metrics for the quarter include a net income of $4.7 billion, while free cash flow for the quarter was negative $5bn.\n\nFollowing the earnings call, Oracle’s shares climbed around six percent in after-market trading.\n\n## More in The Investment & Markets Channel\n\n- \n                    \n    \n- \n                    \n    \n- \n                    \n    \n# Episode DCD>Inside India",
+      "content_url": "https://www.datacenterdynamics.com/en/news/oracle-delivered-300000-gpus-in-q1-fy2027/"
+    },
+    {
+      "id": "2026-09-12-c8cf69",
+      "title": "Australia's NextDC raises AU$1.1bn in convertible notes",
+      "summary": "Australian data centre operator NextDC has raised AU$1.1 billion through a convertible notes offering to fund its ongoing build-out. The raise adds fresh capital as the company races to expand capacity amid booming AI and cloud demand.",
+      "why_it_matters": "The convertible structure lets NextDC fund expansion without immediate equity dilution, but it adds leverage at a time when capital intensity in the sector is climbing. For investors, the raise signals both confidence in demand and the enormous funding requirements facing APAC operators chasing hyperscale and AI customers.",
+      "score": 85,
+      "heat": 2,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "capacity",
+        "hyperscale",
+        "colocation"
+      ],
+      "published_at": "2026-09-11T09:53:32Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/australias-nextdc-raises-au11bn-in-convertible-notes/",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/australias-nextdc-raises-au11bn-in-convertible-notes/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NextDC"
+      ],
+      "content": "Aussie data center firm NextDC is raising AU$1.1 billion (US$796m) in convertible notes to fund its digital infrastructure build-out.\n\nIt is the third time in little over four months that the ASX-listed firm has sought fresh capital.\n\nConvertible notes allow companies to borrow money at a lower interest rate, with the lender accepting that some of the debt can be converted to equity at a later date, when the company’s share price has gone up.\n\nThe notes are a way to raise money without immediately issuing new shares and diluting the value of existing holdings. They have become a popular debt instrument among data center firms that need access to large amounts of capital to fund construction projects. The companies are banking on their stock prices rising as more data centers come online and demand for AI services continues to grow.\n\nIn this case, the notes will mature on 17 September 2031. The lenders will be able to buy shares at a price of AU$16.69 ($11.97), a 32.5 percent premium on the $AU12.60 ($9.04) reference price set by NextDC.\n\nCraig Scroggie, CEO of NextDC, said: “The transaction provides NextDC with efficient, committed, funding for our development pipeline, and diversifies NextDC’s sources of funding with a new, deep, global investor base, whilst preserving our senior debt capacity and balance sheet flexibility.”\n\nNextDC has 20 data centers in operation or development across Australia. It also has sites in planning or under evaluation in Japan, Thailand, Malaysia, and Singapore. Customers include OpenAI, which is set to take space at its upcoming S7 data center in Sydney.\n\nIn July it raised AU$500 million (US$347 million) in senior debt facilities, building on AU$1.8 billion (US$1.25bn) of commitments announced in May.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/australias-nextdc-raises-au11bn-in-convertible-notes/"
+    },
+    {
+      "id": "2026-09-12-09f7dc",
+      "title": "US listing could put Japan's Kioxia in global AI spotlight, Voya's Thomas says",
+      "summary": "The firm has said it is preparing to list American depositary shares to grow its investor base",
+      "why_it_matters": "",
+      "score": 68,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "investment"
+      ],
+      "published_at": "2026-09-11T08:33:28Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/startups-tech/technology/us-listing-could-put-japans-kioxia-global-ai-spotlight-voyas-thomas-says",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Kioxia",
+        "Voya Investment Management"
+      ],
+      "content": "The firm has said it is preparing to list American depositary shares to grow its investor base\n\n[TOKYO] A plan by Kioxia to list shares in the US could put the Japanese chipmaker back into the global investment spotlight, said the lead manager of a US$14 billion artificial intelligence-focused fund.\n\nKioxia, whose 456 per cent surge in 2026 leads gains on the benchmark Nikkei 225 index, said in May it was making preparations to list American depositary shares (ADS) to grow its investor base.\n\nThe company is not a part of Voya Investments’ Global Artificial Intelligence fund, which includes US$5 billion in Japanese money, nor are any of the tech firms that have fuelled the Nikkei’s gains.\n\nThe problem is liquidity, said Voya portfolio manager Sebastian Thomas, and being traded in the US market could change that calculus, as it did with South Korea’s SK Hynix when it listed on the Nasdaq in July.\n\n“There are a lot of interesting companies in Japan, particularly that are part of the supply chain,” Thomas said in an interview with Reuters on Thursday (Sep 10).\n\n“It’s an issue of finding ones that have sufficient liquidity where we can invest.”\n\nThe fund, which is affiliated with Sumitomo Mitsui DS Asset Management, has given about 600 per cent in cumulative returns since its launch 10 years ago this month, calculated on a pre-tax distribution-reinvested basis.\n\nIt invests in AI infrastructure companies like chipmaker Nvidia, the fund’s heaviest weighting, but also AI application makers and companies that stand to benefit by embracing the technology, such as drugmaker Eli Lilly .\n\nVoya has invested in Japanese names in the past, and while it does not hold Kioxia, it has exposure to other memory makers, including SK Hynix and Micron Technology, Thomas said, adding that US listings make that entry easier.\n\n“We tend to skew a bit more liquid and larger,” he said. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/startups-tech/technology/us-listing-could-put-japans-kioxia-global-ai-spotlight-voyas-thomas-says"
+    },
+    {
+      "id": "2026-09-12-bedd08",
+      "title": "Chinese chipmakers become billionaires without turning a profit",
+      "summary": "The founders of Shanghai-based AI chip startup Enflame Technology have become billionaires on paper as investors eager for exposure to China's AI sector pour money into the company, despite it having yet to turn a profit. The windfall reflects soaring valuations for domestic chipmakers seen as beneficiaries of Beijing's self-sufficiency push.",
+      "why_it_matters": "Sky-high valuations for unprofitable chip firms highlight how policy support and scarcity of investable AI assets are driving a speculative premium in China's semiconductor sector. The trend rewards early backers and accelerates fundraising across the industry, but raises bubble concerns if commercial traction fails to catch up with investor expectations.",
+      "score": 72,
+      "heat": 2,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "investment"
+      ],
+      "published_at": "2026-09-11T08:09:23Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/startups-tech/technology/chinese-chipmakers-become-billionaires-without-turning-profit",
+          "type": "rss"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817754",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Enflame Technology"
+      ],
+      "content": "Shanghai Enflame Technology founders become billionaires as investors hungry for AI bets pour money into firm\n\n[HONG KONG] Shanghai Enflame Technology has fewer than 900 employees, one major customer, and has never turned a profit since the Chinese computer chip manufacturer began in 2018.\n\nThat has not stopped founders Zhao Lidong and Zhang Yalin from becoming billionaires as investors hungry for artificial intelligence bets pour money into the firm and overlook multiple hurdles to growth.\n\nOutside of the duo, Tencent is the biggest shareholder and also the company’s biggest client.\n\nEnflame’s shares soared as much as 234 per cent on their first day of trading on Friday (Sep 11) in Shanghai, bringing Zhao and Zhang’s individual fortunes to US$2.5 billion each.\n\nThe two co-founders are subject to lengthy lockup periods and have to meet certain targets before they can cash out.\n\nEnflame did not respond to requests for comment.\n\n## AI-linked wealth\n\nThe windfall is another illustration of how initial public offerings have created enormous wealth for a cohort of Chinese executives tied to AI.\n\nThe founders of Moore Threads Technology and MetaX Integrated Circuits, two of Enflame’s local competitors, also saw their personal wealth surge after going public while their companies were firmly in the red.\n\nEnflame’s listing was similarly oversubscribed, even as it faces supply chain bottlenecks, competition from global rivals such as Nvidia and geopolitical uncertainties that have led to multiple quarters of losses.\n\nZhao and Zhang worked at Advanced Micro Devices (AMD) before starting Enflame, named after a Chinese mythical character credited with inventing fire.\n\nZhao spent two decades in Silicon Valley and served as a vice-president at state-backed Tsinghua Unigroup in Beijing, while Zhang rose through AMD’s Shanghai research centre to run its core chip development.\n\nFrom the beginning, the co-founders sought to avoid direct competition with Nvidia’s general-purpose graphics processing units.\n\nUnlike other Chinese companies, they chose to develop an alternative type of chip designed to operate outside Nvidia’s ecosystem.\n\n## Beneficiaries of data centre boom\n\nChinese AI hardware companies like Enflame are benefiting from the country’s rapid data centre boom.\n\nA smaller rival to Huawei Technologies and Moore Threads, Enflame’s success is closely tied to Tencent, which is ramping up AI capacity and continues to require massive computing to support WeChat and other services.\n\nThe tech giant holds a 20 per cent stake in Enflame and generated nearly 84 per cent of Enflame’s 990 million yuan (US$138 million) in revenue in 2025.\n\nEnflame posted a net loss of 1.16 billion yuan ($160 million) in 2025 as it invested heavily in research and development.\n\nIn late 2023, geopolitical tensions forced it to downgrade certain chip designs to maintain access to Taiwan Semiconductor Manufacturing Corporation’s operations.\n\nTo generate revenue, the company has leaned heavily on Chinese state-backed computing projects in cities like Wuxi and Qingyang.\n\nEnflame’s decision to focus on alternative chips is a “high-risk form of strategic independence”, said Paul Triolo, partner and head of technology at DGA.\n\n“The challenge is assessing how Enflame’s strategy works with different customers,” said Triolo.\n\n“It may be good for Tencent and municipal data centres, given resources to port and update software, but less attractive in the open developer market.” BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/startups-tech/technology/chinese-chipmakers-become-billionaires-without-turning-profit"
+    },
+    {
+      "id": "2026-09-12-0dd64a",
+      "title": "AI drives structural expansion in data storage demand, IDC reports",
+      "summary": "New global research from IDC, sponsored by WD, indicates that artificial intelligence (AI) and generative AI (GenAI) are causing a structural expansion in data storage requirements for organisations, moving the focus beyond just compute. Nearly 95 per cent of surveyed organisations are storing more data due to AI, with a significant majority expecting further growth in the coming years.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "storage",
+        "capacity",
+        "research"
+      ],
+      "published_at": "2026-09-11T08:05:07Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/ai-drives-structural-expansion-in-data-storage-demand-idc-reports/134054316",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "IDC",
+        "Western Digital"
+      ],
+      "content": "New global research from IDC, sponsored by WD, reveals that while the artificial intelligence (AI) infrastructure conversation has largely centred on compute, data persistence and accumulation are critical factors for organisations scaling AI. The study, titled \"Built for Scale: The Enduring Role of HDDs in the AI Era\", highlights a compounding data cycle where AI workloads not only require data but also increase the potential value of already stored information, leading to expanded storage needs.The IDC White Paper found that 94.7 per cent of surveyed organisations are storing more data due to AI and generative AI (GenAI) adoption over the past 12 months. Furthermore, 61 per cent experienced data growth of 25 per cent or more in the last year because of AI, a figure that 74 per cent expect to see over the next three years. AI-generated data, including synthetic data, inference outputs, and model logs, was identified by 59.4 per cent of organisations as the primary driver of data lake growth.\n\n- AI & Compute Infrastructure\n- 2 min Read\n\n# AI drives structural expansion in data storage demand, IDC reports\n\nNew global research from IDC, sponsored by WD, indicates that artificial intelligence (AI) and generative AI (GenAI) are causing a structural expansion in data storage requirements for organisations, moving the focus beyond just compute. Nearly 95 per cent of surveyed organisations are storing more data due to AI, with a significant majority expecting further growth in the coming years.\n\n- Published On Sep 11, 2026 at 01:35 PM IST\n\n## Highlights\n\n- Nearly 95 per cent of surveyed organisations store more data due to AI adoption.\n- 61 per cent saw over 25 per cent data growth in past year due to AI workloads.\n- 74.3 per cent are retaining data longer, 75.9 per cent reactivating archived data.\n- 98.2 per cent value total cost of ownership per terabyte for storage decisions.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/ai-drives-structural-expansion-in-data-storage-demand-idc-reports/134054316"
+    },
+    {
+      "id": "2026-09-12-7e5472",
+      "title": "Data centers and telcos: distinct roles, shared digital infrastructure dependence",
+      "summary": "Data centers house IT equipment for compute and storage, while telecommunications providers deliver network connectivity. Both are distinct yet interdependent, forming the backbone of digital infrastructure. Understanding their unique functions and points of intersection is key to scaling cloud and AI services reliably.",
+      "why_it_matters": "",
+      "score": 25,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "telecoms",
+        "infrastructure",
+        "connectivity"
+      ],
+      "published_at": "2026-09-11T03:30:13Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/data-centers-and-telcos-distinct-roles-shared-digital-infrastructure-dependence/134043403",
+          "type": "rss"
+        }
+      ],
+      "content": "Data centers and telecommunications (telco) providers operate in tandem to power digital infrastructure, serving distinct yet complementary roles. While data centers provide controlled environments for compute, storage, and networking equipment, telcos are responsible for delivering the networks that move data to, from, and between these environments.\n\n- Cloud, Colocation & Connectivity\n- 1 min Read\n\n# Data centers and telcos: distinct roles, shared digital infrastructure dependence\n\nData centers house IT equipment for compute and storage, while telecommunications providers deliver network connectivity. Both are distinct yet interdependent, forming the backbone of digital infrastructure. Understanding their unique functions and points of intersection is key to scaling cloud and AI services reliably.\n\n- Published On Sep 11, 2026 at 09:00 AM IST\n\n## Highlights\n\n- Data centers provide controlled environments for IT equipment; telcos deliver network connectivity.\n- Data center models include colocation, private, and public cloud facilities for compute and storage.\n- Telcos build and operate fiber, switching, and wireless networks to transport data.\n- Data centers depend on telco connectivity, while telcos use data centers for network operations.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/data-centers-and-telcos-distinct-roles-shared-digital-infrastructure-dependence/134043403"
+    },
+    {
+      "id": "2026-09-12-d2acb9",
+      "title": "Anthropic blocks Russian hackers, Chinese AI labs accused of misusing Claude",
+      "summary": "Anthropic alleges Moonshot and DeepSeek routed live customer chats through Claude for training data",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "published_at": "2026-09-10T23:57:22Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/anthropic-blocks-russian-hackers-chinese-ai-labs-accused-misusing-claude",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Anthropic",
+        "Moonshot AI",
+        "DeepSeek"
+      ],
+      "content": "Anthropic alleges Moonshot and DeepSeek routed live customer chats through Claude for training data\n\nANTHROPIC on Thursday (Sep 10) said it had disrupted several allegedly malicious uses of its Claude models over the past eight months, including a suspected Russia-linked cyber espionage campaign and efforts by Chinese AI firms it accused of trying to extract and replicate Claude’s capabilities.\n\nCybercriminals and state-backed hackers were increasingly using AI not just to assist with tasks but to orchestrate and execute large portions of cyberattacks, Anthropic said in its latest *Threat Intelligence* report. It added that humans were often overseers rather than hands-on operators.\n\n“The use of AI went beyond simple questions and responses from a chatbot but rather involved the use of multi-agent frameworks executing” tasks, Anthropic said.\n\nAnthropic said it had disrupted attacks from seven China-based labs during that period. Among the labs Anthropic named were tech giant Alibaba , Moonshot, DeepSeek and Xiaomi.\n\nOperators it linked to Alibaba ran what Anthropic called the largest “illicit distillation” attack, allegedly aimed at extracting capabilities of Claude models and using them to improve the Chinese tech firm’s Qwen models, the company said. Alibaba did not immediately respond to a request for comment.\n\nAnthropic said it observed more than 151 million exchanges it attributed to Alibaba between May and July 2026, peaking at nearly 3 million per day from more than 3,500 accounts it described as fraudulent.\n\nDistillation refers to the process of training smaller AI models using output from larger, more expensive models in a bid to lower the costs of training a new AI tool.\n\nRather than running bulk queries, Kimi chatbot creator Moonshot and DeepSeek allegedly routed live customer conversations, which sometimes included sensitive information, through Claude and used its responses as training data, Anthropic alleged.\n\nA hacking group whose tradecraft was consistent with Russia-based threat actor Midnight Blizzard allegedly ran phishing, hotel Wi-Fi hijacking and WhatsApp-takeover operations against targets in the Ukrainian government, military and diplomatic sectors, using AI at nearly every stage, Anthropic said.\n\nThe US government has previously linked Midnight Blizzard, a tracking term coined by Microsoft, to Russia’s SVR foreign intelligence service. The Russian Embassy in Washington did not immediately respond to a request for comment.\n\nThe group allegedly used AI to build a system that automatically detected when its malware was flagged by security defences and rewrote the code until it evaded detection again.\n\nAnthropic also identified what it called “new categories of threat actors” misusing Claude, including those using the platform to “develop software for conventional weapons, including firearms, missiles, armed drones, bombs, and other munitions, as well as the targeting and control systems that operate them.”\n\nThe report detailed incidents of operators using Claude to develop software for weapons design and development, or to support intelligence gathering and procurement related to weapons programmes, in China, Russia, and Yemen.\n\nThe company said that it detected and disrupted activity linked to affiliates of the ShinyHunters cybercrime collective, one of the most prolific cybercrime enterprises in recent months linked to attacks on major corporations around the world.\n\nJacob Klein, head of threat intelligence at Anthropic, said in an interview that models have become more capable over the last year, raising new risks.\n\n“A year ago, let’s say you wanted to optimise a drone or optimise the software on a missile, the models just wouldn’t be as good at that task as they are now,” he said. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/anthropic-blocks-russian-hackers-chinese-ai-labs-accused-misusing-claude"
+    },
+    {
+      "id": "2026-09-12-10b957",
+      "title": "South Korea bets free AI can loosen ChatGPT's grip",
+      "summary": "SK Telecom, KT and Kakao must make domestic use of the tech mainstream before foreign models cement their lead",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [
+        "ai",
+        "telecom",
+        "strategy"
+      ],
+      "published_at": "2026-09-10T23:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/opinion-features/south-korea-bets-free-ai-can-loosen-chatgpts-grip",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "SK Telecom",
+        "KT",
+        "Kakao",
+        "OpenAI"
+      ],
+      "content": "SK Telecom, KT and Kakao must make domestic use of the tech mainstream before foreign models cement their lead\n\n[SEOUL] On Sep 4, the executives of SK Telecom, KT and Kakao stood together at the Korea Press Center in Seoul to announce their plans for the nation’s “AI for All” programme, in which each of South Korea’s 52 million citizens would receive free, unlimited access to generative artificial intelligence (GenAI).\n\nNo subscription. No token limit. For most users, the front door will be KakaoTalk, already on 50 million phones. No government has tried an initiative of this scale before.\n\nAbroad, the meme followed within hours: “South Korea – gave its entire population free AI. Me using VPN.”",
+      "content_url": "https://www.businesstimes.com.sg/opinion-features/south-korea-bets-free-ai-can-loosen-chatgpts-grip"
+    },
+    {
+      "id": "2026-09-12-19d56b",
+      "title": "Huawei bets big on near-packaged optics with 7.2T module to fuel AI scaling",
+      "summary": "Huawei is investing heavily in near-packaged optics, unveiling a 7.2T optical module designed to support the scaling of AI clusters. The technology brings optical connectivity closer to compute silicon, aiming to overcome bandwidth and power bottlenecks in large AI systems.",
+      "why_it_matters": "As AI clusters grow, interconnect bandwidth has become as critical as compute itself, and Huawei's bet positions it to capture a strategic layer of the AI infrastructure stack. The move pressures established optical and networking vendors and gives Chinese cloud providers a domestic path to scale AI systems despite restrictions on imported components.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "networking"
+      ],
+      "published_at": "2026-09-10T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/huawei-bets-big-on-near-packaged-optics-with-72t-module-to-fuel-ai-scaling/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Huawei"
+      ],
+      "published_precision": "day",
+      "content": "Huawei is doubling down on its bet that near-packaged optics (NPO) is the interconnect technology capable of meeting the scale needed for AI infrastructure buildout.\n\nAt the China International Optoelectronic Exposition (CIOE) in Shenzhen, the vendor unveiled a 7.2 Tb/s (7.2T) module set to feature in next-generation iterations of its SuperPod platform. Jiangwei Man, director of Huawei’s advanced optoelectronics laboratory, described it in a press briefing as a “manifestation” of technologies Huawei has accumulated over the years, including laser systems like vertical cavity surface-emitting lasers (VCSELs) and silicon photonics.\n\nOptical interconnects have quickly pushed to the forefront of intrigue for AI infrastructure developers, though considerable attention has been put on co-packaged optics (CPO). The likes of SK Hynix, Nvidia, and Microsoft are all throwing their weight behind the technology, which involves embedded optical engines on the same substrate or package as the semiconductor. NPO gets its name from the fact that optical engines are embedded immediately adjacent to the chip instead.\n\nWhile California-based Lightmatter is leading the charge to define CPO standards, that effort is one of a number that Man and Huawei argue are increasingly fragmenting the overall optoelectronic standards and products. The vendor was one of several to sign on to a NPO multisource agreement launched earlier this year and wants to create a unified front supporting what it believes to be the more mature high-speed optical interconnect solution.\n\nHuawei is backing the Optical Internetworking Forum (OIF), making the case that NPO is more feasible today than CPO for large-scale deployments, providing lower power and latency and a more supply chain-friendly alternative.\n\n“Compared with CPO, the NPO technology is more mature, making it easier for production ramp-up and it's easier for maintenance,” Man said, via a translator. “We urgently need authoritative standards organizations to advance NPO standardization. Within standards organizations, people are discussing these two choices: NPO and CPO [and] which one is better. So, in order to promote the initiation of [the] NPO standard project, we need to collaborate with other parties along this industry chain to foster this synergy.”\n\nOIF’s NPO project kicked off in the summer, with vendors coming together to develop initial standards around modules capable of supporting 6.4T and later 12.8T.\n\nMan said Huawei would be “more than happy” to share its NPO offering with customers in the downstream as well as suppliers on the upstream side.\n\nThere are some rumblings, though, that the US President Donald Trump administration is mulling expanding semiconductor export restrictions that have hampered Chinese vendors further down the stack, with pluggable optics believed to be in the crosshairs.\n\nWhile Man didn’t discuss how that could impact module development in response to an *SDxCentral* question, he said increased interest reflects that NPO technologies are already playing an important role in the optical interconnect part of the AI stack.\n\n“In terms of the whole NPO industry chain, Huawei is committed to openness and collaboration. We are happy to work with vendors from different regions, including vendors from the U.S., from China, and from Japan, so together we can advance the development of the NPO ecosystem and ultimately contribute to the booming AI ecosystem,” Man added.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/huawei-bets-big-on-near-packaged-optics-with-72t-module-to-fuel-ai-scaling/"
+    }
+  ]
+}

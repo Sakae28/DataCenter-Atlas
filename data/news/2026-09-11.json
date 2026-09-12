@@ -4,9 +4,9 @@
   "hot": [
     "2026-09-11-e00c5a",
     "2026-09-11-2d8e43",
+    "2026-09-11-1df9e3",
     "2026-09-11-9bc887",
-    "2026-09-11-16a4bd",
-    "2026-09-11-1df9e3"
+    "2026-09-11-e89af7"
   ],
   "stories": [
     {
@@ -15,7 +15,7 @@
       "summary": "Chinese AI chip designer Enflame, which positions itself as a domestic rival to Nvidia, surged 179% in its debut on the Shanghai stock market. The listing drew intense investor demand for exposure to China's semiconductor self-sufficiency drive.",
       "why_it_matters": "The explosive debut shows how policy tailwinds and Nvidia's restricted access to China are funneling capital into domestic AI chip names, giving challengers like Enflame war chests to scale. Rich valuations also raise expectations these firms must now meet on performance and production volume.",
       "score": 72,
-      "heat": 1,
+      "heat": 2,
       "regions": [
         "china",
         "global"
@@ -33,14 +33,21 @@
           "name": "Nikkei Asia",
           "url": "https://asia.nikkei.com/business/markets/ipo/chinese-nvidia-challenger-enflame-jumps-179-in-shanghai-market-debut",
           "type": "rss"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817715",
+          "type": "html-list"
         }
       ],
       "companies": [
         "Enflame",
-        "NVIDIA"
+        "NVIDIA",
+        "Tencent"
       ],
       "content": "HONG KONG/SHANGHAI -- Shanghai Enflame Technology, one of China's leading makers of artificial intelligence chips and the country's answer to Nvidia, rose 179% in its first day of trading on Shanghai's bourse on Friday, after the company flagged a lower valuation relative to peers.",
-      "content_url": "https://asia.nikkei.com/business/markets/ipo/chinese-nvidia-challenger-enflame-jumps-179-in-shanghai-market-debut"
+      "content_url": "https://asia.nikkei.com/business/markets/ipo/chinese-nvidia-challenger-enflame-jumps-179-in-shanghai-market-debut",
+      "published_precision": "day"
     },
     {
       "id": "2026-09-11-541c57",
@@ -176,7 +183,7 @@
       "summary": "Thai authorities have suspended 49 data centre projects, citing strain on national resources and concerns about impacts on local communities. The hold affects a substantial share of the pipeline in one of Southeast Asia's fastest-growing data centre markets.",
       "why_it_matters": "Thailand's pause shows governments in the region are moving from welcoming data centre investment to actively rationing it where power, water, and land pressures mount. Developers with Thai exposure face permitting uncertainty, while rival markets like Malaysia and Indonesia could absorb redirected demand.",
       "score": 85,
-      "heat": 1,
+      "heat": 2,
       "regions": [
         "southeast-asia"
       ],
@@ -193,10 +200,18 @@
           "name": "The Business Times — Data Centres topic",
           "url": "https://www.businesstimes.com.sg/international/asean/thailand-puts-49-data-centres-hold-over-resource-strain-community-impact",
           "type": "html-list"
+        },
+        {
+          "name": "W.Media",
+          "url": "https://w.media/thailand-data-center-suspension-traced-to-diesel-spillage-from-bangkok-facility/",
+          "type": "rss"
         }
       ],
       "content": "Projects halt to make time to develop new regulations, amid growing concerns about the facilities\n\nTHAILAND’S embrace of data centres hit a speed bump after the government suspended construction of 49 server farms as public concerns about the power-hungry facilities’ impact on communities intensify.\n\nThe projects were halted to give officials time to develop new industry regulations, expected to be announced in a month, Danucha Pichayanan, secretary-general of the National Economic and Social Development Council, said at a press briefing on Friday (Sep 4).\n\nDanucha spoke after the first meeting of the country’s data centre supervision commission, led by Finance Minister Ekniti Nitithanprapas.\n\n“Today’s decision doesn’t mean Thailand is closing the door to data centre investment because the industry is critical to the country’s competitiveness,” Ekniti said.\n\n“We simply want clear and consistent standards in place to ensure the industry can grow sustainably.”\n\nThailand will establish uniform oversight of data centres in operation as well as those being developed, Danucha said.\n\nGovernments around the world are tightening oversight of data centres as the rapid adoption of artificial intelligence has led to a surge in such facilities.\n\nGlobal data centre spending is set to reach US$31.6 trillion through 2050 to meet the world’s growing appetite for AI, amid an investment boom that has no precedent in history, according to PricewaterhouseCoopers.\n\nAt the same time, the tech industry led by US giants such as Microsoft and Amazon is trying to blunt a backlash against data centres that threatens to slow the buildout.\n\nAt least 75 projects in the US, worth about US$130 billion combined, were blocked or delayed by local opposition during the first three months of 2026, according to research group Data Center Watch.\n\nProtesters cite concerns about environmental impact, resource consumption and more broadly how AI could upend employment and society.\n\nIn the US, the data centre backlash is becoming a force in the November midterm elections.\n\nThailand is experiencing a proliferation of data centres as tech investment soars.\n\nThe South-east Asian nation has emerged as a regional destination for AI and cloud infrastructure as global technology companies including Alphabet’s Google, Amazon and Microsoft build out data centre capacity.\n\nIn May, the government approved TikTok System (Thailand)’s data infrastructure expansion, including data-hosting services, servers and storage facilities.\n\nThe government approved 88 projects with a total investment of 886 billion baht (US$27 billion) related to AI and data centres in the first six months of the year, according to Board of Investment data.\n\nTech investment in the first half has already surpassed the 623 billion baht recorded for all of 2025.\n\nData centres’ drain on power and water is now causing the government to rethink its approach to the industry.\n\nIt is weighing higher electricity rates for large data centre operators and stepping up scrutiny of projects in densely populated areas after concerns emerged over facilities being developed in central Bangkok.\n\nBangkok authorities temporarily halted approvals for three other projects after complaints over a data centre being built next to a hospital exposed a regulatory gap that allows such facilities to seek permits as warehouses, Governor Chadchart Sittipunt told reporters before the meeting on Friday.\n\nThere should be some environmental impact reviews of data centres, he said.\n\nNationwide, 35 data centres are now in operation, while 117 proposed facilities are awaiting investment approvals, according to Danucha. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
-      "content_url": "https://www.businesstimes.com.sg/international/asean/thailand-puts-49-data-centres-hold-over-resource-strain-community-impact"
+      "content_url": "https://www.businesstimes.com.sg/international/asean/thailand-puts-49-data-centres-hold-over-resource-strain-community-impact",
+      "companies": [
+        "DAMAC Digital"
+      ]
     },
     {
       "id": "2026-09-11-15cce1",
@@ -362,7 +377,7 @@
       "summary": "Singapore-listed data centre REITs are pursuing acquisitions in Japan, where scarcity of power-ready assets is supporting valuations. At the same time, grid constraints in Japan could complicate further expansion by new owners.",
       "why_it_matters": "The pivot to Japan reflects how Singapore's REITs are deploying capital where AI demand meets constrained supply, but it also imports grid-connection risk into their portfolios. Investors will be watching whether premium pricing for power-secured Japanese assets holds up as connection queues lengthen.",
       "score": 82,
-      "heat": 2,
+      "heat": 3,
       "regions": [
         "southeast-asia",
         "japan"
@@ -385,6 +400,11 @@
           "name": "The Business Times — Data Centres topic",
           "url": "https://www.businesstimes.com.sg/companies-markets/singapore-data-centre-reits-chase-japan-deals-power-crunch-raises-stakes",
           "type": "html-list"
+        },
+        {
+          "name": "W.Media",
+          "url": "https://w.media/japans-compute-boom-attracts-singapore-reits-despite-power-constraints/",
+          "type": "rss"
         }
       ],
       "content": "Scarcity of power-ready assets supports valuations, but grid constraints could make further expansion harder\n\n[SINGAPORE] Singapore-listed data centre real estate investment trusts (Reits) are stepping up their bets on Japan, as surging demand for computing capacity intensifies competition for scarce power-ready assets.\n\nKeppel DC Reit in September proposed to acquire two Tokyo data centres, which would raise Japan’s rental income contribution to 23 per cent, from 9 per cent.\n\nA month earlier, Digital Core Reit agreed to acquire an additional 25 per cent stake in an Osaka data centre, increasing its stake to 45 per cent from 20 per cent.\n\nAnalysts said that Japan offers Singapore Reits a combination of scale, market maturity, lower market risk, as well as deeper liquidity, compared with other data centre markets in the region.\n\nThe recent deals reflect growing investor appetite for high quality, operational data centres in Japan that are fully fitted and have long-term access to power, they added.\n\nPritesh Swamy, head of research and consulting for the Asia-Pacific data centre group at Cushman & Wakefield, said: “In today’s environment, especially in Japan, power availability itself has become one of the most valuable attributes of a data centre asset.”\n\nHe observed that competition for operational facilities in Japan has driven up asset values over the past two years, with investors more willing to accept lower yields for assets offering immediate income.\n\nBoth Keppel DC Reit’s proposed Tokyo assets, as well as Digital Core Reit’s Osaka assets are fully occupied.\n\nJapan’s data centre market is underpinned by increasing domestic enterprise workloads, cloud adoption and rising artificial intelligence workloads, while relatively attractive yen-denominated financing has also supported investor appetite.\n\nHigh domestic data consumption has also fuelled hyperscale demand, which accounts for 60 to 70 per cent of total capacity, said Neil Bear-Hetherington, director for Asia-Pacific data centre capital markets at CBRE.\n\nJapan has more than 1.8 gigawatts (GW) of operational capacity and a vacancy rate of 6.6 per cent, making it one of Asia-Pacific’s largest and most mature data centre markets, Swamy told *The Business Times*.\n\nAmid the increase in demand for Japanese data centre assets, prices of colocation racks – which are servers shared in a data centre facility – rose about 3 per cent in 2025, Bear-Hetherington added.\n\nMore supply is on the way, with Cushman & Wakefield estimating that Japan has a further 3.5 GW of data centre pipeline to be developed by 2030.\n\nSwamy noted that nearly 40 per cent of the under-construction capacity and 26 per cent of the planned capacity in Japan is pre-leased.\n\n## Sponsors remain crucial\n\nFor Singapore Reits looking to expand in Japan, securing access to suitable assets remains a key hurdle, putting their sponsors in an important position.\n\n“Sponsors-to-Reit transactions are important as they incubate, develop and stabilise assets on their balance sheets before dropping them into their linked specialised Reits,” Bear-Hetherington told BT.\n\nDigital Core Reit, for example, recently purchased an additional 25 per cent interest in a freehold Osaka data centre from its own sponsor, Digital Realty.\n\nSponsor relationships can also provide access to proprietary opportunities, development expertise and acquisition certainty, said Swamy.\n\nHowever, Bear-Hetherington noted that while sponsors are important, there is a “strong market” of Reits and other investors buying assets from unrelated sellers.\n\nHe noted that in March, CapitaLand Ascendas Reit and a Mitsui-managed fund acquired a 45.9 MW data centre in Greater Osaka for US$997 million.\n\n“Data centre investment allocation from wider investors is increasingly sought as a thematic allocation and to diversify portfolios into a growing sector,” he said.\n\n## Access does not guarantee returns\n\nBut even with a strong sponsor-to-Reit pipeline, attractive returns are not assured.\n\nAlthough yen-denominated debt remains attractive for investors, higher interest rates and compressed capitalisation rates could weigh on transaction activity and returns.\n\nPower constraints present another challenge. While scarcity of power-ready capacity can drive up the value of operational data centres, it could also limit the development of new capacity and the expansion of existing facilities.\n\nThis shortage is particularly pronounced in the Greater Tokyo region, said Bear-Hetherington.\n\n“Access to high-voltage grid power is key to the growth of the market and the resultant stabilised assets, particularly in Greater Tokyo,” he said.\n\nThe Greater Osaka region, in comparison, has seen more data centre growth as it has “comparatively better power availability”, he added, noting that the supply of data centres in the Osaka region is expected to increase from 2027.\n\nAcross Japan, electricity demand is expected to grow 5.3 per cent over the next decade, driven in part by rising consumption from data centres.\n\nTo meet this rising demand, the nation is seeking to upgrade its grid infrastructure, with the Japanese government looking to build and bolster 30 power substations across the country.\n\nAnalysts expect the power grid to be under even more pressure, as legacy data centre facilities seek to upgrade its electrical infrastructure to meet higher-density AI workloads.\n\n“Overall, we believe infrastructure constraints, particularly power availability, are likely to remain one of the key challenges for sector growth over the next two years,” said Swamy.\n\nDespite these challenges, Jack Harkness, senior director, data centre lead for Asia-Pacific, regional industrial and logistic services at Savills, expects the demand for Japanese data centres to remain strong, supported by established hyperscale demand and long-term growth potential.\n\nHowever, the scarcity of power-ready assets means that buyers will have to become increasingly selective.\n\n“Ultimately, investors are focused on opportunities where power, delivery and future income can be underwritten with sufficient certainty,” said Harkness.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.",
@@ -681,7 +701,8 @@
         "NVIDIA"
       ],
       "content": "Nvidia is partnering with companies in Australia to help expand AI infrastructure capacity in the country.\n\nThe chip designer is collaborating with companies including Firmus, Sharon AI, Iren, ResetData, Megaport, CDC, NextDC, and AirTrunk, with the target of bringing 2GW of compute online by 2027.\n\nThe companies are collaborating to expand land, power, and shell capacity to host Nvidia infrastructure and to support the country's demand for AI compute. The partners will operate AI data centers with the Nvidia DSX platform.\n\n“AI factories turn energy into intelligence — the essential resource of the AI economy,” said Raj Mirpuri, vice president of global AI clouds and infrastructure ecosystem at Nvidia. “Nvidia DSX is a full-stack platform compatible with the CUDA ecosystem and enhanced through software over the life of the infrastructure, making AI factories more productive, fungible and durable — and a new investable asset class. Through our partnerships with Australian NCPs, this infrastructure can support multiple generations of Nvidia compute and expand local access to accelerated computing and Nvidia Nemotron open models, helping Australian innovators build AI at home.”\n\nFirmus is expanding its Project Southgate initiative as part of the collaboration, while Sharon AI is deploying up to 68,000 Nvidia GPUs using the DSX platform. Iren, another neocloud partner, is combining the DSX AI factory architecture with its power, land, data centers, GPU deployment, and infrastructure operations, and Megaport is expanding access to Nvidia compute through its Latitude.sh subsidiary.\n\n“Building AI infrastructure at scale requires integrating every layer: data centers, compute and software,” said Daniel Roberts, co-founder and co-CEO of Iren. “Combining Iren's vertically integrated platform with the Nvidia DSX AI factory reference architecture provides a repeatable blueprint to bring capacity online at scale. We are applying that blueprint across our development portfolio, bringing Iren's proven international delivery and operating experience to our 800MW Bundey campus in South Australia.”\n\nThe data center operators partnering with Nvidia, meanwhile, have made sure their facilities are suitable for the high-density deployments.\n\nAirTrunk is currently expanding AI-ready powered shells across the region, including direct-to-chip liquid-cooling infrastructure designed to support high-density AI workloads.\n\n“AI is reshaping hyperscale infrastructure in Australia, driving new approaches to location, capacity, cooling, power and connectivity,” said Damien Spillane, chief customer and innovation officer of AirTrunk. “AirTrunk is innovating to meet this demand while creating skilled expertise, capability and economic value in Australia.”",
-      "content_url": "https://www.datacenterdynamics.com/en/news/nvidia-partners-with-aussie-companies-to-bring-2gw-online-by-2027/"
+      "content_url": "https://www.datacenterdynamics.com/en/news/nvidia-partners-with-aussie-companies-to-bring-2gw-online-by-2027/",
+      "published_precision": "day"
     },
     {
       "id": "2026-09-11-769897",
@@ -720,7 +741,8 @@
         "Crux AI"
       ],
       "content": "The neocloud set up by Google and Blackstone to offer TPU services has officially launched as Crux AI.\n\nThe company, led by former Google engineering VP Benjamin Treynor Sloss, also this week hired the VP and head of data center engineering and construction at Meta, Alan Duong.\n\nDuong spent more than 12 years at Meta, and was instrumental in the company's aggressive pivot to AI data centers. In 2023, the company paused all of its in-development facilities, with Duong leading the team that redesigned the projects for the AI era (we profiled Duong's work at the time here).\n\nAt Crux, Duong has been named chief development officer, where he will be \"responsible for end-to-end delivery of multiple GW of data center capacity over the coming years,\" he said.\n\n\"I spent the last 12 years at Meta building data centers, and the clearest lesson from that time is that success in this business isn't one thing done well. It's a chain that has to hold, end-to-end: originating sites with real power and real runway, showing up in host communities as a long-term neighbor rather than a transaction, designing for efficient use of power, water and materials, building safely with the trades who put the steel in the ground, and handing over facilities that operators can run for decades. Break any link and the rest doesn't save you. That end-to-end view is what I'm bringing to Crux AI, and what we'll build the organization around as we scale.\"\n\nThe company, backed by $5bn from Blackstone, plans to bring 500MW of capacity online in 2027. On its site, the company said that it plans to scale to 2GW of capacity. Data centers will be a mixture of powered shells, build-to-suits, colo blocks, and turnkey partner deals, as well as first-party greenfield development.\n\n“AI presents a generational technological shift and, with it, the opportunity to reimagine the infrastructure powering it from the ground up,” said Treynor Sloss, Crux AI CEO.\n\n“That is what we are building at Crux AI: an integrated platform designed end-to-end to operate reliably at enormous scale. Our ambition is to become the infrastructure company trusted with the workloads that matter most.”\n\nThe company, which hired the CFO of Charter Communications earlier this year, plans a major hiring spree. It currently has 17 open positions, including data center construction manager, data center energy manager, head of data center operations, lead supply negotiator, and a VP of capital markets.",
-      "content_url": "https://www.datacenterdynamics.com/en/news/google-blackstones-tpu-neocloud-named-crux-ai-hires-metas-data-center-engineering-head-alan-duong/"
+      "content_url": "https://www.datacenterdynamics.com/en/news/google-blackstones-tpu-neocloud-named-crux-ai-hires-metas-data-center-engineering-head-alan-duong/",
+      "published_precision": "day"
     },
     {
       "id": "2026-09-11-16a4bd",
