@@ -9,6 +9,17 @@ cd /d "%~dp0"
 set PYTHONIOENCODING=utf-8
 if not exist logs mkdir logs
 
+rem Catch-up guard: this bat is also fired by an At-Logon trigger (the 9:00
+rem trigger only catches up after sleep, not after a full shutdown). Make
+rem repeat runs on an already-digested day a cheap no-op.
+for /f %%d in ('powershell -NoProfile -Command "Get-Date -Format yyyy-MM-dd"') do set TODAY=%%d
+if exist "..\data\news\%TODAY%.json" (
+  echo. >> logs\daily.log
+  echo ===== %DATE% %TIME% ===== >> logs\daily.log
+  echo skipped: %TODAY% digest already exists >> logs\daily.log
+  exit /b 0
+)
+
 set FETCH_PROXY=
 curl -s -o nul -m 8 -x http://127.0.0.1:7078 https://www.datacenterdynamics.com/en/rss/
 if not errorlevel 1 set FETCH_PROXY=http://127.0.0.1:7078
