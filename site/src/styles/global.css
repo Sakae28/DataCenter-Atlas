@@ -308,7 +308,10 @@ a:hover {
 
 .main-inner {
   width: 100%;
-  max-width: 1200px;
+  /* Fluid: follows the browser width. On very wide monitors the cap +
+     auto margins keep the content centered instead of sprawling. */
+  max-width: 1680px;
+  margin: 0 auto;
   padding: 28px 40px 48px;
 }
 
@@ -1004,7 +1007,9 @@ a.chip.company:hover {
 /* Two-column layout: main article column (~2/3) + right rail (~1/3). */
 .article-grid {
   display: grid;
-  grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+  /* Fluid rail, but the article column caps out: body text wider than
+     ~840px is hard to read. */
+  grid-template-columns: minmax(0, 840px) minmax(0, 1fr);
   gap: 44px;
 }
 
@@ -1279,6 +1284,8 @@ a.chip.company:hover {
 
 .about {
   padding: 28px 32px;
+  /* Prose page — cap the card so paragraphs keep a readable measure. */
+  max-width: 880px;
 }
 
 .about h2 {
@@ -1589,13 +1596,6 @@ a.chip.company:hover {
   grid-template-columns: minmax(0, 1fr) 320px;
   gap: 16px;
   align-items: start;
-}
-
-/* Give the wide table more room, but keep the page left edge aligned
-   with every other page (same inherited 40px side padding) and cap growth
-   on very wide monitors so the layout does not sprawl. */
-.main-inner:has(.pipeline-layout) {
-  max-width: 1600px;
 }
 
 /* Dense table: smaller chips/badges so columns fit beside the map rail. */
