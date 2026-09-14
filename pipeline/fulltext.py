@@ -474,10 +474,82 @@ def extract_text(raw: bytes) -> tuple[str | None, object]:
     return text, html
 
 
-def extract_story(client: httpx.Client, story: dict, url: str | None = None) -> tuple[str, str] | None:
-    """Fetch and extract the body for one story. Returns (content, content_url)
-    or None when extraction fails. `url` overrides the fetch target (healing
-    passes pass the story's content_url to avoid re-decoding GN links)."""
+def _iso_with_time(raw) -> str | None:
+    """Parse a date string to UTC ISO, but only when it carries a time-of-day
+    and a timezone. Bare dates and zone-less times return None — a guessed
+    zone could shift the story across midnight."""
+    if not raw or not re.search(r"[T ]\d{2}:\d{2}", str(raw)):
+        return None
+    try:
+        from dateutil.parser import parse
+
+        dt = parse(str(raw))
+    except (ValueError, OverflowError):
+        return None
+    if dt.tzinfo is None:
+        return None  # unknown zone — could shift the story across midnight
+    from datetime import timezone
+
+    return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def meta_publish_iso(meta) -> str | None:
+    """Trafilatura metadata date -> UTC ISO "YYYY-MM-DDTHH:MM:SSZ", or None
+    when the page exposes only a bare date (or a zone-less time we cannot
+    trust). Used to upgrade stories whose feed gave date-only precision
+    (archive/search scrapers) to the real publish time once the article
+    page itself is fetched."""
+    return _iso_with_time(getattr(meta, "date", None) if meta else None)
+
+
+# Trafilatura's metadata.date usually collapses to a bare date even when the
+# page has a full timestamp. Scan the raw HTML for the common time-bearing
+# markers instead: Open Graph article:published_time, JSON-LD datePublished,
+# microdata itemprop, and <time datetime>.
+_HTML_TIME_RES = [
+    re.compile(r'(?:property|name)=["\']article:published_time["\']\s+content=["\']([^"\']+)', re.I),
+    re.compile(r'content=["\']([^"\']+)["\']\s+(?:property|name)=["\']article:published_time["\']', re.I),
+    re.compile(r'"datePublished"\s*:\s*"([^"]+)"'),
+    re.compile(r'itemprop=["\']datePublished["\'][^>]*content=["\']([^"\']+)', re.I),
+    re.compile(r'<time[^>]+datetime=["\']([^"\']+)["\']', re.I),
+]
+
+
+def html_publish_iso(html: str | None) -> str | None:
+    """First trustworthy publish timestamp found in the raw page HTML."""
+    if not html:
+        return None
+    for rx in _HTML_TIME_RES:
+        m = rx.search(html)
+        if m:
+            iso = _iso_with_time(m.group(1))
+            if iso:
+                return iso
+    return None
+
+
+def apply_publish_time(story: dict, pub_iso: str | None) -> bool:
+    """Upgrade a date-only story (pinned to noon UTC by fetch._apply_precision)
+    to the real publish time found on the article page. The page's UTC date
+    must agree with the feed date — a mismatch means unreliable metadata
+    (or a misfiled story), so we keep the conservative date-only marker."""
+    if not pub_iso or story.get("published_precision") != "day":
+        return False
+    if pub_iso[:10] != story.get("published_at", "")[:10]:
+        log.info("publish-time mismatch for %s: feed %s vs page %s — keeping day precision",
+                 story.get("id"), story.get("published_at", "")[:10], pub_iso[:10])
+        return False
+    story["published_at"] = pub_iso
+    story.pop("published_precision", None)
+    return True
+
+
+def extract_story(client: httpx.Client, story: dict, url: str | None = None) -> tuple[str, str, str | None] | None:
+    """Fetch and extract the body for one story. Returns (content, content_url,
+    publish_iso) or None when extraction fails. publish_iso is the page's
+    metadata publish time (UTC ISO) when present, else None. `url` overrides
+    the fetch target (healing passes pass the story's content_url to avoid
+    re-decoding GN links)."""
     url = url or story["sources"][0]["url"]
     if "news.google.com" in url:
         decoded = resolve_google_news(url)
@@ -507,7 +579,7 @@ def extract_story(client: httpx.Client, story: dict, url: str | None = None) -> 
     content_url = url
     if meta and meta.url:
         content_url = meta.url
-    return content, content_url
+    return content, content_url, meta_publish_iso(meta) or html_publish_iso(decode_html(raw))
 
 
 def _policy_map() -> dict[str, str]:
@@ -544,7 +616,9 @@ def enrich_stories(stories: list[dict]) -> tuple[int, int]:
                 log.info("fulltext failed for %s: %s", story.get("id"), exc)
                 got = None
             if got:
-                story["content"], story["content_url"] = got
+                story["content"], story["content_url"], pub_iso = got
+                if apply_publish_time(story, pub_iso):
+                    log.info("publish time upgraded: %s -> %s", story.get("id"), pub_iso)
                 ok += 1
             else:
                 story.pop("content", None)

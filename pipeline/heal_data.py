@@ -122,7 +122,9 @@ def heal_content(paths: list[Path], files: dict[str, dict] | None = None) -> dic
                     log.info("heal failed for %s (%s): %s", story["id"], url, exc)
                     got = None
                 if got:
-                    story["content"], story["content_url"] = got
+                    story["content"], story["content_url"], pub_iso = got
+                    if fulltext.apply_publish_time(story, pub_iso):
+                        print(f"  TIME UPGRADED: {story['id']} -> {pub_iso}")
                     tag = "refreshed" if had else "GAINED"
                     print(f"  {tag}: {story['id']} ({len(got[0])} chars) {story['title'][:60]}")
                 elif not had:

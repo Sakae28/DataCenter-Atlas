@@ -409,7 +409,7 @@
         "open-source",
         "regulation"
       ],
-      "published_at": "2026-09-04T12:00:00Z",
+      "published_at": "2026-09-04T07:00:21Z",
       "featured": true,
       "sources": [
         {
@@ -428,8 +428,7 @@
         "Hugging Face"
       ],
       "content": "- **Nvidia’s Hugging Face acquisition gives it the hub where Chinese open-weight models lead downloads.**\n- **Nvidia says every model builder stays supported, without saying who decides if that changes.**\n\nNvidia’s Hugging Face acquisition was announced on September 3, when founder and chief executive Jensen Huang said in a company blog post that Nvidia had agreed to buy the platform for US$12.93 billion. Hugging Face is the main public repository for open-weight AI models, meaning models whose parameters anyone can download, alter and run on their own hardware instead of paying to access them through a provider’s interface.\n\nNvidia said more than 18 million developers, researchers and creators use Hugging Face to share over three million models, 500,000 datasets and one million applications. It said more than 200,000 companies use the platform to discover, evaluate, customise and deploy AI.\n\n*CNBC* reported that the deal is Nvidia’s second-largest, after roughly US$20 billion for assets from chip startup Groq in December, and ahead of the almost US$7 billion Mellanox purchase in 2019. \n\nHugging Face was valued at US$4.5 billion in a US$235 million funding round in 2023, the company told *Reuters*. Huang wrote that Hugging Face co-founder Clément Delangue approached him about the company’s next chapter, which matches Delangue’s account to *CNBC* that he made contact over the summer.\n\n### Why Nvidia wants the Hugging Face acquisition\n\nThe commercial logic runs through Nvidia’s core business. Open models that companies download and run themselves still need chips underneath them, and Nvidia sells those chips regardless of which lab trained the model.\n\nNvidia has been building its position on the platform for years. It said in the blog post that it is the largest contributor of open models and data to Hugging Face, having released more than 500 models and over 250 open datasets there.\n\nHuang has also been arguing the policy case. He wrote that he recently coauthored an open letter on the importance of open weights to the AI economy. *Fortune* reported that Huang published his first post on X on July 24 to share that letter, which was signed by 25 companies including Microsoft, Meta, IBM, Dell, Palantir, Mistral AI, Hugging Face and Andreessen Horowitz, and which urged US policymakers not to impose early limits on open-weight models.\n\n### The models that lead the hub come from Asia\n\nHugging Face published its latest State of Open Models report on August 14. *Bloomberg* and *Fortune* reported that Alibaba, citing that report, said its Qwen family had passed three billion downloads in six months, against the 418 million Hugging Face recorded for Google and the 227 million for Meta in 2026. The periods are not the same, and downloads track how often developers pull a model, not how well it performs.\n\nAlibaba said it has open-sourced more than 460 Qwen models with over 300,000 derivatives built on them. *Bloomberg*reported that it pushes Qwen through its cloud business to enterprise customers in Southeast Asia and Africa, a distribution route most rivals do not have.\n\nThe lead is not Alibaba’s alone. *Reuters* reported in March that the US-China Economic and Security Review Commission had found Chinese models from Alibaba, Moonshot and MiniMax dominating usage rankings on Hugging Face and OpenRouter. The commission called China’s open-source position a “self-reinforcing competitive advantage” that lets its labs work close to the frontier despite restricted access to advanced chips.\n\nThat is the distribution layer Nvidia has bought.\n\n### What Nvidia has promised, and what it has not\n\nThe blog post addresses the neutrality question directly. Huang wrote that Hugging Face will remain open to the entire AI ecosystem, that it will keep supporting open source and open weight models from every model builder, and that it will continue to support multi-cloud and multi-accelerator work. He also wrote that “NVIDIA compute will not be required to build on or deploy through Hugging Face.”\n\nWhat the post does not say is who holds decision rights over what stays hosted, or what happens if US policy later requires changes to model availability. Nvidia is regulated on what it can sell to China, and the question of whether a US owner would face pressure over hosting Chinese models is not one the company has addressed.\n\nDelangue has taken a public position on the underlying policy. *TechCrunch* reported that he told CBS’s Face the Nation that Hugging Face used an Nvidia-modified version of a Chinese open-source model to defend itself after a cyberattack, and that in a *CNBC* interview in late July he said China was “clearly dominating” open-source AI.\n\nTeams across Asia face a narrower question than the policy fight. Hugging Face is where most of them find, compare and download open weights, and a large share of fine-tuning work starts from a Qwen or DeepSeek derivative. Nvidia says none of that changes. What it has not said is what happens if Washington decides otherwise.",
-      "content_url": "https://techwireasia.com/2026/09/nvidia-hugging-face-acquisition-chinese-open-models/",
-      "published_precision": "day"
+      "content_url": "https://techwireasia.com/2026/09/nvidia-hugging-face-acquisition-chinese-open-models/"
     },
     {
       "id": "2026-09-04-66d6e5",
@@ -446,7 +445,7 @@
         "people",
         "infrastructure"
       ],
-      "published_at": "2026-09-04T12:00:00Z",
+      "published_at": "2026-09-04T00:00:00Z",
       "featured": false,
       "sources": [
         {
@@ -460,8 +459,7 @@
         "Macquarie Group"
       ],
       "content": "Stonepeak-backed AGP Group has tapped former Macquarie executive Nick O’Kane to jointly run the company, as the global real asset manager and investor accelerates a push into energy-intensive data centres and infrastructure across the Asia-Pacific.\n\nO’Kane, 53, who was touted as a successor to Macquarie chief executive Shemara Wikramanayake before leaving the Sydney-based company in 2024, will take the reins as Singapore-based AGP’s co-chief executive alongside existing boss Ben Salmon late this month.",
-      "content_url": "https://www.afr.com/companies/financial-services/stonepeak-backed-firm-lures-former-macquarie-executive-nick-o-kane-20260904-p60udm",
-      "published_precision": "day"
+      "content_url": "https://www.afr.com/companies/financial-services/stonepeak-backed-firm-lures-former-macquarie-executive-nick-o-kane-20260904-p60udm"
     },
     {
       "id": "2026-09-04-bca63f",
