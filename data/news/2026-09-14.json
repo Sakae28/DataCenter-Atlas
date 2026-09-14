@@ -1,0 +1,591 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T07:34:55Z",
+  "hot": [
+    "2026-09-14-6eaa10",
+    "2026-09-14-9f4605",
+    "2026-09-14-6f391f",
+    "2026-09-14-609a0b",
+    "2026-09-14-12a58b"
+  ],
+  "stories": [
+    {
+      "id": "2026-09-14-6266a0",
+      "title": "Data centre boom to put pressure on interest rates, housing",
+      "summary": "The rapid buildout of data centres is emerging as a macroeconomic factor that could put upward pressure on interest rates and housing markets. Massive capital expenditure on AI infrastructure is competing for financing and construction resources, with spillover effects on broader credit conditions and property costs. Analysts warn the investment wave could tighten labour and materials markets in affected economies.",
+      "why_it_matters": "Framing data centres as a driver of rates and housing costs moves the sector from a tech story into mainstream economic policy territory. Households and businesses could feel the boom through pricier mortgages and rents, inviting political scrutiny of AI infrastructure spending. Policymakers may face pressure to manage the sector's footprint the way they do other capital-intensive industries.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "economy",
+        "power",
+        "capacity"
+      ],
+      "published_at": "2026-09-14T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/policy/economy/data-centre-boom-to-put-pressure-on-interest-rates-housing-20260914-p60x35",
+          "type": "html-list"
+        }
+      ],
+      "published_precision": "day",
+      "content": "New modelling predicts the data centre building boom will tip hundreds of billions of dollars into the economy over the next four years and lure workers away from home building, fuelling inflation and the housing shortage and keeping pressure on the Reserve Bank to raise interest rates.\n\nBarrenjoey chief economist Jo Masters is forecasting total investment in the data centre build-out will hit $110 billion by 2030, triggering an increase of up to $98 billion in gross domestic product and supporting as many as 155,000 jobs during the boom’s 2028 peak.\n\nLoading...",
+      "content_url": "https://www.afr.com/policy/economy/data-centre-boom-to-put-pressure-on-interest-rates-housing-20260914-p60x35"
+    },
+    {
+      "id": "2026-09-14-df789d",
+      "title": "Data centre boom should create more local value, say industry experts",
+      "summary": "Industry experts say Malaysia's data centre boom should be judged not only by capacity added but by the local capabilities, companies and supply chains it creates. Speaking at an industry event, they argued that without deliberate policy, most value from the investment wave could flow to foreign operators and equipment suppliers. They called for measures to build domestic participation in construction, operations and technology.",
+      "why_it_matters": "The critique adds pressure on Kuala Lumpur to attach local-content and capability-building conditions to data centre approvals, which could reshape project economics for foreign investors. For Malaysian firms, it represents a push to move up the value chain from land and power provision into higher-margin services. How the government responds will determine whether the boom leaves a lasting industrial legacy.",
+      "score": 72,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "malaysia",
+        "economy",
+        "supply-chain"
+      ],
+      "published_at": "2026-09-14T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817969",
+          "type": "html-list"
+        }
+      ],
+      "published_precision": "day",
+      "content": "KUALA LUMPUR (Sept 14): Malaysia’s data centre boom should be measured not only by the amount of capacity, but also by local capabilities, companies and supply chains created from these investments, said industry experts.\n\nAt a panel session at the Data Centre Nexus (DCN) 2026 conference, Gading Kencana Sdn Bhd managing director Datuk Dr Guntor Tobeng said Malaysia should look beyond providing land, electricity and water to data centres, and seek greater participation by local companies across the renewable energy and infrastructure value chain.\n\n“Because these are enormous investments. If all we do is to provide land, electricity and water, while most of the technology, engineering and high-value services are important, then Malaysia captures only part of the opportunity,” said Guntor.\n\nHe said this could include renewable energy developers, engineering, procurement and construction (EPC) companies, battery storage providers, energy management systems, engineering consultants and operations and maintenance companies.\n\nHyperscalers could also bring Malaysian companies into projects earlier, share technical requirements and develop standards with them, he said.\n\nPrinceton Digital Group head of energy and environment Michael Martin said data centre operators should ensure that the cost of developing infrastructure does not fall on ordinary people.\n\nHe said relying on solar power would also be challenging, given the amount of land and battery storage required to provide sufficient energy.\n\nInstead, power infrastructure should contribute to the wider electricity system rather than being designed to benefit only individual data centres.\n\nMartin also pointed to the potential for technologies, such as advanced geothermal power, to form part of the energy mix.\n\nThe panel also highlighted increasing artificial intelligence (AI) workloads, with Digital Realty's Asia Pacific head of solutions engineering and design, Wayne Heywood, saying rack power density has risen sharply, from around five kilowatts (kW) to 10kW previously to as high as 70-107kW.\n\nRack power density is the amount of electricity consumed by IT equipment in a single server cabinet.\n\nHe said the higher density increases power, heat and water requirements, and is driving a shift in cooling technology.\n\nDirect-to-chip liquid cooling is expected to become the main method in five to seven years, Heywood said.\n\nHe added that Malaysia’s tropical climate presents additional challenges for cooling systems, meaning technologies need to be adapted to local conditions.\n\nGuntor said solar should be the foundation for renewable energy for data centres, supported by battery storage, other generation sources and the grid.\n\nNorthern Solar Holdings Bhd (KL:NORTHERN) operations director Wong Sang Sing said solar alone could not serve as a complete power solution for hyperscale data centres, which needed continuous power.\n\nHe said the focus should be on an integrated energy portfolio covering renewable power, storage and grid infrastructure.\n\nThe session was focused on \"Green Solutions for Sustainable Data Centre Operations\" and moderated by Datuk Phang Ah Tong, a board member of the Malaysian Investment Development Authority (Mida).\n\nDCN 2026, themed \"Advancing AI‑driven Digital Infrastructure & Sustainable Ecosystem\", is organised by Mida.\n\nEdited BySyed Azahedi\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817969"
+    },
+    {
+      "id": "2026-09-14-9f4605",
+      "title": "Over 40 applications to set up, expand data centres received by govt's task force this year — Johari Ghani",
+      "summary": "Malaysia's Data Centre Task Force has received more than 40 applications this year to establish or expand data centre operations, according to minister Johari Ghani. The volume of applications underscores sustained investor interest even as the government applies greater scrutiny to new projects. The task force was set up to coordinate approvals and manage the sector's demands on power and water resources.",
+      "why_it_matters": "The application pipeline confirms Malaysia remains a top regional destination for data centre capital despite tighter vetting. For investors and operators, the task force's gatekeeping role means approval timelines and conditions will increasingly shape project economics. The numbers also give the government leverage to demand more local value and resource efficiency from applicants.",
+      "score": 84,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "regulation",
+        "capacity",
+        "malaysia"
+      ],
+      "published_at": "2026-09-14T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817943",
+          "type": "html-list"
+        }
+      ],
+      "published_precision": "day",
+      "content": "KUALA LUMPUR (Sept 14): The Data Centre Task Force (DCTF) has received more than 40 applications to establish or expand data-centre operations in Malaysia this year, reflecting continued investment interest in the country’s digital infrastructure industry.\n\nInvestment, Trade and Industry Minister Datuk Seri Johari Abdul Ghani said each proposal is considered not only in terms of its investment value, but also its requirements for energy, water and connectivity, as well as its potential contribution to Malaysia’s long-term economic and digital aspirations.\n\n“As the scale and pace of investment increase, our priorities must evolve alongside the industry.\n\n“The next phase is about what that capacity delivers: artificial intelligence (AI) adoption, home-grown innovation, skilled talent and higher-value jobs,” he said in his keynote address at the Data Centre Nexus 2026 here on Monday.\n\nThe address was delivered on his behalf by Deputy Investment, Trade and Industry Minister Sim Tze Tzin.\n\nJohari said the government has strengthened the role of the DCTF — co-chaired by the Ministry of Investment, Trade and Industry (Miti) and the Ministry of Digital — as an important platform to facilitate a more coordinated approach towards the industry.\n\nHe said Malaysia is setting clear standards for power and water usage efficiency and, going a step further than many others in the region, for carbon usage efficiency.\n\n“Through the task force, the Energy Commission and the National Water Services Commission are also developing the relevant frameworks and guidelines to support the sustainable development of the data-centre industry.\n\n“As the industry continues to grow, we want to see new capacity supported by operators that are committed to renewable energy, greater efficiency and responsible resource management, while adopting more sustainable solutions across their operations,” he said.\n\nJohari said Malaysia approved RM218.5 billion in total investments across various economic sectors in the first half of 2026, almost 12% higher than the corresponding period last year.\n\nHe said the services sector accounted for the largest share at RM149.6 billion, or 68.5% of the total, while the information and communications sub-sector, which includes data centres, recorded RM103.3 billion in approved investments.\n\nData-centre and cloud-computing projects alone accounted for RM95.8 billion, or close to 44% of all approved investments during the period, while data centre-related investment approvals have reached RM385.7 billion since 2021, he added.\n\n*Uploaded by Tham Yek Lee*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817943"
+    },
+    {
+      "id": "2026-09-14-dcf8c6",
+      "title": "My Say: For sustainable data centre growth, upgrade state capacity",
+      "summary": "An opinion piece argues that Malaysia's early celebration of data centre investments as landmark foreign direct investment achievements needs to give way to a more critical assessment of their actual benefits. The author contends that converting palm oil estates and industrial land into mega facilities promised economic uplift for surrounding communities, but the realised gains in jobs and local value have been limited. The column urges upgrading state capacity to manage the sector sustainably and capture more of its benefits.",
+      "why_it_matters": "The piece reflects a shift in Malaysian public discourse from welcoming data centres at any cost to questioning what the country gets in return. That sentiment could translate into stricter approval conditions, resource pricing or local-content requirements that change project economics. Operators should read it as an early signal of the political environment they will operate in.",
+      "score": 68,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "regulation",
+        "investment",
+        "policy",
+        "malaysia"
+      ],
+      "published_at": "2026-09-14T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817949",
+          "type": "html-list"
+        }
+      ],
+      "published_precision": "day",
+      "content": "This article first appeared in The Edge Malaysia Weekly on September 14, 2026 - September 20, 2026\n\nIt was not long ago that announcements of data centre investment were touted as a monumental national achievement, with billions of dollars framed as foreign direct investments. When land opened up for the construction of facilities, the economic argument was that sleepy palm oil estates or unutilised industrial land could now benefit from mega infrastructure promising direct impact on the surrounding communities.\n\nBetween 2021 and mid-2025 alone, 143 data centre and cloud computing projects worth RM144.4 billion were approved. This period overlapped with the zealous excitement over the potential of artificial intelligence and the next generation of computing power. For the tech giants, Malaysia’s land availability, accommodating energy infrastructure, generous tax incentives and relatively lower costs seemed like the perfect recipe. Johor alone has grown into one of the largest emerging AI infrastructure clusters in the world.\n\nThe construction demand has been so encouraging that land parcels in major tech parks — such as those in Johor — are fully booked, including for their next phases. Naturally, more small- to mid-scale developments are moving to non-industrial areas, including near neighbourhoods. This trend is evident in Petaling Jaya, Selangor, as well as the now-cancelled project in Kota Damansara and the Iskandar Puteri project in Johor, which required a stop-work order.\n\nIt is only proper for projects of this scale to acknowledge community feedback, which highlights concerns over the extent of the state’s approval discretion, particularly regarding environmental safeguards. Equally concerning is whether there has been a standardised assessment of our local resource resiliency against the potential economic upside, given the varying technological sophistication of these projects.\n\nIt was unthinkable then that a data centre would draw protest over pollution concerns, yet those concerns proved serious enough for the developer to step in and remedy the situation.\n\nThis increased scrutiny of data centres led to the acknowledgement by treasury secretary-general Tan Sri Johan Mahmood Merican that even large capital investments cannot be presumed to generate sufficient spillovers.\n\nThe government has since been prompted to change its approach to evaluating incoming projects, moving from the singular emphasis on the quantum of investments to a “scorecard” assessment of economic amplifiers and the impact on the country’s energy and water stress. Achieving these objectives, however, may require the type of state actions and capacity that is understated by the proposed “scorecard” approach. It requires the government to incentivise development of backward linkages in water and energy solutions, to steer prominent industry players to deploy state-of-the-art cooling solutions, and to put in place a regulatory framework that ensures transparency of water and energy usage by data centres.\n\nAccording to a July 2026 parliamentary reply, data centre electricity usage currently accounts for about 7% of total electricity consumption in Peninsular Malaysia, against a peak demand set to reach 33.5gw by 2035. The government estimates that data centres alone will account for up to 31% of that peak by 2035, or roughly 10gw.\n\nWater reserve margins are similarly being tested. Although data centre water usage remains a small share of the total today, projections show that demand is rising sharply to 384 million litres per day in Johor (almost a fifth of the state’s current total water consumption) and 73.88 MLD in Selangor by 2030.\n\nIn fact, the rationing may have already begun. Of the 808 MLD requested by 101 data centres across Selangor, Johor and Negeri Sembilan, the National Water Services Commission approved fewer than 18% of applications, equivalent to just 142 MLD.\n\nCertainly, lessons have been learnt and steps are being taken to address pain points revealed over the course of this rush for computing power.\n\nTenaga Nasional Bhd (KL:TENAGA) is projected to spend a further RM78 billion between 2026 and 2030 on grid expansion, as analysts estimate the country may need as much as 12gw of new generation capacity by 2031. Some of that demand is being met through the Corporate Renewable Energy Supply Scheme (CRESS), which allows data centres to source renewable energy (RE) directly from solutions providers.\n\nDayone, a Singapore-headquartered data centre developer and operator, is reportedly an early adopter, and Petroliam Nasional Bhd (PETRONAS)-owned Gentari, Gamuda Bhd (KL:GAMUDA) and Tenaga subsidiaries are slated to be involved as RE developers.\n\nIn Johor, the government announced multiple water treatment plant developments to meet projected data centre demand of up to 440 MLD, as the state’s total water demand is projected to reach 3,000 MLD by 2035.\n\nWater reclamation solutions are also being developed through joint ventures between state-linked entities, Johor Special Water and Indah Water Konsortium Sdn Bhd, together with data centre operators such as AirTrunk and Bridge Data Centres. Alongside expanding supply, Johor is also acting on the demand side, halting approvals for Tier-1 and Tier-2 data centres over water overuse concerns and holding back water-cooled projects until at least mid-2027.\n\nAmbition and capacity are not lacking in the New Industrial Master Plan 2030 and National Energy Transition Roadmap 2023, which aim for a structural, sustainable transformation, high-waged jobs and greater RE share in the energy mix.\n\nMeanwhile, the Ministry of Investment, Trade and Industry has taken a step in the right direction by linking incentives to water and power usage effectiveness.\n\nYes, the technological and financial barriers to adopting liquid cooling are high. But the potential return justifies the effort, as liquid cooling can use up to 91% less water and 50% less energy than conventional systems.\n\nGiven that return, negotiating for technology transfer, or at least licensing, from the technology owners is worth the ambitious ask. The scale of the water and energy challenge means Malaysia should also push for more of its local players to be part of that supply chain. Selangor has already set a marker here by mandating a 30% local content requirement as a share of capital expenditure across the data centre value chain.\n\nSustainably developing the ecosystem would also mean securing greater public buy-in through increased transparency and accountability.\n\nSince operating such infrastructure extracts a high amount of public resources and may potentially affect the inherent responsibility of the state to provide basic services to the people, it is a reasonable expectation for the area residents to not only be consulted, but also given a formal channel to propose an appropriate “return of value” towards community development, as has been practised in several counties hosting some of the highest numbers of data centres in the US.\n\n*Hafidzi Razali is the founder and CEO of Strategic Counsel (stcounsel.com), a public affairs and policy communications advisory with a network presence in Kuala Lumpur, Singapore and Jakarta, Indonesia. Audi Ali is a policy fellow at Strategic Counsel with an industrial policy and sustainability background across government and international organisations.*\n\nSave by subscribing to us for your print and/or digital copy.\n\n**P/S: The Edge is also available on\n      Apple's App Store and \n      Android's Google Play.**\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817949"
+    },
+    {
+      "id": "2026-09-14-29614e",
+      "title": "OpenAI says it is in talks to train models in Australia",
+      "summary": "OpenAI has confirmed it is in discussions about training AI models in Australia, which would involve significant local compute capacity. The talks come as Australia courts AI investment and positions itself as a hub for sovereign AI infrastructure in the region. No deal has been finalised, but the discussions signal growing interest from frontier AI developers in Australian data centre capacity.",
+      "why_it_matters": "Securing OpenAI model training would be a marquee win for Australia's AI ambitions, validating its pitch to global AI developers and likely catalysing further infrastructure investment. It would also raise the stakes on energy and grid planning, since training workloads demand enormous, concentrated power. For regional competitors, Australia landing such a deal would shift the geography of APAC AI compute.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "australia",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "hyperscale",
+        "investment"
+      ],
+      "published_at": "2026-09-14T07:34:55Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/openai-says-it-is-in-talks-to-train-models-in-australia",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "content": "CANBERRA -- U.S. artificial intelligence giant OpenAI is open to training its models in Australia, with a senior executive saying talks around issues such as copyright protections are underway.\n\nArtificial intelligence\n# OpenAI says it is in talks to train models in Australia\n\nGovernment sees chance to gain leverage in setting of industry standards\n\nAnn O'Leary, OpenAI's vice president of global policy, speaks in Sydney on Sept. 14. (Photo by Shaun Turton)",
+      "content_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/openai-says-it-is-in-talks-to-train-models-in-australia"
+    },
+    {
+      "id": "2026-09-14-ffc315",
+      "title": "TDK to ramp up production of electronic components for AI servers",
+      "summary": "TOKYO -- Japan's TDK plans to ramp up production of electronic components for artificial intelligence servers, as it looks to tap booming demand from the AI industry.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "supply-chain"
+      ],
+      "published_at": "2026-09-14T07:34:55Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/tdk-to-ramp-up-production-of-electronic-components-for-ai-servers",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "TDK"
+      ],
+      "content": "TOKYO -- Japan's TDK plans to ramp up production of electronic components for artificial intelligence servers, as it looks to tap booming demand from the AI industry.\n\nTechnology\n# TDK to ramp up production of electronic components for AI servers\n\nExpects rising demand for tiny parts that curb energy loss\n\nJapan's TDK expects to invest around $260 million in two factories over the next three years to increase output capacity of tiny electronic components known as thin-film inductors, left. (Source photos by TDK and Mayumi Tsumita)",
+      "content_url": "https://asia.nikkei.com/business/technology/tdk-to-ramp-up-production-of-electronic-components-for-ai-servers"
+    },
+    {
+      "id": "2026-09-14-19440f",
+      "title": "Applied Materials using AI to speed chip materials discovery, Japan chief says",
+      "summary": "TOKYO -- The semiconductor industry needs to embrace new materials to keep advancing as current chip miniaturization technology approaches its limits, and Applied Materials is using artificial…",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "supply-chain"
+      ],
+      "published_at": "2026-09-14T07:34:55Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/tech/semiconductors/applied-materials-using-ai-to-speed-chip-materials-discovery-japan-chief-says",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Applied Materials"
+      ],
+      "content": "TOKYO -- The semiconductor industry needs to embrace new materials to keep advancing as current chip miniaturization technology approaches its limits, and Applied Materials is using artificial intelligence in hopes of contributing to breakthroughs, the American company's top Japan executive told Nikkei in an interview.",
+      "content_url": "https://asia.nikkei.com/business/tech/semiconductors/applied-materials-using-ai-to-speed-chip-materials-discovery-japan-chief-says"
+    },
+    {
+      "id": "2026-09-14-518e0c",
+      "title": "Fujitsu to export AI chips built on supercomputer tech to US, Asia",
+      "summary": "TOKYO -- Fujitsu will begin exporting AI semiconductors that are developed with technology used in its supercomputer \"Fugaku\" to the U.S. and Asia as early as next year.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips"
+      ],
+      "published_at": "2026-09-14T07:34:55Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/tech/semiconductors/fujitsu-to-export-ai-chips-built-on-supercomputer-tech-to-us-asia",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Fujitsu"
+      ],
+      "content": "TOKYO -- Fujitsu will begin exporting AI semiconductors that are developed with technology used in its supercomputer \"Fugaku\" to the U.S. and Asia as early as next year.\n\nSemiconductors\n# Fujitsu to export AI chips built on supercomputer tech to US, Asia\n\nJapanese company to tap growing demand for CPUs for inference\n\nFujitsu seeks to expand its presence in the global semiconductor market with its logic semiconductor.(Source photos Nikkei)",
+      "content_url": "https://asia.nikkei.com/business/tech/semiconductors/fujitsu-to-export-ai-chips-built-on-supercomputer-tech-to-us-asia"
+    },
+    {
+      "id": "2026-09-14-12a58b",
+      "title": "Why this Johor data centre treats water as a priority – even before it's fully built",
+      "summary": "A data centre under construction in Johor has made water management a central design priority even before the facility is complete. The project incorporates measures to secure sustainable water supply and reduce consumption, reflecting growing scrutiny of the sector's water footprint in the state. Johor has attracted a wave of data centre investment, raising questions about long-term water availability for both industry and residents.",
+      "why_it_matters": "Proactive water planning is becoming a differentiator as Johor's boom strains local resources and draws community and regulatory attention. Developers who lock in sustainable water strategies early are better positioned to win approvals and avoid the kind of project holds seen in Thailand. The case offers a template for how operators elsewhere in water-stressed Southeast Asia may need to design.",
+      "score": 78,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "sustainability",
+        "water",
+        "capacity",
+        "malaysia"
+      ],
+      "published_at": "2026-09-14T07:34:55Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/johor-data-centre-water-treatment-malaysia-bridge-data-centres",
+          "type": "html-list"
+        }
+      ],
+      "content": "Bridge Data Centres is converting effluent for cooling at its Johor campus – part of a wider strategy to secure the water and power needed for AI growth\n\nLong before its servers ever spin up, a data centre campus in Ulu Tiram, Johor, already has its water sorted.\n\nSince August 2025, a water treatment plant on site has been taking treated effluent and cleaning it further into water fit for cooling, even as construction on the data centre itself continues around it.\n\nThe plant, the first built inside a data centre site in Malaysia, belongs to Bridge Data Centres (BDC). The system uses membrane bioreactor and reverse osmosis technologies, which was co-developed by BDC and local Malaysian technology companies.\n\nIt is a small example of a bigger shift. As AI pushes computing demand to a new scale, developers are being forced to rethink the resources needed to power and cool their facilities.\n\nThe project was designed in full compliance with guidelines issued by Malaysia’s National Water Services Commission. BDC worked closely with regulatory agencies, Johor Special Water, Indah Water Konsortium and Permodalan Darul Ta’zim throughout the planning and execution phases.\n\nFor BDC, that sequencing – solving for water before the demand exists – is the point.\n\n“Our water treatment plant project reflects our ‘glocal’ strategy at work,” says BDC chief executive officer Eric Fan. “Working with the right team in Malaysia turned our commitment to sustainability into practical infrastructure. This is how we intend to continue building our capabilities in digital infrastructure and lowering our impact on the local environment in Malaysia and beyond.”\n\nHow BDC is treating effluent for data centres\n\nAt its MY07 campus in Ulu Tiram, Johor, Bridge Data Centres converts treated effluent into a standard clean enough to cool its data centre equipment.\n\nThe effluent goes through six stages before it reaches a data hall: feed water, odour removal and oxidation, a membrane bioreactor, fibre filtration, reverse osmosis, then into the cooling loop.\n\nDepending on intake conditions, the plant can push water recovery above 90 per cent.\n\n## Managing the AI surge\n\nAt scale, the link between water and cooling sharpens: More computing power means more heat, and removing that heat can itself demand significant water.\n\nAs AI systems pack more computing power into individual racks, they also generate more heat – increasing the demands placed on cooling infrastructure. BDC has deployed liquid cooling at scale, including cold-plate cooling for high-density AI workloads, to manage those temperatures without driving up the resources needed to run its facilities.\n\n“The central challenge is delivering sufficient power, cooling and supporting infrastructure at the speed and scale that AI workloads require,” Fan says.\n\nThe same forward-planning logic extends to power for the Singapore-headquartered data centre developer and operator. The International Energy Agency estimates data centres accounted for about 1.5 per cent of global electricity consumption in 2024 – a figure it expects to more than double by 2030 as AI drives demand.\n\nBain Capital-backed BDC has committed to using 100 per cent renewable energy across its portfolio by 2040. In Malaysia, it became the first data centre operator to sign a power agreement with Tenaga Nasional Berhad under the Corporate Renewable Energy Supply Scheme. The agreement allows BDC to draw solar power through Malaysia’s national grid, which is currently powering roughly half of the energy used by BDC’s data centre assets there.\n\nRenewable power through the grid, however, does not remove the need for backup generation. Data centres require uninterrupted power, so BDC is looking at how to decarbonise that too.\n\nBDC completed its inaugural hydrotreated vegetable oil (HVO)-powered backup fuel pilot in Asia-Pacific at one of the company’s data centre campuses. The pilot demonstrated that HVO can be used as a cleaner alternative to conventional diesel for critical data centre backup power systems. Produced from waste-based feedstock, HVO requires no equipment changes and can cut greenhouse-gas emissions by up to 90 per cent, according to BDC.\n\nWhile HVO offers a way to lower emissions using existing equipment, BDC is also exploring longer-term alternatives.\n\n“No single technology can meet every requirement across every market and operating scenario,” Fan says. “BDC therefore applies a diversified approach that reflects local energy systems, technology readiness and the need for resilience.”\n\nThe challenge becomes more complex as operators expand across markets with different grids, water systems and regulatory environments. BDC operates and develops hyperscale campuses across Malaysia, Thailand and India, making those local constraints part of its expansion calculus.\n\n“The industry will therefore need stronger collaboration among operators, hyperscale customers, utilities, technology providers and public agencies,” Fan adds.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/johor-data-centre-water-treatment-malaysia-bridge-data-centres"
+    },
+    {
+      "id": "2026-09-14-6eaa10",
+      "title": "Blackstone's AirTrunk seeks S$2 billion loan for Singapore IPO",
+      "summary": "AirTrunk, the Asia-Pacific data centre operator owned by Blackstone, is seeking a loan of around S$2 billion as it prepares for a potential listing in Singapore. The financing would support the company's operations and expansion ahead of what could be one of the region's largest data centre IPOs. A Singapore debut would give public-market investors rare direct exposure to APAC hyperscale infrastructure.",
+      "why_it_matters": "A successful AirTrunk listing would test public-market appetite for data centre assets at a time of record capital demand, potentially resetting valuations across the sector. For Singapore, it would reinforce the exchange's bid to attract tech and infrastructure listings. Lenders and rival operators will watch the loan's pricing as a gauge of credit conditions for large-scale data centre debt.",
+      "score": 90,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "ipo",
+        "financing",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-14T07:34:55Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/startups-tech/technology/blackstones-airtrunk-seeks-s2-billion-loan-singapore-ipo",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Blackstone",
+        "AirTrunk"
+      ],
+      "content": "The proposed offering will be a key test for data centre financing in Asia\n\n[SINGAPORE] AirTrunk, a data centre operator owned by Blackstone, is in talks with banks to borrow about S$2 billion to help finance the public listing of a real estate investment trust (Reit) backed by its assets, according to people familiar with the matter.\n\nThe company has sent requests to lenders seeking several tranches of debt ranging from three to seven years in Singapore dollars and yen, said the people, who asked not to be identified discussing private talks.\n\nThe loan, raised by the Reit, will likely be used to acquire assets from AirTrunk and refinance existing debt, they said, adding that terms have not been finalised and could still change.\n\nRepresentatives for AirTrunk and Blackstone declined to comment.\n\nThe proposed Reit initial public offering in Singapore will be a key test for data centre financing in Asia, where banks are hitting their sector limits and becoming more selective about which projects they lend to.\n\nData centre loans in the region have surged to nearly US$29 billion since the start of 2025, according to data compiled by Bloomberg.\n\nAs demand continues to grow, bankers are devising new ways to free up balance sheets for further lending such as through asset-backed bonds, which AirTrunk is also exploring.\n\nWith the IPO, AirTrunk can shift some of its assets into the Reit and raise capital from a wider pool of investors.\n\nAirTrunk has been one of the region’s more aggressive borrowers, having secured billions for data centre build outs including a recent US$2.3 billion green loan for a facility in Malaysia.\n\nBut its backing from Blackstone means many banks are still willing to extend debt even as they reject smaller, lesser-known operators, the people familiar said.\n\nAirTrunk is close to filing confidentially for the Reit IPO, people familiar with the matter said in June.\n\nEarlier in the year, other people had said that it may raise about US$1.5 billion in the offering. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/startups-tech/technology/blackstones-airtrunk-seeks-s2-billion-loan-singapore-ipo"
+    },
+    {
+      "id": "2026-09-14-6f391f",
+      "title": "NVIDIA expands Australian AI infrastructure with partners",
+      "summary": "Nvidia is expanding AI infrastructure in Australia through partnerships with local providers, adding GPU-based compute capacity for domestic users. The buildout could give Australian startups, universities and enterprises more local access to AI training and inference resources as demand rises. The initiative aligns with Canberra's push for sovereign AI capability and onshore data processing.",
+      "why_it_matters": "More onshore AI compute reduces Australia's dependence on offshore capacity and addresses data-sovereignty concerns that have constrained adoption in government and regulated industries. For local AI firms, access to nearby GPU clusters lowers latency and cost barriers to model development. It also strengthens Nvidia's ecosystem lock-in across the region at a time of rising competition.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "investment",
+        "sovereign-ai"
+      ],
+      "published_at": "2026-09-14T06:37:44Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/nvidia-expands-australian-ai-infrastructure-with-partners",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "content": "Mon, 14th Sep 2026 (Today)\nNVIDIA has expanded its Australian AI infrastructure partnerships with Firmus, Sharon AI, IREN, Megaport, ResetData, CDC, NEXTDC and AirTrunk. The programme is intended to support up to a 2-gigawatt buildout by 2027.\n\nThe expansion focuses on adding land, power and data centre shell capacity at sites designed to host multiple generations of NVIDIA DSX systems. Participating providers will operate the facilities, while NVIDIA will supply the DSX platform, computing systems, networking, software and ecosystem support.\n\nDemand for AI computing has risen as companies, researchers and public sector bodies seek more local access to large-scale infrastructure for training and deploying models. The broader buildout is intended to serve Australian startups, universities, researchers, developers, enterprises and AI-focused companies.\n\nNVIDIA also tied the expansion to broader use of its Nemotron open models in Australia, saying greater local access to computing resources and models would help organisations develop regional applications and agents for domestic industries.\n\n### Partner buildout\n\nSeveral participating groups also outlined separate projects under the wider programme. Firmus is extending its Project Southgate initiative, which is intended to support demand from hyperscale operators and AI-focused customers in Australia and the Asia-Pacific region.\n\n“Project Southgate represents a tangible commitment to building Australia's AI future,” said Oliver Curtis, Co-Founder and Co-CEO of Firmus.\n\n“Together with NVIDIA, we are developing AI factories that will give Australian businesses, researchers and innovators access to world-class computing capacity at home, while positioning Australia to meet growing AI demand across Asia-Pacific,” Curtis said.\n\nSharon AI is deploying up to 68,000 NVIDIA GPUs linked with NVIDIA Quantum InfiniBand and NVIDIA Spectrum-X Ethernet networking. The infrastructure is intended to support startups, enterprises and research organisations.\n\n“Australia has the energy, connectivity and ambition to lead in AI. That potential only becomes real capability when organizations can access world-class compute without compromising on security or sovereignty,” said James Manning, Co-Founder and CEO of Sharon AI.\n\n“By building on NVIDIA's DSX platform, Sharon AI is equipped to bring gigawatt-scale AI factories to Australian enterprises, researchers, government and AI natives. With the trust and reliability needed to build, train and deploy AI at scale, Australia can turn its natural advantages into a genuine national AI capability,” Manning said.\n\nIREN is combining NVIDIA's DSX architecture with its own operations across power, land, data centres and GPU deployment. It pointed to its 800-megawatt Bundey campus in South Australia as part of that effort.\n\n“Building AI infrastructure at scale requires integrating every layer: data centers, compute and software,” said Daniel Roberts, Co-Founder and Co-CEO of IREN.\n\n“Combining IREN's vertically integrated platform with the NVIDIA DSX AI factory reference architecture provides a repeatable blueprint to bring capacity online at scale. We are applying that blueprint across our development portfolio, bringing IREN's proven international delivery and operating experience to our 800-megawatt Bundey campus in South Australia,” Roberts said.\n\nMegaport is widening access to NVIDIA computing through its subsidiary Latitude.sh to support inference workloads. Its network is intended to place processing closer to users.\n\nResetData is building Australian AI infrastructure for enterprise, government and research customers that require local data residency. CDC, NEXTDC and AirTrunk described data centre capacity and cooling systems aimed at supporting dense AI workloads.\n\nCDC operates more than 550 megawatts of capacity across Australia and New Zealand, with another 800 megawatts under construction. Its facilities use renewable electricity and zero-water cooling systems certified for NVIDIA infrastructure.\n\n“CDC operates more than 550 megawatts of capacity across Australia and New Zealand, with a further 800 megawatts under construction and additional growth planned to support world-leading, high-density workloads for critical infrastructure,” said Greg Boorer, Founder and CEO of CDC.\n\n“Our facilities use 100% renewable electricity and incorporate pioneering zero water advanced cooling technologies certified for NVIDIA accelerated computing infrastructure,” Boorer said.\n\n### Local users\n\nNVIDIA highlighted Australian users including Heidi and Atlassian as examples of companies building on its model and infrastructure stack. Heidi is combining Nemotron models with its clinical knowledge base for healthcare applications, while Atlassian is using NVIDIA AI in work on semantic search for Rovo.\n\n“NVIDIA Nemotron 3 Ultra gives us the flexibility to build and post-train models for the real complexity of healthcare,” said Yu Liu, Co-Founder and Chief Technology Officer of Heidi.\n\n“Combining Nemotron with Heidi's clinical training and fine-tuning capabilities helps us reason across patient histories, clinical context and guidelines at scale, turning that information into actionable insights while preserving the trust and privacy patients expect,” Liu said.\n\nAtlassian tied the infrastructure base to search and workflow tools inside its products, saying local growth in AI infrastructure would become more important as it expanded those systems.\n\n“NVIDIA's accelerated computing infrastructure and open model ecosystem are foundational to how Atlassian builds and delivers AI,” said Guihong Cao, Head of Engineering for Rovo + AI at Atlassian.\n\n“From supervised fine-tuning and reinforcement learning to powering intelligent experiences in Rovo, NVIDIA provides the performance, economics and flexibility we need to innovate responsibly at the scale our customers expect. As Australia's AI infrastructure continues to grow, it will play an increasingly important role in that journey, and we're excited to keep pushing the boundaries of what's possible together,” Cao said.\n\nThe Australian expansion comes as data centre operators and cloud providers race to secure power, land and cooling systems for AI workloads, with infrastructure emerging as a central constraint on growth in many markets. In Australia, the buildout also underscores the country's role as a regional base for AI computing, supported by energy availability, connectivity and existing data centre development.\n\n“AI factories turn energy into intelligence - the essential resource of the AI economy,” said Raj Mirpuri, Vice President of Global AI Clouds and Infrastructure Ecosystem at NVIDIA.",
+      "content_url": "https://datacenternews.asia/story/nvidia-expands-australian-ai-infrastructure-with-partners"
+    },
+    {
+      "id": "2026-09-14-250b1a",
+      "title": "Spark launches Auckland data centre interconnect service",
+      "summary": "It gives businesses private high-speed links between Auckland sites as demand rises for secure data transfers and AI-ready cloud capacity.",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "networking",
+        "interconnection",
+        "ai"
+      ],
+      "published_at": "2026-09-14T06:35:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/spark-launches-auckland-data-centre-interconnect-service",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Spark"
+      ],
+      "content": "Mon, 14th Sep 2026 (Today)\nSpark has launched a data centre interconnect service across Auckland using Ciena technology, linking data centres from Silverdale to Papakura.\n\nThe service gives Spark Wholesale a dedicated offer for organisations that need private links between facilities and need to move large volumes of data between sites. It will be available at 10G, 100G and 400G, with 800G connectivity to be added later.\n\nThe network is based on Ciena's WaveLogic 6 Extreme coherent optics on the Waveserver platform. Spark is also using Ciena's Navigator Network Control Suite to manage capacity planning, service fulfilment and fault finding.\n\nNew Zealand's data centre market has been expanding, with dozens of facilities already operating and more in development. The new service is intended to support demand for secure data transmission as organisations build out cloud and AI workloads.\n\n\"New Zealand's digital future is full of opportunity. Together, Ciena and Spark Wholesale are creating the high-performance foundations that will help organisations harness AI, accelerate innovation and confidently scale for what's next. We're excited to be investing in the infrastructure that will power the next generation of growth across New Zealand,\" said Raj Singh, Tribe Lead, Spark Wholesale.\n\nCiena said Auckland is becoming an important hub for regional data centre activity. Its regional head said Spark was using the rollout to support faster interconnection between facilities.\n\n\"New Zealand is emerging as a strategic regional hub for hyperscale and AI data centres,\" said Matt Vesperman, Vice President, Australia, New Zealand, and the Pacific Islands, Ciena.\n\n\"Spark is taking advantage of this opportunity, creating a foundation for delivering high-speed DCI services with Ciena's WaveLogic technology,\" Vesperman said.\n\n### Australian test\n\nIn a separate development, Telstra and Ciena said they had carried 1.6 Tb/s over 1,100km on a live production network between Melbourne and Sydney. They described it as the longest distance yet achieved for a single-channel transmission at that rate.\n\nThe trial transported four 400GbE client services over a single wavelength without regeneration and used L-band spectrum on Telstra's intercity route. The companies said the result extends the distance of an earlier 1.6 Tb/s demonstration by about 50%.\n\nTelstra used Ciena's 6500 Reconfigurable Line System with C+L band support alongside WaveLogic 6 Extreme. The route ran over the carrier's Aura Network, which provided the low-loss fibre needed for the test, according to the companies.\n\nThe work highlights how operators are trying to increase capacity on existing fibre infrastructure as traffic from cloud services and data-heavy applications rises. By using spectrum beyond the traditional C-band, carriers can increase the amount of traffic each fibre can carry without building entirely new routes.\n\n\"This trial demonstrates how Telstra's Aura Network can unlock significantly more capacity by extending beyond the traditional C-band into L-band spectrum. For customers, that means greater scalability and the ability to support growing demand from AI, cloud, and data-intensive applications across Australia, both today and into the future,\" said Sandy Cameron, Digital Infrastructure Executive, Telstra.\n\nCiena said the result showed what could be achieved on terrestrial optical links by combining newer coherent transmission with broader spectrum use. It added that the Melbourne-Sydney corridor is one of Australia's busiest long-haul routes.\n\n\"This achievement raises the bar for what's possible in terrestrial optical networking,\" said Vesperman.\n\n\"Ciena's industry-leading coherent optical technology powers Telstra's advanced Aura Network, unlocking additional capacity through L-band expansion and realising unprecedented performance at distances previously thought unattainable,\" Vesperman said.",
+      "content_url": "https://datacenternews.asia/story/spark-launches-auckland-data-centre-interconnect-service"
+    },
+    {
+      "id": "2026-09-14-32b5be",
+      "title": "Samsung, SK Hynix reject US$18 billion power prepayment to fund new grids: reports",
+      "summary": "Local media says firms concerned about committing such large sums upfront given uncertainty",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [
+        "chips",
+        "power",
+        "investment"
+      ],
+      "published_at": "2026-09-14T04:41:57Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/samsung-sk-hynix-reject-us18-billion-power-prepayment-fund-new-grids-reports",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Samsung Electronics",
+        "SK Hynix"
+      ],
+      "content": "Local media says firms concerned about committing such large sums upfront given uncertainty\n\nSAMSUNG Electronics and SK Hynix have rejected a proposal from Korea Electric Power Corp that would have seen the two pay in advance for electricity in order to finance the construction of grids to power new technology clusters.\n\nCash-strapped utilities across Asia are struggling to keep up with the growing demand from the semiconductor and artificial intelligence industries. Kepco’s plan – estimated by local media at a combined 25 trillion won (US$18 billion), equivalent to five years of bills – was an effort to work around that mismatch.\n\n“The companies have ultimately rejected Kepco’s proposal,” a Kepco spokesman said in a text message.\n\nThe two South Korean chipmakers were concerned about committing such large sums upfront given uncertainty over whether the current semiconductor boom would continue for the next five years, according to local media reports.\n\nSamsung and SK Hynix declined to comment.\n\nUnder the proposal, the chipmakers would have paid the 25 trillion won over about a year. Kepco would have paid interest on the remaining prepaid balances. The alternative source would have reduced Kepco’s reliance on bond issuance for funding. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/samsung-sk-hynix-reject-us18-billion-power-prepayment-fund-new-grids-reports"
+    },
+    {
+      "id": "2026-09-14-d8bbea",
+      "title": "Moonshot's Kimi growth tests the business case for open-weight AI",
+      "summary": "Moonshot AI’s Kimi K3 targets US$2B in annualised revenue. Kimi K3 mixes open weights with commercial monetisation. Chinese AI company Moonshot AI is targeting US$2 billion in annualised revenue by the end of 2026, putting new figures behind the commercial growth of its open-weight Kimi models. The company told investors that annual recurring revenue […] The post Moonshot’s Kimi growth tests the business case for open-weight AI appeared first on TechWire Asia .",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "ai",
+        "llm",
+        "open-weights"
+      ],
+      "published_at": "2026-09-14T04:00:31Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Tech Wire Asia",
+          "url": "https://techwireasia.com/2026/09/moonshot-ai-kimi-k3-revenue/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Moonshot AI"
+      ],
+      "content": "- **Moonshot AI’s Kimi K3 targets US$2B in annualised revenue.**\n- **Kimi K3 mixes open weights with commercial monetisation.**\n\nChinese AI company Moonshot AI is targeting US$2 billion in annualised revenue by the end of 2026, putting new figures behind the commercial growth of its open-weight Kimi models.\n\nThe company told investors that annual recurring revenue exceeded US$1 billion in August, up from US$300 million in June, *Bloomberg* reported, citing people familiar with the matter. The US$2 billion figure represents a year-end annualised revenue target rather than revenue booked across the full year.\n\n*Bloomberg* previously reported that Moonshot was generating more than US$200 million in annual recurring revenue in April, citing financial adviser HF Capital. The revenue came from subscriptions to its Kimi chatbot and AI model services.\n\nThe figures show that Moonshot is generating recurring revenue from Kimi, although the financial information reported so far does not disclose its operating profit, gross margins, or the cost of serving the workloads behind that revenue.\n\nMoonshot released Kimi K3 in July. The model uses a mixture-of-experts architecture with 2.8 trillion total parameters, of which 104 billion are activated during inference, and supports a context window of just over one million tokens, according to Moonshot’s model documentation.\n\nMoonshot describes K3 as an open-weight model. Its model weights can be downloaded and deployed outside Moonshot’s services, subject to conditions in the company’s Kimi K3 licence.\n\n### How Moonshot monetises K3\n\nMoonshot’s K3 licence allows users to distribute, modify, deploy, and create derivative works from the model, but places commercial conditions on some large-scale deployments.\n\nA company operating a Model-as-a-Service business must enter into a separate agreement with Moonshot before using K3 commercially if the company and its affiliates generate more than US$20 million in aggregate revenue over any consecutive 12-month period. The licence defines Model-as-a-Service as providing third parties with access to model inference or fine-tuning through services such as an API.\n\nThe provision does not apply to internal enterprise deployments or products that only embed K3 capabilities within a broader service. Large commercial products using K3 are also subject to attribution requirements if they exceed 100 million monthly active users or US$20 million in monthly revenue.\n\n*Reuters* reported in August that Moonshot was in early-stage negotiations with Microsoft, Amazon, and Google to host K3 on their cloud platforms, with the company seeking as much as a 30% share of revenue generated from K3-related services. The talks also covered data access and mechanisms for auditing token usage.\n\nThe same report said Moonshot had already reached similar revenue-sharing arrangements with smaller cloud providers, including Chinasoft International.\n\nThe discussions remained active into September, when Moonshot was still negotiating with Microsoft, Amazon, and Google as the company considered its public listing plans.\n\n### Distribution extends beyond Moonshot\n\nAs of September 14, OpenRouter listed 16 providers serving Kimi K3, including DigitalOcean and DeepInfra. The model is also available through Moonshot’s own services.\n\nOpenRouter allows different companies to host the same model and routes requests between those providers. Activity through independently hosted versions of K3 therefore does not necessarily represent API revenue paid directly to Moonshot.\n\nAs of the same date, OpenRouter listed K3 at about US$2.40 per million input tokens and US$12 per million output tokens, although pricing varies by provider.\n\nMoonshot is selling K3 access alongside Chinese competitors offering lower-priced APIs. DeepSeek’s V4.1 Flash costs US$0.15 per million uncached input tokens and US$0.60 per million output tokens during off-peak periods, with peak rates of US$0.30 and US$1.20 respectively.\n\nAlibaba Cloud lists Qwen3.5 Plus from its Singapore region at US$0.40 per million input tokens and US$2.40 per million output tokens for requests of up to 256,000 input tokens. Prices increase for longer context lengths.\n\nThe companies do not publicly disclose enough information on inference costs, customer discounts, or margins to compare the profitability of these services.\n\n### Revenue growth meets infrastructure costs\n\nMoonshot also faced computing capacity constraints shortly after K3’s launch. *Reuters* reported in July that the company temporarily stopped accepting new Kimi subscriptions after requests approached the limits of its existing computing clusters.\n\nMoonshot allocated available capacity to existing paid users and said future membership plans would include a separate coding-focused tier. The pause came shortly after the launch of K3.\n\nMoonshot has also continued raising external capital. *Bloomberg* reported that the company raised about US$2 billion in May at a valuation above US$20 billion, followed by a US$3.5 billion round in July that valued Moonshot at US$35 billion. The July round exceeded its initial target of between US$1 billion and US$2 billion.\n\nBy September, Moonshot had raised more than US$5.5 billion since its founding and had confidentially filed for a Hong Kong initial public offering that could seek about US$3 billion, *Reuters* reported, citing people familiar with the filing.\n\nGoldman Sachs, China International Capital Corp, and Deutsche Bank are working with Moonshot on the proposed IPO. *Reuters* also reported that the company was valued at about US$50 billion in an ongoing funding round at the time of the filing.\n\nThe available financial information does not show how much it costs Moonshot to generate its reported revenue. Without figures for inference costs, gross margins, operating expenses, or net income, its annual recurring revenue does not establish whether the company is profitable.\n\n**Want to learn more about AI and big data from industry leaders?** Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.\n\nTech Wire Asia is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.",
+      "content_url": "https://techwireasia.com/2026/09/moonshot-ai-kimi-k3-revenue/"
+    },
+    {
+      "id": "2026-09-14-609a0b",
+      "title": "Malaysia could tap dollar bonds as local banks tighten data center lending: S&P",
+      "summary": "Malaysian data centre operators may soon turn to offshore US dollar bond markets as local banks become more selective about lending amid larger deal sizes, according to S&P Global Ratings. The ratings agency notes data centre exposure currently accounts for only about 1 per cent of total bank loans, so sectoral and single-borrower limits are not yet binding. However, the rapid growth in project scale is pushing financing needs beyond what domestic banks may comfortably underwrite.",
+      "why_it_matters": "A shift to dollar bond funding would change the capital structure and cost of funding for Malaysia's data centre sector, exposing operators to currency and rate risks. It also marks the sector's maturation into an asset class big enough to tap international credit markets. For local banks, it signals their early caution is already redirecting business offshore.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "financing",
+        "malaysia",
+        "capacity"
+      ],
+      "published_at": "2026-09-14T03:59:48Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/malaysia-could-tap-dollar-bonds-as-local-banks-tighten-data-center-lending-sp/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "S&P Global Ratings"
+      ],
+      "content": "Malaysian data center operators could tap offshore US dollar bond market for funding soon as local banks get more selective amid larger deal sizes, according to S&P Global Ratings. But, Malaysian banks are not approaching their sectoral or single borrower exposure yet because data center exposure only accounts for 1 per cent of total loans currently, Nikita Anand reportedly said recently. Nikita, who’s the director of financial institutions ratings was speaking during S&P Global Ratings’ Spotlight on Emerging Markets webinar recently.\n\nHowever, he cautioned smaller banks with smaller capital base might face constraints in lending should their exposure nears the exposure limits.\n\nAccording to the credit ratings agency, Malaysia’s overall data center capacity is projected to more than triple by 2030, requiring over US$20 billion in investment over the following three years.",
+      "content_url": "https://w.media/malaysia-could-tap-dollar-bonds-as-local-banks-tighten-data-center-lending-sp/"
+    },
+    {
+      "id": "2026-09-14-91ea4f",
+      "title": "SoftBank gets upsized US$11.9 billion loan in OpenAI funding push",
+      "summary": "SoftBank has secured an upsized US$11.9 billion loan to fund its investment commitments to OpenAI, attracting commitments from around 20 banks for the two-year facility. The facility was increased from its original size due to strong lender demand. The borrowing underpins SoftBank's pledge to invest tens of billions of dollars in the AI company, one of the largest single bets in the sector.",
+      "why_it_matters": "The ease with which SoftBank upsized the facility shows bank appetite for AI-linked credit remains robust despite the sector's mounting leverage. It concentrates significant financial-system exposure on a single AI investment thesis, raising stakes if OpenAI's economics disappoint. For the broader market, the deal sets benchmarks for how aggressively lenders will fund AI buildouts.",
+      "score": 72,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-14T02:54:08Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/softbank-gets-upsized-us11-9-billion-loan-openai-funding-push",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "SoftBank",
+        "OpenAI"
+      ],
+      "content": "The Japanese conglomerate attracts commitments from around 20 banks for the two-year facility\n\n[HONG KONG] SoftBank secured an US$11.87 billion loan to support its investment in US artificial intelligence firm OpenAI, people familiar with the matter said, up from its earlier target of US$10 billion.\n\nThe Japanese conglomerate sealed the two-year facility last week, attracting commitments from around 20 banks, said the people, asking not to be identified because they are not authorised to speak publicly.\n\nSoftbank declined to comment.\n\nThe financing comes as some executives are now voicing the need to slow the pace of AI development due to escalating risks from the technology.\n\nOpenAI chief executive officer Sam Altman said in an interview with *Fortune* that his company would not proceed with a public offering this year as it addresses safety-related concerns.\n\nSoftBank shares tumbled as much as 13 per cent on Monday (Sep 14), the most since Jul 17.\n\nThe latest borrowing would add to SoftBank’s wave of recent debt financing activities tied to its bet on OpenAI.\n\nThat includes a US$10 billion margin loan backed by its OpenAI stake and a potential bond sale of as much as US$20 billion, despite concerns about growing credit risks in the AI sector.\n\nSoftBank said last week that it would repay the balance of a US$40 billion loan it obtained earlier this year to finance its investment in OpenAI.\n\nSEE ALSO\n\nThe company plans to pay down the US$25.9 billion it owes on Sep 15, according to a statement. The non-collateralised borrowing was due to mature in March 2027.\n\nMeanwhile, SoftBank is set to hold meetings with investors in New York this week to sound out interest for the potential US dollar junk-bond sale.\n\nIt is considering raising US$10 billion to US$20 billion from the bond offering, people familiar with the matter said in August.\n\nSoftBank, founded and led by billionaire Masayoshi Son, is slated to invest close to US$65 billion in OpenAI by October.\n\nThe company has already raised the equivalent of about $37 billion so far this year from offshore and domestic bond sales and loans, including the latest facility, according to Bloomberg-compiled data. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/softbank-gets-upsized-us11-9-billion-loan-openai-funding-push"
+    },
+    {
+      "id": "2026-09-14-48851e",
+      "title": "FlexSysAI tests AI as a flexible grid resource in Australia",
+      "summary": "Australian energy technology startup FlexSysAI has launched an Australia-first pilot with sovereign AI infrastructure provider ResetData, CSIRO and the University of Queensland to test whether GPU-based AI workloads can be rapidly curtailed or shifted when power networks are under stress. The technology is live on an NVIDIA H200 cluster at ResetData's AI-F1 facility. The trial aims to demonstrate that AI data centres can act as flexible grid resources rather than inflexible loads.",
+      "why_it_matters": "If proven, flexible AI workloads could ease one of the biggest objections to data centre growth — their strain on grids — by letting facilities support rather than destabilise networks. That could accelerate approvals and unlock capacity in power-constrained markets across APAC. It also opens a new revenue stream for operators able to participate in demand-response and grid-services markets.",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "power",
+        "grid",
+        "flexibility"
+      ],
+      "published_at": "2026-09-14T01:01:59Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/flexsysai-tests-ai-as-a-flexible-grid-resource-in-australia/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "FlexSysAI",
+        "ResetData",
+        "CSIRO",
+        "University of Queensland"
+      ],
+      "content": "Australian energy technology startup FlexSysAI has begun an Australia-first pilot with sovereign AI infrastructure provider ResetData, CSIRO and The University of Queensland to test whether GPU-based AI workloads can be rapidly reduced or shifted when electricity networks are under stress.\n\nThe technology is now live on an NVIDIA H200 cluster at ResetData’s AI-F1 facility, where demand-response testing has begun. CSIRO is providing independent measurement and verification, while UQ is analysing the operational data and examining how flexible data centre demand could potentially be incorporated into future network planning and regulatory frameworks.\n\nThe proposition is relatively simple on paper. Not all AI workloads need to run at the precise moment they are scheduled. Training and other batch or deferrable jobs can potentially be paused, slowed or rescheduled, while latency-sensitive and mission-critical workloads continue running.\n\nFlexSysAI classifies workloads into different “Flex Tiers”, allowing operators to decide which jobs can be curtailed. The platform combines a market and grid forecasting layer with Kubernetes-based workload orchestration and an execution layer that manages power at the GPU cluster.\n\nThe interesting question is how much electrical demand this can actually release.\n\nFlexSysAI’s claimed its early modelling suggests power demand from the H200 cluster under test could be reduced by between 20 and 50 percent within seconds of a grid signal by shedding flexible and deferrable workloads.\n\nBig numbers, but that figure is not yet an independently verified result. The company says measuring the actual power characteristics of different AI workloads during flexibility events is one of the principal objectives of the pilot, with CSIRO and UQ expected to independently verify the results.\n\nThere is, however, already some live performance data. FlexSysAI says committed throttling on the live cluster is currently landing around two to three seconds after a signal, with the company targeting a sub-two-second response as it further parallelises GPU instruction dispatch.\n\nCSIRO and UQ are independently measuring that response using high-resolution telemetry.\n\nThat distinction is important. FlexSysAI is not yet claiming that it has demonstrated a 20-50 percent reduction in the electricity consumption of an entire data centre. The figure relates to the cluster’s power usage and remains an early modelling estimate. The actual degree of flexibility will depend on the workload mix at a particular facility, according to the company.\n\nThe pilot is therefore testing a more fundamental proposition: whether AI compute can behave enough like a controllable electricity load to become useful to the grid.\n\n“Early testing has been extremely promising, showing our platform can rapidly respond to electricity market signals and shift AI workloads to when and where power is more readily available,” said FlexSysAI co-founder Victor Feoktistov (above). “This reduces strain on the energy system, lowers operator’s energy costs and unlocks additional capacity in existing infrastructure, meaning quicker connections to the grid.”\n\n### From cheaper electricity to grid capacity\n\nThere are several potential benefits if they get this right. At the most immediate level, a data centre could reduce its electricity costs by moving flexible workloads away from periods of high prices and towards periods when electricity is cheaper or more abundant.\n\nFlexSysAI has also built the energy-market infrastructure needed to turn that flexibility into a commercial transaction. Flipped Energy holds the electricity retail licence and NEM registration, while FlexSysAI provides the technology platform.\n\nThe company says it can currently participate in wholesale market activity and demand response, using CSIP-AUS as the signalling protocol. FCAS and network services are on its roadmap.\n\nUnder its proposed model, customers pay nothing to participate. Flipped Energy owns the market positions associated with the flexibility, while FlexSysAI earns a share of the savings and grid-services value generated.\n\nThe more consequential proposition is potentially getting around one of the biggest barriers facing new data centres: the availability of firm grid capacity. To demonstrate, we can use the example of a hypothetical 100MW data centre that cannot obtain a 100MW firm connection because the local network does not have sufficient headroom during periods of system constraint.\n\nInstead of asking the network for 100MW of firm capacity, FlexSysAI’s model would allow the operator to offer a defined portion of its demand as reliably curtailable. If that flexibility could be measured, controlled and independently verified, the network might ultimately only need to provide firm capacity for the remainder.\n\nThat could potentially allow a facility to connect using existing network capacity rather than waiting for additional generation, storage or network infrastructure.\n\n### Early days\n\nBut this is where the FlexSysAI proposition moves from demonstrated technology into an experiment. No Australian network is currently recognising curtailable data centre load in a live connection agreement, according to FlexSysAI. The company told W.Media the purpose of the ResetData pilot is to generate the operational evidence needed to make that conversation possible.\n\nThe pilot’s final deliverable is intended to be a “Data Centre Flexibility Model” for operationalising curtailment-enabled headroom in the NEM.\n\nThat is also where UQ’s role becomes particularly important. The university is using the operational data to investigate how data centre flexibility could be represented in future network planning and regulatory frameworks. UQ-Springfield Chair in Energy Professor Frederik Geth says this is an important gap in the current discussion around AI data centre growth: determining whether the flexibility of these loads can actually be recognised and rewarded when networks plan their systems.\n\nCSIRO’s role is also practical. Rather than relying solely on FlexSysAI’s own performance claims, its Data Clearing House will independently measure the response of the system.\n\nThe stated technical success criteria include delivering committed load reductions within seconds, minimising the difference between promised and metered reductions, avoiding sustained power oscillations as GPUs move between power states, and protecting mission-critical workloads.\n\nThe project also has an economic target. FlexSysAI says it is looking for a double-digit percentage reduction in facility energy costs from demand response, verified through billing analysis, with the resulting flexibility settling through actual energy-market transactions.\n\n**A new form of demand response?**\n\nFlexSysAI argues that its approach differs from conventional demand response because control operates at the individual workload level rather than treating the data centre as a single block of demand.\n\nFlexible, batch and other deferrable AI jobs can be shifted or paused, while critical and latency-sensitive workloads are protected. The company says operators can see a live price for their flexibility and are free to sit out an event without penalty.\n\nThe company has begun testing demand response across different AI workload types, including inference and video-generation jobs across several models. FlexSysAI also argues that flexible compute can complement rather than replace batteries, generation and network investment.\n\nA battery can respond rapidly to a grid signal but requires capital investment and has finite stored energy. Flexible AI workloads use the compute demand itself as the flexible resource, potentially without requiring additional customer-side infrastructure.\n\nThe company sees a future where flexible compute and batteries are co-optimised, with batteries potentially providing ride-through and helping manage the delays around demand-response events.\n\nThere are nevertheless important questions still to be answered. For example, how much of a large AI facility’s total load will ultimately prove flexible once cooling, networking, storage and other infrastructure are included? How frequently can workloads be curtailed without affecting customers? What happens when deferred workloads subsequently have to run, potentially creating a rebound in demand? And, most importantly, will electricity networks be willing to treat demonstrated flexibility as equivalent to firm capacity when assessing new connections?\n\nThose questions are precisely why the ResetData pilot matters to the company. FlexSysAI says it is already in commercial discussions with multiple Australian data centre operators and large-load projects across several states, covering both existing facilities and new developments. It has not disclosed the size of that pipeline, citing commercial sensitivity.\n\nThe company also sees the Australian NEM as a useful proving ground because of its renewable penetration, price volatility and constraints. If the model can be demonstrated in Australia, it believes it can subsequently be applied to other electricity markets.\n\nThere is already international interest in grid-responsive AI computing, with companies developing systems that dynamically orchestrate AI workloads in response to grid conditions. FlexSysAI’s proposition is that workload orchestration is only one part of the problem.\n\nIts differentiation is the combination of workload orchestration with participation in Australia’s electricity market. The company’s argument is that software which can decide when a GPU workload should run is only useful as a grid resource if the resulting flexibility is measurable, controllable and capable of being converted into a settled energy-market transaction.\n\nThat makes the ResetData pilot more than a demonstration of GPU workload management. The bigger experiment is whether a data centre can stop being viewed by the electricity system as a large, largely inflexible block of new demand and instead become a controllable grid resource.\n\nIf the pilot demonstrates that AI workloads can reliably deliver substantial power reductions within seconds, without affecting critical services, the next challenge for the company will be regulatory and commercial as opposed to technical: convincing networks that such flexibility is sufficiently predictable to count when determining how much new data centre capacity the grid can accommodate.",
+      "content_url": "https://w.media/flexsysai-tests-ai-as-a-flexible-grid-resource-in-australia/"
+    },
+    {
+      "id": "2026-09-14-45834d",
+      "title": "'Ill-advised moment': OpenAI's Altman rules out 2026 IPO amid AI safety fears",
+      "summary": "Altman and CEOs of AI platforms call for slowing AI model development",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment"
+      ],
+      "published_at": "2026-09-13T00:34:43Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/ill-advised-moment-openais-altman-rules-out-2026-ipo-amid-ai-safety-fears",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "content": "Altman and CEOs of AI platforms call for slowing AI model development\n\nOPENAI will not go public in 2026 as the artificial intelligence company focuses on addressing safety-related concerns around the technology, chief executive officer Sam Altman told *Fortune* in an interview.\n\nAltman said this year would be an “ill-advised moment” for initial public offering and that a listing will not take place until 2027, according to a video of *Fortune*’s interview published on Saturday (Sep 12).\n\n“I think it is unacceptable to be taking like a 10 per cent chance of killing everybody by the end of the decade,” Altman said. “I think in this moment we are entering a new era, and we’ll likely have to – as we’ve stepped into other eras in the past – act differently to ensure that we are doing something that will ensure the idea benefits all humanity, but also ensure that no one is taking risk anywhere close to that.”\n\nThe comments come as Altman, Anthropic CEO Dario Amodei and xAI co-founder chief Elon Musk on Saturday all voiced the need to slow the pace of AI development due to escalating risks from the technology for humanity – a rare moment of agreement among the leaders of three key competitors in the field.\n\nAnxiety about a potential existential threat posed by AI has entered the mainstream, driven in part by the high-profile resignation of an Anthropic researcher on Sep 9 over fears that his company was acting irresponsibly and that AI could “kill us all by the end of the decade.” A current Anthropic employee said the possibility of such an outcome is “>10% within the next decade” in a post on X.\n\n“I think a key principle that we should all agree on is that we cannot take actions that would risk losing control of the future to AI,” Altman told *Fortune*. \n\nOpenAI confidentially filed for an IPO in June, though it has said the timing for the listing remained undecided. Anthropic has been preparing for its own listing that may top SpaceX’s record-setting IPO earlier in 2026 worth US$86.2 billion, including the over-allotment option. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/ill-advised-moment-openais-altman-rules-out-2026-ipo-amid-ai-safety-fears"
+    },
+    {
+      "id": "2026-09-14-eee438",
+      "title": "Oracle to spend an additional US$700 million on more job cuts",
+      "summary": "It is grappling with a cash crunch tied to the development of large-scale data centres for AI work",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "capacity",
+        "investment",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-12T07:50:50Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/oracle-spend-additional-us700-million-more-job-cuts",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Oracle"
+      ],
+      "content": "It is grappling with a cash crunch tied to the development of large-scale data centres for AI work\n\n[TEXAS] Oracle increased the scale of its planned job cuts while the company grapples with a cash crunch tied to the development of large-scale data centres for artificial intelligence work.\n\nThe company also disclosed a new share trading programme for chairman Larry Ellison, who owns about 40 per cent of Oracle’s stock.\n\nThe plan, which was adopted on Jun 22, permits Ellison to sell 50 million shares through Oct 24, the company said in a regulatory filing. The shares closed on Jun 22 at US$175.07 – a value of US$8.8 billion for 50 million shares – and have declined 16 per cent since then through Friday’s (Sep 11) close.\n\nEllison has been a major financial backer of his son David’s takeover last year of Paramount Global and a US$110 billion bid by David Ellison’s Paramount Skydance Corp for Warner Bros Discover Inc.\n\nThe cost of Oracle’s job cuts, which the company lists as “2026 Restructuring Plan”, is now estimated at about US$2.8 billion, largely made up of severance payments to fired employees, according to the filing.\n\nOracle has already accrued about US$2.1 billion in costs tied to the plan, and the US$700 million increase reflects “additional actions that we expect to take”, the company said.\n\nOracle is under financial pressure because of an expensive build-out of AI data centres for customers such as OpenAI.\n\nEarlier this year, it began cutting thousands of jobs as part of efforts to save cash, Bloomberg has reported. Business Insider reported last month that the company was drawing up plans for another round of cuts.\n\nDuring a call with analysts on Thursday, chief financial officer Hilary Maxson called out “simplification and efficiency actions” as helping the company reduce costs and protect margins.\n\nAs at the end of May, the company had about 49,000 US workers while about 92,000 were employed internationally. That is a decrease of 21,000 workers from a year earlier. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/oracle-spend-additional-us700-million-more-job-cuts"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "type": "weekly",
+  "period": "2026-W37",
+  "date_range": {
+    "start": "2026-09-07",
+    "end": "2026-09-13"
+  },
+  "generated_at": "2026-09-14T07:44:38Z",
+  "complete": true,
+  "stats": {
+    "stories": 129,
+    "sources": 12,
+    "days": 7,
+    "read_minutes": 3
+  },
+  "title": "AI compute deals test Southeast Asia's limits",
+  "lede": "The week of September 7-13, 2026 brought the clearest sign yet that APAC's data centre build-out has entered a new phase: anchor tenants are now signing directly with regional operators, while governments and grids strain to keep up. OpenAI anchored the narrative, committing to more than 900MW of dedicated AI compute across Firmus's Malaysian sites — a deal that pushed the Nvidia-backed Australian developer toward an IPO and underlined Malaysia's emergence as a frontline AI infrastructure market. Financing followed demand, with Indonesia's Zankore securing a US$3.1 billion GPU loan, NextDC raising AU$1.1 billion in convertible notes, and Blackstone's AirTrunk seeking US$1.6 billion ahead of a Singapore listing. Yet the period's counterweight was equally clear: Thailand froze 49 projects, Malaysia's regulator warned data centres already consume a tenth of national electricity, and Sydney's transmission operator flagged more than 20GW of connection enquiries against largely committed capacity. Demand is no longer the question; power, water and regulation are.",
+  "themes": [
+    {
+      "heading": "OpenAI's Malaysia bet lifts Firmus",
+      "narrative": "OpenAI signed a multi-year agreement to lease dedicated AI compute from two Firmus AI Factory sites in Malaysia, pushing the Australian developer past 900MW of contracted capacity. The deal, reported across several outlets, makes OpenAI the anchor customer for the Nvidia-backed firm's regional expansion. Firmus is already arranging meetings with prospective investors ahead of a potential IPO, seeking to capitalise on the win.",
+      "story_ids": [
+        "2026-09-10-c8a637",
+        "2026-09-08-73ecc1",
+        "2026-09-09-31b5cb",
+        "2026-09-08-7e35b1"
+      ]
+    },
+    {
+      "heading": "Debt and equity flood the sector",
+      "narrative": "Capital raising dominated the week's financial pages. Indonesia's Zankore signed a US$3.1 billion loan — among Asia's largest GPU-backed debt deals — to fund an AI Factory of up to 1GW, while NextDC raised AU$1.1 billion in convertible notes and AirTrunk was reported to be seeking roughly US$1.6 billion for a Singapore REIT listing. S&P expects Malaysian operators to turn to offshore US dollar bonds as local banks tighten, and Singapore-headquartered firms were shown to account for 98 percent of the US$11.5 billion raised across Southeast Asia.",
+      "story_ids": [
+        "2026-09-10-916e90",
+        "2026-09-11-8df659",
+        "2026-09-09-916e90",
+        "2026-09-12-c8cf69",
+        "2026-09-11-2d8e43",
+        "2026-09-10-6b4a2a",
+        "2026-09-09-6b4a2a",
+        "2026-09-08-5e2d0d"
+      ]
+    },
+    {
+      "heading": "Regulators confront power and water strain",
+      "narrative": "Thai authorities suspended construction on 49 data centre projects while drafting rules on electricity consumption and community impact. In Malaysia, the energy regulator said data centres already account for nearly a tenth of national power use, a separate analysis projected a 9GW gas-fired shortfall by 2032, and Selangor's government said it is closely monitoring water and power capacity. Singapore tabled its Digital Infrastructure Bill with energy-efficiency transition periods, Sydney's Transgrid warned of more than 20GW of connection enquiries, and New South Wales opened a review of how data centres should pay for water infrastructure.",
+      "story_ids": [
+        "2026-09-07-801900",
+        "2026-09-11-e89af7",
+        "2026-09-08-2652a3",
+        "2026-09-09-33cde5",
+        "2026-09-08-959a04",
+        "2026-09-08-2c96a5",
+        "2026-09-11-16a4bd",
+        "2026-09-07-8df526"
+      ]
+    },
+    {
+      "heading": "Australia builds toward compute export",
+      "narrative": "Australia pressed its case as an AI infrastructure exporter, with Nvidia partnering local cloud providers and operators to bring 2GW of compute online by 2027. Canberra's positioning leans on land and energy advantages as regional demand climbs. On the ground, Goodman Group won approval for a 135MW data center in northern Sydney, adding to the country's development pipeline.",
+      "story_ids": [
+        "2026-09-11-e00c5a",
+        "2026-09-07-9dcc2d",
+        "2026-09-07-ec2c4a"
+      ]
+    },
+    {
+      "heading": "China's chip self-sufficiency push",
+      "narrative": "Chinese AI chipmakers including Huawei are raising processor prices as a shortage of high-bandwidth memory lifts production costs under US export restrictions. JD Cloud is partnering with domestic GPU designer Moore Threads on a 100,000-GPU cluster, underscoring the pivot to homegrown silicon. The shift has regional spillover: Malaysia is leaning toward Huawei chips for its sovereign AI program despite US warnings, while GLP broke ground on a 200MW campus in Foshan.",
+      "story_ids": [
+        "2026-09-11-c67462",
+        "2026-09-09-6e50eb",
+        "2026-09-07-c9ac5b",
+        "2026-09-07-43d433"
+      ]
+    }
+  ],
+  "project_milestones": [
+    {
+      "project_id": "glp-foshan-data-center-campus",
+      "name": "GLP Foshan Data Center Campus",
+      "operator": "GLP",
+      "date": "2026-09-07",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-09-07-43d433"
+    },
+    {
+      "project_id": "key-asic-ct-vision-green-ai-data-center",
+      "name": "Key ASIC–CT Vision Green AI Data Center",
+      "operator": "Key ASIC",
+      "date": "2026-09-07",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-09-07-776bd8"
+    },
+    {
+      "project_id": "johor-bitdeer-a102-ai-cloud-data-center",
+      "name": "Bitdeer A102 AI Cloud Data Center",
+      "operator": "Bitdeer AI",
+      "date": "2026-09-07",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-09-07-98e627"
+    },
+    {
+      "project_id": "firmus-ai-factory-malaysia-sites",
+      "name": "Firmus AI Factory Malaysia Sites",
+      "operator": "Firmus",
+      "date": "2026-09-10",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-09-10-c8a637"
+    },
+    {
+      "project_id": "zankore-ai-factory",
+      "name": "Zankore AI Factory",
+      "operator": "Zankore",
+      "date": "2026-09-11",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-09-11-8df659"
+    }
+  ]
+}
