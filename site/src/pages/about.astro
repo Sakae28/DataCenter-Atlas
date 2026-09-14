@@ -1,83 +1,227 @@
 ---
 import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+import { loadNewsDays } from '../lib/news';
+import { loadProjects } from '../lib/projects';
+import { loadCompanies } from '../lib/companies';
+
+const base = import.meta.env.BASE_URL;
+
+// Live stats, computed from the real data at build time.
+const { days } = loadNewsDays();
+const { projects } = loadProjects();
+const companies = loadCompanies();
+const storyCount = days.reduce((n, d) => n + d.stories.length, 0);
+const trackedGw =
+  projects
+    .filter((p) => !p.leased_from && p.capacity_mw !== null)
+    .reduce((sum, p) => sum + (p.capacity_mw ?? 0), 0) / 1000;
+const sourceSet = new Set<string>();
+for (const d of days) for (const s of d.stories) for (const src of s.sources) sourceSet.add(src.name);
+const firstDate = days[days.length - 1]?.date;
+
+const features = [
+  {
+    icon: 'bolt',
+    name: 'Latest',
+    href: `${base}/`,
+    text: 'The daily digest. Duplicates merged, relevance scored 0–100, summaries and "why it matters" written for skimming.',
+  },
+  {
+    icon: 'newspaper',
+    name: 'Reports',
+    href: `${base}/reports/`,
+    text: 'Weekly and monthly rollups: the period\u2019s themes, the biggest stories, and every project status change.',
+  },
+  {
+    icon: 'server',
+    name: 'Pipeline',
+    href: `${base}/pipeline/`,
+    text: 'A live database of projects and facilities — status, capacity, investment, key dates — with a map view.',
+  },
+  {
+    icon: 'building',
+    name: 'Companies',
+    href: `${base}/companies/`,
+    text: 'The operators behind the projects: footprints, markets, and every story that mentions them.',
+  },
+  {
+    icon: 'bookmark',
+    name: 'Saved',
+    href: `${base}/saved/`,
+    text: 'Your bookmarks. Stored only in your browser — no account, no tracking, nothing leaves your device.',
+  },
+] as const;
+
+const steps = [
+  {
+    title: 'Poll',
+    text: 'Every morning an automated pipeline polls industry publications, company newsrooms and official announcements across APAC.',
+  },
+  {
+    title: 'Dedupe',
+    text: 'An AI pass clusters coverage of the same story. Follow-up reports merge into the first story\u2019s source list instead of repeating on the timeline.',
+  },
+  {
+    title: 'Score & summarize',
+    text: 'Each story gets a relevance score (0–100), a summary and — for the day\u2019s featured stories — a "why it matters" note.',
+  },
+  {
+    title: 'Track',
+    text: 'Concrete project events (groundbreakings, expansions, financing, commissioning) update the project database automatically.',
+  },
+] as const;
+
+const regions = [
+  { label: 'China', note: 'incl. Hong Kong' },
+  { label: 'Japan', note: null },
+  { label: 'Korea', note: null },
+  { label: 'Australia', note: null },
+  { label: 'Southeast Asia', note: 'SG · MY · ID · TH · VN · PH …' },
+  { label: 'Global', note: 'only when it moves APAC' },
+] as const;
 ---
 
 <Base title="About" active="about" description="What DataCenter Atlas tracks and how it works">
-  <header class="page-head">
-    <div>
-      <h1 class="page-title">About</h1>
-      <p class="page-sub">What DataCenter Atlas tracks and how it works</p>
+  <!-- Hero -->
+  <section class="about-hero panel">
+    <p class="about-kicker">About DataCenter Atlas</p>
+    <h1 class="about-headline">
+      The data center industry is being rebuilt for AI.<br />We track it across Asia-Pacific.
+    </h1>
+    <p class="about-lede">
+      A daily AI-curated news digest, a live database of projects and facilities, and a
+      directory of the companies behind them — one place to follow the region's build-out.
+    </p>
+    <div class="about-cta">
+      <a class="btn btn-primary" href={base}>Today's digest</a>
+      <a class="btn" href={`${base}/pipeline/`}>Explore the pipeline</a>
     </div>
-  </header>
+  </section>
 
-  <article class="about panel">
-    <p>
-      DataCenter Atlas tracks the data center industry across Asia-Pacific: a daily
-      AI-curated news digest, a live database of projects and facilities, and a directory
-      of the companies behind them.
-    </p>
+  <!-- Live stats -->
+  <section class="about-stats" aria-label="Coverage in numbers">
+    <div class="about-stat panel">
+      <p class="about-stat-value">{storyCount.toLocaleString('en-US')}</p>
+      <p class="about-stat-label">stories curated{firstDate ? ` since ${firstDate}` : ''}</p>
+    </div>
+    <div class="about-stat panel">
+      <p class="about-stat-value">{projects.length.toLocaleString('en-US')}</p>
+      <p class="about-stat-label">projects &amp; facilities tracked</p>
+    </div>
+    <div class="about-stat panel">
+      <p class="about-stat-value">{trackedGw.toFixed(1)}<span class="about-stat-unit"> GW</span></p>
+      <p class="about-stat-label">of tracked capacity</p>
+    </div>
+    <div class="about-stat panel">
+      <p class="about-stat-value">{companies.length.toLocaleString('en-US')}</p>
+      <p class="about-stat-label">companies profiled</p>
+    </div>
+    <div class="about-stat panel">
+      <p class="about-stat-value">{sourceSet.size.toLocaleString('en-US')}</p>
+      <p class="about-stat-label">publications monitored</p>
+    </div>
+  </section>
 
-    <h2>Latest — the daily digest</h2>
-    <p>
-      An automated pipeline polls industry publications and company newsrooms every day.
-      An AI pass clusters duplicate coverage of the same story (follow-up reports are
-      merged into the first story's source list rather than repeated on the timeline),
-      scores each story for relevance and importance (0–100), and writes the summaries
-      and "why it matters" notes. Article text is mirrored for reading convenience —
-      collapsed by default, images stripped, always credited and linked to the original.
-      If a publisher asks us not to mirror their text, we don't: their stories show the
-      AI summary and link out. The "sources" count on trending stories is the number of
-      distinct publications covering the same story.
-    </p>
-    <p>Coverage is organized into five APAC regions, plus a Global bucket. India is out of scope.</p>
-    <ul>
-      <li><strong>China</strong> (including Hong Kong)</li>
-      <li><strong>Japan</strong></li>
-      <li><strong>Korea</strong></li>
-      <li><strong>Australia</strong></li>
-      <li><strong>Southeast Asia</strong> — Singapore, Malaysia, Indonesia, Thailand, Vietnam, the Philippines, and neighbors</li>
-      <li><strong>Global</strong> — stories outside the region that materially affect APAC, such as GPU supply or global cloud capex; low-signal global items are filtered out</li>
-    </ul>
+  <!-- What's inside -->
+  <section class="about-section">
+    <h2 class="about-section-title">What's inside</h2>
+    <div class="about-features">
+      {features.map((f) => (
+        <a class="about-feature panel" href={f.href}>
+          <span class="about-feature-icon"><Icon name={f.icon} size={18} /></span>
+          <span class="about-feature-name">{f.name}</span>
+          <span class="about-feature-text">{f.text}</span>
+          <span class="about-feature-cta">Open →</span>
+        </a>
+      ))}
+    </div>
+  </section>
 
-    <h2>Pipeline — the project database</h2>
-    <p>
-      The project database combines two kinds of sources: concrete project events
-      (groundbreakings, expansions, financing, commissioning) extracted from the tracked
-      news, and bulk facility inventories imported from public directories. Each project
-      page shows its status, capacity, investment, key dates and specs where disclosed,
-      plus the timeline of news that mentioned it.
-    </p>
-    <ul>
-      <li><strong>Status</strong> is the normalized lifecycle stage: announced → under construction → operational (plus on hold / cancelled). Source-specific labels like "prospective expansion" or "land bank" show up as qualifier chips.</li>
-      <li><strong>Capacity</strong> is IT load in MW. "Total planned" figures cover full campus build-out, so a live phase can be smaller. Leased tenant deployments are counted on the host facility, not double-counted.</li>
-      <li><strong>Last updated</strong> is the date of the last real change (new linked story, status change, new field) — not the date data was bulk-imported.</li>
-      <li>Directory entries not yet confirmed by tracked news are marked as such; treat single-source directory data as indicative.</li>
-    </ul>
+  <!-- How it's made -->
+  <section class="about-section">
+    <h2 class="about-section-title">How the digest is made</h2>
+    <ol class="about-steps">
+      {steps.map((s, i) => (
+        <li class="about-step panel">
+          <span class="about-step-num">{i + 1}</span>
+          <p class="about-step-title">{s.title}</p>
+          <p class="about-step-text">{s.text}</p>
+        </li>
+      ))}
+    </ol>
+  </section>
 
-    <h2>Companies — the operator directory</h2>
-    <p>
-      The directory aggregates the project database by operator: how many facilities,
-      how much capacity, which markets. Companies with a substantial tracked footprint
-      (or editorial significance) get curated profiles with logos and descriptions;
-      smaller operators appear under "Other operators" once they pass ten tracked
-      facilities. News stories are tagged with the companies they concern, and those
-      tags link here.
-    </p>
+  <!-- Coverage -->
+  <section class="about-section">
+    <h2 class="about-section-title">Coverage</h2>
+    <div class="about-coverage panel">
+      <div class="about-region-chips">
+        {regions.map((r) => (
+          <span class="about-region-chip">
+            {r.label}
+            {r.note && <span class="about-region-note">{r.note}</span>}
+          </span>
+        ))}
+      </div>
+      <p class="about-coverage-note">
+        The Global bucket holds stories outside the region that materially affect APAC — GPU
+        supply, global cloud capex — with low-signal items filtered out. India is out of scope.
+      </p>
+    </div>
+  </section>
 
-    <h2>Saved — your bookmarks</h2>
-    <p>
-      The bookmark icon on any story or project saves it for later; the Saved-only toggle
-      on the Latest and Pipeline pages filters to your bookmarks. Bookmarks live in your
-      browser's local storage — no account, no tracking, and they don't leave your
-      device.
-    </p>
+  <!-- How to read the data -->
+  <section class="about-section">
+    <h2 class="about-section-title">How to read the data</h2>
+    <div class="about-prose panel">
+      <ul>
+        <li><strong>Status</strong> is the normalized lifecycle stage: announced → under construction → operational (plus on hold / cancelled). Source labels like "prospective expansion" or "land bank" appear as qualifier chips.</li>
+        <li><strong>Capacity</strong> is IT load in MW. "Total planned" figures cover full campus build-out, so a live phase can be smaller. Leased tenant deployments are counted on the host facility, never double-counted.</li>
+        <li><strong>Last updated</strong> is the date of the last real change — a new linked story, a status change, a new field — not the date data was bulk-imported.</li>
+        <li><strong>Directory entries</strong> not yet confirmed by tracked news are marked as such; treat single-source directory data as indicative.</li>
+        <li><strong>Full text</strong> is mirrored for reading convenience — collapsed by default, images stripped, always credited and linked to the original. If a publisher asks us not to mirror, we don't: their stories show the AI summary and link out.</li>
+      </ul>
+    </div>
+  </section>
 
-    <h2>A note on scores and data</h2>
-    <p>
-      Scores, summaries, and "why it matters" notes are AI-generated heuristics designed
-      to help you skim — they are not editorial judgment, investment advice, or a
-      substitute for reading the original reporting. Facility data from public
-      directories can lag reality. Always follow the source links for the full picture.
-    </p>
-  </article>
+  <!-- Good to know -->
+  <section class="about-section">
+    <h2 class="about-section-title">Good to know</h2>
+    <div class="about-notes">
+      <div class="about-note panel">
+        <p class="about-note-title"><Icon name="info" size={14} /> AI-generated, not editorial</p>
+        <p class="about-note-text">
+          Scores, summaries and "why it matters" notes are AI heuristics to help you skim — not
+          editorial judgment or investment advice. Always follow the source link for the full picture.
+        </p>
+      </div>
+      <div class="about-note panel">
+        <p class="about-note-title"><Icon name="globe" size={14} /> Times are local to you</p>
+        <p class="about-note-text">
+          All timestamps render in your device's timezone. A muted "—" on the timeline means the
+          source published only a date, so no exact time exists.
+        </p>
+      </div>
+      <div class="about-note panel">
+        <p class="about-note-title"><Icon name="bookmark" size={14} /> Private by design</p>
+        <p class="about-note-text">
+          Bookmarks live in your browser's local storage. There is no account system and no
+          analytics tracker on this site.
+        </p>
+      </div>
+      <div class="about-note panel">
+        <p class="about-note-title"><Icon name="flag" size={14} /> Spot an error?</p>
+        <p class="about-note-text">
+          Facility data from public directories can lag reality. Every project page has a
+          "Report a data issue" link, or open an issue on
+          <a href="https://github.com/Sakae28/DataCenter-Atlas/issues">GitHub</a>.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <p class="about-foot">
+    <a href={`${base}/rss.xml`}><Icon name="rss" size={13} /> Subscribe via RSS</a>
+  </p>
 </Base>

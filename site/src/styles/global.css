@@ -1282,30 +1282,320 @@ a.chip.company:hover {
 
 /* ---------- About page ---------- */
 
-.about {
-  padding: 28px 32px;
-  /* Prose page — cap the card so paragraphs keep a readable measure. */
-  max-width: 880px;
+/* Hero: mission statement with a soft emerald glow in the top-right corner. */
+.about-hero {
+  padding: 42px 46px 38px;
+  margin-bottom: 14px;
+  background:
+    radial-gradient(90% 150% at 100% 0%, var(--accent-soft) 0%, rgba(255, 255, 255, 0) 55%),
+    var(--surface);
 }
 
-.about h2 {
-  font-size: 16px;
-  margin: 24px 0 8px;
+.about-kicker {
+  margin: 0 0 10px;
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--accent-deep);
 }
 
-.about h2:first-child {
-  margin-top: 0;
+.about-headline {
+  margin: 0 0 14px;
+  font-size: 31px;
+  font-weight: 800;
+  letter-spacing: -0.025em;
+  line-height: 1.2;
+  max-width: 26ch;
 }
 
-.about p,
-.about ul {
+.about-lede {
+  margin: 0;
+  font-size: 15.5px;
+  line-height: 1.65;
   color: var(--text-secondary);
-  font-size: 14.5px;
-  margin: 0 0 12px;
+  max-width: 64ch;
 }
 
-.about ul {
-  padding-left: 22px;
+.about-cta {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 22px;
+}
+
+/* Live stats band. */
+.about-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 12px;
+  margin-bottom: 30px;
+}
+
+.about-stat {
+  padding: 16px 18px;
+}
+
+.about-stat-value {
+  margin: 0;
+  font-size: 25px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  font-variant-numeric: tabular-nums;
+}
+
+.about-stat-unit {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text-faint);
+}
+
+.about-stat-label {
+  margin: 2px 0 0;
+  font-size: 12px;
+  color: var(--text-faint);
+  line-height: 1.4;
+}
+
+/* Section headings reuse the signature green accent bar. */
+.about-section {
+  margin-bottom: 30px;
+}
+
+.about-section-title {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  margin: 0 0 14px;
+  font-size: 17px;
+  font-weight: 750;
+  letter-spacing: -0.01em;
+}
+
+.about-section-title::before {
+  content: "";
+  width: 4px;
+  height: 15px;
+  border-radius: 2px;
+  background: var(--accent);
+  flex-shrink: 0;
+}
+
+/* Feature cards linking to each section of the site. */
+.about-features {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 12px;
+}
+
+.about-feature {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  padding: 18px 20px 14px;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+
+.about-feature:hover {
+  border-color: var(--accent);
+  transform: translateY(-1px);
+  color: inherit;
+}
+
+.about-feature-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 9px;
+  background: var(--accent-soft);
+  color: var(--accent-deep);
+}
+
+.about-feature-name {
+  font-size: 14.5px;
+  font-weight: 700;
+}
+
+.about-feature-text {
+  flex: 1;
+  font-size: 12.5px;
+  line-height: 1.55;
+  color: var(--text-secondary);
+}
+
+.about-feature-cta {
+  font-size: 11.5px;
+  font-weight: 650;
+  color: var(--accent-deep);
+}
+
+/* "How the digest is made": numbered steps. */
+.about-steps {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 12px;
+}
+
+.about-step {
+  padding: 18px 20px;
+}
+
+.about-step-num {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  border-radius: 8px;
+  background: var(--accent-soft);
+  color: var(--accent-deep);
+  font-size: 13px;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+}
+
+.about-step-title {
+  margin: 10px 0 4px;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.about-step-text {
+  margin: 0;
+  font-size: 12.5px;
+  line-height: 1.55;
+  color: var(--text-secondary);
+}
+
+/* Coverage chips. */
+.about-coverage {
+  padding: 18px 20px;
+}
+
+.about-region-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.about-region-chip {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+  padding: 6px 14px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--bg);
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.about-region-note {
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--text-faint);
+}
+
+.about-coverage-note {
+  margin: 12px 0 0;
+  font-size: 12.5px;
+  line-height: 1.6;
+  color: var(--text-faint);
+}
+
+/* Data-definitions prose card. */
+.about-prose {
+  padding: 20px 26px;
+}
+
+.about-prose ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.about-prose li {
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: var(--text-secondary);
+  margin-bottom: 10px;
+}
+
+.about-prose li:last-child {
+  margin-bottom: 0;
+}
+
+.about-prose li strong {
+  color: var(--text);
+}
+
+/* "Good to know" note cards. */
+.about-notes {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 12px;
+}
+
+.about-note {
+  padding: 16px 18px;
+}
+
+.about-note-title {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  margin: 0 0 6px;
+  font-size: 13.5px;
+  font-weight: 750;
+}
+
+.about-note-title svg {
+  color: var(--accent-deep);
+  flex-shrink: 0;
+}
+
+.about-note-text {
+  margin: 0;
+  font-size: 12.5px;
+  line-height: 1.6;
+  color: var(--text-secondary);
+}
+
+.about-note-text a {
+  color: var(--accent-deep);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.about-foot {
+  margin: 4px 0 0;
+}
+
+.about-foot a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--text-faint);
+}
+
+.about-foot a:hover {
+  color: var(--accent);
+}
+
+@media (max-width: 640px) {
+  .about-hero {
+    padding: 28px 20px 26px;
+  }
+
+  .about-headline {
+    font-size: 24px;
+  }
 }
 
 /* ---------- Companies directory ---------- */
