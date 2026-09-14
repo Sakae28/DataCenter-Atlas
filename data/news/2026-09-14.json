@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "generated_at": "2026-09-14T07:34:55Z",
+  "generated_at": "2026-09-14T23:24:25Z",
   "hot": [
     "2026-09-14-6eaa10",
     "2026-09-14-9f4605",
@@ -9,118 +9,6 @@
     "2026-09-14-12a58b"
   ],
   "stories": [
-    {
-      "id": "2026-09-14-6266a0",
-      "title": "Data centre boom to put pressure on interest rates, housing",
-      "summary": "The rapid buildout of data centres is emerging as a macroeconomic factor that could put upward pressure on interest rates and housing markets. Massive capital expenditure on AI infrastructure is competing for financing and construction resources, with spillover effects on broader credit conditions and property costs. Analysts warn the investment wave could tighten labour and materials markets in affected economies.",
-      "why_it_matters": "Framing data centres as a driver of rates and housing costs moves the sector from a tech story into mainstream economic policy territory. Households and businesses could feel the boom through pricier mortgages and rents, inviting political scrutiny of AI infrastructure spending. Policymakers may face pressure to manage the sector's footprint the way they do other capital-intensive industries.",
-      "score": 75,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "investment",
-        "economy",
-        "power",
-        "capacity"
-      ],
-      "published_at": "2026-09-14T05:58:42Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/policy/economy/data-centre-boom-to-put-pressure-on-interest-rates-housing-20260914-p60x35",
-          "type": "html-list"
-        }
-      ],
-      "content": "New modelling predicts the data centre building boom will tip hundreds of billions of dollars into the economy over the next four years and lure workers away from home building, fuelling inflation and the housing shortage and keeping pressure on the Reserve Bank to raise interest rates.\n\nBarrenjoey chief economist Jo Masters is forecasting total investment in the data centre build-out will hit $110 billion by 2030, triggering an increase of up to $98 billion in gross domestic product and supporting as many as 155,000 jobs during the boom’s 2028 peak.\n\nLoading...",
-      "content_url": "https://www.afr.com/policy/economy/data-centre-boom-to-put-pressure-on-interest-rates-housing-20260914-p60x35"
-    },
-    {
-      "id": "2026-09-14-df789d",
-      "title": "Data centre boom should create more local value, say industry experts",
-      "summary": "Industry experts say Malaysia's data centre boom should be judged not only by capacity added but by the local capabilities, companies and supply chains it creates. Speaking at an industry event, they argued that without deliberate policy, most value from the investment wave could flow to foreign operators and equipment suppliers. They called for measures to build domestic participation in construction, operations and technology.",
-      "why_it_matters": "The critique adds pressure on Kuala Lumpur to attach local-content and capability-building conditions to data centre approvals, which could reshape project economics for foreign investors. For Malaysian firms, it represents a push to move up the value chain from land and power provision into higher-margin services. How the government responds will determine whether the boom leaves a lasting industrial legacy.",
-      "score": 72,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "investment",
-        "malaysia",
-        "economy",
-        "supply-chain"
-      ],
-      "published_at": "2026-09-14T05:57:40Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/817969",
-          "type": "html-list"
-        }
-      ],
-      "content": "KUALA LUMPUR (Sept 14): Malaysia’s data centre boom should be measured not only by the amount of capacity, but also by local capabilities, companies and supply chains created from these investments, said industry experts.\n\nAt a panel session at the Data Centre Nexus (DCN) 2026 conference, Gading Kencana Sdn Bhd managing director Datuk Dr Guntor Tobeng said Malaysia should look beyond providing land, electricity and water to data centres, and seek greater participation by local companies across the renewable energy and infrastructure value chain.\n\n“Because these are enormous investments. If all we do is to provide land, electricity and water, while most of the technology, engineering and high-value services are important, then Malaysia captures only part of the opportunity,” said Guntor.\n\nHe said this could include renewable energy developers, engineering, procurement and construction (EPC) companies, battery storage providers, energy management systems, engineering consultants and operations and maintenance companies.\n\nHyperscalers could also bring Malaysian companies into projects earlier, share technical requirements and develop standards with them, he said.\n\nPrinceton Digital Group head of energy and environment Michael Martin said data centre operators should ensure that the cost of developing infrastructure does not fall on ordinary people.\n\nHe said relying on solar power would also be challenging, given the amount of land and battery storage required to provide sufficient energy.\n\nInstead, power infrastructure should contribute to the wider electricity system rather than being designed to benefit only individual data centres.\n\nMartin also pointed to the potential for technologies, such as advanced geothermal power, to form part of the energy mix.\n\nThe panel also highlighted increasing artificial intelligence (AI) workloads, with Digital Realty's Asia Pacific head of solutions engineering and design, Wayne Heywood, saying rack power density has risen sharply, from around five kilowatts (kW) to 10kW previously to as high as 70-107kW.\n\nRack power density is the amount of electricity consumed by IT equipment in a single server cabinet.\n\nHe said the higher density increases power, heat and water requirements, and is driving a shift in cooling technology.\n\nDirect-to-chip liquid cooling is expected to become the main method in five to seven years, Heywood said.\n\nHe added that Malaysia’s tropical climate presents additional challenges for cooling systems, meaning technologies need to be adapted to local conditions.\n\nGuntor said solar should be the foundation for renewable energy for data centres, supported by battery storage, other generation sources and the grid.\n\nNorthern Solar Holdings Bhd (KL:NORTHERN) operations director Wong Sang Sing said solar alone could not serve as a complete power solution for hyperscale data centres, which needed continuous power.\n\nHe said the focus should be on an integrated energy portfolio covering renewable power, storage and grid infrastructure.\n\nThe session was focused on \"Green Solutions for Sustainable Data Centre Operations\" and moderated by Datuk Phang Ah Tong, a board member of the Malaysian Investment Development Authority (Mida).\n\nDCN 2026, themed \"Advancing AI‑driven Digital Infrastructure & Sustainable Ecosystem\", is organised by Mida.\n\nEdited BySyed Azahedi\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/817969"
-    },
-    {
-      "id": "2026-09-14-9f4605",
-      "title": "Over 40 applications to set up, expand data centres received by govt's task force this year — Johari Ghani",
-      "summary": "Malaysia's Data Centre Task Force has received more than 40 applications this year to establish or expand data centre operations, according to minister Johari Ghani. The volume of applications underscores sustained investor interest even as the government applies greater scrutiny to new projects. The task force was set up to coordinate approvals and manage the sector's demands on power and water resources.",
-      "why_it_matters": "The application pipeline confirms Malaysia remains a top regional destination for data centre capital despite tighter vetting. For investors and operators, the task force's gatekeeping role means approval timelines and conditions will increasingly shape project economics. The numbers also give the government leverage to demand more local value and resource efficiency from applicants.",
-      "score": 84,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "investment",
-        "regulation",
-        "capacity",
-        "malaysia"
-      ],
-      "published_at": "2026-09-14T03:40:03Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/817943",
-          "type": "html-list"
-        }
-      ],
-      "content": "KUALA LUMPUR (Sept 14): The Data Centre Task Force (DCTF) has received more than 40 applications to establish or expand data-centre operations in Malaysia this year, reflecting continued investment interest in the country’s digital infrastructure industry.\n\nInvestment, Trade and Industry Minister Datuk Seri Johari Abdul Ghani said each proposal is considered not only in terms of its investment value, but also its requirements for energy, water and connectivity, as well as its potential contribution to Malaysia’s long-term economic and digital aspirations.\n\n“As the scale and pace of investment increase, our priorities must evolve alongside the industry.\n\n“The next phase is about what that capacity delivers: artificial intelligence (AI) adoption, home-grown innovation, skilled talent and higher-value jobs,” he said in his keynote address at the Data Centre Nexus 2026 here on Monday.\n\nThe address was delivered on his behalf by Deputy Investment, Trade and Industry Minister Sim Tze Tzin.\n\nJohari said the government has strengthened the role of the DCTF — co-chaired by the Ministry of Investment, Trade and Industry (Miti) and the Ministry of Digital — as an important platform to facilitate a more coordinated approach towards the industry.\n\nHe said Malaysia is setting clear standards for power and water usage efficiency and, going a step further than many others in the region, for carbon usage efficiency.\n\n“Through the task force, the Energy Commission and the National Water Services Commission are also developing the relevant frameworks and guidelines to support the sustainable development of the data-centre industry.\n\n“As the industry continues to grow, we want to see new capacity supported by operators that are committed to renewable energy, greater efficiency and responsible resource management, while adopting more sustainable solutions across their operations,” he said.\n\nJohari said Malaysia approved RM218.5 billion in total investments across various economic sectors in the first half of 2026, almost 12% higher than the corresponding period last year.\n\nHe said the services sector accounted for the largest share at RM149.6 billion, or 68.5% of the total, while the information and communications sub-sector, which includes data centres, recorded RM103.3 billion in approved investments.\n\nData-centre and cloud-computing projects alone accounted for RM95.8 billion, or close to 44% of all approved investments during the period, while data centre-related investment approvals have reached RM385.7 billion since 2021, he added.\n\n*Uploaded by Tham Yek Lee*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/817943"
-    },
-    {
-      "id": "2026-09-14-dcf8c6",
-      "title": "My Say: For sustainable data centre growth, upgrade state capacity",
-      "summary": "An opinion piece argues that Malaysia's early celebration of data centre investments as landmark foreign direct investment achievements needs to give way to a more critical assessment of their actual benefits. The author contends that converting palm oil estates and industrial land into mega facilities promised economic uplift for surrounding communities, but the realised gains in jobs and local value have been limited. The column urges upgrading state capacity to manage the sector sustainably and capture more of its benefits.",
-      "why_it_matters": "The piece reflects a shift in Malaysian public discourse from welcoming data centres at any cost to questioning what the country gets in return. That sentiment could translate into stricter approval conditions, resource pricing or local-content requirements that change project economics. Operators should read it as an early signal of the political environment they will operate in.",
-      "score": 68,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "regulation",
-        "investment",
-        "policy",
-        "malaysia"
-      ],
-      "published_at": "2026-09-14T03:30:00Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/817949",
-          "type": "html-list"
-        }
-      ],
-      "content": "This article first appeared in The Edge Malaysia Weekly on September 14, 2026 - September 20, 2026\n\nIt was not long ago that announcements of data centre investment were touted as a monumental national achievement, with billions of dollars framed as foreign direct investments. When land opened up for the construction of facilities, the economic argument was that sleepy palm oil estates or unutilised industrial land could now benefit from mega infrastructure promising direct impact on the surrounding communities.\n\nBetween 2021 and mid-2025 alone, 143 data centre and cloud computing projects worth RM144.4 billion were approved. This period overlapped with the zealous excitement over the potential of artificial intelligence and the next generation of computing power. For the tech giants, Malaysia’s land availability, accommodating energy infrastructure, generous tax incentives and relatively lower costs seemed like the perfect recipe. Johor alone has grown into one of the largest emerging AI infrastructure clusters in the world.\n\nThe construction demand has been so encouraging that land parcels in major tech parks — such as those in Johor — are fully booked, including for their next phases. Naturally, more small- to mid-scale developments are moving to non-industrial areas, including near neighbourhoods. This trend is evident in Petaling Jaya, Selangor, as well as the now-cancelled project in Kota Damansara and the Iskandar Puteri project in Johor, which required a stop-work order.\n\nIt is only proper for projects of this scale to acknowledge community feedback, which highlights concerns over the extent of the state’s approval discretion, particularly regarding environmental safeguards. Equally concerning is whether there has been a standardised assessment of our local resource resiliency against the potential economic upside, given the varying technological sophistication of these projects.\n\nIt was unthinkable then that a data centre would draw protest over pollution concerns, yet those concerns proved serious enough for the developer to step in and remedy the situation.\n\nThis increased scrutiny of data centres led to the acknowledgement by treasury secretary-general Tan Sri Johan Mahmood Merican that even large capital investments cannot be presumed to generate sufficient spillovers.\n\nThe government has since been prompted to change its approach to evaluating incoming projects, moving from the singular emphasis on the quantum of investments to a “scorecard” assessment of economic amplifiers and the impact on the country’s energy and water stress. Achieving these objectives, however, may require the type of state actions and capacity that is understated by the proposed “scorecard” approach. It requires the government to incentivise development of backward linkages in water and energy solutions, to steer prominent industry players to deploy state-of-the-art cooling solutions, and to put in place a regulatory framework that ensures transparency of water and energy usage by data centres.\n\nAccording to a July 2026 parliamentary reply, data centre electricity usage currently accounts for about 7% of total electricity consumption in Peninsular Malaysia, against a peak demand set to reach 33.5gw by 2035. The government estimates that data centres alone will account for up to 31% of that peak by 2035, or roughly 10gw.\n\nWater reserve margins are similarly being tested. Although data centre water usage remains a small share of the total today, projections show that demand is rising sharply to 384 million litres per day in Johor (almost a fifth of the state’s current total water consumption) and 73.88 MLD in Selangor by 2030.\n\nIn fact, the rationing may have already begun. Of the 808 MLD requested by 101 data centres across Selangor, Johor and Negeri Sembilan, the National Water Services Commission approved fewer than 18% of applications, equivalent to just 142 MLD.\n\nCertainly, lessons have been learnt and steps are being taken to address pain points revealed over the course of this rush for computing power.\n\nTenaga Nasional Bhd (KL:TENAGA) is projected to spend a further RM78 billion between 2026 and 2030 on grid expansion, as analysts estimate the country may need as much as 12gw of new generation capacity by 2031. Some of that demand is being met through the Corporate Renewable Energy Supply Scheme (CRESS), which allows data centres to source renewable energy (RE) directly from solutions providers.\n\nDayone, a Singapore-headquartered data centre developer and operator, is reportedly an early adopter, and Petroliam Nasional Bhd (PETRONAS)-owned Gentari, Gamuda Bhd (KL:GAMUDA) and Tenaga subsidiaries are slated to be involved as RE developers.\n\nIn Johor, the government announced multiple water treatment plant developments to meet projected data centre demand of up to 440 MLD, as the state’s total water demand is projected to reach 3,000 MLD by 2035.\n\nWater reclamation solutions are also being developed through joint ventures between state-linked entities, Johor Special Water and Indah Water Konsortium Sdn Bhd, together with data centre operators such as AirTrunk and Bridge Data Centres. Alongside expanding supply, Johor is also acting on the demand side, halting approvals for Tier-1 and Tier-2 data centres over water overuse concerns and holding back water-cooled projects until at least mid-2027.\n\nAmbition and capacity are not lacking in the New Industrial Master Plan 2030 and National Energy Transition Roadmap 2023, which aim for a structural, sustainable transformation, high-waged jobs and greater RE share in the energy mix.\n\nMeanwhile, the Ministry of Investment, Trade and Industry has taken a step in the right direction by linking incentives to water and power usage effectiveness.\n\nYes, the technological and financial barriers to adopting liquid cooling are high. But the potential return justifies the effort, as liquid cooling can use up to 91% less water and 50% less energy than conventional systems.\n\nGiven that return, negotiating for technology transfer, or at least licensing, from the technology owners is worth the ambitious ask. The scale of the water and energy challenge means Malaysia should also push for more of its local players to be part of that supply chain. Selangor has already set a marker here by mandating a 30% local content requirement as a share of capital expenditure across the data centre value chain.\n\nSustainably developing the ecosystem would also mean securing greater public buy-in through increased transparency and accountability.\n\nSince operating such infrastructure extracts a high amount of public resources and may potentially affect the inherent responsibility of the state to provide basic services to the people, it is a reasonable expectation for the area residents to not only be consulted, but also given a formal channel to propose an appropriate “return of value” towards community development, as has been practised in several counties hosting some of the highest numbers of data centres in the US.\n\n*Hafidzi Razali is the founder and CEO of Strategic Counsel (stcounsel.com), a public affairs and policy communications advisory with a network presence in Kuala Lumpur, Singapore and Jakarta, Indonesia. Audi Ali is a policy fellow at Strategic Counsel with an industrial policy and sustainability background across government and international organisations.*\n\nSave by subscribing to us for your print and/or digital copy.\n\n**P/S: The Edge is also available on\n      Apple's App Store and \n      Android's Google Play.**\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/817949"
-    },
     {
       "id": "2026-09-14-29614e",
       "title": "OpenAI says it is in talks to train models in Australia",
@@ -366,6 +254,62 @@
       "content_url": "https://datacenternews.asia/story/spark-launches-auckland-data-centre-interconnect-service"
     },
     {
+      "id": "2026-09-14-6266a0",
+      "title": "Data centre boom to put pressure on interest rates, housing",
+      "summary": "The rapid buildout of data centres is emerging as a macroeconomic factor that could put upward pressure on interest rates and housing markets. Massive capital expenditure on AI infrastructure is competing for financing and construction resources, with spillover effects on broader credit conditions and property costs. Analysts warn the investment wave could tighten labour and materials markets in affected economies.",
+      "why_it_matters": "Framing data centres as a driver of rates and housing costs moves the sector from a tech story into mainstream economic policy territory. Households and businesses could feel the boom through pricier mortgages and rents, inviting political scrutiny of AI infrastructure spending. Policymakers may face pressure to manage the sector's footprint the way they do other capital-intensive industries.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "economy",
+        "power",
+        "capacity"
+      ],
+      "published_at": "2026-09-14T05:58:42Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/policy/economy/data-centre-boom-to-put-pressure-on-interest-rates-housing-20260914-p60x35",
+          "type": "html-list"
+        }
+      ],
+      "content": "New modelling predicts the data centre building boom will tip hundreds of billions of dollars into the economy over the next four years and lure workers away from home building, fuelling inflation and the housing shortage and keeping pressure on the Reserve Bank to raise interest rates.\n\nBarrenjoey chief economist Jo Masters is forecasting total investment in the data centre build-out will hit $110 billion by 2030, triggering an increase of up to $98 billion in gross domestic product and supporting as many as 155,000 jobs during the boom’s 2028 peak.\n\nLoading...",
+      "content_url": "https://www.afr.com/policy/economy/data-centre-boom-to-put-pressure-on-interest-rates-housing-20260914-p60x35"
+    },
+    {
+      "id": "2026-09-14-df789d",
+      "title": "Data centre boom should create more local value, say industry experts",
+      "summary": "Industry experts say Malaysia's data centre boom should be judged not only by capacity added but by the local capabilities, companies and supply chains it creates. Speaking at an industry event, they argued that without deliberate policy, most value from the investment wave could flow to foreign operators and equipment suppliers. They called for measures to build domestic participation in construction, operations and technology.",
+      "why_it_matters": "The critique adds pressure on Kuala Lumpur to attach local-content and capability-building conditions to data centre approvals, which could reshape project economics for foreign investors. For Malaysian firms, it represents a push to move up the value chain from land and power provision into higher-margin services. How the government responds will determine whether the boom leaves a lasting industrial legacy.",
+      "score": 72,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "malaysia",
+        "economy",
+        "supply-chain"
+      ],
+      "published_at": "2026-09-14T05:57:40Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817969",
+          "type": "html-list"
+        }
+      ],
+      "content": "KUALA LUMPUR (Sept 14): Malaysia’s data centre boom should be measured not only by the amount of capacity, but also by local capabilities, companies and supply chains created from these investments, said industry experts.\n\nAt a panel session at the Data Centre Nexus (DCN) 2026 conference, Gading Kencana Sdn Bhd managing director Datuk Dr Guntor Tobeng said Malaysia should look beyond providing land, electricity and water to data centres, and seek greater participation by local companies across the renewable energy and infrastructure value chain.\n\n“Because these are enormous investments. If all we do is to provide land, electricity and water, while most of the technology, engineering and high-value services are important, then Malaysia captures only part of the opportunity,” said Guntor.\n\nHe said this could include renewable energy developers, engineering, procurement and construction (EPC) companies, battery storage providers, energy management systems, engineering consultants and operations and maintenance companies.\n\nHyperscalers could also bring Malaysian companies into projects earlier, share technical requirements and develop standards with them, he said.\n\nPrinceton Digital Group head of energy and environment Michael Martin said data centre operators should ensure that the cost of developing infrastructure does not fall on ordinary people.\n\nHe said relying on solar power would also be challenging, given the amount of land and battery storage required to provide sufficient energy.\n\nInstead, power infrastructure should contribute to the wider electricity system rather than being designed to benefit only individual data centres.\n\nMartin also pointed to the potential for technologies, such as advanced geothermal power, to form part of the energy mix.\n\nThe panel also highlighted increasing artificial intelligence (AI) workloads, with Digital Realty's Asia Pacific head of solutions engineering and design, Wayne Heywood, saying rack power density has risen sharply, from around five kilowatts (kW) to 10kW previously to as high as 70-107kW.\n\nRack power density is the amount of electricity consumed by IT equipment in a single server cabinet.\n\nHe said the higher density increases power, heat and water requirements, and is driving a shift in cooling technology.\n\nDirect-to-chip liquid cooling is expected to become the main method in five to seven years, Heywood said.\n\nHe added that Malaysia’s tropical climate presents additional challenges for cooling systems, meaning technologies need to be adapted to local conditions.\n\nGuntor said solar should be the foundation for renewable energy for data centres, supported by battery storage, other generation sources and the grid.\n\nNorthern Solar Holdings Bhd (KL:NORTHERN) operations director Wong Sang Sing said solar alone could not serve as a complete power solution for hyperscale data centres, which needed continuous power.\n\nHe said the focus should be on an integrated energy portfolio covering renewable power, storage and grid infrastructure.\n\nThe session was focused on \"Green Solutions for Sustainable Data Centre Operations\" and moderated by Datuk Phang Ah Tong, a board member of the Malaysian Investment Development Authority (Mida).\n\nDCN 2026, themed \"Advancing AI‑driven Digital Infrastructure & Sustainable Ecosystem\", is organised by Mida.\n\nEdited BySyed Azahedi\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817969"
+    },
+    {
       "id": "2026-09-14-32b5be",
       "title": "Samsung, SK Hynix reject US$18 billion power prepayment to fund new grids: reports",
       "summary": "Local media says firms concerned about committing such large sums upfront given uncertainty",
@@ -456,6 +400,62 @@
       ],
       "content": "Malaysian data center operators could tap offshore US dollar bond market for funding soon as local banks get more selective amid larger deal sizes, according to S&P Global Ratings. But, Malaysian banks are not approaching their sectoral or single borrower exposure yet because data center exposure only accounts for 1 per cent of total loans currently, Nikita Anand reportedly said recently. Nikita, who’s the director of financial institutions ratings was speaking during S&P Global Ratings’ Spotlight on Emerging Markets webinar recently.\n\nHowever, he cautioned smaller banks with smaller capital base might face constraints in lending should their exposure nears the exposure limits.\n\nAccording to the credit ratings agency, Malaysia’s overall data center capacity is projected to more than triple by 2030, requiring over US$20 billion in investment over the following three years.",
       "content_url": "https://w.media/malaysia-could-tap-dollar-bonds-as-local-banks-tighten-data-center-lending-sp/"
+    },
+    {
+      "id": "2026-09-14-9f4605",
+      "title": "Over 40 applications to set up, expand data centres received by govt's task force this year — Johari Ghani",
+      "summary": "Malaysia's Data Centre Task Force has received more than 40 applications this year to establish or expand data centre operations, according to minister Johari Ghani. The volume of applications underscores sustained investor interest even as the government applies greater scrutiny to new projects. The task force was set up to coordinate approvals and manage the sector's demands on power and water resources.",
+      "why_it_matters": "The application pipeline confirms Malaysia remains a top regional destination for data centre capital despite tighter vetting. For investors and operators, the task force's gatekeeping role means approval timelines and conditions will increasingly shape project economics. The numbers also give the government leverage to demand more local value and resource efficiency from applicants.",
+      "score": 84,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "regulation",
+        "capacity",
+        "malaysia"
+      ],
+      "published_at": "2026-09-14T03:40:03Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817943",
+          "type": "html-list"
+        }
+      ],
+      "content": "KUALA LUMPUR (Sept 14): The Data Centre Task Force (DCTF) has received more than 40 applications to establish or expand data-centre operations in Malaysia this year, reflecting continued investment interest in the country’s digital infrastructure industry.\n\nInvestment, Trade and Industry Minister Datuk Seri Johari Abdul Ghani said each proposal is considered not only in terms of its investment value, but also its requirements for energy, water and connectivity, as well as its potential contribution to Malaysia’s long-term economic and digital aspirations.\n\n“As the scale and pace of investment increase, our priorities must evolve alongside the industry.\n\n“The next phase is about what that capacity delivers: artificial intelligence (AI) adoption, home-grown innovation, skilled talent and higher-value jobs,” he said in his keynote address at the Data Centre Nexus 2026 here on Monday.\n\nThe address was delivered on his behalf by Deputy Investment, Trade and Industry Minister Sim Tze Tzin.\n\nJohari said the government has strengthened the role of the DCTF — co-chaired by the Ministry of Investment, Trade and Industry (Miti) and the Ministry of Digital — as an important platform to facilitate a more coordinated approach towards the industry.\n\nHe said Malaysia is setting clear standards for power and water usage efficiency and, going a step further than many others in the region, for carbon usage efficiency.\n\n“Through the task force, the Energy Commission and the National Water Services Commission are also developing the relevant frameworks and guidelines to support the sustainable development of the data-centre industry.\n\n“As the industry continues to grow, we want to see new capacity supported by operators that are committed to renewable energy, greater efficiency and responsible resource management, while adopting more sustainable solutions across their operations,” he said.\n\nJohari said Malaysia approved RM218.5 billion in total investments across various economic sectors in the first half of 2026, almost 12% higher than the corresponding period last year.\n\nHe said the services sector accounted for the largest share at RM149.6 billion, or 68.5% of the total, while the information and communications sub-sector, which includes data centres, recorded RM103.3 billion in approved investments.\n\nData-centre and cloud-computing projects alone accounted for RM95.8 billion, or close to 44% of all approved investments during the period, while data centre-related investment approvals have reached RM385.7 billion since 2021, he added.\n\n*Uploaded by Tham Yek Lee*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817943"
+    },
+    {
+      "id": "2026-09-14-dcf8c6",
+      "title": "My Say: For sustainable data centre growth, upgrade state capacity",
+      "summary": "An opinion piece argues that Malaysia's early celebration of data centre investments as landmark foreign direct investment achievements needs to give way to a more critical assessment of their actual benefits. The author contends that converting palm oil estates and industrial land into mega facilities promised economic uplift for surrounding communities, but the realised gains in jobs and local value have been limited. The column urges upgrading state capacity to manage the sector sustainably and capture more of its benefits.",
+      "why_it_matters": "The piece reflects a shift in Malaysian public discourse from welcoming data centres at any cost to questioning what the country gets in return. That sentiment could translate into stricter approval conditions, resource pricing or local-content requirements that change project economics. Operators should read it as an early signal of the political environment they will operate in.",
+      "score": 68,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "regulation",
+        "investment",
+        "policy",
+        "malaysia"
+      ],
+      "published_at": "2026-09-14T03:30:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817949",
+          "type": "html-list"
+        }
+      ],
+      "content": "This article first appeared in The Edge Malaysia Weekly on September 14, 2026 - September 20, 2026\n\nIt was not long ago that announcements of data centre investment were touted as a monumental national achievement, with billions of dollars framed as foreign direct investments. When land opened up for the construction of facilities, the economic argument was that sleepy palm oil estates or unutilised industrial land could now benefit from mega infrastructure promising direct impact on the surrounding communities.\n\nBetween 2021 and mid-2025 alone, 143 data centre and cloud computing projects worth RM144.4 billion were approved. This period overlapped with the zealous excitement over the potential of artificial intelligence and the next generation of computing power. For the tech giants, Malaysia’s land availability, accommodating energy infrastructure, generous tax incentives and relatively lower costs seemed like the perfect recipe. Johor alone has grown into one of the largest emerging AI infrastructure clusters in the world.\n\nThe construction demand has been so encouraging that land parcels in major tech parks — such as those in Johor — are fully booked, including for their next phases. Naturally, more small- to mid-scale developments are moving to non-industrial areas, including near neighbourhoods. This trend is evident in Petaling Jaya, Selangor, as well as the now-cancelled project in Kota Damansara and the Iskandar Puteri project in Johor, which required a stop-work order.\n\nIt is only proper for projects of this scale to acknowledge community feedback, which highlights concerns over the extent of the state’s approval discretion, particularly regarding environmental safeguards. Equally concerning is whether there has been a standardised assessment of our local resource resiliency against the potential economic upside, given the varying technological sophistication of these projects.\n\nIt was unthinkable then that a data centre would draw protest over pollution concerns, yet those concerns proved serious enough for the developer to step in and remedy the situation.\n\nThis increased scrutiny of data centres led to the acknowledgement by treasury secretary-general Tan Sri Johan Mahmood Merican that even large capital investments cannot be presumed to generate sufficient spillovers.\n\nThe government has since been prompted to change its approach to evaluating incoming projects, moving from the singular emphasis on the quantum of investments to a “scorecard” assessment of economic amplifiers and the impact on the country’s energy and water stress. Achieving these objectives, however, may require the type of state actions and capacity that is understated by the proposed “scorecard” approach. It requires the government to incentivise development of backward linkages in water and energy solutions, to steer prominent industry players to deploy state-of-the-art cooling solutions, and to put in place a regulatory framework that ensures transparency of water and energy usage by data centres.\n\nAccording to a July 2026 parliamentary reply, data centre electricity usage currently accounts for about 7% of total electricity consumption in Peninsular Malaysia, against a peak demand set to reach 33.5gw by 2035. The government estimates that data centres alone will account for up to 31% of that peak by 2035, or roughly 10gw.\n\nWater reserve margins are similarly being tested. Although data centre water usage remains a small share of the total today, projections show that demand is rising sharply to 384 million litres per day in Johor (almost a fifth of the state’s current total water consumption) and 73.88 MLD in Selangor by 2030.\n\nIn fact, the rationing may have already begun. Of the 808 MLD requested by 101 data centres across Selangor, Johor and Negeri Sembilan, the National Water Services Commission approved fewer than 18% of applications, equivalent to just 142 MLD.\n\nCertainly, lessons have been learnt and steps are being taken to address pain points revealed over the course of this rush for computing power.\n\nTenaga Nasional Bhd (KL:TENAGA) is projected to spend a further RM78 billion between 2026 and 2030 on grid expansion, as analysts estimate the country may need as much as 12gw of new generation capacity by 2031. Some of that demand is being met through the Corporate Renewable Energy Supply Scheme (CRESS), which allows data centres to source renewable energy (RE) directly from solutions providers.\n\nDayone, a Singapore-headquartered data centre developer and operator, is reportedly an early adopter, and Petroliam Nasional Bhd (PETRONAS)-owned Gentari, Gamuda Bhd (KL:GAMUDA) and Tenaga subsidiaries are slated to be involved as RE developers.\n\nIn Johor, the government announced multiple water treatment plant developments to meet projected data centre demand of up to 440 MLD, as the state’s total water demand is projected to reach 3,000 MLD by 2035.\n\nWater reclamation solutions are also being developed through joint ventures between state-linked entities, Johor Special Water and Indah Water Konsortium Sdn Bhd, together with data centre operators such as AirTrunk and Bridge Data Centres. Alongside expanding supply, Johor is also acting on the demand side, halting approvals for Tier-1 and Tier-2 data centres over water overuse concerns and holding back water-cooled projects until at least mid-2027.\n\nAmbition and capacity are not lacking in the New Industrial Master Plan 2030 and National Energy Transition Roadmap 2023, which aim for a structural, sustainable transformation, high-waged jobs and greater RE share in the energy mix.\n\nMeanwhile, the Ministry of Investment, Trade and Industry has taken a step in the right direction by linking incentives to water and power usage effectiveness.\n\nYes, the technological and financial barriers to adopting liquid cooling are high. But the potential return justifies the effort, as liquid cooling can use up to 91% less water and 50% less energy than conventional systems.\n\nGiven that return, negotiating for technology transfer, or at least licensing, from the technology owners is worth the ambitious ask. The scale of the water and energy challenge means Malaysia should also push for more of its local players to be part of that supply chain. Selangor has already set a marker here by mandating a 30% local content requirement as a share of capital expenditure across the data centre value chain.\n\nSustainably developing the ecosystem would also mean securing greater public buy-in through increased transparency and accountability.\n\nSince operating such infrastructure extracts a high amount of public resources and may potentially affect the inherent responsibility of the state to provide basic services to the people, it is a reasonable expectation for the area residents to not only be consulted, but also given a formal channel to propose an appropriate “return of value” towards community development, as has been practised in several counties hosting some of the highest numbers of data centres in the US.\n\n*Hafidzi Razali is the founder and CEO of Strategic Counsel (stcounsel.com), a public affairs and policy communications advisory with a network presence in Kuala Lumpur, Singapore and Jakarta, Indonesia. Audi Ali is a policy fellow at Strategic Counsel with an industrial policy and sustainability background across government and international organisations.*\n\nSave by subscribing to us for your print and/or digital copy.\n\n**P/S: The Edge is also available on\n      Apple's App Store and \n      Android's Google Play.**\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817949"
     },
     {
       "id": "2026-09-14-91ea4f",
