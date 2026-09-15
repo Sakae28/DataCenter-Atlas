@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T14:46:20Z",
+  "generated_at": "2026-09-15T23:19:08Z",
   "hot": [
     "2026-09-15-7299df",
     "2026-09-15-b30691",
@@ -35,63 +35,6 @@
       ],
       "content": "A new subsea cable system linking Thailand to the US is in the works.\n\nThe US Trade and Development Agency this week announced funding for a feasibility study to develop a trusted trans-Pacific submarine cable system that connects Thailand, through neighboring countries, to the United States.\n\nThe study will help Thailand’s state-owned telco, National Telecom (NT), assess the viability of the Thailand-US Submarine Cable System (THUS).\n\nThe 11,500-mile (18,507km) THUS project is designed to replace Thailand’s aging subsea cable connection to the US. The USTDA said the cable could connect Thailand to the US through up to five other Southeast Asian countries – Indonesia, Malaysia, the Philippines, Singapore, and Vietnam – while avoiding the South China Sea and “other routes that carry security risks.”\n\n“This activity will help ensure that the critical infrastructure connecting Thailand to the United States is built using trusted technology, protecting sensitive data from exploitation while advancing Thailand’s ambitions to become a regional digital hub,” said Thomas R. Hardy, USTDA’s deputy director. “By supporting the deployment of secure subsea cable systems, we are helping safeguard networks while opening new opportunities for U.S. companies to compete in one of the world’s fastest-growing digital markets.”\n\nNT has selected Florida-based APTelecom LLC to conduct the study. Full details of potential landing points and routes haven’t been shared.\n\n“THUS is a strategic investment in Thailand’s digital future. A modern, trusted, open-access submarine cable system connecting Thailand directly with the United States will strengthen the resilience and diversity of our international networks, support the growth of Thailand’s data center, cloud, and AI sectors, and expand affordable connectivity for a regional market of more than 600 million people,” said Colonel Sanpachai Huvanandana, president of National Telecom Public Company Limited. “USTDA’s support comes at a pivotal moment. By funding the upfront feasibility work, this grant accelerates THUS toward bankability and opens the door to collaboration with leading American technology providers, whose innovation and engineering expertise we look forward to bringing into the project.”\n\nThe Asia-America Gateway (AAG) system, led by a consortium including AT&T, NT, Globe, and others, dates back to 2009. It is the only subsea system linking Thailand to the US.",
       "content_url": "https://www.datacenterdynamics.com/en/news/us-trade-agency-to-fund-study-for-thailand-us-subsea-cable/"
-    },
-    {
-      "id": "2026-09-15-37c952",
-      "title": "Copyright Proposal Lets AI Giants Train for Free If Quotas Are Met",
-      "summary": "A Labor government copyright reform proposal shows artificial intelligence giants would be permitted to train their models on all online content without paying its creators if they struck deals with…",
-      "why_it_matters": "",
-      "score": 58,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "ai",
-        "regulation",
-        "copyright"
-      ],
-      "published_at": "2026-09-15T09:08:04Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/politics/federal/copyright-proposal-lets-ai-giants-train-for-free-if-quotas-are-met-20260915-p60xiw",
-          "type": "html-list"
-        }
-      ],
-      "content": "A Labor government copyright reform proposal shows artificial intelligence giants would be permitted to train their models on all online content without paying its creators if they struck deals with enough rights holders, even as the government insisted it would not back down on its pledge to protect creative industries.\n\nDocuments seen by *The Australian* *Financial Review* reveal copyright proposals under consideration by Attorney-General Michelle Rowland that would allow AI companies to train on “unprotected material online” provided they secure licensing deals with a minimum number of companies, effectively putting the onus on rights holders to “opt out”.\n\nLoading...",
-      "content_url": "https://www.afr.com/politics/federal/copyright-proposal-lets-ai-giants-train-for-free-if-quotas-are-met-20260915-p60xiw"
-    },
-    {
-      "id": "2026-09-15-7743f8",
-      "title": "Love It or Hate It, Fund Managers Can't Ignore the Firmus Juggernaut",
-      "summary": "Firmus, the Nvidia-backed AI data center company, has become impossible for Australian fund managers to overlook as its valuation and market presence grow rapidly. The company's rise is forcing institutional investors to take positions on AI infrastructure whether they believe in the thesis or not.",
-      "why_it_matters": "Firmus's gravitational pull on portfolios shows how AI infrastructure exposure has become a benchmark risk for Australian institutional investors rather than an optional bet. The dynamic channels more capital into data center development but also concentrates risk if AI spending expectations are revised downward.",
-      "score": 68,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "ai",
-        "investment",
-        "capacity"
-      ],
-      "published_at": "2026-09-15T08:17:30Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/chanticleer/love-it-or-hate-it-fund-managers-can-t-ignore-the-firmus-juggernaut-20260915-p60xkw",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Firmus"
-      ],
-      "content": "The penny is starting to drop in investor land about just how big artificial intelligence factory builder Firmus could be – and it’s making the proposed IPO and sharemarket listing even juicier.\n\nFirmus co-chief executive Oliver Curtis and his investor relations boss Toby Langley were hosting offshore investors at JPMorgan in Hong Kong on Tuesday and at Morgan Stanley’s Singapore office on Monday. There’s no information released to Melbourne and Sydney’s fund managers yet, but the market’s fishbowl is small enough that headline numbers have started falling off the back of the Firmus truck.",
-      "content_url": "https://www.afr.com/chanticleer/love-it-or-hate-it-fund-managers-can-t-ignore-the-firmus-juggernaut-20260915-p60xkw"
     },
     {
       "id": "2026-09-15-f0497a",
@@ -156,6 +99,117 @@
       "content_url": "https://theedgemalaysia.com/node/818233"
     },
     {
+      "id": "2026-09-15-e253e5",
+      "title": "Malaysia's AI Governance Bill to be tabled in Parliament by Q1 2027",
+      "summary": "Malaysia’s Artificial Intelligence (AI) Governance Bill could be tabled in Parliament in Q3 2026 or Q1 2027 as the government moves to implement a framework for regulating the rapidly developing technology. The draft legislation had been completed after the Digital Ministry held workshops and consultations with stakeholders and is now being prepared for submission to […]",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "regulation",
+        "ai"
+      ],
+      "published_at": "2026-09-15T09:40:12Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/malaysias-ai-governance-bill-to-be-tabled-in-parliament-by-1q-2027/",
+          "type": "rss"
+        }
+      ],
+      "content": "Malaysia’s Artificial Intelligence (AI) Governance Bill could be tabled in Parliament in Q3 2026 or Q1 2027 as the government moves to implement a framework for regulating the rapidly developing technology. The draft legislation had been completed after the Digital Ministry held workshops and consultations with stakeholders and is now being prepared for submission to the Cabinet.\n\n“The draft has already been completed. Hopefully, it will be tabled in Parliament this quarter or, if not, in the first quarter of next year. For some of these matters, we look first at standards, then regulations and subsequently laws. The ability to formulate regulations is also important, given that AI technology is developing rapidly and new issues may arise at any time,”Gobind Singh Deo, Digital Minister of Malaysia reportedly said recently, as reported by The Star.\n\nGobind added, “Efforts to establish the enforcement structure are now being pursued concurrently with the process of bringing the Bill to the Cabinet. This integrated approach is important to ensure that governance and enforcement mechanisms are in place when the Bill is passed. The goal is to ensure technology is not just accessible, but actively adopted to deliver real economic benefits.”\n\nThe Malaysian government is taking a broader approach to AI governance that includes standards, regulations and legislation, with different issues to be addressed through the appropriate mechanism. The Digital Ministry is working with Sirim Berhad on MY-AI Standards, while some issues could be dealt with through regulations without the need for new laws.\n\nThe government is also advancing efforts to establish an effective enforcement mechanism through the formation of AI Malaysia, which is expected to play a key role in overseeing compliance with applicable laws and facilitating enforcement action in cases of non-compliance.\n\nThe move towards a comprehensive AI governance framework comes amid the rapid development and adoption of AI technologies, which continue to present emerging legal and regulatory challenges. As these developments outpace existing legislative frameworks, regulators may need to respond to new risks and issues through targeted regulatory measures before they could be formally addressed through legislation.",
+      "content_url": "https://w.media/malaysias-ai-governance-bill-to-be-tabled-in-parliament-by-1q-2027/"
+    },
+    {
+      "id": "2026-09-15-37c952",
+      "title": "Copyright Proposal Lets AI Giants Train for Free If Quotas Are Met",
+      "summary": "A Labor government copyright reform proposal shows artificial intelligence giants would be permitted to train their models on all online content without paying its creators if they struck deals with…",
+      "why_it_matters": "",
+      "score": 58,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "regulation",
+        "copyright"
+      ],
+      "published_at": "2026-09-15T09:08:04Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/politics/federal/copyright-proposal-lets-ai-giants-train-for-free-if-quotas-are-met-20260915-p60xiw",
+          "type": "html-list"
+        }
+      ],
+      "content": "A Labor government copyright reform proposal shows artificial intelligence giants would be permitted to train their models on all online content without paying its creators if they struck deals with enough rights holders, even as the government insisted it would not back down on its pledge to protect creative industries.\n\nDocuments seen by *The Australian* *Financial Review* reveal copyright proposals under consideration by Attorney-General Michelle Rowland that would allow AI companies to train on “unprotected material online” provided they secure licensing deals with a minimum number of companies, effectively putting the onus on rights holders to “opt out”.\n\nLoading...",
+      "content_url": "https://www.afr.com/politics/federal/copyright-proposal-lets-ai-giants-train-for-free-if-quotas-are-met-20260915-p60xiw"
+    },
+    {
+      "id": "2026-09-15-7743f8",
+      "title": "Love It or Hate It, Fund Managers Can't Ignore the Firmus Juggernaut",
+      "summary": "Firmus, the Nvidia-backed AI data center company, has become impossible for Australian fund managers to overlook as its valuation and market presence grow rapidly. The company's rise is forcing institutional investors to take positions on AI infrastructure whether they believe in the thesis or not.",
+      "why_it_matters": "Firmus's gravitational pull on portfolios shows how AI infrastructure exposure has become a benchmark risk for Australian institutional investors rather than an optional bet. The dynamic channels more capital into data center development but also concentrates risk if AI spending expectations are revised downward.",
+      "score": 68,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "capacity"
+      ],
+      "published_at": "2026-09-15T08:17:30Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/chanticleer/love-it-or-hate-it-fund-managers-can-t-ignore-the-firmus-juggernaut-20260915-p60xkw",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Firmus"
+      ],
+      "content": "The penny is starting to drop in investor land about just how big artificial intelligence factory builder Firmus could be – and it’s making the proposed IPO and sharemarket listing even juicier.\n\nFirmus co-chief executive Oliver Curtis and his investor relations boss Toby Langley were hosting offshore investors at JPMorgan in Hong Kong on Tuesday and at Morgan Stanley’s Singapore office on Monday. There’s no information released to Melbourne and Sydney’s fund managers yet, but the market’s fishbowl is small enough that headline numbers have started falling off the back of the Firmus truck.",
+      "content_url": "https://www.afr.com/chanticleer/love-it-or-hate-it-fund-managers-can-t-ignore-the-firmus-juggernaut-20260915-p60xkw"
+    },
+    {
+      "id": "2026-09-15-7299df",
+      "title": "Data centers make up 44pc of total investment into Malaysia in 1H2026",
+      "summary": "Malaysia's Data Centre Task Force has assessed more than 40 proposals this year from companies seeking to build or expand data centers, weighing investment value against energy, water and connectivity requirements. Data center projects accounted for 44 percent of total investment into the country in the first half of 2026.",
+      "why_it_matters": "The figures confirm data centers have become Malaysia's single largest investment category, which strengthens the case for tighter government screening of projects based on resource consumption. Operators and investors face a more selective approval environment, while utilities and landholders in established hubs such as Johor stand to gain from continued demand.",
+      "score": 90,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "capacity",
+        "power",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-15T08:06:35Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/data-centers-make-up-44pc-of-total-investment-into-malaysia-in-1h2026/",
+          "type": "rss"
+        }
+      ],
+      "content": "Malaysia has received more than 40 proposals this year from companies looking to establish or expand data center operations, even as the government seeks to manage the sector’s growing demands for energy, water and connectivity. Malaysia’s Data Centre Task Force (DCTF) assessed the proposals based on factors including investment value, energy and water consumption, connectivity requirements, and their potential contribution to the country’s long-term economic and digital development, Datuk Seri Johari Abdul Ghani, Investment, Trade and Industry Minister reportedly said during a speech at a recent event in Kuala Lumpur.\n\n“As the scale and pace of investment increase, our priorities must evolve alongside the industry. The next phase is about what that capacity delivers: artificial intelligence (AI) adoption, home-grown innovation, skilled talent and higher-value jobs,” he added.\n\nHis speech was delivered on his behalf by Deputy Investment, Trade and Industry Minister Sim Tze Tzin.\n\nThe government has strengthened the role of the DCTF, which is co-chaired by the Ministry of Investment, Trade and Industry (Miti) and the Ministry of Digital, to improve coordination in the data center industry and set standards for power, water and carbon use efficiency as reported by The Edge Malaysia.\n\n“Through the task force, the Energy Commission and the National Water Services Commission are also developing the relevant frameworks and guidelines to support the sustainable development of the data center industry. As the industry continues to grow, we want to see new capacity supported by operators that are committed to renewable energy, greater efficiency and responsible resource management, while adopting more sustainable solutions across their operations,” Johari further said.\n\nData center and cloud computing projects accounted for RM 95.8 billion (US$ 23.5 billion), or nearly 44 percent of all approved investments in 1H 2026 while data center related investment approvals have reached RM 385.7 billion (US$ 94.7 billion) since 2021, the minister revealed.\n\nMalaysia approved RM 218.5 billion (US$ 53.6 billion) in investments across various economic sectors in the first half of 2026, an increase of almost 12 percent from the same period last year.",
+      "content_url": "https://w.media/data-centers-make-up-44pc-of-total-investment-into-malaysia-in-1h2026/"
+    },
+    {
       "id": "2026-09-15-9648ff",
       "title": "West River Eyes Higher Margins via Data Centre and High-Voltage Projects",
       "summary": "Malaysian mechanical and electrical contractor West River Bhd is shifting its focus toward data center and high-voltage power projects, aiming to capture higher margins from the country's power infrastructure boom. The group is targeting specialized work where technical capability and track record command premium pricing.",
@@ -184,96 +238,6 @@
       ],
       "content": "This article first appeared in The Edge Malaysia Weekly on September 7, 2026 - September 13, 2026\n\nMECHANICAL and electrical (M&E) player West River Bhd (KL:WESTRVR) is leveraging Malaysia’s power infrastructure boom to move up the value chain, shifting its focus towards specialised projects where technical capabilities and execution track record command higher margins.\n\nThe group, which provides end-to-end electrical engineering and air conditioning and mechanical ventilation (ACMV) solutions, is increasingly targeting data centres, high-voltage electrical work and high-tech industrial projects.\n\nManaging director Stanley Lim Yong Lai says the strategy is aimed at improving the quality of West River’s order book rather than simply pursuing project volume.\n\n“Basically, we are shifting to more high-margin work,” Lim says in an interview.\n\nOpportunities are particularly apparent in data centres, where West River estimates net margins can reach 12%, compared with about 5%-6% for its traditional projects.\n\nLim says the difference reflects the more specialised nature of data centre M&E work and the smaller pool of contractors with the technical capabilities and experience required.\n\n“Data centre projects are different. The requirements are higher and there are fewer players,” he says.\n\nWest River has secured two data centre projects so far this year worth a combined RM47.76 million, accounting for about 20% of its outstanding order book of RM200 million.\n\nThe group also has a tender book of about RM600 million. Lim puts its historical average success rate at about 8%.\n\nLarger projects, however, come with higher performance bond requirements. Lim says West River typically needs to provide a performance bond equivalent to about 10% of the contract value, making funding capacity an important consideration as the group scales up its order book.\n\nAs at end-March, West River had RM4.68 million in cash and RM22.33 million in money market funds, against total borrowings of RM5.01 million, leaving it with net cash of about RM22 million.\n\nLim believes the current data-centre boom cycle may last another two to three years.\n\nThe company is, however, not looking to become overly dependent on data centre projects. Instead, it is using the current boom to build capabilities in other areas of the power and M&E ecosystem.\n\nOne of the more significant developments at West River is certification from Tenaga Nasional Bhd (KL:TENAGA) for high-voltage work, which allows it to pursue substation-related projects.\n\nLim says the group is looking to participate in 132kV and 275kV work, which he believes offers attractive opportunities given the higher barriers to entry.\n\nContractors need to meet requirements, including Tenaga qualification, ISO standards, and competency tests for engineers and safety personnel before they can participate in the segment.\n\nThe qualification could prove particularly timely as Malaysia expands its power infrastructure to support data centres, renewable energy and industrial activity. The rollout of renewable energy projects will also require substations and other grid infrastructure to connect new generation capacity to the electricity network.\n\nFor West River, this creates a potential second leg of growth alongside data centre M&E work.\n\nLim expects the group’s overall net profit margin to progressively improve over the coming years, compared with around 5% to 6% currently, as higher-margin projects account for a greater share of its business.\n\nAnother margin-accretive initiative is the group’s move to manufacture its own electrical panels and distribution boards.\n\nThe manufacturing operation currently supplies only to West River’s own engineering projects. The group also plans to expand production as its project portfolio grows.\n\nThe move is intended not only to improve gross margins but also to give the company greater control over procurement and project execution.\n\nLim estimates that its in-house manufacturing capability could improve gross margins by about two to three percentage points from the current level of around 12%.\n\n“The first is margin, and the second is that we can control [the supply],” he says.\n\nGreater control over equipment supply could become increasingly important as West River takes on larger and more technically demanding projects, where delivery schedules are critical.\n\nRaw material costs remain a potential headwind, with copper prices being a key factor for the group. Lim says the sharp movement in material prices had affected margins, but the impact has become more manageable.\n\nWest River’s changing project mix is also reflected in its business exposure.\n\nResidential projects currently account for about 44% of its business, while commercial and industrial projects account for about 19% and 36%, respectively.\n\nThe group is gradually moving away from conventional residential work and directing resources towards commercial and industrial jobs with higher technical requirements such as hospitals, semiconductor facilities and other high-tech industrial projects.\n\nThe semiconductor market remains a relatively new area for West River, with Lim describing its current projects as a step towards gaining a foothold in the sector.\n\n“We are still not a main player,” he says. “But we are penetrating in, and there are a lot of opportunities.”\n\nWest River is also becoming more selective in the projects it bids for as it seeks to improve the profitability of its order book. While the group continues to pursue projects from existing customers where returns are attractive, it is prioritising new projects that offer better margins and align with its technical capabilities.\n\nThe approach underlines the group’s focus on improving the quality of its order book rather than simply growing its size.\n\nAnother differentiator for West River is its proprietary Internet of Things system, which focuses on energy management, particularly for air conditioning systems. As air conditioning is one of the largest energy consumers in many commercial buildings, the technology has the potential to help customers reduce electricity consumption.\n\nLim says the system serves as a value-added offering alongside West River’s M&E services, allowing the group to provide customers with more than just installation work.\n\nThe business is still at an early stage, however, and the immediate focus is on deploying the technology and building customer adoption rather than generating recurring fees.\n\nBeyond its core M&E business, West River is developing two mini-hydropower projects with a capacity of about 7.2MW and 4.5MW.\n\nThe group has secured Feed-in Tariff (FiT) approval under the Sustainable Energy Development Authority Malaysia (SEDA) framework, with the projects eligible for 21-year power purchase arrangements at tariffs of nearly 34 sen per kWh from August 2031.\n\nThe projects could eventually provide West River with a recurring earnings stream while allowing it to capture a portion of the M&E work involved in their development.\n\nLim estimates M&E could account for up to 40% of the cost of a mini-hydropower project.\n\nThe shift in strategy comes after a difficult financial year ended Dec 31, 2025 (FY2025) for West River, during which weaker project activity and margin compression weighed on its earnings and share price.\n\nThe company, which debuted on Bursa Malaysia in April 2025 at 39 sen per share, saw its share price hit a low of 19 sen following the announcement of the weaker financial results.\n\nRevenue fell 9.4% to RM111.2 million in FY2025 from RM122.7 million a year earlier, as several major M&E projects moved into the final stages of installation, testing and commissioning.\n\nGross profit declined 25.9% to RM13.9 million, with gross margin narrowing to 12.6% from 15.3%, amid higher material and subcontractor costs, and a less favourable project mix.\n\nNet profit fell 47.1% to RM6.1 million, while net profit margin shrank to 5.5% from 9.3%. The decline was also partly due to RM600,000 in non-recurring initial public offering (IPO)-related expenses.\n\nThe weaker FY2025 performance stands in contrast to West River’s strong growth between FY2021 and FY2024. Revenue more than doubled from RM55.3 million in FY2021 to RM122.7 million in FY2024, while net profit rose from RM3.7 million to RM11.5 million. Net profit margin improved steadily from 6.6% to 9.3% over the same period.\n\nThe earnings decline subsequently weighed on investor sentiment, but the company appears to be turning a corner.\n\nFor 1HFY2026, West River reported a 56% increase in revenue to RM79.07 million from RM50.67 million a year earlier, while net profit jumped 81.6% to RM4.63 million from RM2.55 million.\n\nIts shares have also staged a sharp recovery, rising nearly 80% over the past month from around 22 sen to 39 sen, its IPO price. The shares closed at 34.5 sen last Thursday, valuing the company at RM123.4 million.\n\nIn a non-rated report published on July 23, RHB Investment Bank pegged West River’s fair value at 45 sen, based on a forward price-earnings ratio of 13 times.\n\nThe brokerage estimates that the company could generate RM12.3 million in net profit on RM160 million revenue in FY2027, implying a net profit margin of 7.7%.\n\nWith a workforce of about 90 people, West River believes it can accommodate a 30% to 40% increase in revenue with its existing resources, providing room to scale without a corresponding increase in overheads.\n\nIts current earnings visibility stands at around two to three years, but Lim acknowledges that the data centre boom will eventually moderate.\n\nFor now, the group is focused on making the most of the current investment cycle while maintaining the financial flexibility to pursue opportunities beyond it.\n\nIt is also keeping an eye on capital returns. While capital is likely to remain focused on growth for now, Lim says West River could consider dividends once its cash reserves reach about 25% of revenue.\n\nLim remains West River’s largest shareholder, with a 63.97% stake comprising a 21% direct equity interest and 42.97% held through investment vehicle Neutron Capital Sdn Bhd.\n\nSave by subscribing to us for your print and/or digital copy.\n\n**P/S: The Edge is also available on\n      Apple's App Store and \n      Android's Google Play.**\n\nPrint\n\nText Size\n\nShare",
       "content_url": "https://theedgemalaysia.com/node/817226"
-    },
-    {
-      "id": "2026-09-15-893d91",
-      "title": "Nvidia CEO Puts Trump on Phone While Downplaying AI Risks",
-      "summary": "Nvidia Corp chief executive officer Jensen Huang took a live phone call from Donald Trump during a panel discussion on Monday, allowing the US president to dismiss artificial intelligence (AI) dangers as a “hoax”.",
-      "why_it_matters": "",
-      "score": 55,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [
-        "ai",
-        "chips",
-        "regulation"
-      ],
-      "published_at": "2026-09-15T06:18:13Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/818169",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "NVIDIA"
-      ],
-      "content": "(Sept 15): Nvidia Corp chief executive officer Jensen Huang took a live phone call from Donald Trump during a panel discussion on Monday, allowing the US president to dismiss artificial intelligence (AI) dangers as a “hoax”.\n\nDuring the call, which Huang received on stage at the All-In Summit in Los Angeles, Trump criticised the push to slow the pace of AI development as politically motivated or a Chinese scheme. Huang agreed with the president, saying Trump had seen through the complexities of the issue.\n\nThe AI pushback is “just playing right into the hands of a lot of people that don’t want to see it happen”, Trump said. “And that could be political people. It could also be China.”\n\nEven while downplaying AI risks, Huang praised an Anthropic researcher who resigned over the fears. The employee, Jacob Coxon, was courageous to voice his concerns, the CEO said. Whistle-blowers should be taken seriously inside organisations, he added.\n\nHowever, the panic has created a false choice between fast innovation and AI safety, Huang said.\n\nThe potential danger of AI to humanity has become a topic of intense discussion in recent days. After Coxon resigned, saying Anthropic and OpenAI were “gambling with our lives”, calls have grown to curb the pace of development. On Saturday, Anthropic CEO Dario Amodei published a 3,800-word essay — later endorsed by OpenAI CEO Sam Altman and SpaceX CEO Elon Musk — proposing a slowdown.\n\nUS tech stocks slumped on Monday over concern about a potential deceleration in spending. Shares of Nvidia, the world’s most valuable company, fell 3.4%.\n\nNvidia, whose chips help run AI models, has been the top beneficiary of a massive AI infrastructure build-out. Trump, meanwhile, has emerged as a fierce advocate for data centre construction, even in the face of growing opposition.\n\nTrump criticised US states for refusing to give permits for the building of new data centres. Such facilities make people and states wealthy, he said.\n\n“It’s the oil of the next 20, 25 years,” he said. “It’s bigger than the internet.”\n\n*Read also: Governments worldwide way behind on AI, says Bill Gates\nGoogle DeepMind staffer says AI may ‘kill us all’ in exit post\nFact box: What Amodei, Altman and Musk have said about AI risks, stoking 'doom' fears*\n\n*Uploaded by Tham Yek Lee*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/818169"
-    },
-    {
-      "id": "2026-09-15-447caf",
-      "title": "SB Energy to Sell Up to US$500 Mil in Shares to Japan Investors as Part of US IPO",
-      "summary": "SoftBank-backed data center developer SB Energy plans to sell up to US$500 million in shares to Japanese investors as part of a public listing in the United States, according to a filing. The offering forms part of the company's US IPO.",
-      "why_it_matters": "The listing would give public market investors rare direct exposure to the data center development pipeline tied to SoftBank's AI ambitions. A successful debut would open another funding channel for capital-intensive developers and set a valuation benchmark for privately held peers across Asia.",
-      "score": 72,
-      "heat": 1,
-      "regions": [
-        "japan",
-        "global"
-      ],
-      "topics": [
-        "investment",
-        "hyperscale",
-        "ai"
-      ],
-      "published_at": "2026-09-15T01:42:36Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/818109",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "SB Energy",
-        "SoftBank"
-      ],
-      "content": "TOKYO (Sept 15): Data centre developer SB Energy, backed by SoftBank Group, will sell up to US$500 million in shares to Japanese investors as part of a public listing in the US, a filing showed on Tuesday.\n\nThe firm will issue new shares to the Japanese investors, and the funds will be used for general operating costs for developing data centres, power generation and related infrastructure projects, the filing said.\n\nThe filing did not reveal the size of the US IPO. SoftBank may seek a valuation of US$50 billion for SB Energy, *Reuters* has reported.\n\nChipmaker Nvidia has committed to invest US$1.5 billion in a private placement at the IPO price, and OpenAI has been issued warrants worth roughly US$5.5 billion, SB Energy reported in its investment prospectus, released earlier in September.\n\nInvestor enthusiasm for artificial intelligence has prompted a wave of public listings in related firms this year, with SpaceX listing in June and Anthropic preparing to list later this year.\n\nJapanese investors secured US$2.2 billion of SpaceX shares in its IPO.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/818109"
-    },
-    {
-      "id": "2026-09-15-7299df",
-      "title": "Data Centers Make Up 44pc of Total Investment into Malaysia in 1H2026",
-      "summary": "Data center projects accounted for 44% of all investment flowing into Malaysia in the first half of 2026, with more than 40 new proposals submitted this year by companies seeking to build or expand facilities. The proposals are being screened by the government's Data Centre Task Force, which weighs investment value against energy and water consumption and connectivity requirements.",
-      "why_it_matters": "The concentration of nearly half of Malaysia's inbound investment in a single, resource-hungry sector forces policymakers to choose between economic momentum and grid and water security. The DCTF's screening process effectively becomes a gatekeeper for the industry, meaning developers with efficient designs gain an edge while speculative projects face rejection.",
-      "score": 88,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "investment",
-        "capacity",
-        "power",
-        "regulation"
-      ],
-      "published_at": "2026-09-15T08:06:35Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "W.Media",
-          "url": "https://w.media/data-centers-make-up-44pc-of-total-investment-into-malaysia-in-1h2026/",
-          "type": "rss"
-        }
-      ],
-      "content": "Malaysia has received more than 40 proposals this year from companies looking to establish or expand data center operations, even as the government seeks to manage the sector’s growing demands for energy, water and connectivity. Malaysia’s Data Centre Task Force (DCTF) assessed the proposals based on factors including investment value, energy and water consumption, connectivity requirements, and their potential contribution to the country’s long-term economic and digital development, Datuk Seri Johari Abdul Ghani, Investment, Trade and Industry Minister reportedly said during a speech at a recent event in Kuala Lumpur.\n\n“As the scale and pace of investment increase, our priorities must evolve alongside the industry. The next phase is about what that capacity delivers: artificial intelligence (AI) adoption, home-grown innovation, skilled talent and higher-value jobs,” he added.\n\nHis speech was delivered on his behalf by Deputy Investment, Trade and Industry Minister Sim Tze Tzin.\n\nThe government has strengthened the role of the DCTF, which is co-chaired by the Ministry of Investment, Trade and Industry (Miti) and the Ministry of Digital, to improve coordination in the data center industry and set standards for power, water and carbon use efficiency as reported by The Edge Malaysia.\n\n“Through the task force, the Energy Commission and the National Water Services Commission are also developing the relevant frameworks and guidelines to support the sustainable development of the data center industry. As the industry continues to grow, we want to see new capacity supported by operators that are committed to renewable energy, greater efficiency and responsible resource management, while adopting more sustainable solutions across their operations,” Johari further said.\n\nData center and cloud computing projects accounted for RM 95.8 billion (US$ 23.5 billion), or nearly 44 percent of all approved investments in 1H 2026 while data center related investment approvals have reached RM 385.7 billion (US$ 94.7 billion) since 2021, the minister revealed.\n\nMalaysia approved RM 218.5 billion (US$ 53.6 billion) in investments across various economic sectors in the first half of 2026, an increase of almost 12 percent from the same period last year.",
-      "content_url": "https://w.media/data-centers-make-up-44pc-of-total-investment-into-malaysia-in-1h2026/"
     },
     {
       "id": "2026-09-15-b30691",
@@ -305,18 +269,18 @@
     },
     {
       "id": "2026-09-15-5a57f0",
-      "title": "Google Cloud Opens Singapore Engineering Centre for AI",
+      "title": "Google Cloud opens Singapore engineering centre for AI",
       "summary": "The site will link AI research with product development, as Google Cloud uses Singapore to build tools for global customers and regional deployment.",
       "why_it_matters": "",
-      "score": 55,
+      "score": 60,
       "heat": 1,
       "regions": [
         "southeast-asia"
       ],
       "topics": [
         "ai",
-        "cloud",
-        "hyperscale"
+        "hyperscale",
+        "investment"
       ],
       "published_at": "2026-09-15T07:00:00Z",
       "featured": false,
@@ -330,7 +294,7 @@
       "companies": [
         "Google Cloud"
       ],
-      "content": "Tue, 15th Sep 2026 (Today)\nGoogle Cloud has opened a Singapore Engineering Centre, its first Google Cloud engineering centre in Southeast Asia.\n\nThe centre is co-located with Southeast Asia's first Google DeepMind research lab, linking cloud product development and AI research at a single Singapore site.\n\nGoogle Cloud said the Singapore Engineering Centre will serve as its main product development hub in the region, bringing together software engineers working across AI, AI infrastructure, data, compute, machine learning, networking, storage and frontline support.\n\nThe operation is intended to build cloud and AI products in Singapore for global markets. Work includes developing data systems and infrastructure for low-latency and critical business workloads, integrating foundation models into broader cloud products, and building developer platforms and automation tools for hybrid and multicloud environments.\n\nThe move expands Google's investment in Singapore's technology sector, after the company outlined plans for the centre earlier this year. The project is backed by the Singapore Economic Development Board, which said it would deepen local expertise in AI and cloud engineering.\n\n“Singapore is proud to host Google Cloud's first Engineering Centre in Southeast Asia. It will add depth and expertise to Singapore's diverse AI and cloud ecosystems by accelerating AI application development and shaping products for global deployment. We welcome Google's continued investment in the Singapore workforce with new core engineering and FDE roles presenting exciting opportunities for Singaporeans to build expertise with frontier technologies,” said Beng Kong Pee, Executive Vice President, EDB.\n\n### Regional role\n\nGoogle Cloud said the centre marks a shift from the regional operations that often focus on support or post-sales work. Instead, engineers in Singapore will work directly with corporate customers to adapt core Google Cloud systems to business requirements during development.\n\nThe company described this as a closer link between research, engineering and customer deployment. By housing AI researchers and cloud systems teams in the same environment, it aims to shorten the path from model research to production software.\n\nEarly work at the site includes collaboration with Grab on real-time multilingual AI models and with DBS on financial workflows using AI agents. Google Cloud said those projects are helping shape products that can later be used more widely across its global customer base.\n\nDBS framed the development as part of a broader effort to strengthen Singapore's position in AI. The bank said it expects to work with industry partners as it develops its own use of agentic AI.\n\n“Singapore has the opportunity to be a trusted global AI hub, bringing together talent, technology and enterprise expertise to drive innovation and growth. The opening of Google Cloud's Singapore Engineering Centre is a welcome addition to this ecosystem. As DBS advances our agentic AI strategy, we look forward to collaborating across the industry to deliver value for our employees and customers in a safe and responsible manner,” said Nimish Panchmatia, Chief Transformation and Data Officer, DBS.\n\n### Customer deployment\n\nAlongside the engineering centre, Google Cloud is expanding its regional Forward Deployed Engineer workforce. These teams work with customers to integrate systems built on Google products and help move projects from trial phases into live operations.\n\nEngineers in these roles will build on tools and systems developed at the Singapore hub, giving the operation a dual function: core product engineering and customer implementation through regional technical teams.\n\nFor Singapore, the investment also has a workforce dimension. Google and the EDB pointed to new engineering and Forward Deployed Engineer roles as part of the expansion, linking the project to national efforts to build deeper local expertise in AI and cloud technologies.\n\nThe announcement comes as large technology companies continue to use Singapore as a base for regional engineering, data and AI work. Its concentration of multinational firms, financial institutions and digital platforms has made it a key market for testing software in sectors such as banking, transport and consumer services.\n\nGoogle Cloud said that diversity was one reason for choosing Singapore. It said designing systems for Asia Pacific markets, where languages, regulation and customer demands vary widely, can help improve products for broader international use.\n\n“A true test of engineering capability is building for the diversity and speed of Asia Pacific, which is why we chose Singapore. By anchoring the entire AI value chain in Singapore-from foundational research to core Google Cloud SEC productization and hands-on problem-solving and implementation via our Customer Engineering and Forward Deployed Engineer teams-we transform frontier capabilities, in close collaboration with our customers, into ready-to-deploy products at unprecedented speed,” said Moe Abdula, Vice President, Customer Engineering, Asia Pacific, Google Cloud.",
+      "content": "Tue, 15th Sep 2026 (Yesterday)\nGoogle Cloud has opened a Singapore Engineering Centre, its first Google Cloud engineering centre in Southeast Asia.\n\nThe centre is co-located with Southeast Asia's first Google DeepMind research lab, linking cloud product development and AI research at a single Singapore site.\n\nGoogle Cloud said the Singapore Engineering Centre will serve as its main product development hub in the region, bringing together software engineers working across AI, AI infrastructure, data, compute, machine learning, networking, storage and frontline support.\n\nThe operation is intended to build cloud and AI products in Singapore for global markets. Work includes developing data systems and infrastructure for low-latency and critical business workloads, integrating foundation models into broader cloud products, and building developer platforms and automation tools for hybrid and multicloud environments.\n\nThe move expands Google's investment in Singapore's technology sector, after the company outlined plans for the centre earlier this year. The project is backed by the Singapore Economic Development Board, which said it would deepen local expertise in AI and cloud engineering.\n\n“Singapore is proud to host Google Cloud's first Engineering Centre in Southeast Asia. It will add depth and expertise to Singapore's diverse AI and cloud ecosystems by accelerating AI application development and shaping products for global deployment. We welcome Google's continued investment in the Singapore workforce with new core engineering and FDE roles presenting exciting opportunities for Singaporeans to build expertise with frontier technologies,” said Beng Kong Pee, Executive Vice President, EDB.\n\n### Regional role\n\nGoogle Cloud said the centre marks a shift from the regional operations that often focus on support or post-sales work. Instead, engineers in Singapore will work directly with corporate customers to adapt core Google Cloud systems to business requirements during development.\n\nThe company described this as a closer link between research, engineering and customer deployment. By housing AI researchers and cloud systems teams in the same environment, it aims to shorten the path from model research to production software.\n\nEarly work at the site includes collaboration with Grab on real-time multilingual AI models and with DBS on financial workflows using AI agents. Google Cloud said those projects are helping shape products that can later be used more widely across its global customer base.\n\nDBS framed the development as part of a broader effort to strengthen Singapore's position in AI. The bank said it expects to work with industry partners as it develops its own use of agentic AI.\n\n“Singapore has the opportunity to be a trusted global AI hub, bringing together talent, technology and enterprise expertise to drive innovation and growth. The opening of Google Cloud's Singapore Engineering Centre is a welcome addition to this ecosystem. As DBS advances our agentic AI strategy, we look forward to collaborating across the industry to deliver value for our employees and customers in a safe and responsible manner,” said Nimish Panchmatia, Chief Transformation and Data Officer, DBS.\n\n### Customer deployment\n\nAlongside the engineering centre, Google Cloud is expanding its regional Forward Deployed Engineer workforce. These teams work with customers to integrate systems built on Google products and help move projects from trial phases into live operations.\n\nEngineers in these roles will build on tools and systems developed at the Singapore hub, giving the operation a dual function: core product engineering and customer implementation through regional technical teams.\n\nFor Singapore, the investment also has a workforce dimension. Google and the EDB pointed to new engineering and Forward Deployed Engineer roles as part of the expansion, linking the project to national efforts to build deeper local expertise in AI and cloud technologies.\n\nThe announcement comes as large technology companies continue to use Singapore as a base for regional engineering, data and AI work. Its concentration of multinational firms, financial institutions and digital platforms has made it a key market for testing software in sectors such as banking, transport and consumer services.\n\nGoogle Cloud said that diversity was one reason for choosing Singapore. It said designing systems for Asia Pacific markets, where languages, regulation and customer demands vary widely, can help improve products for broader international use.\n\n“A true test of engineering capability is building for the diversity and speed of Asia Pacific, which is why we chose Singapore. By anchoring the entire AI value chain in Singapore-from foundational research to core Google Cloud SEC productization and hands-on problem-solving and implementation via our Customer Engineering and Forward Deployed Engineer teams-we transform frontier capabilities, in close collaboration with our customers, into ready-to-deploy products at unprecedented speed,” said Moe Abdula, Vice President, Customer Engineering, Asia Pacific, Google Cloud.",
       "content_url": "https://datacenternews.asia/story/google-cloud-opens-singapore-engineering-centre-for-ai"
     },
     {
@@ -363,6 +327,36 @@
       ],
       "content": "Labour action could amplify supply concerns in an already tight memory chip market\n\n[TAIPEI] A Taiwanese union representing workers at Micron Technology warned on Tuesday (Sep 15) it could move towards a strike unless the US memory chipmaker agrees to a permanent profit-sharing system, escalating a labour dispute at its largest manufacturing hub.\n\nTaiwan is a crucial production centre for Micron’s DRAM and high-bandwidth memory chips, key components in artificial intelligence servers.\n\nWhile no strike has been called and there has been no impact on production, any labour action could amplify supply concerns in an already tight memory chip market.\n\nThe dispute underscores growing pressure on memory chipmakers to share the windfall from the AI boom.\n\nMicron’s Taiwan unions have pointed to South Korean rivals Samsung Electronics and SK Hynix, which have profit-sharing schemes for employees, in pressing their demands.\n\nThe union said it was seeking a long-term, transparent and verifiable profit-sharing system rather than one-off rewards, reiterating its demand that 15 per cent of Micron’s operating profit be allocated to employees globally.\n\n“If there is no concrete proposal on Sep 18 and 21 and employees feel the company is simply dragging out the process, we will declare the negotiations have broken down and move towards a strike vote,” said Jerry Lin, chairman of a union representing workers at Micron’s operations in the northwestern city of Taoyuan.\n\nMicron last week announced fiscal 2026 rewards for more than 60,000 employees globally following what it described as an “extraordinary year” for the company.\n\nUnder the scheme, employees in Taiwan who joined before Aug 29, 2025 will receive a T$1 million (US$31,498) cash bonus, while those who joined later will receive a prorated amount.\n\nThe union said the new rewards did not address its demand for a permanent profit-sharing mechanism and criticised Micron for announcing them while labour mediation was under way without first reaching an agreement with the union.\n\nMicron, which has not linked the fiscal 2026 rewards to the labour dispute in Taiwan, did not directly address the strike threat in an emailed response to Reuters.\n\n“We will continue listening to our team members’ perspectives and remain committed to engaging in the mediation process in good faith,” the company said.\n\nFurther labour mediation sessions have been scheduled between the company and the Taoyuan union, as well as another representing workers in the central Taiwanese city of Taichung.\n\nTogether, the unions represent more than 80 per cent of Micron’s roughly 15,000 employees in Taiwan, according to the Taoyuan union.\n\nThe Taoyuan union also plans to hold an event for workers on Thursday near Micron’s facility at the Hwa Ya Technology Park. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
       "content_url": "https://www.businesstimes.com.sg/startups-tech/technology/micron-taiwan-union-presses-profit-sharing-demand-keeps-strike-preparations-alive"
+    },
+    {
+      "id": "2026-09-15-893d91",
+      "title": "Nvidia CEO Puts Trump on Phone While Downplaying AI Risks",
+      "summary": "Nvidia Corp chief executive officer Jensen Huang took a live phone call from Donald Trump during a panel discussion on Monday, allowing the US president to dismiss artificial intelligence (AI) dangers as a “hoax”.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "regulation"
+      ],
+      "published_at": "2026-09-15T06:18:13Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/818169",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "content": "(Sept 15): Nvidia Corp chief executive officer Jensen Huang took a live phone call from Donald Trump during a panel discussion on Monday, allowing the US president to dismiss artificial intelligence (AI) dangers as a “hoax”.\n\nDuring the call, which Huang received on stage at the All-In Summit in Los Angeles, Trump criticised the push to slow the pace of AI development as politically motivated or a Chinese scheme. Huang agreed with the president, saying Trump had seen through the complexities of the issue.\n\nThe AI pushback is “just playing right into the hands of a lot of people that don’t want to see it happen”, Trump said. “And that could be political people. It could also be China.”\n\nEven while downplaying AI risks, Huang praised an Anthropic researcher who resigned over the fears. The employee, Jacob Coxon, was courageous to voice his concerns, the CEO said. Whistle-blowers should be taken seriously inside organisations, he added.\n\nHowever, the panic has created a false choice between fast innovation and AI safety, Huang said.\n\nThe potential danger of AI to humanity has become a topic of intense discussion in recent days. After Coxon resigned, saying Anthropic and OpenAI were “gambling with our lives”, calls have grown to curb the pace of development. On Saturday, Anthropic CEO Dario Amodei published a 3,800-word essay — later endorsed by OpenAI CEO Sam Altman and SpaceX CEO Elon Musk — proposing a slowdown.\n\nUS tech stocks slumped on Monday over concern about a potential deceleration in spending. Shares of Nvidia, the world’s most valuable company, fell 3.4%.\n\nNvidia, whose chips help run AI models, has been the top beneficiary of a massive AI infrastructure build-out. Trump, meanwhile, has emerged as a fierce advocate for data centre construction, even in the face of growing opposition.\n\nTrump criticised US states for refusing to give permits for the building of new data centres. Such facilities make people and states wealthy, he said.\n\n“It’s the oil of the next 20, 25 years,” he said. “It’s bigger than the internet.”\n\n*Read also: Governments worldwide way behind on AI, says Bill Gates\nGoogle DeepMind staffer says AI may ‘kill us all’ in exit post\nFact box: What Amodei, Altman and Musk have said about AI risks, stoking 'doom' fears*\n\n*Uploaded by Tham Yek Lee*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/818169"
     },
     {
       "id": "2026-09-15-f4c906",
@@ -481,18 +475,18 @@
     },
     {
       "id": "2026-09-15-b9ba71",
-      "title": "Building Trusted Access into Australia's Next Generation of Data Centres",
+      "title": "Building trusted access into Australia's next generation of data centres",
       "summary": "Open, interoperable access systems may spare Australian data centres costly upgrades as AI-driven demand and security needs evolve over decades.",
       "why_it_matters": "",
-      "score": 45,
+      "score": 50,
       "heat": 1,
       "regions": [
         "australia"
       ],
       "topics": [
-        "security",
         "ai",
-        "operations"
+        "capacity",
+        "security"
       ],
       "published_at": "2026-09-15T02:22:00Z",
       "featured": false,
@@ -503,26 +497,58 @@
           "type": "rss"
         }
       ],
-      "content": "Tue, 15th Sep 2026 (Today)\nAustralia's data centre market is entering a new phase. The rapid adoption of cloud computing and AI is driving unprecedented demand for digital infrastructure, with developers planning facilities at a scale that would have seemed extraordinary only a few years ago.\n\nThis reflects more than the growth of an individual industry. Data centres are rapidly becoming critical national infrastructure - the physical foundation for Australia's businesses, government services, communications and increasingly its AI capabilities.\n\nMuch of the conversation around new facilities understandably focuses on power, cooling, connectivity, resilience and sustainability. Yet there is another foundational question that deserves equal attention: how will people move securely through the facility, today and for decades to come?\n\nFor developers and operators, physical access control is no longer simply about securing doors. It is about establishing trusted identity throughout the facility and ensuring the right people can access the right areas at the right time.\n\nData centres are designed to operate for decades, so while the facility itself may remain in service for many years, security requirements, authentication technologies and operational needs will continue to evolve. The access-control infrastructure must be able to support that evolution.\n\n### Layered security is the starting point\n\nLayered security has long been fundamental to data centre design. Access privileges become increasingly restrictive as people move from the perimeter through building entrances and into data halls and other sensitive areas. Authentication requirements can strengthen at each layer according to the individual's role, the sensitivity of the environment and the level of risk. But layered access itself is no longer a differentiator. Any credible security architecture should be capable of implementing it.\n\nThe more important question is what sits underneath that layered model. Effective physical security starts with confidence in identity. Employees, contractors, service providers and visitors all need to be authenticated securely and consistently, while operators need the flexibility to apply different levels of access according to role and circumstance. This becomes particularly important as digital and physical security increasingly converge.\n\n### The long-term risk is building yourself into a corner\n\nA data centre's access-control system may appear to be a relatively small decision during the design and construction phase. Its consequences, however, can last for decades.\n\nA closed, single-vendor architecture may perform perfectly well on day one, but over time it can constrain the operator's choices. New authentication technologies may require wholesale replacement. Expansion may mean purchasing more proprietary hardware and integrating with other systems can become unnecessarily complex. The system that initially looked like a safe choice can ultimately become the barrier preventing the facility from adapting as security requirements change over time.\n\nFor infrastructure intended to support Australia's long-term digital and data sovereignty ambitions, that is a significant but avoidable risk. This is why open architecture matters.\n\nOpen, interoperable platforms allow operators to integrate access control with a wider ecosystem of technologies, including video surveillance, identity management and operational systems. They also make it easier to introduce new authentication technologies as requirements evolve.\n\nThe principle is straightforward: operators should be able to select the technologies that best meet their requirements today while retaining the flexibility to adopt new solutions as those requirements change.\n\n### Building for Australia's next data centre decade\n\nThe scale of Australia's data centre growth makes these decisions increasingly consequential. Physical access control may not be the most visible element of a data centre build. But it is one of the foundations that will remain in place long after construction is complete.\n\nThe question for operators is therefore bigger than which reader or credential to specify.\n\nThey should ask whether the access-control architecture is built around trusted identity, whether it supports open standards and interoperability, whether it can accommodate future authentication technologies, and whether the provider and partner ecosystem will be there to support the facility throughout its operational life.\n\nGet that foundation right, and Australia's data centres will have the freedom to adapt as the technology around them changes. Get it wrong, and every future decision becomes harder.",
+      "content": "Tue, 15th Sep 2026 (Yesterday)\nAustralia's data centre market is entering a new phase. The rapid adoption of cloud computing and AI is driving unprecedented demand for digital infrastructure, with developers planning facilities at a scale that would have seemed extraordinary only a few years ago.\n\nThis reflects more than the growth of an individual industry. Data centres are rapidly becoming critical national infrastructure - the physical foundation for Australia's businesses, government services, communications and increasingly its AI capabilities.\n\nMuch of the conversation around new facilities understandably focuses on power, cooling, connectivity, resilience and sustainability. Yet there is another foundational question that deserves equal attention: how will people move securely through the facility, today and for decades to come?\n\nFor developers and operators, physical access control is no longer simply about securing doors. It is about establishing trusted identity throughout the facility and ensuring the right people can access the right areas at the right time.\n\nData centres are designed to operate for decades, so while the facility itself may remain in service for many years, security requirements, authentication technologies and operational needs will continue to evolve. The access-control infrastructure must be able to support that evolution.\n\n### Layered security is the starting point\n\nLayered security has long been fundamental to data centre design. Access privileges become increasingly restrictive as people move from the perimeter through building entrances and into data halls and other sensitive areas. Authentication requirements can strengthen at each layer according to the individual's role, the sensitivity of the environment and the level of risk. But layered access itself is no longer a differentiator. Any credible security architecture should be capable of implementing it.\n\nThe more important question is what sits underneath that layered model. Effective physical security starts with confidence in identity. Employees, contractors, service providers and visitors all need to be authenticated securely and consistently, while operators need the flexibility to apply different levels of access according to role and circumstance. This becomes particularly important as digital and physical security increasingly converge.\n\n### The long-term risk is building yourself into a corner\n\nA data centre's access-control system may appear to be a relatively small decision during the design and construction phase. Its consequences, however, can last for decades.\n\nA closed, single-vendor architecture may perform perfectly well on day one, but over time it can constrain the operator's choices. New authentication technologies may require wholesale replacement. Expansion may mean purchasing more proprietary hardware and integrating with other systems can become unnecessarily complex. The system that initially looked like a safe choice can ultimately become the barrier preventing the facility from adapting as security requirements change over time.\n\nFor infrastructure intended to support Australia's long-term digital and data sovereignty ambitions, that is a significant but avoidable risk. This is why open architecture matters.\n\nOpen, interoperable platforms allow operators to integrate access control with a wider ecosystem of technologies, including video surveillance, identity management and operational systems. They also make it easier to introduce new authentication technologies as requirements evolve.\n\nThe principle is straightforward: operators should be able to select the technologies that best meet their requirements today while retaining the flexibility to adopt new solutions as those requirements change.\n\n### Building for Australia's next data centre decade\n\nThe scale of Australia's data centre growth makes these decisions increasingly consequential. Physical access control may not be the most visible element of a data centre build. But it is one of the foundations that will remain in place long after construction is complete.\n\nThe question for operators is therefore bigger than which reader or credential to specify.\n\nThey should ask whether the access-control architecture is built around trusted identity, whether it supports open standards and interoperability, whether it can accommodate future authentication technologies, and whether the provider and partner ecosystem will be there to support the facility throughout its operational life.\n\nGet that foundation right, and Australia's data centres will have the freedom to adapt as the technology around them changes. Get it wrong, and every future decision becomes harder.",
       "content_url": "https://datacenternews.asia/story/building-trusted-access-into-australia-s-next-generation-of-data-centres"
     },
     {
+      "id": "2026-09-15-447caf",
+      "title": "SB Energy to Sell Up to US$500 Mil in Shares to Japan Investors as Part of US IPO",
+      "summary": "SoftBank-backed data center developer SB Energy plans to sell up to US$500 million in shares to Japanese investors as part of a public listing in the United States, according to a filing. The offering forms part of the company's US IPO.",
+      "why_it_matters": "The listing would give public market investors rare direct exposure to the data center development pipeline tied to SoftBank's AI ambitions. A successful debut would open another funding channel for capital-intensive developers and set a valuation benchmark for privately held peers across Asia.",
+      "score": 72,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "global"
+      ],
+      "topics": [
+        "investment",
+        "hyperscale",
+        "ai"
+      ],
+      "published_at": "2026-09-15T01:42:36Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/818109",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "SB Energy",
+        "SoftBank",
+        "SoftBank Group"
+      ],
+      "content": "TOKYO (Sept 15): Data centre developer SB Energy, backed by SoftBank Group, will sell up to US$500 million in shares to Japanese investors as part of a public listing in the US, a filing showed on Tuesday.\n\nThe firm will issue new shares to the Japanese investors, and the funds will be used for general operating costs for developing data centres, power generation and related infrastructure projects, the filing said.\n\nThe filing did not reveal the size of the US IPO. SoftBank may seek a valuation of US$50 billion for SB Energy, *Reuters* has reported.\n\nChipmaker Nvidia has committed to invest US$1.5 billion in a private placement at the IPO price, and OpenAI has been issued warrants worth roughly US$5.5 billion, SB Energy reported in its investment prospectus, released earlier in September.\n\nInvestor enthusiasm for artificial intelligence has prompted a wave of public listings in related firms this year, with SpaceX listing in June and Anthropic preparing to list later this year.\n\nJapanese investors secured US$2.2 billion of SpaceX shares in its IPO.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/818109"
+    },
+    {
       "id": "2026-09-15-61fd9c",
-      "title": "PDG Appoints New Australia GM",
-      "summary": "Princeton Digital Group has appointed Scott Thomas as General Manager in Australia where he will lead the development of PDG’s business. Thomas was formerly with Alinta Energy and AGL Energy where he held senior leadership roles. “Scott brings deep experience in energy, infrastructure and complex project delivery, together with a strong track record of building and leading […]",
-      "why_it_matters": "",
-      "score": 60,
+      "title": "PDG appoints new Australia GM",
+      "summary": "Princeton Digital Group has named Scott Thomas as General Manager for Australia, where he will lead the company's business development. Thomas previously held senior leadership roles at energy companies Alinta Energy and AGL Energy.",
+      "why_it_matters": "Hiring an energy-sector veteran rather than a data center executive underscores how power procurement has become the critical constraint on Australian data center expansion. The appointment suggests PDG is prioritizing energy strategy and project delivery capability as it scales its Australian platform amid intensifying competition for grid capacity.",
+      "score": 70,
       "heat": 1,
       "regions": [
         "australia"
       ],
       "topics": [
-        "hyperscale",
-        "people",
-        "expansion"
+        "capacity",
+        "investment"
       ],
       "published_at": "2026-09-15T01:08:08Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "W.Media",
@@ -597,6 +623,33 @@
       "content_url": "https://www.itnews.com.au/news/digital-canberra-to-refresh-private-cloud-platform-628909"
     },
     {
+      "id": "2026-09-15-9caeea",
+      "title": "Global AI stocks fall as industry chiefs call for slowing development",
+      "summary": "Artificial intelligence (AI)-linked stocks plunged across the globe on Monday after leaders of the biggest AI companies warned of risks from rapid development, the starkest threat yet to the billions of dollars being poured into the industry that have pushed world markets to record highs.",
+      "why_it_matters": "",
+      "score": 52,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "markets"
+      ],
+      "published_at": "2026-09-14T14:15:23Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/818085",
+          "type": "html-list"
+        }
+      ],
+      "content": "BENGALURU/SINGAPORE (Sept 14): Artificial intelligence (AI)-linked stocks plunged across the globe on Monday after leaders of the biggest AI companies warned of risks from rapid development, the starkest threat yet to the billions of dollars being poured into the industry that have pushed world markets to record highs.\n\nThe sell-off rippled through the industry, where companies are increasingly relying on debt and circular financing to fund ambitious AI spending plans even as global borrowing costs, reflected in multi-year-high bond yields, continue to rise.\n\nAnthropic chief executive officer Dario Amodei, in a lengthy essay shared on X on Saturday, called on AI companies to slow the rate at which they advance model capabilities amid mounting fears of misuse of AI. Both Elon Musk, who runs xAI, and Sam Altman, CEO of OpenAI, said they agree with Amodei.\n\nAltman also said the company would not proceed with an IPO this year, citing safety concerns.\n\nWall Street's elite tech index, the Nasdaq 100, slid 1.7% in early trading as chip stocks, which have led the AI sugar rush, fell the most.\n\n\"If this does lead to sort of a slowdown and a rethink of AI spending, that will have ramifications for the economy and some important sectors of the stock market, because essentially, we've been running hot based on AI spending,\" said Steve Sosnick, chief market analyst at Interactive Brokers.\n\nThe Philadelphia chip index dropped 6%, with Nvidia down 3.5%, Advanced Micro Devices off 5.6% and Micron falling 6.7%, while Musk's SpaceX dropped 2.5%.\n\nSemiconductor equipment makers Lam Research and Applied Materials tumbled 8% and 7%, respectively, while tech utilities Bloom Energy lost 8.9% and GE Vernova declined 7.6%.\n\nEurope's tech sector fell 2.3%, dragged down by ASML's 6.7% decline, alongside steep losses in Infineon and Siemens Energy, while in Asia, SoftBank plunged as much as 13.2% and chipmakers TSMC and SK Hynix also retreated.\n\nAlarm about the potential harm from AI spiked earlier this month when Anthropic researcher Jacob Coxon resigned, stating that the \"people building AI earnestly believe that it could kill us all by the end of the decade\".\n\nA few days later, the San Francisco-based AI lab released a threat intelligence report detailing how its Claude AI models were used for activities ranging from weapons development and cyber operations to surveillance and fraud.\n\nOver the weekend, Amodei wrote that in six to 12 months, AI agents \"could be capable of taking over the entire internet potentially causing hundreds of billions of dollars in damage\". Separately, OpenAI's Altman said in an interview that risks of human extinction posed by AI were \"unacceptable\".\n\nAnd while several US lawmakers have raised concern about AI's rapid progress and called for new rules, US President Donald Trump on Sunday likened AI critics to \"very negative forces\" bringing up scenarios that will not happen, and said he wanted to make sure that the US remains the industry leader.\n\nAI-related trades have powered much of the gains in global equities since OpenAI released ChatGPT in 2022, but more recently cyberattacks by rogue AI agents and public discontent with data centre construction have raised opposition to the development of the industry.\n\nThe US and Chinese governments are expected to hold AI safety talks as part of bilateral discussions taking place this month, *Reuters* reported. But China's state-backed *Global Times* blasted the Anthropic essay in an editorial, calling it a \"Cold War playbook\" intended to curb the country's technological development.\n\nSome investors dismissed the warnings from Anthropic and OpenAI.\n\nMichael Burry, whose prescient bets against the US housing market before the 2008 financial crisis were chronicled in the movie \"The Big Short\", said in a message on X the warnings were \"hype and puffery\" and \"cover for real uncontrollable slowing growth\".\n\nOthers argued that record capital spending commitments suggest AI development is unlikely to slow, such as Morgan Stanley's Brian Nowak who forecast earlier this year that AI spending will surpass US$1.2 trillion (RM4.85 trillion) by 2027.\n\n\"The key question is whether this is the first sign that the extraordinary AI investment cycle might eventually moderate. For now, that seems unlikely. The competitive race between companies and countries remains intense, and it's difficult to imagine firms voluntarily stepping back while rivals continue to push ahead,\" Deutsche Bank said in a note.\n\nMeanwhile, Amodei's Anthropic has pushed ahead with its public debut, expected next month as sources told *Reuters* that the company is in talks to bring in Nvidia as an anchor investor.\n\nJapanese chipmaker Kioxia Holdings is also considering raising at least US$10 billion by listing American depositary receipts, a report said.\n\n*Uploaded by Chng Shear Lane*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/818085"
+    },
+    {
       "id": "2026-09-15-04adf9",
       "title": "Fujitsu Research India driving Arm-based software push for MONAKA CPU",
       "summary": "Fujitsu’s MONAKA CPU uses a chiplet design: 2nm compute cores 3D-stacked on 5nm I/O and SRAM dies, and can operate at a maximum frequency of 3.8 GHz with a memory transfer speed of 8800 MT/s. Its hardware development and manufacturing are happening in Japan.",
@@ -628,10 +681,10 @@
     },
     {
       "id": "2026-09-15-f1fde2",
-      "title": "BTC Digital Inks Tripartite MOU to Explore Building AI Data Center in Vietnam",
-      "summary": "Singapore-based computing infrastructure firm BTC Digital Ltd. recently announced it has signed a memorandum of understanding (MOU) with Nam Trang Cat Investment and Development Joint Stock Company (NTC) and SG Partners Co., Limited (SGP) to explore building an artificial intelligence data center (AIDC) project in Hai Phong, Vietnam. The proposed site has been identified as being within the 2 […]",
-      "why_it_matters": "",
-      "score": 65,
+      "title": "BTC Digital inks tripartite MOU to explore building AI data center in Vietnam",
+      "summary": "Singapore-based BTC Digital has signed a tripartite MOU with Vietnam's Nam Trang Cat Investment and Development JSC and SG Partners to explore developing an AI data center in Hai Phong, with a proposed site already identified. The project remains at an exploratory stage.",
+      "why_it_matters": "The agreement adds to a growing pipeline of foreign-backed AI data center proposals in northern Vietnam, where Hai Phong is emerging as an alternative hub to Hanoi and Ho Chi Minh City. It signals that smaller regional players, not just hyperscalers, are racing to secure sites and local partners ahead of Vietnam's regulatory and power frameworks fully taking shape.",
+      "score": 75,
       "heat": 1,
       "regions": [
         "southeast-asia"
