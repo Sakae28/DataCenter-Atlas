@@ -417,6 +417,11 @@ const legend = STATUS_ORDER.map((s) => ({
     });
 
     svg.addEventListener('pointerout', (e) => {
+      /* While a press is in progress, setPointerCapture fires synthetic
+         pointerout/pointerover pairs that must not clear hoverPin — the
+         click handler (which fires after pointerup, when drag is already
+         null) reads hoverPin to navigate. */
+      if (drag) return;
       const g = (e.target as Element).closest?.('.pin');
       if (g && !(e.relatedTarget as Element | null)?.closest?.('.pin')) {
         hoverPin = null;
