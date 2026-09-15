@@ -102631,7 +102631,48 @@
       "last_updated": "2026-09-11",
       "seed": false,
       "capacity_note": "total planned"
+    },
+    {
+      "id": "btc-digital-vietnam-ai-data-center",
+      "name": "BTC Digital Vietnam AI Data Center",
+      "operator": "BTC Digital",
+      "region": "southeast-asia",
+      "country": "Vietnam",
+      "city": "",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-09-15",
+          "story_id": "2026-09-15-f1fde2"
+        }
+      ],
+      "story_ids": [
+        "2026-09-15-f1fde2"
+      ],
+      "first_seen": "2026-09-15",
+      "last_updated": "2026-09-15",
+      "seed": false
     }
   ],
-  "updated_at": "2026-09-11T08:01:11Z"
+  "updated_at": "2026-09-15T14:57:37Z"
 }

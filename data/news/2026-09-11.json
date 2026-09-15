@@ -10,45 +10,6 @@
   ],
   "stories": [
     {
-      "id": "2026-09-11-af2e54",
-      "title": "Chinese Nvidia Challenger Enflame Jumps 179% in Shanghai Market Debut",
-      "summary": "Chinese AI chip designer Enflame, which positions itself as a domestic rival to Nvidia, surged 179% in its debut on the Shanghai stock market. The listing drew intense investor demand for exposure to China's semiconductor self-sufficiency drive.",
-      "why_it_matters": "The explosive debut shows how policy tailwinds and Nvidia's restricted access to China are funneling capital into domestic AI chip names, giving challengers like Enflame war chests to scale. Rich valuations also raise expectations these firms must now meet on performance and production volume.",
-      "score": 72,
-      "heat": 2,
-      "regions": [
-        "china",
-        "global"
-      ],
-      "topics": [
-        "chips",
-        "ai",
-        "investment",
-        "ipo"
-      ],
-      "published_at": "2026-09-11T07:32:47Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/business/markets/ipo/chinese-nvidia-challenger-enflame-jumps-179-in-shanghai-market-debut",
-          "type": "rss"
-        },
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/817715",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Enflame",
-        "NVIDIA",
-        "Tencent"
-      ],
-      "content": "HONG KONG/SHANGHAI -- Shanghai Enflame Technology, one of China's leading makers of artificial intelligence chips and the country's answer to Nvidia, rose 179% in its first day of trading on Shanghai's bourse on Friday, after the company flagged a lower valuation relative to peers.",
-      "content_url": "https://asia.nikkei.com/business/markets/ipo/chinese-nvidia-challenger-enflame-jumps-179-in-shanghai-market-debut"
-    },
-    {
       "id": "2026-09-11-541c57",
       "title": "China's CXMT tops SK Hynix, Micron to take memory profit margin crown",
       "summary": "TOKYO -- Chinese chipmaker ChangXin Memory Technologies (CXMT) has raced to the lead among global competitors in terms of profit margin, signaling a shift in a sector dominated by South Korean, U.S.…",
@@ -211,6 +172,45 @@
       "companies": [
         "DAMAC Digital"
       ]
+    },
+    {
+      "id": "2026-09-11-af2e54",
+      "title": "Chinese Nvidia Challenger Enflame Jumps 179% in Shanghai Market Debut",
+      "summary": "Chinese AI chip designer Enflame, which positions itself as a domestic rival to Nvidia, surged 179% in its debut on the Shanghai stock market. The listing drew intense investor demand for exposure to China's semiconductor self-sufficiency drive.",
+      "why_it_matters": "The explosive debut shows how policy tailwinds and Nvidia's restricted access to China are funneling capital into domestic AI chip names, giving challengers like Enflame war chests to scale. Rich valuations also raise expectations these firms must now meet on performance and production volume.",
+      "score": 72,
+      "heat": 2,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "investment",
+        "ipo"
+      ],
+      "published_at": "2026-09-11T07:32:47Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/markets/ipo/chinese-nvidia-challenger-enflame-jumps-179-in-shanghai-market-debut",
+          "type": "rss"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817715",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Enflame",
+        "NVIDIA",
+        "Tencent"
+      ],
+      "content": "HONG KONG/SHANGHAI -- Shanghai Enflame Technology, one of China's leading makers of artificial intelligence chips and the country's answer to Nvidia, rose 179% in its first day of trading on Shanghai's bourse on Friday, after the company flagged a lower valuation relative to peers.",
+      "content_url": "https://asia.nikkei.com/business/markets/ipo/chinese-nvidia-challenger-enflame-jumps-179-in-shanghai-market-debut"
     },
     {
       "id": "2026-09-11-15cce1",
@@ -484,6 +484,37 @@
       "content_url": "https://datacenternews.asia/story/alibaba-cloud-cambricon-join-pytorch-foundation-board"
     },
     {
+      "id": "2026-09-11-5bbc39",
+      "title": "Paragon Globe secures RM45 mil contract for Johor data centre development",
+      "summary": "Paragon Globe Bhd has secured a RM45.16 million contract to carry out earthworks and construct retaining walls for a data centre development in Johor, Malaysia. The contract was announced to the Bursa Malaysia on Thursday.",
+      "why_it_matters": "The award is another data point in Johor's rapid build-out as Malaysia's data centre epicentre, with early-stage civil works signaling new projects moving from announcement to construction. Local contractors are emerging as direct beneficiaries of the spillover from Singapore-constrained demand.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "construction",
+        "capacity",
+        "investment",
+        "johor"
+      ],
+      "published_at": "2026-09-10T12:01:15Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817655",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Paragon Globe"
+      ],
+      "content": "KUALA LUMPUR (Sept 10): Paragon Globe Bhd (KL:PGLOBE) said on Thursday it has secured a contract worth RM45.16 million to undertake earthworks and retaining walls for a data centre development in Johor.\n\nIn its bourse filing on Thursday, the Johor-based property developer said the contract was awaded by a data centre operator but did not name the firm.\n\nThe works, to be carried out by its wholly-owned unit PGBG Construction Sdn Bhd, are targeted for completion by the fourth quarter of 2026, said Paragon Globe.\n\nThe company said the contract is expected to contribute positively to its earnings and net assets over the duration of the works, assuming that there are no material delays.\n\n“The works will not have any effect on the share capital or substantial shareholders' shareholding of the company,” it added.\n\nParagon Globe shares closed unchanged at 73.5 sen on Thursday, giving the company a market capitalisation of RM548.8 million.\n\nEdited ByS Kanagaraju\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817655"
+    },
+    {
       "id": "2026-09-11-413ed0",
       "title": "Nvidia's Groq deal facing DOJ probe amid regulator scrutiny into acqui-hires: report",
       "summary": "Nvidia's deal involving AI chip startup Groq is reportedly facing a probe by the US Department of Justice, amid broader regulatory scrutiny of so-called acqui-hire transactions. Regulators are examining whether such arrangements circumvent merger review.",
@@ -602,64 +633,6 @@
       "content_url": "https://www.businesstimes.com.sg/startups-tech/technology/blackstones-airtrunk-seeks-s1-6-billion-loan-singapore-ipo"
     },
     {
-      "id": "2026-09-11-5bbc39",
-      "title": "Paragon Globe secures RM45 mil contract for Johor data centre development",
-      "summary": "Paragon Globe Bhd has secured a RM45.16 million contract to carry out earthworks and construct retaining walls for a data centre development in Johor, Malaysia. The contract was announced to the Bursa Malaysia on Thursday.",
-      "why_it_matters": "The award is another data point in Johor's rapid build-out as Malaysia's data centre epicentre, with early-stage civil works signaling new projects moving from announcement to construction. Local contractors are emerging as direct beneficiaries of the spillover from Singapore-constrained demand.",
-      "score": 75,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "construction",
-        "capacity",
-        "investment",
-        "johor"
-      ],
-      "published_at": "2026-09-10T12:01:15Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/817655",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Paragon Globe"
-      ],
-      "content": "KUALA LUMPUR (Sept 10): Paragon Globe Bhd (KL:PGLOBE) said on Thursday it has secured a contract worth RM45.16 million to undertake earthworks and retaining walls for a data centre development in Johor.\n\nIn its bourse filing on Thursday, the Johor-based property developer said the contract was awaded by a data centre operator but did not name the firm.\n\nThe works, to be carried out by its wholly-owned unit PGBG Construction Sdn Bhd, are targeted for completion by the fourth quarter of 2026, said Paragon Globe.\n\nThe company said the contract is expected to contribute positively to its earnings and net assets over the duration of the works, assuming that there are no material delays.\n\n“The works will not have any effect on the share capital or substantial shareholders' shareholding of the company,” it added.\n\nParagon Globe shares closed unchanged at 73.5 sen on Thursday, giving the company a market capitalisation of RM548.8 million.\n\nEdited ByS Kanagaraju\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/817655"
-    },
-    {
-      "id": "2026-09-11-6242bb",
-      "title": "South Korea nears agreement worth over US$100 bil in US investments, WSJ reports",
-      "summary": "The South Korean government is preparing to announce a major energy investment project in the United States worth more than US$100 billion (RM406.61 billion) aimed at boosting artificial intelligence build-out, The Wall Street Journal reported on Thursday.",
-      "why_it_matters": "",
-      "score": 50,
-      "heat": 1,
-      "regions": [
-        "korea"
-      ],
-      "topics": [
-        "ai",
-        "energy",
-        "investment"
-      ],
-      "published_at": "2026-09-10T08:36:34Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/817611",
-          "type": "html-list"
-        }
-      ],
-      "content": "(Sept 10): The South Korean government is preparing to announce a major energy investment project in the United States worth more than US$100 billion (RM406.61 billion) aimed at boosting artificial intelligence build-out, *The Wall Street Journal* reported on Thursday.\n\nThe deal would see South Korea financing the construction of up to eight nuclear power plants and a natural gas project, the report said, citing people familiar with the matter.\n\nSouth Korea's trade ministry said details regarding investment in the US have not been finalised. The US Commerce Department and the White House did not immediately respond to requests for comment sent outside regular business hours.\n\nThe administration continues to engage with major trading partners, including South Korea, to address longstanding trade and economic issues, and any reports about a possible agreement should be treated as \"baseless speculation\" unless officially announced, a White House official told *Reuters* in an emailed statement.\n\nUS President Donald Trump and South Korea's President Lee Jae Myung reached a trade deal last October that saw South Korea commit US$350 billion worth of investments to US manufacturing in return for Washington capping tariffs on Korean imports at 15%.\n\nSeoul has since faced delays in implementing the trade deal, however, leading Trump to threaten the country with a tariff hike earlier this year.\n\nAccording to *The Wall Street Journal* report, the investments from South Korea are expected to unfold over a number of years.\n\nThe deal involves the construction of up to eight nuclear reactors in the US, the first of which would use American firm Westinghouse Electric’s design, the report said. Some subsequent reactors could use designs from South Korea's Kepco.\n\nAnother potential investment, at roughly US$20 billion, is tied to a natural-gas power plant in Texas, which would power AI data centres, *WSJ* said.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/817611"
-    },
-    {
       "id": "2026-09-11-e00c5a",
       "title": "Nvidia partners with Aussie companies to bring 2GW online by 2027",
       "summary": "Nvidia is working with Australian cloud providers and data center operators to bring 2GW of compute capacity online by 2027. The partnership is aimed at scaling AI infrastructure in Australia amid surging demand for GPU-based workloads.",
@@ -776,6 +749,33 @@
       ],
       "content": "Transgrid, the transmission network operator for New South Wales, is warning that Sydney’s data centre boom is putting increasing pressure on the transmission network, with more than 20GW of data centre connection enquiries now in the pipeline across NSW.\n\nThe company says existing capacity in Sydney is largely committed, meaning new data centre developments will need to fund network upgrades to unlock additional capacity.\n\nThe figures come as Transgrid released its **2026 Transmission Annual Planning Report (TAPR)**, which identifies data centres as one of the biggest drivers of future electricity demand in NSW. NSW is already home to roughly 100 data centres, but these have typically connected to the distribution network. It’s the emergence of much larger facilities, some adding more than 1GW of demand at a single site, that is now pushing developers towards direct transmission connections and therefore into Transgrid’s remit.\n\nTransgrid said the 20GW figure relates specifically to data centre connection enquiries, although only a proportion of the projects are expected to proceed. The pipeline is roughly twice current NSW peak electricity demand.\n\nAround 1.5GW of data centre capacity is already covered by signed connection agreements in Greater Sydney, with all of those projects still to connect. Project maturity across the pipeline varies considerably, ranging from advanced developments with secured land, financing and end customers through to early-stage speculative proposals.\n\nTransgrid said additional capacity in Sydney could be unlocked through network investment, including the proposed South Creek substation and associated transmission upgrades in Western Sydney. Technical studies are still being finalised, but the solution could unlock up to 2GW of additional transmission capacity.\n\n### Market-led allocation\n\nAllocation of that capacity will be market-led, with projects effectively competing to be first to commit to funding the required augmentation, subject to meeting Transgrid’s readiness criteria.\n\nThe constraints are prompting Transgrid to point prospective data centre developers towards regional NSW, where parts of the network may have greater capacity.\n\nThe TAPR identifies potential opportunities around areas including the Hunter and Riverina, although available capacity is indicative and would depend on the requirements of individual projects and any necessary network upgrades.\n\nThe report also highlights the potential impact of making large new electricity users pay for the full capacity they reserve, rather than only the capacity they ultimately use. Transgrid estimates such a reform could reduce like-for-like transmission costs for other consumers by up to 15%.\n\nData centre demand is also rising much faster than previously forecast. Transgrid’s latest analysis, prepared by Baringa, projects data centre peak demand in NSW to rise from around 660MW in 2027 to 3.67GW in 2036.\n\n### Four times higher\n\nThe report says data centre loads are now forecast to be approximately four times higher in 10 years than projected in Transgrid’s 2025 report. Under Baringa’s central scenario, data centres could reach around 3.5GW of peak demand by 2035, roughly twice the equivalent peak demand implied by AEMO’s 2026 ESOO Step Change scenario.\n\nTransgrid estimates data centres will account for 66% of the growth in NSW end-use electricity consumption between FY2026 and FY2035, reflecting the extent to which the sector is reshaping the state’s demand outlook.\n\nData centres currently account for around 3% of NSW peak electricity demand, but Transgrid forecasts this could rise to around 20% by 2035.\n\nThe scale and characteristics of data centre demand are also becoming an important consideration for network planning. Traditional data centre loads tend to consume electricity relatively consistently throughout the day, while AI workloads can introduce greater variability.\n\nTransgrid says connection agreements can incorporate provisions allowing loads to be curtailed during periods of system stress. Battery energy storage, intelligent workload scheduling and other forms of demand-side flexibility could also create additional room on the network.",
       "content_url": "https://w.media/transgrid-warns-sydney-data-centre-demand-is-stretching-grid-capacity/"
+    },
+    {
+      "id": "2026-09-11-6242bb",
+      "title": "South Korea nears agreement worth over US$100 bil in US investments, WSJ reports",
+      "summary": "The South Korean government is preparing to announce a major energy investment project in the United States worth more than US$100 billion (RM406.61 billion) aimed at boosting artificial intelligence build-out, The Wall Street Journal reported on Thursday.",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [
+        "ai",
+        "energy",
+        "investment"
+      ],
+      "published_at": "2026-09-10T08:36:34Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/817611",
+          "type": "html-list"
+        }
+      ],
+      "content": "(Sept 10): The South Korean government is preparing to announce a major energy investment project in the United States worth more than US$100 billion (RM406.61 billion) aimed at boosting artificial intelligence build-out, *The Wall Street Journal* reported on Thursday.\n\nThe deal would see South Korea financing the construction of up to eight nuclear power plants and a natural gas project, the report said, citing people familiar with the matter.\n\nSouth Korea's trade ministry said details regarding investment in the US have not been finalised. The US Commerce Department and the White House did not immediately respond to requests for comment sent outside regular business hours.\n\nThe administration continues to engage with major trading partners, including South Korea, to address longstanding trade and economic issues, and any reports about a possible agreement should be treated as \"baseless speculation\" unless officially announced, a White House official told *Reuters* in an emailed statement.\n\nUS President Donald Trump and South Korea's President Lee Jae Myung reached a trade deal last October that saw South Korea commit US$350 billion worth of investments to US manufacturing in return for Washington capping tariffs on Korean imports at 15%.\n\nSeoul has since faced delays in implementing the trade deal, however, leading Trump to threaten the country with a tariff hike earlier this year.\n\nAccording to *The Wall Street Journal* report, the investments from South Korea are expected to unfold over a number of years.\n\nThe deal involves the construction of up to eight nuclear reactors in the US, the first of which would use American firm Westinghouse Electric’s design, the report said. Some subsequent reactors could use designs from South Korea's Kepco.\n\nAnother potential investment, at roughly US$20 billion, is tied to a natural-gas power plant in Texas, which would power AI data centres, *WSJ* said.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/817611"
     },
     {
       "id": "2026-09-11-336c3d",
