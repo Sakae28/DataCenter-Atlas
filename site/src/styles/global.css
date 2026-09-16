@@ -1914,7 +1914,7 @@ a.chip.company:hover {
 /* Country heat map: choropleth in theme green over gray context shapes. */
 .map-panel {
   margin-bottom: 0;
-  padding-bottom: 10px;
+  padding: 16px 18px 10px;
 }
 
 .heatmap {
