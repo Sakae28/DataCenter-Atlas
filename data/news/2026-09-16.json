@@ -1,14 +1,537 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16T01:00:03Z",
+  "generated_at": "2026-09-16T23:23:55Z",
   "hot": [
-    "2026-09-16-e265b8",
-    "2026-09-16-93d70e",
-    "2026-09-16-a0554a",
-    "2026-09-16-70751e",
-    "2026-09-16-25ea54"
+    "2026-09-16-efbaf6",
+    "2026-09-16-4e1d45",
+    "2026-09-16-eae543",
+    "2026-09-16-06bc36",
+    "2026-09-16-355ece"
   ],
   "stories": [
+    {
+      "id": "2026-09-16-53df6a",
+      "title": "Japan's Resonac, Nitto Denko to Invest in US Fund for AI Hardware",
+      "summary": "Chip material makers join TSMC, ASML in investment on production bottlenecks",
+      "why_it_matters": "",
+      "score": 35,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "investment"
+      ],
+      "published_at": "2026-09-16T23:23:55Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-resonac-nitto-denko-to-invest-in-us-fund-for-ai-hardware",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Resonac",
+        "Nitto Denko"
+      ],
+      "content": "Artificial intelligence\n# Japan's Resonac, Nitto Denko to invest in US fund for AI hardware\n\nChip material makers join TSMC, ASML in investment on production bottlenecks\n\n Matter Venture Partners funds have invested in companies that have found synergies with Japanese companies, including Path Robotics' work on industrial welding robots with Yaskawa Electric. (Path Robotics)\n\nKAZUYUKI OKUDAIRA\n\nSeptember 17, 2026 02:02 JST\n\nTOKYO -- Chip materials manufacturers Resonac Holdings and Nitto Denko are among the Japanese companies that have agreed to invest in a U.S.-based fund focused on makers of chips and other artificial intelligence-related hardware to find partners for collaboration on AI.",
+      "content_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-resonac-nitto-denko-to-invest-in-us-fund-for-ai-hardware"
+    },
+    {
+      "id": "2026-09-16-eae543",
+      "title": "Beyond servers: Malaysia targets bigger share of AI economy",
+      "summary": "Malaysia is pushing to capture more of the AI economy beyond hosting servers, targeting growth in semiconductors, cooling systems, and AI application development. The strategy aims to convert the country's data centre construction boom into higher-value industrial and technology activity.",
+      "why_it_matters": "If successful, the shift moves Malaysia up the value chain from landlord to technology producer, creating better-paid jobs and stickier industrial investment. For data centre operators, it could also mean a deeper local supplier base and stronger government support, though competition from Singapore, Taiwan, and South Korea remains formidable.",
+      "score": 78,
+      "heat": 2,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "chips",
+        "cooling"
+      ],
+      "published_at": "2026-09-16T23:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/asean/beyond-servers-malaysia-targets-bigger-share-ai-economy",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/international/asean/beyond-servers-malaysia-targets-bigger-share-ai-economy",
+          "type": "html-list"
+        }
+      ],
+      "content": "The data centre boom is creating opportunities from chips and cooling to AI applications\n\n[KUALA LUMPUR] Beyond the concrete gates of Malaysia’s multibillion-dollar data centres lies the biggest artificial intelligence prize: a scramble to capture more of the AI supply chain, from chips and cooling systems to specialised hardware powering the regional tech boom.\n\n“The race for AI applications and also participation in the building of AI is on, not so much data centres, but on the hardware,” InvestPenang CEO Loo Lee Lian told *The Business Times*.\n\nMalaysia Semiconductor Industry Association president Wong Siew Hai similarly sees opportunities for the country’s existing electrical and electronics (E&E) base, spanning chips, power systems, sensors and other components.",
+      "content_url": "https://www.businesstimes.com.sg/international/asean/beyond-servers-malaysia-targets-bigger-share-ai-economy"
+    },
+    {
+      "id": "2026-09-16-355ece",
+      "title": "How AI could help – or hurt – Asia's energy future",
+      "summary": "The tech’s climate footprint depends on whether the carbon emitted to run it exceeds the carbon it helps avoid",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 2,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "power",
+        "sustainability"
+      ],
+      "published_at": "2026-09-16T23:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/opinion-features/how-ai-could-help-or-hurt-asias-energy-future",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/opinion-features/how-ai-could-help-or-hurt-asias-energy-future",
+          "type": "html-list"
+        }
+      ],
+      "content": "The tech’s climate footprint depends on whether the carbon emitted to run it exceeds the carbon it helps avoid\n\nARTIFICIAL intelligence is one of the world’s fastest-growing sources of demand for electricity.\n\nBetween 2025 and 2030, data centres for AI are projected to double their share of global electricity consumption to around 3 per cent. That is a 30-fold increase since the start of the decade.\n\nCurrently, nearly two-thirds of the power that feeds AI comes from fossil fuels. Left unchecked, AI’s growth will lock in a new wave of carbon-emitting energy systems at exactly the moment when climate change and the global fuel crisis point to the urgent need to phase them out.\n\nHowever, AI’s growing energy footprint is only one side of the story.\n\n## Can AI accelerate the energy transition?\n\nAI may also prove to be a powerful tool for reducing energy waste, modernising energy systems and accelerating the transition to clean energy.\n\nI see this evidence everywhere. In energy, transportation, agriculture and the built environment, it is supporting efforts to use less energy and facilitate the uptake of renewables.\n\nIn Asia, AI-powered irrigation systems are improving water efficiency and forecasting droughts and flooding. Across industry, the technology is pinpointing inefficiencies in production lines, shipping and logistics – reducing both costs and energy demand.\n\nYet the most transformative opportunity lies in making the world’s electricity grids modern and more efficient.\n\nUnder Global Energy Alliance’s India Grids of the Future Accelerator, the Indian state of Rajasthan has built a “digital twin” of Jaipur’s electricity grid, with around four million network assets mapped and digitised.\n\nAI is now delivering real-time insights in seconds, spotting outages, predicting faults and modelling ways to integrate renewables and deploy battery storage.\n\nInitial pilots suggest the digital twin could reduce annual operating costs by around US$15 million in Jaipur’s electricity network, including about US$1.2 million a year from improved transformer maintenance alone.\n\nThe programme could well improve energy reliability and clean energy supply for up to 18 million people.\n\nIn Asia, power utilities are waking up to the possibilities, harnessing AI to forecast energy demand, identify waste and optimise grid performance.\n\nThese changes are not “nice-to-have” benefits. The potential for carbon emissions reductions is striking.\n\nScientists estimate that deploying AI in global renewable energy systems could result in emission reductions to the tune of 1.8 gigatonnes of carbon dioxide a year by 2035 – 3.1 per cent of global emissions.\n\nThat is more than the annual carbon footprint of Japan, or indeed that of any country outside of China, the US, India and Russia.\n\nThe benefits extend well beyond carbon emissions.\n\nDespite rapid progress, tens of millions of people in Asia still live in energy poverty, notes the International Energy Agency (IEA). By harnessing AI to make energy systems more efficient and cleaner, access to energy can increase without the heavy carbon price tag.\n\nThis approach is even more crucial in Africa, where the majority of the world’s energy-poor live – nearly 600 million people.\n\n## South-east Asia must manage the risks\n\nBut we must be clear-eyed about the risks. Asia, home to roughly 60 per cent of the world’s population, is in the middle of a data centre boom. Its share of global data centre capacity is projected to double to 40 per cent by 2030, said Moody’s.\n\nUnless this rapid growth is matched by major investments in clean energy, AI risks driving a new cycle of carbon-intensive growth and deepening energy vulnerability among Asia’s emerging economies.\n\nThe IEA estimates that annual investments in South-east Asia’s grids and storage systems must rise from US$13 billion currently to US$50 billion in 2050 to deliver this transition.\n\nThe path forward for public policy is clear: Regional policymakers must strategically harness AI to strengthen energy security, expand access to electricity and reduce carbon emissions.\n\nAs an early mover, Singapore has already built a digital twin of its 27,000 kilometres of grid and other network assets. The city state is now integrating AI into daily field work and plans to use it for active grid control next.\n\nIn doing so, Singapore offers a case study of what a mature version of the Jaipur model could look like a decade from now.\n\nSteering AI for public benefit will require strengthening Asia’s often still-nascent legislative and AI governance frameworks. Singapore has taken the regional lead by launching the world’s first Model AI governance framework and a Green Data Centre Roadmap mandating that new data centres source at least half their power from renewables.\n\nImplementing stable, predictable and transparent regulations in the rest of Asia will help mobilise the enormous investments required to accelerate the adoption of clean energy, strengthen energy systems and drive economic opportunity.\n\nThe stakes are high. The size of AI’s climate footprint will depend on whether the carbon emitted to run it exceeds the carbon it helps avoid.\n\nCountries that fail to align AI growth with clean energy risk rising costs, weaker productivity and greater exposure to volatile energy markets.\n\nThose who pair AI with clean energy, grid modernisation and sound policies will create a lasting edge and future-proof both economic growth and social progress.\n\n**The writer is chief executive officer of Global Energy Alliance for People and Planet and former managing director-general at the Asian Development Bank**",
+      "content_url": "https://www.businesstimes.com.sg/opinion-features/how-ai-could-help-or-hurt-asias-energy-future"
+    },
+    {
+      "id": "2026-09-16-23f221",
+      "title": "Goodman raises $455m for its Hong Kong data center partnership",
+      "summary": "Goodman Group has raised $455 million for its Hong Kong data center partnership, with proceeds earmarked for construction of a new facility in the city. The project is scheduled to come online in 2028, adding capacity to a market constrained by land and power availability.",
+      "why_it_matters": "The raise signals institutional capital is still willing to back Hong Kong data centre development despite questions about the city's competitiveness against cheaper hubs like Johor. For tenants planning long-term AI and cloud capacity in North Asia, the 2028 delivery timeline offers a rare new-build option in a supply-tight market.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "investment",
+        "capacity",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-16T15:01:50Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/goodman-raises-455m-for-its-hong-kong-data-center-partnership/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Goodman Group"
+      ],
+      "content": "Goodman Group has raised $455 million for its Hong Kong Data Centre Partnership (GHKDCP).\n\nProceeds from the equity raise will predominantly fund the mechanical and electrical fit-out of Goodman HKG10, GHKDC’s data center in Tsuen Wan, which will be operated by Goodman.\n\nHKG10 will be located in an existing Goodman warehouse, with first capacity ready for service in early 2028.\n\nPaul McGarry, Goodman’s Head of Asia, said: “This equity raise is a clear endorsement of the strategy we set out when we launched the $2.7 billion investment partnership just over a year ago.\n\n“The continued support of existing investors, alongside contributions from new investors, reflects confidence in the quality of the portfolio, the depth of customer demand and the opportunity for well-located data center capacity in Hong Kong. It positions the partnership to continue delivering the scale, reliability and quality our customers require.”\n\nGHKDCP launched in July 2025, with Goodman as the anchor investor, taking a 20 percent stake. The rest of the cash was provided by institutional and sovereign wealth partners, including PGGM, APG, Canada Pension Plan Investment Board, CBRE Investment Management’s Indirect Private Real Estate Strategies, and an unnamed Middle Eastern investor.\n\nIts portfolio will eventually comprise six assets providing 180MW of IT capacity.\n\nMcGarry said: “Goodman HKG10 is a long-term investment in Hong Kong’s digital future. By revitalizing an existing building, we are reducing the project’s environmental impact and making responsible use of Hong Kong’s limited land. Retaining the building’s existing structure avoids emissions associated with demolition and reduces the need for new carbon-intensive structural materials such as concrete and steel, while adding critical infrastructure that underpins Hong Kong’s position as a leading technology hub in Asia.”\n\nAustralian developer Goodman has more than 500MW of stabilized data center capacity in its Asia platform, spread across the supply-limited markets of Hong Kong and Japan, with another 150MW under active construction.\n\nGlobally, the company’s power bank stood at 6.4GW as of 30 June 2026, including 3.6 GW of secured power.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/goodman-raises-455m-for-its-hong-kong-data-center-partnership/"
+    },
+    {
+      "id": "2026-09-16-dc787c",
+      "title": "IDCC 2026 Data Center Conference to Open in Beijing with 3 Main Forums and 20+ Themed Sessions",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 40,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "event",
+        "industry-conference"
+      ],
+      "published_at": "2026-09-16T11:17:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "中国IDC圈",
+          "url": "https://news.idcquan.com/news/208055.shtml",
+          "type": "html-list"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-344efe",
+      "title": "Data center growth lifts Infratil earnings guidance for FY 2027",
+      "summary": "New Zealand-based infrastructure investment company Infratil has announced an adjustment to its EBITDAF guidance for FY 2027 ahead of its Investor Day. The adjustment comes as a result of global data center demand that has driven the firm’s portfolio growth over the last year. The change follows a similar revision in one of Infratil’s portfolio […]",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "earnings",
+        "capacity",
+        "colocation"
+      ],
+      "published_at": "2026-09-16T09:14:40Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/data-center-growth-lifts-infratil-earnings-guidance-for-fy-2027/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Infratil",
+        "CDC Data Centres"
+      ],
+      "content": "New Zealand-based infrastructure investment company Infratil has announced an adjustment to its EBITDAF guidance for FY 2027 ahead of its Investor Day. The adjustment comes as a result of global data center demand that has driven the firm’s portfolio growth over the last year.\n\nThe change follows a similar revision in one of Infratil’s portfolio companies, CDC Data Centres. Previously, EBITDAF guidance for FY 2027 at the data center operator was set at a range of AUD 680 – 720 million (US$ 484.72 – 513.24 million) but has now been updated to a range of AUD 710 – 750 million (US$ 506.10 – 534.63 million). As a result, Infratil’s guidance has been adjusted from a range of NZD 1.3 – 1.4 billion (US$ 748.12 – 805.67 million) to NZD 1.32 – 1.42 billion (US$ 759.63 – 817.18 million).\n\n“CDC Data Centres in Australasia and Kao Data in the UK are both experiencing strong demand for computing capacity, while Longroad Energy in the United States is also benefitting from AI demand for power,” said Jason Boyes, Infratil Chief Executive Officer. “Our global portfolio provides multiple pathways to grow returns across the AI infrastructure value\n\nchain. We’re pursuing attractive opportunities adjacent to our core energy and data centre investments, including leveraging our existing platforms across geographically diverse markets, as well as exploring new sectors for future growth.”\n\nAccording to an announcement CDC has signed another 70 MW in contracts expected to be delivered across late FY 2027 and early FY 2028. The operator has 350 MW of deployed capacity and a total contracted capacity of 1.1 GW expected to generate AUD 2.2 billion (US$ 1.57 billion) when fully deployed.\n\nLongroad Energy is showing strong growth in the US. The firm recently acquired a 2.8 GW project, lifting its development cadence to 2.5 GW a year between 2027 and 2029, bringing its total capacity to 14 GW. In addition, the firm is exploring the possibility of using its solar farm sites for data center co-location and has reportedly identified potential sites for a 10 GW deployment pipeline.\n\n“CDC and Longroad combine qualities that are often difficult to find together. They are highly experienced developers with strong track records of securing approvals, building community support and delivering complex infrastructure projects at scale. At the same time, over half of their valuations are supported by contracted revenues, providing downside protection and earnings visibility,” said Boyes.\n\nInfratil noted that One New Zealand plays an important role as a reliable cash flow contributor. The mobile network operator recently announced a proposal to share radio access network infrastructure with its competitor 2degrees. While the companies will continue to compete in services, the shared access will allow for more efficient deployment of mobile infrastructure. Infratil also highlighted that One New Zealand is well placed to capture growth from AI demand and future data centers in the country.",
+      "content_url": "https://w.media/data-center-growth-lifts-infratil-earnings-guidance-for-fy-2027/"
+    },
+    {
+      "id": "2026-09-16-06bc36",
+      "title": "Chipmaker stocks will weather any AI slowdown",
+      "summary": "There may be a lag between talk and action but don’t bet on it",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "investment"
+      ],
+      "published_at": "2026-09-16T08:20:09Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/opinion-features/chipmaker-stocks-will-weather-any-ai-slowdown",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/opinion-features/chipmaker-stocks-will-weather-any-ai-slowdown",
+          "type": "html-list"
+        }
+      ],
+      "content": "There may be a lag between talk and action but don’t bet on it\n\nONE fear over the past few days is that an artificial-intelligence slowdown, whatever that looks like, might harm the stocks of chipmakers. If AI development takes a breather, the insatiable appetite that has propelled component makers to unprecedented heights would dissipate.\n\nWill AI companies still need all those data centres? The answer is yes. And then some.\n\nThe 6 per cent drop in the Philadelphia Semiconductor Index – which tracks the shares of top chipmakers like Nvidia and Intel – over the past five days, as AI doom fears have captured the news agenda, is an understandable reaction to the uncertainty created by hyperbolic but not entirely unwarranted talk of an AI-created catastrophe.\n\nBut missing from any of the pledges from the hyperscalers, or leading AI shops, is any talk of scaling back the infrastructure buildout. On the contrary. In his 4,500-word *We Must Pace the Frontier* essay, Anthropic co-founder Dario Amodei notes that “pacing does not mean halting model training or technical progress”.\n\nIt’s early days, and there is a faint chance Congress could enforce a slowdown of sorts, but so far there’s no indication of any pulling back in the numbers.\n\nBank of America (BOA) analysts note sky-high memory costs – a key indicator of demand for the AI buildout – are unchanged. The rental cost for Nvidia’s widely deployed B200 system is US$5.72 an hour, BOA said, and has risen steadily over the past two months.\n\nNow there may be a lag between AI slowdown talk and AI slowdown action. But don’t bet on it: “2027 remains much a fully booked/contracted year across all compute/networking/memory vendors,” BOA analysts wrote. “And we expect 2028 to also remain tight led by accelerating demand.”\n\nIn fact, were it not for the headlines and dramatically resigning employees, you would think the AI race had actually stepped up a notch. On Tuesday, Meta Platforms announced it still planned to go full steam ahead with putting its own AI chips into data centres by the beginning of 2027.\n\nThis comes from a company that claimed to have its own AI-gone-rogue cyberattack moment in August, just like OpenAI’s Hugging Face fiasco.\n\nElon Musk, with a comment firmly in grain-of-salt territory, outlined his plans to put Nvidia’s Vera Rubin AI stack in space in 2027. I don’t believe him, but that’s beside the point, which is that none of the main players in AI show signs of letting up on investing in capacity to run these models.\n\nA useful exercise is to consider how AI companies describe the path to safer AI and ask whether it indicates less spending.\n\nIn August, with an urgency echoing the “pause” talk of the past few days, more than 100 AI companies – OpenAI, Anthropic, Alphabet’s Google and Microsoft among them – put out a joint statement arguing that companies should make it “an immediate leadership priority” to protect from AI harm – whether that be vulnerabilities discovered by supersmart models or models acting in unexpected ways. How might they do that?\n\n“Today’s AI advances are already giving defenders new ways to fix weaknesses that have accumulated for years,” the letter suggests. It appears the solution to the AI problem, handily enough, is more AI.\n\nThat doesn’t sound like a slowdown in demand. BLOOMBERG",
+      "content_url": "https://www.businesstimes.com.sg/opinion-features/chipmaker-stocks-will-weather-any-ai-slowdown"
+    },
+    {
+      "id": "2026-09-16-c84294",
+      "title": "Schneider Electric debuts 2.5MW power modules for AI data centers",
+      "summary": "Prefab modules can cut installation time, vendor says",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "power",
+        "ai",
+        "equipment"
+      ],
+      "published_at": "2026-09-16T07:50:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/schneider-electric-debuts-25mw-power-modules-for-ai-data-centers/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Schneider Electric"
+      ],
+      "content": "Schneider Electric has released a new range of 2.5MW power modules aimed at hyperscale and AI data centers.\n\nThe power and cooling technology vendor says its new standardized and prefabricated power modules and power skids are “scalable, high-density power solutions designed for hyperscale, neocloud and colocation data center environments.”\n\nPowered by Schneider Electric’s Galaxy VXL UPS technology, the modules are based on the company’s latest reference designs produced in conjunction with Nvidia, which include integrated power management and liquid cooling controls for the GPU giant’s GB300 NVL72 rack-scale platform for AI.\n\nThe modules and skids are available in 2MW, 2.25MW, and 2.5MW configurations, and Schneider says the 2.5MW version is the largest it has ever produced in terms of capacity.\n\nBy taking a standardized approach to prefabricated power infrastructure, Schneider argues it is simplifying the process of designing and building power systems, and says it can manufacture prefabricated power infrastructure in as little as six months.\n\n“Today’s data center operators are under immense pressure to deploy AI-ready infrastructure faster, more efficiently and at greater scale,” said Tarunjeet Sarao, SVP for data center systems at Schneider Electric.\n\n“By standardizing our prefabricated power systems, and incorporating our leading Galaxy VXL UPS technology, we are enabling hyperscale, neocloud and colocation providers to deploy scalable, high-density power infrastructure in months rather than years. This represents a major step forward in helping customers build the next generation of AI factories, AI hubs and large-scale digital infrastructure.”\n\nThe modules integrate Schneider Electric technologies including Galaxy VXL UPS, switchgear, cooling systems, lithium-ion battery technology, busway and power distribution systems within a factory-tested enclosure. Power skids “provide the same core electrical infrastructure in an open skid-based format designed for indoor deployment within grey space environments.”\n\nEngineering, manufacturing, and testing of the modules is undertaken at Schneider Electric’s factory in Sant Boi de Llobregat, Barcelona, which was recently expanded to support growing global demand for modular data center infrastructure, and now provides 5,000sqm (53,819 sq ft) of dedicated, production space.\n\nAvailable immediately in Europe, Schneider Electric said the new power solutions will become available in North America later this year, followed by additional international markets and APAC.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/schneider-electric-debuts-25mw-power-modules-for-ai-data-centers/"
+    },
+    {
+      "id": "2026-09-16-74b1af",
+      "title": "Vietnam warns of blackouts from 2027 as power projects stutter",
+      "summary": "A push for at least 10% annual economic growth through the decade’s end is pressuring its power grid",
+      "why_it_matters": "",
+      "score": 42,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "regulation"
+      ],
+      "published_at": "2026-09-16T06:35:07Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/asean/vietnam-warns-blackouts-2027-power-projects-stutter",
+          "type": "rss"
+        }
+      ],
+      "content": "A push for at least 10% annual economic growth through the decade’s end is pressuring its power grid\n\nVIETNAM could face electricity shortages from 2027 as power generation and grid projects fall behind schedule, according to the country’s trade ministry, putting plans for double-digit economic growth at risk.\n\nCiting “very slow” progress in recent years, the ministry said just 5 per cent of power projects under a national growth plan had gone into operation, state media reported.\n\nMost were still in development or awaiting approval, held up by issues including the choice of investors, land procedures and grid preparation.\n\nThough supply is expected to meet demand for 2026, rising consumption and delays to new projects risked creating a 4,200-megawatt (MW) shortfall in power capacity in 2027 and an electricity deficit of about 2.9 billion kilowatt-hours (kWh), the ministry said in a report submitted to the prime minister.\n\nThat gap could widen to about 13,900 MW and 61.2 billion kWh in 2030, it said.\n\nVietnam’s push for at least 10 per cent annual economic growth through the end of the decade is adding pressure to the nation’s power grid, with new factories, technology and infrastructure projects lifting electricity demand faster than generation and transmission capacity can be added.\n\nThese risks were exposed by blackouts in 2023, when drought reduced water levels in hydropower reservoirs and forced outages at factories and industrial parks in the country’s north.\n\nTo avert future shortages, the ministry reiterated an earlier proposal to add more coal-fired power capacity as an alternative to projects that rely on imported liquefied natural gas.\n\nThese projects have faced delays as the war in the Middle East disrupts supplies of the fuel.\n\nThe ministry also backed renewable energy projects that can be developed relatively quickly.\n\nIn particular, it proposed accelerating solar projects, including the installation of about 2,800 MW of capacity at government offices, schools, hospitals and other public buildings by June. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/international/asean/vietnam-warns-blackouts-2027-power-projects-stutter"
+    },
+    {
+      "id": "2026-09-16-04ff72",
+      "title": "Bitdeer AI signs 10-year agreement for 65.1 MW data center in Malaysia",
+      "summary": "Bitdeer AI, the cloud infrastructure arm of crypto miner Bitdeer Technologies, has signed a 10-year services agreement for a 65.1 MW AI cloud data centre in Johor Bahru, Malaysia. The A202 facility is expected to be energized in the third quarter of 2027.",
+      "why_it_matters": "The decade-long commitment adds to the wave of crypto-mining firms repurposing capital and power access toward AI compute, reinforcing Johor's status as Southeast Asia's fastest-growing data centre hub. For the local market, large anchor leases like this accelerate grid investment but also intensify competition for power allocations.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "capacity",
+        "colocation",
+        "investment"
+      ],
+      "published_at": "2026-09-16T06:30:17Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/bitdeer-ai-signs-10-year-agreement-for-65-1-mw-data-center-in-malaysia/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Bitdeer"
+      ],
+      "content": "Bitdeer AI, part of Bitdeer Technologies Group, a cryptocurrency mining and artificial intelligence cloud infrastructure company, has signed a 10-year data center services agreement for a 65.1 MW AI cloud data center in Johor Bahru, Malaysia. The A202 facility is expected to be energized in Q3 2027.\n\nAccording to a press release, A202 is located on the same Johor campus as Bitdeer AI’s 21.7 MW A201 facility when both facilities are operational, the campus will have 86.8 MW of AI cloud data center capacity. The new facility is designed for liquid-cooled, rack-scale NVIDIA systems, including GB300 NVL72 and Vera Rubin platforms.\n\nIt will support GPU cloud services, data hosting and the existing campus infrastructure will allow it to extend power, liquid cooling and network connections to A202. The company expects the economics per megawatt at A202 to be broadly consistent with those of its A102 facility and its active pipeline for AI cloud capacity is estimated to exceed US$ 7 billion, including uncontracted capacity.\n\nReaders will recall that Bitdeer AI announced that it has sold its 9.5 MW capacity at its A102 AI cloud data center in Malaysia ahead of energization in Q1 2027. Together with an offtake commitment announced earlier in August, the firm now has in its hand five-year long-term offtake commitments with total expected revenue of over US$ 800 million at this Johor site. It represents 9.5 MW of the 350 MW target of its global AI cloud capacity to be delivered by the first quarter of 2028.\n\nMichael G. Potter, CFO, Bitdeer, said, “The signal from customers is unambiguous: demand for liquid-cooled, rack-scale AI Cloud capacity in 2027 is running well ahead of what the market can supply, A102 sold out ahead of energization, A201 is in advanced negotiations, and our secured AI Cloud data center capacity now stands at approximately 206.5 MW. Securing A202 is a direct response to that demand an incremental 65.1 MW on a campus we already have contracted for.”\n\nRetainna Lin, VP of AI Cloud, Bitdeer, said, “Johor is where we can move fastest, A201 is already secured at the data center level and is scheduled to be ready for service in January 2027, and A202 sits on the same campus the same power, the same cooling, the same network. That is how we added 65.1 MW without originating a new site.”\n\nBitdeer AI expects to fund GPU deployment at A202 primarily through customer prepayments. The company generally seeks to structure those payments to cover more than 50 percent of associated capital expenditure, with additional funding expected from financing secured against contracted cash flows and operating cash flow.\n\nBitdeer AI develops data center capacity based on contracted demand and deploys GPUs and related computing equipment against executed contracts. Bitdeer AI expects to contract A202 capacity before energization and the contract economics vary by site, service mix and duration, and that previously announced contract terms may not be indicative of future terms.",
+      "content_url": "https://w.media/bitdeer-ai-signs-10-year-agreement-for-65-1-mw-data-center-in-malaysia/"
+    },
+    {
+      "id": "2026-09-16-de4ddf",
+      "title": "SK Hynix in talks with Intel about deal to make memory chips in the US for first time",
+      "summary": "South Korea's SK Hynix is in discussions with Intel about an arrangement that would see it manufacture memory chips in the United States for the first time, according to three people familiar with the talks. The discussions come as memory makers face pressure to localize production amid US industrial policy incentives.",
+      "why_it_matters": "An SK Hynix manufacturing foothold in the US would reshape the memory supply chain for AI servers and reduce reliance on Asia-based fabs at a time of surging HBM demand. For Intel, hosting a rival's production could bring foundry revenue and strategic relevance, though terms and feasibility remain uncertain.",
+      "score": 78,
+      "heat": 1,
+      "regions": [
+        "korea",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "memory",
+        "ai",
+        "manufacturing"
+      ],
+      "published_at": "2026-09-16T06:06:32Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/818305",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "SK Hynix",
+        "Intel"
+      ],
+      "content": "SEOUL/WASHINGTON (Sept 16): South Korea's SK Hynix is in talks with Intel about a deal that would see it manufacture memory chips on US soil for the first time, three people familiar with the discussions said.\n\nUnder one potential scenario, SK Hynix would lease part of Intel's long-planned chipmaking facility in Ohio, they said. Under another scenario, it could form a venture with Intel and major cloud firms that are keen to lock in memory chip supplies, two of the people said.\n\nA deal would relieve pressure on Intel, which has been struggling, and mark a big win for the Trump administration, which has been ramping up pressure on chipmakers to build in the United States as relentless investment in AI and data centres fuels an acute shortage of memory chips.\n\nBut potential opposition from Seoul could be a major hurdle, the sources said.\n\nOne of the sources described the talks as exploratory and stressed that no decisions have been made, adding that SK Hynix might also consider other ways to structure the deal.\n\nDetails about how a SK Hynix-Intel deal might be structured are being reported for the first time. Reuters was, however, not able to learn what types of chips SK Hynix may manufacture in Ohio if an agreement is struck.\n\nIts product lineup includes DRAM (dynamic random-access memory) chips used in servers, PCs and smartphones and NAND flash memory chips that provide long-term storage memory. It is also the leading supplier of high-bandwidth memory (HBM) used in AI processing units.\n\nAny agreement to produce advanced memory such as HBM or even DRAM could run into opposition from the South Korean government as those technologies are considered sensitive, said the three sources who declined to be identified as the information is not public.\n\nSK Hynix said in a statement to *Reuters* that it is \"reviewing various measures, including establishing additional production bases, to strengthen the competitiveness of its memory business,\" but \"no matters have been determined at this stage.\"\n\nIntel declined to comment on what it called speculation, but added that it was continuing with investments in Ohio to ready the site.\n\nAsked about a potential SK Hynix plan to produce chips in the US, South Korea's trade ministry said any decision would be at the company's discretion but if it involved a \"national core technology,\" it would be subject to a review under the Industrial Technology Protection Act.\n\nThe US Commerce Department did not respond to a request for comment.\n\nManufacturing semiconductors in the US costs much more than in South Korea, according to two of the sources. Building in the United States entails significantly higher labour and construction costs, and much of the semiconductor industry's supply chain is located within Asia, which also increases US costs, one of them said.\n\nEven so, SK Hynix, which recently completed a secondary listing on the Nasdaq in July and currently only has a chip packaging facility under construction in Indiana, has good reasons to pursue fabricating chips in the United States.\n\nChey Tae-won, chairman of the SK Group conglomerate that SK Hynix is part of, said in July that the company faces enormous pressure and lobbying from customers and countries to supply more chips.\n\n\"I think we need to build a factory in the United States. If possible, I believe we should build it,\" he told reporters.\n\nA deal with SK Hynix would also ease some of the financial strain on Intel, which is part-owned by the US government.\n\nIntel announced in 2022 that it would invest up to US$100 billion (RM404.5 billion) to build potentially the world's largest chipmaking complex in Ohio, with production scheduled to begin in 2025. But completion of the site's two plants has since been delayed to 2030 and 2031.\n\nPleasing both Washington and Seoul could be tough, however, particularly as SK Hynix and rival Samsung Electronics have been urged by the Seoul to accelerate plans to build a new cluster of chipmaking facilities in South Korea's southwest.\n\nUS Commerce Secretary Howard Lutnick has threatened to impose up to 100% tariffs on South Korean and Taiwanese companies unless they commit to increased production on American soil.\n\nBoth countries have also been wrangling over the execution of a huge investment commitment that South Korea made to the US last year in return for lower US tariffs. Some US$150 billion of a proposed US$350 billion has been earmarked for shipbuilding but the remaining US$200 billion is undecided.\n\nTwo of the sources said this has left SK Hynix in a difficult position, with the South Korean government seeking to use any US investment by SK Hynix as leverage in the talks, and Washington heaping pressure on the firm to quickly commit to a US expansion.\n\n*Uploaded by Magessan Varatharaja*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/818305"
+    },
+    {
+      "id": "2026-09-16-4e1d45",
+      "title": "Anthropic signs first Australian data center lease",
+      "summary": "AI safety and research firm Anthropic has signed its first data centre lease in Australia, committing long-term to the Western Downs Digital Park in Queensland. The project is being developed by a Singapore-based investment firm, marking the AI lab's initial infrastructure footprint in the country.",
+      "why_it_matters": "Anthropic's entry validates Australia as a host for frontier AI workloads and puts Queensland's renewable-rich regions on the map for AI infrastructure beyond Sydney and Melbourne. For local developers, landing a top-tier AI tenant strengthens the case for further large-scale campus investment in regional Australia.",
+      "score": 80,
+      "heat": 2,
+      "regions": [
+        "australia",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "hyperscale",
+        "investment",
+        "capacity"
+      ],
+      "published_at": "2026-09-16T04:46:52Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/anthropic-signs-first-australian-data-center-lease/",
+          "type": "rss"
+        },
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/technology/anthropic-lands-its-first-lease-for-an-australian-data-centre-20260916-p60xtu",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "content": "Anthropic, an American artificial intelligence safety and research company, has reportedly entered into its first data center lease deal in Australia. Local media reports say that the project involves a long term commitment at the Western Downs Digital Park (WDDP) in Queensland.\n\nCapital Brief reports that the project is being built by Singapore-based investment firm AGP’s Zerra DC, and that the capacity is expected to begin coming online in 2027. The facility is expected to have a peak capacity of 2.16 GW. WDDP is proposed as a “staged, master-planned digital and energy precinct, bringing together AI-ready data centers, energy infrastructure and a high-quality workplace environment within a campus setting.” The broader master plan provides for up to four data center phases.\n\nThe news comes amidst growing concerns over copyright of data being used to train AI, after leaked government documents reveal how AI giants can dodge the copyright bullet.\n\nJust yesterday, ABC was the first to reveal that AI companies would be allowed to train their models on online content without paying its creators as long as they struck deals with enough rights holders, under one copyright reform plan put forward in government documents seen by the publication.\n\nNow, the Australian Financial Review has reported that it has seen “copyright proposals under consideration by Attorney-General Michelle Rowland” which allow AI giants to train their models on all online content without having to pay creators, as long as they struck deals with enough rights holders. It quotes excerpts from the document: “Once Mandatory Data Access Arrangements quota has been met, AI companies can access statutory permission/safe harbour to use unprotected material on the internet for training purposes only. No additional [money] would be payable to creators or rights holders beyond deals negotiated to achieve quota.”\n\nHowever, Capital Brief says that Anthropic’s facility will be an AI inference data center and not an AI training facility. Neither Anthropic nor Zerra DC have made any official announcement regarding the project so far.",
+      "content_url": "https://w.media/anthropic-signs-first-australian-data-center-lease/"
+    },
+    {
+      "id": "2026-09-16-6518b1",
+      "title": "Bilateral agreements key to mitigating risks of Asean Power Grid projects: OCBC",
+      "summary": "But the progress on building regionwide connectivity is slow, even though discussions on APG are ongoing",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "investment",
+        "regulation"
+      ],
+      "published_at": "2026-09-16T04:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/esg/bilateral-agreements-key-mitigating-risks-asean-power-grid-projects-ocbc",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "OCBC"
+      ],
+      "content": "But the progress on building regionwide connectivity is slow, even though discussions on APG are ongoing\n\n[SINGAPORE] To overcome significant political and regulatory risks hindering the Asean Power Grid (APG), governments within the regional bloc should first ink overarching bilateral agreements governing cross-border electricity trade, said OCBC group chief sustainability officer Mike Ng.\n\n“Many of the individual regulatory issues... are ultimately symptoms of the absence of a sufficiently durable cross-border legal framework,” he said in an exclusive interview with *The Business Times.*\n\nHe was speaking about a new report examining the commercial and legal conditions required to finance projects that export low-carbon electricity to Singapore.\n\nBesides regulatory uncertainties, the report, which was released on Wednesday (Sep 16) by the Singapore Sustainable Finance Association (SSFA), also looked at various ownership structures and revenue models that could have an impact on the bankability of such projects.\n\nLed by OCBC, with management consultancy Baringa and law firm Hogan Lovells Cadwalader Lee & Lee as knowledge partners, the report focused on two import-export corridors: between Singapore and Indonesia, as well as between Singapore and the Malaysian state of Sarawak.\n\nThese two corridors were selected because of the export regions’ proximity to Singapore, their availability of renewable energy and demonstrated willingness to collaborate.\n\nThus far, Singapore’s Energy Market Authority has awarded conditional approvals or licences to import 3.4 gigawatts (GW) of low-carbon electricity from seven projects from Indonesia, as well as a 1 GW project from Sarawak.\n\nThe success of APG is particularly crucial for Singapore, as the city-state – which lacks alternative renewable energy resources – aims to import 6 GW of low-carbon electricity from its neighbours by 2035 under a broader nationwide plan to achieve net-zero carbon emissions by 2050.\n\nHowever, progress on building regionwide connectivity has been slow, even though discussions on APG have been ongoing for more than two decades.\n\nWhile Asean governments have set a goal of linking all 11 member states’ power systems for energy trade by 2045, the ambitious project continues to face significant bottlenecks. These include a large financing gap, a fragmented regulatory framework and a tendency to prioritise domestic over regional interconnections.\n\n## Regulatory risks\n\nAlmost half the report was dedicated to several regulatory risks and how the current regulatory environment disproportionately places such risks on the project developers and the financial institutions funding the projects.\n\nSome of these uncertainties include:\n\n- The lack of an enforceable electricity-trade agreement between governments;\n- How renewable energy certificates could be transferred and recognised across borders;\n- Requirements that parts of the renewable energy supply chain have to be located in the export markets;\n- The prioritisation of domestic energy needs;\n- The duration of export licences, such as Indonesia’s five-year limit;\n- The construction and maintenance of subsea cables that cross third-party countries, such as the Singapore-Sarawak corridor.\n\nWhile all of these are important issues that need to be resolved, Ng believes that a binding bilateral agreement between governments can establish reciprocal regulatory commitments that could help address the long list of issues.\n\nImproving bankability on cross-border projects is not about eliminating risks. What is needed is for the risks to be allocated properly to the party best placed to manage them, with that party responsible for providing compensation should the risks materialise.\n\n“The key is not so much to make the projects less complex. The key is to disambiguate the risks... If the risk allocation is wrong, it could make the cost of financing higher, or the deal could become unbankable,” said Ng.\n\n“For banks, we are generally quite good at assessing and mitigating certain risks like construction risks, operating risks, technology risks, offtake risks. But when it comes to political and regulatory risks, that’s a different animal altogether, because they are ultimately outside the control of the private sector.\n\n“When we are doing a deal today, the banks are not only underwriting today’s government; they are potentially underwriting four to five governments over the 20 to 25-year tenor of the loan,” he added.\n\n## Commercial models\n\nThe report also examined measures to mitigate the risk of power generation facilities and transmission cables becoming stranded assets if integration is not properly managed.\n\nIt looked at three main types of ownership structures:\n\n- A single company that owns both generation and transmission assets during construction and operation;\n- A single company that owns both generation and transmission assets during the construction phase, with ownership separated when the project becomes operational;\n- Having separate owners for these assets throughout the life cycle of the project.\n\nNg noted that there is no single model that is better than the others, and that OCBC has been involved in deals structured in all three ways.\n\nUltimately, it is about taking a more integrated approach with these two types of assets through greater coordination with the different ownership structures, said Kavitha Menon, director of SSFA.\n\nThe report also noted that there may be a pricing gap between current retail or wholesale electricity prices and imported low-carbon electricity. This is because developers would have to recover a much broader cost stack that covers generation, storage, transmission, financing and backup systems.\n\nThis may affect corporate buyers in Singapore in signing long-term power purchase agreements with the developers, which may in turn affect their financing.\n\n“The implication is that matching demand-side price expectations with supply-side costs will require a blend of revenue models,” the report stated.\n\n## Bilateral-first perspective\n\nThe report prioritises establishing bilateral interconnections first, stating that multiple bilateral projects would create the foundation for future multilateral expansion.\n\nBesides Malaysia and Indonesia, EMA also awarded conditional approval for low-carbon electricity import projects with developers in Cambodia, Vietnam and Australia.\n\nNg said what is needed for APG to become a reality is to prioritise some bilateral corridors and establish a clear bankability road map.\n\nOnce the first bilateral project comes to a financial close and becomes operational, the next one “would not be starting from zero”.\n\n“There will be much less friction, and the perceived risk will be lower. And as we repeat this process, project by project, corridor by corridor, I personally believe that the APG will just emerge organically,” said Ng.\n\n“It is why we don’t see a bilateral-first approach as a compromise to the multilateral vision of the APG. In fact, we see it as the pathway to that vision,” he added.\n\nWhile Asean already has a multilateral cross-border project transferring green electricity from Laos to Singapore through Thailand and Malaysia, the project has faced several hurdles. Previous reports have alleged that the deal has been held up since 2024 by disagreements between the countries over how the electricity should be transmitted.\n\nHowever, the deal has been renewed since January 2026, after Malaysia’s state-run utility signed a two-year agreement to continue transmitting low-carbon electricity from Laos to Singapore.\n\nMenon noted that the regulatory and legal conditions of such cross-border projects have to be tailored to those specific jurisdictions.\n\n“You need... for every corridor at least one transaction to get your toes dipped in the water and understand what it takes to get to bankability. So, what is applicable in Vietnam or Cambodia may not be lessons that are directly transferable for a Singapore-Indonesia conversation,” she said.\n\nWhile APG has been stuck in limbo for decades, its value proposition beyond Singapore rose amid the recent Iran war, as Asean governments recognised the need for more stable and diversified sources of energy after soaring prices for imported Middle Eastern fuel exposed their vulnerability to external supply shocks.\n\n“For each of these countries, getting that domestic energy mix and the diversification becomes an important angle. So really thinking hard about the competitive advantage at an Asean level, who is best placed to produce energy at what cost, and having a unified regional coalition coming together and driving that is even more critical today than one year ago,” said Menon.\n\nNg said APG should not be viewed as a “zero-sum game”, where each Asean member state is focused on what they are getting out of it.\n\n“These projects can create value for many parties – the exporting country, the importing country, and the wider region through new sources of income, energy security, decarbonisation, investments ... But not every benefit can be quantified, not every benefit can be allocated to a country,” he said.\n\n“We need to think about how you can make the pie bigger, and the pie can be bigger because everybody is going to be benefiting from it.”",
+      "content_url": "https://www.businesstimes.com.sg/esg/bilateral-agreements-key-mitigating-risks-asean-power-grid-projects-ocbc"
+    },
+    {
+      "id": "2026-09-16-2062d6",
+      "title": "Gurīn Energy and NAVER sign MoU and PPA for Jindo Green Solar project",
+      "summary": "Gurīn Energy Pte Ltd, a Singapore-headquartered renewable energy developer, and NAVER Corporation, a global technology conglomerate, have signed a Memorandum of Understanding (MoU) under which NAVER will acquire a stake in Gurīn Energy’s Jindo Green Solar project in South Korea. The companies have also entered into a long-term power purchase agreement (PPA) for the renewable […]",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [
+        "power",
+        "renewables",
+        "investment"
+      ],
+      "published_at": "2026-09-16T03:55:31Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/gurin-energy-and-naver-sign-mou-and-ppa-for-jindo-green-solar-project/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Gurīn Energy",
+        "NAVER"
+      ],
+      "content": "Gurīn Energy Pte Ltd, a Singapore-headquartered renewable energy developer, and NAVER Corporation, a global technology conglomerate, have signed a Memorandum of Understanding (MoU) under which NAVER will acquire a stake in Gurīn Energy’s Jindo Green Solar project in South Korea. The companies have also entered into a long-term power purchase agreement (PPA) for the renewable electricity generated by the project.\n\nAccording to a press release, Jindo Green Solar is being developed by Gurīn Energy on Jindo Island, part of the Jeonnam-Gwangju Integrated Special City. Gurīn Energy will remain responsible for project development and day-to-day management. The 216 MW solar project is expected to supply renewable electricity for NAVER’s AI and cloud infrastructure, including its GAK Sejong and GAK Chuncheon data centers. The project completed the Electricity Business Licence (EBL) approval process earlier this year.\n\n““Our partnership reflects the growing convergence of the energy transition and digital transformation in Asia as energy security becomes a critical priority,” said Assaad Razzouk, CEO, Gurīn Energy. “Sunlight and wind are free. And once a plant is built, no one can embargo, blockade, or price-gouge the fuel behind it. That’s what energy sovereignty looks like: independence from fuel imports.”\n\nSun-Joo Chae, Head of Strategic Business, NAVER, said, “As the expansion of AI and cloud services drives increasing power demand from data centers, securing a stable supply of renewable energy has become essential to the sustainable operation of digital infrastructure. Through long-term PPAs and strategic investments, NAVER will continue to strengthen the foundation for the renewable energy transition of our data centers and pursue its efforts toward achieving our 2040 Carbon Negative goal.”\n\nGurīn Energy has approximately 600 MW of solar and wind projects in South Korea and is developing additional renewable energy projects in the country. The agreement links renewable power generation with electricity demand from South Korea’s AI, cloud and digital infrastructure sectors. South Korea has a target of achieving carbon neutrality by 2050 and increasing installed renewable energy capacity to 100 GW by 2030.",
+      "content_url": "https://w.media/gurin-energy-and-naver-sign-mou-and-ppa-for-jindo-green-solar-project/"
+    },
+    {
+      "id": "2026-09-16-73fb65",
+      "title": "ABB: Renewables usage puts NZ in data centre sweet spot",
+      "summary": "Renewables are leaving New Zealand well placed for data centres, but ABB says grid upgrades and smarter use of existing assets are needed.",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "power",
+        "renewables",
+        "grid"
+      ],
+      "published_at": "2026-09-16T03:44:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/abb-renewables-usage-puts-nz-in-data-centre-sweet-spot",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "ABB"
+      ],
+      "content": "Wed, 16th Sep 2026 (Yesterday)\nNew Zealand's rapidly growing renewable energy base is putting the nation in a strong position to attract data centres, but the increasing demand for electricity will require greater grid resilience, collaboration and better use of existing generation assets, according to ABB.\n\nAnders Maltesen, President, Energy Industries Asia at ABB, said recent meetings with New Zealand electricity retailers and generators highlighted a market facing a difficult balancing act between rising demand and an increasingly renewable power mix.\n\nNew Zealand has recorded months where more than 95 per cent of its electricity generation has come from renewable sources, up from 85 per cent in 2023.\n\nThe increase reflects continued investment by generators and retailers in new wind and solar projects, but the transition is also changing the way the country manages electricity supply.\n\nRecent conditions had demonstrated the challenge, with a period of cold weather driving heating demand, while lack of wind reduced available generation and reserve capacity.\n\nThe combination left the electricity system with only approximately 200 megawatts of reserve margin.\n\n\"That's obviously a little bit tight,\" Maltesen said.\n\nMaltesen cited the changing role of thermal generation as renewable energy becomes a larger component of the electricity system.\n\nThe Huntly power station, which historically provided a stable source of generation, is increasingly being used as an insurance policy that can be called upon when renewable generation and other available capacity are insufficient.\n\nThe challenge is that wind and solar generation cannot be predicted in the same way as traditional thermal generation, leaving the electricity system more vulnerable to fluctuating weather conditions.\n\nHydro generation provides another important source of flexibility, although it too can be affected by environmental conditions, including water availability.\n\nAgainst this backdrop, Maltesen said New Zealand should look beyond simply building new generation and consider how much additional capacity can be extracted from existing assets.\n\nHydro and geothermal facilities, specifically, are likely to remain important parts of the nation's electricity system for decades, creating an opportunity to use digital technologies to improve their efficiency and reliability.\n\nMaltesen said he heard from one energy industry executive whose organisation had used data analysis to identify an additional three to four per cent of power generation capacity within a year.\n\n\"I think that was a very good signal,\" he said.\n\nThe approach involves analysing operational data to identify efficiency gains and opportunities to improve the reliability of existing generation assets.\n\nSuch improvements could become more important as New Zealand prepares for additional electricity demand from data centres and other energy-intensive industries.\n\n### Data centre opportunity for NZ\n\nThe growth of artificial intelligence is driving a global expansion in data centre development, with countries competing to attract facilities capable of supporting increasingly power-intensive computing workloads.\n\nNew Zealand could participate in that growth, particularly because of its high proportion of renewable electricity.\n\nHowever, Maltesen cautioned against expecting the country to become a major global data centre hub on the scale of the US.\n\nThe availability of renewable electricity is likely to be attractive to data centre operators who are seeking to reduce emissions associated with their power consumption.\n\nNew Zealand's challenge will be determining how much additional data centre capacity its electricity system can accommodate, while continuing to supply existing customers and other growing industries.\n\nMaltesen clarified this is not unique to New Zealand, with many nations announcing significant data centre projects as AI investment accelerates.\n\n\"If we add them all up, we are likely planning more than we need,\" he said.\n\nFor New Zealand, a balanced approach will be required, instead of attempting to accommodate a disproportionate share of global data centre demand.\n\n### Collaboration becomes critical\n\nMeeting rising electricity demand will require cooperation between government, energy companies, grid operators, businesses and academia.\n\nWhile New Zealand has demonstrated a relatively strong level of dialogue between different parts of the energy sector, collaboration will become even more important as the energy transition accelerates.\n\nRenewable generation projects need to be developed alongside the infrastructure required to connect and integrate them into the electricity grid.\n\nMaltesen pointed to examples in other markets where renewable generation capacity had been added without sufficient grid connection capacity, reducing the practical value of the investment.\n\n\"Some markets were adding capacity but no grid connection on renewable power, and then it didn't really help,\" he said.\n\nNew Zealand will also need to contend with a range of challenges that have emerged during previous periods of electricity market pressure, including water and gas constraints.\n\nDespite those issues, ABB remains confident in the country's ability to manage the transition.\n\n### Skills shortage drives automation\n\nThe energy transition is also creating a skills challenge as renewable generation expands and the existing energy workforce ages.\n\nA shortage of skilled workers is affecting New Zealand, as well as other markets, described by Maltesen as a global issue driven by the rapid expansion of renewable energy, electrification and other changes across the energy sector.\n\nABB is responding by developing systems designed to allow operators to manage more processes autonomously while retaining human oversight.\n\nAI can be used to analyse operational data and help workers identify faults and determine how to resolve them more quickly.\n\nRemote operation is another potential application, especially for facilities such as hydroelectric power stations located in remote areas.\n\nRather than requiring large numbers of highly skilled personnel to be physically present at every facility, digital systems can allow operations to be monitored and controlled from a central location.\n\n\"People are still needed, but technology can help leverage and reduce the impact of a skills shortage,\" Maltesen said.\n\n### Extending physical infrastructure lifecycle\n\nThe ability to modernise existing infrastructure could become as important as constructing new generation capacity.\n\nHydroelectric facilities were generally designed for long operating lives and could remain in service for many decades with appropriate maintenance and refurbishment.\n\nSome plants can operate for 80 years or more, while geothermal facilities can continue producing electricity as new wells are developed when existing resources become less economical.\n\nAgeing generation assets may also have a role beyond their original purpose.\n\nOlder generators could potentially be converted into synchronous condensers, allowing them to provide services that help stabilise a power grid with increasing amounts of renewable generation.\n\nThat could provide additional value from assets that might otherwise be considered obsolete.\n\nThe combination of new renewable generation, digitalisation, AI and refurbishment could therefore allow New Zealand to increase the amount of electricity available without relying solely on large-scale new construction.",
+      "content_url": "https://datacenternews.asia/story/abb-renewables-usage-puts-nz-in-data-centre-sweet-spot"
+    },
+    {
+      "id": "2026-09-16-af4771",
+      "title": "AI data centers demand speed-to-power, reshaping site selection",
+      "summary": "AI data centre development is increasingly prioritizing how quickly power can be delivered to a site over total available capacity, according to industry analysis. This 'speed-to-power' emphasis is changing site selection criteria and procurement strategies as developers race to bring compute online faster.",
+      "why_it_matters": "The shift favors markets and utilities that can energize sites quickly, disadvantaging jurisdictions with slow grid connection processes regardless of their raw power reserves. For APAC developers, it means grid relationships and behind-the-meter generation options are becoming as strategic as land acquisition in winning hyperscale and AI tenants.",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "power",
+        "capacity",
+        "site-selection"
+      ],
+      "published_at": "2026-09-16T02:10:09Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/ai-data-centers-demand-speed-to-power-reshaping-site-selection/134276314",
+          "type": "rss"
+        }
+      ],
+      "content": "AI infrastructure is shifting data center development focus from raw power capacity to speed of power delivery. This new emphasis on \"speed-to-power\" is influencing site selection and procurement models as developers race to bring compute capacity online quickly.\n\nSelect ETDatacenters as Preferred Choice on Google\n\nHighlights\n\nAI data centers prioritise speed-to-power over raw capacity for timely delivery.\n\nSite selection is shifting, with new AI data centers moving further from cities.\n\nProcurement models are evolving with bilateral agreements and flexible transmission.\n\nSupply chain constraints, like turbine manufacturing, are critical to power timelines.\n\nThe rapid growth of AI infrastructure is fundamentally reshaping data center development, moving the focus from mere power capacity to the speed at which that power can be delivered. For developers, the critical metric is now megawatts that can be supplied on schedule, rather than just planned capacity, as compute, customers, and capital are ready today.This shift is pulling power planning much earlier into the development process. Lawrence Berkeley National Laboratory (LBNL) has identified over 40 methods to accelerate large-load connections, encompassing load forecasting, interconnection, resource planning, procurement, market operations, and cost allocation. Developers are now actively choosing sites based on this constraint, with Reuters reporting that planned European AI data centers coming online between 2026 and 2028 are located an average of 175 kilometers from major cities, compared to 46 kilometers for projects delivered between 2022 and 2025. This movement is largely attributed to the search for cheaper land, available energy, and faster grid connections.\n\nEvolving Procurement and Supply Chain Dynamics\n\nProcurement models are also evolving. In PJM Interconnection, over 50 GW of generation projects have grid connection agreements, but permitting, equipment, and workforce constraints cause delays. PJM is responding by facilitating bilateral agreements between generators and large loads to support new capacity outside traditional procurement. The Federal Energy Regulatory Commission (FERC) has also directed regional grid operators to address co-location, behind-the-meter generation, and more flexible transmission services for large loads. These strategies aim to shorten wait times for grid-supplied power, though they transfer more development burden onto the projects themselves.The entire supply chain is now a critical determinant of schedule. Elon Musk's SpaceX example, where the company began casting gas-turbine blades in-house to shorten delivery by up to 18 months, highlights how a single dependency can impact speed-to-power. Each project must identify its most likely constraint, whether it is interconnection queues, generation equipment delivery, fuel availability, or permits.\n\nFlexible Power Strategies and Demand Forecasting\n\nA flexible power strategy, incorporating utility service, bilateral contracts, onsite generation, storage, and energy recovery, can spread risk and accelerate initial power delivery. Developers can phase power capacity, bringing initial blocks online while larger grid projects continue. Modular power and cooling systems can follow a similar model, adding infrastructure as compute capacity grows.Credible demand forecasts are essential for faster development. Large-load requests, primarily from data centers, have significantly outpaced existing US data center demand in several major power markets. States like Texas are imposing deposits and milestones to distinguish financed, shovel-ready projects from speculative requests, ensuring utilities can plan generation and transmission efficiently. Data center operators and infrastructure teams should evaluate existing power planning and site selection processes for AI infrastructure alignment, explore flexible power strategies including phased deployment and diversified energy sources, and assess supply chain readiness for critical power components required for rapid deployment.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/ai-data-centers-demand-speed-to-power-reshaping-site-selection/134276314"
+    },
+    {
+      "id": "2026-09-16-efbaf6",
+      "title": "Hong Kong's data centre ambitions face US$2.6 billion funding test",
+      "summary": "Hong Kong's data centre sector faces a US$2.6 billion funding gap as North American investors retreat from the market amid geopolitical and regulatory concerns. The city's developers are increasingly turning to mainland Chinese demand and capital to fill the void left by departing Western money.",
+      "why_it_matters": "The shift in funding sources changes who controls Hong Kong's digital infrastructure and tilts the market's customer base toward mainland Chinese cloud and AI firms. For operators and investors, it raises questions about project viability if cross-border data demand softens or if mainland appetite proves less durable than expected.",
+      "score": 85,
+      "heat": 2,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "investment",
+        "funding",
+        "capacity",
+        "market"
+      ],
+      "published_at": "2026-09-16T01:58:36Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/startups-tech/technology/hong-kongs-data-centre-ambitions-face-us2-6-billion-funding-test",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/startups-tech/technology/hong-kongs-data-centre-ambitions-face-us2-6-billion-funding-test",
+          "type": "html-list"
+        }
+      ],
+      "content": "As North American investors pull back, the city increasingly relies on mainland Chinese demand\n\n[HONG KONG] Hong Kong’s ambitious plan to become a data centre hub got off to a slow start.\n\nWhen the government put a site in the remote Sandy Ridge up for auction late in 2025, after earmarking it as a high-tech data centre zone, the initial response was silence.\n\nLocal developers had no interest. Big international data centre operators stayed away.\n\nEventually, the auction received only a single bid: a HK$24 billion (US$3.1 billion) investment pledge from Range Intelligent Computing Technology Group, a mainland Chinese firm little known outside of its home market.\n\nBankers in Hong Kong are now weighing up a financing plan for a company few of them had heard of last year, in a sector that has become a byword for the spending frenzy around artificial intelligence.\n\nRange Intelligent told bankers earlier in 2026 it wanted to raise around HK$20 billion from the loan, according to people familiar with the matter.\n\nThat would mark one of the biggest loan financings in the city in 2026, according to Bloomberg-compiled data. But some bankers said they had doubts over how the company will repay the money, or how it will ultimately develop the site.\n\nThe financing is a test case for Hong Kong’s ambitions to become a hotspot for data centres, the sprawling physical infrastructure underpinning the AI services being offered by hyperscalers such as Meta Platforms and Alibaba.\n\nHyperscalers are technology firms that operate at huge size in cloud computing, storage and network services, among other things.\n\nRange Intelligent is a key player in its domestic market, reaping the benefits of swelling demand by TikTok’s parent ByteDance and giving its founder Zhou Chaonan a fortune of more than US$10 billion earlier in 2026, according to Bloomberg calculations.\n\nBut the firm is only just starting to dip its toes into overseas markets.\n\nHong Kong’s live data centre capacity is expected to roughly double to more than 1,100 megawatts (MW) by 2030, requiring at least US$7 billion of investment in data centres and related infrastructure, according to estimates from Structure Research.\n\nBut North American investors are pulling back, preferring to back data centres housed by big US hyperscalers like Alphabet and Microsoft, said Brian Groen, principal at BGDC Consulting.\n\nThe market increasingly relies on demand from mainland China, particularly from the country’s own hyperscalers: Alibaba, Tencent Holdings and ByteDance.\n\n“Hong Kong is positioning itself to be a super hub for Chinese demand,” said Jason Zhou, a senior analyst at Structure Research. The proximity to Shenzhen for the upcoming projects including Sandy Ridge means the new builds can target Chinese hyperscalers, said Zhou.\n\nThe shifting demand has put the spotlight on data centre builders that are both willing and able to serve this wall of Chinese demand.\n\nRange Intelligent did not respond to requests for comment.\n\nA representative for Hong Kong’s Innovation, Technology and Industry Bureau said it was closely watching the progress of the Sandy Ridge project, but declined to comment on the financing arrangement or development plan.\n\n## Loan negotiations\n\nIn July, a group of executives from Range Intelligent landed in Hong Kong for meetings with bankers, said a person familiar with the matter.\n\nLeading the group was vice-general manager Zhang Xian, daughter-in-law of the company’s founder, Zhou Chaonan, the person added.\n\nIt was months after the firm had first reached out to banks to get commitments for the loan, and the two sides remained locked in negotiations.\n\nRange Intelligent largely focused on the offshore arms of mainland Chinese banks, leveraging the relationships it had built onshore.\n\nRange Intelligent had talks with some bankers about first raising HK$2 billion from a “phase one” loan before borrowing the remaining HK$18 billion later this year, said a person familiar with the matter.\n\nThe bigger portion ironically looked like an easier sell to banks, since Range Intelligent made clear it would be willing to provide collateral to boost the appeal of that loan.\n\nBut in its attempt to save the collateral for the bigger deal, Range Intelligent executives rebuffed attempts to convince them to offer security for the HK$2 billion clip, the person said.\n\nSome bankers said they were concerned about Range Intelligent’s ability to pay back the loan, as well as its wider plan for the project.\n\nStill, several banks have pushed ahead and sent loan proposals to the borrower, in part because Range Intelligent already has a relationship with their banks inside China, said people familiar with the matter.\n\nThe company previously told some banks it wanted to sew up the smaller tranche by the end of September, allowing it to launch the bigger HK$18 billion loan before the end of 2026, one of the bankers said.\n\nBankers are now waiting for the loan to move to the next stage, he added.\n\nRange Intelligent, which has a market value of almost US$15 billion after a wild stock market rally, is responsible for around 750 MW of computing capacity in mainland China – bigger than the current capacity of all Hong Kong data centres combined.\n\nBut the firm has only recently started to expand overseas, with a project in Indonesia’s Batam Island being developed alongside the Hong Kong site.\n\nThe company’s established position in China has given it access to cheap funding.\n\nIts three-year cost of funding is as low as 1.7 per cent, it recently told investors.\n\nIn a bond offering document, the company revealed lending relationships with more than a dozen commercial banks, including branches of Bank of China, China Construction Bank and Shanghai Pudong Development Bank.\n\n## Government plans\n\nThe Sandy Ridge data centre site is part of the Hong Kong’s plan for the Northern Metropolis, a 300 square kilometres project.\n\nThe government hopes the data centre project will generate economic output of about HK$4.6 billion in the first three years.\n\nThe University of Hong Kong is building a new campus in the area, while railway operator MTR is planning to start digging through a new underground network to reach the sparsely populated area.\n\nThe Hong Kong government has also made a clear show of support: The city has dipped into its currency defence fund for the first time in decades, triggering concerns over a dangerous precedent, to help fund development in the area.\n\nThese signs of support may help push Range Intelligent’s deal over the finish line.\n\nSandy Ridge is a key project for the government, which has been pushing AI in the city, said Samuel Lai, head of industrial and logistics at CBRE Group.\n\n“Whether it is for training AI models or for AI computing power, it actually holds a very important strategic significance,” he said. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/startups-tech/technology/hong-kongs-data-centre-ambitions-face-us2-6-billion-funding-test"
+    },
     {
       "id": "2026-09-16-a0554a",
       "title": "Sharp takes orders for AI servers, backed by Foxconn's supply chain",
@@ -71,6 +594,66 @@
       ],
       "content": "TOKYO -- Shares in SoftBank Group fell sharply on Monday after ChatGPT creator OpenAI said it would delay its initial public offering and joined calls to slow the development of increasingly powerful AI models.\n\nMarkets\n# SoftBank Group plunges 11% after OpenAI says no IPO this year\n\nAI safety concerns push tech stocks lower in Asia; oil spike also weakens sentiment\n\nAnthropic CEO Dario Amodei and his OpenAI counterpart, Sam Altman: The rapid growth of AI has sparked concerns over security and potential misuse of the technology, putting a damper on AI stocks. (Source photos by Hiroki Endo and Yutaka Miyaguchi)",
       "content_url": "https://asia.nikkei.com/business/markets/softbank-group-plunges-11-after-openai-says-no-ipo-this-year"
+    },
+    {
+      "id": "2026-09-16-4730c4",
+      "title": "OpenAI mulls funding round at US$1.2 trillion valuation ahead of IPO, FT reports",
+      "summary": "A funding round in March had led to the company being valued at US$852 billion",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-15T23:56:53Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/openai-mulls-funding-round-us1-2-trillion-valuation-ahead-ipo-ft-reports",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "content": "A funding round in March had led to the company being valued at US$852 billion\n\nOPENAI has recently held discussions with large investors about a fresh capital raise that would increase the ChatGPT maker’s valuation to about US$1.2 trillion before it goes public, the *Financial Times* reported on Tuesday (Sep 15), citing people familiar with the matter.\n\nThe conversations with investors are at an early stage and the figure could change over the coming months, said the report, adding that the talks were initiated by investors rather than the company.\n\nOpenAI declined to comment on the report.\n\nThe company had closed a funding round in March with US$122 billion in committed capital, valuing it at US$852 billion.\n\nOpenAI CEO Sam Altman said on Saturday that the company would not go public in 2026, citing safety concerns over artificial intelligence.\n\nOpenAI and rival Anthropic are pushing for greater regulation of artificial intelligence to ensure the technology is developed in ways that promote safety amid concerns about security and misuse.\n\nAnthropic is expected to begin marketing its initial public offering in mid-October at the earliest and complete the listing days before the US midterm elections in November, Reuters reported earlier this month. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/openai-mulls-funding-round-us1-2-trillion-valuation-ahead-ipo-ft-reports"
+    },
+    {
+      "id": "2026-09-16-2f4300",
+      "title": "Nvidia's Huang says AI industry doesn't need any new laws",
+      "summary": "Nvidia CEO Jensen Huang argued that the artificial intelligence industry does not require new security regulations, saying market forces are sufficient to drive safe innovation. His comments push back against growing calls in multiple jurisdictions for binding AI safety rules.",
+      "why_it_matters": "As the most influential voice in AI hardware, Huang's stance strengthens the industry lobby against prescriptive regulation and may sway policymakers weighing AI governance frameworks. For APAC governments drafting their own rules, it sharpens the choice between light-touch approaches that attract investment and stricter regimes favoured by safety advocates.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "regulation"
+      ],
+      "published_at": "2026-09-15T23:51:13Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/818278",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "content": "(Sept 16): Nvidia Corp chief executive officer Jensen Huang dismissed the need for new artificial intelligence security regulations on Tuesday, arguing that market forces will help companies safely innovate.\n\n“We don’t need new laws — we don’t need new regulations,” Huang said during a Salesforce Inc. event. The CEO added that there’s a “false choice” about AI development being either safe or fast, reiterating a point he’s made previously.\n\n“You can definitely have both at the same time,” he said during a conversation with Salesforce CEO Marc Benioff. “You pace yourself until you’re confident you’re releasing something that the market would appreciate. The market forces are already there.”\n\nHuang’s company is the biggest maker of artificial intelligence accelerators — the chips at the heart of a massive data centre build-out — and he’s become one of the most prominent advocates for the broader AI industry. At an event earlier this week, he held an onstage phone call with President Donald Trump where they pushed back against recent arguments that AI development should be slowed.\n\nAI risks have emerged as a hot-button issue in recent days, especially after Anthropic CEO Dario Amodei published a 3,800-word essay proposing a slowdown. That followed the high-profile resignation of an Anthropic employee, who said the company and rival OpenAI were “gambling with our lives” because their technology could become a threat to humanity.\n\nHuang said Tuesday that companies can decide not to release things that are harmful.\n\n“Safety is paramount,” he said. “In a lot of ways, it’s job one. However, safety is an engineering problem.”\n\nIf we reach a point when “the company is out of control and the product’s not going to be safe, take a pause and make sure you get it right,” he said.\n\n*Uploaded by Magessan Varatharaja*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/818278"
     },
     {
       "id": "2026-09-16-70751e",
@@ -229,34 +812,36 @@
       "content_url": "https://asia.nikkei.com/business/startups/kioxia-linked-cloud-startup-to-make-it-easier-to-crunch-encrypted-data"
     },
     {
-      "id": "2026-09-16-2f4300",
-      "title": "Nvidia’s Huang says AI industry doesn’t need any new laws",
-      "summary": "Nvidia Corp chief executive officer Jensen Huang dismissed the need for new artificial intelligence security regulations on Tuesday, arguing that market forces will help companies safely innovate.",
-      "why_it_matters": "",
-      "score": 55,
+      "id": "2026-09-16-1120a6",
+      "title": "Inside the eye-watering numbers Firmus is finally revealing to fundies",
+      "summary": "Australian AI infrastructure company Firmus has disclosed detailed financial figures to institutional investors as it seeks funding for its expansion. The numbers, previously closely held, reveal the scale of revenue and capital requirements behind the company's immersion-cooled AI data centre ambitions.",
+      "why_it_matters": "The disclosure gives fund managers their first hard look at the economics of a homegrown AI data centre play, and the valuation set here will influence pricing for other Australian AI infrastructure raises. For the sector, Firmus's ability to secure institutional backing will test whether local capital will fund domestic AI compute or leave it to offshore players.",
+      "score": 75,
       "heat": 1,
       "regions": [
-        "global"
+        "australia"
       ],
       "topics": [
         "ai",
-        "regulation",
-        "chips"
+        "investment",
+        "financing",
+        "capacity"
       ],
-      "published_at": "2026-09-15T23:51:13Z",
-      "featured": false,
+      "published_at": "2026-09-15T12:00:00Z",
+      "featured": true,
       "sources": [
         {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/818278",
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/chanticleer/inside-the-eye-watering-numbers-firmus-is-finally-revealing-to-fundies-20260916-p60xxn",
           "type": "html-list"
         }
       ],
       "companies": [
-        "NVIDIA"
+        "Firmus"
       ],
-      "content": "(Sept 16): Nvidia Corp chief executive officer Jensen Huang dismissed the need for new artificial intelligence security regulations on Tuesday, arguing that market forces will help companies safely innovate.\n\n“We don’t need new laws — we don’t need new regulations,” Huang said during a Salesforce Inc. event. The CEO added that there’s a “false choice” about AI development being either safe or fast, reiterating a point he’s made previously.\n\n“You can definitely have both at the same time,” he said during a conversation with Salesforce CEO Marc Benioff. “You pace yourself until you’re confident you’re releasing something that the market would appreciate. The market forces are already there.”\n\nHuang’s company is the biggest maker of artificial intelligence accelerators — the chips at the heart of a massive data centre build-out — and he’s become one of the most prominent advocates for the broader AI industry. At an event earlier this week, he held an onstage phone call with President Donald Trump where they pushed back against recent arguments that AI development should be slowed.\n\nAI risks have emerged as a hot-button issue in recent days, especially after Anthropic CEO Dario Amodei published a 3,800-word essay proposing a slowdown. That followed the high-profile resignation of an Anthropic employee, who said the company and rival OpenAI were “gambling with our lives” because their technology could become a threat to humanity.\n\nHuang said Tuesday that companies can decide not to release things that are harmful.\n\n“Safety is paramount,” he said. “In a lot of ways, it’s job one. However, safety is an engineering problem.”\n\nIf we reach a point when “the company is out of control and the product’s not going to be safe, take a pause and make sure you get it right,” he said.\n\n*Uploaded by Magessan Varatharaja*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/818278"
+      "published_precision": "day",
+      "content": "Firmus is talking a huge game, but prospective investors wouldn’t immediately know it from the official prospectus forecasts.\n\nNothing about the forecasts table spruiked in fund manager meetings points to a $50 billion company and the country’s biggest IPO, perhaps ever.\n\nLoading...",
+      "content_url": "https://www.afr.com/chanticleer/inside-the-eye-watering-numbers-firmus-is-finally-revealing-to-fundies-20260916-p60xxn"
     }
   ]
 }
