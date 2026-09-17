@@ -2,8 +2,8 @@
   "date": "2026-09-16",
   "generated_at": "2026-09-16T23:23:55Z",
   "hot": [
-    "2026-09-16-efbaf6",
     "2026-09-16-4e1d45",
+    "2026-09-16-efbaf6",
     "2026-09-16-eae543",
     "2026-09-16-06bc36",
     "2026-09-16-355ece"
@@ -341,7 +341,8 @@
         "Intel"
       ],
       "content": "SEOUL/WASHINGTON (Sept 16): South Korea's SK Hynix is in talks with Intel about a deal that would see it manufacture memory chips on US soil for the first time, three people familiar with the discussions said.\n\nUnder one potential scenario, SK Hynix would lease part of Intel's long-planned chipmaking facility in Ohio, they said. Under another scenario, it could form a venture with Intel and major cloud firms that are keen to lock in memory chip supplies, two of the people said.\n\nA deal would relieve pressure on Intel, which has been struggling, and mark a big win for the Trump administration, which has been ramping up pressure on chipmakers to build in the United States as relentless investment in AI and data centres fuels an acute shortage of memory chips.\n\nBut potential opposition from Seoul could be a major hurdle, the sources said.\n\nOne of the sources described the talks as exploratory and stressed that no decisions have been made, adding that SK Hynix might also consider other ways to structure the deal.\n\nDetails about how a SK Hynix-Intel deal might be structured are being reported for the first time. Reuters was, however, not able to learn what types of chips SK Hynix may manufacture in Ohio if an agreement is struck.\n\nIts product lineup includes DRAM (dynamic random-access memory) chips used in servers, PCs and smartphones and NAND flash memory chips that provide long-term storage memory. It is also the leading supplier of high-bandwidth memory (HBM) used in AI processing units.\n\nAny agreement to produce advanced memory such as HBM or even DRAM could run into opposition from the South Korean government as those technologies are considered sensitive, said the three sources who declined to be identified as the information is not public.\n\nSK Hynix said in a statement to *Reuters* that it is \"reviewing various measures, including establishing additional production bases, to strengthen the competitiveness of its memory business,\" but \"no matters have been determined at this stage.\"\n\nIntel declined to comment on what it called speculation, but added that it was continuing with investments in Ohio to ready the site.\n\nAsked about a potential SK Hynix plan to produce chips in the US, South Korea's trade ministry said any decision would be at the company's discretion but if it involved a \"national core technology,\" it would be subject to a review under the Industrial Technology Protection Act.\n\nThe US Commerce Department did not respond to a request for comment.\n\nManufacturing semiconductors in the US costs much more than in South Korea, according to two of the sources. Building in the United States entails significantly higher labour and construction costs, and much of the semiconductor industry's supply chain is located within Asia, which also increases US costs, one of them said.\n\nEven so, SK Hynix, which recently completed a secondary listing on the Nasdaq in July and currently only has a chip packaging facility under construction in Indiana, has good reasons to pursue fabricating chips in the United States.\n\nChey Tae-won, chairman of the SK Group conglomerate that SK Hynix is part of, said in July that the company faces enormous pressure and lobbying from customers and countries to supply more chips.\n\n\"I think we need to build a factory in the United States. If possible, I believe we should build it,\" he told reporters.\n\nA deal with SK Hynix would also ease some of the financial strain on Intel, which is part-owned by the US government.\n\nIntel announced in 2022 that it would invest up to US$100 billion (RM404.5 billion) to build potentially the world's largest chipmaking complex in Ohio, with production scheduled to begin in 2025. But completion of the site's two plants has since been delayed to 2030 and 2031.\n\nPleasing both Washington and Seoul could be tough, however, particularly as SK Hynix and rival Samsung Electronics have been urged by the Seoul to accelerate plans to build a new cluster of chipmaking facilities in South Korea's southwest.\n\nUS Commerce Secretary Howard Lutnick has threatened to impose up to 100% tariffs on South Korean and Taiwanese companies unless they commit to increased production on American soil.\n\nBoth countries have also been wrangling over the execution of a huge investment commitment that South Korea made to the US last year in return for lower US tariffs. Some US$150 billion of a proposed US$350 billion has been earmarked for shipbuilding but the remaining US$200 billion is undecided.\n\nTwo of the sources said this has left SK Hynix in a difficult position, with the South Korean government seeking to use any US investment by SK Hynix as leverage in the talks, and Washington heaping pressure on the firm to quickly commit to a US expansion.\n\n*Uploaded by Magessan Varatharaja*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/818305"
+      "content_url": "https://theedgemalaysia.com/node/818305",
+      "published_precision": "day"
     },
     {
       "id": "2026-09-16-4e1d45",
@@ -349,7 +350,7 @@
       "summary": "AI safety and research firm Anthropic has signed its first data centre lease in Australia, committing long-term to the Western Downs Digital Park in Queensland. The project is being developed by a Singapore-based investment firm, marking the AI lab's initial infrastructure footprint in the country.",
       "why_it_matters": "Anthropic's entry validates Australia as a host for frontier AI workloads and puts Queensland's renewable-rich regions on the map for AI infrastructure beyond Sydney and Melbourne. For local developers, landing a top-tier AI tenant strengthens the case for further large-scale campus investment in regional Australia.",
       "score": 80,
-      "heat": 2,
+      "heat": 3,
       "regions": [
         "australia",
         "global"
@@ -372,6 +373,11 @@
           "name": "AFR — Data Centres topic",
           "url": "https://www.afr.com/technology/anthropic-lands-its-first-lease-for-an-australian-data-centre-20260916-p60xtu",
           "type": "html-list"
+        },
+        {
+          "name": "iTnews",
+          "url": "https://www.itnews.com.au/news/anthropic-signs-first-australian-data-centre-agreement-628972?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+          "type": "rss"
         }
       ],
       "companies": [
@@ -436,7 +442,8 @@
       ],
       "companies": [
         "Gurīn Energy",
-        "NAVER"
+        "NAVER",
+        "Gurin Energy"
       ],
       "content": "Gurīn Energy Pte Ltd, a Singapore-headquartered renewable energy developer, and NAVER Corporation, a global technology conglomerate, have signed a Memorandum of Understanding (MoU) under which NAVER will acquire a stake in Gurīn Energy’s Jindo Green Solar project in South Korea. The companies have also entered into a long-term power purchase agreement (PPA) for the renewable electricity generated by the project.\n\nAccording to a press release, Jindo Green Solar is being developed by Gurīn Energy on Jindo Island, part of the Jeonnam-Gwangju Integrated Special City. Gurīn Energy will remain responsible for project development and day-to-day management. The 216 MW solar project is expected to supply renewable electricity for NAVER’s AI and cloud infrastructure, including its GAK Sejong and GAK Chuncheon data centers. The project completed the Electricity Business Licence (EBL) approval process earlier this year.\n\n““Our partnership reflects the growing convergence of the energy transition and digital transformation in Asia as energy security becomes a critical priority,” said Assaad Razzouk, CEO, Gurīn Energy. “Sunlight and wind are free. And once a plant is built, no one can embargo, blockade, or price-gouge the fuel behind it. That’s what energy sovereignty looks like: independence from fuel imports.”\n\nSun-Joo Chae, Head of Strategic Business, NAVER, said, “As the expansion of AI and cloud services drives increasing power demand from data centers, securing a stable supply of renewable energy has become essential to the sustainable operation of digital infrastructure. Through long-term PPAs and strategic investments, NAVER will continue to strengthen the foundation for the renewable energy transition of our data centers and pursue its efforts toward achieving our 2040 Carbon Negative goal.”\n\nGurīn Energy has approximately 600 MW of solar and wind projects in South Korea and is developing additional renewable energy projects in the country. The agreement links renewable power generation with electricity demand from South Korea’s AI, cloud and digital infrastructure sectors. South Korea has a target of achieving carbon neutrality by 2050 and increasing installed renewable energy capacity to 100 GW by 2030.",
       "content_url": "https://w.media/gurin-energy-and-naver-sign-mou-and-ppa-for-jindo-green-solar-project/"
@@ -653,7 +660,8 @@
         "NVIDIA"
       ],
       "content": "(Sept 16): Nvidia Corp chief executive officer Jensen Huang dismissed the need for new artificial intelligence security regulations on Tuesday, arguing that market forces will help companies safely innovate.\n\n“We don’t need new laws — we don’t need new regulations,” Huang said during a Salesforce Inc. event. The CEO added that there’s a “false choice” about AI development being either safe or fast, reiterating a point he’s made previously.\n\n“You can definitely have both at the same time,” he said during a conversation with Salesforce CEO Marc Benioff. “You pace yourself until you’re confident you’re releasing something that the market would appreciate. The market forces are already there.”\n\nHuang’s company is the biggest maker of artificial intelligence accelerators — the chips at the heart of a massive data centre build-out — and he’s become one of the most prominent advocates for the broader AI industry. At an event earlier this week, he held an onstage phone call with President Donald Trump where they pushed back against recent arguments that AI development should be slowed.\n\nAI risks have emerged as a hot-button issue in recent days, especially after Anthropic CEO Dario Amodei published a 3,800-word essay proposing a slowdown. That followed the high-profile resignation of an Anthropic employee, who said the company and rival OpenAI were “gambling with our lives” because their technology could become a threat to humanity.\n\nHuang said Tuesday that companies can decide not to release things that are harmful.\n\n“Safety is paramount,” he said. “In a lot of ways, it’s job one. However, safety is an engineering problem.”\n\nIf we reach a point when “the company is out of control and the product’s not going to be safe, take a pause and make sure you get it right,” he said.\n\n*Uploaded by Magessan Varatharaja*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/818278"
+      "content_url": "https://theedgemalaysia.com/node/818278",
+      "published_precision": "day"
     },
     {
       "id": "2026-09-16-70751e",
@@ -837,7 +845,8 @@
         }
       ],
       "companies": [
-        "Firmus"
+        "Firmus",
+        "Firmus Technologies"
       ],
       "published_precision": "day",
       "content": "Firmus is talking a huge game, but prospective investors wouldn’t immediately know it from the official prospectus forecasts.\n\nNothing about the forecasts table spruiked in fund manager meetings points to a $50 billion company and the country’s biggest IPO, perhaps ever.\n\nLoading...",

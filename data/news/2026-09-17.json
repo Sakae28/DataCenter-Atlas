@@ -1,0 +1,163 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T01:00:02Z",
+  "hot": [
+    "2026-09-17-2c2f2c",
+    "2026-09-17-eacc6a",
+    "2026-09-17-bbea5f",
+    "2026-09-17-3d5784",
+    "2026-09-17-c248de"
+  ],
+  "stories": [
+    {
+      "id": "2026-09-17-eacc6a",
+      "title": "SoftBank's record $6.4bn bond sale tests limits of Japan's debt market",
+      "summary": "TOKYO -- SoftBank Group's record 1 trillion yen ($6.45 billion) retail bond offering Thursday will push the investment group's share of Japan's outstanding corporate retail bonds to nearly 50%.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "investment",
+        "ai",
+        "softbank"
+      ],
+      "published_at": "2026-09-17T01:00:02Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/markets/bonds/softbank-s-record-6.4bn-bond-sale-tests-limits-of-japan-s-debt-market",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "SoftBank"
+      ],
+      "content": "TOKYO -- SoftBank Group's record 1 trillion yen ($6.45 billion) retail bond offering Thursday will push the investment group's share of Japan's outstanding corporate retail bonds to nearly 50%.\n\nBonds\n# SoftBank's record $6.4bn bond sale tests limits of Japan's debt market\n\nCompany's share of corporate retail bonds nears 50% with new issuance\n\nSoftBank Group Chairman and CEO Masayoshi Son speaks in Tokyo in June. The company is offering retail bonds with a coupon rate higher than other recent issuances. (Photo by Kazuho Fujiwara)",
+      "content_url": "https://asia.nikkei.com/business/markets/bonds/softbank-s-record-6.4bn-bond-sale-tests-limits-of-japan-s-debt-market"
+    },
+    {
+      "id": "2026-09-17-2c2f2c",
+      "title": "Huawei set to unveil China's best answer to Nvidia AI chip reign",
+      "summary": "Huawei is preparing to launch a new flagship AI chip that Beijing hopes will serve as China's strongest domestic challenger to Nvidia's dominance in AI accelerators. The effort is central to China's push for technological self-sufficiency amid tightening US export controls on advanced semiconductors.",
+      "why_it_matters": "A credible Chinese alternative to Nvidia would reshape AI infrastructure procurement across Asia, where many operators currently face constrained access to top-tier US chips. Cloud providers, data center builders, and regulators in the region would need to weigh a new supplier landscape shaped as much by geopolitics as by performance.",
+      "score": 88,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "regulation"
+      ],
+      "published_at": "2026-09-17T00:44:24Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/huawei-set-unveil-chinas-best-answer-nvidia-ai-chip-reign",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Huawei",
+        "NVIDIA"
+      ],
+      "content": "Firm is spearheading Beijing’s drive for self-sufficiency in critical technologies\n\nHUAWEI Technologies is set to unveil new artificial intelligence technology this week in defiance of US export control curbs, advancing its ambition to replace Nvidia in China and compete on the global stage.\n\nHuawei’s rotating chairman Wang Tao will present its upcoming Ascend 960 AI chips, to be commercially available in 2027, at the company’s annual summit in Shanghai on Thursday (Sep 17).\n\nSome critical details that analysts will watch out for include whether the new component will be powerful enough for training frontier AI models.\n\nHuawei’s goal is to ensure its Ascend chips can operate every single AI model, in China and beyond, chairman Guo Ping of the company’s supervisory board told new hires at an internal meeting earlier in September.\n\n“We are closing the gap by innovating chip architectures,” Guo said.\n\n“Apple was not a leader in making processors at the beginning, but they delivered exceptional user experience through architecture redesigns and software optimisation.”\n\nAlready, Huawei has been making inroads at home and beyond.\n\nDeepSeek is planning to deploy at least 160,000 Huawei Ascend 950DT chips at a data centre it is building in Inner Mongolia to operate its models.\n\nHuawei is also exploring foreign markets including Malaysia and Egypt, Bloomberg News has reported.\n\nThe Chinese telecom-to-smartphone firm is spearheading Beijing’s drive for self-sufficiency in critical technologies in the face of years-long US restrictions aimed at crippling China’s chipmaking aspirations.\n\nIt is also leading a Beijing-backed campaign to export the Chinese technology stack abroad at a time when the world’s two superpowers are vying for geopolitical dominance everywhere.\n\nAscend 960 will succeed Huawei’s current Ascend 950 family of AI accelerators, of which the 950DT favoured by DeepSeek is equipped with faster, higher-capacity memory for demanding AI inference workloads.\n\nAnother upgraded iteration, Ascend 970, is already planned for 2028, the Shenzhen-based company previously announced when launching a three-year campaign to overtake Nvidia.\n\nEach new generation of chips will double the amount of computing power of its predecessor.\n\nBut Huawei’s AI chips are trailing Nvidia’s top-notch offerings.\n\nFrontier Chinese AI labs like DeepSeek are still largely relying on the US company’s chips for training their models, which they then operate using more domestic semiconductors, underscoring the challenge Beijing faces to wean itself completely off of western technology.\n\nAt the same time, Nvidia’s most sophisticated silicon is still finding its way into China via smuggling, albeit in modest quantities.\n\nA constraint in production capacity is also preventing Huawei from satisfying explosive demand for computing power in a market that Morgan Stanley estimates could reach 646 billion yuan (US$96 billion) by 2030.\n\nNvidia’s most advanced Blackwell processors are not directly available in China. Huawei recently raised pricing for the Ascend 950DT chip by 60 per cent, citing tight component supply in communications with customers.\n\nTo overcome its disadvantages, Huawei has been trying to come up with innovative ways, including the recently announced LogicFolding technique, to improve its chip technology without the best gear.\n\nHuawei has also introduced a so-called SuperPod structure that will soon allow as many as 100,000 Ascend chips to be linked in a cluster and enables faster data transmission via its UnifiedBus networking protocol.\n\nThe company says its adaptations and networking can make up for shortcomings in single-chip performance relative to the likes of Nvidia.\n\n“System-level competitiveness matters more than ever,” said Morgan Stanley analyst Charlie Chan in a recent research note.\n\n“The effective gap is narrowing through multi-die design, advanced packaging, rack-scale system architecture, optical networking, and software-hardware co-optimisation,” Chen wrote.\n\nHuawei is also making some progress on other fronts. Ascend 950 chips are the first Huawei AI accelerators powered by memory chips it designs in-house, though the company has provided little production details.\n\nThe Shenzhen electronics giant and other Chinese AI chipmakers have been cut off from the latest AI memory products from South Korea’s SK Hynix and Samsung Electronics as well as US-based Micron Technology as part of US export controls. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/huawei-set-unveil-chinas-best-answer-nvidia-ai-chip-reign"
+    },
+    {
+      "id": "2026-09-17-3d5784",
+      "title": "Singapore key exports rise 46.2% in August on AI demand",
+      "summary": "Electronics exports expand 131.8% in August, from 112% the month before",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "supply-chain"
+      ],
+      "published_at": "2026-09-17T00:30:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/singapore/singapore-key-exports-rise-46-2-august-ai-demand",
+          "type": "rss"
+        }
+      ],
+      "content": "Economists had forecast 35.1% NODX increase; electronics exports jump 131.8%\n\n[SINGAPORE] The Republic’s key exports jumped 46.2 per cent in August, extending July’s revised 24.1 per cent rise and surpassing estimates. This was driven by a continued artificial intelligence-supported electronics surge, Enterprise Singapore data showed on Thursday (Sep 17).\n\nThis expansion exceeded the 35.1 per cent median forecast of private-sector economists in a Bloomberg poll.\n\nElectronics exports grew 131.8 per cent in August, up from 112 per cent the month before. This was supported by robust AI-related demand. Integrated circuits (90.9 per cent), disk media products (290.2 per cent) and PCs (237.9 per cent) contributed the most to the expansion.\n\nMeanwhile, non-electronics shipments rose 12 per cent, in a turnaround from July’s 2.4 per cent decline. August’s reversal was driven by increases in specialised machinery (57.7 per cent), non-monetary gold (67 per cent) and medical apparatus (22.1 per cent).\n\nIn August, key exports to all but one of Singapore’s top 10 markets rose.\n\nNon-oil domestic exports (NODX) to the European Union fell 1.7 per cent – but this moderated from the 36 per cent on-year decline recorded in July.\n\nIn contrast, NODX to all other markets posted growth last month. This was led by the US (91 per cent), followed by South Korea (87.1 per cent) and China (70.3 per cent).\n\nMost other top markets also marked higher growth compared with the preceding month. NODX to Thailand, however, grew 8.9 per cent in August, down from 18.1 per cent in July.\n\nOverall, total merchandise trade grew 44.5 per cent year on year in August, after the 38.3 per cent expansion in July. Both exports and imports rose.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.",
+      "content_url": "https://www.businesstimes.com.sg/singapore/singapore-key-exports-surge-46-2-august-electronics-sales-more-double-ai-boom"
+    },
+    {
+      "id": "2026-09-17-c248de",
+      "title": "IQM sells second quantum computer to Japan's Toyo Corp",
+      "summary": "IQM Quantum Computers, a global provider of superconducting quantum computers, has announced that Japan’s TOYO Corporation has purchased a second full-stack quantum computer, IQM Spark. The Spark system will be installed at TOYO’s R&D center in Kiba, Tokyo, and will be operational in early 2027, enabling hands-on learning from fundamental quantum computing education to algorithm […]",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "quantum-computing",
+        "ai",
+        "infrastructure"
+      ],
+      "published_at": "2026-09-16T09:39:34Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/iqm-sells-second-quantum-computer-to-japans-toyo-corp/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "IQM",
+        "TOYO Corporation"
+      ],
+      "content": "IQM Quantum Computers, a global provider of superconducting quantum computers, has announced that Japan’s TOYO Corporation has purchased a second full-stack quantum computer, IQM Spark. The Spark system will be installed at TOYO’s R&D center in Kiba, Tokyo, and will be operational in early 2027, enabling hands-on learning from fundamental quantum computing education to algorithm validation and verification.\n\nThis announcement follows TOYO’s earlier acquisition of an IQM Radiance 20-qubit quantum computer, planned for installation at the end of 2026 at the Global Research and Development Center for Business by Quantum-AI technology (G-QuAT), a research facility operated by the National Institute of Advanced Industrial Science and Technology (AIST). Together, the two deployments show the growing demand for on-premises quantum computers.\n\n“What makes this purchase matter isn’t that TOYO bought a second system, it’s what they’re choosing to do with them. TOYO is sharing the capabilities for educational purposes, they’re opening it up to the universities, startups, and researchers who make up Japan’s quantum ecosystem,” said Jan Goetz, CEO and Co-founder, IQM Quantum Computers. “That is the entire idea behind owning your own machine; you get to decide whom it serves. Japan has quantum goals to hit by 2030. You don’t get there with machines nobody else can touch; you get there because a company like TOYO chose to share access to the ones it now owns.”\n\n“We believe that accelerating the adoption of quantum technologies requires environments where companies, universities, and researchers can gain hands-on experience with real quantum computers.,” said Toshiya Kohno, Representative Director, President and CEO, TOYO Corporation. “By deploying IQM Spark at our R&D center and linking it with IQM Radiance 20, we will support a broad range of needs across different stages of quantum adoption, including talent development, technology validation, use case creation, and advanced research. Through these complementary systems, we aim to broaden access to quantum computing and contribute to the advancement and real-world adoption of quantum technologies in Japan.”\n\nOnce operational, the systems will be available to domestic companies, organizations, research institutes, and universities. In addition, the systems will also serve as a testbed for evaluating and verifying components and related technologies used in superconducting quantum computers under real operating conditions.\n\nAccording to Grand View Horizon, Japan’s quantum computing market generated a revenue of US$ 84.7 million in 2025, and is expected to reach US$ 555.5 million by 2033. The Japan market is expected to grow at a CAGR of 27 percent from 2026 to 2033.",
+      "content_url": "https://w.media/iqm-sells-second-quantum-computer-to-japans-toyo-corp/"
+    },
+    {
+      "id": "2026-09-17-bbea5f",
+      "title": "Anthropic to open Singapore office in October, sees it as a 'standout market' for Claude",
+      "summary": "This marks the company’s fifth location in the Apac region",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "expansion",
+        "investment"
+      ],
+      "published_at": "2026-09-16T00:39:49Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/anthropic-open-singapore-office-october-sees-it-standout-market-claude",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "content": "This marks the company’s fifth location in the Apac region\n\n[SINGAPORE] Artificial intelligence company Anthropic will open its office in Singapore next month, marking its fifth location in the Asia-Pacific.\n\nThe expansion in the region is to support strong enterprise demand for its AI model Claude, said the firm in a statement on Wednesday (Sep 16).\n\nIt noted that Singapore has established itself as a “standout market” for Claude. Based on Anthropic’s latest *Economic Index*, the Republic ranks second globally out of 121 countries for Claude usage per capita. The data revealed that local adoption is running 5.81 times higher than expected relative to the nation’s population size.\n\nThe new office will join Anthropic’s existing regional network in Tokyo, Bengaluru, Seoul and Sydney. Senior company executives are scheduled to visit Singapore in October for the opening, where they will meet customers, partners and policymakers.\n\n“As we grow across Apac, opening an office in Singapore – where Claude usage per capita is among the highest in the world – is a natural next step,” said Chris Ciauri, managing director of international at Anthropic. “A presence here means we can hire the people who know this market best, and work side by side with local customers and partners building with Claude.”\n\nAnthropic said that it will work with organisations of “every size – from startups and digital natives to large enterprises and the public sector”. Demand has been particularly strong in regulated sectors, such as financial services and government, it added.\n\nTo lead regional commercial operations, Anthropic has appointed Dale Finlay as general manager of Asean. He will be based in Singapore. Finlay previously spent nearly a decade at Google Cloud in go-to-market leadership roles spanning enterprise, financial services and AI portfolios across Apac.\n\nAnthropic has initiated local hiring across several operational roles to support the new entity. According to its website, there are currently nine open roles across finance, sales, applied AI, marketing and public benefit.\n\nIn response to questions from *The Business Times*, Anthropic noted that the new office will be in Raffles Place.\n\nPrior to the announcement, BT reported in August that Anthropic had leased about 100 desks within The Executive Centre facility at Ocean Financial Centre in Collyer Quay.\n\nThe GIC-backed company’s international expansion into Singapore follows similar moves made by the likes of OpenAI and Google DeepMind.\n\nIn May, OpenAI announced that it will open its first Applied AI Lab outside the US in Singapore, and hire more than 200 specialised AI professionals over the next few years as part of a S$300 million investment in the Republic.\n\nIn August, it was said to be in talks to lease about 100,000 square feet of offices at the new Shaw Tower in Beach Road.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/anthropic-open-singapore-office-october-sees-it-standout-market-claude"
+    }
+  ]
+}
