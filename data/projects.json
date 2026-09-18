@@ -102756,7 +102756,90 @@
       "last_updated": "2026-09-16",
       "seed": false,
       "capacity_note": "total contracted capacity"
+    },
+    {
+      "id": "amazon-web-services-sydney-glendenning-aws-glendenning-data-centre-campus",
+      "name": "AWS Glendenning Data Centre Campus",
+      "operator": "Amazon Web Services",
+      "region": "australia",
+      "country": "Australia",
+      "city": "Sydney (Glendenning)",
+      "capacity_mw": 235,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": "AUD 2.17 billion project value",
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-09-18",
+          "story_id": "2026-09-18-75a176"
+        }
+      ],
+      "story_ids": [
+        "2026-09-18-75a176"
+      ],
+      "first_seen": "2026-09-18",
+      "last_updated": "2026-09-18",
+      "seed": false,
+      "capacity_note": "estimated maximum electrical demand"
+    },
+    {
+      "id": "gmi-cloud-thailand-data-centre",
+      "name": "GMI Cloud Thailand Data Centre",
+      "operator": "GMI Cloud",
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "city": "",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": "US$300 million loan sought to purchase chips for the facility",
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-09-18",
+          "story_id": "2026-09-18-55c214"
+        }
+      ],
+      "story_ids": [
+        "2026-09-18-55c214"
+      ],
+      "first_seen": "2026-09-18",
+      "last_updated": "2026-09-18",
+      "seed": false
     }
   ],
-  "updated_at": "2026-09-16T23:35:19Z"
+  "updated_at": "2026-09-18T14:15:12Z"
 }

@@ -1,0 +1,477 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T14:05:58Z",
+  "hot": [
+    "2026-09-18-3321e7",
+    "2026-09-18-75a176",
+    "2026-09-18-8a9439",
+    "2026-09-18-c626aa",
+    "2026-09-18-55c214"
+  ],
+  "stories": [
+    {
+      "id": "2026-09-18-7d7d10",
+      "title": "SiliconFlow dedicated instances power stable operation of desktop office AI agents",
+      "summary": "AI Agent 时代，客户利用大模型能力深度赋能产品创新升级，推出一款 AI 原生产品：桌面办公智能体，能自主拆解任务、调用工具、执行操作并交付最终成果，可高效处理代码生成、数据分析、调研报告、自动化办公等多场景任务。智能体调用了 GLM、DeepSeek、Qwen…",
+      "why_it_matters": "",
+      "score": 35,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "ai",
+        "cloud"
+      ],
+      "published_at": "2026-09-18T19:28:59Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "中国IDC圈",
+          "url": "https://news.idcquan.com/scqb/208097.shtml",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "SiliconFlow"
+      ],
+      "content": "AI Agent 时代，客户利用大模型能力深度赋能产品创新升级，推出一款 AI 原生产品：桌面办公智能体，能自主拆解任务、调用工具、执行操作并交付最终成果，可高效处理代码生成、数据分析、调研报告、自动化办公等多场景任务。智能体调用了 GLM、DeepSeek、Qwen 等系列模型，并保持快速迭代，以满足语义理解、文本生成、逻辑推理、知识问答、长文档处理、智能体规划及工具调用等方面的多样化需求。该办公智能体推出一个月，产品日活破十万，日均 Token 消耗达千亿量级，属于典型的高并发、高吞吐、长稳运行的企业级推理场景。\n\n支撑智能体运行，推理基础设施面临三大挑战\n\n为满足智能体能力深化迭代，以服务持续扩大的用户规模，推理基础设施需解决如下三大核心挑战：\n\n复杂 Agentic 工作流对模型能力要求高，模型选择需要足够丰富。\n\n桌面办公智能体需具备复杂任务处理能力，包括模糊/不完整需求的准确理解、多步任务拆解与执行、实验设计、工具调用、结果分析与迭代优化等。单一模型难以在所有环节都表现最优，模型选择的丰富度与组合切换的灵活性，直接决定了智能体的任务完成率与用户体验。\n\n大规模日活下的推理性能要求高，服务连续性、稳定性压力大。\n\n大规模用户并发访问智能体，意味着推理服务必须长期稳定运行，对响应延迟、吞吐量及并发处理能力提出了严苛要求，任何性能波动都会直接传导到终端用户的交互体验上。\n\n成本可控性与计量透明度的诉求增强。\n\n在持续增长的 Token 消耗规模下，需要清晰的成本模型与精细的计量体系，对请求与响应 Token 进行实时计量和累计统计，通过多维度追踪 Token 消耗明细，以支撑成本核算、容量规划与精细化运营决策。\n\n模型、性能、成本多维度系统性解决方案\n\n为应对上述挑战，经过综合评估，客户选择采用硅基流动专属实例服务，获得以“专属算力＋精度保障＋成本可控＋SLA 护航”为核心的企业级大模型推理服务，从模型覆盖、推理性能、资源隔离、计量计费到接口兼容等多个层面构建起高可用 AI 推理底座，系统性支撑智能体业务的规模化发展与迭代创新。\n\n模型丰富，支撑完整 Agentic 工作流。\n\n平台提供 170+ 模型且持续更新，覆盖对话、生图、视频、语音、嵌入、重排序等多种模型类型，支持 DeepSeek、GLM、Qwen、Kimi、MiniMax 等主流模型系列，满足复杂 Agentic 工作流中的多样化模型调度需求，随业务演进灵活切换；最大支持 1M 上下文，充分满足长文档处理需求。\n\n专属算力 + 自研推理引擎，性能可承诺、可观测。\n\n• 独占资源：专属算力资源交付，不与其他租户共享推理计算资源，模型部署、推理运行与任务调度均在隔离环境中完成，保障服务稳定。\n\n• 明确性能承诺：以 TTFT（首字延迟）/TPM（每分钟 Token 数） / TPS（每秒 Token 数） 等指标进行性能约定，结合企业级 SLA（99.9% 可用性），确保高峰期依然保持稳定服务能力，为业务连续性兜底。\n\n• 全链路性能监控：平台提供多维度推理性能监控指标，包括 TTFT、TPOT（每 Token 耗时）、吞吐（Tokens/s）、显存利用率、KV Cache 命中率、并发请求数、输入输出 Token 数、平均延迟等，支撑性能评估、容量规划与运行优化。\n\n• 精度保障：部署过程中依托自研高性能推理框架进行适配优化，确保推理效果与原厂一致，保障推理智能水平稳定，持续获得高质量输出。\n\n• 引擎级优化：自研推理引擎支持 PD 分离、高性能融合算子、混合精度量化、PagedAttention 和 Prefix Caching 等机制，在提升吞吐、降低时延的同时优化 KV Cache 管理效率。\n\n可控成本，精细计量；统一高效的服务接入、便捷管理与持续优化。\n\n• 前期固定、总量可控：按固定周期规划费用，避免按量计费随调用量波动带来的成本不确定性，便于长期预算管理。\n\n• 利用率越高、折合单价越低：在稳定高负载场景下具备更优的成本结构，助力长期预算可控与成本优化。\n\n• 透明计量：支持 Token 计量通道，对请求 / 响应 Token 进行实时计量和累计统计，精确到单个 Token，并支持按实例、时间段、授权 Key、模型、接口类型等多维度组合查询 Token 消耗明细，让每一笔消耗清晰可查。\n\n• 统一接口：提供标准化 API 接口，兼容 OpenAI 与 Anthropic 推理协议，现有应用可无缝集成，多业务场景统一接入，无需为不同模型重复开发。\n\n• 快速交付：标准预留实例通常在 1～7 个工作日内完成部署，平台负责模型部署与性能验证并提供调优支持，缩短业务上线周期。\n\n• 弹性扩展：可根据业务规模进行算力扩展与规格调整，满足业务增长及阶段性流量变化需求。\n\n开启专属算力，加速业务增长\n\n对于以“任务交付”为核心体验的智能体产品而言，模型推理服务的长期稳定性、领先性能与成本效率，成为支撑智能体可持续发展、保障智能化服务连续性的生命线。\n\n硅基流动专属实例以独占算力、明确性能承诺、透明计量体系与企业级 SLA，为该桌面办公智能体提供了从基础资源供给到复杂应用场景支撑的一站式服务，成为其服务数十万用户、支撑产品持续创新升级的坚实底座，为高并发、高稳定性的 AI 核心业务保驾护航。",
+      "content_url": "https://news.idcquan.com/scqb/208097.shtml"
+    },
+    {
+      "id": "2026-09-18-8a9439",
+      "title": "82 projects, 181.7 billion yuan investment, rise of the token economy — Compute Center Construction Monthly Report (August 2026)",
+      "summary": "China's monthly compute center construction report for August 2026 tallies 82 new projects representing 181.7 billion yuan in combined investment, highlighting the continued pace of state-backed buildout. The report also notes the growing influence of token-economy-driven demand on compute infrastructure planning.",
+      "why_it_matters": "The figures show China's data center investment remains at elevated levels even as officials warn of overcapacity in some regions, keeping domestic equipment makers, EPC contractors and power suppliers busy. The explicit link to token economics suggests AI inference workloads are now shaping project approvals, a signal investors and operators can use to gauge where future capacity will land.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "capacity",
+        "investment",
+        "ai"
+      ],
+      "published_at": "2026-09-18T14:25:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "中国IDC圈",
+          "url": "https://news.idcquan.com/news/208095.shtml",
+          "type": "html-list"
+        }
+      ],
+      "content": "“算力中心建设月报”为IDC圈策划的算力中心建设项目展示栏目，旨在收集、整理过去一个月来国内算力中心项目建设动态，并对重点项目进行跟踪报道，以便读者更好的掌握算力中心产业的发展状况。\n\n“算力中心建设月报”在整理、展示项目建设动态的同时，会对过去一个月的项目建设情况进行简要分析，帮助读者深度了解算力产业现状，洞察发展趋势。\n\n2026年8月份，IDC圈共搜集到82力中心项目建设动态，包括50个拟建项目，12个在建项目，8个已封顶项目以及12个投运项目。\n\n本期“算力中心建设月报”将展示其中34个项目，更多项目动态信息请通过《算力产业核心内刊》企业Pro版了解。\n\n### 建设趋势\n\n### 一、项目生命周期阶段分布与投资特征\n\n本期纳入统计的82个算力中心建设项目，较7月报58个项目增加24个（增幅约41.4%），前端储备显著放量、后端持续释放的梯次格局进一步巩固。拟建/筹备类由31个跃升至50个、开工/在建类由11个增至12个、封顶/完工类由7个增至8个、交付/投产类由9个增至12个。\n\n### 一、项目生命周期阶段分布与投资特征（7月 vs 8月）\n\n8月拟建/筹备类大幅增长至50个，占总量61.0%，投资体量集中释放。披露投资额合计约1817亿元（含已披露口径），头部单体规模持续刷新纪录：企商在线乌兰察布人工智能算力中心集群计划总投资约180亿元、浙江杭州万卡规模算力集群一二期总投资约160亿元、沈阳零碳算力中心规划总投资140亿元、中国移动京津冀武清云智算科创产业园一期投资120亿元、中国电信长三角如东洋口港项目一期300亿元（跨月延续）。\n\n### 二、空间布局优化与\"算电协同\"绿色化趋势\n\n区域分布上，内蒙古以8个项目继续领跑，广东（7个）、安徽（6个）、新疆（4个）紧随其后，京津冀（武清、天津、保定）持续强化枢纽地位。绿色化维度，82个项目中25个体现绿色/算电协同导向（占比30.5%），20个采用液冷/冷板式技术，6个突出\"源网荷储\"或\"算电协同\"一体化供电，\"绿电直连+液冷降温+算电协同\"正成为新建项目标配。\n\n### 三、结构性信号：词元（Token）经济与国产算力底座的双重突围\n\n本期最突出的结构性变化是\"词元经济\"概念的集中涌现：中国移动武清项目创新推行\"算力词元\"运营新模式、中国电信江苏Token运营中心正式揭牌并成立Token出海服务联盟、合肥智算集群全面转向词元调度、内蒙蒙六部门联合印发《内蒙古自治区促进词元经济高质量发展的若干措施》、中泰嘉福算电协同AI词元生产项目获备案、上海卫星互联网智算中心及算电协同研发中心投运。\"算力\"正在从物理机柜向可交易、可交付、可运营的\"词元\"服务升级，运营层变现成为新叙事主线。\n\n同时，国产算力底座的持续放量值得高度关注：广东梅州词元智算中心选用华为昇腾系列服务器、悍铭昆明智算中心二期扩建10000卡国产GPU集群全量点亮、中能智算云信息中心首期2000P国产算力投运、百度杭州创新中心全面搭载昆仑芯P800芯片、黄埔AI智算综合体将全部搭载国产算力硬件——国产芯片正从\"可用\"走向\"好用\"，万卡级国产集群已具备规模化商用能力。\n\n### 四、小结\n\n综上，2026年8月我国算力中心基建呈现\"储备放量、投资巨量化、词元经济崛起、国产算力底座突围\"四大特征。拟建类占比跃升至61%反映政策驱动的储备季效应与地方争抢窗口期的双重动能；头部单体投资不断刷新纪录，已投产项目向国产算力与万卡集群集中放量，行业竞争正从\"规模扩张\"转向\"算力质量、绿色能效与运营变现\"并重。\n\n### 项目动态\n\n### 拟建/筹备\n\n01\n\n厦门国际银行新数据中心项目（施工）公开招标结果出炉\n\n5月8日消息，厦门国际银行新数据中心项目（施工）公开招标结果出炉，中建二局安装工程有限公司位列第一中标候选人。该项目位于福建省厦门市，建设范围涵盖28#楼与29#楼，总建筑面积约2.4万平方米，其中28#楼为主体建筑，建筑面积约19444.66平方米并配套1810.76平方米钢平台。在建设指标方面，该中心规划服务器总功率达7464KW，本期先行建设约295个服务器机柜。项目建安费预算约1.98亿元，第一中标候选人投标报价约为1.77亿元。\n\n02\n\n芜湖泽润IDC存储中心项目（一期）机电及配套工程开标\n\n8月3日消息，芜湖泽润IDC存储中心项目（一期）机电及配套工程招标结果正式揭晓。中建三局集团有限公司成功中标这一标志性的大型数据中心基础设施项目，中标金额高达14.75亿元。该项目招标人为芜湖泽润数字技术有限公司，招标项目编号为RZYJD-2025-522，共划分为一个标段。项目选址于芜湖市江北北湾智能装备智造园内，具体方位东至海程橡塑项目用地，西至吴越路，南至海螺绿能，北至万通路，总用地面积约合73亩。中标单位需在接到招标人通知后270个日历天内完成全部设备供货、安装、调试工作，并达到初验合格标准。\n\n03\n\n中国电信甘肃庆阳智能算力中心1、2号楼工程EPC项目招标公告正式发布\n\n8月4日，中国电信甘肃庆阳智能算力中心1、2号楼工程EPC项目招标公告正式发布，项目处于招标阶段。该项目位于甘肃省庆阳市，由中国电信主导建设，共包含三个EPC子项目，总投资估算约1.49亿元人民币。其中，1号楼生产能力配套扩容工程EPC采购估算金额2033.43万元（含税），建设内容涵盖空调末端系统工程、装修工程、智能化工程的设计、设备采购与施工，主要采购设备包括网络存储扩展框、SATA硬盘、极早期系统及恒湿机等。2号楼生产能力配套扩容工程EPC预算金额3590.53万元（不含税），涉及空调末端工程、智能化运营系统工程、机房装修工程的设计、设备采购及安装施工，主要采购恒湿机、水源多联机、NVR、门禁系统、动环监控平台及交流PDU等设备。2号楼基础配套工程EPC估算金额9266.02万元（含税），该楼共规划12个IT机房，机架功率合计27792kW，上电机架1602架（12kW机架990架、26kW机架612架），建设内容包括高低压变配电工程、柴油发电机组工程及空调主机系统（含配电及群控）工程，主要采购10KV中压配电柜、柴油发电设备、磁悬浮变频离心式制冷机组等。招标文件申领时间为2026年8月5日至8月10日，各子项目投标截止时间分别为8月28日、8月31日及9月1日。\n\n04\n\n青海中清大数据科技有限公司3000P人工智能算力产业园项目（一期）采购招标\n\n8月13日，青海中清大数据科技有限公司3000P人工智能算力产业园项目（一期）发布询比采购公告。该项目位于青海省南川工业园区，一期总投资约9.85亿元，总用地面积约26亩，建筑面积19943.58㎡，计划工期24个月。主要建设1栋算力中心机房楼和1栋综合办公楼，将部署3000P（FP16） 人工智能算力集群，采用冷板式液冷系统，设计PUE≤1.19，并采用国产自主可控架构，面向政务、能源、科研等领域提供算力服务。\n\n05\n\n中科智安人工智能大数据智算中心EPC总承包项目发布招标公告\n\n8月12日，位于河南省鹤壁市淇滨区的中科智安人工智能大数据智算中心EPC总承包项目发布招标公告。招标人为中科智安(河南)信息科技有限公司，该项目资金来源为自筹资金4.95亿元，总建筑面积14500㎡，其中包括4600㎡的高密度全浸没液冷主机房，以及配套的配电储能区和运维研发楼。项目计划总工期12个月，拟于2026年9月开工，2027年9月竣工交付。\n\n06\n\n中数政通竞得赤城智算中心项目建设用地\n\n8月11日，中数政通（河北）智能算力有限公司成功竞得赤城智算中心项目建设用地（一期150亩首地块36.93亩），标志着总投资82亿元的300MW绿电算力中心项目全面启动，从战略签约迈入建设实施阶段。 该项目纳入国家“东数西算”京津冀算力枢纽张家口集群统筹规划，选址赤城经济开发区西区，规划IT功率300MW。项目定位为京津冀标杆性绿色零碳全液冷智能算力基地，依托赤城作为国家算力枢纽核心节点的区位优势，发挥超低网络时延、规模化低成本绿电及300MW标准化算力底座三重优势，重点发展商用算力租赁、通用AI模型训练、城市治理垂直大模型三大业务。项目配套构建“绿电直连+储能+微电网+算力”一体化体系，布局竖井式重力储能、多能互补微电网、绿氢示范设施，实现风光发电、储能与算力的就地消纳。该项目实现了项目投资方数字政通从“算力使用者”向“算力基础设施建设运营商”的跨越，建成后将支撑其自研“人和”大模型迭代升级，并赋能低空治理、网格化管理等城市治理AI场景。\n\n07\n\n广东智慧广电智算中心AI算力平台建设项目获备案\n\n8月10日，广东弘展大数据有限公司申报的该项目获批备案。项目位于广东省东莞市，总投资2.2亿元。其核心建设内容为同步部署两大算力集群以支撑广电超高清渲染、大模型训练等业务：其中纯国产自研算力集群投资1.2亿元，国产GPU与海外高端GPU混合架构算力集群投资1.0亿元。项目计划建设周期为2026年12月1日至2028年6月1日，建成后将全面适配信创体系与政务AI，提供安全合规、优势互补的算力池。\n\n08\n\n中金数据和林格尔零碳算力基地项目获备案\n\n8月19日，由中金数据集团全资子公司盛数科技（呼和浩特）有限公司申报的《中金数据和林格尔零碳算力基地项目》正式获得备案。该项目建设地点位于内蒙古呼和浩特市和林格尔新区云谷片区，总投资规模高达49.62亿元。该项目建设性质为扩建，规划总建筑面积约23.28万平方米，主要建设4栋数据中心、8座配套柴发平台、1栋运维楼及蓄冷罐等相关室外配套工程。该大型零碳智算基建项目全面建成后，预计可折合提供高达81730个标准机架的算力设备承载能力。该项目计划建设周期为2026年9月至2030年9月。目前项目已顺利通过备案，进入建设前的筹备阶段。作为中金数据绿色云数据中心布局的重要一环，该项目的落地实施将进一步夯实内蒙古国家算力枢纽节点的大规模、零碳化智能算力基础设施底座。。\n\n09\n\n四川算力枢纽项目披露了最新建设规划信息\n\n8月17日消息，四川算力枢纽项目披露了最新建设规划信息。该项目建设地点位于四川省达州市，整体规划总投资额高达33亿元，计划建设周期为2026年至2031年。在核心建设内容与基础设施布局方面，项目主要规划建设超算数据中心、智算机房以及算力配套能源中心，旨在打造集超算与智算于一体的综合性算力硬件底座。同时，在网络通信与智能化协同建设上，该项目将在达州当地敷设全域5G专网及工业互联网光纤网络，搭建城市智慧管理平台，并广泛布局边缘计算节点，以全面提升区域数据传输速率与终端处理能力。目前该项目正处于前期规划与筹备阶段。\n\n10\n\n霍尔果斯离岸数据中心项目正式获得备案批复\n\n8月20日，由霍尔果斯离岸数据科技有限公司申报的霍尔果斯离岸数据中心项目正式获得备案批复。该项目建设地点位于新疆维吾尔自治区伊犁哈萨克自治州霍尔果斯市，计划总投资规模为3.3亿元。该项目计划分两期实施，整体规划总算力规模将达到3000P。其中，一期工程建设45台机柜，部署625台算能SC11-FP300算力服务器，提供1000P算力；二期工程建设90台机柜，部署1250台同型号算力服务器，新增2000P算力。同时，项目将配套建设高低压配电、UPS不间断电源、液冷制冷系统、Spine-Leaf高速算力网络、DCIM智慧运维及网络安全等全方位机房辅助工程。目前该项目已顺利完成立项备案，正处于建设前的筹备阶段。该离岸数据中心全面建成投运后，将打造成集AI大模型训练、高性能计算以及离岸跨境数据存储于一体的新型数字基础设施，为边境口岸的数字贸易与跨境数据流通提供坚实的底层算力支撑。\n\n11\n\n中科稀磁硅谷智算中心建设项目获备案\n\n8月6日，中科稀磁硅谷数字产业发展（内蒙古）有限公司中科稀磁硅谷智算中心建设项目备案获批。该项目位于包头市稀土高新技术产业开发区，总投资86000万元，规划建设2000P人工智能算力，配置标准AI机架220架，配套电力负荷7200KW，整体PUE控制在1.2以内，年综合能耗6700吨标准煤。服务器及算力硬件设备采购金额6.7亿元，计划建设起止年限为2026年8月至2028年8月。\n\n12\n\n中国石油数据中心（和林格尔）一期项目获备案\n\n8月18日，中国石油集团共享运营有限公司呼和浩特数据分公司中国石油数据中心（和林格尔）一期项目备案获批。该项目为数据中心土建及配套设施建设项目，位于呼和浩特市和林格尔新区云谷片区（西至盛数路、北至云鹏大街、东至嘉恒盈创数据中心、南至云谷横40路），总投资68470万元，建设内容包括1栋数据中心楼、1栋柴发楼、1栋综合楼及其公用工程、配套设施等。本期建筑面积3.2899万平方米，折合标准机架数6784个，计划建设起止年限为2027年4月至2028年6月。\n\n13\n\n“数智武川”算电协同绿色智算中心项目获备案\n\n8月13日，内蒙古建戎智联网络科技有限公司“数智武川”算电协同绿色智算中心项目备案获批。该项目位于呼和浩特市武川县可镇腾飞大道以北、龙凤路以西，总投资99970万元，规划用地83亩，建设办公楼一座6500平方米，标准化厂房4座、共计12000平方米，涵盖道路绿化、生活用房等配套设施。项目一期规划建设机架2800架，功率7485KWh，产出算力2950PFlops，可提供通用算力、AI智算、超算、存储、推理等服务，计划建设起止年限为2026年10月至2027年12月。\n\n14\n\n衢州算力协同液冷智算中心项目正式完成备案\n\n8月21日，由浙江巨冷科技有限公司投资建设的衢州算力协同液冷智算中心项目正式完成备案，标志着这一巨冷科技成立以来规模最大的单笔投资项目进入实质性筹备阶段。该项目新建选址位于浙江省衢州市智慧新城百家塘片区，项目总投资高达26.87亿元。项目拟新建2栋地上四层的算力中心楼，单体建筑面积约1万平方米。该智算中心主打先进的液冷散热技术，拟建机柜总功率达13350千瓦，折合5340个标准机架；同时，项目规划部署国产化阿里PPU建设万卡算力池，整体可部署算力规模将高达1200PFlops。根据规划，该项目计划建设周期为2026年9月至12月。项目全面建成投运后，将主要应用于阿里云训练场，为相关人工智能大模型的训练迭代及区域数字经济产业的高质量发展提供强劲且绿色的国产算力底座支撑。\n\n15\n\n火山引擎内蒙古乌兰察布高新算力中心项目（一期）正式获得备案\n\n8月25日，由字节跳动全资子公司乌兰察布雁北知微科技有限公司投资建设的火山引擎内蒙古乌兰察布高新算力中心项目（一期）正式获得备案，标志着该大型智算基建项目全面进入前期规划与筹备阶段。该项目选址位于内蒙古乌兰察布察哈尔高新技术开发区，一期总投资高达25.29亿元人民币。该工程主要规划新建机房楼、动力中心、综合楼、出入口以及相关的配套附属设施。项目整体规划部署的标准机架数高达46080架，算力承载规模十分庞大。根据项目规划，整体建设时间周期为2026年10月至2029年12月。\n\n16\n\n黑龙江启算人工智能多场景产业融合基地项目获备案\n\n8月26日消息，黑龙江启算人工智能多场景产业融合基地项目获备案，该项目由黑龙江启算电子科技有限公司投建。该项目总投资6亿元。总占地面积约30000平方米，新建智算中心机房及配套附属用房，部署算力基础设施，配套建设供配电、制冷、安防、通信等辅助系统，提供算力支撑服务，打造“人工智能+”多场景产业融合基地。\n\n17\n\n岳阳临港AI产业生态战略合作项目签约\n\n8月24日消息，岳阳临港AI产业生态战略合作项目签约，该项目由岳阳临港高新区与云知声智能科技股份有限公司合作建设。项目主要建设300P FLOPS+智算中心及专业化OPC社区，并组建产业基金、落地智慧医疗解决方案，算力规模相当于每秒30亿亿次计算能力，为园区数字产业升级和AI场景应用提供有力支撑，建成后将加速AI在贸易、医疗等领域的场景落地。\n\n18\n\n沈阳零碳算力中心项目获备案\n\n8月27日消息，沈阳零碳算力中心项目备案，该项目总投资140亿元。项目位于辽宁省沈阳市，总建筑面积6万平方米，分三期建设：一期新建2万平方米标准化工业厂房，引入4680/4695全极耳大圆柱电池全自动生产线；二期续建2万平方米厂房，新增智能化储能系统集成、储能柜组装等产线；三期建成2万平方米高端智造厂房与研发实验中心，增设数据中心BBU备用电源、储能定制化配套产线。算力中心同步配套建设，改造高标准专业机房，部署2500P千卡级AI智算集群、APCOS超低功耗算力系统与甲醇备用电源保障设施，并搭建甲醇、中药材、大健康三大产业数智平台，建设周期为2026年8月至2027年7月。\n\n19\n\n明阳GW级智能算力中心项目签约\n\n8月30日，明阳集团与甘肃省庆阳市正式签署GW级智能算力中心项目投资开发合作协议。该项目建设地点位于国家“东数西算”算力枢纽核心节点甘肃省庆阳市，目前已进入正式签约及前期落地筹备阶段。该项目定位为GW（吉瓦）级超大规模绿色智算基础设施，双方将深度聚焦“算电协同”创新实践，重点围绕GW级智算数据中心布局、燃气轮机多能互补应用、智慧能源管控平台研发、国家级零碳算力园区建设以及绿色算力装备制造等核心领域开展全方位合作。在技术路径与前沿指标上，项目将充分发挥明阳集团在风光储氢及源网荷储一体化领域的全产业链优势，加快构建从绿色电力模块到绿色算力模块的融合应用场景，实现100%绿色能源供给与算力消耗的深度耦合。\n\n20\n\n企商在线乌兰察布人工智能算力中心集群项目全面启动\n\n8月28日，乌兰察布市人民政府与企商在线（北京）数据技术股份有限公司正式签署合作框架协议，标志着企商在线乌兰察布人工智能算力中心集群项目全面启动。该项目建设地点位于内蒙古乌兰察布市，计划总投资规模约180亿元。该算力集群规划IT总容量高达1249MW（约1.2GW），项目将采用100%绿电直供及磁悬浮相变冷却等前沿低碳技术，设计综合PUE值严格控制在1.2以下，且至北京核心节点的网络时延将低至5毫秒。与此同时，为保障项目全周期建设与运营，企商在线与中国银行等三家金融机构签署了金融赋能战略合作协议，形成“算力+金融”双轮驱动；并与14家涵盖底层芯片、AIGC、具身智能、Token服务及“源网荷储”一体化等领域的上下游企业完成生态共建签约。目前该项目处于正式签约与前期筹备阶段，建成后将实现京蒙绿色算力合作从单点落地向全生态链共建的跨越，成为服务京津冀、辐射全国的绿色算力标杆。\n\n21\n\n中国移动粤港澳（韶关）数据中心二期项目正式发布招标公告\n\n8月31日，中国移动粤港澳（韶关）数据中心二期项目土建及室外工程设计施工总承包（EPC）正式发布招标公告，标志着该大型算力枢纽集群进入扩容建设阶段。该项目建设地点位于广东省韶关市浈江产业园，是国家算力网络枢纽节点的高标准数据中心集群之一。二期项目总投资估算为5.839亿元，规划拟建建筑总面积达90618平方米，主要建设内容包含2栋数据中心（C、D栋）、2栋动力中心（2、3#）、1栋维护支撑用房及相关室外工程。在核心技术与绿色能耗指标上，二期项目设计IT总功率高达79.4MW，并要求年均PUE值控制在1.199及以下。本次招标采用EPC总承包模式，覆盖勘察设计、土建施工及设备采购等全流程环节，要求工期为360个日历天（其中设计30天，施工330天）。目前，项目正处于公开招标阶段，投标截止及开标时间定于2026年9月22日。该二期项目的落地实施，将接续已投产的一期工程（1.6万标准机架），进一步夯实粤港澳大湾区的数据与算力承载底座。\n\n### 开工/在建\n\n01\n\n泉州两岸数据要素全生态产业园项目新进展\n\n8月6日，泉州两岸数据要素全生态产业园项目（含智算中心）顺利完成地下室首块底板垫层浇筑，标志着该项目圆满完成前期桩基施工与基坑支护，正式转入地下室主体土建施工新阶段，整体建设全面提速。该项目选址位于福建省泉州市丰泽区北峰街道，总投资约14.8亿元。在建设内容与规模方面，项目总建筑面积达107838.03平方米，主要规划建设智算中心、信创中心、数据特区实验室、大数据交易中心以及相关配套用房。在核心指标与功能导向上，该产业园以泉州市算力应用需求为牵引，广泛汇聚多元数据资源，全面运用绿色低碳技术，致力于提供信息安全可靠的高效算力服务。该项目全面建成投用后，将有效补足泉州市在大数据支撑基础、数据要素利用及产业集群等方面的短板，促进数据与技术在物理空间上的高效集聚，推动数字技术与地方经济社会各领域深度融合，为区域数字经济高质量发展注入强劲动能。\n\n02\n\n邢台人工智能产业园建设项目（一期）迎来关键进展\n\n8月7日消息，邢台人工智能产业园建设项目（一期）迎来关键进展，首栋楼全面冲出正负零，正式迈入地上主体结构施工阶段。该项目建设地点位于河北省邢台市高新区，作为市级重点科创载体工程，项目总建筑面积约31万平方米。其核心建设内容涵盖多栋标准厂房、中试车间、综合研发楼、动力配套用房，并同步配套建设110kV变电站及绿化道路等相关基础设施。在施工进度与技术指标方面，建设团队展现了极高的履约效率，仅用13天完成2605根工程桩，3天完成8500立方米大体积筏板浇筑，并在22天内完成近7000平方米的地下主体结构施工；同时，项目深度应用BIM管线综合防碰撞技术、Tekla精细化建模以及膨胀加强带等创新智造工艺以破解超限结构难题。该项目全面建成投用后，将进一步完善当地的数字产业生态布局，集聚高端科创资源，为区域数字经济高质量发展及产业转型升级提供强有力的载体支撑。\n\n03\n\n秦淮数据南岭禅境一号基地项目开工\n\n8月24日，秦淮数据南岭禅境一号基地聚焦AI大模型预训练与高并发智能推理业务，规划总IT负荷近200MW。项目针对新一代高功耗GPU机柜架构，采用先进的风液同源冷却系统，实现风冷与冷板式液冷的高效协同，设计PUE低至1.197。该基地将构建\"大湾区数据、韶关计算\"的低时延算力承载网络，并规划在韶关逐步打造GW级智算中心集群，为大湾区人工智能产业提供集约化绿色算力输出。\n\n04\n\n嘉民HKG09数据中心在香港葵涌举行奠基仪式\n\n8月21日消息，嘉民HKG09数据中心在香港葵涌举行奠基仪式，该项目由嘉民亚洲有限公司开发，由礼顿建筑（亚洲）有限公司承建。项目目前工程已进入地基及上盖工程阶段，将打造高端等级数据中心设施，以满足云计算、金融服务业及人工智能高速扩张带来的增长需求，助力香港夯实区域顶尖数字枢纽地位，建设国际科创中心。\n\n05\n\n杭钢里·云创中心（算力装备产业园）项目1号楼进入主体结构施工阶段\n\n8月27日消息，杭钢里·云创中心（算力装备产业园）项目1号楼第一块地下室顶板混凝土浇筑圆满完成，正式进入主体结构施工阶段。该项目是浙江省2026年度\"千项万亿\"工程，分三期建设，第一期南区项目总用地面积53306平方米，总建筑面积167097平方米，涵盖8栋四层标准厂房、1栋七层厂房、2栋十层厂房、1栋十二层办公楼，以及单层甲类仓库和一层地下车库及附属用房，适配算力装备研发、生产、办公、仓储全链条需求。南区总施工工期730天，于2026年4月16日动工。目前各楼栋分区施工、进度总体受控，其中2栋已施工至±0.00标高、完成地下基础进入地上主体结构施工，7栋正开展地下室底板防水、钢筋、模板、混凝土等基础作业，3栋按方案推进土方开挖及场地平整。\n\n### 封顶/完工\n\n01\n\n佳力图南京楷德悠云数据中心一期正式通电\n\n8月3日，佳力图宣布，其南京楷德悠云数据中心项目（一期）已全面建设完成，并顺利完成高压通电。据悉，该项目总投资约15亿元，规划总容量8400架标准服务器机柜 。分三期实施，一期规划建设2800架机柜，二三期合计规划建设5600架机柜 。\n\n02\n\n中金武清大数据产业园二期项目6号数据中心主体结构顺利封顶\n\n8月20日，中金武清大数据产业园二期项目迎来建设里程碑，其6号数据中心主体结构顺利封顶，工程全面转入二次结构、装饰装修及机电安装等后续施工阶段。该项目位于天津市武清区，是天津市重点新基建工程及京津冀国家算力枢纽节点的标杆项目。在建设内容与空间布局方面，项目二期整体规划包含6号与7号两栋专业数据中心、17号与18号两栋室外发电机组以及27号门卫配套建筑。其中，本次封顶的6号数据中心建筑结构为地上5层、地下1层，总建筑面积高达49234.2平方米（含地上47364.81平方米、地下1869.39平方米），建成后将成为园区的核心算力载体。在整体项目状态上，目前17号及18号发电机组也已完成主体封顶，7号数据中心正稳步施工中，且项目已成功通过天津市文明工地验收。\n\n03\n\n西藏联通拉萨第二通信枢纽楼主体结构正式封顶\n\n8月29日，由中铁十六局承建的西藏联通拉萨第二通信枢纽楼（即“东数西算”拉萨节点）主体结构正式封顶，标志着该项目取得突破性进展，全面转入机电安装与装饰装修阶段。该项目建设地点位于西藏拉萨市柳梧高新区，是当地三级重点数字基建工程。项目总建筑面积约1.14万平方米，主体采用单层层高6米的大层高、高配筋率框架结构。项目规划部署526架13.3千瓦的高密度智算机柜。施工过程中，建设团队克服了海拔3600米的高原缺氧与悬殊温差等挑战，应用P8抗渗混凝土保障结构防水，并引入包含数字孪生平台的智慧工地系统实现闭环管理。在绿色运营规划上，该项目将依托西藏天然的冷凉气候与清洁能源优势，探索“清洁能源直供+液冷散热+余热回收”的绿色低碳算力路径。项目全面建成投运后，将重点为高原农牧业数字化、智慧文旅、冰川监测及藏医药AI研发等领域提供普惠算力服务，进一步夯实拉萨作为“东数西算”西部重要节点的底层基础设施底座。\n\n### 交付/投产\n\n01\n\n远景乌兰察布星河基地项目投产\n\n8月6日，远景科技集团（以下简称“远景”）宣布在乌兰察布建成全球最大的AI算力超级单体，标志着“远景乌兰察布星河基地”正式投产。该超级单体采用超高比例绿电直连，以12万平方米的建筑体量（约20个标准足球场）、百万卡并行能力、百万P算力规模，成为全球Token产出能力最强的单体AI数据中心，刷新了AI基础设施的密度纪录。“远景乌兰察布星河基地”是远景在戈壁建设的超级算力枢纽，园区总规划容量达2GW，也是全国最大的AI算力园区和Token工厂。作为“戈壁使命”落地的首个旗舰项目，该基地精准契合国内百万卡互联需求，为国产算力集群打造可复制的中国方案。\n\n02\n\n中国电信（江苏）Token运营中心正式揭牌\n\n8月11日，中国电信（江苏）Token运营中心在苏州工业园区正式揭牌并入驻苏州国际数据港，该项目是全省首个Token运营中心，目标打造国内领先、接轨国际的Token综合服务枢纽。中心将依托中国电信云网融合与智算能力，聚焦大模型词元算力业务，实现词元算力调度、交付、鉴证、管控等全生命周期管理，并同步成立了由天翼云、智谱、阿里、腾讯等企业组成的Token出海服务联盟，为AI企业提供“模型+合规+本地化”一站式出海服务。\n\n03\n\n国家先进计算产业创新中心（安徽）启用\n\n8月20日，合肥智算集群正式上线，同期国家先进计算产业创新中心（安徽）暨曙光安徽总部基地也在安徽合肥正式启用，标志着这两大核心数字基建项目全面转入实质性运营阶段。合肥智算集群由合肥大数据公司打造，底层采用中科曙光新一代AI超集群技术，全面实现了“芯片、计算、存储、网络、散热、应用、服务”全链路的自主研发与协同。该集群支持全精度计算与弹性扩展，通过软硬件一体化设计大幅提升资源调度效率，为词元（Token）规模化生产、流转与高并发调用提供高效稳定的绿色算力。同期启用的国家先进计算产业创新中心（安徽）作为国家级产业创新平台，将重点突出应用牵引，依托合肥“芯屏汽合”等产业优势，面向科学智能、集成电路、新型显示及新能源汽车等关键领域开展软硬件适配与解决方案孵化。\n\n04\n\n上海卫星互联网智算中心及算电协同研发中心正式投运\n\n8月27日消息，安世腾首个旗舰智算中心——上海卫星互联网智算中心及算电协同研发中心正式投运，该项目由安世腾投建。该项目总投资3亿元。项目建筑面积约1.23万平方米，一期部署805架高功率机柜，总算力规模达1000P，可全面覆盖大模型训练、AI推理、高性能计算等多元算力需求。建设层面严格遵循GB50174 A级、Uptime Tier 3+标准，配套高冗余电力保障与全链路智能运维体系，集成多重节能制冷技术及2MW分布式光伏系统，满载状态下PUE低至1.2，实现高密度算力与绿色低碳的平衡。\n\n05\n\n中能智算云信息中心首期2000P高性能国产算力项目投产投运\n\n8月28日，由中能智算云（新疆）科技有限公司投资建设的中能智算云信息中心首期2000P高性能国产算力项目在新疆塔城智算产业托里集聚区正式投产投运。该项目总投资达9亿元，是塔城地区首个规模化国产绿碳算力集群，实现了当年签约、当年建设、当年投运的高效目标。在建设内容与技术配置方面，项目突破传统机房模式，采用新型装配式智算机房方案，成功建成6个FDC标准化智算机房，并配套了完善的电力保障与安全冗余体系，保障算力集群7×24小时稳定运行；同时，园区正加紧建设配套的220千伏变电站以筑牢电力根基。该项目全面依托自主可控的国产算力资源，并充分利用当地风光新能源及冷凉气候优势，打造绿色低碳的智能算力底座。在运营指标上，项目投运当月预计即可实现2180万元营收，全年营收预计不低于5000万元。\n\n-------------------\n\n当智能成为全天候运转的生产力，当算力与电力在AIDC中彼此约束、协同演进，IDC的价值链正在被重新定义。\n\n12月11-12日 · **第二十一届中国IDC产业年度大典（IDCC2026）**\n\n主题：智能生长 算电有度——重构IDC产业价值链\n\n扫码报名\n\n共赴这场算电协同的年度之约\n\n让每一度电，成为有效算力\n\n让每一个Token，实现业务价值。\n\n算与电如何各得其度？\n\n答案，就在IDCC2026！",
+      "content_url": "https://news.idcquan.com/news/208095.shtml"
+    },
+    {
+      "id": "2026-09-18-0604d0",
+      "title": "Crusoe raises US$3.9 billion in latest oversubscribed funding round",
+      "summary": "Crusoe, an AI infrastructure provider, announced the initial closing of its US$ 3.9 billion Series F funding round at a post-money valuation of US$ 30.9 billion. The oversubscribed funding round was co-led by Atreides Management, Mubadala Capital, and Valor Equity Partners. According to a press release, along with the lead investors, Crusoe also received significant […]",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "funding",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-18T13:27:14Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/crusoe-raises-us-3-9-billion-in-latest-oversubscribed-funding-round/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Crusoe",
+        "Mubadala Capital",
+        "Atreides Management",
+        "Valor Equity Partners"
+      ],
+      "content": "Crusoe, an AI infrastructure provider, announced the initial closing of its US$ 3.9 billion Series F funding round at a post-money valuation of US$ 30.9 billion. The oversubscribed funding round was co-led by Atreides Management, Mubadala Capital, and Valor Equity Partners.\n\nAccording to a press release, along with the lead investors, Crusoe also received significant backing from new and existing investors including Founders Fund, GIC, NVIDIA, Qatar Investment Authority (QIA), Radical Ventures, and TPG.\n\nThe additional funding from the round will be used to scale Crusoe’s existing programs and support the buildout of its AI factories from large-scale campuses to modular Spark units, ultimately supporting the growth of Crusoe Cloud. The firm currently has over 6 GW of gross contracted capacity across data centers and cloud, having already delivered 1 GW of gross operational capacity.\n\n“We believe AI will usher in an era of abundance: new scientific breakthroughs, unprecedented economic growth, and human prosperity,” said Chase Lochmiller, Crusoe Co-founder and Chief Executive Officer. “Getting there means controlling the infrastructure from electrons to tokens, and we’re grateful to have investors who share that conviction. This Series F lets us scale every layer for the world’s most ambitious AI builders.”\n\n“As AI grows, the economics flow to the lowest-cost producer of intelligence. Through a vertically-integrated model, Crusoe owns the entire value chain – a structural advantage that compounds as they build,” said Gavin Baker, Atreides Management Managing Partner and Chief Investment Officer. “Chase and Cully are world-class operators, and we’re thrilled to support Team Crusoe as they lead the build-out of next generation AI infrastructure.”\n\nThe company attributes its rapid growth to its in-house power plant development capabilities paired with partnerships spanning grid, battery, nuclear, thermal, and renewable energy providers. It also noted that its Crusoe Spark modular data centers will assist in providing predictable scalable capacity as demand grows.\n\n“We joined Crusoe’s journey almost six years ago because they perfectly fit what we look for: pro-entropic founders taking a hard path to build a structurally advantaged company with frontier technology and operational discipline. They have exceeded expectations at every turn as their vision for the business expanded,” said Antonio Gracias, Valor Equity Partners Founder, Chief Executive Officer and Chief Investment Officer.\n\nThe global data center market recorded investments of over US$ 514.26 billion in 2025, with Arizton Advisory & Intelligence noting this will reach US$ 959.19 billion by 2031. The market’s growth is being driven by increased deployment of AI workloads across data centers worldwide, triggering billions of dollars in investment from hyperscale operators.",
+      "content_url": "https://w.media/crusoe-raises-us-3-9-billion-in-latest-oversubscribed-funding-round/"
+    },
+    {
+      "id": "2026-09-18-813158",
+      "title": "Jati Tinggi bags RM73 mil data centre-linked job in Selangor; its third contract win in a month",
+      "summary": "Jati Tinggi Group has secured a RM72.84 million contract to design and build a 275kV high-voltage cable connection linking a data centre's landing station in Banting Technology Park, Selangor. The award is the engineering firm's third contract win within 30 days.",
+      "why_it_matters": "The contract highlights how Malaysia's data center boom is shifting value toward power infrastructure contractors, as securing grid connections becomes the critical path for new campuses in Selangor and Johor. For investors, Jati Tinggi's rapid run of wins signals sustained utility-scale spending on the transmission links that determine which announced projects actually get built.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "construction",
+        "investment"
+      ],
+      "published_at": "2026-09-18T11:33:08Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/818565",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Jati Tinggi Group"
+      ],
+      "content": "KUALA LUMPUR (Sept 18): Engineering and infrastructure specialist Jati Tinggi Group Bhd (KL:JTGROUP) has won a RM72.84 million contract to design and build a high-voltage 275kV cable connection to a data centre's landing station in Banting Technology Park, Selangor.\n\nThis marks Jati Tinggi’s third contract win in the last 30 days.\n\nIn a Bursa Malaysia filing on Friday, the group said its wholly-owned Jati Tinggi Holding Sdn Bhd accepted the Letter of Award for the project from an undisclosed customer on Sept 18. The contract, in effect upon acceptance, is scheduled to conclude on Jan 15, 2027.\n\nThe customer is incorporated in Malaysia under the Companies Act 2016 and is primarily involved in computer consultancy, data processing, provision of infrastructure for hosting, data processing services and related activities, Jati Tinggi said.\n\nThe scope of works covers the full engineering, procurement, construction and commissioning (EPCC) of two 275kV underground power circuits and 275kV overhead line cables, together with transmission towers and associated works.\n\nThese will form the critical power link to the consumer landing station for the new data centre at Banting Technology Park.\n\nJati Tinggi just secured two contracts last month — one was a RM69.49 million job from Tenaga Nasional Bhd (KL:TENAGA) to build power transmission infrastructure in Tumpat, Kelantan, and the other was a RM69.16 million deal to undertake 33kV interim power infrastructure works for a data centre, also at the Banting Technology Park (BTP).\n\nShares of Jati Tinggi closed half a sen or 5.15% higher at RM1.02 on Friday, valuing the group at RM451.8 million. The stock has jumped 50% year to date.\n\nEdited ByTan Choe Choe\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/818565"
+    },
+    {
+      "id": "2026-09-18-85b717",
+      "title": "SoftBank adds US$21 bil to AI firepower in new debt deals",
+      "summary": "SoftBank Group is assembling nearly US$21 billion in potential new borrowings to fund its artificial intelligence investments, with an additional US$10 billion to US$20 billion jumbo bond deal planned for the following week. The debt raising supports the conglomerate's sprawling AI commitments, including its OpenAI stake and data centre ventures.",
+      "why_it_matters": "SoftBank's escalating leverage concentrates a significant share of global AI infrastructure financing on one balance sheet, raising systemic questions about what happens if AI returns disappoint. For data center markets, the borrowing spree signals continued cheap capital flowing into projects like Stargate, sustaining demand for land, power and equipment well into 2027.",
+      "score": 72,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "financing"
+      ],
+      "published_at": "2026-09-18T06:53:22Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/818515",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "SoftBank"
+      ],
+      "content": "(Sept 18): SoftBank Group Corp is closing out the week with nearly US$21 billion (RM85.69 billion) in potential fresh borrowings as it builds out its artificial intelligence (AI) financing capacity. It’s also looking to raise another US$10 billion to US$20 billion next week in a separate jumbo bond deal.\n\nThe Japanese conglomerate increased its margin loan backed by shares of its chip unit Arm Holdings plc by US$5 billion to US$25 billion, people familiar with the matter said on Friday. And it recently secured an additional US$450 million to an existing credit line, bringing the total to US$6.5 billion, according to people familiar with that deal.\n\nApollo Global Management Inc is also in talks to boost the size of a loan to SoftBank by US$3.6 billion to US$9 billion to help it finance its investment in AI giant OpenAI. On top of that, the firm founded and led by billionaire Masayoshi Son secured an US$11.87 billion loan, also to support its OpenAI investment, according to people familiar with those deals.\n\nThat flurry of activity translates into committed and potential new debt of US$20.92 billion that will finance its push deeper into AI including a US$65 billion commitment to OpenAI.\n\nOne of the world’s biggest investors in AI, SoftBank is at the epicentre of debates about the future of debt-fuelled bets on the sector, at a time when market volatility has increased amid safety warnings.\n\nIt’s among tech giants including Oracle Corp and Meta Platforms Inc that are pouring unprecedented amounts of capital into AI technologies and infrastructure. But some investors are getting increasingly worried about the surge in Son’s multibillion-dollar AI projects where the revenue payoff is largely uncertain.\n\nIn its margin loan backed by shares of Arm, the Japanese firm renegotiated the terms and signed a deal with creditors this month, said the people, who asked not to be identified discussing private information.\n\nIt’s the third time SoftBank is upsizing its margin loan using Arm shares as Son needs billions of dollars to fund his growing AI investments.\n\nThe margin loan — where a borrower uses investments like stocks as collateral — began as an US$8.5 billion facility in 2023. It was subsequently increased to US$13.5 billion in 2024 and then to US$20 billion last year.\n\nAs of May, SoftBank’s loan was secured by 769 million shares of Arm, representing a 72% stake in the chip designer, according to company filings. SoftBank owns almost 90% of Arm.\n\nSoftBank had drawn US$20 billion from the facility as of December, with the loan set to expire in September 2027. The loan remains priced at an interest margin of about 225 basis points over the benchmark Secured Overnight Financing Rate and a credit adjustment spread of 25 basis points, some of the people said.\n\nThe deal drew strong demand, helped by the 142% spike in Arm’s share price this year. SoftBank was initially looking to increase the facility by US$3 billion to US$5 billion, but received about US$7 billion in demand from lenders, the people said. SoftBank could boost the loan further if Arm shares continue to rise, they added.\n\nIn its upsized credit line to US$6.5 billion, there are currently more than 20 banks involved, according to people familiar with that deal. It carries an interest margin of 210 basis points over the benchmark Secured Overnight Financing Rate, they added.\n\nSoftBank declined to comment on the increase in the margin loan backed by Arm shares and on the expanded credit line.\n\nThe company has also been meeting with fixed-income investors in New York this week to test appetite for a possible junk bond offering that could total US$10 billion to US$20 billion, people familiar with those discussions have said. A deal could come to the market as early as next week, according to other people briefed on the matter.\n\n“We have investor meetings to provide an update in New York on a non-deal basis. Nothing has been determined on bond issuance,” SoftBank said when asked about the meeting.\n\nSoftBank has been on an acquisition spree, led by its OpenAI investment. Other recent purchases include ABB Ltd’s industrial robotics business for US$5.4 billion and data centre-focused private equity firm DigitalBridge Group Inc for about US$3 billion in cash.\n\nTo finance those deals, SoftBank has been replacing its shorter-term loans with debt carrying longer maturities to strengthen its financial position. SoftBank repaid this week the entire outstanding balance of US$25.9 billion on a US$40 billion one-year loan to fund its investment in OpenAI.\n\nAmong tech giants, Oracle is considered to have one of the highest exposure to spending risk among the major AI players, which is overshadowing robust growth in its cloud-computing division. Meta’s capital expenditure has severely diminished its free cash flow, which is projected to turn negative in the third quarter.\n\nFor Son, his growing list of ambitions includes aggressive data centre expansion in the US and France. SB Energy Inc, SoftBank’s US unit, is developing 8.8 gigawatts of data centre capacity across America that is estimated to require US$174 billion in capital spending. SoftBank has also announced plans to build a five-gigawatt data centre in France.\n\nThe cost of insuring SoftBank’s debt against default has climbed this year, with credit-default swaps marking a three-year high earlier this week.\n\n*Uploaded by Chng Shear Lane*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/818515"
+    },
+    {
+      "id": "2026-09-18-5fb31a",
+      "title": "World's first indoor large-scale fire test completed: REVO3.0 AIDC LFP Battery Backup Power System passes all three key criteria",
+      "summary": "Vision Group’s REVO3.0 AIDC LFP Battery Backup Power System has successfully completed the world’s first indoor Large-Scale Fire Test (LSFT) conducted in strict accordance with the latest UL 9540A-2026, 6th Edition. After 74 minutes of full thermal runaway and combustion, thermal runaway remained fully contained within the initiating module, with zero propagation to adjacent cabinets. […]",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "power",
+        "batteries",
+        "safety",
+        "ai"
+      ],
+      "published_at": "2026-09-18T01:53:21Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/worlds-first-indoor-large-scale-fire-test-completed-revo3-0-aidc-lfp-battery-backup-power-system-passes-all-three-key-criteria/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Vision Group"
+      ],
+      "content": "**Vision Group’s REVO3.0 AIDC LFP Battery Backup Power System has successfully completed the world’s first indoor Large-Scale Fire Test (LSFT) conducted in strict accordance with the latest UL 9540A-2026, 6th Edition.**\n\nAfter 74 minutes of full thermal runaway and combustion, thermal runaway remained fully contained within the initiating module, with **zero propagation to adjacent cabinets**. All three core criteria were successfully passed. The test was witnessed throughout by **JENSEN HUGHES** and **UL Solutions**, with traceable and verifiable test data.\n\n **Real Data Center Conditions. Extreme Test Conditions.**\n\nDesigned for high-density backup power applications in AI data centers, the test used the **600kW REVO3.0 AIDC LFP Battery Backup Power System**.\n\nThe test environment fully reproduced data center conditions, including walls, ceiling structures and ventilation. All three cabinets were fully charged at **100% SOC**. The initiating cabinet was positioned **0 cm** from Target Cabinet A and **68 cm** from Target Cabinet B, creating an extremely compact deployment scenario while meeting all mandatory UL 9540A-2026 LSFT prerequisites.\n\nAll active fire suppression and thermal runaway intervention systems were disabled, leaving only the cabinet’s passive fire protection. With cabinet doors fully open, the system was exposed to oxygen and subjected to the standard-defined worst-case scenario, followed by open-door flame exposure and **120 minutes of continuous water spray**.\n\n### Test Results: Thermal Runaway Fully Contained\n\n- The initiating Module 7 underwent **74 minutes of full thermal runaway combustion** , with no explosion.\n- Adjacent Modules 6 and 8 experienced **no thermal propagation or thermal runaway** and remained fully charged after testing.\n- Target Cabinets A (**0 cm** ) and B (**68 cm** ) remained intact, with**no thermal propagation or significant fire damage** .\n- System voltage decreased from **640V to 580V** , while normal voltage output was maintained.\n- Following **120 minutes of water spray and 24 hours of observation** , there was no re-ignition, leakage or high-voltage arcing. All three cabinets remained operational.\n- The initiating cabinet showed visible fire damage, but **no collapse or significant structural deformation** .\n\nAgainst the three core UL 9540A-2026 criteria—**fire propagation to adjacent cabinets, building structure temperature rise, and fire barrier integrity**—the test achieved a **full pass**.\n\n### From Compliance to System-Level Safety Validation\n\nUnlike conventional outdoor or unit-level testing, this full-scale indoor test provides direct engineering value for data center deployment.\n\nThe test advances lithium battery safety validation from **cell- and equipment-level verification to system-level validation across modules, cabinets and fire protection systems**.\n\nFor data center design, the **0 cm zero-propagation result** provides practical reference data for fire separation, pressure relief and fire protection design.\n\nFor compliance and approval, the test data supports **NFPA 855-related requirements**, PE engineering sign-off and on-site compliance approval for the 600kW REVO3.0 system.\n\nFor the AI era, the test establishes a new practical benchmark for indoor large-scale fire safety validation of data center backup power systems.\n\n### Vision Group: Safety Must Be Proven in Real-World Conditions\n\nA Vision Group representative said: “As data center power density continues to rise, backup power safety must be validated under real deployment conditions. This test was not simply a marketing event—it used real-world test data to address critical engineering challenges. We hope these results can serve as a practical reference for PE engineers, data center owners and design institutes.”\n\n### A New Benchmark for High-Reliability AIDC Backup Power\n\nThe transition from standards-based requirements to full-scale real-world validation marks an important step in the evolution of indoor data center backup power safety.\n\nWith **74 minutes of extreme combustion, zero fire propagation at 0 cm spacing, and continued system operability after water spray**, REVO3.0 demonstrates that system-level safety can withstand worst-case conditions—not simply remain on paper.\n\nAs AI computing drives higher power density and continuity requirements, backup power has become a critical part of continuous computing operations. **System-level safety—from cells and modules to cabinets and fire protection—is the foundation of high-reliability AIDC backup power.**\n\n### About Vision Group\n\n**Vision Group (Stock Code: 002733)**, founded in 1994 and headquartered in Shenzhen, is a global leading smart energy solutions provider serving critical infrastructure including data centers, AI computing centers, telecom facilities and edge computing nodes.\n\nVision Group’s technologies cover **lithium-ion, lead-acid, hydrogen fuel cell and sodium-ion batteries**, with comprehensive AIDC power solutions ranging from UPS battery systems and HVDC systems to MW-scale integrated backup power systems.\n\nWith five global R&D and manufacturing bases and operations across more than **100 countries and regions**, Vision Group has established an international network integrating R&D, manufacturing and services.\n\n### About REVO3.0\n\nThe **REVO3.0 AIDC LFP Battery Backup Power System** is a **600kW high-power lithium UPS cabinet** developed by Vision Group for high-density backup power applications in AI data centers, featuring high-rate **LFP cells**.\n\n**Scan to download the REVO3.0 AIDC LFP Battery Backup Power System White Paper.**\n\n__Explore the full fire test results and discover the safety engineering behind REV03.0.__",
+      "content_url": "https://w.media/worlds-first-indoor-large-scale-fire-test-completed-revo3-0-aidc-lfp-battery-backup-power-system-passes-all-three-key-criteria/"
+    },
+    {
+      "id": "2026-09-18-75a176",
+      "title": "Amazon receives approval for AUD 2.17bn Sydney data centre",
+      "summary": "Planning authorities have cleared a three-building, five-storey data centre campus on Glendenning Road in Sydney's west, with an estimated maximum electrical demand of 235MW and a project value of AUD 2.17 billion. The development is reported to be for Amazon Web Services, though the formal application lists Lehr Consultants International (Australia) as the proponent.",
+      "why_it_matters": "The approval adds one of the largest single power commitments yet to Western Sydney's already crowded development pipeline, intensifying pressure on NSW grid connections and land zoned for industrial use. For competitors and suppliers, it confirms AWS is still expanding capacity in Australia despite cost discipline elsewhere, while local contractors gain a multi-year construction opportunity.",
+      "score": 90,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "hyperscale",
+        "capacity",
+        "investment",
+        "approval"
+      ],
+      "published_at": "2026-09-18T01:20:03Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/amazon-receives-approval-for-aud-2-17bn-sydney-data-centre/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Amazon Web Services"
+      ],
+      "content": "A major data centre development in Sydney’s west has been approved, with the project comprising three five-storey buildings and an estimated electrical maximum demand of 235MW. The Glendenning Road Data Centre is reported to be an Amazon Web Services (AWS) development, although the formal application identifies Lehr Consultants International (Australia) as the proponent.\n\nThe facility, at 2 Glendenning Road, Glendenning, will replace three existing warehouses on a 10.4-hectare site. It will comprise three data centre buildings with a combined gross floor area of 50,233 square metres and a height of just over 40 metres. According to the project’s Environmental Impact Statement (EIS), the development has an estimated cost of AUD 2.17bn and an overall IT capacity of approximately 193.6MW. This comprises: DC01 at 79.2MW; DC02 at 35.2MW; and DC03 at 79.2MW.\n\nThe EIS separately identifies an estimated electrical maximum demand of approximately 235MW, which was still subject to review by Endeavour Energy. The development will be delivered in three stages.\n\n### Water cooling system\n\nThe project’s full build-out peak-day water demand is estimated at approximately 6.755 million litres, including around 6.75 million litres for industrial purposes, primarily evaporative cooling. Annual water consumption is estimated at approximately 49.05 million litres, taking into account rainwater supplementation.\n\nThe project includes three 100,000-litre rainwater tanks, with collected water intended for toilet flushing and to supplement mechanical cooling requirements. The development would also connect to Sydney Water’s network through a 250mm potable water connection and a 225mm sewer connection.\n\nThe final cooling technology had not been definitively selected in the EIS. Options assessed include direct and indirect evaporative cooling, air-cooled chillers and water-cooled chillers. The selection process is expected to consider energy consumption, water use, capital costs and refrigerant impacts, according to the documents.\n\n### Diesel backup generation\n\nThe full development will include 97 diesel backup generators, each rated at 2,800kW. Total diesel storage is specified at approximately 2.736 million litres, held in underground bulk storage tanks and generator day tanks. The project includes 24 underground bulk fuel storage tanks, each with a capacity of 110,000 litres.\n\nThe EIS states that total fuel storage will not exceed 2,000 tonnes until DC03 is constructed. Generator testing is expected to include up to 20 generators operating simultaneously under no-load conditions and up to three operating at full load. The EIS considered alternatives including solar generation, hydrogen, diesel rotary UPS systems and biofuels. Diesel generation was preferred on the basis of scale, redundancy and technological maturity.\n\n### Connection to Endeavour Energy network\n\nThe site is crossed by existing overhead 132kV transmission lines and towers managed by Endeavour Energy. The proposal includes three internal substations and an underground 132kV feeder connecting to the local Endeavour Energy network. Preliminary discussions with Endeavour Energy had commenced, with the utility expected to determine whether upstream network upgrades are required.\n\nThe EIS states that any upgrades would be undertaken through a separate approval pathway by Endeavour Energy.\n\nBlacktown City Council objected to the project during the assessment process. Its concerns included visual impacts from residential areas, the Colebee Centre and Rooty Hill Heritage Item. The EIS states that the proposal was refined following consultation, including changes to building setbacks, landscaping and water tanks.\n\nThe project is expected to generate approximately 1,076 direct construction jobs and 106 operational jobs. The EIS concluded that the site can accommodate the development with acceptable environmental impacts, subject to mitigation measures and conditions.",
+      "content_url": "https://w.media/amazon-receives-approval-for-aud-2-17bn-sydney-data-centre/"
+    },
+    {
+      "id": "2026-09-18-3321e7",
+      "title": "Huawei unveils Ascend 960 roadmap and 11-chip AI infrastructure portfolio",
+      "summary": "Huawei is set to showcase its next-generation Ascend 960 AI chip alongside an 11-chip infrastructure portfolio at an event this week, positioning the lineup as a direct alternative to Nvidia hardware. The launch underscores Huawei's determination to build a self-sufficient Chinese AI compute stack despite US export controls.",
+      "why_it_matters": "A credible multi-chip roadmap from Huawei gives Chinese cloud providers and AI labs a domestic fallback as Nvidia access remains restricted, accelerating the split of the global AI hardware market into parallel ecosystems. For data center operators in China, it signals future procurement shifts toward Ascend-based clusters, while Nvidia faces deepening competition in what was once its fastest-growing market.",
+      "score": 85,
+      "heat": 2,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "infrastructure",
+        "regulation"
+      ],
+      "published_at": "2026-09-17T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Tech Wire Asia",
+          "url": "https://techwireasia.com/2026/09/huawei-ascend-960-ai-infrastructure-11-chip-portfolio/",
+          "type": "rss"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/818366",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Huawei",
+        "NVIDIA"
+      ],
+      "published_precision": "day",
+      "content": "- Huawei advances Ascend 960 and its 11-chip AI portfolio.\n- Atlas 960E combines Ascend 960 with near-packaged optics.\n\nHuawei has outlined an accelerated roadmap for its Ascend AI chips alongside new infrastructure designed to connect thousands of processors into larger computing systems.\n\nDavid Wang, Huawei’s deputy chairman and rotating chairman, detailed the plans during a keynote at HUAWEI CONNECT 2026 in Shanghai. The announcements centred on the Ascend 960 roadmap and new SuperPoD and SuperCluster infrastructure.\n\n### Ascend 960 and 11-chip portfolio\n\nHuawei said the Ascend 960 is progressing ahead of its original schedule. The Ascend 960DT is now expected in the first quarter of 2027, three quarters earlier than previously planned, while the Ascend 960PR is scheduled for the third quarter of 2027.\n\nThe company also plans to release the Ascend 970 in 2028 and the Ascend 980 in 2029. “We’re evolving our Ascend chip series on a one-generation-a-year cycle,” Wang said.\n\nWang said future generations would also target higher memory bandwidth, memory capacity, and interconnect bandwidth alongside increases in compute performance.\n\nThe Ascend series forms part of a broader 11-chip portfolio Huawei has developed for its SuperPoD and SuperCluster systems. Built around the company’s UnifiedBus architecture, the portfolio covers computing, interconnect, storage, and management functions.\n\nHuawei has not identified all 11 chips individually in the announcement, but described Ascend as the main computing component of the portfolio. UnifiedBus is used to connect the different parts of the system through a common interconnect architecture.\n\nSimilar system-level designs are appearing elsewhere in the AI infrastructure market. NVIDIA’s Vera Rubin NVL72 combines Rubin GPUs, Vera CPUs, NVLink switches, ConnectX-9 SuperNICs, and BlueField-4 data processing units, while AMD’s Helios architecture combines Instinct GPUs, EPYC CPUs, Pensando networking, and ROCm software.\n\nThe architectures differ, but each brings compute, networking, and other infrastructure components together as part of a wider system design.\n\n*Reuters* reported that Huawei is using this system-level approach to offset limitations at the individual-chip level, connecting large numbers of processors with memory, storage, and networking infrastructure so they can operate as larger computing systems.\n\n### Atlas 960E and optical interconnects\n\nHuawei is also extending its SuperPoD architecture, which connects multiple computing nodes through high-speed interconnects and presents them as a single logical computing system. Huawei reported that more than 1,000 Atlas 900 A3 SuperPoDs have been deployed, while the Atlas 950 has entered commercial use.\n\nAccording to Huawei, larger AI clusters face communication overhead as data moves between processors during model training. According to the company, simulations conducted by its Markov Lab found that a 100,000-NPU cluster built with 4,000-NPU SuperPoDs could deliver a 2.75x increase in model FLOPs utilisation compared with a cluster composed of eight-NPU servers.\n\nAMD has similarly identified bandwidth and latency as constraints when AI workloads are distributed across large numbers of GPUs, particularly when training requires frequent synchronisation between processors.\n\nWithin its wider infrastructure roadmap, Huawei also introduced the Atlas 960E SuperPoD, which combines Ascend 960 processors with its Hi-ONE optical interconnect technology. Huawei describes the Atlas 960E as the industry’s first NPO-based SuperPoD.\n\nAccording to Huawei, a single Atlas 960E can scale to 4,096 NPUs and provide 8 EFLOPS of FP8 compute performance with up to 1 petabyte of high-bandwidth memory.\n\nHi-ONE uses NPO, which places optical components closer to the computing or switching silicon, shortening the high-speed electrical path between them. Huawei lists transmission capacity of 7.2 Tbit/s for each Hi-ONE engine.\n\nThe IEEE Solid-State Circuits Society identifies near-packaged and co-packaged optics as approaches being developed to increase bandwidth density and energy efficiency as AI systems place greater demands on data movement. Research published in IEEE Communications Magazine has also pointed to power, latency, and density constraints in conventional pluggable optics.\n\n“We have developed a next-generation optical interconnect product based on near-packaged optics,” Wang said, referring to Hi-ONE. Huawei says the technology, combined with UnifiedBus, is intended to make it easier to scale SuperPoD interconnect systems.\n\nHuawei describes Hi-ONE as the industry’s first NPO product ready for mass production and the first with an integrated light source.\n\nHuawei estimates that an Atlas 960E uses about 5,500 Hi-ONE units instead of the roughly 48,000 800G optical modules that would otherwise be required to connect its NPUs. The company estimates that this design reduces power consumption by more than 550 kilowatts and provides 99.8% system availability.\n\nThe company has submitted an implementation agreement covering NPO technology to the Optical Internetworking Forum, an industry standards organisation. Huawei said it plans to continue developing the technology with industry partners.\n\nHuawei is also updating its general-purpose computing infrastructure through the TaiShan 950 SuperPoD. The system uses UnifiedBus optical networking and supports up to 4,096 nodes with a unified memory pool of as much as 256 TB.\n\nHuawei reported several workload benchmarks for the TaiShan 950. According to the company, the system can start 100,000 software sandboxes 30 times faster than traditional servers, increase sandbox density by 25%, and provide twice the search efficiency when processing 10 billion vectors with 1,000 dimensions.\n\nHuawei also introduced the OceanStor M900, a storage cluster intended to provide multi-tier key-value caching for AI inference workloads. The system uses UnifiedBus to provide direct access to a petabyte-scale KV cache and combines different storage media with a retention algorithm that Huawei says extends SSD read-and-write lifespan 16-fold.\n\nThe TaiShan, Ascend, and storage systems form part of what Huawei calls its agentic SuperCluster architecture. UnifiedBus is used to connect Ascend SuperPoDs, Kunpeng-based SuperPoDs, and KV cache storage while reducing the need for protocol conversion between systems.\n\nAccording to Huawei, the architecture uses a two-tier, four-plane Clos network and can interconnect as many as 512,000 NPUs. A multi-rail topology is designed to extend the configuration to one million NPUs, according to the company.\n\nThe one-million-NPU figure refers to the stated scaling capacity of the architecture rather than a deployed million-processor cluster. *Reuters* reported that Huawei’s new Ascend 960-based system is designed to connect up to 4,096 AI processors, with multiple systems then linked into clusters containing hundreds of thousands of processors.\n\n### Open-source software and ecosystem\n\nAlongside its hardware roadmap, Huawei provided updates on its software ecosystem. Huawei reported that more than 40 AI models have been natively pre-trained using Ascend hardware and its Compute Architecture for Neural Networks, or CANN.\n\nAccording to Huawei, external developers now account for 61% of all CANN developers, while the community has more than 5,200 monthly active developers. Ascend currently supports more than 90 third-party open-source projects, including PyTorch, Triton, vLLM, and veRL.\n\nJim Zemlin, CEO of the Linux Foundation, also addressed the role of open-source software in AI infrastructure during a keynote at HUAWEI CONNECT 2026. “At every single layer of the agentic AI stack, there is an open-source project powering that technology,” Zemlin said.\n\nHe cited Linux and Kubernetes at the infrastructure layer, PyTorch for model training, and vLLM and Ray for inference. Zemlin also pointed to emerging open-source protocols such as MCP and A2A at the agent layer.\n\nHuawei joined the PyTorch Foundation as a Premier Member in 2023, when the foundation said the company would continue work to optimise PyTorch for its Ascend computing platform. Huawei also participated in PyTorch Conference China in Shanghai in September 2026, where sessions covered distributed training, inference, hardware integration, cloud infrastructure, and agents.\n\nThe PyTorch Foundation’s wider project ecosystem now spans model training, inference, orchestration, and deployment, including projects such as PyTorch, vLLM, DeepSpeed, and Ray.\n\nHuawei reported that its wider Kunpeng ecosystem has more than 4.16 million developers and over 7,200 partners. The company also reported more than 20 million openEuler installations.\n\n**Want to learn more about AI and big data from industry leaders?** Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.\n\nTech Wire Asia is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.",
+      "content_url": "https://techwireasia.com/2026/09/huawei-ascend-960-ai-infrastructure-11-chip-portfolio/"
+    },
+    {
+      "id": "2026-09-18-986423",
+      "title": "Opinion: The price of first place in the AI foreign investment race",
+      "summary": "Malaysians have always been fascinated by the household names of colossal tech giants leading the global AI race. These names bring global reputation and prestige. However, many may not realise that these multinational tech giants are set to physically establish their presence in Malaysia within ...",
+      "why_it_matters": "",
+      "score": 40,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "regulation"
+      ],
+      "published_at": "2026-09-17T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/818446",
+          "type": "html-list"
+        }
+      ],
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-09-18-c626aa",
+      "title": "China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge",
+      "summary": "Huawei rotating chairman Eric Xu said demand for the company's Ascend AI chips in China exceeds its production capacity, prompting the company to limit overseas sales. Xu added that testing of the Ascend 950DT chip produced strong results and that Huawei is in extensive talks with Chinese AI model developers.",
+      "why_it_matters": "Supply-constrained rather than demand-constrained, Huawei's admission confirms Chinese AI compute appetite is outpacing domestic fabrication capability, keeping pressure on SMIC and the broader local supply chain. Prioritising domestic buyers over exports slows Huawei's international challenge to Nvidia but guarantees Chinese AI firms preferential access, deepening the bifurcation of global AI infrastructure.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "ai",
+        "chips"
+      ],
+      "published_at": "2026-09-17T09:21:32Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/818410",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Huawei",
+        "NVIDIA"
+      ],
+      "content": "(Sept 17): Huawei Technologies cannot produce enough artificial-intelligence computing equipment to meet demand in China and is limiting overseas sales, rotating chairman Eric Xu said on Thursday, as the Chinese tech giant steps up its challenge to Nvidia.\n\nXu said testing of Huawei's Ascend 950DT AI chip had produced good results and the company was in extensive discussions with Chinese AI model developers. He expected many of them to begin training models on systems using the chip next year.\n\n\"Since we don't have enough capacity to even satisfy the demand in China, we don't have a plan to expand into the international market in a fully-fledged way,\" Xu told reporters at the company's Huawei Connect conference in Shanghai.\n\nHuawei supplies some countries where demand is particularly strong, Xu said, but volumes remain limited.\n\nXu also said reliable data on Nvidia's share of China's AI chip market was difficult to obtain but added: \"I think Ascend market share should be bigger than Nvidia's.\"\n\nHuawei did not provide data to support the estimate.\n\nThe comments underscore Huawei's growing role at the centre of China's drive to build a domestic AI computing industry, as US export controls restrict access to Nvidia's most advanced chips and semiconductor manufacturing equipment. Huawei has faced separate US trade restrictions since May 2019.\n\nXu explicitly linked Huawei's chip push to China's effort to reduce its reliance on foreign technology.\n\n\"We cannot accept a destiny where we cannot control our fate being determined by others in terms of willingness to sell chips to China or not,\" he said.\n\n\"No matter if it's for the Chinese government, industry in China, or for Huawei, it is certainly the way forward to try to push for full self-sufficiency for chips.\"\n\nHuawei has made AI infrastructure central to its strategy. Guo Ping, chairman of Huawei's supervisory board, told employees in remarks released this week that the company viewed AI as its \"biggest opportunity\" and wanted its computing and connectivity infrastructure to play a role comparable to Nvidia's.\n\nHuawei also detailed its next generation of AI processors and computing systems on Thursday.\n\nThe company plans to have its Ascend 960DT chip ready in the first quarter of 2027, three quarters earlier than previously planned, and the 960PR ready in the third quarter, one quarter ahead of schedule, rotating chairman David Wang said.\n\nHuawei has a rotating-chair system in which senior executives take turns leading the company for six-month periods.\n\nHuawei intends to release a new generation of Ascend chips every year, with the 970 and 980 to follow in 2028 and 2029.\n\nThe company is increasingly trying to compensate for limits on individual Chinese chips by connecting large numbers of processors so they can work together as one larger computing system.\n\nHuawei said clusters of about 100,000 chips have become standard for training some of the largest AI models, while communication between machines can consume more than 40% of training time in conventional server systems. Faster links between processors can reduce that bottleneck and make better use of available computing power, the company said.\n\nHuawei unveiled a new computing architecture, called Peerium, designed eventually to allow as many as 1 million processors to operate together as a single system.\n\nIts UnifiedBus technology connects processors, memory, storage and networking equipment inside those systems.\n\nHuawei said its new Ascend 960 supernode would connect as many as 4,096 AI processors. Multiple supernodes could then be linked into clusters containing hundreds of thousands of processors, with the largest planned systems supporting as many as 1 million.\n\nHuawei has already deployed more than 1,000 systems using its earlier Ascend 910C processors, while its Ascend 950 systems have entered commercial use, according to company materials.\n\nThe company said more than 5,200 developers were active each month on software for its Ascend chips and that more than 40 AI models had been trained directly on its computing platform.\n\nNvidia retains a major advantage in software through its widely used CUDA platform that allows developers to build and run AI applications on Nvidia chips. The US chipmaker did not immediately respond to a request for comment.\n\n*Uploaded by Lam Seng Fatt*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/818410"
+    },
+    {
+      "id": "2026-09-18-a91b22",
+      "title": "Opinion: Advanced packaging is Malaysia's next AI test",
+      "summary": "When Intel opened its first overseas manufacturing facility in Penang in 1972, Malaysia’s role was largely to assemble chips designed and fabricated elsewhere.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "investment"
+      ],
+      "published_at": "2026-09-17T03:39:20Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/818355",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Intel"
+      ],
+      "content": "(Sept 17): When Intel opened its first overseas manufacturing facility in Penang in 1972, Malaysia’s role was largely to assemble chips designed and fabricated elsewhere. More than half a century later, the company is completing an advanced packaging complex in the same state. Advanced packaging uses sophisticated manufacturing processes to integrate multiple specialised chips into a single package.\n\nThat shift captures both Malaysia’s gains from the artificial intelligence (AI) boom and its unfinished industrial challenge. Advanced packaging can bring more sophisticated technology and skilled jobs. But if the products, process technologies, intellectual property, and customer relationships remain predominantly foreign-owned, Malaysia may capture less long-term value than the investment headlines suggest.\n\nAsia’s AI hardware supply chain is highly concentrated. US companies design many leading accelerators — the specialised processors that perform the heavy calculations required by AI — while Taiwan fabricates and packages many of them, and South Korean supplies much of the high-bandwidth memory paired with them.\n\nYet the accelerator cannot operate alone. It requires memory, storage, high-speed networking, optical connections, power-management chips, cooling systems, servers, and data centres. Malaysia participates in many parts of this wider ecosystem, while investment by the world’s largest cloud-computing companies is driving data center construction, particularly in Johor. Its AI gains have therefore come mainly from the hardware surrounding the accelerator, rather than from making the accelerator itself.\n\nAdvanced packaging offers one of Malaysia’s clearest opportunities to move closer to the performance-defining core of this supply chain. As transistor scaling becomes harder and more expensive, chipmakers increasingly improve performance by combining processors, memory, and specialised chips within a single package. Shorter connections allow data to move faster while consuming less power — an essential requirement for AI.\n\nThis is far more complex than placing a finished chip inside a protective casing. Advanced packaging requires microscopic wiring, precision bonding, thermal management, and exact alignment across multiple dies. It resembles operating a miniature chip factory more than a conventional assembly line.\n\nIntel’s Penang project illustrates the scale of this technological shift. Announced in 2021 as part of a US$7 billion (RM28.7 billion) investment in Malaysia, the complex contains a 710,000 sq ft cleanroom. Intel’s advanced packaging portfolio includes EMIB, which connects chiplets within a package, and Foveros, which stacks them vertically. After delays, the complex’s first phase is expected to begin advanced packaging operations later in 2026.\n\nIntel is not alone. Taiwanese firms are also moving in the same direction, although their announced Malaysian capabilities are at a different technology tier. Chipbond opened a Penang facility in February 2026 offering advanced wafer bumping and wafer-level chip-scale packaging — processes that add microscopic electrical contacts and package chips before the wafer is cut into individual dies. SPIL is developing a major packaging-and-testing facility expected to introduce similar capabilities, while ASE has continued expanding its long-standing presence in Penang.\n\nTogether, these investments can move Malaysia’s production frontier. More sophisticated manufacturing, process engineering, and testing will be performed locally, creating skilled employment and deeper industrial capabilities.\n\nBut upgrading will remain predominantly foreign-led. Multinational companies generally own the products, process technologies, intellectual property, and major customer relationships. Malaysia can therefore move up the semiconductor value chain without necessarily retaining a proportionate share of the resulting profits or strategic control.\n\nThe economic question is not merely where chips are packaged. It is whether foreign investment raises domestic productivity, wages, technological capability, and domestic value added. That depends on how deeply multinationals embed higher-value activities in Malaysia and how far capability diffuses beyond their fence line — pointing to two complementary policy tracks.\n\nThe first is to deepen the role of multinational companies. Investment incentives should be tied not only to capital expenditure but also to process engineering, package design, product development, workforce training, research collaboration, and the qualification of Malaysian suppliers. The objective is to make Malaysian operations technologically important within each company’s global network, and consequently harder to relocate.\n\nThe second track is to build capabilities that Malaysian firms can own. The most credible opportunities lie in specialised chip and package design, testing equipment, automation, inspection systems, precision components, factory software, and selected materials. These activities may attract fewer headlines than a leading-edge fabrication plant, but they offer greater potential for domestic ownership of technology and intellectual property.\n\nThe Malaysia Advanced Packaging Consortium is a promising experiment in this direction. Its members — SkyeChip, Inari Technology, FusionAP, Pentamaster Instrumentation, and NSW Automation — combine capabilities in chip and chiplet design, semiconductor assembly, automated testing, precision equipment, and advanced packaging process development.\n\nFor now, however, the consortium remains an early-stage platform, not evidence that Malaysia already possesses a home-grown frontier capability. Success will depend on whether collaboration produces customer-qualified processes, defensible intellectual property, and paying customers.\n\nThe link between the two policy tracks is crucial. Spillovers do not occur merely because foreign and domestic companies occupy the same industrial park. They arise when Malaysian engineers acquire advanced production experience, local companies co-develop solutions with multinational customers, and domestic suppliers qualify for global programmes.\n\nMalaysia’s success should not be judged by whether it eventually manufactures a leading AI accelerator. The more immediate test is whether it can leverage foreign investment to bring advanced packaging, product engineering, and research into the country — and connect those activities to Malaysian-owned design, equipment, automation, and testing companies.\n\nIntel can deepen the technological sophistication of production in Malaysia; the consortium is an attempt to increase the share of that technology Malaysian firms eventually own. Together, they embody the two tests of successful upgrading: how advanced production in Malaysia becomes, and how much value Malaysia retains after the AI investment cycle turns.\n\n*Wee Chian Koh is a senior economist at AMRO and Kian Heng Peh is its group head and lead economist.* \n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/818355"
+    },
+    {
+      "id": "2026-09-18-ca0979",
+      "title": "YTL Power worth accumulating on pullback and new gas turbines — analysts",
+      "summary": "Analysts say now is a good opportunity to buy and accumulate YTL Power International Bhd's (KL:YTLPOWR) shares, given the recent pullback and the company's reservation of four new gas turbines amid a global backlog.",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "investment"
+      ],
+      "published_at": "2026-09-17T03:31:44Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/818354",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "YTL Power"
+      ],
+      "content": "KUALA LUMPUR (Sept 17): Analysts say now is a good opportunity to buy and accumulate YTL Power International Bhd's (KL:YTLPOWR) shares, given the recent pullback and the company's reservation of four new gas turbines amid a global backlog.\n\nCGS International Research said in a note that the company’s recent reservation of four new Siemens gas turbines back on Tuesday increased its current inventory to seven turbines, bringing strong profit potential if all planned energy plants go live by early 2031.\n\nThough YTL Power only signed a reservation agreement, should the purchase go through, all seven turbines put together would have a capacity of around 5.25GW of new combined-cycle gas turbine (CCGT) power plant capacity.\n\nCGS added that this reservation is important as these turbines are difficult to secure and typically have long waiting periods.\n\nA single CCGT power plant, capable of around 1.4GW, can generate up to RM250 million in annual net profit. With all seven turbines in use, this could reach up to RM850 million, according to the house.\n\nThis energy capacity is essential to YTL Power’s ambitions to help meet rising demand from data centres, energy guzzlers that are in urgent need of more power, in Malaysia and the wider Southeast Asia region.\n\nThese potential profits, mixed with the company’s stock price staying within the RM5.51 to RM5.9 range since Aug 26 following a sharp rise from its data centre projects, have led CGS International to call this period an opportune time to accumulate stocks in YTL Power, maintaining its 'add' status and target price of RM6.50.\n\nAt the current share price of RM5.68, the target price implies an upside of over 14%. The counter gained 17 sen or 3.1% in early trade, valuing the group at RM49.6 billion.\n\nSeparately, RHB Research has also maintained its 'buy' call and target price of RM7 for YTL Power.\n\n\"In addition to its three gas turbine units on hand, this will enable YTL Power to build up to 5.25GW of new gas plants in the region. Assuming the group secures power purchase agreements for the total capacity, we estimate a 17% upside to our target price.\"\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/818354"
+    },
+    {
+      "id": "2026-09-18-55c214",
+      "title": "Nvidia partner GMI Cloud seeks loan to buy chips for Thai site",
+      "summary": "GMI Cloud, a Nvidia partner and GPU cloud provider, is seeking a US$300 million loan to purchase chips for its data centre facility in Thailand, according to people familiar with the matter. The financing effort adds to a growing list of chip-backed borrowing deals across Asia.",
+      "why_it_matters": "GPU-collateralised lending is becoming the default financing model for Asia's neocloud builders, expanding credit risk tied directly to chip values and Nvidia supply cycles. For Thailand, the deal reinforces its emergence as a Southeast Asian AI compute destination, while lenders gain another test case for underwriting hardware that depreciates quickly.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "investment",
+        "capacity"
+      ],
+      "published_at": "2026-09-17T03:20:42Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/818353",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "GMI Cloud",
+        "NVIDIA"
+      ],
+      "content": "(Sept 17): GMI Cloud, a Nvidia Corp partner, is seeking a US$300 million (RM1.21 billion) loan to buy chips for its facility in Thailand, according to people familiar with the matter, adding to a growing list of similar deals in Asia.\n\nThe US-based data centre operator has approached banks and private credit funds for the financing, said the people who asked not to be identified as the discussions are private. The proposed deal would pay yields in the low-teens, they said.\n\nProceeds from the self-arranged funding would be used for chip purchases for GMI Cloud’s facility, housed in STT GDC Pte’s site in Thailand, they said. Tencent Holdings Ltd would be the user of the chips, they said.\n\nSpokespeople for GMI Cloud and Tencent had no immediate comment when contacted, while a spokesperson for STTGDC declined to comment.\n\nChip financing is emerging as the next frontier for artificial intelligence lenders, as banks and private credit expand beyond data centres to the hardware that powers them. GMI Cloud recently signed a NT$13.9 billion (RM1.78 billion) loan, backed by contracts for computing power from advanced chips, for a project in Taiwan.\n\n*Uploaded by Felyx Teoh*\n\n \n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/818353"
+    },
+    {
+      "id": "2026-09-18-487e5e",
+      "title": "NVIDIA, Google and Emerald AI launch the AI Energy Management Alliance",
+      "summary": "NVIDIA, Google and grid-software firm Emerald AI have formed the AI Energy Management Alliance, a coalition aimed at enabling large data centers to modulate electricity consumption in response to real-time grid conditions. GridUnity, which works on interconnection and planning for utilities and grid operators, has joined as a founding board member.",
+      "why_it_matters": "The alliance formalises demand flexibility as a mainstream strategy for unlocking data center grid connections, offering operators a faster path to energisation in power-constrained markets. Utilities gain a standardised framework for treating AI campuses as flexible loads rather than fixed demand, potentially easing interconnection queues that currently stall projects across the US and beyond.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "power",
+        "grid",
+        "sustainability"
+      ],
+      "published_at": "2026-09-17T07:11:26Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/nvidia-google-and-emerald-ai-launch-the-ai-energy-management-alliance/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA",
+        "Google",
+        "Emerald AI",
+        "GridUnity"
+      ],
+      "content": "NVIDIA, Google and Emerald AI have launched the AI Energy Management Alliance (AEMA), a coalition focused on helping large data centers adjust their electricity use in response to grid conditions. GridUnity has been selected as a founding board member which works on interconnection and grid planning processes for utilities, transmission providers and regional grid operators, alongside the three founding companies with Frank Lacey the founder of Electric Advisors Consulting LLC to serve as AEMA’s Executive Director.\n\nThe AEMA is expected to bring together AI companies, data center operators, infrastructure providers, power producers, utilities, and regional grid operators to develop data centers that can adjust electricity consumption in response to grid conditions. AEMA aims to develop scalable approaches that can be deployed across the U.S. as AI-driven electricity demand grows, putting pressure on utilities to maintain grid reliability while managing the need and cost of new generation and transmission infrastructure as detailed in a NVIDIA blog.\n\nAccording to a press release, the inaugural members and launch partners of the AEMA include AES, Analog Devices, Anthropic, Calibrant Energy, Camus, ClearPath, Constellation, Encoord, Fluence, Generate Capital, GridUnity, National Grid, NRG, PassKey, RWE, Splight, Verrus, and Voltus.\n\nSenior individuals from the founding companies of AEMA have expressed their optimism and committed to advancing data center power adjustments, and enabling power grid systems efficiency for AI deployment.\n\nDr. Varun Sivaram, CEO, Emerald AI, said, “The most effective way to accelerate American AI is to make every data center a good citizen of the grid, data centers that flex their power use in response to peak grid stress can connect faster and at far greater scale, while the communities that host them gain a more reliable grid and protection from rising electricity bills. Emerald AI is proud to help found AEMA so the AI buildout strengthens both American competitiveness and the neighborhoods that power it.”\n\nTyler Norris, Head of Advanced Energy Market Innovation, Google, said, “Google is committed to investing in energy solutions that benefit everyone, and pioneering smarter ways to manage our demand turns data centers into dynamic grid allies that help power systems operate more efficiently and reliably, through AEMA, we look forward to continuing to scale demand flexibility—unlocking essential speed-to-power while protecting affordability for all energy consumers.”\n\nJosh Parker, Head of Sustainability, NVIDIA, said, “The fastest path to reliable, affordable energy is making smarter use of what already exists, even as we build the new infrastructure we need, NVIDIA is joining AEMA to advocate for technology-neutral, performance-based standards that evaluate flexible data centers on measurable grid reliability metrics. The result: faster AI deployment and a more efficient grid, without asking ratepayers to fund new capacity.”\n\nFlexible data centers can respond in several ways, including shifting computing workloads, discharging battery storage, using on-site or paired generation, and reducing electricity consumption during grid emergencies. The approach treats a data center as a controllable electricity resource rather than a fixed load.\n\nThis flexibility could also help address limitations in conventional interconnection processes, which typically assume large facilities have relatively steady electricity demand. AI factories are the infrastructure of the intelligence era and scaling them responsibly will depend as much on innovation across the grid as inside the data center.\n\nThe alliance’s framework will be technology-neutral and based on measurable performance rather than specific hardware or software. Proposed measures include response speed, the duration of a response, predictability and performance during emergencies.\n\nAEMA also plans to establish requirements for facilities to remain connected during short grid disturbances, reduce electricity consumption when requested and respond to contingencies. It will work on common technical standards, performance metrics and operational data-sharing requirements.\n\nThe group intends to address how interconnection costs are allocated which should reflect a facility’s actual effect on the power system, including potential benefits from reducing demand or avoiding grid upgrades. It plans to work with utilities on interconnection processes for data centers that make verifiable commitments to provide flexible electricity demand.",
+      "content_url": "https://w.media/nvidia-google-and-emerald-ai-launch-the-ai-energy-management-alliance/"
+    },
+    {
+      "id": "2026-09-18-60ac8a",
+      "title": "Hitachi Vantara gets science-backed net-zero target",
+      "summary": "Validation by the Science Based Targets initiative adds credibility as data-centre power demand and cooling costs face closer scrutiny from buyers.",
+      "why_it_matters": "",
+      "score": 30,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "global"
+      ],
+      "topics": [
+        "sustainability",
+        "power",
+        "regulation"
+      ],
+      "published_at": "2026-09-17T02:36:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/hitachi-vantara-gets-science-backed-net-zero-target",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Hitachi Vantara"
+      ],
+      "content": "Thu, 17th Sep 2026 (Yesterday)\nHitachi Vantara has committed to reaching net-zero greenhouse gas emissions across its global value chain by fiscal year 2040. The Science Based Targets initiative has validated its near-term and long-term emissions targets.\n\nThe validation confirms that the targets align with climate science and provides external backing for the storage and infrastructure supplier's emissions plans.\n\nUnder its near-term plan, Hitachi Vantara aims to cut absolute Scope 1 and 2 greenhouse gas emissions by 98% by fiscal year 2030 from a fiscal year 2024 baseline. It also plans to reduce Scope 3 emissions by 51% per usable petabyte of storage capacity sold by fiscal year 2036.\n\nIts long-term target is to reduce Scope 3 emissions by 97% per usable petabyte of storage capacity sold by fiscal year 2040, again using fiscal year 2024 as the baseline.\n\nThe commitment comes as technology suppliers face growing scrutiny over the environmental impact of data infrastructure, particularly as demand for artificial intelligence and other data-intensive services drives up electricity use in data centres. Cooling remains a major part of that demand, with research cited by Hitachi Vantara showing that cooling systems can account for 38% to 40% of data centre electricity use.\n\nThe net-zero goal builds on earlier emissions cuts within the company's own operations. In fiscal year 2025, Hitachi Vantara reduced Scope 1 and 2 emissions by 43%, largely by sourcing half of its energy from renewable sources.\n\nIt has also expanded lifecycle sustainability work across its Virtual Storage Platform One product line, including block, file and object storage products, and strengthened emissions governance, data quality and audit readiness.\n\n### Customer pressure\n\nSimon Ninan outlined the commercial backdrop to the announcement.\n\n\"Customers increasingly expect their technology suppliers to demonstrate that their climate commitments are credible and backed by action,\" said Simon Ninan, Senior Vice President of Business Strategy at Hitachi Vantara. \"Our commitment to achieve net zero by FY2040 sets a clear direction and holds us accountable to measurable progress. Independent validation of our science-based targets strengthens that commitment while building on the work already underway across our business to help customers improve efficiency, reduce power and cooling costs and make progress toward their own sustainability goals.\"\n\nThat customer focus is central to Hitachi Vantara's case for linking climate targets to product design and infrastructure management. The company is working to align its wider portfolio with Hitachi Eco-Design Management Guidelines and to help clients measure energy use and carbon impact in storage environments.\n\nOne example is VSP 360 Clear Sight, a tool that gives users visibility into energy use and carbon impact across VSP environments and offers recommendations to improve operational efficiency.\n\nHitachi Vantara also highlighted several customer outcomes tied to its infrastructure. DestekBank reduced data centre energy consumption by 25% and total cost of ownership by 20%, while Malayala Manorama cut power and cooling costs by 70% and reduced data centre rack space by 66%.\n\nGaranti BBVA estimates that its Hitachi Vantara storage systems use about 30% less energy than rival systems, according to the company. Aquiris, which supports water treatment operations processing more than 110 million cubic metres of wastewater a year and collects more than 1 million data points a day, used VSP One Block while reducing power use and lowering its carbon footprint.\n\n### Governance focus\n\nCourtney Hadden said the company views target validation as part of a broader governance effort.\n\n\"Our commitment to achieving net zero by FY2040 reflects both ambition and accountability,\" said Courtney Hadden, Sustainability Director at Hitachi Vantara. \"Sustainability is most effective when it is embedded into decision-making across the organisation, supported by strong governance and informed by reliable data. Independent validation of our targets reinforces that approach, providing a clear, science-based framework to measure our progress and hold ourselves accountable over the long term.\"\n\nThe announcement places Hitachi Vantara among a growing group of technology companies seeking external validation for climate goals as buyers and investors demand clearer evidence of progress. In the data infrastructure market, where equipment lifecycles, energy consumption and supply-chain emissions all matter, the credibility of emissions targets is becoming more closely tied to procurement and operating cost decisions.\n\nFor Hitachi Vantara, the challenge will be translating target validation into sustained reductions across manufacturing, supply chains and product use, areas that typically account for the bulk of Scope 3 emissions for hardware and infrastructure companies.\n\nThe company's target framework measures those indirect emissions against usable petabytes of storage capacity sold, linking climate performance to the efficiency of the systems it brings to market.",
+      "content_url": "https://datacenternews.asia/story/hitachi-vantara-gets-science-backed-net-zero-target"
+    }
+  ]
+}
