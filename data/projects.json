@@ -102469,7 +102469,7 @@
       "region": "southeast-asia",
       "country": "Malaysia",
       "city": "Johor",
-      "capacity_mw": 9.5,
+      "capacity_mw": 65,
       "status": "under_construction",
       "developer": null,
       "investor": null,
@@ -102477,7 +102477,7 @@
       "phases": null,
       "anchor_tenants": [],
       "power": null,
-      "announced": null,
+      "announced": "2026-09",
       "construction_start": null,
       "rfs": "Q1 2027",
       "lat": null,
@@ -102497,12 +102497,13 @@
         }
       ],
       "story_ids": [
-        "2026-09-07-98e627"
+        "2026-09-07-98e627",
+        "2026-09-19-770575"
       ],
       "first_seen": "2026-09-07",
-      "last_updated": "2026-09-07",
+      "last_updated": "2026-09-19",
       "seed": false,
-      "capacity_note": "total planned"
+      "capacity_note": "second leased building at the campus"
     },
     {
       "id": "evolution-dc-bangkok-data-centre",
@@ -102839,7 +102840,48 @@
       "first_seen": "2026-09-18",
       "last_updated": "2026-09-18",
       "seed": false
+    },
+    {
+      "id": "sharonai-albury-site",
+      "name": "SharonAI Albury Site",
+      "operator": "SharonAI",
+      "region": "australia",
+      "country": "Australia",
+      "city": "Albury",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": "2026-09",
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-09-19",
+          "story_id": "2026-09-19-5d48ba"
+        }
+      ],
+      "story_ids": [
+        "2026-09-19-5d48ba"
+      ],
+      "first_seen": "2026-09-19",
+      "last_updated": "2026-09-19",
+      "seed": false
     }
   ],
-  "updated_at": "2026-09-18T14:15:12Z"
+  "updated_at": "2026-09-19T05:12:22Z"
 }
