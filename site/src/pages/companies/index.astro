@@ -1,5 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
+import FollowButton from '../../components/FollowButton.astro';
 import { loadCompanies, logoUrl, CATEGORY_ORDER, type Company } from '../../lib/companies';
 
 const companies = loadCompanies();
@@ -29,7 +30,7 @@ const categories = CATEGORY_ORDER.filter((cat) => byCategory.has(cat));
         {(byCategory.get(cat) ?? []).map((c) => {
           const logo = c.domain ? logoUrl(c.domain) : null;
           return (
-          <a class="co-card" href={`${base}/companies/${c.slug}/`}>
+          <a class="co-card" href={`${base}/companies/${c.slug}/`} data-company-slug={c.slug}>
             <span class="co-logo">
               {logo && (
                 <img
@@ -42,12 +43,18 @@ const categories = CATEGORY_ORDER.filter((cat) => byCategory.has(cat));
               <span class="co-letter" aria-hidden="true">{c.name.charAt(0)}</span>
             </span>
             <span class="co-body">
-              <span class="co-name">{c.name}</span>
+              <span class="co-name">
+                {c.name}
+                <span class="co-new-dot" title="New activity since your last visit" hidden></span>
+              </span>
               <span class="co-blurb">
                 {c.blurb ?? `Data center operator with ${c.stats.facilities} tracked facilities.`}
               </span>
             </span>
-            <span class="co-cta">View details →</span>
+            <span class="co-card-side">
+              <FollowButton slug={c.slug} variant="card" />
+              <span class="co-cta">View details →</span>
+            </span>
           </a>
           );
         })}

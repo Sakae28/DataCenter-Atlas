@@ -46,7 +46,7 @@ const ogImage = new URL(`${base}/og-default.png`, site);
     <title>{title} · DataCenter Atlas</title>
     <slot name="head" />
   </head>
-  <body>
+  <body data-base={base}>
     <a class="skip" href="#main">Skip to content</a>
     <aside class="sidebar">
       <a class="brand" href={base}>
@@ -82,9 +82,10 @@ const ogImage = new URL(`${base}/og-default.png`, site);
           <Icon name="server" size={15} class="side-icon" />
           Pipeline
         </a>
-        <a class="side-item" class:list={[{ 'is-active': active === 'companies' }]} href={`${base}/companies/`}>
+        <a class="side-item" class:list={[{ 'is-active': active === 'companies' }]} href={`${base}/companies/`} data-nav-companies>
           <Icon name="building" size={15} class="side-icon" />
           Companies
+          <span class="nav-alert-dot" title="Followed companies have new activity" hidden></span>
         </a>
         <a class="side-item" class:list={[{ 'is-active': active === 'saved' }]} href={`${base}/saved/`}>
           <Icon name="bookmark" size={15} class="side-icon" />
@@ -238,6 +239,155 @@ const ogImage = new URL(`${base}/og-default.png`, site);
         document.dispatchEvent(new CustomEvent('dcfav:change', {
           detail: { type, id, saved: i < 0 },
         }));
+      });
+
+      /* ---------- Company following + activity alerts ---------------------
+         Follows live in localStorage ("dc-follows": slug[]). A build-time
+         JSON (company-activity.json) carries each company's latest news /
+         project-update timestamp; "dc-follow-seen" remembers the latest
+         activity the visitor has already seen per company. A company has
+         unseen activity when activity.latest > seen[slug] — surfaced as a
+         dot on the Companies nav item and on followed company cards.
+         Visiting a company page marks it seen. */
+      const FOLLOW_KEY = 'dc-follows';
+      const FOLLOW_SEEN_KEY = 'dc-follow-seen';
+
+      function loadFollows(): string[] {
+        try {
+          const raw = JSON.parse(localStorage.getItem(FOLLOW_KEY) ?? '[]');
+          return Array.isArray(raw) ? raw : [];
+        } catch {
+          return [];
+        }
+      }
+
+      function saveFollows(list: string[]) {
+        try {
+          localStorage.setItem(FOLLOW_KEY, JSON.stringify(list));
+        } catch { /* private mode */ }
+      }
+
+      function loadFollowSeen(): Record<string, string> {
+        try {
+          const raw = JSON.parse(localStorage.getItem(FOLLOW_SEEN_KEY) ?? '{}');
+          return raw && typeof raw === 'object' ? raw : {};
+        } catch {
+          return {};
+        }
+      }
+
+      function saveFollowSeen(seen: Record<string, string>) {
+        try {
+          localStorage.setItem(FOLLOW_SEEN_KEY, JSON.stringify(seen));
+        } catch { /* private mode */ }
+      }
+
+      function syncFollowButtons(follows: string[]) {
+        document.querySelectorAll<HTMLElement>('.follow-btn').forEach((btn) => {
+          const on = follows.includes(btn.dataset.followSlug ?? '');
+          btn.classList.toggle('is-following', on);
+          btn.setAttribute('aria-pressed', String(on));
+          btn.title = on
+            ? 'Following — click to unfollow'
+            : 'Follow — get an on-site alert when this company has news or project updates';
+          const label = btn.querySelector('.follow-btn-label');
+          if (label) label.textContent = on ? 'Following' : 'Follow';
+        });
+      }
+
+      let followList = loadFollows();
+      syncFollowButtons(followList);
+
+      document.addEventListener('click', (e) => {
+        const btn = (e.target as HTMLElement).closest?.('.follow-btn') as HTMLElement | null;
+        if (!btn) return;
+        e.preventDefault(); // never follow a surrounding card link
+        e.stopPropagation();
+        const slug = btn.dataset.followSlug ?? '';
+        if (!slug) return;
+        const i = followList.indexOf(slug);
+        if (i >= 0) followList.splice(i, 1);
+        else {
+          followList.push(slug);
+          // Following from the company's own page counts as having seen its
+          // current state — otherwise it would instantly flag as "new".
+          if (document.querySelector(`[data-company-page="${slug}"]`)) markSeen(slug);
+        }
+        saveFollows(followList);
+        syncFollowButtons(followList);
+        if (i >= 0) clearAlert(slug);
+        document.dispatchEvent(new CustomEvent('dcfollow:change', {
+          detail: { slug, following: i < 0 },
+        }));
+      });
+
+      interface CompanyActivity {
+        name: string;
+        latestNews: string | null;
+        news30d: number;
+        latestProjectUpdate: string | null;
+        latest: string | null;
+      }
+
+      let activityCache: Record<string, CompanyActivity> | null = null;
+      let activityFetch: Promise<Record<string, CompanyActivity>> | null = null;
+
+      function fetchActivity(): Promise<Record<string, CompanyActivity>> {
+        if (activityCache) return Promise.resolve(activityCache);
+        if (!activityFetch) {
+          const base = document.body.dataset.base ?? '';
+          activityFetch = fetch(`${base}/company-activity.json`)
+            .then((r) => (r.ok ? r.json() : Promise.reject(r.status)))
+            .then((d) => (activityCache = d.companies ?? {}))
+            .catch(() => (activityCache = {}));
+        }
+        return activityFetch;
+      }
+
+      function markSeen(slug: string) {
+        const a = activityCache?.[slug];
+        const seen = loadFollowSeen();
+        seen[slug] = a?.latest ?? new Date().toISOString();
+        saveFollowSeen(seen);
+      }
+
+      function clearAlert(slug: string) {
+        document
+          .querySelectorAll(`.co-card[data-company-slug="${slug}"] .co-new-dot`)
+          .forEach((el) => ((el as HTMLElement).hidden = true));
+      }
+
+      function refreshAlerts(activity: Record<string, CompanyActivity>) {
+        const follows = loadFollows();
+        const seen = loadFollowSeen();
+        const unread = follows.filter((slug) => {
+          const latest = activity[slug]?.latest;
+          return !!latest && latest > (seen[slug] ?? '');
+        });
+        const navDot = document.querySelector<HTMLElement>('[data-nav-companies] .nav-alert-dot');
+        if (navDot) {
+          navDot.hidden = unread.length === 0;
+          navDot.title = unread.length
+            ? `New activity: ${unread.map((s) => activity[s]?.name ?? s).join(', ')}`
+            : '';
+        }
+        document.querySelectorAll<HTMLElement>('.co-card[data-company-slug]').forEach((card) => {
+          const slug = card.dataset.companySlug ?? '';
+          const dot = card.querySelector<HTMLElement>('.co-new-dot');
+          if (dot) dot.hidden = !unread.includes(slug);
+        });
+      }
+
+      // A company detail page visit marks that company seen (after alerts
+      // are computed, so the dot on this page load still reflects reality).
+      const companyPageEl = document.querySelector<HTMLElement>('[data-company-page]');
+      const followBoot = fetchActivity().then((activity) => {
+        refreshAlerts(activity);
+        if (companyPageEl) markSeen(companyPageEl.dataset.companyPage ?? '');
+      });
+
+      document.addEventListener('dcfollow:change', () => {
+        if (activityCache) refreshAlerts(activityCache);
       });
     </script>
   </body>

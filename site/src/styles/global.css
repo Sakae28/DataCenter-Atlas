@@ -4279,3 +4279,82 @@ a.chip.company:hover {
 .saved-toggle {
   white-space: nowrap;
 }
+
+/* ---------- Company follow + activity alerts ---------- */
+
+.co-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 12px;
+}
+
+.follow-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  font-weight: 650;
+  padding: 8px 14px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  color: var(--text-faint);
+  cursor: pointer;
+  transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+}
+
+.follow-btn:hover {
+  color: var(--accent-ink);
+  border-color: var(--accent);
+}
+
+.follow-btn.is-following {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+  color: var(--accent-ink);
+}
+
+.follow-btn--card {
+  padding: 6px 8px;
+  border-radius: 8px;
+}
+
+.co-card-side {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.co-new-dot,
+.nav-alert-dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--accent);
+  flex-shrink: 0;
+}
+
+.co-new-dot {
+  margin-left: 7px;
+  vertical-align: 2px;
+}
+
+.nav-alert-dot {
+  margin-left: auto;
+}
+
+.co-new-dot[hidden],
+.nav-alert-dot[hidden] {
+  display: none;
+}
+
+/* Keep the follow button and RSS link off their own line when the profile
+   body is narrow. */
+.co-actions .co-site {
+  margin-top: 0;
+}

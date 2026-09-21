@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import Icon from '../../components/Icon.astro';
 import InfoTip from '../../components/InfoTip.astro';
+import FollowButton from '../../components/FollowButton.astro';
 import { loadCompanies, logoUrl } from '../../lib/companies';
 import { STATUS_META, formatCapacity } from '../../lib/projects';
 import { loadAllStories, formatDate, sourceDisplayName, REGION_LABELS, type NewsStory } from '../../lib/news';
@@ -49,13 +50,20 @@ const STAT_CARDS = [
 ---
 
 <Base title={company.name} active="companies">
+  <link
+    slot="head"
+    rel="alternate"
+    type="application/rss+xml"
+    title={`${company.name} · DataCenter Atlas`}
+    href={`${base}/companies/${company.slug}/rss.xml`}
+  />
   <div class="article-bar">
     <a class="article-bar-back" href={`${base}/companies/`}>
       <Icon name="arrow-left" size={14} />Back to companies
     </a>
   </div>
 
-  <article class="panel co-profile">
+  <article class="panel co-profile" data-company-page={company.slug}>
     <span class="co-logo co-logo--lg">
       {logo && (
         <img src={logo} alt="" onerror="this.remove()" />
@@ -68,11 +76,21 @@ const STAT_CARDS = [
         <span class="chip topic">{company.category}</span>
       </div>
       {company.blurb && <p class="co-profile-blurb">{company.blurb}</p>}
-      {company.domain && (
-        <a class="btn btn-primary co-site" href={`https://${company.domain}`} target="_blank" rel="noopener">
-          Official website<Icon name="external" size={13} />
+      <div class="co-actions">
+        {company.domain && (
+          <a class="btn btn-primary co-site" href={`https://${company.domain}`} target="_blank" rel="noopener">
+            Official website<Icon name="external" size={13} />
+          </a>
+        )}
+        <FollowButton slug={company.slug} />
+        <a
+          class="btn co-rss"
+          href={`${base}/companies/${company.slug}/rss.xml`}
+          title={`RSS feed: news mentioning ${company.name}`}
+        >
+          <Icon name="rss" size={13} />RSS
         </a>
-      )}
+      </div>
     </div>
   </article>
 

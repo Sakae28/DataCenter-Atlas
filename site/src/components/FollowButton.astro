@@ -1,0 +1,29 @@
+---
+/**
+ * Follow toggle for a company. State lives in localStorage (key
+ * "dc-follows"); the global script in Base.astro wires clicks, restores
+ * state, and checks company-activity.json for updates since the user last
+ * visited the company page. Purely client-side.
+ */
+import Icon from './Icon.astro';
+
+interface Props {
+  slug: string;
+  /** "card" renders icon-only (company grid); default renders icon + label. */
+  variant?: 'default' | 'card';
+}
+
+const { slug, variant = 'default' } = Astro.props;
+---
+
+<button
+  type="button"
+  class:list={['follow-btn', { 'follow-btn--card': variant === 'card' }]}
+  data-follow-slug={slug}
+  aria-pressed="false"
+  aria-label="Follow this company"
+  title="Follow — get an on-site alert when this company has news or project updates"
+>
+  <Icon name="bell" size={variant === 'card' ? 14 : 13} strokeWidth={1.9} />
+  {variant !== 'card' && <span class="follow-btn-label">Follow</span>}
+</button>
