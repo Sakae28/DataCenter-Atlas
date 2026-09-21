@@ -1,32 +1,252 @@
 {
   "date": "2026-09-21",
-  "generated_at": "2026-09-21T01:11:51Z",
+  "generated_at": "2026-09-21T01:58:23Z",
   "hot": [
-    "2026-09-21-b6d2cb"
+    "2026-09-21-033fca",
+    "2026-09-21-535704",
+    "2026-09-21-8566a6",
+    "2026-09-21-718ef4",
+    "2026-09-21-23612c"
   ],
   "stories": [
     {
-      "id": "2026-09-21-b6d2cb",
-      "title": "AI fuels M&A deals across Australia & Southeast Asia",
-      "summary": "AI is fuelling dealmaking across Australia and Southeast Asia, with buyers chasing proprietary tech, scalable models and data centre capacity.",
+      "id": "2026-09-21-62803d",
+      "title": "Smart property investors can cash in on data centre boom. Here's how",
+      "summary": "Data centres just became the single largest driver of Australia’s private investment boom, and that’s good news for your average investor. But not in the way most people think.",
       "why_it_matters": "",
-      "score": null,
+      "score": 45,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "colocation",
+        "data-centres"
+      ],
+      "published_at": "2026-09-21T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/wealth/personal-finance/how-retail-property-investors-can-cash-in-on-the-data-centre-boom-20260921-p60vcf",
+          "type": "html-list"
+        }
+      ],
+      "published_precision": "day",
+      "content": "Data centres just became the single largest driver of Australia’s private investment boom, and that’s good news for your average investor. But not in the way most people think.\n\nAustralian Bureau of Statistics figures show data centre and server spending reached $8.7 billion in the first quarter of 2026 alone, driving overall private investment growth to 6.5 per cent, more than six times what economists had forecast. Commonwealth Bank estimates the total build-out could reach $150 billion by 2030.\n\nLoading...",
+      "content_url": "https://www.afr.com/wealth/personal-finance/how-retail-property-investors-can-cash-in-on-the-data-centre-boom-20260921-p60vcf"
+    },
+    {
+      "id": "2026-09-21-38436b",
+      "title": "Japan to tap industrial machinery for collecting physical AI data",
+      "summary": "TOKYO -- The Japanese government and leading machinery makers will work together to collect data for machine learning geared toward physical AI applications such as autonomous robots, Nikkei has…",
+      "why_it_matters": "",
+      "score": 35,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "ai",
+        "data",
+        "robotics"
+      ],
+      "published_at": "2026-09-21T01:58:23Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-to-tap-industrial-machinery-for-collecting-physical-ai-data",
+          "type": "rss"
+        }
+      ],
+      "content": "TOKYO -- The Japanese government and leading machinery makers will work together to collect data for machine learning geared toward physical AI applications such as autonomous robots, Nikkei has learned, assigning individual IDs to factory equipment as a way to gather information across manufacturers.",
+      "content_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-to-tap-industrial-machinery-for-collecting-physical-ai-data"
+    },
+    {
+      "id": "2026-09-21-535704",
+      "title": "IFM, AIP boost advisory line up for Stack's $28b-plus data centres",
+      "summary": "Infrastructure advisory firms IFM Investors and Australian Infrastructure Partners are strengthening the advisory bench supporting Stack Infrastructure, whose data centre portfolio is valued at more than US$28 billion. The move reflects growing institutional demand for specialised guidance on large-scale digital infrastructure deals.",
+      "why_it_matters": "Deepening advisory firepower around a portfolio of Stack's size suggests more capital raising, mergers, or asset sales are in the pipeline. It also underscores how data centres have become core institutional infrastructure assets rather than niche real estate.",
+      "score": 78,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "financing",
+        "data-centres"
+      ],
+      "published_at": "2026-09-20T07:41:16Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/street-talk/ifm-aip-boost-advisory-lineup-for-stack-s-28b-plus-data-centres-20260920-p60yxm",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "IFM Investors",
+        "Stack Infrastructure"
+      ],
+      "content": "IFM Investors and AI Infrastructure Partnership – a global syndicate including BlackRock’s GIP, Nvidia, Microsoft and Abu Dhabi’s MGX – have called in extra troops to steer their joint bid for Stack Infrastructure’s $28 billion-plus data centres.\n\nThe consortium has mandated Azure Capital to work alongside Citi on due diligence and financing required for its bid for Stack’s Asia-Pacific platform, sources said on the condition of anonymity.\n\nLoading...",
+      "content_url": "https://www.afr.com/street-talk/ifm-aip-boost-advisory-lineup-for-stack-s-28b-plus-data-centres-20260920-p60yxm"
+    },
+    {
+      "id": "2026-09-21-718ef4",
+      "title": "'You can't eat data': Cautious local welcome to Anthropic plan",
+      "summary": "A plan to develop Australia’s largest data centre in regional Queensland has given the state a boost of confidence, but agricultural industry leaders warn it should not give developers permission to…",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "community",
+        "data-centres"
+      ],
+      "published_at": "2026-09-20T05:45:19Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/technology/you-can-t-eat-data-cautious-local-welcome-to-anthropic-plan-20260920-p60y8y",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "content": "A plan to develop Australia’s largest data centre in regional Queensland has given the state a boost of confidence, but agricultural industry leaders warn it should not give developers permission to seize prime farming land for future AI centres.\n\nSan Francisco-based tech giant Anthropic, the developer of the Claude AI platform, signed a long-term lease with the Western Downs Digital Park northwest of Brisbane, where Singapore’s Zerra DC is proposing to build a $30 billion data centre.\n\nLoading...",
+      "content_url": "https://www.afr.com/technology/you-can-t-eat-data-cautious-local-welcome-to-anthropic-plan-20260920-p60y8y"
+    },
+    {
+      "id": "2026-09-21-23612c",
+      "title": "Innovation core to AI trade in China's two-speed economy: BlackRock executive",
+      "summary": "Global AI adoption is still at its infancy, with interest in agentic AI further driving demand",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "ai",
+        "investment"
+      ],
+      "published_at": "2026-09-20T07:53:21Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/wealth/wealth-investing/innovation-core-ai-trade-chinas-two-speed-economy-blackrock-executive",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "BlackRock"
+      ],
+      "content": "Global AI adoption is still at its infancy, with interest in agentic AI further driving demand\n\n[SINGAPORE] Investors interested in China’s artificial intelligence story should focus on innovation plays, given that China’s two-speed economy discourages a broad allocation into the market.\n\nWhile China has pockets of markets that are doing well and set to drive innovation – such as in low-cost AI models, robotics and power storage – domestic demand is still slow, said Gargi Pal Chaudhuri, chief investment and portfolio strategist for the Americas at BlackRock.\n\n“This is where we are telling investors to take a more active approach, so that you are going to get those specific parts of the innovation, as opposed to a broad China allocation,” Chaudhuri said in an interview with *The Business Times*.\n\nThis comes as Chinese equities are receiving more interest in recent times as investors recalibrate their portfolios, having been underweight on China relative to benchmarks in recent years.\n\nChaudhuri noted that Asian equities are the biggest conviction for clients in the Asia-Pacific region currently, driven by interest in semiconductor plays in South Korea and Taiwan, as well as a reversal of the outflows from Chinese markets.\n\nTaiwan and South Korea – being central to the semiconductor and memory supply chain that powers AI – will likely continue to see inflows, Chaudhuri said.\n\nThis comes as global AI adoption is still at its infancy, with interest in agentic AI further driving demand.\n\n“With the compute and memory story continuing to remain a choke point right now, we do think that investors will probably continue to drive flows and performance within these two markets,” she said.\n\nCompanies in these two markets are also getting less expensive from a price to earnings perspective, with valuations down because earnings growth has been “so supportive and so solid”.\n\nBut Chaudhuri warns that volatility is going to remain in the markets, which is typical in cases where new technology is driving price action and client adoption and flows.\n\n“We’re constructive, but constructive does not mean calm,” she said.\n\nHence, as much as it is important for investors to have AI in their portfolios to tap on the AI growth, Chaudhuri said it is just as important for investors to diversify beyond and around the AI train.\n\nThis also means allocating to areas that do not trade in the same direction as equity markets.\n\nSeveral other Asian markets are good representations of that: India, which is a demographic story; Japan, a demographic story; and the Asean region, a domestic demand story.\n\nChaudhuri expects India to serve as a good AI hedge, as it has not benefited from the bottlenecks in power, memory and compute, and it is also underperforming due to exposure to the software disruption.\n\nIndia and Asean also remain structurally important in a client’s portfolio given strong demographics, digitisation and infrastructure investments.\n\nThis is especially since bonds have become a less reliable hedge, with AI driving high correlations across sectors and regions.\n\nInvestors should still focus on income as a source of resilience in a portfolio as investors can benefit while not taking a lot of interest rate sensitive risk.\n\nBut Chaudhuri noted that a lot of US corporate credit supply is tied to AI, as many of the hyperscalers are issuing bonds.\n\nMeanwhile, this trend is not reflecting in Asian credit markets, making it a good asset class for both diversification and income.\n\n“The recognition that you’re getting a little bit of that diversification away from the same themes around AI – I think that’s what’s important,” she said.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.",
+      "content_url": "https://www.businesstimes.com.sg/wealth/wealth-investing/innovation-core-ai-trade-chinas-two-speed-economy-blackrock-executive"
+    },
+    {
+      "id": "2026-09-21-033fca",
+      "title": "China's CXMT says new memory chip platform enters mass production as it takes on global rivals",
+      "summary": "ChangXin Memory Technologies (CXMT), China's leading DRAM maker, says its latest memory chip platform has entered mass production, positioning it to challenge Samsung, SK Hynix, and Micron. The milestone marks progress in Beijing's effort to build a self-sufficient domestic memory supply chain.",
+      "why_it_matters": "CXMT scaling production threatens to pressure global DRAM pricing and erode the incumbents' share in the commodity memory market. For data centre buyers, a credible Chinese supplier introduces both cheaper sourcing options and new geopolitical supply-chain risks.",
+      "score": 70,
+      "heat": 2,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "supply-chain"
+      ],
+      "published_at": "2026-09-20T05:04:54Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/chinas-cxmt-says-new-memory-chip-platform-enters-mass-production-it-takes-global-rivals",
+          "type": "rss"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/818624",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "CXMT"
+      ],
+      "content": "Advance underscores China’s challenge to established memory chip suppliers\n\n[BEIJING] Chinese DRAM chipmaker CXMT said on Sunday (Sep 20) its fifth-generation technology platform had entered mass production, a claimed breakthrough that could help China build a stronger competitor to Samsung Electronics, SK Hynix and Micron Technology in the global market for memory chips.\n\nDRAM, or dynamic random-access memory, is the short-term working memory that phones, computers and other devices use to run apps and programs.\n\nThe new platform is designed to make more powerful memory chips at lower cost and with less power use. CXMT, which listed on Shanghai’s Star Market in 2026, said it would give electronics makers an additional source of supply for chips used in smartphones and other devices.\n\nCXMT, China’s leading producer of DRAM, said the new platform packs the tiny structures that store data closer together, allowing more memory to fit on each chip and more individual chips to be made from each silicon wafer.\n\nThe Hefei-based memory chip maker said it had reduced the spacing of key features in the part of the chip that stores data to 11.95 nanometres, or about 12 billionths of a metre.\n\nIt achieved this using “quadruple patterning”, a process that repeats several manufacturing steps to produce finer circuit patterns.\n\n“Our process capability is now on par with the most advanced mass-produced nodes out there in the industry,” Luo Xiaodong, CXMT’s vice-president and head of its marketing centre, said at the 2026 World Manufacturing Convention in Hefei.\n\n## CXMT unveils two new chips\n\nCXMT also unveiled two 24-gigabit LPDDR5X products made on the new platform. LPDDR5X is a power-saving type of DRAM used mainly in smartphones and other portable electronics.\n\nThe products each hold 50 per cent more data than CXMT’s previous equivalent products and are already in mass production, the company said. They are offered in two package formats for different smartphone and portable-device designs.\n\nCXMT said the platform can produce at least 50 per cent more gross chip dies per wafer than its fourth-generation platform, using an 8-gigabit-chip baseline.\n\nThat measures the potential number of chips made from a wafer before defective units are excluded, rather than the proportion that pass final testing.\n\nCXMT said it developed the platform using computer simulations and joint work with Chinese chip equipment makers on critical production steps.\n\nThe advance comes as Beijing seeks to reduce reliance on foreign semiconductor technology and US export controls since 2022 have restricted China’s access to certain advanced chip-making equipment and related software. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/chinas-cxmt-says-new-memory-chip-platform-enters-mass-production-it-takes-global-rivals"
+    },
+    {
+      "id": "2026-09-21-0de89b",
+      "title": "Bessent says US, China had successful meeting with focus on trade, AI",
+      "summary": "US, China are the two major forces driving development of advanced AI tools and the global adoption of the technology",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 1,
+      "regions": [
+        "global",
+        "china"
+      ],
+      "topics": [
+        "ai",
+        "trade",
+        "regulation"
+      ],
+      "published_at": "2026-09-20T02:29:02Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/global/bessent-says-us-china-had-successful-meeting-focus-trade-ai",
+          "type": "rss"
+        }
+      ],
+      "content": "US, China are the two major forces driving development of advanced AI tools and the global adoption of the technology\n\n[NEW YORK] US Treasury Secretary Scott Bessent described talks with his Chinese counterparts that spanned artificial intelligence, trade and investment as “very successful” ahead of Thursday’s (Sep 24) summit between presidents of the world’s two biggest economies.\n\nBessent, speaking to reporters after hours of talks in New York with China’s Vice-Premier He Lifeng and other officials, said the two sides agreed to set up a dialogue on AI and share views on common goals and threats. They plan to meet again, with top Chinese trade negotiator Li Chenggang saying a working group would continue on Monday.\n\n“The US has proposed that we have a notification mechanism between the two countries, and we want a shared vision of common goals and common threats,” Bessent said, adding that it would be called the “US-China AI dialogue.”\n\nUS Trade Representative Jamieson Greer said the two sides are “preparing the groundwork” for a successful meeting between Presidents Donald Trump and Xi Jinping due on Thursday. Li earlier said discussions were held in a good atmosphere.\n\nThe US and China have been working to reduce levies on American energy and agricultural products, Bloomberg reported earlier, part of a broader initiative to ease barriers on US$30 billion worth of products from each side under the Board of Trade mechanism launched earlier in 2026. Since the two leaders last met in May, AI has emerged as a new flashpoint between the US and China. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/international/global/bessent-says-us-china-had-successful-meeting-focus-trade-ai"
+    },
+    {
+      "id": "2026-09-21-8566a6",
+      "title": "Nvidia backs AI power efficiency push with new deals",
+      "summary": "Nvidia has announced new partnerships and disclosed performance benchmarks aimed at making AI data centres more energy-efficient as agentic AI workloads drive up electricity demand. The company is promoting token throughput per megawatt as the metric buyers should use to evaluate AI infrastructure economics.",
+      "why_it_matters": "Reframing the industry metric from raw chip speed to tokens per megawatt puts power efficiency at the centre of procurement decisions, favouring Nvidia's integrated systems over competing hardware. It also raises the bar for data centre operators, who must now justify power allocations on efficiency grounds.",
+      "score": 70,
       "heat": 1,
       "regions": [
         "global"
       ],
-      "topics": [],
-      "published_at": "2026-09-21T00:24:00Z",
-      "featured": false,
+      "topics": [
+        "ai",
+        "power",
+        "efficiency",
+        "chips"
+      ],
+      "published_at": "2026-09-19T02:35:07Z",
+      "featured": true,
       "sources": [
         {
-          "name": "DataCenterNews Asia",
-          "url": "https://datacenternews.asia/story/ai-fuels-m-a-deals-across-australia-southeast-asia",
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/nvidia-backs-ai-power-efficiency-push-with-new-deals/134346742",
           "type": "rss"
         }
       ],
-      "content": "Mon, 21st Sep 2026 (Today)\n### Key Insights\n\n- AI continues to drive M&A activity across Australia and Southeast Asia\n- Investors are prioritising proprietary technology, AI capability and scalable business models\n- Growing demand for AI infrastructure is creating new investment opportunities, particularly in data centres and digital infrastructure.\n\nArtiﬁcial intelligence (AI) continued to be a key driver of M&A activity in 2026. Across the region, we are seeing increased investment activity and transactions where digital transformation and AI capability are becoming prerequisites for investment decisions. We expect this trend to continue as investors increasingly seek businesses with proprietary technologies in AI and skill sets that can drive the technology.\n\n### Investor-friendly markets continue to attract AI investment\n\nSoutheast Asia, particularly in Singapore and Indonesia, appears to remain attractive for private equity and venture capital activity. The VC ecosystems and emerging technologies continue to grow, as do the deals supporting investment in the sector. With increasing adoption and development of AI across businesses, investors are ﬁnding an abundance of acquisition targets in high-growth markets across the region that can be selected and scaled for growth.\n\nTechnology-driven growth in markets such as Singapore and Australia also remains a key theme in cross-border transactions. The ease of doing business, strong growth prospects and productivity gains from AI transformation continue to make these investor-friendly countries attractive targets.\n\nWhile Southeast Asia is a focal point for growth in the technology and AI sectors, the Australian M&A market appears to be focused on acquiring niche AI businesses rather than developing growth stories. Australia's robust and stable regulatory regime and mature technology sector are signiﬁcant drawcards for investors, particularly when combined with a growing VC ecosystem across the country's major cities. Even smaller markets such as Canberra are experiencing signiﬁcant investments and cross-border deal activity in this space.\n\n### AI Infrastructure\n\nThe rapid growth of AI is also driving increased investment in support infrastructure. Demand for hyperscale data centres continues to increase as businesses invest in the computing power and storage capacity required to support the use of AI.\n\nMelbourne appears to be the fastest growing centre for data centre investment due to the abundance of land opportunities compared to Sydney. How the regulatory landscape evolves alongside the adoption of AI infrastructure and related M&A activity will be an interesting trend to watch.\n\n### Looking ahead\n\nM&A activity involving AI is expected to remain strong across the region over the next 12 months. As investors become increasingly selective on deals with AI fuelled companies, businesses with strong ﬁnancials and a defendable pipeline of potential business will continue to attract interest, particularly as AI adoption expands across industries.\n\nThe Australian Prime Minister's recent announcement of an AI Ofﬁce only heightens the prominence of AI in the M&A landscape in Australia and the Southeast Asia.",
-      "content_url": "https://datacenternews.asia/story/ai-fuels-m-a-deals-across-australia-southeast-asia"
+      "companies": [
+        "NVIDIA"
+      ],
+      "content": "Nvidia has outlined a series of collaborations and performance results focused on enhancing AI infrastructure efficiency, particularly how AI systems consume electricity amid increasing demand for agentic AI workloads. Speaking at the AI Infra Summit in Santa Clara, Ian Buck, Vice President of Hyperscale and High-Performance Computing at Nvidia, stated that the industry's focus is shifting from peak chip performance to output measured against power consumption. This transition is making token throughput per megawatt a critical metric for AI deployments, especially as larger models and agent-based applications strain data centre power budgets.\n\nAmong the announcements, Emerald AI, Nvidia, and Silicon Valley Power collaborated on a commercial AI factory flexible-load programme. This initiative is designed to reduce electricity demand when required by the grid while ensuring priority AI tasks continue to run. The system successfully responded to hundreds of utility demand signals by throttling lower-priority AI jobs during periods of grid stress and restoring normal operations later. Nvidia suggested this approach could enable AI facilities to function as controllable loads, potentially allowing utilities to support more computing sites without immediate expansion of electricity infrastructure.Lambda, an AI cloud provider, also released test results for Nvidia's DSX MaxLPS software on Blackwell servers. The figures indicated Lambda ran 19 nodes within a power budget typically allocated for 16 full-power nodes. This configuration increased cluster-wide token throughput by 24 per cent, from approximately 4 million to 5 million tokens per second, while improving performance per watt by 23 per cent. For operators seeking to expand output without securing additional power, these results underscore the growing importance of electricity as a constraint in the AI infrastructure market, alongside chip supply.Nvidia also highlighted its Vera Rubin NVL72 as a central system for large-scale AI deployments, claiming DSX MaxLPS can provide up to 40 per cent more GPU capacity within the same megawatt budget in suitable environments and up to 35 per cent higher token throughput without requiring new power lines. Additionally, Nvidia linked Vera Rubin to Groq 3 LPX for inference workloads, stating the combined setup can deliver up to 35 times higher token throughput per megawatt than GB200 NVL72 for very large models with long context windows. Benchmark claims on SemiAnalysis AgentX indicated Vera Rubin NVL72 delivered up to 30 times higher throughput per megawatt than GB300 NVL72 on the DeepSeek V4 Pro model.\n\nNvidia also disclosed several platform partnerships. Amazon's Annapurna Labs is collaborating with Nvidia on NVHBM custom high-bandwidth memory technology, while d-Matrix is integrating with NVLink Fusion to combine Nvidia Vera CPUs with d-Matrix Raptor XPUs for low-latency inference. Pinterest is utilising the Nvidia Blackwell platform and Nvidia Dynamo inference software for conversational AI in visual discovery.As AI factories scale to hundreds of thousands of GPUs, Nvidia emphasised that reliability is increasingly critical for economic performance. The company introduced NVLink 6, a system designed to detect and isolate faults before they affect applications. This design incorporates error correction, retry mechanisms, dynamic routing, and link rebalancing, intended to prevent local failures from propagating across large AI clusters.\"The metric for AI infrastructure is fast shifting from peak performance to validated agentic tokens per megawatt,\" Buck said. India's emerging AI data centers and hyperscale deployments will need to evaluate current and future AI infrastructure plans for power consumption and efficiency metrics. Indian data center operators should investigate flexible-load programs and software solutions for managing AI workloads in response to grid signals, and assess the implications of new high-density compute architectures and associated power and cooling requirements for data center design and upgrades.\n\n### Power Focus and Benchmarks\n\nAmong the announcements, Emerald AI, Nvidia, and Silicon Valley Power collaborated on a commercial AI factory flexible-load programme. This initiative is designed to reduce electricity demand when required by the grid while ensuring priority AI tasks continue to run. The system successfully responded to hundreds of utility demand signals by throttling lower-priority AI jobs during periods of grid stress and restoring normal operations later. Nvidia suggested this approach could enable AI facilities to function as controllable loads, potentially allowing utilities to support more computing sites without immediate expansion of electricity infrastructure.Lambda, an AI cloud provider, also released test results for Nvidia's DSX MaxLPS software on Blackwell servers. The figures indicated Lambda ran 19 nodes within a power budget typically allocated for 16 full-power nodes. This configuration increased cluster-wide token throughput by 24 per cent, from approximately 4 million to 5 million tokens per second, while improving performance per watt by 23 per cent. For operators seeking to expand output without securing additional power, these results underscore the growing importance of electricity as a constraint in the AI infrastructure market, alongside chip supply.Nvidia also highlighted its Vera Rubin NVL72 as a central system for large-scale AI deployments, claiming DSX MaxLPS can provide up to 40 per cent more GPU capacity within the same megawatt budget in suitable environments and up to 35 per cent higher token throughput without requiring new power lines. Additionally, Nvidia linked Vera Rubin to Groq 3 LPX for inference workloads, stating the combined setup can deliver up to 35 times higher token throughput per megawatt than GB200 NVL72 for very large models with long context windows. Benchmark claims on SemiAnalysis AgentX indicated Vera Rubin NVL72 delivered up to 30 times higher throughput per megawatt than GB300 NVL72 on the DeepSeek V4 Pro model.\n\n### Platform Links and Reliability\n\nNvidia also disclosed several platform partnerships. Amazon's Annapurna Labs is collaborating with Nvidia on NVHBM custom high-bandwidth memory technology, while d-Matrix is integrating with NVLink Fusion to combine Nvidia Vera CPUs with d-Matrix Raptor XPUs for low-latency inference. Pinterest is utilising the Nvidia Blackwell platform and Nvidia Dynamo inference software for conversational AI in visual discovery.As AI factories scale to hundreds of thousands of GPUs, Nvidia emphasised that reliability is increasingly critical for economic performance. The company introduced NVLink 6, a system designed to detect and isolate faults before they affect applications. This design incorporates error correction, retry mechanisms, dynamic routing, and link rebalancing, intended to prevent local failures from propagating across large AI clusters.\"The metric for AI infrastructure is fast shifting from peak performance to validated agentic tokens per megawatt,\" Buck said. India's emerging AI data centers and hyperscale deployments will need to evaluate current and future AI infrastructure plans for power consumption and efficiency metrics. Indian data center operators should investigate flexible-load programs and software solutions for managing AI workloads in response to grid signals, and assess the implications of new high-density compute architectures and associated power and cooling requirements for data center design and upgrades.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/nvidia-backs-ai-power-efficiency-push-with-new-deals/134346742"
     }
   ]
 }
