@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T03:49:56Z",
+  "generated_at": "2026-09-25T17:32:00Z",
   "hot": [
     "2026-09-25-7f62e5",
     "2026-09-25-b5c1e5",
@@ -9,6 +9,317 @@
     "2026-09-25-ae085f"
   ],
   "stories": [
+    {
+      "id": "2026-09-25-2e9307",
+      "title": "AI cloud and data center firm Nscale raises $3.36bn ahead of its IPO",
+      "summary": "Follows publication of IPO prospectus",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-09-25T15:34:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/ai-cloud-and-data-center-firm-nscale-raises-336bn-ahead-of-its-ipo/",
+          "type": "rss"
+        }
+      ],
+      "content": "AI cloud Nscale has raised $3.36 billion in pre-IPO funding as it prepares for its public listing.\n\nThe company has pulled in the cash from a group of investors led by hedge fund Third Point. Others to have put money in include GPU maker Nvidia, and funds managed by Apollo, Citadel, Hudson Bay Capital, Abu Dhabi Investment Council, and 8090 Industries.\n\nEarlier this month, it was reported that the company was looking for $3.5 billion ahead of its listing.\n\nUnder the deal, Nscale will receive $2.36bn up front, with a further $1bn to follow from Nvidia by mid-November 2026. The notes will automatically convert to ordinary shares when the company IPOs, though Nvidia will receive a non-voting stake.\n\n\"This marks a milestone for Nscale as we continue scaling our full-stack AI infrastructure to meet unprecedented global demand,\" said Josh Payne, founder and CEO of Nscale. \"With the backing of these world-class investors, we are strongly positioned to accelerate our data center buildouts globally.\"\n\nUK-based Nscale published its IPO prospectus last Friday as it gears up for a listing on New York’s Nasdaq market. The company is hoping to raise billions of dollars to fund its build-out of AI data centers, and is said to be targeting a valuation of some $30bn.\n\nThe IPO filing shows that Nscale recorded revenue of $140.6 million for the six months to the end of June 2026, which the company claims is up 1,252 percent Year-over-Year. However, losses also ballooned to $1.02bn, compared to $368.9m in the same period of 2025.\n\nInvestors who back the company will be doing so based on its growth prospects. Nscale has $103bn in total contracted value, largely thanks to contracts with Anthropic and Microsoft. Its prospectus shows it has five active data centers offering 55MW, with 12 in various stages of development.\n\nChief among these is the Monarch Compute Campus in West Virginia. The company acquired the 2,250-acre site in March 2026, and it could host up to 8GW of capacity, with Phase I planned at 2GW and expected to be online by the first half of 2028. Power will be provided by Caterpillar's fast-response natural gas generator sets – the Caterpillar G3500 series.\n\nAnthropic has agreed a six-year deal to take more than 400MW of space at the data center, while Microsoft signed on for 1.35GW of capacity at the site, for which Nscale is to set up a large-scale GPU deployment based on the Nvidia Vera Rubin NVL72 GPUs.\n\nThe prospectus also highlights the size of the challenge facing Nscale if it is to fulfill its lucrative contracts. The company is aiming to operate some 461,000 GPUs, most of which will be Vera Rubin clusters. However, at present only five percent of this amount is energized in its data centers.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/ai-cloud-and-data-center-firm-nscale-raises-336bn-ahead-of-its-ipo/"
+    },
+    {
+      "id": "2026-09-25-2d7fa2",
+      "title": "Northern Virginia's Prince William County puts controls on new data center projects",
+      "summary": "Size of 'by right' overlay district for digital infrastructure projects cut by two thirds",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-09-25T13:12:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/northern-virginias-prince-william-county-puts-controls-on-new-data-center-projects/",
+          "type": "rss"
+        }
+      ],
+      "content": "Prince William County in Northern Virginia, a key part of the world’s largest data center market, is curbing “by-right” zoning for digital infrastructure projects as the backlash against AI continues.\n\nSupervisors on the county board have voted to reduce the size of the Prince William “data center opportunity zone overlay district,” where data centers of a certain size are permitted by default, without the need for scrutiny from officials.\n\nThe move will cut the size of the district by two-thirds, from 9,700 acres to 3,500 acres, according to a report from the Prince William Times.\n\nDevelopers have been given a 90-day grace period until the new rules come into force, so the county may see a lot of spades going into the ground over the next three months, before the changes kick in.\n\nSupervisors approved the move at a meeting on Tuesday, and said they are taking action as public concern over data center power and water use grows.\n\n“We’ve bent over backwards enough for this industry,” said Supervisor George Stewart, who represents Gainesville, in comments to the Prince William Times. “Now it’s time to stand up for the people that have to live with these monstrosities in their communities.”\n\nData centers will be allowed in Prince William County, but any company wishing to build one outside the reduced-size overlay district will need to go through the full permitting process.\n\nSites that will no longer be covered by the overlay district include live music venue Jiffy Lube Live, as well as the site of the doomed Prince William Digital Gateway, a gigawatt-scale campus planned by QTS that was canceled earlier this year after a long legal battle.\n\nAlong with Loudoun and Fairfax Counties, Prince William is at the heart of Northern Virginia, the largest data center market in the world. But last week, Loudoun County supervisors voted for a 12-month moratorium on new data centers in the face of growing opposition to the AI data center build-out.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/northern-virginias-prince-william-county-puts-controls-on-new-data-center-projects/"
+    },
+    {
+      "id": "2026-09-25-621621",
+      "title": "Thailand set to finalize new data center regulations by mid-October - report",
+      "summary": "Expected to classify data centers with a capacity of more than 100MW hyperscale facilities",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-09-25T13:06:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/thailand-set-to-finalize-new-data-center-regulations-by-mid-october-report/",
+          "type": "rss"
+        }
+      ],
+      "content": "The Thai government is expected to finalize a new set of data center regulations by mid-October.\n\nAccording to reporting from Nation Thailand, the data center regulatory framework will set rules on facility size, electricity use, and location, according to Danucha Pichayanan, secretary-general of the National Economic and Social Development Council (NESDC).\n\nPichayanan said that government agencies have submitted data to inform the framework, including details on existing operators, size-based classification criteria, and average electricity and water consumption.\n\nAs part of the new regulations, the country’s Energy Ministry will set limits on data center electricity use under a dedicated electricity tariff for data center businesses, which is already in place.\n\nIn addition, the rules are expected to classify data centers with power use of 100MW or more as hyperscale facilities, though the final threshold is still subject to the policy committee's review.\n\nIn addition, data centers that meet the criteria for classification as industrial operations would be required to locate in designated industrial estates, to avoid adverse effects on residential areas.\n\nConstruction of new data centers was suspended last month to allow time to draft the new regulations, putting approximately 49 data centers on hold. In addition to suspending the 49 projects, Thai officials also froze approvals for 117 planned facilities. Thai officials have not disclosed which facilities have had their development paused.\n\nThe Southeast Asian country has seen a huge influx of data center investment over recent years, with several developers seeking to cash in on the AI boom. In the first half of 2026 alone, Thailand's Board of Investment approved 88 artificial intelligence and data center projects, worth approximately 886 billion baht (about $27 billion).\n\nThailand is already home to several of the largest hyperscalers. Amazon Web Services (AWS) launched a cloud region there in January 2025. Google followed this, launching its own cloud region in Bangkok in January.\n\nMicrosoft is currently developing a region in the country, and in October 2025 revealed it would use True IDC for one of its availability zones. Alibaba Cloud also has two data centers in the country.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/thailand-set-to-finalize-new-data-center-regulations-by-mid-october-report/"
+    },
+    {
+      "id": "2026-09-25-b3f372",
+      "title": "Project Suncatcher: Google to launch first space data center test in orbit next week",
+      "summary": "TPUs are ready to catch some rays, hyperscaler claims",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-09-25T11:58:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/project-suncatcher-google-to-launch-first-space-data-center-test-in-orbit-next-week/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Google"
+      ],
+      "content": "Google will launch its AI chips into orbit for the first time next week as its Project Suncatcher space data center program takes another step forward.\n\nThe hyperscaler said it will conduct its first test in orbit, launching a prototype satellite to evaluate how its Tensor Processing Unit (TPU) AI hardware performs in space.\n\nDetails of Project Suncatcher were first revealed last year, with Google stating it would have a two-satellite constellation up and running by 2027. It is part of a wave of space data center projects being undertaken by some of the biggest names in tech, as companies explore whether off-planet compute can provide additional capacity to run AI systems. The likes of Elon Musk’s SpaceX and Jeff Bezos-backed Blue Origin have revealed this year that they are seeking regulatory approval of orbital compute clusters.\n\nThis initial Project Suncatcher deployment will be launched into space on the upcoming Transporter-18 rideshare SpaceX mission, which will transport craft from several different vendors into low Earth orbit (LEO), and is scheduled to take off on October 1. Google’s system has been developed in partnership with satellite firm Planet Labs.\n\n## Google’s Project Suncatcher: Shaking and radiating\n\nThe initial test craft, which Google has named MVP, per a report from the New York Times, will feature just four TPUs, which will be powered by solar panels supplying them with 1kW.\n\nIn a blog post about Project Suncatcher, Travis Beals, Google’s senior director for paradigms of intelligence, revealed some of the challenges the team has been trying to solve to ready its compute infrastructure for space.\n\nTo try and combat the vibrations the chips will experience when being blasted into space, as well as high g-force in LEO, the Suncatcher team conducted vibration testing by intensely shaking the satellite on all three axes to mimic the frequencies of a rocket launch. “Tests like this rarely go as planned, so we were pleasantly surprised that the hardware held up to the force,” Beals said.\n\nThe TPUs were also tested in a proton beam facility at UC Davis’s Crocker Nuclear Laboratory while running AI workloads, to try and simulate how the hardware would perform when facing the high levels of radiation it will encounter outside the Earth’s atmosphere. This radiation can play havoc with electronic systems.\n\n“During the test, we monitored closely to see how errors, like a bitflip, would affect our workloads,” Beals said. “Initial results have shown that our Trillium TPUs hold up remarkably well, and can survive a radiation total ionizing dose greater than what they would receive during a five-year space mission.”\n\n## Cooling and connectivity\n\nThe cold conditions found in space are often cited as a potential benefit for orbital data centers, but the lack of atmosphere also means there is no airflow to transfer heat away from the components.\n\nBeals said Google is working on a number of different approaches to cooling its satellites, including “a combination of heat pipes and radiators to cool the chips.”\n\nHe said: “So far, our team has tested the technology in a thermal vacuum chamber that simulates both the thermal and vacuum environment in space. We’ll see how our new TPU cooling system works in space and refine our designs as we learn more.”\n\nGoogle has said previously that it envisions 1km (0.6 mile) arrays of 81-satellite compute clusters. These will be connected via laser links, Beals said. Constellations like SpaceX's Starlink network already use laser-based communication.\n\n“The technology in space already exists, but most state-of-the-art systems are optimized for low bandwidth across large distances, whereas our lasers need to operate at very high bandwidth over extremely short distances,” Beals explained.\n\n“Maintaining the necessary connection requires extraordinary precision, similar to hitting a coin-size target from miles away while both points are in motion. We’ll test our work on this in 2027 when we put two satellites in orbit.”",
+      "content_url": "https://www.datacenterdynamics.com/en/news/project-suncatcher-google-to-launch-first-space-data-center-test-in-orbit-next-week/"
+    },
+    {
+      "id": "2026-09-25-995d39",
+      "title": "CleanMax’s AI, data center power portfolio surges 10x in two years as AI hyperscaler demand booms: Analysts",
+      "summary": "The company has a 900MW engagement with Meta Platforms Inc, a ₹100 crore co-investment partnership with Apple, the expansion of its relationship with STT to over 130MW, and a new partnership with Iron Mountain.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-09-25T10:12:07Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/cleanmaxs-ai-data-center-power-portfolio-surges-10x-in-two-years-as-ai-hyperscaler-demand-booms-analysts/134481955",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "content": "NEW DELHI: Homegrown renewable energy (RE) company CleanMax is strategically positioned to benefit from accelerating adoption of artificial intelligence (AI) in the country, and the resulting surge in data center power demand, according to analysts.The Mumbai-headquartered firm has already established a significant presence in the data center and AI sector, they added, underscoring that governments, such as in Gujarat and Andhra Pradesh, have mandated green energy sourcing to be eligible for state incentives which will offer tailwinds to renewable energy providers.At end-June 2026, 42% of CleanMax's total RE sales contracted capacity of 2.5GW originated from data center and AI customers, representing a 10-fold increase from 0.24 GW at end-March 2024, said JM Financial in a research note recently, seen by \n\n*ETDatacenters*.“These contracts are backed by firm power requirements and are structured as long-term PPAs with tenures exceeding 23 years, providing strong revenue visibility and limited exposure to data centre capex deceleration risks,” the brokerage added.India's data center demand has scaled up from 500MW-1GW in FY19 to 2.5GW at present. The country’s AI and standard data centers are projected to add a power load of 26.3GW by FY32, it said in the research note, citing data from the Ministry of Power.In the long term, electricity consumption by data centers is forecast to grow significantly, potentially accounting for 7% of India's total electricity demand by 2040.CleanMax’s client base within this sector spans two key segments – hyperscalers, where it has a market share of over 35% of RE deals signed since 2024; and colocation providers, with more than 40 deals executed across seven customers.The company has a 900MW engagement with Meta Platforms Inc, a ₹100 crore co-investment partnership with Apple, the expansion of its relationship with STT to over 130MW, and a new partnership with Iron Mountain.It also serves Cisco, Equinix, NTT Data, Princeton Digital Group, CEAT, Gujarat Alkalies and Chemicals Limited (GSCL), and L&T Data Center, among its technology and data center customers.CleanMax’s total operational capacity grew from 1GW as of March 2023 to 4.2GW as of June 2026.CleanMax leads the market with a share of 13.6% in the renewable energy open access market, ahead of its nearest rival, Serentica, which holds 9.7%.“CleanMax’s historical growth was built around conventional commercial and industrial customers seeking to reduce electricity costs and decarbonise manufacturing operations,” said Macquarie Equity Research in a research note, seen by*ETDatacenters*. “Data centers and global technology companies add a second, structurally different demand pool.”The company earlier said that it accounts for more than 35% of hyperscaler energy deals signed in India since 2024 and has executed more than 40 transactions across seven colocation customers.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/cleanmaxs-ai-data-center-power-portfolio-surges-10x-in-two-years-as-ai-hyperscaler-demand-booms-analysts/134481955"
+    },
+    {
+      "id": "2026-09-25-9c01c3",
+      "title": "Egypt’s Intro Group to invest US$ 270 million in 80 MW Kemet Data Center",
+      "summary": "Egypt’s Minister of Communications and Information Technology Raafat Hindy met with Sherif Mohamed Abdel Fattah, a board member of Intro Group, an Egyptian conglomerate with companies in multiple industries, to discuss plans to build a new data center in the Suez Canal Economic Zone (SCZONE). The facility will be called the Kemet Data Center and […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-09-25T09:53:38Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/egypts-intro-group-to-invest-us-270-million-in-80-mw-kemet-data-center/",
+          "type": "rss"
+        }
+      ],
+      "content": "Egypt’s Minister of Communications and Information Technology Raafat Hindy met with Sherif Mohamed Abdel Fattah, a board member of Intro Group, an Egyptian conglomerate with companies in multiple industries, to discuss plans to build a new data center in the Suez Canal Economic Zone (SCZONE).\n\nThe facility will be called the Kemet Data Center and Intro Group aims to make it the first Tier III facility in the SCZONE. The company plans to invest nearly US$ 270 million in the first phase of an 80 MW buildout. According to a press release, engineering designs have been completed and contracts with suppliers of the equipment and systems needed have been signed.\n\nDuring the meeting, Hindy highlighted his Ministry’s commitment to creating an investment-friendly environment for the data center industry, and encouraged the private sector to leverage the country’s competitive advantages to develop advanced facilities.\n\nThe Kemet Data Center will deliver cloud and internet of things (IoT) solutions as well as serve as a hub for enterprises that require advanced cloud computing infrastructure. The expansion of the local data center market is said to help address the needs of the local and international markets through the delivery of digital services.\n\nEarlier this month, w.media reported that Vodafone Business, Elsewedy Electric Group, and Cassava Technologies would collaborate to build out data centers in Egypt. The partnership aims to deliver an initial capacity of 20 MW, scaling to 200 MW, attracting as much as US$ 1 billion in investment by the time the buildout is complete.\n\nArizton Advisory & Intelligence reports that the data center market in Egypt was valued at US$ 305 million in 2025 and expects the market to grow to US$ 865 million by 2031. Government support for data centers, surging adoption in AI, machine learning, big data, and IoT, all contribute to the growing market. Capacity is expected to grow 225 percent from April 2026 levels to 254 MW by 2031.",
+      "content_url": "https://w.media/egypts-intro-group-to-invest-us-270-million-in-80-mw-kemet-data-center/"
+    },
+    {
+      "id": "2026-09-25-309c0d",
+      "title": "DOE unveils $1.9bn in funding for 31 grid upgrade projects to speed data center connections",
+      "summary": "Expected to unlock 23GW of additional capacity on the grid",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-09-25T09:35:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/doe-unveils-19bn-in-funding-for-31-grid-upgrade-projects-to-speed-data-center-connections/",
+          "type": "rss"
+        }
+      ],
+      "content": "The US Department of Energy's (DOE) Office of Electricity has announced a $1.9 billion funding package for 31 grid-improvement projects across 26 states to improve speed to power for data centers and other large loads seeking grid connections.\n\nThe projects are part of the DOE’s Speed to Power through Accelerated Reconductoring and other Key Advanced Transmission Technology Upgrades (SPARK) initiative. In total, the projects will receive $5.25bn, comprising $1.9bn from the DOE and a further $3.35bn in recipient cost-share funding.\n\nThe DOE claims that through these projects it will unlock more than 23GW of additional capacity on the grid. Prioritized projects included reconductoring with advanced conductors, Advanced Transmission Technologies (ATT) that can increase the usable capacity of existing assets in real time, and large-scale, cross-regional transmission upgrades and coordinated planning. In total, the projects are expected to reconductor or rebuild more than 1,500 miles (2,412km) of transmission lines and deploy grid-enhancing technologies (GETs) across nearly 21,000 miles (3,379km).\n\n“Today’s announcement reinforces the Trump Administration’s commitment to commonsense energy addition policies that lower electricity prices and strengthen our grid,” said US Secretary of Energy Chris Wright. “These investments will get more out of the infrastructure we already have, move more electricity across the grid, and help deliver affordable, reliable, and secure power that will fuel American prosperity for decades to come.”\n\n“These selected SPARK projects put advanced transmission technologies to work, modernizing critical infrastructure, maximizing the capacity of existing lines, and unlocking more than 20GW of additional grid capacity,” said Office of Electricity Assistant Secretary Catherine Jereza. “DOE is moving with urgency to strengthen our grid, lower costs, and ensure America has the energy infrastructure needed to power the next generation of economic growth.”\n\nNotable projects with direct implications for the data center sector include the Northeast Alabama Smart Grid Deployment, which Alabama Power is developing. The project, which received $50 million in funding, will upgrade transmission lines and deploy ATT’s to support data center growth in the region.\n\nAnother project of note is Entergy Mississippi’s three-state, transmission-level smart-grid ATT deployment designed to unlock significant transmission system capacity across Arkansas, Louisiana, and Mississippi for the data center sector and other industrial sectors.\n\nA full list of the funding recipients can be found here.\n\n## More in The Investment & Markets Channel\n\n- \n                    \n    \n- \n                    \n    \n- \n                    \n    \n# Episode DCD>Inside Virginia",
+      "content_url": "https://www.datacenterdynamics.com/en/news/doe-unveils-19bn-in-funding-for-31-grid-upgrade-projects-to-speed-data-center-connections/"
+    },
+    {
+      "id": "2026-09-25-6224e1",
+      "title": "Vertiv to acquire data center fluid management firm King Environmental Services",
+      "summary": "Transaction to close before the end of the year",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-09-25T09:25:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/vertiv-to-acquire-data-center-fluid-management-firm-king-environmental-services/",
+          "type": "rss"
+        }
+      ],
+      "content": "The power and cooling vendor has agreed a deal for Ireland-based KES, which provides fluid management, commissioning and load-testing services for high-density, liquid-cooled data centers and other applications.\n\nFinancial terms have not been disclosed, and the deal is expected to close before the end of the year.\n\nAccording to Vertiv, the acquisition will help expand its “thermal management services capabilities into EMEA and advance its strategy to support customers across the thermal chain.” The company said: “KES adds specialized fluid management, commissioning and load-testing capabilities spanning system preparation, performance validation, monitoring, maintenance and lifecycle optimization.”\n\nVertiv already offers fluid management to clients in North America, and last year bought another company that operates in the space, PurgeRite, in a deal worth more than $1 billion.\n\n“As computing density increases, the performance of cooling and power infrastructure will depend as much on execution in the field as on engineering and system design,” said Gio Albertazzi, CEO of Vertiv.\n\n“Our acquisition of PurgeRite established an important fluid management foundation in North America, and KES is expected to build on that foundation in EMEA. Together, these acquisitions advance our strategy to provide the specialised expertise and disciplined execution customers need as they deploy increasingly complex infrastructure at scale.”\n\nKES is headquartered near Dublin, Ireland, and serves customers across the EMEA region. Founded in 2002, its website features projects it has undertaken for the likes of Microsoft and Equinix.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/vertiv-to-acquire-data-center-fluid-management-firm-king-environmental-services/"
+    },
+    {
+      "id": "2026-09-25-697f48",
+      "title": "Applied Digital reveals $3.2bn Delta Forge 2 AI data center will be built in Alabama",
+      "summary": "Operations could start by 2028",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-09-25T09:24:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/applied-digital-reveals-32bn-delta-forge-2-ai-data-center-will-be-built-in-alabama/",
+          "type": "rss"
+        }
+      ],
+      "content": "Applied Digital has revealed that its $3.2 billion Delta Forge 2 AI data center will be located near Brookwood, Alabama.\n\nThe company revealed in June that it had secured a customer for a new 210MW data center, but did not announce its location. It has now revealed it will be built on a 1,300-acre site near Brookwood, in Alabama’s Tuscaloosa County.\n\nAccording to Applied Digital, the project will support up to 1,000 construction jobs and create 100 permanent roles. Operations are expected to begin in 2028. The data center will span 1.2 million sq ft (111,483 sqm) at full build-out.\n\nThe identity of the end user for the data center has not been revealed, but Applied Digital describes it as an “investment grade hyperscaler.”\n\nTo sweeten the deal for local residents, Applied Digital is committing $270 million in community benefits payments to the Tuscaloosa County Economic Development Authority over 20 years, alongside an estimated $131m in tax revenue that will be generated for the area.\n\n“For our community, this project is about creating opportunities for local families, strengthening our schools and positioning Brookwood for the future,” said City of Brookwood mayor Joe Barger. “We anticipate that Applied Digital will be a good neighbor and a long-term community partner, and expect this $3.2 billion investment to benefit Brookwood residents for generations to come.”\n\nFounded in 2021 as Applied Blockchain, Applied Digital is pivoting to developing AI and HPC data centers, and has signed multiple large-scale deals.\n\nIts contracted portfolio now spans five AI Factory campuses, totaling 1.4GW of critical IT load, and approximately 2.15GW of grid-connected utility power.\n\nThe company’s Polaris Forge 1 and 2 hyperscale campuses are located in Ellendale and Harwood, North Dakota. The former is set to be leased to CoreWeave while much of the latter is set to be leased to an unnamed “investment-grade hyperscaler.”\n\nLocated on 600 acres in an unnamed northern state, Polaris Forge 3 will offer 300MW of critical IT load to the same US-based, high-investment-grade hyperscaler that previously signed on for capacity at Applied’s Delta Forge 1 campus. Initial operations at Polaris Forge 3 are anticipated to commence in August 2027.\n\n“Delta Forge 2 reflects the model we are building across Applied Digital – repeatable AI infrastructure delivered at scale and built for the long term,” said Wes Cummins, chairman and CEO of Applied Digital.\n\n“But our success also depends on the success of the communities where we operate. We partner with communities where our investment genuinely matters, and where the resulting jobs, tax base, and long-term economic activity can have a measurable impact. We have a proven track record of delivering on our commitments to our host communities, and we look forward to bringing that same commitment to Brookwood.”",
+      "content_url": "https://www.datacenterdynamics.com/en/news/applied-digital-reveals-32bn-delta-forge-2-ai-data-center-will-be-built-in-alabama/"
+    },
+    {
+      "id": "2026-09-25-655716",
+      "title": "LG's 2.6MW cooling unit wins NVIDIA DSX qualification",
+      "summary": "As AI racks draw more power, data centre operators are shifting to liquid cooling, and LG's latest unit now meets NVIDIA's reference design requirements.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-09-25T09:16:01Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/lg-s-2-6mw-cooling-unit-wins-nvidia-dsx-qualification",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "content": "Fri, 25th Sep 2026 (Yesterday)\nLG Electronics has qualified its 2.6-megawatt Coolant Distribution Unit as NVIDIA DSX Ready, meaning it meets NVIDIA DSX reference design requirements for AI factory infrastructure.\n\nThe qualification builds on LG's existing 600-kilowatt and 1-megawatt Coolant Distribution Unit models, extending its line-up of large-capacity liquid cooling equipment for AI data centres.\n\nIt also places the 2.6MW unit on the NVIDIA DSX AI Factory Marketplace, marking LG's latest step in a segment where demand is rising as AI systems consume more electricity and generate more heat. Data centre operators are increasingly looking for centralised cooling systems that can manage multiple high-density server racks, rather than relying solely on equipment at the individual rack level.\n\nA Coolant Distribution Unit is a core part of a direct-to-chip liquid cooling system. It circulates coolant through cold plates to remove heat from processors and graphics chips, then transfers that heat into the wider cooling infrastructure of a data centre.\n\nLG's 2.6MW model is intended for large-scale AI server clusters with substantial thermal loads. It is designed to support more efficient use of data centre space while helping operators maintain continuity as compute density rises.\n\n### Cooling demand\n\nThe qualification reflects a broader shift in data centre design, driven by more powerful AI accelerators, including NVIDIA Blackwell systems, which are pushing rack power density into the hundreds of kilowatts. That increase has changed the economics and engineering of cooling, making liquid-based systems more common in facilities built for AI training and inference workloads.\n\nResearch cited by LG from TrendForce suggests liquid cooling penetration for AI chips will rise from 14 per cent in 2024 to about 60 per cent by 2027. The forecast highlights how quickly operators are moving away from air-only approaches as heat loads climb.\n\nFor equipment suppliers, the trend has triggered a race to provide infrastructure that can support larger AI hardware clusters. LG is positioning the 2.6MW system as part of a broader range that spans smaller and larger deployments, with NVIDIA classifying the latest product as a large-scale solution.\n\n### Broader portfolio\n\nThe cooling unit is part of LG's \"Chip-to-Chiller\" portfolio, which brings together several parts of the cooling chain used in AI data centres. Alongside Coolant Distribution Units, the range includes chillers and Computer Room Air Handlers, giving the company a presence across heat removal from the chip level through to facility cooling.\n\nThe approach reflects growing demand for integrated designs in AI infrastructure. Rather than sourcing separate parts in isolation, operators often want systems that fit into a wider cooling architecture for large server estates.\n\nLG has now completed infrastructure qualification for its 600kW, 1MW and 2.6MW Coolant Distribution Unit models. The 2.6MW version received the additional qualification required for DSX Ready status.\n\nThe NVIDIA DSX AI Factory Platform covers design and operations across compute, networking, power, cooling, facilities and software. Inclusion in that framework could help vendors reach customers building standardised AI factory environments around NVIDIA's design model.\n\nJames Lee, President of the LG Electronics Eco Solution Company, commented on the qualification.\n\n\"NVIDIA's qualification of our 2.6MW CDU for AI factory infrastructure reinforces our position as a first mover in the next-generation liquid cooling market,\" said Lee.\n\n\"We will continue to supply AI data centre operators with highly reliable, in-house developed cooling solutions from our comprehensive Chip-to-Chiller portfolio,\" he added.",
+      "content_url": "https://datacenternews.asia/story/lg-s-2-6mw-cooling-unit-wins-nvidia-dsx-qualification"
+    },
+    {
+      "id": "2026-09-25-e7b1a8",
+      "title": "Japan regulator is boosting scrutiny of AI data centre financing",
+      "summary": "(Sept 25): Japan’s Financial Services Agency (FSA) is stepping up its scrutiny of financing for AI data centres by the country’s biggest banks and life insurers, as major financial institutions increase their exposure to the rapidly expanding sector.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-09-25T08:09:36Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/819381",
+          "type": "html-list"
+        }
+      ],
+      "content": "The regulator will examine areas including the lenders’ risk-management frameworks, according to a senior FSA official, who asked not to be named. The official said he’s talking about data centre projects mainly in the US.\n\nIn its policy priorities announced earlier this month, the agency identified project finance — including that for data centres — as an area for enhanced monitoring, along with lending to the domestic real estate sector.\n\nRegulators around the world have been increasing their focus on financing for data centres and other AI-related infrastructure. The European Central Bank examined the risks faced by banks in the region from the artificial intelligence industry, *Bloomberg* reported in February. In Asia, Singapore’s central bank has warned that uncertainty over sustaining massive AI investments is a key challenge for global growth and financial markets. \n\nThe FSA has no intention of discouraging financing to AI data centres, which it sees as a growth sector, the official said. Still, regulator needs to pay closer attention to the risks surrounding such lending, citing uncertainty over whether hyperscalers can generate adequate returns on their massive spending, as well as the debate over the rapid pace of development and its safety.\n\n*Uploaded by Liza Shireen Koshy*",
+      "content_url": "https://theedgemalaysia.com/node/819381"
+    },
+    {
+      "id": "2026-09-25-1c5377",
+      "title": "Solid oxide fuel cells enabling growth in a power-constrained world",
+      "summary": "How solid oxide fuel cells are offering a scalable route to reliable, on-site power as grid constraints reshape data center growth",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-09-25T07:25:13Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/whitepapers/solid-oxide-fuel-cells-enabling-growth-in-a-power-constrained-world/",
+          "type": "rss"
+        }
+      ],
+      "content": "Data center growth is increasingly being constrained not by demand, but by access to dependable power. As AI and other high-density workloads accelerate electricity requirements, grid connection queues, congested infrastructure and long delivery timelines are making it harder to bring new capacity online when investment and commissioning schedules demand it.\n\nThis **Ceres** whitepaper examines how **solid oxide fuel cells (SOFCs)** can provide modular, reliable on-site power while grid infrastructure catches up. It explores the technology’s role in data centers and other power-intensive applications, alongside considerations around efficiency, scalability, emissions, water use, noise and integration with existing infrastructure.\n\n### Download to discover how to\n\n- Address power constraints without waiting for lengthy grid connection timelines\n- Deploy modular on-site generation that can scale alongside data center demand\n- Improve power resilience and reliability for high-density workloads\n- Assess the efficiency, emissions, noise and water requirements of SOFC technology\n- Integrate on-site fuel cells with future energy and hydrogen strategies\n- Evaluate the commercial, permitting and operational considerations of deploying SOFCs",
+      "content_url": "https://www.datacenterdynamics.com/en/whitepapers/solid-oxide-fuel-cells-enabling-growth-in-a-power-constrained-world/"
+    },
+    {
+      "id": "2026-09-25-e1b1df",
+      "title": "AirTrunk gains access to rival’s files over $1.1b data centre dispute",
+      "summary": "Singaporean data centre operator Zerra DC has agreed to hand over a suite of documents to AirTrunk, which suspects its smaller rival used its intellectual property for the design of a $1.1 billion…",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [],
+      "published_at": "2026-09-25T04:34:04Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/technology/airtrunk-gains-access-to-rival-s-files-over-1-1b-data-centre-dispute-20260925-p610h3",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "AirTrunk"
+      ],
+      "content": "Singaporean data centre operator Zerra DC has agreed to hand over a suite of documents to AirTrunk, which suspects its smaller rival used its intellectual property for the design of a $1.1 billion Victorian data centre.\n\nZerra DC, which also operates data centres in the Asia-Pacific region, consented to provide a series of documents to AirTrunk after the latter launched an application for preliminary discovery in the Federal Court.\n\nLoading...",
+      "content_url": "https://www.afr.com/technology/airtrunk-gains-access-to-rival-s-files-over-1-1b-data-centre-dispute-20260925-p610h3"
+    },
     {
       "id": "2026-09-25-5d93f0",
       "title": "SoftBank Group plans record sales of high-yield bonds to invest in OpenAI",
@@ -346,6 +657,32 @@
       "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/global-data-centre-resistance-doubles-india-faces-policy-gap/134473147"
     },
     {
+      "id": "2026-09-25-f309d1",
+      "title": "Microsoft launches India South Central datacenter in Telangana",
+      "summary": "Microsoft has opened its India South Central datacenter in Telangana, significantly expanding its cloud and AI infrastructure in the country. This move supports Telangana's goal of achieving 5 GW of datacenter capacity by 2029.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-09-25T02:05:06Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/microsoft-launches-india-south-central-datacenter-in-telangana/134473145",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "content": "Microsoft on Thursday inaugurated its India South Central datacenter region in Telangana, enhancing its cloud and AI infrastructure footprint in the country. The new facility, located at Chandanvelly in Rangareddy district, was opened by Telangana IT Minister D Sridhar Babu.Telangana aims to reach 5 GW of datacenter capacity by 2029, attracting approximately USD 30 billion in investment across the broader AI and digital infrastructure ecosystem. The state's hyperscale and AI infrastructure ecosystem currently has over 2.5 GW of datacenter capacity either operational or under development by major global and Indian operators.Microsoft's India South Central region represents its fourth cloud region in India and is described as the largest hyperscale cloud footprint in the country. It features a resilient three-zone architecture designed to scale with customer demand and support long-term capacity expansion and AI innovation. This expansion is expected to strengthen Hyderabad's position as a strategic hub for cloud and AI, fostering the growth of AI-led enterprises and digital innovation in the region.\n\n- Investments & Deals\n- 1 min Read\n\n# Microsoft launches India South Central datacenter in Telangana\n\nMicrosoft has opened its India South Central datacenter in Telangana, significantly expanding its cloud and AI infrastructure in the country. This move supports Telangana's goal of achieving 5 GW of datacenter capacity by 2029.\n\n- Published On Sep 25, 2026 at 07:35 AM IST\n\n## Highlights\n\n- Microsoft launched its India South Central datacenter region in Telangana.\n- The new facility expands Microsoft's cloud and AI infrastructure in India.\n- Telangana aims for 5 GW datacenter capacity and USD 30 billion investment by 2029.\n- The region features a three-zone architecture for scalability and AI innovation.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/microsoft-launches-india-south-central-datacenter-in-telangana/134473145"
+    },
+    {
       "id": "2026-09-25-2e7c83",
       "title": "Northern Territory challenges Australia's proposed data centre energy rules",
       "summary": "The Northern Territory has rejected a proposed national mandate requiring large data centres to fully offset electricity consumption with new renewable generation. Instead, the Territory advocates for dedicated standalone power that could draw on its gas resources, staking out a position at odds with southern states.",
@@ -566,66 +903,112 @@
       "content_url": "https://www.businesstimes.com.sg/companies-markets/google-takes-ai-data-centre-race-outer-space"
     },
     {
-      "id": "2026-09-25-ad4b4d",
-      "title": "Firmus float managers say the neocloud could be worth up to $128b",
-      "summary": "Major investment banks are increasingly turning their attention to one of the Australian sharemarket’s biggest questions – how much is artificial intelligence infrastructure player Firmus…",
+      "id": "2026-09-25-d2e4a2",
+      "title": "Oracle cites ‘force majeure’ to shield itself on controversial data centre — Bloomberg",
+      "summary": "Oracle Corp is moving to shield itself from racking up expenses on a massive data centre being built in New Mexico, adding a fresh wrinkle to a project beset by opposition and regulatory setbacks.",
       "why_it_matters": "",
-      "score": 70,
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-09-24T13:05:22Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/819284",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Oracle"
+      ],
+      "content": "(Sept 24): Oracle Corp is moving to shield itself from racking up expenses on a massive data centre being built in New Mexico, adding a fresh wrinkle to a project beset by opposition and regulatory setbacks.\n\nThe technology giant sent the project’s developer, a unit of Blue Owl Capital Inc, a notice citing force majeure, according to people familiar with the situation. Rather than trying to walk away as the site’s main tenant, Oracle is attempting to put off payments should the data centre dubbed Project Jupiter get derailed and fail to come online in 2028 as planned, the people said, asking not to be identified discussing private matters.\n\nCompanies typically invoke force majeure to free themselves from contractual obligations when problems arise beyond their control. In this case, Oracle is seeking to assert its contractual position if the build out is delayed. Still, it’s not certain that such a maneuver would free Oracle from its previously agreed financial obligations.\n\n“Project Jupiter remains on our planned schedule,” a spokesperson for Oracle said without commenting on the notice. “We are fully committed to New Mexico and confident in our path forward.”\n\nA representative for Blue Owl, which owns the data-centre developer Stack Infrastructure, declined to comment.\n\nThe massive project in southern New Mexico is a major part of the Stargate AI infrastructure build-out that US President Donald Trump unveiled alongside leaders of Oracle, OpenAI and SoftBank Group Corp, serving as the marquee announcement in a series of US spending commitments that he touted in the early days of his second term. At the time, Trump called it a “tremendous investment” at a scale that “nobody’s really ever seen.”\n\nAlmost two years later, the campus designed to handle 2.45 gigawatts — enough electricity to power roughly 1.8 million homes at any given moment — has hit serious setbacks including the denial of a permit key to its plans for energy resources. It’s becoming a symbol of the growing backlash against the broader AI data centre boom and a political flashpoint ahead of the US mid-term elections that threatens to turn races into referendums over the build-out.\n\nEven if the force majeure notice is intended as a precautionary step to win some wiggle room, it risks alarming lenders backing the project. The debt tied to the development is already trading at stressed levels, below 90 cents on the dollar, according to a person with knowledge of the matter.\n\nA group of about 20 banks provided an US$18 billion (RM73.4 billion) loan to help fund the construction of the data centre campus, one of several mega-debt deals that have helped bankroll the AI infrastructure boom.\n\nThe notice also stands to raise questions yet again about the resilience of data centre leases. Contracts often include a clause allowing customers to back out if service doesn’t begin as scheduled. Earlier this year, Alphabet Inc’s Google agreed to pay Elon Musk’s SpaceX for computing power through mid-2029, for example, but reserved the right to terminate if it didn’t gain access by a certain date.\n\nForce majeure provisions are relatively common in the energy and commodities world when events such as bad weather and geopolitical conflicts disrupt supplies, leaving companies unable to fulfill their contracts. The clauses are becoming more common in data centre developments as well, according to a recent client alert from Quinn Emanuel Urquhart & Sullivan LLP.\n\n“In AI data centre projects, force majeure is no longer a back-end boilerplate provision,” the June alert said. “It is a core litigation and risk-allocation tool that can determine whether a delay remains isolated — or cascades through the project’s construction, customer, power, insurance, and financing documents.”\n\nOpenAI signed a US$400 billion deal with Oracle and SoftBank last year to support the development of five US data centres including the New Mexico site. Stack Infrastructure, a portfolio company of Blue Owl, is developing the facility, while Blue Owl itself has committed to providing equity.\n\nA key natural gas pipeline project developed by Energy Transfer LP that was supposed to begin service this month and supply fuel to Project Jupiter was instead delayed by nearly six months to Feb 1, 2027, following repeated permit denials from the New Mexico State Land Office to approve a proposed route for the line. Project Jupiter is designed to be powered by gas-powered fuel cells from Bloom Energy Corp.\n\nOracle, for its part, has launched a charm offensive in New Mexico to counter the opposition. It remains unclear whether the company will win over the project’s skeptics.\n\nBefore Project Jupiter was revealed in full, the developers worked with local officials on an incentive plan and a strategy for how to roll out information to the public, according to documents previously reviewed by *Bloomberg*. Locals only learned the venture was tied to Oracle and OpenAI after it was approved.\n\n*Uploaded by Magessan Varatharaja*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/819284"
+    },
+    {
+      "id": "2026-09-25-1ce323",
+      "title": "Victoria, Australia, proposes rules requiring data centers to secure own renewable energy supply",
+      "summary": "The Victorian government has proposed new rules that would require data centres to secure their own renewable energy supply, alongside measures to curb cost shifting to other electricity customers and limit excessive water use. The framework aims to prevent data centre growth from inflating household and business energy bills.",
+      "why_it_matters": "Operators face a new compliance burden: self-procured renewables will become a cost of doing business in Victoria, favouring large players with capital and green energy procurement expertise. The rules also signal that community concerns about grid and water impacts are now shaping policy.",
+      "score": 82,
       "heat": 1,
       "regions": [
         "australia"
       ],
       "topics": [
-        "ai",
-        "cloud",
-        "investment",
-        "ipo"
+        "regulation",
+        "power",
+        "renewable-energy",
+        "sustainability"
       ],
-      "published_at": "2026-09-24T02:34:50Z",
+      "published_at": "2026-09-24T10:46:00Z",
       "featured": true,
       "sources": [
         {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/technology/morgan-stanley-says-firmus-could-be-worth-as-much-as-128b-20260924-p6106d",
-          "type": "html-list"
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/victoria-australia-proposes-rules-requiring-data-centers-to-secure-own-renewable-energy-supply/",
+          "type": "rss"
+        }
+      ],
+      "content": "The southeastern Australian state of Victoria has proposed new rules requiring data centers in the region to secure a renewable energy supply for their operations, among several other requirements.\n\nThe proposal is part of the state's 'Sustainable Data Centre Action Plan,' and sets out a range of new requirements that data centers must adhere to if they want to build in the region.\n\nUnder the proposal, data centers will be required to bring their own renewable energy supply and storage, match new demand with new generation, and cover connection and network upgrade costs. The rules, in effect, seek to make data centers net generators to the grid rather than net users.\n\nIt will also require data centers to use recycled or non-drinking water for cooling. If they are unable to do so immediately, they will be required to offset the water they do use and pay for the infrastructure upgrades needed.\n\nThe new rules will additionally prohibit data centers from being sited in residential areas, such as near schools and childcare centers, as well as in rural areas unable to support them. It will also create a clear buffer zone for new data centers, which will be 150 meters (492 feet) between the building and any residential areas. Furthermore, data centers will be required to have a responsible traffic management plan during construction and operation.\n\nFinally, the rules have several community-focused provisions. These include providing a local investment guarantee wherever they site their facilities. These local benefits, subject to consultation, could include jobs, TAFEs, parks, and more. Operators will also be required to support training for people living in the state, and prioritize hiring in the region over bringing in outside talent.\n\nCommenting on the new rules, the Victorian premier said: “In Victoria, we set the rules – data centers must power themselves, protect homes and pay their way.\n\n“If we get that right, we can all share in their economic benefits, especially the local community.”\n\nThe proposal is the latest to emerge in Australia seeking to push data center operators to deploy more renewable capacity on the local grid. Last month, New South Wales set out a proposal that would require data centers to source at least 40 percent of their energy requirements from wind.\n\nThe federal government also floated plans for new rules that would have required data centers to power a portion of their installations with renewable energy. However, the federal government nixed the renewable energy mandate following objections from two regions.\n\nOne of the objectors, Queensland premier David Crisafulli, said that such a mandate should be the decision of state officials, as they own the whole power system that serves them.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/victoria-australia-proposes-rules-requiring-data-centers-to-secure-own-renewable-energy-supply/"
+    },
+    {
+      "id": "2026-09-25-bb8f9c",
+      "title": "Microsoft opens fourth India cloud region in Telangana",
+      "summary": "New data centre investments in the state are increasingly being designed around AI-scale computing, high-density graphics processing units (GPUs), hyperscale cloud infrastructure and advanced cooling requirements, rather than conventional enterprise workloads.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-09-24T08:52:03Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/microsoft-opens-fourth-india-cloud-region-in-telangana/134456704",
+          "type": "rss"
         }
       ],
       "companies": [
-        "Firmus"
+        "Microsoft"
       ],
-      "content": "Major investment banks are increasingly turning their attention to one of the Australian sharemarket’s biggest questions – how much is artificial intelligence infrastructure player Firmus Technologies actually worth?\n\nFirmus rents out its specialised processing chips to large technology companies and is hoping to raise as much as $7 billion in an initial public offering next month. It has appointed Morgan Stanley, Bank of America, JPMorgan and Morgans Financial as lead managers for the float, who will all share in a fee bonanza.\n\nLoading...",
-      "content_url": "https://www.afr.com/technology/morgan-stanley-says-firmus-could-be-worth-as-much-as-128b-20260924-p6106d"
+      "content": "Microsoft has opened its India South Central datacenter region in Telangana, expanding its cloud and artificial intelligence infrastructure footprint in the country as demand for hyperscale and AI computing capacity grows.The new region, Microsoft’s fourth cloud region in India, has been designated as a strategic hub for Asia and the Global South. It features a three-zone architecture designed to support capacity expansion, resilience and AI workloads.The expansion comes as Telangana seeks to establish itself as a major AI and data centre hub and it is targeting 5 GW of data centre capacity by 2029 and around $30 billion in potential investment across the broader AI and digital infrastructure ecosystem.The state currently has more than 2.5 GW of data centre capacity either operational or under development across global and domestic operators, according to the Government of Telangana.New data centre investments in the state are increasingly being designed around AI-scale computing, high-density graphics processing units (GPUs), hyperscale cloud infrastructure and advanced cooling requirements, rather than conventional enterprise workloads.“We are building on this foundation with an ambition for Telangana to reach 5 GW of data centre capacity by 2029 and attract around $30 billion in investment. Microsoft’s investment is an important part of this journey and will further strengthen Hyderabad’s ability to power the next generation of AI, cloud and digital innovation for India and the world,” saidDuddilla Sridhar Babu, minister for ITE&C, industries & commerce and legislative affairs, Government of Telangana.The region was inaugurated by Sridhar Babu in the presence of Puneet Chandok, president, Microsoft India and South Asia, and Rajiv Kumar, managing director and president, Microsoft India Development Center.Microsoft said the India South Central region will serve growing cloud and AI demand in India as well as customers across the wider region. The project builds on the company’s more than two-decade presence in Hyderabad across engineering, cloud infrastructure and technology development.The company said the new region operates with effectively zero water use for cooling. Microsoft is also working on groundwater recharge, rainwater harvesting and watershed resilience programmes in the region. Its Elikatta groundwater recharge programme had added about five million litres of recharge capacity by June 2026.Microsoft is separately developing a local talent pipeline for data centre operations through its Data Center Academy in partnership with IIIT Hyderabad, Young India Skills University, the Telangana government and Don Bosco Tech Society. The 600-hour programme is aimed at preparing students for careers in data centre operations and infrastructure management.The initiative forms part of Microsoft’s wider commitment to equip 20 million people in India with AI skills by 2030. The company said Microsoft Elevate India has so far equipped more than 10 million people with AI skills.Microsoft is also working with the Telangana government, 1M1B and MeitY Startup Hub on a Green Skills & Applied AI Centre of Excellence in Hyderabad, including a Green Pharma track combining AI, sustainability skills and life sciences.\n\n- Investments & Deals\n- 2 min Read\n\n# Microsoft opens fourth India cloud region in Telangana\n\n*New data centre investments in the state are increasingly being designed around AI-scale computing, high-density graphics processing units (GPUs), hyperscale cloud infrastructure and advanced cooling requirements, rather than conventional enterprise workloads.*\n\n- Published On Sep 24, 2026 at 02:22 PM IST\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/microsoft-opens-fourth-india-cloud-region-in-telangana/134456704"
     },
     {
-      "id": "2026-09-25-e72d82",
-      "title": "Maas Group's Firmus punt pays off, despite earnings volatility",
-      "summary": "Maas Group is asking investors to overlook short-term earnings uncertainty for massive potential upside from the artificial intelligence boom, as the contractor ties its fortunes to Firmus and its…",
+      "id": "2026-09-25-b0df51",
+      "title": "800 VDC architecture for AI infrastructure",
+      "summary": "What does the shift to 800 VDC mean for AI data center efficiency, resilience, energy storage and power distribution?",
       "why_it_matters": "",
       "score": 58,
       "heat": 1,
       "regions": [
-        "australia"
+        "global"
       ],
       "topics": [
+        "power",
         "ai",
-        "cloud",
-        "investment"
+        "energy-efficiency",
+        "infrastructure"
       ],
-      "published_at": "2026-09-24T06:31:05Z",
+      "published_at": "2026-09-24T08:11:27Z",
       "featured": false,
       "sources": [
         {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/companies/infrastructure/maas-group-s-firmus-punt-pays-off-despite-earnings-volatility-20260924-p6105c",
-          "type": "html-list"
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/whitepapers/800-vdc-architecture-for-ai-infrastructure/",
+          "type": "rss"
         }
       ],
-      "companies": [
-        "Maas Group",
-        "Firmus"
-      ],
-      "content": "Maas Group is asking investors to overlook short-term earnings uncertainty for massive potential upside from the artificial intelligence boom, as the contractor ties its fortunes to Firmus and its upcoming sharemarket listing that could value the AI data centre developer at up to $128 billion.\n\nThe Dubbo-based company said on Thursday it was scrapping earnings guidance because the changing nature of its business meant there was too much volatility in its revenue streams. But its shares jumped 8 per cent as the market focused on a $1.2 billion pipeline of work to provide electrical fitouts to data centres, as well as Maas’ 3.2 per cent stake in Firmus.\n\nLoading...",
-      "content_url": "https://www.afr.com/companies/infrastructure/maas-group-s-firmus-punt-pays-off-despite-earnings-volatility-20260924-p6105c"
+      "content": "AI workloads are placing unprecedented demands on data center power infrastructure, with rack-level power rapidly moving from tens of kilowatts toward 600kW, 1MW and beyond. As power density increases and loads become increasingly dynamic, traditional AC architectures face new challenges around efficiency, resilience, fault management and energy storage.\n\nThis **SPOC Energy** whitepaper examines the practical considerations behind an **800 VDC architecture for AI infrastructure**, exploring how DC distribution, energy storage and power conversion can work together to support higher-density workloads.\n\n### Download to discover how to\n\n- Assess the efficiency and cost implications of 800 VDC distribution architectures\n- Compare two-wire and three-wire approaches for high-power DC distribution\n- Use DC-connected energy storage to manage AI load steps and fluctuations\n- Understand where capacitor-based and distribution-level ESS can provide the greatest value\n- Navigate protection, fault ride-through and arc flash considerations in DC systems\n- Evaluate the role and commercial readiness of solid-state transformers versus hybrid architectures",
+      "content_url": "https://www.datacenterdynamics.com/en/whitepapers/800-vdc-architecture-for-ai-infrastructure/"
     },
     {
       "id": "2026-09-25-7e3dd3",
@@ -664,93 +1047,6 @@
       "content_url": "https://theedgemalaysia.com/node/819204"
     },
     {
-      "id": "2026-09-25-040be9",
-      "title": "HE Group bags RM124m electrical works subcontract for Johor data centre",
-      "summary": "HE Group Bhd (KL:HEGROUP) has secured a subcontract worth about RM124 million to supply, install, test and commission the main electrical works for a data centre in Johor.",
-      "why_it_matters": "",
-      "score": 62,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "data-center",
-        "construction",
-        "power",
-        "malaysia"
-      ],
-      "published_at": "2026-09-24T05:41:52Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/819182",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "HE Group"
-      ],
-      "content": "KUALA LUMPUR (Sept 24): HE Group Bhd (KL:HEGROUP) has secured a subcontract worth about RM124 million to supply, install, test and commission the main electrical works for a data centre in Johor.\n\nThe contract was awarded to its wholly owned unit Hexatech Engineering Sdn Bhd by an unnamed engineering, procurement and construction management (EPCM) company, the electrical engineering services firm said in a bourse filing on Thursday.\n\nHE Group said the EPCM company is a Malaysian-incorporated private company that is foreign-owned and specialises in construction, civil engineering and offshore oil and gas.\n\nThe subcontract commenced upon acceptance and is scheduled for completion on March 27, 2028, it said.\n\nThis is HE Group’s second contract secured in September.\n\nOn Sept 10, the group secured a purchase order worth an estimated RM25 million for power distribution system works for a manufacturer of NAND flash memory products in Malaysia.\n\nShares of HE Group rose four sen or 3.8% to RM1.09 on Thursday, giving the company a market capitalisation of RM479.6 million.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/819182"
-    },
-    {
-      "id": "2026-09-25-1ce323",
-      "title": "Victoria, Australia, proposes rules requiring data centers to secure own renewable energy supply",
-      "summary": "The Victorian government has proposed new rules that would require data centres to secure their own renewable energy supply, alongside measures to curb cost shifting to other electricity customers and limit excessive water use. The framework aims to prevent data centre growth from inflating household and business energy bills.",
-      "why_it_matters": "Operators face a new compliance burden: self-procured renewables will become a cost of doing business in Victoria, favouring large players with capital and green energy procurement expertise. The rules also signal that community concerns about grid and water impacts are now shaping policy.",
-      "score": 82,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "regulation",
-        "power",
-        "renewable-energy",
-        "sustainability"
-      ],
-      "published_at": "2026-09-24T10:46:00Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "Data Center Dynamics",
-          "url": "https://www.datacenterdynamics.com/en/news/victoria-australia-proposes-rules-requiring-data-centers-to-secure-own-renewable-energy-supply/",
-          "type": "rss"
-        }
-      ],
-      "content": "The southeastern Australian state of Victoria has proposed new rules requiring data centers in the region to secure a renewable energy supply for their operations, among several other requirements.\n\nThe proposal is part of the state's 'Sustainable Data Centre Action Plan,' and sets out a range of new requirements that data centers must adhere to if they want to build in the region.\n\nUnder the proposal, data centers will be required to bring their own renewable energy supply and storage, match new demand with new generation, and cover connection and network upgrade costs. The rules, in effect, seek to make data centers net generators to the grid rather than net users.\n\nIt will also require data centers to use recycled or non-drinking water for cooling. If they are unable to do so immediately, they will be required to offset the water they do use and pay for the infrastructure upgrades needed.\n\nThe new rules will additionally prohibit data centers from being sited in residential areas, such as near schools and childcare centers, as well as in rural areas unable to support them. It will also create a clear buffer zone for new data centers, which will be 150 meters (492 feet) between the building and any residential areas. Furthermore, data centers will be required to have a responsible traffic management plan during construction and operation.\n\nFinally, the rules have several community-focused provisions. These include providing a local investment guarantee wherever they site their facilities. These local benefits, subject to consultation, could include jobs, TAFEs, parks, and more. Operators will also be required to support training for people living in the state, and prioritize hiring in the region over bringing in outside talent.\n\nCommenting on the new rules, the Victorian premier said: “In Victoria, we set the rules – data centers must power themselves, protect homes and pay their way.\n\n“If we get that right, we can all share in their economic benefits, especially the local community.”\n\nThe proposal is the latest to emerge in Australia seeking to push data center operators to deploy more renewable capacity on the local grid. Last month, New South Wales set out a proposal that would require data centers to source at least 40 percent of their energy requirements from wind.\n\nThe federal government also floated plans for new rules that would have required data centers to power a portion of their installations with renewable energy. However, the federal government nixed the renewable energy mandate following objections from two regions.\n\nOne of the objectors, Queensland premier David Crisafulli, said that such a mandate should be the decision of state officials, as they own the whole power system that serves them.",
-      "content_url": "https://www.datacenterdynamics.com/en/news/victoria-australia-proposes-rules-requiring-data-centers-to-secure-own-renewable-energy-supply/"
-    },
-    {
-      "id": "2026-09-25-b0df51",
-      "title": "800 VDC architecture for AI infrastructure",
-      "summary": "What does the shift to 800 VDC mean for AI data center efficiency, resilience, energy storage and power distribution?",
-      "why_it_matters": "",
-      "score": 58,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [
-        "power",
-        "ai",
-        "energy-efficiency",
-        "infrastructure"
-      ],
-      "published_at": "2026-09-24T08:11:27Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "Data Center Dynamics",
-          "url": "https://www.datacenterdynamics.com/en/whitepapers/800-vdc-architecture-for-ai-infrastructure/",
-          "type": "rss"
-        }
-      ],
-      "content": "AI workloads are placing unprecedented demands on data center power infrastructure, with rack-level power rapidly moving from tens of kilowatts toward 600kW, 1MW and beyond. As power density increases and loads become increasingly dynamic, traditional AC architectures face new challenges around efficiency, resilience, fault management and energy storage.\n\nThis **SPOC Energy** whitepaper examines the practical considerations behind an **800 VDC architecture for AI infrastructure**, exploring how DC distribution, energy storage and power conversion can work together to support higher-density workloads.\n\n### Download to discover how to\n\n- Assess the efficiency and cost implications of 800 VDC distribution architectures\n- Compare two-wire and three-wire approaches for high-power DC distribution\n- Use DC-connected energy storage to manage AI load steps and fluctuations\n- Understand where capacitor-based and distribution-level ESS can provide the greatest value\n- Navigate protection, fault ride-through and arc flash considerations in DC systems\n- Evaluate the role and commercial readiness of solid-state transformers versus hybrid architectures",
-      "content_url": "https://www.datacenterdynamics.com/en/whitepapers/800-vdc-architecture-for-ai-infrastructure/"
-    },
-    {
       "id": "2026-09-25-1f098e",
       "title": "Huawei unveils new UnifiedBus computing architecture for SuperPoDs and clusters",
       "summary": "Huawei has released a new computing architecture that utilizes UnifiedBus to support cluster and SuperPoD interconnect, in order to address booming compute demand",
@@ -782,6 +1078,60 @@
       "content_url": "https://www.datacenterdynamics.com/en/product-news/huawei-unveils-new-unifiedbus-computing-architecture-for-superpods-and-clusters/"
     },
     {
+      "id": "2026-09-25-e9a9e4",
+      "title": "US data centre boom lifts North American equipment sales",
+      "summary": "AI-fuelled building work is offsetting weakness in housing and other projects, keeping North American equipment revenues rising despite softer demand.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-09-24T07:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/us-data-centre-boom-lifts-north-american-equipment-sales",
+          "type": "rss"
+        }
+      ],
+      "content": "Construction equipment revenues for OEMs in North America are rising sharply, according to Interact Analysis, with the market intelligence firm attributing the increase mainly to US data centre construction.\n\nThat revenue growth comes despite broader weakness across much of the construction market. Housing remains under pressure, while several non-residential segments are flat or declining. Interact Analysis said strength in data centre-related work is masking softer demand elsewhere that would otherwise be more visible in manufacturers' results.\n\n### Revenue versus demand\n\nThe research highlights a gap between headline revenue growth and underlying unit demand. Equipment makers are reporting higher sales values, but that is not always matched by similar growth in the number of machines sold, particularly in compact equipment.\n\nCaterpillar is one of the clearest examples of the trend, with construction revenue reported up 50% in the second quarter of 2026 from a year earlier. The wider market has also seen year-on-year growth accelerate over the past three quarters.\n\nThat increase has been linked to heavy capital spending on artificial intelligence infrastructure. New data centre developments require significant earthmoving, utility connections and site preparation, supporting demand for larger categories of construction machinery.\n\nEven so, the study argues that the wider North American market remains uneven. Non-residential construction has been declining for more than a year, and the downturn would have appeared earlier without support from data centre projects. Factory and warehouse construction were singled out as two large segments that are either sluggish or already falling.\n\nThe residential market also remains weak. High interest rates and housing affordability pressures have held back activity. New housing starts have been stalled for the past six months, while housing inventory has risen again.\n\n### Mixed manufacturer signals\n\nRecent outlooks from major manufacturers also suggest revenue growth is being driven by pricing and product mix rather than volume alone. John Deere is targeting construction equipment unit growth of about 5% in the US and Canada in 2026, while also expecting margin expansion from price increases and a shift towards higher-margin products.\n\nThe same review said John Deere sees rental fleet demand, data centre work and infrastructure projects as key sources of support, but noted that production openings are still not full. That suggests the current rise in revenue has not translated into uniformly tight factory schedules.\n\nFor Caterpillar, dealer inventories are increasing, indicating that some sales growth is moving into channels rather than directly to end users. Interact Analysis also cited Caterpillar's reported price-neutral unit growth of 12% in the first quarter of 2026 and 27% in the second quarter, alongside a full-year target for the wider business to increase by the mid-to-high teens.\n\nVolvo Construction Equipment was described as having North American units up 5% year to date, with a full-year target of 0% to 10%. Hitachi Machinery was cited as forecasting early 2026 North American demand growth of 10% for excavators, 2% for mini excavators and 4% for wheel loaders.\n\nTaken together, those figures point to an industry where growth is concentrated rather than broad-based. Sales linked to data centre development are lifting results, but momentum varies by manufacturer and machine type.\n\n### Outlook risks\n\nInteract Analysis expects North American construction equipment sales and production to return to positive growth in 2026, 2027 and 2028 after a difficult period in 2024 and 2025. Yet it also warned that reliance on data centre construction creates a clear risk if investment in artificial intelligence infrastructure slows.\n\nThe firm said investor confidence in AI-related businesses could become an early indicator for the machinery market. If major AI companies struggle to turn subscriber growth into positive cash flow after large public market listings, that could curb capital spending and slow the pace of data centre development.\n\nAlastair Hayfield, Vice President of Research at Interact Analysis, said the market requires close monitoring because strong revenue numbers do not fully reflect underlying construction demand.\n\n\"The reality is that the surge in data center construction is masking a weak housing market and a non-residential construction market that is declining in many sectors,\" said Hayfield.\n\nHe also stressed the importance of tracking whether other construction categories can recover strongly enough to offset any cooling in AI-related spending.\n\n\"At the same time, watching for growth opportunities in other construction markets, such as manufacturing or warehousing, is going to allow OEMs to maintain growth in the longer term,\" said Hayfield.",
+      "content_url": "https://datacenternews.asia/story/us-data-centre-boom-lifts-north-american-equipment-sales"
+    },
+    {
+      "id": "2026-09-25-e72d82",
+      "title": "Maas Group's Firmus punt pays off, despite earnings volatility",
+      "summary": "Maas Group is asking investors to overlook short-term earnings uncertainty for massive potential upside from the artificial intelligence boom, as the contractor ties its fortunes to Firmus and its…",
+      "why_it_matters": "",
+      "score": 58,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "cloud",
+        "investment"
+      ],
+      "published_at": "2026-09-24T06:31:05Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/infrastructure/maas-group-s-firmus-punt-pays-off-despite-earnings-volatility-20260924-p6105c",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Maas Group",
+        "Firmus"
+      ],
+      "content": "Maas Group is asking investors to overlook short-term earnings uncertainty for massive potential upside from the artificial intelligence boom, as the contractor ties its fortunes to Firmus and its upcoming sharemarket listing that could value the AI data centre developer at up to $128 billion.\n\nThe Dubbo-based company said on Thursday it was scrapping earnings guidance because the changing nature of its business meant there was too much volatility in its revenue streams. But its shares jumped 8 per cent as the market focused on a $1.2 billion pipeline of work to provide electrical fitouts to data centres, as well as Maas’ 3.2 per cent stake in Firmus.\n\nLoading...",
+      "content_url": "https://www.afr.com/companies/infrastructure/maas-group-s-firmus-punt-pays-off-despite-earnings-volatility-20260924-p6105c"
+    },
+    {
       "id": "2026-09-25-7aeca1",
       "title": "Why Malaysia's internet exchange build-out is moving to the Thai border",
       "summary": "Open DC is developing an internet exchange at Bukit Kayu Hitam in Kedah, near the Thai border, designed to keep Malaysian and regional traffic from routing through Singapore. Four submarine cable landing stations, two Malaysian and two Thai, lie within reach of the site.",
@@ -811,6 +1161,37 @@
       ],
       "content": "- **Open DC is betting that a Malaysia internet exchange at the Kedah border can keep regional traffic out of Singapore.**\n- **The operator frames data centres as an energy-export business and is pushing cooling-knowledge transfer to local vendors.**\n\nFour cable landing stations sit within reach of Bukit Kayu Hitam in Kedah: two in Malaysia and two across the border in Thailand, at Satun and Songkhla, roughly 50 to 60 kilometres apart on opposite coasts. Traffic arriving at those stations today largely travels to Bangkok, or down to Kuala Lumpur and Singapore, before it can be exchanged.\n\nOpen DC is building an internet exchange at that border on the argument that it should not have to. The company launched D8-1 in the Delapan Special Border Economic Zone after being invited four years ago to replicate, at the northern frontier, the model it had already built in Johor Bahru. The site takes its name from Delapan, the Malay word for eight, because the company wanted something tied to the place, managing director Wong Weng Yew said at a media briefing in Kuala Lumpur on Monday.\n\nThe Johor exchange helped pull Singapore players across the Causeway, Wong said, and the northern project is the same play aimed at Thai and Chinese traffic. Johor also had Singapore’s moratorium and land constraints pushing demand north, which the Kedah project has no equivalent of.\n\nThe company’s parent, Extreme Broadband, is a licensed Malaysian telco that has been selling enterprise connectivity since 2005. That history explains a pitch built on carriers and peering while most of the market talks in megawatts.\n\n### What a Malaysia internet exchange changes\n\nAn internet exchange is a shared point where networks hand traffic to each other directly instead of paying a third party to carry it. Open DC already runs or hosts them at its other sites, including JBIX in Johor and a transport node for DE-CIX Malaysia’s Penang Internet Exchange at PE2, which makes D8-1 a repeat of a model the company has built before rather than a first attempt.\n\nWong described the model in terms of air travel. “What we are doing essentially is like building an airport,” he said, adding that airlines bring passenger traffic into a hub where passengers change flights, and networks do the same with traffic at an exchange.\n\nThe savings come off the transit bill. Leasing a 10G link from Delapan down to Singapore would cost in the region ofRM100,000 a year, Wong said, describing the figure as indicative. Traffic exchanged locally at a northern exchange avoids that line item, and the cost falls further as more networks join and more traffic stays in the north.\n\nWong’s case is that traffic landing at Satun or Songkhla and destined for elsewhere in the region has no technical reason to detour through a hub several hundred kilometres away, which adds both cost and latency.\n\nThe count of carriers inside a facility is what makes that possible, and it is where Open DC’s numbers are unusual. Two carriers are considered good for most enterprise sites, Wong said, while Open DC’s data centres typically carry at least six and JB1 in Johor has more than 15. Tenants can buy connectivity from Chinese, Singaporean, European, Indian and US telcos without leaving the building, a mix he said is almost impossible for other operators to replicate.\n\nThe exchange at D8-1 is not fully live. Wong said a capacity upgrade prompted by demand pushed the rollout back by several months, with a full launch targeted for the end of this year or January. He declined to name the networks waiting to connect, citing non-disclosure agreements. The project was conceived four years ago, which makes the launch a fair measure of how quickly regional traffic shifts once a new exchange opens.\n\n### Complementing rather than competing\n\nThailand has drawn substantial hyperscale investment, and Open DC’s Kedah capacity, at 2MW expanding to 4MW, is not in that contest. Wong said the aim is a connectivity hub serving the wider region rather than a play for the Thai market, and that Thai networks connecting at the border would reduce what they send to Singapore and pay less to do it.\n\nHe made the same argument about Singapore. Cable density concentrated in one small area creates a chokepoint, and northern Malaysian capacity gives networks somewhere to park a second copy of their traffic. “If something happens to the south, the north will carry on,” he said.\n\nOpen DC’s own portfolio runs from JB1 and JB2 in Johor through CJ1 in Cyberjaya to PE1 and PE2 in Penang and D8-1 at the border, a north-to-south corridor Wong said no other operator is developing. More than 90% of its business comes from overseas customers, he said, with a recent surge in East Asian traffic, drawn from a base the company puts at over 300 organisations, including Fortune 500 names.\n\n### Compute as an export\n\nWong put a different frame on what his industry sells, describing it as “an energy export business”. A data centre takes power generated in Malaysia, converts it into compute capacity, and sells that capacity to foreign customers who pay in US dollars.\n\nHe does not expect the industry to keep growing on fossil generation, and said siting capacity in the north lets Open DC tap renewable options there. He put rough numbers on what that would involve, saying that supplying 15% of PE2’s electricity from solar would mean signing a contract with a solar provider worth around RM150 million. He stressed that the company is still debating the level and has not committed.\n\nSolar developers need long tenures to build, and Wong said few buyers are willing to sign a 10-year commitment. He named battery energy storage as a second area where data centre demand pulls research and development into the country.\n\n### Building vendors rather than importing them\n\nOn talent, Open DC’s approach runs through its supply chain. Wong said the company selects local vendors and places them alongside global equipment suppliers, then requires those suppliers to transfer knowledge and train the local firms as part of supplying Open DC.\n\nPrecision cooling is the example he gave. AI workloads impose demanding cooling requirements, and the systems involved are ones local vendors rarely get to work on unless a customer creates the opening. “Hopefully we can sow a seed in the local market that we can grow into a tree of talents in the local communities,” Wong said.\n\nThe financing history suggests why he emphasises local capability. Wong said Malaysian banks were unfamiliar with data centres when Open DC started in 2015, and that one of its first funders was a Singaporean infrastructure fund. Alternative lenders moved before the banks did, and he said many local institutions remain hesitant today.\n\nWhether the Malaysia internet exchange delivers depends on the networks Wong says are waiting.\n\n**Want to learn more about AI and big data from industry leaders?** Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.\n\nTech Wire Asia is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.",
       "content_url": "https://techwireasia.com/2026/09/malaysia-internet-exchange-thai-border-open-dc-peering/"
+    },
+    {
+      "id": "2026-09-25-040be9",
+      "title": "HE Group bags RM124m electrical works subcontract for Johor data centre",
+      "summary": "HE Group Bhd (KL:HEGROUP) has secured a subcontract worth about RM124 million to supply, install, test and commission the main electrical works for a data centre in Johor.",
+      "why_it_matters": "",
+      "score": 62,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "data-center",
+        "construction",
+        "power",
+        "malaysia"
+      ],
+      "published_at": "2026-09-24T05:41:52Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/819182",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "HE Group"
+      ],
+      "content": "KUALA LUMPUR (Sept 24): HE Group Bhd (KL:HEGROUP) has secured a subcontract worth about RM124 million to supply, install, test and commission the main electrical works for a data centre in Johor.\n\nThe contract was awarded to its wholly owned unit Hexatech Engineering Sdn Bhd by an unnamed engineering, procurement and construction management (EPCM) company, the electrical engineering services firm said in a bourse filing on Thursday.\n\nHE Group said the EPCM company is a Malaysian-incorporated private company that is foreign-owned and specialises in construction, civil engineering and offshore oil and gas.\n\nThe subcontract commenced upon acceptance and is scheduled for completion on March 27, 2028, it said.\n\nThis is HE Group’s second contract secured in September.\n\nOn Sept 10, the group secured a purchase order worth an estimated RM25 million for power distribution system works for a manufacturer of NAND flash memory products in Malaysia.\n\nShares of HE Group rose four sen or 3.8% to RM1.09 on Thursday, giving the company a market capitalisation of RM479.6 million.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/819182"
     },
     {
       "id": "2026-09-25-492281",
@@ -948,6 +1329,37 @@
       "content_url": "http://datacenters.economictimes.indiatimes.com/news/operations-resilience/data-centres-face-rising-cyber-threats-regulatory-lag/134449746"
     },
     {
+      "id": "2026-09-25-ad4b4d",
+      "title": "Firmus float managers say the neocloud could be worth up to $128b",
+      "summary": "Major investment banks are increasingly turning their attention to one of the Australian sharemarket’s biggest questions – how much is artificial intelligence infrastructure player Firmus…",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "cloud",
+        "investment",
+        "ipo"
+      ],
+      "published_at": "2026-09-24T02:34:50Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/technology/morgan-stanley-says-firmus-could-be-worth-as-much-as-128b-20260924-p6106d",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Firmus"
+      ],
+      "content": "Major investment banks are increasingly turning their attention to one of the Australian sharemarket’s biggest questions – how much is artificial intelligence infrastructure player Firmus Technologies actually worth?\n\nFirmus rents out its specialised processing chips to large technology companies and is hoping to raise as much as $7 billion in an initial public offering next month. It has appointed Morgan Stanley, Bank of America, JPMorgan and Morgans Financial as lead managers for the float, who will all share in a fee bonanza.\n\nLoading...",
+      "content_url": "https://www.afr.com/technology/morgan-stanley-says-firmus-could-be-worth-as-much-as-128b-20260924-p6106d"
+    },
+    {
       "id": "2026-09-25-4873b0",
       "title": "Alibaba Cloud targets 20GW data center capacity by 2032 for AI demand",
       "summary": "Alibaba Cloud plans to exceed 20 gigawatts of global data centre capacity by 2032, a scale comparable to the world's largest hyperscalers today. The buildout is tied to a full-stack AI strategy spanning proprietary chips, cloud infrastructure and foundation models.",
@@ -974,10 +1386,34 @@
         }
       ],
       "companies": [
-        "Alibaba Cloud"
+        "Alibaba Cloud",
+        "Alibaba"
       ],
       "content": "Alibaba has outlined a comprehensive full-stack AI strategy, aiming to expand its global data center capacity beyond 20GW by 2032 to meet the escalating demand from AI workloads. The initiative encompasses new proprietary AI chips, an agentic cloud platform, and advanced Qwen foundation and multimodal models.At its Apsara Conference, Alibaba Cloud, the company's cloud computing arm, introduced the Zhenwu V900 AI training and inference processor, developed by its chip design unit T-Head. This new accelerator features 216 GB of GPU memory and 1,200 GB/s of inter-chip bandwidth, delivering three times the performance of its predecessor, the Zhenwu M890. The Zhenwu V900 supports FP8 and FP4 data precisions and is slated for mass production and commercial release in Q1 2027. T-Head also revealed a roadmap for next-generation proprietary Yitian CPUs, designed for agentic AI tasks, with a launch targeted for 2027.Alibaba Cloud's infrastructure upgrades include the HPN 8.0 Pro AI networking architecture, offering 100 petabits bandwidth with ultra-low latency, and the Cloud Parallel File Storage (CPFS) system, which provides hundred-terabyte-per-second throughput for AI model training, potentially reducing storage costs by 69 per cent.The company also unveiled updates to its Qwen multimodal model family, including Qwen3.8-LiveTranslate for simultaneous interpretation and Qwen-Audio-3.1-TTS-Next for cinematic soundscape generation. An agentic cloud strategy, built around AI Native Cloud, Agent Native Cloud, and Context Engine, aims to facilitate large-scale model training, enterprise-grade agent deployment, and real-time data context for AI applications.\n\n- AI & Compute Infrastructure\n- 1 min Read\n\n# Alibaba Cloud targets 20GW data center capacity by 2032 for AI demand\n\nAlibaba Cloud aims to surpass 20GW in global data center capacity by 2032, driven by the exponential demand for AI. This expansion is part of a comprehensive full-stack AI strategy, integrating proprietary chips, cloud infrastructure, and models.\n\n- Published On Sep 24, 2026 at 07:55 AM IST\n\n## Highlights\n\n- Alibaba Cloud targets over 20GW global data center capacity by 2032, driven by AI demand.\n- T-Head unveiled Zhenwu V900 AI processor, delivering three times performance of its predecessor.\n- Zhenwu V900 is scheduled for mass production and commercial release in Q1 2027.\n- Alibaba Cloud introduced HPN 8.0 Pro AI networking and CPFS storage for AI workloads.\n\n## Comments\n\nWhat are your thoughts?",
       "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/alibaba-cloud-targets-20gw-data-center-capacity-by-2032-for-ai-demand/134449637"
+    },
+    {
+      "id": "2026-09-25-603291",
+      "title": "SEMICON India 2026 drives indigenous computing, sovereign data centre solutions",
+      "summary": "SEMICON India 2026 concluded with 15 announcements focused on strengthening India's semiconductor design, indigenous computing, and AI capabilities. Key partnerships aim to advance sovereign digital infrastructure and data centre solutions, enhancing national self-reliance.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-09-24T02:25:06Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/semicon-india-2026-drives-indigenous-computing-sovereign-data-centre-solutions/134449632",
+          "type": "rss"
+        }
+      ],
+      "content": "SEMICON India 2026 concluded at Yashobhoomi, New Delhi, with 15 announcements and collaborations aimed at bolstering India's capabilities in semiconductor design, indigenous computing, fabrication management, artificial intelligence, and quantum technologies. These initiatives brought together government institutions, industry, academia, and skilling organisations to translate India's semiconductor ambitions into deployable technologies and stronger domestic infrastructure.The event emphasised innovation using indigenous processor platforms, wider access to advanced computing, sovereign digital infrastructure, and practical skilling across the semiconductor value chain. The Digital India RISC-V (DIR-V) Grand Challenge, organised by Maker Village under the Chips to Startup (C2S) Programme, announced three winning teams for solutions built on indigenous processors, receiving a total prize money of ₹60 lakh.\n\nThe Bharat AI-SoC Challenge 2026-27, supported by the UK Government, was launched to foster talent in artificial intelligence and system-on-chip design. Semi-Conductor Laboratory (SCL), Mohali, introduced Device Manufacturing Integrated System (DMIS), an indigenous manufacturing execution system for efficient wafer-fabrication activities. C-DAC and NLC India Ltd announced a collaboration to establish a data centre within India’s energy sector ecosystem, leveraging indigenous technologies. Additionally, C-DAC partnered with Bharat Electronics (BEL) to jointly develop and deliver indigenous high-performance computing, artificial intelligence, and sovereign data-centre solutions.C-DAC further launched PARAM Vidya, an AI Excellence Lab-in-a-Box for universities and start-ups, and PARAM Shavak-QS, a compact quantum simulation platform. Multiple partnerships were also announced to strengthen the semiconductor skilling ecosystem and develop industry-ready talent, including initiatives by the Electronics Sector Skills Council of India, Truechip Solutions, SEMI, Peachtree Elevate, NIELIT, Ramaiah Institute of Advanced Skills and Technology (RIASAT), and IISc Bengaluru.An EY and India Semiconductor and Electronics Association (ISEA) report, \"Semicon India 2.0: From Capacity Creation to Ecosystem Leadership,\" was launched, projecting India’s semiconductor market to grow from nearly USD 64 billion in 2026 to USD 200 billion by 2035.\n\n### Key Partnerships and Platforms\n\nThe Bharat AI-SoC Challenge 2026-27, supported by the UK Government, was launched to foster talent in artificial intelligence and system-on-chip design. Semi-Conductor Laboratory (SCL), Mohali, introduced Device Manufacturing Integrated System (DMIS), an indigenous manufacturing execution system for efficient wafer-fabrication activities. C-DAC and NLC India Ltd announced a collaboration to establish a data centre within India’s energy sector ecosystem, leveraging indigenous technologies. Additionally, C-DAC partnered with Bharat Electronics (BEL) to jointly develop and deliver indigenous high-performance computing, artificial intelligence, and sovereign data-centre solutions.C-DAC further launched PARAM Vidya, an AI Excellence Lab-in-a-Box for universities and start-ups, and PARAM Shavak-QS, a compact quantum simulation platform. Multiple partnerships were also announced to strengthen the semiconductor skilling ecosystem and develop industry-ready talent, including initiatives by the Electronics Sector Skills Council of India, Truechip Solutions, SEMI, Peachtree Elevate, NIELIT, Ramaiah Institute of Advanced Skills and Technology (RIASAT), and IISc Bengaluru.An EY and India Semiconductor and Electronics Association (ISEA) report, \"Semicon India 2.0: From Capacity Creation to Ecosystem Leadership,\" was launched, projecting India’s semiconductor market to grow from nearly USD 64 billion in 2026 to USD 200 billion by 2035.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/semicon-india-2026-drives-indigenous-computing-sovereign-data-centre-solutions/134449632"
     },
     {
       "id": "2026-09-25-ea29cc",
@@ -1006,6 +1442,29 @@
       ],
       "content": "Thu, 24th Sep 2026 (Yesterday)\nData centres are at a structural turning point as artificial intelligence reshapes not just compute demand, but the very assumptions underpinning networking and infrastructure design.\n\nWhat was once an incremental evolution of cloud architecture is now a wholesale redesign of how data moves and how systems scale. At the centre of this shift is a simple but increasingly unforgiving reality: AI workloads do not behave like traditional cloud applications.\n\nRather, they are continuous, tightly synchronised, and massively parallel. Instead of isolated requests and responses, modern AI training involves thousands of GPUs exchanging data simultaneously, often across racks and even across facilities.\n\nThe result is a network environment where performance is no longer a background concern, but has a direct impact on business performance.\n\nThe industry has already lived through two major networking eras. The \"north-south\" model of early cloud computing was built around user traffic entering and exiting data centres, with relatively modest internal communication needs.\n\nThat evolved into an \"east-west\" world driven by microservices, where server-to-server traffic inside the data centre became dominant. Now AI has pushed this pattern into overdrive. Internal traffic is no longer just frequent but also constant and highly sensitive to delay. In effect, east-west traffic has become the entire workload.\n\n### 'Pushing the piano'\n\nThe analogy often used inside the industry is that of \"pushing pianos around the office.\" Instead of individual tasks moving independently, thousands of components must co-ordinate large, heavy data movements in lockstep. If one participant falters, the entire group slows.\n\nEven small inefficiencies can cascade into queue buildup, GPU idle time, and significantly higher training costs. With accelerator clusters costing millions of dollars and operating continuously, every second of inefficiency becomes directly measurable in financial terms.\n\nThis is driving a rapid shift in architectural requirements. Oversubscription ratios that were once comfortably designed at 3:1 or 5:1 are now collapsing toward 1:1 models in AI clusters, where every GPU must communicate with every other GPU simultaneously.\n\nBandwidth demands are rising just as sharply, with 400Gbps Ethernet becoming baseline, 800Gbps deployments accelerating, and 1.6Tbps already on the horizon. Traditional \"best effort\" networking is increasingly viewed as insufficient for workloads that require predictable, near-lossless performance.\n\n### An evolving technology mix\n\nTo meet these demands, data centre operators are adopting technologies such as RDMA over Converged Ethernet (RoCE), along with congestion management mechanisms like Explicit Congestion Notification (ECN) and Priority Flow Control (PFC). These tools are designed to minimise buffering and prevent packet drops in environments where even microsecond-level delays can propagate into system-wide slowdowns.\n\nAt a higher level, the balance of compute itself is shifting. The GPU is becoming the primary unit of computation, while the CPU increasingly plays a co-ordinating role. This inversion is reshaping how servers are designed and how networking stacks are integrated.\n\nTechnologies such as SmartNICs and data processing units are offloading networking, security, and telemetry tasks closer to the fabric, reducing CPU overhead and improving synchronisation across distributed workloads.\n\nThese architectural changes are also driving physical transformation. Power densities of 50 to 150 kilowatts per rack are pushing air cooling beyond its limits, accelerating the adoption of direct-to-chip liquid cooling and immersion systems.\n\nNetworking hardware is undergoing a similar transition. Electrical interconnects are reaching their practical limits, accelerating a shift toward optical technologies. Co-packaged optics, which bring photonic interfaces closer to compute units, are reducing both latency and energy consumption, while enabling higher bandwidth density within constrained physical footprints.\n\n### The changing role of the network\n\nIn this emerging environment, the network is no longer passive but is becoming an active participant in workload management. Model updates, fine-tuned weights, and inference optimisation data are now treated as first-class traffic types, alongside traditional application data.\n\nAnd the network is not just a neutral transporter of data. Production-grade AI data centres need to run on a lossless, high-performance network fabric – supporting low latency, preventing oversubscription, and able to deliver east-west bandwidth at scale. Organisations aren't looking for a data centre network, they need an AI fabric, where the network is part of the application itself.\n\nTaken together, these shifts point to three structural changes that define the AI infrastructure era. First, the network now sits directly in the critical path of compute performance and financial efficiency.\n\nSecond, networking systems are becoming adaptive, continuously optimising in response to workload behaviour rather than static configuration.\n\nThird, compute and networking design are converging, with hardware and software increasingly co-designed rather than independently optimised.\n\nThe implication is that future competitiveness will not be determined solely by faster processors or larger clusters, but by how effectively compute and networking are integrated into a unified architecture.\n\nData centres are evolving into tightly coupled, GPU-dominated systems supported by lossless, high-bandwidth optical fabrics, while the edge becomes a distributed extension of the same intelligence layer.\n\nThe trajectory is clear: infrastructure is shifting from general-purpose computing environments into highly specialised AI factories. What once looked like incremental upgrades in speed and capacity is now a fundamental redesign of the digital economy's physical backbone.",
       "content_url": "https://datacenternews.asia/story/ai-s-data-centre-overhaul-forcing-a-network-rethink"
+    },
+    {
+      "id": "2026-09-25-ff79a7",
+      "title": "Centralized, distributed, and edge AI strategies for data centers",
+      "summary": "Understanding centralized, distributed, and edge AI is crucial for optimizing data center infrastructure. These strategies impact latency, cost, and operational complexity for AI workloads.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-09-24T02:15:14Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/centralized-distributed-and-edge-ai-strategies-for-data-centers/134449534",
+          "type": "rss"
+        }
+      ],
+      "content": "The tech industry's use of terms like centralized AI, distributed AI, and edge AI often leads to confusion due to overlapping meanings. Clarifying these distinctions is critical for data center operators and enterprise leaders to effectively deploy and manage AI workloads.\n\nCentralized AI typically involves hosting AI workloads in a single data center or cloud region, often utilising a cluster of servers or GPUs to handle high compute demands. This approach prioritises resource consolidation, capacity pooling, and operational simplicity, even when workloads are distributed across multiple nodes within that single site.\n\nDistributed AI, in contrast, spreads AI workloads across multiple servers and distinct geographical sites, such as different data centers or cloud regions. This strategy is designed to serve diverse user populations, enhance resilience, reduce latency for geographically dispersed users, or comply with data residency regulations. The key differentiator is a multisite footprint by design.\n\nEdge AI positions AI workloads near the network edge, close to end users, devices, or local data sources. This is done to minimise latency, cut data transfer costs, and avoid round trips to core data centers. Implementations can range from compact edge data centers and regional micro data centers to on-device models. While edge AI can also be considered a form of distributed AI, its core distinction is its location-specific approach to compute proximity.\n\nThe primary differences among these approaches lie in the number and placement of sites, performance and cost goals, and operational complexity. Centralized AI offers easier setup and governance, while distributed and edge architectures increase complexity in orchestration, observability, data synchronisation, and failover design. Enterprises often combine these patterns, such as using centralized AI for training and distributed or edge AI for inference, to align infrastructure with specific performance, cost, and operational objectives. Decision-makers must evaluate current and future AI workload requirements against the characteristics of each deployment model and assess the trade-offs in latency, cost, and operational complexity.\n\n### Centralized AI\nCentralized AI typically involves hosting AI workloads in a single data center or cloud region, often utilising a cluster of servers or GPUs to handle high compute demands. This approach prioritises resource consolidation, capacity pooling, and operational simplicity, even when workloads are distributed across multiple nodes within that single site.\n\n### Distributed AI\nDistributed AI, in contrast, spreads AI workloads across multiple servers and distinct geographical sites, such as different data centers or cloud regions. This strategy is designed to serve diverse user populations, enhance resilience, reduce latency for geographically dispersed users, or comply with data residency regulations. The key differentiator is a multisite footprint by design.\n\n### Edge AI\nEdge AI positions AI workloads near the network edge, close to end users, devices, or local data sources. This is done to minimise latency, cut data transfer costs, and avoid round trips to core data centers. Implementations can range from compact edge data centers and regional micro data centers to on-device models. While edge AI can also be considered a form of distributed AI, its core distinction is its location-specific approach to compute proximity.\n\n### Key Differentiators and Implementation\nThe primary differences among these approaches lie in the number and placement of sites, performance and cost goals, and operational complexity. Centralized AI offers easier setup and governance, while distributed and edge architectures increase complexity in orchestration, observability, data synchronisation, and failover design. Enterprises often combine these patterns, such as using centralized AI for training and distributed or edge AI for inference, to align infrastructure with specific performance, cost, and operational objectives. Decision-makers must evaluate current and future AI workload requirements against the characteristics of each deployment model and assess the trade-offs in latency, cost, and operational complexity.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/centralized-distributed-and-edge-ai-strategies-for-data-centers/134449534"
     },
     {
       "id": "2026-09-25-adc3b2",
@@ -1102,6 +1561,65 @@
       "content_url": "https://asia.nikkei.com/editor-s-picks/interview/mitsubishi-heavy-buoyed-by-brisk-gas-turbine-demand-from-us-data-centers"
     },
     {
+      "id": "2026-09-25-23047a",
+      "title": "SUBCO eyes 2029 completion for three new Indo-Pacific cable systems",
+      "summary": "SUBCO says it will complete three new submarine cable systems totalling 40,000 km by 2029, linking Australia to Asia and the US. APX North will run 9,500 km from Sydney to Japan via Guam, complemented by APX East-2 and a third system across the Indo-Pacific.",
+      "why_it_matters": "The new systems add badly needed redundancy and capacity on Australia-Asia routes, where a small number of outages have repeatedly disrupted connectivity. They also strengthen Australia's position as a connectivity hub rather than a bandwidth outlier.",
+      "score": 72,
+      "heat": 1,
+      "regions": [
+        "australia",
+        "southeast-asia"
+      ],
+      "topics": [
+        "connectivity",
+        "subsea-cable",
+        "infrastructure"
+      ],
+      "published_at": "2026-09-23T11:39:50Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/subco-eyes-2029-completion-for-three-new-indo-pacific-cable-systems/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "SUBCO"
+      ],
+      "content": "SUBCO, a developer, owner, and operator of next-generation submarine fiber-optic cable infrastructure, has announced that it will be building three new subsea cables connecting Australia to several locations in Asia and the US over 40,000 km.\n\nAccording to a press release, APX North will span 9,500 km, connecting Sydney to Japan via Guam. APX East-2 will be 10,000 km long and connect Guam to Los Angeles. APX West is a 4,600 km cable connecting Perth to Singapore with branches to Jakarta and Batam. Each cable will contain 24 fiber pairs, with SUBCO targeting completion of all three systems by 2029.\n\n“People have been slow to understand that AI factories are dead without massive subsea connectivity to carry tokens from factory to customers. Hundreds and hundreds of terabits per second. That’s why we are about to undertake the single largest subsea infrastructure build ever by a carrier in the Indo-Pacific. Not only is the build itself huge, but the timeframe is compressed with over 40,000km of cable to be installed in just over three years. Our team has signed up for the challenge, and will grow significantly as each system reaches CIF,” said Bevan Slattery, SUBCO Founder and Co-Chief Executive Officer.\n\nThe co-CEO noted that APX Eat-2, connecting Guam and Los Angeles, is vital for trans-Pacific digital traffic and expects the system to be incredibly popular. Similarly, APEX West is important for resiliency and interconnection at hubs in Batam and Jakarta.\n\n“Singapore and Indonesia remain critical to Asia’s connectivity landscape, and their strategic importance will only grow as bandwidth demand accelerates, and new interconnection hubs are needed to deliver greater flexibility and route diversity. We are building as much of that as possible into our system design and making that available to our cornerstone customers through APX West,” said Slattery.\n\nThe company announced in June that its SMAP cable system connecting Sydney, Melbourne, Adelaide, and Perth was ready for service. The 5,000 km cable features 16 fiber pairs and delivers more than 400 Tbps of capacity.",
+      "content_url": "https://w.media/subco-eyes-2029-completion-for-three-new-indo-pacific-cable-systems/"
+    },
+    {
+      "id": "2026-09-25-94c4d7",
+      "title": "Thai bill proposes data center licensing, environmental & health impact assessments",
+      "summary": "A Thai MP has tabled a draft bill that would introduce mandatory licensing for data centres plus environmental and community health impact assessments for all projects. Operators would need approval from the Ministry of Digital Economy and Society before building or expanding.",
+      "why_it_matters": "If enacted, Thailand would move from one of Southeast Asia's most permissive regimes to a structured approvals process, adding time and uncertainty to project timelines. Established operators with compliant facilities gain an advantage over new entrants rushing to market.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "regulation",
+        "policy",
+        "licensing",
+        "environment"
+      ],
+      "published_at": "2026-09-23T09:55:40Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/thai-bill-proposes-data-center-licensing-environmental-health-impact-assessments/",
+          "type": "rss"
+        }
+      ],
+      "content": "A Thai member of Parliament has recently introduced a draft bill proposing sweeping changes to its data center rules, including requiring licensing, and environmental and community health impact assessments on all data center projects, according to local reports. If passed, operators would need to obtain a licence from the Ministry of Digital Economy and Society, locate their facilities in areas zoned for factories, must be a Thai-registered company, and provide a guarantee when applying for a licence.\n\nThe proposals, which were introduced by MP Supachai Jaisamut, seek to regulate digital infrastructure pertaining to project locations, environmental and health impact assessments, electricity and water supplies, and data sovereignty, with key numerical thresholds to be specified later in secondary legislation.\n\nThe public including operators, users of services and affected communities are invited to contribute their views thru to 15 October.\n\nWith the aim of protecting Thai resources, the draft bill requires high usage data centers to either generate their own electricity, buy directly from licensed private power producers, or a combination of both.\n\nSimilarly, data centers with high water consumption must have sufficient water from their own sources, without using public sources. They must also keep heat released and noise pollution within limits to be prescribed by the minister.\n\nThe draft requires operators that collect, store, process or hold in custody Thai nationals’ personal data, data of Thai-registered entities, or information of government departments, public organisations and other state agencies, to store those data in Thailand, with strict conditions for any transfers outside of the country.\n\nOperators must also ensure Thai nationals make up at least half of all personnel performing system supervision duties, as well as use minimum prescribed local content for their materials and equipment.\n\nThe penalty for operating without a licence is imprisonment for up to five years, a fine of at least THB10 million, or both, as well as an additional fine of up to THB1 million a day as long as a licence is not obtained. An operator which fails to store Thai nationals’ personal data in Thailand could face up to three years’ imprisonment, a fine of at least THB6 million, or both.\n\nExisting operators have up to 180 days from the date the law comes into force (ministerial licensing regulations) to apply for a licence.",
+      "content_url": "https://w.media/thai-bill-proposes-data-center-licensing-environmental-health-impact-assessments/"
+    },
+    {
       "id": "2026-09-25-3d1975",
       "title": "NYSE-listed $98b data centre giant lurks in Stack's APAC auction",
       "summary": "A New York Stock Exchange-listed data centre company with a market capitalisation near US$98 billion is reportedly among the bidders circling Stack Infrastructure's Asia-Pacific assets. The interest adds a heavyweight strategic contender to an auction already drawing major private capital.",
@@ -1163,65 +1681,6 @@
       ],
       "content": "CDC Data Centres chief executive Greg Boorer says Australia cannot afford to miss out on the artificial intelligence and data centre boom, warning it would affect geopolitics as well as national and economic security.\n\nBoorer told The Australian Financial Review Chanticleer Lunch that issues related to copyright would be resolved, claiming frontier labs like OpenAI and Anthropic were not opposed to paying rights holders to train models.\n\nLoading...",
       "content_url": "https://www.afr.com/companies/infrastructure/cdc-chief-warns-australia-can-t-miss-ai-wave-or-we-re-toast-20260923-p60zwe"
-    },
-    {
-      "id": "2026-09-25-23047a",
-      "title": "SUBCO eyes 2029 completion for three new Indo-Pacific cable systems",
-      "summary": "SUBCO says it will complete three new submarine cable systems totalling 40,000 km by 2029, linking Australia to Asia and the US. APX North will run 9,500 km from Sydney to Japan via Guam, complemented by APX East-2 and a third system across the Indo-Pacific.",
-      "why_it_matters": "The new systems add badly needed redundancy and capacity on Australia-Asia routes, where a small number of outages have repeatedly disrupted connectivity. They also strengthen Australia's position as a connectivity hub rather than a bandwidth outlier.",
-      "score": 72,
-      "heat": 1,
-      "regions": [
-        "australia",
-        "southeast-asia"
-      ],
-      "topics": [
-        "connectivity",
-        "subsea-cable",
-        "infrastructure"
-      ],
-      "published_at": "2026-09-23T11:39:50Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "W.Media",
-          "url": "https://w.media/subco-eyes-2029-completion-for-three-new-indo-pacific-cable-systems/",
-          "type": "rss"
-        }
-      ],
-      "companies": [
-        "SUBCO"
-      ],
-      "content": "SUBCO, a developer, owner, and operator of next-generation submarine fiber-optic cable infrastructure, has announced that it will be building three new subsea cables connecting Australia to several locations in Asia and the US over 40,000 km.\n\nAccording to a press release, APX North will span 9,500 km, connecting Sydney to Japan via Guam. APX East-2 will be 10,000 km long and connect Guam to Los Angeles. APX West is a 4,600 km cable connecting Perth to Singapore with branches to Jakarta and Batam. Each cable will contain 24 fiber pairs, with SUBCO targeting completion of all three systems by 2029.\n\n“People have been slow to understand that AI factories are dead without massive subsea connectivity to carry tokens from factory to customers. Hundreds and hundreds of terabits per second. That’s why we are about to undertake the single largest subsea infrastructure build ever by a carrier in the Indo-Pacific. Not only is the build itself huge, but the timeframe is compressed with over 40,000km of cable to be installed in just over three years. Our team has signed up for the challenge, and will grow significantly as each system reaches CIF,” said Bevan Slattery, SUBCO Founder and Co-Chief Executive Officer.\n\nThe co-CEO noted that APX Eat-2, connecting Guam and Los Angeles, is vital for trans-Pacific digital traffic and expects the system to be incredibly popular. Similarly, APEX West is important for resiliency and interconnection at hubs in Batam and Jakarta.\n\n“Singapore and Indonesia remain critical to Asia’s connectivity landscape, and their strategic importance will only grow as bandwidth demand accelerates, and new interconnection hubs are needed to deliver greater flexibility and route diversity. We are building as much of that as possible into our system design and making that available to our cornerstone customers through APX West,” said Slattery.\n\nThe company announced in June that its SMAP cable system connecting Sydney, Melbourne, Adelaide, and Perth was ready for service. The 5,000 km cable features 16 fiber pairs and delivers more than 400 Tbps of capacity.",
-      "content_url": "https://w.media/subco-eyes-2029-completion-for-three-new-indo-pacific-cable-systems/"
-    },
-    {
-      "id": "2026-09-25-94c4d7",
-      "title": "Thai bill proposes data center licensing, environmental & health impact assessments",
-      "summary": "A Thai MP has tabled a draft bill that would introduce mandatory licensing for data centres plus environmental and community health impact assessments for all projects. Operators would need approval from the Ministry of Digital Economy and Society before building or expanding.",
-      "why_it_matters": "If enacted, Thailand would move from one of Southeast Asia's most permissive regimes to a structured approvals process, adding time and uncertainty to project timelines. Established operators with compliant facilities gain an advantage over new entrants rushing to market.",
-      "score": 80,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "regulation",
-        "policy",
-        "licensing",
-        "environment"
-      ],
-      "published_at": "2026-09-23T09:55:40Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "W.Media",
-          "url": "https://w.media/thai-bill-proposes-data-center-licensing-environmental-health-impact-assessments/",
-          "type": "rss"
-        }
-      ],
-      "content": "A Thai member of Parliament has recently introduced a draft bill proposing sweeping changes to its data center rules, including requiring licensing, and environmental and community health impact assessments on all data center projects, according to local reports. If passed, operators would need to obtain a licence from the Ministry of Digital Economy and Society, locate their facilities in areas zoned for factories, must be a Thai-registered company, and provide a guarantee when applying for a licence.\n\nThe proposals, which were introduced by MP Supachai Jaisamut, seek to regulate digital infrastructure pertaining to project locations, environmental and health impact assessments, electricity and water supplies, and data sovereignty, with key numerical thresholds to be specified later in secondary legislation.\n\nThe public including operators, users of services and affected communities are invited to contribute their views thru to 15 October.\n\nWith the aim of protecting Thai resources, the draft bill requires high usage data centers to either generate their own electricity, buy directly from licensed private power producers, or a combination of both.\n\nSimilarly, data centers with high water consumption must have sufficient water from their own sources, without using public sources. They must also keep heat released and noise pollution within limits to be prescribed by the minister.\n\nThe draft requires operators that collect, store, process or hold in custody Thai nationals’ personal data, data of Thai-registered entities, or information of government departments, public organisations and other state agencies, to store those data in Thailand, with strict conditions for any transfers outside of the country.\n\nOperators must also ensure Thai nationals make up at least half of all personnel performing system supervision duties, as well as use minimum prescribed local content for their materials and equipment.\n\nThe penalty for operating without a licence is imprisonment for up to five years, a fine of at least THB10 million, or both, as well as an additional fine of up to THB1 million a day as long as a licence is not obtained. An operator which fails to store Thai nationals’ personal data in Thailand could face up to three years’ imprisonment, a fine of at least THB6 million, or both.\n\nExisting operators have up to 180 days from the date the law comes into force (ministerial licensing regulations) to apply for a licence.",
-      "content_url": "https://w.media/thai-bill-proposes-data-center-licensing-environmental-health-impact-assessments/"
     },
     {
       "id": "2026-09-25-b25e86",
