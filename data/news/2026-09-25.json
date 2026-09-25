@@ -1,24 +1,424 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T03:33:46Z",
+  "generated_at": "2026-09-25T03:49:56Z",
   "hot": [
-    "2026-09-25-78473c"
+    "2026-09-25-7f62e5",
+    "2026-09-25-b5c1e5",
+    "2026-09-25-993f75",
+    "2026-09-25-5d93f0",
+    "2026-09-25-ae085f"
   ],
   "stories": [
     {
-      "id": "2026-09-25-78473c",
-      "title": "TICA Data Center Capabilities Fully Upgraded with Three Milestones Landed on the Same Day",
-      "summary": "TICA announced that its data center capabilities have been comprehensively upgraded, with three separate milestones formally achieved concurrently on the same day. The simultaneous completion of all three milestones marks a step change in the company's infrastructure and service delivery rather than a gradual rollout. Details of the individual milestones were not disclosed in the announcement.",
-      "why_it_matters": "For TICA's customers and partners, bunding three milestones into a single-day announcement signals accelerating execution and a broader capacity or capability footprint, which could translate into more competitive service offerings in the APAC data center market. Competitors and colocation buyers will be watching whether this translates into new capacity coming online or higher-tier certifications that expand the addressable customer base.",
+      "id": "2026-09-25-5d93f0",
+      "title": "SoftBank Group plans record sales of high-yield bonds to invest in OpenAI",
+      "summary": "TOKYO/LONDON -- SoftBank Group plans to raise a record $11.1 billion through the sale of dollar- and euro-denominated corporate bonds with low ratings but yields of up to 9.75%, the Japanese…",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 2,
+      "regions": [
+        "japan",
+        "global"
+      ],
+      "topics": [
+        "investment",
+        "ai",
+        "funding"
+      ],
+      "published_at": "2026-09-25T03:49:56Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/finance/softbank-group-plans-record-sales-of-high-yield-bonds-to-invest-in-openai",
+          "type": "rss"
+        },
+        {
+          "name": "Nikkei Asia — data center search",
+          "url": "https://asia.nikkei.com/business/finance/softbank-group-plans-record-sales-of-high-yield-bonds-to-invest-in-openai",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "SoftBank Group",
+        "OpenAI"
+      ],
+      "content": "TOKYO/LONDON -- SoftBank Group plans to raise a record $11.1 billion through the sale of dollar- and euro-denominated corporate bonds with low ratings but yields of up to 9.75%, the Japanese technology investment company announced Thursday.\n\nFinance\n# SoftBank Group plans record sales of high-yield bonds to invest in OpenAI\n\nRates of up to 9.75% attract investors even as caution grows on AI debt\n\nThe massive bond sale by SoftBank Group is part of a growing trend toward AI-linked junk bonds, giving some investors pause. © Reuters",
+      "content_url": "https://asia.nikkei.com/business/finance/softbank-group-plans-record-sales-of-high-yield-bonds-to-invest-in-openai"
+    },
+    {
+      "id": "2026-09-25-b8542e",
+      "title": "US and China agree to extend trade truce until January: Bessent",
+      "summary": "Two-month extension follows 'very productive talks,' Treasury secretary says",
+      "why_it_matters": "",
       "score": 40,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "regulation",
+        "trade",
+        "chips"
+      ],
+      "published_at": "2026-09-25T03:49:56Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-and-china-agree-to-extend-trade-truce-until-january-bessent",
+          "type": "rss"
+        }
+      ],
+      "content": "Trump-Xi Summit\n# US and China agree to extend trade truce until January: Bessent\n\nTwo-month extension follows 'very productive talks,' Treasury secretary says\n\n U.S. Treasury Secretary Scott Bessent looks speaks to the media at the World Bank on the day of his meeting with Chinese Vice Premier He Lifeng in Washington on Sept. 23.  © Reuters\n\nSTELLA YIFAN XIE and PAK YIU\n\nSeptember 24, 2026 09:31 JST\n\nWASHINGTON/NEW YORK -- The U.S. and China have agreed to extend a fragile trade truce by two months until January, U.S. Treasury Secretary Scott Bessent said on Wednesday as Chinese President Xi Jinping kicked off his first state visit to Washington in over a decade.",
+      "content_url": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-and-china-agree-to-extend-trade-truce-until-january-bessent"
+    },
+    {
+      "id": "2026-09-25-13a392",
+      "title": "Japan's EdgeCortix looks to work with SpaceX on space data center chips",
+      "summary": "PALO ALTO, California -- Japanese government-backed semiconductor startup EdgeCortix has unveiled its latest chip designed for physical AI, with the aim of deploying it not only on factory floors but…",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "data-center"
+      ],
+      "published_at": "2026-09-25T03:49:56Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-edgecortix-looks-to-work-with-spacex-on-space-data-center-chips",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "EdgeCortix",
+        "SpaceX"
+      ],
+      "content": "PALO ALTO, California -- Japanese government-backed semiconductor startup EdgeCortix has unveiled its latest chip designed for physical AI, with the aim of deploying it not only on factory floors but also in space.\n\nSemiconductors\n# Japan's EdgeCortix looks to work with SpaceX on space data center chips\n\nEdge AI startup unveils new product, signs multimillion-dollar deal with Kawasaki\n\nJapanese chip startup EdgeCortix participated in the AI Infra Summit in Santa Clara, California from Sept. 15-17. (Photo by Yifan Yu)",
+      "content_url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-edgecortix-looks-to-work-with-spacex-on-space-data-center-chips"
+    },
+    {
+      "id": "2026-09-25-01828a",
+      "title": "CXMT, SMIC power 620% surge in profits in China's chip industry",
+      "summary": "China's chip sector has posted a 620 percent surge in profits, powered by domestic memory maker CXMT and foundry SMIC. The jump reflects market share gains as Chinese customers accelerate substitution of foreign chips amid continued export controls.",
+      "why_it_matters": "Profitability gives Chinese chipmakers the internal cash flow to fund expansion without heavy state support, entrenching domestic capacity. Global memory and foundry incumbents face a structural competitor that is both subsidised by policy and now commercially self-sustaining.",
+      "score": 70,
       "heat": 1,
       "regions": [
         "china"
       ],
       "topics": [
-        "data center",
-        "cooling",
+        "chips",
+        "ai",
+        "earnings"
+      ],
+      "published_at": "2026-09-25T03:49:56Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/tech/semiconductors/cxmt-smic-power-620-surge-in-profits-in-china-s-chip-industry",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "CXMT",
+        "SMIC"
+      ],
+      "content": "SHANGHAI -- Earnings at Chinese chipmakers have grown more than 600% during the first half, buoyed by the artificial intelligence boom and a national campaign for self-sufficiency.\n\nSemiconductors\n# CXMT, SMIC power 620% surge in profits in China's chip industry\n\nBonanza spills over to chip tool makers Naura and AMEC during first half\n\nChina's AMEC, which saw net profit quadruple in the first half, exhibited at a chipmaking equipment trade show in August. (Photo by Tomoko Wakasugi)",
+      "content_url": "https://asia.nikkei.com/business/tech/semiconductors/cxmt-smic-power-620-surge-in-profits-in-china-s-chip-industry"
+    },
+    {
+      "id": "2026-09-25-bad474",
+      "title": "Singapore to prioritise high-value AI infrastructure as Asean markets play to their strengths: Tan Kiat How",
+      "summary": "No one country in Asean needs to provide all of what the AI ecosystem needs, he adds",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "infrastructure",
+        "policy",
+        "investment"
+      ],
+      "published_at": "2026-09-25T03:49:56Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/singapore-prioritise-high-value-ai-infrastructure-asean-markets-play-their-strengths-tan-kiat-how",
+          "type": "html-list"
+        }
+      ],
+      "content": "No one country in Asean needs to provide all of what the AI ecosystem needs, he adds\n\n[SINGAPORE] Singapore will focus on maximising the value of its artificial intelligence infrastructure rather than simply maximising computing capacity, as South-east Asian markets play to their respective strengths, said Senior Minister of State for Digital Development and Information Tan Kiat How.\n\n“Our ambition is not maximum compute; it is maximum value from compute,” he said in his keynote address at the Asia-Pacific Finance Forum on Wednesday (Sep 23).\n\nHe noted that the future of AI infrastructure in South-east Asia would be regional, rather than having each country to provide the entire ecosystem. “The AI infrastructure race will not be won by megawatts alone. It will be won by how well we connect compute, energy networks, capital and businesses.”\n\nHe added that not every workload needed to sit in Singapore, with Asean as a whole being able to offer the full infrastructure proposition the AI economy needs.\n\nSingapore currently hosts more than one gigawatt of data centre capacity, but faces constraints on power, land and water.\n\n“No single country needs to provide all of it. Some markets will contribute energy and space, while others demand talent and industrial capability,” explained Tan. “Our opportunity is to connect these strengths into a regional system that is more valuable than the sum of its parts.”\n\n## Singapore as a regional anchor\n\nHe said that within the region, Singapore can help make the system “more connected, investable and trusted”, citing the forthcoming Digital Infrastructure Bill (DIB) as an example.\n\nThe Bill, tabled on Sep 8 and expected to pass Parliament in October following a public consultation in July, seeks to strengthen the security and resilience of major cloud services and data centres.\n\nTan noted that the Bill reflects a proactive approach to sustaining digital growth while giving society confidence in its underlying infrastructure by achieving three core objectives.\n\n“First, it establishes clear security and resilience requirements for our largest data centres and cloud providers,” he said. (** See amendment note*)\n\n“Second, it creates a sustainability baseline so that as compute grows, land, power and water are used more efficiently.\n\n“Third, (it creates a framework under which) companies make material green strategic or economic commitments to secure the scarce resources and scarce capacity.”\n\n## Sustainability is key\n\nStronger security, resilience and sustainability requirements support long-term digital growth while giving long-term investors greater certainty, pointed out Tan.\n\n“Around the world, we see data centres becoming more politically salient. Questions are being asked about electricity, water, land, grid capacity and what communities receive in return,” said Tan.\n\nSingapore aims to avoid false trade-offs by addressing these challenges early, he noted.\n\nHe said that the city-state has collaborated with industry players on energy efficiency, tropical data centre standards, cooling technologies, resilience and security.\n\n“(Singapore has) also introduced competitive exercises for new data centre capacity to ensure that scarce resources go to projects offering strong sustainability and broader economic value,” he added.\n\n“Resilience is not simply a regulatory requirement – it is part of the economic infrastructure that allows businesses to digitise with confidence,” he said. “The same is true of sustainability. (It) is not about slowing digital growth; it is what gives us the headroom for disciplined growth.”\n\n*** Amendment note:** This article has been edited for accuracy.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/singapore-prioritise-high-value-ai-infrastructure-asean-markets-play-their-strengths-tan-kiat-how"
+    },
+    {
+      "id": "2026-09-25-b4fb04",
+      "title": "Alibaba to add data centres in Europe, Middle East amid AI push, US-China tech race",
+      "summary": "It is increasingly going head-to-head with Western rivals Amazon and Alphabet in regions beyond Asia",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "hyperscale",
+        "capacity",
+        "investment"
+      ],
+      "published_at": "2026-09-25T03:49:56Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/alibaba-add-data-centres-europe-middle-east-amid-ai-push-us-china-tech-race",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Alibaba"
+      ],
+      "content": "It is increasingly going head-to-head with Western rivals Amazon and Alphabet in regions beyond Asia\n\nALIBABA Group is accelerating its data centre expansion in Europe and the Middle East, propelling its 20 gigawatt (GW) global infrastructure buildout during China’s escalating competition in artificial intelligence chips and models with the US.\n\nThe Chinese e-commerce leader will set up its first cloud regions in Turkey, Finland and the Netherlands over the next 12 months, Alibaba executive Li Feifei said at the company’s flagship Apsara conference in Hangzhou on Wednesday (Sep 23).\n\nThe company will also expand its data centre footprint in Malaysia, Germany, the United Arab Emirates, France and Hong Kong, a move that will boost its ability to provide localised cloud and AI services.\n\nAlibaba’s growth push means it is increasingly going head-to-head with Western competitors such as Amazon and Alphabet in regions beyond Asia.\n\nIts global ambition aligns with Chinese President Xi Jinping’s vision to share the country’s advances with the world, at a time when US President Donald Trump’s administration wants other countries to prioritise the use of US technology offerings and avoid alternatives from China.\n\nAlibaba’s global cloud network spans from Japan to South-east Asia and the Middle East. In recent months, it opened new facilities in Brazil and France, aiming to bring generative AI services to local enterprises.\n\n“We are committed to working closely with our global ecosystem to make AI more scalable, practical and accessible for businesses,” said Li, who serves as chief technology officer and president of international business for Alibaba Cloud Intelligence.\n\nAlibaba kickstarted its annual tech summit in Hangzhou earlier this week, demonstrating its full-stack AI capabilities – just days before Xi embarks on his first state visit to the US in over a decade, with AI at the top of his agenda.\n\nThe company unveiled a new line of AI chips it claims are China’s most powerful and built for frontier-model training. It also said it is training new foundation models with five trillion to 10 trillion parameters, far larger than existing open-weight models.\n\nUnderpinning this hardware-and-software push is a plan to build a 20 GW global data centre network by 2032 – which Citigroup estimates could drive more than US$160 billion in external cloud revenue.\n\nAlibaba is among China’s most aggressive spenders on digital infrastructure, which it views as fundamental to achieving artificial general intelligence.\n\nThe company outlined a US$53 billion, three-year AI investment plan in 2025 and has since indicated that capital spending will continue to rise. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/alibaba-add-data-centres-europe-middle-east-amid-ai-push-us-china-tech-race"
+    },
+    {
+      "id": "2026-09-25-cff4b1",
+      "title": "Apple, armed with new Macs, is taking on Microsoft and Nvidia in a rush to lower AI costs",
+      "summary": "The iPhone maker is pitching the scalability of on-device artificial intelligence models",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "competition"
+      ],
+      "published_at": "2026-09-25T03:49:56Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/apple-armed-new-macs-taking-microsoft-and-nvidia-rush-lower-ai-costs",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Apple",
+        "Microsoft",
+        "NVIDIA"
+      ],
+      "content": "The iPhone maker is pitching the scalability of on-device artificial intelligence models\n\n[SAN FRANCISCO] When Apple’s new desktop computers start shipping on Tuesday (Sep 22), the company’s executives will make an unusual pitch to corporate buyers: They are cheaper than renting data centres.\n\nApple’s upgraded Mac Minis and Mac Studios, which can cost nearly US$20,000 and handle artificial intelligence tasks locally, will go head-to-head against new desktop machines that Nvidia and PC makers are rolling out, expected to be the focus of a Microsoft Windows event in San Francisco in October.\n\nThe new Macs are aimed at more intense AI tasks such as writing code or carrying out complex business work without paying for “tokens” – the fundamental unit of AI computing – from cloud leaders such as OpenAI or Anthropic.\n\nApple hopes its experience squeezing performance out of battery-powered devices such as iPhones will help it take a bite out of Microsoft’s home turf. But this is a steep challenge: Apple has about 4.6 per cent of the enterprise desktop market versus 91.3 per cent for Windows, according to IDC’s Linn Huang.\n\nApple co-founder Steve Jobs was famously ambivalent about enterprise computing because end users could not pick their favorite products. But Apple has found itself in a strong position for AI desktops, thanks in part to a longstanding obsession with saving power.\n\nWhen Apple rolled out its first Apple Silicon chips in 2020, it took two kinds of chips – computing and memory – that were separate in PCs and crammed them together in a unified memory architecture for better battery life.\n\nThat close connection between computing and memory, which Nvidia and others have only recently shifted towards, had the side effect of making Macs good at AI.\n\nApple started selling out of Mac Minis as OpenClaw, an open-source agentic AI tool, took off in markets such as China.\n\nWhile Mac Studios were initially aimed at content creators editing videos or music, Apple has quietly slipped in exotic AI features, such as bespoke chip-to-chip networking called RDMA over Thunderbolt, over the past two years.\n\nAt its launch event in September, Apple showed four Mac Studios strung together to run an AI model with a trillion parameters – a measure of complexity – to find and fix a graphics coding bug.\n\nSuch tasks usually require a data centre, but the stack of Macs runs off one wall outlet.\n\n“Once you have the machine on your desk, you’ve paid for it. And I believe we provide absolutely great value, not only in terms of performance, but cost,” said Johny Srouji, Apple’s chief hardware officer. “There’s no cost per token. You’re just using the machine again and again.”\n\nMicrosoft is chasing the same market for what CEO Satya Nadella calls the “unmetered intelligence” of on-device AI. Nadella has also said that Microsoft plans to roll many of its AI features into a “super app” for Windows.\n\nBut Microsoft’s historic first place in corporate computing meant supporting hardware from a huge range of vendors, which can create more work for Windows developers looking to get the most out of a given chip.\n\nReached for comment, Microsoft said that it has been working with chip partners to streamline AI work with its Windows ML tools, and that features such as RDMA are an active area of investment.\n\nNvidia declined to comment, but at the launch of its new PC chip this summer, CEO Jensen Huang downplayed any intention to compete directly with Apple, saying Nvidia is focused on expanding what Windows PCs can accomplish.\n\nNvidia’s stronghold remains the data centre. Srouji said that Apple is pitching corporate buyers on the idea that on-device AI models developed on its devices can scale up to its priciest Mac Studios or down to its cheapest iPhones and iPads, because their chips share common principles and designs.\n\n“There is so much power you can pump into the data centre,” Srouji said. “We’re offering a variety of products that customers can choose based on their own needs: Which computer, which product do I need? REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/apple-armed-new-macs-taking-microsoft-and-nvidia-rush-lower-ai-costs"
+    },
+    {
+      "id": "2026-09-25-81b553",
+      "title": "Alibaba unveils sweeping strategy encompassing AI models, chips and data centres",
+      "summary": "Alibaba has laid out an integrated strategy combining AI models, self-developed chips and data centre expansion as a single coherent platform play. The announcement frames compute, silicon and software as mutually reinforcing layers rather than separate businesses.",
+      "why_it_matters": "Vertical integration lets Alibaba control costs and supply amid chip export restrictions, reducing dependence on foreign hardware. Competitors without equivalent silicon capabilities may find themselves squeezed on both price and availability of compute.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "hyperscale",
+        "investment"
+      ],
+      "published_at": "2026-09-25T03:49:56Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/alibaba-unveils-sweeping-strategy-encompassing-ai-models-chips-and-data-centres",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Alibaba"
+      ],
+      "content": "The company also set a target for Alibaba Cloud’s global data centre capacity to surpass 20 gigawatts by 2032\n\n[BEIJING] Alibaba Group plans to train a new artificial intelligence model with between five trillion and 10 trillion parameters, chief executive Eddie Wu said on Tuesday (Sep 22) as the Chinese technology giant outlined a sweeping strategy encompassing AI models, chips and data centres.\n\nSpeaking at Alibaba Cloud’s annual Apsara Conference in Hangzhou, Wu said the company’s Qwen team was continuing research into model architecture and data optimisation, with the goal of completing “more complex, longer-horizon tasks” and advancing toward artificial superintelligence, or ASI.\n\nIn a separate statement, Alibaba said its next-generation model, Qwen 4, was currently in training, adding that the upcoming Qwen 4.5 and Qwen 5 series were projected to scale up to five trillion to 10 trillion parameters.\n\nParameters are the variables a model learns during training and are a rough gauge of its size.\n\nAlibaba’s current flagship model, Qwen 3.8 Max, has 2.4 trillion parameters, meaning the planned model would be roughly two to four times larger.\n\nWu said Alibaba’s proprietary M890 AI supernode already handles inference for models above 2 trillion parameters, a capability he said only “a handful of companies globally” possess.\n\nThe Qwen team has made “meaningful progress” on recursive self-improvement, in which models identify their own limitations, design experiments and synthesise data to drive a cycle of self-evolution, he said.\n\nAlibaba also introduced the Zhenwu V900, a next-generation AI chip from its T-Head semiconductor unit, which Wu called the most powerful AI chip in China.\n\nIt delivers three times the performance of its predecessor, the M890, and a single cluster built on it can support up to 500,000 cards for frontier model training and inference, he said.\n\nThe chip is scheduled for mass production and commercial release in the first quarter of 2027, the company said in the statement. The M890 was released in May.\n\nThe company expects “significant growth” in annual AI chip shipments, Wu said.\n\nThe launch comes as Chinese firms race to build domestic alternatives to Nvidia’s processors amid US export restrictions.\n\nWu set a target for Alibaba Cloud’s global data centre capacity to surpass 20 gigawatts by 2032. He said customer demand for AI remained “exceptionally robust” and was accelerating Alibaba Cloud’s revenue growth, but acknowledged that global shortages across the AI data centre supply chain were limiting how fast the company could expand.\n\n“The industry’s mid-to-long-term demand far outpaces our supply capabilities,” he said, adding that Alibaba Cloud would begin bringing its AI supernodes online at commercial scale this quarter.\n\nWu framed the moment as the dawn of an era of “Machine Intelligence” comparable to the Industrial Revolution, predicting machines would eventually produce more than 1,000 times the “thinking” of all humanity, up from less than 3 per cent today.\n\nHe likened AI coding to the light bulb of the electrical age – an early application rather than the breakthrough product.\n\n“The truly groundbreaking products of the machine intelligence era have not yet arrived,” he said. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/alibaba-unveils-sweeping-strategy-encompassing-ai-models-chips-and-data-centres"
+    },
+    {
+      "id": "2026-09-25-d379ec",
+      "title": "Australia's Victoria state bans data centres from residential areas amid growing opposition",
+      "summary": "Victoria has moved to prohibit data centres from being built in residential zones as local opposition to the facilities intensifies. The ban forms part of a broader state response to community concerns about noise, water and grid impacts.",
+      "why_it_matters": "Exclusion from residential-adjacent land shrinks the pool of viable sites and pushes development toward industrial corridors, likely concentrating projects near existing transmission. Community resistance has become a real constraint on APAC data centre growth, not just a planning footnote.",
+      "score": 72,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "regulation",
+        "planning",
+        "data-centers"
+      ],
+      "published_at": "2026-09-25T03:49:56Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/property/australias-victoria-state-bans-data-centres-residential-areas-amid-growing-opposition",
+          "type": "html-list"
+        }
+      ],
+      "content": "Surge in spending on data centres could be as much as A$225 billion, with the majority in the next three years\n\nONE of Australia’s largest states has banned the construction of data centres in residential areas and mandated that they “bring their own renewable energy supply”, as part of a slew of rules aimed at addressing growing community concerns.\n\nThe state of Victoria, home to Melbourne, announced on Tuesday (Sep 22) that while data centres were vital to the economy, they would need to take steps to ensure local water and electricity resources were not significantly impacted.\n\nCentre-left Labor Premier Ben Carroll will require data centres to match new energy demand with additional generation, paying costs for network upgrades. They will also be required to use only recycled or non-drinking water for cooling.\n\nIn addition, data centres will not be allowed in residential areas, with a mandatory buffer zone of 150 m from any houses.\n\nPrime Minister Anthony Albanese has been pushing for national standards for data centres, attempting to balance taking advantage of the boom in demand with appeasing concerns in local communities.\n\nWestpac Banking estimated that the surge in spending on data centres could be as much as A$225 billion (US$160 billion), with the majority in the next three years. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/property/australias-victoria-state-bans-data-centres-residential-areas-amid-growing-opposition"
+    },
+    {
+      "id": "2026-09-25-0f9ed4",
+      "title": "AI traffic reshapes subsea cable networks, drives hyperscaler investments",
+      "summary": "AI-driven traffic growth is pushing hyperscalers to invest in new submarine cables with petabit-class capacity, with Meta among those citing AI workloads as a primary driver. The trend is blurring the line between subsea systems and data centre infrastructure, as owners design cables to land directly at their facilities.",
+      "why_it_matters": "Hyperscaler-controlled cables prioritise their own traffic, gradually displacing the consortium model that underpinned public internet connectivity. Independent carriers and smaller nations may face higher costs or reduced influence over the routes their data travels.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "capacity",
+        "subsea-cables",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-25T02:15:13Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/ai-traffic-reshapes-subsea-cable-networks-drives-hyperscaler-investments/134473266",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "content": "AI-driven data demands are reshaping global subsea cable investments and design, leading to new petabit-capacity projects and a convergence of subsea and data centre infrastructure. Hyperscalers like Meta are leading these investments, citing AI workloads as a primary driver for increased international connectivity.\n\nSelect ETDatacenters as Preferred Choice on Google\n\nHighlights\n\nHyperscalers like Meta invest in petabit-capacity subsea cables for AI demand.\n\nExa Infrastructure and SUBCO launch new cables targeting AI-driven bandwidth growth.\n\nCable and data centre infrastructure converge to optimise international AI connectivity.\n\nAI is now an infrastructure planning standard, influencing capacity deployment decisions.\n\nThe digital infrastructure sector is increasingly citing AI demand as a primary driver for new subsea cable investments, moving beyond traditional internet growth narratives. This shift is evident in recently launched projects designed to accommodate the data-intensive AI workloads expected to dominate the next decade, accelerating existing demand for international connectivity driven by cloud computing, streaming, and enterprise digitalisation.\n\nHyperscalers drive new capacity\n\nHyperscalers are at the forefront of this trend. On 21 September, Meta announced Petal, a 7,000km transatlantic cable connecting the US and France, slated for service in 2029. This project is positioned as the world’s first petabit-capacity subsea cable, delivering 1 petabit per second (Pbps), and the first to deploy multi-core fibre technology at scale. Meta previously linked its Project Waterworth investment to the AI rush, emphasising the need for infrastructure development to prevent future AI growth from straining existing cables. This reflects a broader trend where hyperscalers are becoming direct owners and developers of global infrastructure.Similarly, Exa Infrastructure's 6,552km Exa Meridian cable, linking New Jersey, USA, and the UK with up to 500Tbps capacity, is justified by demand from hyperscalers and cloud providers seeking to support AI-powered bandwidth growth. Australian developer SUBCO also announced three new Indo-Pacific cable systems spanning over 24,000km, explicitly targeting the surge in AI-driven bandwidth demand across the region. Bevan Slattery, founder and co-CEO of SUBCO, commented, \"AI factories are dead without massive subsea connectivity to carry tokens from factory to customer.\"\n\nConvergence of infrastructure\n\nAnother key development is the increasing intertwining of cable infrastructure and data centre infrastructure. Telxius opened a new carrier-neutral, AI-ready landing gateway and edge data centre in Cancun, designed as the landing point for the upcoming Tikal cable while also housing computing resources. Mónica Martínez, CMO at Telxius, described this as a convergence of subsea connectivity, terrestrial networks, and edge infrastructure, enabling lower latency, greater resilience, and faster access to cloud, content, and AI-driven services.Digital Realty also plans a new cable landing station at its LAX12 facility in Los Angeles, which will interconnect with terrestrial networks and offer full landing and powering services for subsea cable systems. This initiative aims to strengthen connectivity between Asia-Pacific and North America, creating a scalable environment for international traffic in the AI era. These projects underscore that as AI workloads become distributed, optimising international connectivity through convergence is increasingly valuable.While AI is a significant factor, not all new subsea cable investment is purely AI-driven. Projects like EllaLink’s deployment of submarine branching units for future connections into Brazil, part of the ‘Mais Conectado’ project, focus on regional development and improving connectivity for underserved communities. Similarly, upgrades to the Africa Coast to Europe (ACE) consortium cable, now exceeding 30Tbps, aim to serve broad demand growth and enhance digital inclusion across Africa, even as AI contributes to overall traffic growth. Ultimately, AI is accelerating demand and becoming an infrastructure planning standard, influencing capacity deployment and positioning the subsea sector as a pivotal backbone for future AI infrastructure.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/ai-traffic-reshapes-subsea-cable-networks-drives-hyperscaler-investments/134473266"
+    },
+    {
+      "id": "2026-09-25-53f746",
+      "title": "Global data centre resistance doubles, India faces policy gap",
+      "summary": "Opposition to data centre construction has more than doubled globally, delaying or blocking projects worth over $130 billion in the US alone. This resistance is driven by concerns over power, water, and land resources.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "regulation",
+        "power",
+        "community-opposition",
         "capacity"
+      ],
+      "published_at": "2026-09-25T02:05:13Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/global-data-centre-resistance-doubles-india-faces-policy-gap/134473147",
+          "type": "rss"
+        }
+      ],
+      "content": "Global opposition to data centre construction has intensified, driven by increasing concerns over power, water, and land availability, leading to significant project delays and cancellations across various regions. In the US, resistance has more than doubled since 2024, impacting at least 75 projects valued at approximately $130 billion, according to Data Center Watch. New York Governor Kathy Hochul signed an executive order pausing state environmental permits for new data centres drawing 50MW or more, with other states also considering moratorium legislation.In Europe, over $42 billion in proposed data centre projects have been delayed or cancelled due to public concern, often through institutional channels rather than street-level protests. Denmark's grid operator has paused new large-scale connection agreements after receiving requests totalling roughly 60GW, nearly nine times the country's peak demand, indicating infrastructure limitations are filtering projects earlier.\n\nThe varying mechanisms of resistance are largely due to procedural access. US zoning and permitting processes, involving numerous local boards, offer frequent opportunities for opposition, while European approvals are concentrated at higher levels. Gulf states, conversely, integrate sustainability into national digital transformation strategies, treating resource pressure as an engineering challenge rather than grounds for adversarial review.India's position is unique; AI data centres do not, per se, require Environmental Clearance under the EIA Notification, 2006, unless they are part of a larger building project exceeding 20,000 square metres or a township development over 50 hectares. This regulatory gap means data centres are often classified as generic building projects, with environmental assessments focusing on dust and drainage rather than long-term power and water consumption, as confirmed by the Ministry of Environment, Forest and Climate Change to Parliament. Policymakers and regulators should review and update environmental clearance frameworks to specifically address data centre resource consumption and environmental impact.In Malaysia, particularly Johor, regulatory responses have outpaced public protest. The state has stopped approving new Tier 1 and Tier 2 data centres and now requires detailed disclosure of power source, water supply, and cooling arrangements at the approval stage. Natural resources minister Nik Nazmi Nik Ahmad indicated that technology companies would face a premium for water and energy, with Johor rejecting about 30 per cent of data centre applications in 2024 due to resource constraints. Developers should monitor global trends in data centre resistance and regulatory responses to anticipate and mitigate similar challenges in the Indian market, particularly regarding community engagement and sustainable practices.This global trend impacts site selection, with rising US construction costs and grid bottlenecks pushing hyperscalers towards markets with less regulatory and social friction. India's build costs, at roughly $6-9 million per MW against a global average of $11 million, combined with current regulatory gaps, present both opportunities and future challenges for data centre development. Data centre operators and investors must proactively assess long-term power and water availability, engaging with utilities and local authorities to secure resources and understand potential future regulatory shifts.\n\n### Divergent Regulatory Responses\n\nThe varying mechanisms of resistance are largely due to procedural access. US zoning and permitting processes, involving numerous local boards, offer frequent opportunities for opposition, while European approvals are concentrated at higher levels. Gulf states, conversely, integrate sustainability into national digital transformation strategies, treating resource pressure as an engineering challenge rather than grounds for adversarial review.India's position is unique; AI data centres do not, per se, require Environmental Clearance under the EIA Notification, 2006, unless they are part of a larger building project exceeding 20,000 square metres or a township development over 50 hectares. This regulatory gap means data centres are often classified as generic building projects, with environmental assessments focusing on dust and drainage rather than long-term power and water consumption, as confirmed by the Ministry of Environment, Forest and Climate Change to Parliament. Policymakers and regulators should review and update environmental clearance frameworks to specifically address data centre resource consumption and environmental impact.In Malaysia, particularly Johor, regulatory responses have outpaced public protest. The state has stopped approving new Tier 1 and Tier 2 data centres and now requires detailed disclosure of power source, water supply, and cooling arrangements at the approval stage. Natural resources minister Nik Nazmi Nik Ahmad indicated that technology companies would face a premium for water and energy, with Johor rejecting about 30 per cent of data centre applications in 2024 due to resource constraints. Developers should monitor global trends in data centre resistance and regulatory responses to anticipate and mitigate similar challenges in the Indian market, particularly regarding community engagement and sustainable practices.This global trend impacts site selection, with rising US construction costs and grid bottlenecks pushing hyperscalers towards markets with less regulatory and social friction. India's build costs, at roughly $6-9 million per MW against a global average of $11 million, combined with current regulatory gaps, present both opportunities and future challenges for data centre development. Data centre operators and investors must proactively assess long-term power and water availability, engaging with utilities and local authorities to secure resources and understand potential future regulatory shifts.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/global-data-centre-resistance-doubles-india-faces-policy-gap/134473147"
+    },
+    {
+      "id": "2026-09-25-2e7c83",
+      "title": "Northern Territory challenges Australia's proposed data centre energy rules",
+      "summary": "The Northern Territory has rejected a proposed national mandate requiring large data centres to fully offset electricity consumption with new renewable generation. Instead, the Territory advocates for dedicated standalone power that could draw on its gas resources, staking out a position at odds with southern states.",
+      "why_it_matters": "The split exposes a deepening rift in Australia's energy policy, with resource-dependent jurisdictions resisting uniform renewable rules. Data centre investors now face divergent requirements depending on location, complicating national-scale planning.",
+      "score": 82,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "power",
+        "regulation",
+        "energy",
+        "sustainability"
+      ],
+      "published_at": "2026-09-25T01:30:30Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/northern-territory-challenges-proposed-australias-data-centre-energy-rules/",
+          "type": "rss"
+        }
+      ],
+      "content": "The Northern Territory Government has rejected a proposed national requirement for large data centres to fully offset their electricity demand with new renewable generation, instead backing dedicated standalone power generation that could be supplied by the Territory’s gas resources.\n\nThe position, set out in a submission to the Senate Environment and Communications References Committee’s inquiry into artificial intelligence and data centres, provides the clearest indication yet that the NT intends to pursue a different energy model for large-scale data centre development.\n\nThe submission says the NT plans to support large data centres with “dedicated standalone power generation”, arguing that this could accelerate development by removing reliance on constrained grid capacity.\n\nIt specifically identifies the Territory’s gas resources alongside its renewable potential as sources of generation for new projects. The NT Government says standalone projects would sit outside the Territory’s regulated electricity system and therefore would not affect electricity prices or reliability for existing consumers.\n\nHowever, this approach contrasts with the federal government’s proposed national standards for large data centres. The federal government’s September consultation paper proposes that large data centres bring forward new renewable generation to fully offset their energy demand, with appropriate firming provided by gas, batteries or hydro.\n\nThe proposed standards would also require data centres to provide demand flexibility and operate in ways that minimise costs for businesses and consumers.\n\nThe NT Government explicitly rejects that requirement. “The NT Government does not support a mandatory requirement for data centre developments to fully offset their electricity demand through investment in additional renewable generation.”\n\nInstead, it argues that the Territory should retain flexibility to develop energy rules appropriate to its own electricity system and investment opportunities.\n\n### Gas positioned as part of the data centre strategy\n\nThe submission goes further in linking data centre development with the NT’s plans for its gas industry.\n\nIt says gas development, including in the Beetaloo Sub-basin, can support the commercial viability of future energy developments underpinning data centre investment.\n\nThe government also argues that “low emissions gas” can play a role in supporting Australia’s renewable energy transition by providing firming capacity as the national energy mix changes. It notes that gas produced in the Beetaloo is subject to emissions-reduction requirements under the federal Safeguard Mechanism.\n\nThe submission does not, however, provide an emissions intensity for the proposed dedicated gas generation or quantify how that kind generation would fit with the federal government’s proposed requirement for data centres to bring forward new renewable generation.\n\nThe NT instead argues that national rules should remain technology-neutral and outcomes-focused, allowing individual jurisdictions to determine the most appropriate pathway for attracting investment while managing local energy, environmental and community considerations.\n\n### A challenge to national consistency\n\nThe distinction matters because the federal government and states and territories have agreed to develop nationally consistent mandatory standards for large data centres. National Cabinet agreed in August that large data centres have material energy, water and land-use impacts and that the federal government would work with states and territories on consistent mandatory standards. The federal government’s current consultation proposes that those standards would complement, rather than replace, state and territory planning, environmental, energy and other approval processes.\n\nThe NT supports national standards in principle, but says they should not be prescriptive. It argues that the Territory’s different energy system, resource availability and development conditions need to be recognised and says national rules should avoid constraining jurisdictional decision-making.\n\nThat leaves an unresolved question over how much flexibility individual jurisdictions will ultimately have once the federal government’s mandatory standards are legislated. For its part, the federal government has said it intends to legislate the national AI standards in early 2027.\n\n### The NT’s broader proposition\n\nThe energy position forms part of a broader argument in the NT submission against a one-size-fits-all approach to data centre regulation. The Territory says existing planning, environmental, water and energy frameworks are sufficient to assess data centre projects and argues that additional Territory-specific approval frameworks are unnecessary.\n\nIt also points to its abundant gas resources and strong solar potential as comparative advantages, while arguing that data centres could provide anchor demand for local energy resources and support economic diversification.\n\nOn water, the NT similarly favours place-based assessment rather than broad national assumptions, saying differences in climate, hydrology and settlement patterns mean the impacts of water-intensive data centres will vary between jurisdictions.\n\nFor data centres that do connect to the NT grid, the government supports arrangements that encourage firming capacity and demand flexibility while preventing additional system-security or reliability costs from falling on other consumers.\n\nThe submission therefore sets out a relatively clear proposition, which will challenge federal rules: national standards for data centres should establish broad outcomes, but individual jurisdictions should retain substantial freedom over how those outcomes are achieved.",
+      "content_url": "https://w.media/northern-territory-challenges-proposed-australias-data-centre-energy-rules/"
+    },
+    {
+      "id": "2026-09-25-ae085f",
+      "title": "Akamai signs USD $11.6 billion deal with Anthropic",
+      "summary": "Akamai has signed a seven-year, USD $11.6 billion commitment with Anthropic, a deal large enough to potentially triple its cloud revenue. The contract highlights how AI inference and training demand is reshaping CDN companies into major cloud infrastructure providers.",
+      "why_it_matters": "AI model providers are becoming anchor tenants for edge and cloud networks, shifting revenue concentration toward a handful of hyperscale AI customers. Akamai's transformation pressures traditional CDN peers to find similar AI workloads or risk being left behind.",
+      "score": 88,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "cloud",
+        "capacity"
+      ],
+      "published_at": "2026-09-24T23:22:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/akamai-signs-usd-11-6-billion-deal-with-anthropic",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Akamai",
+        "Anthropic"
+      ],
+      "content": "Fri, 25th Sep 2026 (Today)\nAkamai has signed a seven-year agreement with Anthropic worth USD $11.6 billion, deepening the companies' cloud infrastructure relationship.\n\nThe agreement is a seven-year contractual commitment that could expand by a further USD $9 billion, bringing its total potential value to about USD $20 billion. It is intended to support Anthropic's growing CPU workload demand using Akamai's distributed cloud infrastructure and software.\n\nThe commitment is one of the largest disclosed customer agreements tied to AI infrastructure demand. It also adds to more than USD $2.8 billion in multi-year Cloud Infrastructure Services commitments Akamai had previously announced across its broader customer base.\n\nUnder the terms, Akamai has issued a warrant to Anthropic tied to the relationship's expansion. The warrant covers the purchase of non-voting convertible Series B Preferred Stock representing 7.7 million shares of Akamai common stock on an as-converted basis, or up to about 5% of Akamai's common stock outstanding, at an exercise price of USD $111.33 per share.\n\nA portion of the warrant, representing about 2% of Akamai's common stock outstanding, is expected to vest in connection with the USD $11.6 billion commitment. The remaining roughly 3% would vest if the agreement expands by up to another USD $9 billion during the seven-year term, with each additional USD $3 billion in cloud services purchases triggering vesting tied to about 1% of Akamai's common stock outstanding.\n\n### Infrastructure demand\n\nThe size of the contract offers a fresh indication of the scale of computing resources being lined up to support AI workloads, particularly as companies seek access to large volumes of CPU-based infrastructure over several years. While public attention in AI infrastructure has focused largely on graphics processors, this agreement is centred on CPU workload growth.\n\nTotal capital expenditure related to the USD $11.6 billion commitment is estimated at about USD $5.5 billion. Akamai also expects an increase of about USD $1.7 billion in capital expenditure in 2026 to secure and pre-purchase critical supply chain components, including memory.\n\nAkamai said the agreement would have no impact on its 2026 revenue guidance, suggesting the contract's financial effect will be recognised over a longer period while near-term spending focuses on preparing infrastructure and securing supply.\n\nThe company operates a distributed network spanning thousands of points of presence. Its cloud platform supports compute from core to edge and is built with diversified hardware for customers building and running applications.\n\n### Strategic terms\n\nThe warrant structure gives Anthropic an equity-linked incentive tied to a larger purchasing relationship. That approach has become more visible in major AI infrastructure agreements as suppliers compete for long-term commitments from model developers and large AI customers.\n\nFor Akamai, the arrangement marks another step in its effort to grow cloud infrastructure revenue beyond its long-established content delivery and security businesses. The company has been investing in cloud services as demand rises for infrastructure that can support AI development, deployment, and related workloads.\n\nAnthropic, one of the best-funded AI model developers, has been expanding its infrastructure partnerships as it seeks the computing capacity needed to train, run, and serve AI systems. The Akamai agreement points to a broader trend of AI companies locking in multi-year access to infrastructure amid tight supply chains for hardware and memory.\n\nDr. Tom Leighton, Co-Founder and Chief Executive Officer of Akamai, commented on the agreement.\n\n\"Anthropic is advancing the AI revolution and we are thrilled they chose Akamai's capabilities for building and operating AI infrastructure at scale,\" said Dr. Tom Leighton, Co-Founder and Chief Executive Officer of Akamai. \"Akamai has an unparalleled reputation for helping our customers achieve their business-critical goals and build the future. Our expanding global footprint, combined with our years of experience serving the world's largest enterprises, positions us to be the infrastructure provider for secure and responsible AI applications and workloads.\"\n\nThe contract also underlines how AI-related infrastructure commitments are reshaping capital spending priorities for cloud and network providers, particularly when providers must secure components well in advance to meet customer demand. Akamai put the estimated capital requirement tied to this commitment alone at about USD $5.5 billion.",
+      "content_url": "https://datacenternews.asia/story/akamai-signs-usd-11-6-billion-deal-with-anthropic"
+    },
+    {
+      "id": "2026-09-25-78473c",
+      "title": "From growth to proof: TICA's data center capabilities fully upgraded with three milestones landing on the same day",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 48,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "data-center",
+        "cooling",
+        "expansion"
       ],
       "published_at": "2026-09-24T21:02:58Z",
       "featured": false,
@@ -32,6 +432,824 @@
       "companies": [
         "TICA"
       ]
+    },
+    {
+      "id": "2026-09-25-6350f5",
+      "title": "Can we power it? Yes we GaN",
+      "summary": "Is the data center industry finally catching up to the promise of gallium nitride?",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "power",
+        "energy-efficiency",
+        "chips",
+        "cooling"
+      ],
+      "published_at": "2026-09-24T17:44:09Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/analysis/can-we-power-it-yes-we-gan/",
+          "type": "rss"
+        }
+      ],
+      "content": "\"I would say 2026/27 will really be when we see GaN ramp into mass production,” proclaims Antoine Jalabert, vice president, GaN division at semiconductor supplier Onsemi.\n\n“When you look at Nvidia’s roadmap, there’s no other way than to use GaN that will allow you to reach those kinds of power densities.”\n\nGaN - otherwise known as Gallium Nitride - is a wide-bandgap material famed for its ability to handle higher temperatures and voltages. It is comprised of gallium, a soft, silvery metal predominantly used in electronics, and nitrogen. The compound material loses much less energy to heat than other materials – such as silicon or silicon carbide – during power conversion, as its electrons are able to move faster.\n\n“Wide bandgap materials have lower losses, which simply means that when they switch on/off, they dissipate less heat, allowing us to bring them to higher frequency,” Jalabert explains. “That helps because when you have a system that works at a higher frequency, especially switch-mode power supplies, the smaller that system can be.”\n\nThe compound has been in the hands of scientists since the early 1930s, but the first GaN-based transistors weren’t developed until the mid-1990s. At present, GaN transistors are largely found in chargers (for everything from your phone to electric vehicles). However, due to the ever-growing power needs of servers, the material is now setting its sights firmly on the data center industry, bringing with it a promise of efficiency, durability, and fast switching capabilities that silicon simply can’t match.\n\nDespite the known benefits of the technology, Jalabert says the adoption of Gallium Nitride has been surprisingly slow, particularly in the data center space where it is likely to have the biggest impact.\n\n“The world has been expecting GaN to ramp into the server and telecom space since we started talking about this technology around 10 – 15 years ago. Why? Because that is where you really need power density. And did it? No. Instead, it ramped somewhere nobody was looking: in charging adapters,“ he laughs.\n\n## Lateral vs. vertical\n\nJalabert’s firm Onsemi, is one of a modest number of companies currently offering GaN-based power semiconductors. Founded in 1999 as a spinoff of Motorola's Semiconductor Components Group, the Scottsdale, Arizona-based Onsemi unveiled a vertical gallium nitride (vGaN) semiconductor offering in October 2025.\n\nUnlike traditional Gallium Nitride, which is built laterally on silicon or sapphire substrates, vertical Gallium Nitride semiconductors have a 3D structure, which enables them to conduct electricity vertically through the GaN substrate.\n\nWhile lateral GaN still has benefits over silicon – chargers containing the compound work incredibly fast, although can sometimes get a bit hot – vertical GaN allows the current to flow through the chip rather than across its surface, meaning you can increase the device's voltage capacity without also having to increase its physical footprint.\n\nOnsemi describes its architecture as ‘GaN-on-GaN’ and has been manufacturing the devices at its fabrication plant in Syracuse, New York, although it is still about a year out from mass production. According to the company, its vGaN technology can handle more than 1,200 volts and has the ability to increase power density for 800V DC-DC converters when deployed in AI data centers.\n\nIn December of last year, the company partnered with GlobalFoundries to develop lateral GaN devices starting at 650V, the top end of what commercially available lateral GaN devices can currently scale to.\n\nWith the world finally catching up to the applications of the technology, when it comes to Gallium Nitride’s position in the data center stack, Jalabert explains that we will not start seeing entire servers become GaN-based, but rather just the transistors or some of the electronic components within power supply units.\n\n“You're not going to replace everything silicon or silicon carbide with GaN, but today, with AI, for example, where we see value with GaN, it's with what we call the high voltage primary side intermediate bus converter.”\n\nTo illustrate this further, he points to Nvidia’s announcement that starting in 2027, the chip giant would be transitioning towards 800-volt direct current (VDC) rack systems and power architectures to support 1MW racks and beyond. As a result, Jalabert says GaN will have a role to play on the primary side conversion, particularly within power supply units where the direct current input will need to be converted to 6V, 12V, and 50V (often referred to as 48V) voltage lines.\n\nWhile he notes that there are still some intermediate stages, below 40V for example, where it doesn’t yet make sense to use GaN, because at that level silicon is still cost-performant, for those wanting to make Nvidia’s 1MW racks a reality, GaN is the only option.\n\nVertical Semiconductor is another company looking to bring vGaN-based semiconductors to the data center masses.\n\nFounded in 2024, the MIT spin-out’s offering is based on research undertaken by the university’s Palacios Group – a “world-leading” GaN research lab. In October 2025, the startup raised $11 million to support the development of its vertical GaN transistors and, at the time, said it would be using the funds to support real-world deployments of the technology for devices from 100 volts to 1.2kV.\n\nSpeaking to *DCD* from the company’s headquarters in Cambridge, Massachusetts, co-founder and CEO Cynthia Liao says Vertical Semiconductor was born out of a need to provide the data center industry with better power conversion delivery solutions.\n\nLiao does not have a power electronics background, but, in 2023, found herself partnered with Vertical co-founders Josh Perozek and Tomas Palacios while undertaking her MBA at MIT. The lab was trying to figure out how to commercialize the GaN power transistors it had developed, and, after speaking with different industry and customer segments, Liao says she noticed that there was an urgent need to confront the upcoming power challenges in the data center market, but no one seemed sure quite how.\n\n“The more we dug into those challenges, the more we realized that vertical GaN is very uniquely suited to solving a lot of those problems at once,” she says.\n\nThe research undertaken by the MIT lab over the course of a decade not only proved that vGaN is “extremely compelling in terms of performance,” but also that the technology could be manufactured at a wafer level using an entirely fabless model, Liao explains.\n\nVertical Semi also differentiates itself from other companies offering vertical GaN by taking the technology to market using an entirely CMOS-compatible approach. Following the 2025 fundraising announcement, the startup said it had already demonstrated its technology on eight-inch wafers using standard silicon CMOS semiconductor manufacturing methods.\n\n“We made these vertical GaN devices in a CMOS fab using silicon tools, and not even state-of-the-art silicon tools, demonstrating that we can not only make this technology highly performant, but also very cost-effective and scalable.\n\n“We are able to go to market in any CMOS tool set,” she adds, “and that could be both 200mm, which is what we're focused on right now, but also in the future for 300mm … and we think that our approach of leveraging great CMOS tools, especially ones that are somewhat out of date at the 200mm level, but making state of the art technology using them is an incredible way to really, truly scale.”\n\nLiao goes on to note that Vertical has also added design features to its offering that have made manufacturing its hardware much more possible, with the company claiming that even its early prototypes have demonstrated performance gains.\n\n“We are working now to scale this with a commercial foundry partner … and while we’re in the early stages, that transfer to a commercial fab will help us to bring this to market and address the data center power challenges.”\n\n## Going for GaN\n\nThat being said, the GaN-based future being promised is not without its challenges.\n\nAlthough Jalabert claims that raw materials are not an issue, it should be noted that gallium is not a material that naturally occurs in a pure form. Rather, it is primarily extracted as a trace byproduct during the industrial processing of bauxite (to make aluminum) and zinc ores.\n\nAdditionally, a February 2026 report from the US Geological Survey noted that the United States has not mined any gallium domestically since 1987. And although China lifted its ban on gallium exports to the US for a 12-month period starting November 2025, the country currently accounts for 99 percent of worldwide primary low-purity gallium production.\n\nBoth Jalabert and Liao acknowledge the current geopolitical state of play. But for Vertical Semi, being a fabless chip company means the startup does not ever interface with raw gallium, instead sourcing gallium epitaxial wafers – wafers which have a layer of gallium nitride grown on the substrate via epitaxy (a type of crystal growth or material deposition).\n\n“We take all that and bring it into a fab, and we do the processing, the design, and the packaging, all those things. So far, we have had no issues with sourcing the native materials,” Liao says.\n\n“Because our approach specifically does not leverage bulk GaN (pure crystal wafers as opposed to GaN that has been grown on substrates like silicon or sapphire), rather we use an engineered substrate that does not have gallium nitride in it, we're not sensitive to price shocks in the raw material. There's actually very little GaN in our vertical GaN devices.\n\n“We've done the modeling around a 1,000x or 10,000x increase in the cost of the raw material, and it has very little impact on our end or on the cost at a per-device level, just because of how little of the material there is in each of our devices.”\n\nMeanwhile, for Jalabert and Onsemi, the biggest challenge facing the company is the epitaxy process. Not only is it a complex undertaking, but the US currently has limited epitaxy capacity, with China unsurprisingly operating the majority of facilities capable of the process.\n\n“This is the challenge,” he says. “This is actually the secret sauce, it's what you hide from your competition – how you’re developing this technique, how to grow your GaN on top of the substrate, because everything else is very close to standard chip manufacturing.”\n\nDespite these potential speed bumps, the road to GaN is paved with good intentions, and interest in the technology is only getting stronger, Liao claims.\n\n“Across the board, whether that's low voltage or high voltage, I would say that as we move towards 100V DC racks and beyond, there's a big recognition that silicon carbide just isn't really sufficient for this purpose, and that's really because of the need to be able to drive, high voltage, high efficiency, and high density at the same time. None of those is less important than the other, because if you can’t do all those things at the same time, then you're having to really change how the rack is being designed.\n\n“My hypothesis is that as technologies like ours and others become more readily available, the market will be ready to bet on the adoption of GaN. And, of course, technology rollout is always dependent on how well we can deliver a solution that meets our customers' needs, so that's what we as an industry on the GaN side need to be laser-focused on. How do we do this both well and reliably, because this is an amazing opportunity for gallium nitride to achieve the impact that it was always meant to achieve.”",
+      "content_url": "https://www.datacenterdynamics.com/en/analysis/can-we-power-it-yes-we-gan/"
+    },
+    {
+      "id": "2026-09-25-52fd2e",
+      "title": "Tech titans including Nvidia's Huang, OpenAI's Altman join Trump, Xi at White House state dinner",
+      "summary": "Long-standing feuds linger between the superpower rivals on issues including trade and Taiwan",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "policy",
+        "regulation"
+      ],
+      "published_at": "2026-09-24T15:10:20Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/global/tech-titans-including-nvidias-huang-openais-altman-join-trump-xi-white-house-state-dinner",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA",
+        "OpenAI"
+      ],
+      "content": "Among those invited are Nvidia’s Jensen Huang and OpenAI’s Sam Altman\n\nLUMINARIES from Wall Street and Silicon Valley joined US President Donald Trump for a state dinner on Thursday (Sep 24) honoring his Chinese counterpart Xi Jinping, in a demonstration of US technological and financial might.\n\nTrump has welcomed Xi with fanfare this week, affording rare state visit honors to a counterpart considered one of America’s biggest industrial and military rivals. The race to dominate in artificial intelligence has emerged as a growing flashpoint, with Chinese companies rapidly closing the gap with US models.\n\nEven as they compete, both governments are agreed on pushing ahead with AI’s development despite mounting concerns over the technology’s impact on jobs, the environment and even the future of humanity.\n\nThursday’s dinner brought together some of the most influential names in that sphere. Xi was seated with Trump at a table with Nvidia’s Jensen Huang, whose best semiconductors the US has banned from being exported to China. Others at that table included Apple’s Tim Cook and Lisa Su of memory chip giant Advanced Micro Devices.\n\nBy contrast, at the banquet Beijing held for Trump earlier this year the American guest of honour was seated exclusively with relatives as well as officials from the US and Chinese delegations.\n\nTreasury Secretary Scott Bessent and other top Trump advisers on trade and the economy, including Commerce Secretary Howard Lutnick, Energy Secretary Chris Wright and US Trade Representative Jamieson Greer, were on the guest list, as was Federal Reserve Chairman Kevin Warsh.\n\nOther invitees on Thursday included tech icons Mark Zuckerberg, Jeff Bezos and Elon Musk as well as OpenAI’s Sam Altman.\n\nTrump’s warm welcome for Xi, however, has also drawn criticism, including from a Republican senator, Roger Wicker of Mississippi, who questioned the administration’s decision to salute China’s leader. As guests arrived on Thursday, protesters near the White House could be heard chanting, including calls to “Free Hong Kong” and “Free Tibet.”\n\nTrump and first lady Melania Trump welcomed Xi and his wife, Peng Liyuan. The US first lady wore what appeared to be a white top with a large bow and black pants, while Peng wore a red long-sleeved dress.\n\nFinance executives on the guest list for the evening included Jane Fraser of Citigroup, Jamie Dimon of JPMorgan Chase, Stephen Schwarzman of Blackstone, David Solomon of Goldman Sachs Group and Mastercard’s Michael Miebach. Other business titans invited included Kelly Ortberg of Boeing and David Ellison of Paramount Skydance\n\nNoticeably absent however was the presence of Chinese business leaders. Xi’s delegation was not expected to include many CEOs, highlighting potential differences in expectations between the countries about the summit, even as Trump said he expected to secure many business deals. Of the more than 130 names on the guest list, only 19 were part of the Chinese delegation – and none were business figures.\n\nBefore the soiree, Trump cast the dinner as the hottest ticket in town, saying “everybody wanted to be there,” and describing the guest list as encompassing “the entire tech world, the entire banking world, and a lot more.”\n\nState dinners are a grand White House tradition for honoring foreign leaders. It is the second such celebration of Trump’s current term, following a dinner in April for King Charles III and his wife, Queen Camilla.\n\nGuests will be served three courses that the first lady’s office described as showcasing “American ingredients with subtle Chinese influence.” It will open with a toast of Schramsberg “Blanc De Noirs,” a California sparkling wine, the White House said. A wine from the vineyard was also served at President Richard Nixon’s groundbreaking visit to Beijing in 1972.\n\nAttendees will be entertained by Christopher Macchio, a tenor who also performed at Trump’s 2025 inauguration, as well as military bands. The decor for the lavish dinner highlighted the colour red, an auspicious colour in Chinese culture, with urns topped with red blossoms and red linens dressing tables also adorned with seasonal dahlias and ranunculus.\n\nWhile expectations for breakthroughs were low going into the summit, the countries will extend a trade truce – that was set to expire in November – until Jan 10, 2027. Trump said before Thursday’s meetings that he and Xi would discuss issues related to security, technology and AI.\n\nXi later told Trump their countries could continue to have a dialogue on AI and jointly guard against misuse of the technology, according to the official Xinhua News Agency.\n\nBoth Trump and Xi cited the long history of US-China ties and what they cast as a friendship that has endured – remarks that resonated following a turbulent stretch in the relationship between the two nations.\n\nThe US president in his toast said the two countries had “never gotten along better since the first trade ships from New York left the harbor to arrive on the banks of the Pearl River,” and expressed optimism that they could both find “prosperity and security for future generations.”\n\nXi referenced the cooperation between the US and China during World War II, noting that the Chinese people rescued hundreds of American pilots at the cost of many lives. “Such a friendship, forged in blood and fire, will surely live on through the generations,” he said.\n\nTrump’s efforts to ban three news organisations also affected coverage of the summit. Even after the White House restored access to the outlets, though, the White House did not say publicly if it planned to reinstate CNN to a rotating pool of networks that handle presidential coverage, a sticking point in a media boycott.\n\nThe president had made his anticipation for Xi’s visit clear for months – and regularly cited events such as the state dinner as justification for plans to construct a massive ballroom on the White House grounds. Trump has claimed the White House lacks the space to host such large events.\n\nIn his toast, the president invited the state dinner attendees to visit the still-under-construction ballroom, calling it a “special treat” in honor of Xi’s visit. “You’ll be the first people,” on the ballroom floor, Trump said. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/international/global/tech-titans-including-nvidias-huang-openais-altman-join-trump-xi-white-house-state-dinner"
+    },
+    {
+      "id": "2026-09-25-b5c1e5",
+      "title": "Tower Semiconductor to establish large-scale optical chip hub as part of $4bn Japanese investment pledge",
+      "summary": "Tower Semiconductor has committed to a US$4 billion investment programme in Japan that includes establishing a large-scale optical chip hub. The CEO provided additional detail on expansion plans first flagged earlier in the year.",
+      "why_it_matters": "Optical interconnects are emerging as a key bottleneck for AI clusters, and Tower's hub positions Japan as a manufacturing base for that technology. The investment deepens Japan's semiconductor resurgence beyond leading-edge logic into specialty and photonics.",
+      "score": 78,
+      "heat": 2,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "chips",
+        "investment",
+        "semiconductors",
+        "ai"
+      ],
+      "published_at": "2026-09-24T14:56:43Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/tower-semiconductor-to-establish-large-scale-optical-chip-hub-as-part-of-4bn-japanese-investment-pledge/",
+          "type": "rss"
+        },
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/tech/semiconductors/israeli-foundry-tower-semiconductor-to-make-japan-main-hub-for-optical-chips",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Tower Semiconductor"
+      ],
+      "content": "Tower Semiconductor plans to establish its largest optical chip production hub in Japan, as part of a wider $4 billion investment in the country.\n\nThe move was disclosed by Tower CEO Russell Ellwanger in an interview with Nikkei Asia.\n\nThe Israeli chipmaker already has three manufacturing sites in Japan and originally announced plans to expand its silicon photonics, silicon germanium, and advanced packaging capabilities in July 2026. Tower also operates manufacturing sites in Israel and the US.\n\nAt the time, Tower said the expansion across Japan will help support “rapidly growing long-term customer demand,” substantially increasing the company’s manufacturing capacity. Included in the investment total is $1bn in subsidies from Japan's Ministry of Economy, Trade and Industry.\n\nThe investment will see Tower convert its Arai fab into a 300mm silicon photonics and advanced optical packaging site, while increasing production capacity at Uozu. A new 300mm manufacturing facility will also be established next to the Uozu fab.\n\nThis will allow the chipmaker to produce the equivalent of 45,000 300mm wafers per month in 2029, an approximately 40x increase on production figures from 2025, Nikkei Asia reported. In order to support the expansion, the company will hire around 200 additional workers.\n\nEllwanger told the news outlet that Tower also plans to bring co-packaged optics and its related production technologies to its Uozu facility.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/tower-semiconductor-to-establish-large-scale-optical-chip-hub-as-part-of-4bn-japanese-investment-pledge/"
+    },
+    {
+      "id": "2026-09-25-993f75",
+      "title": "Google takes the AI data centre race to outer space",
+      "summary": "Project Suncatcher aims to put such facilities into space and harness the sun’s energy to power them",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "capacity",
+        "power",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-24T14:27:32Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/google-takes-ai-data-centre-race-outer-space",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/google-takes-ai-data-centre-race-outer-space",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Google"
+      ],
+      "content": "Project Suncatcher aims to put such facilities into space and harness the sun’s energy to power them\n\n[SAN FRANCISCO] At a lab in San Francisco last month, a team of technicians in protective suits and hairnets poked, prodded and inspected a refrigerator-sized satellite commissioned by Google.\n\nFirst, they examined the satellite’s solar panels, which would unfurl in space and face the sun.\n\nThe satellite was then placed on a table and shaken rapidly in a vibration test, to see whether the chips inside would be damaged or the machine would come apart during a journey into space. The technicians painstakingly painted a small line over each screw to help indicate any loosening during the shaking.\n\nThe satellite passed the vibration test, with its screws staying put and the chips remaining intact. James Manyika, Google’s senior vice-president for research, called the results “great”, but he said he still wondered what would happen when the satellite went to space.\n\nThe work was part of an ambitious effort from Google called Project Suncatcher, which aims to put artificial intelligence data centres into space and to harness the sun’s energy to power them.\n\nOn Oct 1, the satellite from the San Francisco lab – which Google has named MVP – is set to become the first step towards that goal by a major tech company. It will be loaded onto a SpaceX Falcon 9 rocket at the Vandenberg Space Force Base near Santa Barbara, California, and then launched into orbit.\n\nGoogle provided *The New York Times* with the first inside look at the project, which seemed like a science-fiction dream just a year ago.\n\nElon Musk, Jeff Bezos, Sam Altman and others have pledged support for orbital data centres, but the idea faces many challenges, including withstanding radiation in space and the costs of getting machines beyond the atmosphere. Yet as data centres grapple with terrestrial opposition and physical limits, having computing facilities float above Earth has become increasingly attractive.\n\nTo be clear, Google is not sending up a full data centre – only an experimental precursor to one. MVP contains four specialised computer chips called “tensor processing units”, which have the computing power of one server in a data centre. The satellite’s solar panels will supply only about 1 kilowatt of power – roughly the amount needed to run a hair dryer – to the chips.\n\nBut that will be enough for Google to test its hardware against the harsh conditions of space. The satellite will answer simple AI queries and operate for a year, though it is set to circle Earth for up to six years. Eventually, it is expected to succumb to Earth’s gravitational pull and burn up as it descends through the atmosphere.\n\nManyika said Google’s expectations for the satellite were tempered.\n\n“We don’t expect, to be perfectly frank, that we’ll have anything usefully operational in the next few years,” he said, comparing the mission to the company’s early efforts to build driverless cars. “Remember how Google was researching for like 15 years before anything showed up? I think this is going to look like that.”\n\nExpanding from one satellite to a vast network of them that operate like a giant data centre will take years and enormous funds, said Brandon Lucia, a professor of electrical and computer engineering at Carnegie Mellon University.\n\n“If you do this on a large scale, there are additional engineering problems,” he said. “That is uncharted waters.”\n\nProject Suncatcher was the brainchild of Blaise Aguera y Arcas, 51, a Google vice-president and AI researcher who leads a team studying intelligence. About three years ago, he attended a gathering of entrepreneurs and AI researchers where the main topic was the escalating energy needs of AI systems. Aguera y Arcas left the event convinced that data centres needed to move to space to harness solar power.\n\nThe idea “has been on my mind since I was kid”, he said. “There are long-standing ideas in science fiction about using stars for computation.”\n\nAguera y Arcas soon took the notion to Manyika, who was convinced it would not work but agreed to tests that might determine whether AI chips could be cooled in space and survive the radiation there.\n\nSo in February 2025, Google began taking AI chips to Crocker Nuclear Laboratory in Davis, California. There, an enormous particle accelerator known as a cyclotron, which contains magnets once used in a similar machine during the Manhattan Project, blasted the chips with a radiation dose equivalent to the amount of exposure they would get from five years in space.\n\nRadiation can cause “bit flips”, errors that alter the physics of a circuit to change its binary code from a zero to a one or a one to a zero. These can cause big problems. But the results of Google’s cyclotron tests were promising, with the company finding that restarting the chips could usually reset the bit flips.\n\nIn May 2025, Aguera y Arcas joined a meeting that Manyika had arranged to pitch Sundar Pichai, Google’s CEO, on going further with the project. To his surprise, there was another attendee: Sergey Brin, Google’s co-founder.\n\nBrin and Pichai quickly greenlit the project. “OK, so this is a good idea,” Brin had said, according to Aguera y Arcas. “Let’s talk about how we’re doing it.”\n\nWith their approval, Project Suncatcher accelerated. Google declined to say how much it is spending but estimates that the cost of orbital data centres will become roughly equivalent to terrestrial ones in the mid-2030s, as the price of sending satellites into space decreases.\n\nThe biggest challenge was how to cool the AI chips, which heat up when they perform calculations and process information. Fans, which typically help dissipate the heat, do not work in space. So the Silicon Valley company instead developed a cooling system that uses layers of conductive material to expel the heat into space.\n\nThe bottom layer is made up of Google’s AI chips, which sit on a green motherboard. The next layer consists of “thermal interface material”, a pale green putty that comes in sheets like Fruit Roll-Ups and connects the chips to layers of aluminium and copper, radiating heat away from the motherboard. Finally, there is a radiator panel, which projects heat into space.\n\nThe chips can operate for about 15 minutes in space before needing to be shut down so they can cool off, said Travis Beals, Google’s senior director of product management for Project Suncatcher. During that time, the chips can process short queries so Google’s AI, known as Gemini, can respond.\n\nGoogle is already looking ahead. Next year, it plans to launch a pair of satellites. It also has designs for fleets of more than 80 satellites that will fly in close formation and communicate with one another as they process AI queries. And Google is meeting with designers to potentially build a custom satellite the length of a soccer field.\n\n“If five years from now, everything we’ve done has worked perfectly, it probably means we’ve not taken enough risk and we’ve not learned as much as we could,” Beals said.\n\n“If we’re really successful with this in the long run, this will ultimately be boring, and people won’t think anything of the fact that their Gemini query might be getting served in space.” NYTIMES\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/google-takes-ai-data-centre-race-outer-space"
+    },
+    {
+      "id": "2026-09-25-ad4b4d",
+      "title": "Firmus float managers say the neocloud could be worth up to $128b",
+      "summary": "Major investment banks are increasingly turning their attention to one of the Australian sharemarket’s biggest questions – how much is artificial intelligence infrastructure player Firmus…",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "cloud",
+        "investment",
+        "ipo"
+      ],
+      "published_at": "2026-09-24T02:34:50Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/technology/morgan-stanley-says-firmus-could-be-worth-as-much-as-128b-20260924-p6106d",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Firmus"
+      ],
+      "content": "Major investment banks are increasingly turning their attention to one of the Australian sharemarket’s biggest questions – how much is artificial intelligence infrastructure player Firmus Technologies actually worth?\n\nFirmus rents out its specialised processing chips to large technology companies and is hoping to raise as much as $7 billion in an initial public offering next month. It has appointed Morgan Stanley, Bank of America, JPMorgan and Morgans Financial as lead managers for the float, who will all share in a fee bonanza.\n\nLoading...",
+      "content_url": "https://www.afr.com/technology/morgan-stanley-says-firmus-could-be-worth-as-much-as-128b-20260924-p6106d"
+    },
+    {
+      "id": "2026-09-25-e72d82",
+      "title": "Maas Group's Firmus punt pays off, despite earnings volatility",
+      "summary": "Maas Group is asking investors to overlook short-term earnings uncertainty for massive potential upside from the artificial intelligence boom, as the contractor ties its fortunes to Firmus and its…",
+      "why_it_matters": "",
+      "score": 58,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "cloud",
+        "investment"
+      ],
+      "published_at": "2026-09-24T06:31:05Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/infrastructure/maas-group-s-firmus-punt-pays-off-despite-earnings-volatility-20260924-p6105c",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Maas Group",
+        "Firmus"
+      ],
+      "content": "Maas Group is asking investors to overlook short-term earnings uncertainty for massive potential upside from the artificial intelligence boom, as the contractor ties its fortunes to Firmus and its upcoming sharemarket listing that could value the AI data centre developer at up to $128 billion.\n\nThe Dubbo-based company said on Thursday it was scrapping earnings guidance because the changing nature of its business meant there was too much volatility in its revenue streams. But its shares jumped 8 per cent as the market focused on a $1.2 billion pipeline of work to provide electrical fitouts to data centres, as well as Maas’ 3.2 per cent stake in Firmus.\n\nLoading...",
+      "content_url": "https://www.afr.com/companies/infrastructure/maas-group-s-firmus-punt-pays-off-despite-earnings-volatility-20260924-p6105c"
+    },
+    {
+      "id": "2026-09-25-7e3dd3",
+      "title": "BlackRock, IFM closing in on US$25 bil Asia data centre deal",
+      "summary": "A BlackRock and IFM Investors-backed consortium has entered exclusive negotiations to acquire Stack Infrastructure's Asia-Pacific data centre portfolio, in a deal that could be valued around US$25 billion. The talks follow a competitive auction for Stack's regional assets spanning multiple APAC markets.",
+      "why_it_matters": "If completed, this would rank among the largest data centre transactions in APAC history, underscoring institutional capital's aggressive pursuit of AI-ready capacity in the region. The sale would also redraw the competitive map for hyperscale leasing across Asia-Pacific.",
+      "score": 88,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "korea",
+        "southeast-asia",
+        "australia"
+      ],
+      "topics": [
+        "data-center",
+        "investment",
+        "m-a",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-24T07:48:01Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/819204",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "BlackRock",
+        "IFM Investors",
+        "Stack Infrastructure"
+      ],
+      "content": "(Sept 24): A consortium backed by BlackRock Inc and IFM Investors Pty has entered exclusive talks for a potential acquisition of Stack Infrastructure Inc’s Asia-Pacific data centres, people familiar with the matter said.\n\nThe investor group — which includes the BlackRock-backed Artificial Intelligence Infrastructure Partnership, known as AIP, as well as IFM — is preparing to conduct due diligence on the assets, the people said. A deal could value the portfolio at around US$20 billion to US$25 billion (RM81.5 billion to RM101.9 billion), according to the people, who asked not to be identified because the information is private.\n\nThe suitors aim to reach an agreement soon with Stack’s owner, Blue Owl Capital Inc, the people said. *Bloomberg News* reported previously that Stack was considering a sale of the data centres and that AIP and IFM were among potential bidders. Blue Owl was initially seeking a valuation of more than US$30 billion for the assets, people with knowledge of the matter said previously.\n\nDeliberations are ongoing and talks could drag on or fall apart, the people said. Other suitors may also still be interested in the assets, they added.\n\nData centres and related infrastructure have come to the forefront of dealmaking in Asia, with global funds seeking exposure to a sector and region riding high on AI’s rapid growth. Chinese President Xi Jinping and his US counterpart Donald Trump are meeting this week to discuss issues including AI, with neither showing any intention of slowing down development despite warnings of potential dangers.\n\nAIP’s founders include BlackRock’s Global Infrastructure Partners, Microsoft Corp and Mubadala Investment Co-backed MGX. The group aims to invest in and expand AI infrastructure. Its first deal was a US$40 billion acquisition of Aligned Data Centres announced in October. Nvidia Corp, the Kuwait Investment Authority and Temasek Holdings Pte are also investors in AIP.\n\nRepresentatives for BlackRock, GIP, IFM, MGX, Blue Owl and Stack didn’t immediately respond to requests for comment.\n\nStack’s Apac data centres are in Tokyo, Osaka, Melbourne, Sydney and Johor Bahru in Malaysia, its website shows.\n\n *Uploaded by Magessan Varatharaja*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/819204"
+    },
+    {
+      "id": "2026-09-25-040be9",
+      "title": "HE Group bags RM124m electrical works subcontract for Johor data centre",
+      "summary": "HE Group Bhd (KL:HEGROUP) has secured a subcontract worth about RM124 million to supply, install, test and commission the main electrical works for a data centre in Johor.",
+      "why_it_matters": "",
+      "score": 62,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "data-center",
+        "construction",
+        "power",
+        "malaysia"
+      ],
+      "published_at": "2026-09-24T05:41:52Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/819182",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "HE Group"
+      ],
+      "content": "KUALA LUMPUR (Sept 24): HE Group Bhd (KL:HEGROUP) has secured a subcontract worth about RM124 million to supply, install, test and commission the main electrical works for a data centre in Johor.\n\nThe contract was awarded to its wholly owned unit Hexatech Engineering Sdn Bhd by an unnamed engineering, procurement and construction management (EPCM) company, the electrical engineering services firm said in a bourse filing on Thursday.\n\nHE Group said the EPCM company is a Malaysian-incorporated private company that is foreign-owned and specialises in construction, civil engineering and offshore oil and gas.\n\nThe subcontract commenced upon acceptance and is scheduled for completion on March 27, 2028, it said.\n\nThis is HE Group’s second contract secured in September.\n\nOn Sept 10, the group secured a purchase order worth an estimated RM25 million for power distribution system works for a manufacturer of NAND flash memory products in Malaysia.\n\nShares of HE Group rose four sen or 3.8% to RM1.09 on Thursday, giving the company a market capitalisation of RM479.6 million.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/819182"
+    },
+    {
+      "id": "2026-09-25-1ce323",
+      "title": "Victoria, Australia, proposes rules requiring data centers to secure own renewable energy supply",
+      "summary": "The Victorian government has proposed new rules that would require data centres to secure their own renewable energy supply, alongside measures to curb cost shifting to other electricity customers and limit excessive water use. The framework aims to prevent data centre growth from inflating household and business energy bills.",
+      "why_it_matters": "Operators face a new compliance burden: self-procured renewables will become a cost of doing business in Victoria, favouring large players with capital and green energy procurement expertise. The rules also signal that community concerns about grid and water impacts are now shaping policy.",
+      "score": 82,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "regulation",
+        "power",
+        "renewable-energy",
+        "sustainability"
+      ],
+      "published_at": "2026-09-24T10:46:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/victoria-australia-proposes-rules-requiring-data-centers-to-secure-own-renewable-energy-supply/",
+          "type": "rss"
+        }
+      ],
+      "content": "The southeastern Australian state of Victoria has proposed new rules requiring data centers in the region to secure a renewable energy supply for their operations, among several other requirements.\n\nThe proposal is part of the state's 'Sustainable Data Centre Action Plan,' and sets out a range of new requirements that data centers must adhere to if they want to build in the region.\n\nUnder the proposal, data centers will be required to bring their own renewable energy supply and storage, match new demand with new generation, and cover connection and network upgrade costs. The rules, in effect, seek to make data centers net generators to the grid rather than net users.\n\nIt will also require data centers to use recycled or non-drinking water for cooling. If they are unable to do so immediately, they will be required to offset the water they do use and pay for the infrastructure upgrades needed.\n\nThe new rules will additionally prohibit data centers from being sited in residential areas, such as near schools and childcare centers, as well as in rural areas unable to support them. It will also create a clear buffer zone for new data centers, which will be 150 meters (492 feet) between the building and any residential areas. Furthermore, data centers will be required to have a responsible traffic management plan during construction and operation.\n\nFinally, the rules have several community-focused provisions. These include providing a local investment guarantee wherever they site their facilities. These local benefits, subject to consultation, could include jobs, TAFEs, parks, and more. Operators will also be required to support training for people living in the state, and prioritize hiring in the region over bringing in outside talent.\n\nCommenting on the new rules, the Victorian premier said: “In Victoria, we set the rules – data centers must power themselves, protect homes and pay their way.\n\n“If we get that right, we can all share in their economic benefits, especially the local community.”\n\nThe proposal is the latest to emerge in Australia seeking to push data center operators to deploy more renewable capacity on the local grid. Last month, New South Wales set out a proposal that would require data centers to source at least 40 percent of their energy requirements from wind.\n\nThe federal government also floated plans for new rules that would have required data centers to power a portion of their installations with renewable energy. However, the federal government nixed the renewable energy mandate following objections from two regions.\n\nOne of the objectors, Queensland premier David Crisafulli, said that such a mandate should be the decision of state officials, as they own the whole power system that serves them.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/victoria-australia-proposes-rules-requiring-data-centers-to-secure-own-renewable-energy-supply/"
+    },
+    {
+      "id": "2026-09-25-b0df51",
+      "title": "800 VDC architecture for AI infrastructure",
+      "summary": "What does the shift to 800 VDC mean for AI data center efficiency, resilience, energy storage and power distribution?",
+      "why_it_matters": "",
+      "score": 58,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "power",
+        "ai",
+        "energy-efficiency",
+        "infrastructure"
+      ],
+      "published_at": "2026-09-24T08:11:27Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/whitepapers/800-vdc-architecture-for-ai-infrastructure/",
+          "type": "rss"
+        }
+      ],
+      "content": "AI workloads are placing unprecedented demands on data center power infrastructure, with rack-level power rapidly moving from tens of kilowatts toward 600kW, 1MW and beyond. As power density increases and loads become increasingly dynamic, traditional AC architectures face new challenges around efficiency, resilience, fault management and energy storage.\n\nThis **SPOC Energy** whitepaper examines the practical considerations behind an **800 VDC architecture for AI infrastructure**, exploring how DC distribution, energy storage and power conversion can work together to support higher-density workloads.\n\n### Download to discover how to\n\n- Assess the efficiency and cost implications of 800 VDC distribution architectures\n- Compare two-wire and three-wire approaches for high-power DC distribution\n- Use DC-connected energy storage to manage AI load steps and fluctuations\n- Understand where capacitor-based and distribution-level ESS can provide the greatest value\n- Navigate protection, fault ride-through and arc flash considerations in DC systems\n- Evaluate the role and commercial readiness of solid-state transformers versus hybrid architectures",
+      "content_url": "https://www.datacenterdynamics.com/en/whitepapers/800-vdc-architecture-for-ai-infrastructure/"
+    },
+    {
+      "id": "2026-09-25-1f098e",
+      "title": "Huawei unveils new UnifiedBus computing architecture for SuperPoDs and clusters",
+      "summary": "Huawei has released a new computing architecture that utilizes UnifiedBus to support cluster and SuperPoD interconnect, in order to address booming compute demand",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "infrastructure",
+        "compute"
+      ],
+      "published_at": "2026-09-24T07:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/product-news/huawei-unveils-new-unifiedbus-computing-architecture-for-superpods-and-clusters/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Huawei"
+      ],
+      "content": "In a recent keynote speech on computing architecture innovation at HUAWEI CONNECT 2026, Yang Chaobin, Huawei's executive director of the board and CEO of the ICT Business Group, unveiled new details about the UnifiedBus interconnect architecture.\n\nHe also announced a series of computing products Huawei has recently built based on this architecture, and explained how the company has collaborated with open-source communities to enable application innovation by customers, partners, and developers.\n\nIn a traditional computing architecture, resource utilization declines as a cluster scales. As little as 20% of a 100,000-NPU cluster's computing capacity is actually utilized by models, with a vast amount of compute sitting idle during data communications. A 10 trillion-parameter model, which requires massive amounts of intermediate data to train, far exceeds the capacity of the memory on a single accelerator under traditional architectures.\n\nFurthermore, AI agents can have hundreds of interactions per hour with AI models, which means computing systems need to be able to flexibly utilize changing amounts of central processing units (CPUs) and neural processing units (NPUs). The resulting interactions between these processors also generate KV cache that far exceeds memory capacity, which is driving up demand for data storage across compute systems and tiers.\n\nAll of this means interconnection and communications between components within a cluster have become a key performance bottleneck for computing systems.\n\n**According to Yang, Huawei's solution to this bottleneck is its new computing architecture, powered by the interconnect technology called UnifiedBus, which facilitates collaboration between clusters and SuperPoDs.**\n\nThis architecture has been designed to support the boom in compute demand that is emerging as new agentic applications hit the market. UnifiedBus-powered computing systems have four key features:\n\n- **Unified protocol and memory semantics:** More than 10 interconnect protocols have been combined under the UnifiedBus protocol, which increases interconnect bandwidth from 100 GB/s level to TB/s level and reduces round-trip time (RTT) latency from seven microseconds to two microseconds. This protocol also enables unified global memory addressing within SuperPoDs.\n- **Heterogeneous compute collaboration:** UnifiedBus directly interconnects CPUs, NPUs, memory, and solid-state drives (SSDs) to enable decentralized, peer-to-peer access between them and flexible CPU-NPU mixing. In addition, tiered hardware acceleration for Transformer enables Attention-FFN disaggregation (AFD).\n- **Tiered storage with global pooling:** UnifiedBus uses hybrid-media resource pooling to support the caching of activations. Double Data Rate (DDR) memory serves as the alternative memory for NPUs, reducing latency for search, recommendation, and advertising services, and doubling the performance of vector retrieval for 100 billion-level data items with thousands of dimensions. This also reduces the per-NPU HBM capacity requirements for the training of 10 trillion-parameter models, and improves cluster model FLOPs utilization (MFU).\n- **Optoelectronic interconnect and flexible networking:** UnifiedBus serves as a global ultra-high bandwidth, ultra-low latency \"data highway,\" enabling flexible scaling of compute.\n\nYang then moved on to unveil Huawei's newest UnifiedBus interconnect products that cover interconnection within cabinets, between cabinets, and across clusters. This enables elastic scaling from a single cabinet to a million-NPU cluster.\n\nWithin cabinets, the UnifiedBus LinkBlade eliminates circuit losses with a cable-free design, which reduces copper cabling within a 4,096-NPU SuperPoD by about 196 kilometers.\n\nBetween cabinets, the UnifiedBus LinkDevice supports 176 ports, with 1.6 Tbit/s bandwidth per port, delivering 280 Tbit/s all-optical interconnection. This is the industry's highest-bandwidth, highest-port-count high-speed bus-protocol interconnect device, with an RTT latency as low as 2 microseconds.\n\nAcross clusters, the UnifiedBus UBG switch provides a massive radix fan-out capacity of up to 1,024, meaning it can support a million-NPU SuperCluster and evolution towards supporting tens of trillions of model parameters.\n\n**Yang also launched Huawei's UnifiedBus-powered agentic AI SuperCluster,** which is comprised of TaiShan 950 and Atlas 960 SuperPoDs, OceanStor M900 memory storage, and a Xinghe UBG switch. This cluster enables diverse compute collaboration and tiered resource pooling.\n\nBeyond SuperPoDs, Huawei has also applied the UnifiedBus technology to its compute appliances. The company has developed a new series of UnifiedBus-based appliances (supporting one to eight NPUs) and Kunpeng and Ascend modules. Two Atlas 650E air-cooled servers can be directly linked through UnifiedBus to enable switch-free interconnect across 16 NPUs, so they work seamlessly as a single unit. They can also smoothly scale to form a small-scale SuperPoD that enables small and medium-sized enterprises to run trillion-parameter models locally.\n\nOn the related ecosystem front, Yang said that Ascend is collaborating with open-source frameworks like DeepSeek Harness, OpenCode, and openJiuwen to develop fully open-source intelligent management, inference acceleration, and security framework agent plugins.\n\nAscend has also worked with more than 50 customers, partners, and universities to create 26 industry-specific operator libraries, and has collaborated with over 90 mainstream open-source communities to help partners quickly develop industry-specific agents and integrate them with IT systems.\n\nEmerging AI applications are making compute the cornerstone of industrial intelligent transformation.\n\nYang said: \"Huawei is committed to innovating at the system level, building a computing-foundation product portfolio, and going open source and open system. We will continue working with customers, partners, and developers to help this ecosystem thrive and offer the world a new option for compute.\"\n\nFor more information, please visit HUAWEI CONNECT 2026 online at www.huawei.com/en/events/huaweiconnect\n\n## More from Huawei\n\n- \n                \n    \n# Sponsored Physical and digital infrastructure across deep canyons boosts rural development in GuizhouHuawei and China Mobile will continue to innovate in rural network technologies and provide digital skills training to help more regions bridge geographical and digital divides\n- \n                \n    \n# Sponsored Maximize tokens per watt to power the AI era forwardThe new blueprint for next-generation, grid-interactive AI data centers\n- \n                \n    \n# Sponsored Huawei unveils its grid-interactive AIDC strategy, shaping the future of the industryIn the AI era, data centers are no longer just server rooms. They are super factories that produce tokens",
+      "content_url": "https://www.datacenterdynamics.com/en/product-news/huawei-unveils-new-unifiedbus-computing-architecture-for-superpods-and-clusters/"
+    },
+    {
+      "id": "2026-09-25-7aeca1",
+      "title": "Why Malaysia's internet exchange build-out is moving to the Thai border",
+      "summary": "Open DC is developing an internet exchange at Bukit Kayu Hitam in Kedah, near the Thai border, designed to keep Malaysian and regional traffic from routing through Singapore. Four submarine cable landing stations, two Malaysian and two Thai, lie within reach of the site.",
+      "why_it_matters": "Keeping traffic domestic strengthens Malaysia's internet sovereignty and reduces latency and cost dependence on Singapore's hubs. It also reframes border-region data centres as energy-export infrastructure, leveraging Malaysia's power advantages.",
+      "score": 78,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "internet-exchange",
+        "connectivity",
+        "subsea-cable",
+        "data-centres"
+      ],
+      "published_at": "2026-09-24T06:00:36Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Tech Wire Asia",
+          "url": "https://techwireasia.com/2026/09/malaysia-internet-exchange-thai-border-open-dc-peering/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Open DC"
+      ],
+      "content": "- **Open DC is betting that a Malaysia internet exchange at the Kedah border can keep regional traffic out of Singapore.**\n- **The operator frames data centres as an energy-export business and is pushing cooling-knowledge transfer to local vendors.**\n\nFour cable landing stations sit within reach of Bukit Kayu Hitam in Kedah: two in Malaysia and two across the border in Thailand, at Satun and Songkhla, roughly 50 to 60 kilometres apart on opposite coasts. Traffic arriving at those stations today largely travels to Bangkok, or down to Kuala Lumpur and Singapore, before it can be exchanged.\n\nOpen DC is building an internet exchange at that border on the argument that it should not have to. The company launched D8-1 in the Delapan Special Border Economic Zone after being invited four years ago to replicate, at the northern frontier, the model it had already built in Johor Bahru. The site takes its name from Delapan, the Malay word for eight, because the company wanted something tied to the place, managing director Wong Weng Yew said at a media briefing in Kuala Lumpur on Monday.\n\nThe Johor exchange helped pull Singapore players across the Causeway, Wong said, and the northern project is the same play aimed at Thai and Chinese traffic. Johor also had Singapore’s moratorium and land constraints pushing demand north, which the Kedah project has no equivalent of.\n\nThe company’s parent, Extreme Broadband, is a licensed Malaysian telco that has been selling enterprise connectivity since 2005. That history explains a pitch built on carriers and peering while most of the market talks in megawatts.\n\n### What a Malaysia internet exchange changes\n\nAn internet exchange is a shared point where networks hand traffic to each other directly instead of paying a third party to carry it. Open DC already runs or hosts them at its other sites, including JBIX in Johor and a transport node for DE-CIX Malaysia’s Penang Internet Exchange at PE2, which makes D8-1 a repeat of a model the company has built before rather than a first attempt.\n\nWong described the model in terms of air travel. “What we are doing essentially is like building an airport,” he said, adding that airlines bring passenger traffic into a hub where passengers change flights, and networks do the same with traffic at an exchange.\n\nThe savings come off the transit bill. Leasing a 10G link from Delapan down to Singapore would cost in the region ofRM100,000 a year, Wong said, describing the figure as indicative. Traffic exchanged locally at a northern exchange avoids that line item, and the cost falls further as more networks join and more traffic stays in the north.\n\nWong’s case is that traffic landing at Satun or Songkhla and destined for elsewhere in the region has no technical reason to detour through a hub several hundred kilometres away, which adds both cost and latency.\n\nThe count of carriers inside a facility is what makes that possible, and it is where Open DC’s numbers are unusual. Two carriers are considered good for most enterprise sites, Wong said, while Open DC’s data centres typically carry at least six and JB1 in Johor has more than 15. Tenants can buy connectivity from Chinese, Singaporean, European, Indian and US telcos without leaving the building, a mix he said is almost impossible for other operators to replicate.\n\nThe exchange at D8-1 is not fully live. Wong said a capacity upgrade prompted by demand pushed the rollout back by several months, with a full launch targeted for the end of this year or January. He declined to name the networks waiting to connect, citing non-disclosure agreements. The project was conceived four years ago, which makes the launch a fair measure of how quickly regional traffic shifts once a new exchange opens.\n\n### Complementing rather than competing\n\nThailand has drawn substantial hyperscale investment, and Open DC’s Kedah capacity, at 2MW expanding to 4MW, is not in that contest. Wong said the aim is a connectivity hub serving the wider region rather than a play for the Thai market, and that Thai networks connecting at the border would reduce what they send to Singapore and pay less to do it.\n\nHe made the same argument about Singapore. Cable density concentrated in one small area creates a chokepoint, and northern Malaysian capacity gives networks somewhere to park a second copy of their traffic. “If something happens to the south, the north will carry on,” he said.\n\nOpen DC’s own portfolio runs from JB1 and JB2 in Johor through CJ1 in Cyberjaya to PE1 and PE2 in Penang and D8-1 at the border, a north-to-south corridor Wong said no other operator is developing. More than 90% of its business comes from overseas customers, he said, with a recent surge in East Asian traffic, drawn from a base the company puts at over 300 organisations, including Fortune 500 names.\n\n### Compute as an export\n\nWong put a different frame on what his industry sells, describing it as “an energy export business”. A data centre takes power generated in Malaysia, converts it into compute capacity, and sells that capacity to foreign customers who pay in US dollars.\n\nHe does not expect the industry to keep growing on fossil generation, and said siting capacity in the north lets Open DC tap renewable options there. He put rough numbers on what that would involve, saying that supplying 15% of PE2’s electricity from solar would mean signing a contract with a solar provider worth around RM150 million. He stressed that the company is still debating the level and has not committed.\n\nSolar developers need long tenures to build, and Wong said few buyers are willing to sign a 10-year commitment. He named battery energy storage as a second area where data centre demand pulls research and development into the country.\n\n### Building vendors rather than importing them\n\nOn talent, Open DC’s approach runs through its supply chain. Wong said the company selects local vendors and places them alongside global equipment suppliers, then requires those suppliers to transfer knowledge and train the local firms as part of supplying Open DC.\n\nPrecision cooling is the example he gave. AI workloads impose demanding cooling requirements, and the systems involved are ones local vendors rarely get to work on unless a customer creates the opening. “Hopefully we can sow a seed in the local market that we can grow into a tree of talents in the local communities,” Wong said.\n\nThe financing history suggests why he emphasises local capability. Wong said Malaysian banks were unfamiliar with data centres when Open DC started in 2015, and that one of its first funders was a Singaporean infrastructure fund. Alternative lenders moved before the banks did, and he said many local institutions remain hesitant today.\n\nWhether the Malaysia internet exchange delivers depends on the networks Wong says are waiting.\n\n**Want to learn more about AI and big data from industry leaders?** Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.\n\nTech Wire Asia is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.",
+      "content_url": "https://techwireasia.com/2026/09/malaysia-internet-exchange-thai-border-open-dc-peering/"
+    },
+    {
+      "id": "2026-09-25-492281",
+      "title": "Computing power satellite launched from Jiuquan, China",
+      "summary": "Beijing Enterprise Satellite’s “Super Intelligent Computing 1” computing power satellite was successfully launched into orbit at 12:03 on September 20 aboard the Lijian 1 Yao 18 carrier rocket from the Jiuquan Satellite Launch Center. The satellite is designed to process and analyze data in orbit, reducing the need to send large volumes of satellite data […]",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "chips",
+        "innovation",
+        "compute",
+        "satellite"
+      ],
+      "published_at": "2026-09-24T05:32:18Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/computing-power-satellite-launched-from-jiuquan-china/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Beijing Enterprise Satellite"
+      ],
+      "content": "Beijing Enterprise Satellite’s “Super Intelligent Computing 1” computing power satellite was successfully launched into orbit at 12:03 on September 20 aboard the Lijian 1 Yao 18 carrier rocket from the Jiuquan Satellite Launch Center. The satellite is designed to process and analyze data in orbit, reducing the need to send large volumes of satellite data to ground-based data centers for processing.\n\nAccording to a press release, the satellite is equipped with an on-board intelligent computing processing unit and uses laser communication technology to connect with other satellites and share computing resources. It can perform remote-sensing data processing, AI inference and real-time data analysis in orbit, allowing selected data to be processed before being transmitted to the ground.\n\nLi Peiyang, Chief Technology Officer, Superintelligent Computing, said, “In the past, data collected by satellites needed to be transmitted back to ground data centers for processing, but they faced core pain points such as limited bandwidth for massive data transmission, high ground computing latency, and low data utilization. Now with computing power satellites, satellites have real-time computing, intelligent analysis and collaborative processing capabilities in the sky, thus breaking the lagging operation mode of the past ‘Tiangan Tiansuan’, realizing ‘Tiangan Tiansuan’, and effectively solving problems such as data response delays.”\n\nThe Super Intelligent Computing satellite can carry out remote-sensing big data processing, AI inference and real-time data analysis while in orbit. By processing data before transmission, the system is intended to reduce the volume of data sent to ground stations and shorten the time required to obtain usable results.\n\nThe technology is intended for applications including emergency disaster response, natural resource management, ecological monitoring and marine resource exploration. Super Intelligent Computing also said the technology could be applied to urban governance and ecological monitoring in Beijing.\n\nThe launch is the first step in Super Intelligent Computing’s planned expansion of its in-orbit computing resources. Super Intelligent Computing will steadily advance the large-scale layout of “Super Intelligent Computing Constellation”, continue to expand on-orbit computing power resources, optimize the layout of spatial nodes, create a world-wide collaborative comprehensive network and accessible three-dimensional intelligent computing network.",
+      "content_url": "https://w.media/computing-power-satellite-launched-from-jiuquan-china/"
+    },
+    {
+      "id": "2026-09-25-7f62e5",
+      "title": "Vocus plans 4,000km Brisbane-Darwin fibre route",
+      "summary": "Vocus has announced a 4,000-km ducted fibre route linking Brisbane, Townsville and Darwin, with service expected by 2030. The project is the second under the Australian Digital Infrastructure Platform and takes the initiative beyond the Sydney-Melbourne corridor, with route planning and design already underway.",
+      "why_it_matters": "A ducted, carrier-grade route to Darwin creates a new northern connectivity spine, reducing reliance on southern paths for traffic heading to Asia. It also positions Darwin as a more serious interconnection point as cable landings multiply in northern Australia.",
+      "score": 70,
+      "heat": 3,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "connectivity",
+        "fibre",
+        "infrastructure",
+        "ai"
+      ],
+      "published_at": "2026-09-24T04:37:49Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/vocus-plans-4000km-brisbane-darwin-fibre-route/",
+          "type": "rss"
+        },
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/vocus-unveils-brisbane-darwin-fibre-route-for-adip",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/vocus-plans-4000km-brisbane-darwin-fibre-route-for-ai-data-centers/134453679",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Vocus"
+      ],
+      "content": "Australian operator Vocus has announced plans for a 4,000-kilometre ducted fibre route connecting Brisbane, Townsville and Darwin, expanding its Australian Digital Infrastructure Platform (ADIP) beyond the Sydney-Melbourne corridor. The Brisbane-Darwin route is the second project under ADIP and is expected to be ready for service in 2030. Vocus has begun route planning, technical design and customer engagement, with the network designed to accommodate up to 3,456 fibre cores.\n\nVocus CEO Andrés Irlando said the expansion reflects the increasing infrastructure requirements associated with AI and data centre investment. “Australia is in a period of unprecedented investment in AI infrastructure, data centres, and international connectivity, requiring exponential investment in new terrestrial and subsea fibre networks,” he said.\n\nIrlando said northern Australia was becoming increasingly important for AI, cloud and digital services, with Queensland and the Northern Territory emerging as data centre locations and gateways to Asia and the US.\n\n### Northern extension\n\nThe new route will extend Vocus’s existing northern Australian network, which includes the Darwin-Jakarta-Singapore Cable and North-West Cable System. CTO Nikos Katinakis said the Brisbane-Darwin corridor would provide additional capacity, route diversity and resilience while extending the ducted intercapital design Vocus introduced with its Sydney-Melbourne project.\n\nThat Sydney-Melbourne project, announced in June as the first ADIP deployment, involves approximately AUD 500 million of investment and is scheduled for service in 2029. Vocus said it will support up to 6,912 fibre cores, or 3,456 fibre pairs, using ducted infrastructure that allows additional cables to be installed without further major civil works.\n\nVocus has subsequently appointed UGL as development partner for the Sydney-Melbourne project, with early works covering route surveys, design, engineering, stakeholder engagement and cost modelling. The company has described ADIP as a multi-year programme involving thousands of kilometres of new fibre routes, thousands of fibre pairs and hundreds of terabits of additional capacity.\n\n### Global link\n\nThe Brisbane-Darwin announcement also comes as Vocus expands its role in northern Australia’s international connectivity. Environmental filings reported by W.Media in July identified Darwin, Townsville and Karumba as proposed Australian landing locations for Meta’s Project Waterworth subsea cable, with Vocus responsible for environmental survey work associated with the proposed route.\n\nThe planned Waterworth alignment includes approximately 5,360km within Australian waters and would create new international cable landing points at Townsville and Karumba if the project proceeds.\n\nThe relationship between the two developments is not spelt out by Vocus in the latest announcement, and the Brisbane-Darwin project is a separate terrestrial network. However, the overlap in geography is notable: the new terrestrial route will connect Brisbane, Townsville and Darwin, while the proposed Waterworth infrastructure would establish subsea connectivity at Townsville and Darwin.\n\nVocus has positioned ADIP as a response to projected growth in Australian data centre and AI infrastructure. The company says commissioned market research indicates Australian data centre capacity could triple by 2030, with AI workloads expected to account for most future long-haul fibre demand. It also says existing fibre corridors are approaching higher utilisation as connectivity requirements increase.\n\nVocus said the Brisbane-Darwin project is currently in its early works phase. The operator has not disclosed the expected capital cost of the project.",
+      "content_url": "https://w.media/vocus-plans-4000km-brisbane-darwin-fibre-route/"
+    },
+    {
+      "id": "2026-09-25-3e5763",
+      "title": "Intel Malaysia expands advanced packaging as AI chips grow more complex",
+      "summary": "Intel is scaling up its Penang advanced packaging operations in Malaysia to handle the increasingly complex task of assembling multi-chiplet AI processors. The company says the expansion requires a larger pool of semiconductor and AI engineering talent in the country.",
+      "why_it_matters": "Advanced packaging has become a critical chokepoint in AI chip supply, and Malaysia is positioning itself as an indispensable node in that chain. The expansion strengthens Malaysia's role in the AI hardware ecosystem but also sets up a regional talent competition.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "semiconductor",
+        "ai",
+        "manufacturing"
+      ],
+      "published_at": "2026-09-24T04:00:20Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Tech Wire Asia",
+          "url": "https://techwireasia.com/2026/09/intel-malaysia-advanced-packaging-ai-chips/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Intel"
+      ],
+      "content": "- **Intel Malaysia expands Penang advanced packaging for AI chips.**\n- **Intel Malaysia needs more semiconductor and AI talent.**\n\nIntel is expanding its advanced packaging capabilities in Malaysia as AI processors become larger and more complex, increasing the manufacturing demands involved in combining multiple chiplets into complete systems.\n\nIn an exclusive interview with *Tech Wire Asia*, Lee Wei Chern, Vice President, Intel Foundry; General Manager, Intel Assembly Test Manufacturing; and Managing Director, Intel Malaysia, said advanced packaging is becoming increasingly important as chipmakers move towards more complex system designs.\n\n“Advanced packaging has become a critical differentiator in the AI era,” Lee said. “As AI systems scale, the challenge is no longer just about producing individual chiplets but integrating them into complete systems that deliver the bandwidth, power efficiency and reliability that customers expect.”\n\n### Packaging more complex AI chips\n\nAs AI chip packages grow larger and combine chiplets made using different process technologies, assembly and test operations have to manage multiple manufacturing challenges within the same system.\n\nLee said Intel is working on technologies including EMIB-T, glass substrates and manufacturing processes designed to support larger form factors and higher performance.\n\n“There is no single challenge when scaling to larger and more complex heterogeneous integration packages,” Lee said. “Thermal management, yield, interconnect and power delivery, and architecture co-design are all critical areas we focus on to ensure we deliver products with the right quality and reliability.”\n\nAdvanced packaging is also becoming an entry point for some customers working with Intel Foundry. Lee said customers are evaluating packaging technologies that allow chiplets made using different process technologies to be integrated into complete systems.\n\n“Advanced packaging is increasingly becoming a strategic entry point for customers,” Lee said. “It creates opportunities to deepen relationships and support a broader range of foundry requirements as customers move toward more complex, system-level designs.”\n\nAssembly Test Manufacturing remains part of that process, handling the manufacturing steps needed to deliver the final packaged product.\n\n### Penang expands its manufacturing role\n\nIntel’s new advanced packaging facility in Penang, scheduled to begin operations this year, will expand the company’s manufacturing capabilities in Malaysia.\n\nIntel has operated in Malaysia for more than five decades, with the country serving as one of its assembly, test and manufacturing locations. The Penang expansion adds advanced packaging to those existing capabilities.\n\n“The new Penang facility represents the next phase of that journey,” Lee said. “It expands our capabilities across advanced packaging, assembly, test, research and design.”\n\nAccording to Lee, the facility will support end-to-end advanced packaging manufacturing. Wafers produced at multiple fabrication plants will be brought into the facility before finished products are shipped out.\n\nThe expansion will also allow Intel Malaysia to handle more advanced products and technically complex manufacturing workloads alongside its existing operations.\n\n“It positions Intel Malaysia to support more advanced products and increasingly sophisticated manufacturing workloads,” Lee said.\n\nMalaysia has spent decades building its semiconductor manufacturing base around areas including assembly and testing. The country is also seeking to develop more capabilities in areas such as advanced packaging and chip design.\n\nLee said the country already has manufacturing experience and an established semiconductor ecosystem, but further development is needed in engineering and research capabilities.\n\n“The next step is building deeper capabilities in talent, research and innovation, particularly in advanced packaging, design enablement, automation, materials science and manufacturing analytics,” Lee said.\n\n### Semiconductor talent requirements are changing\n\nThe skills required by Intel’s manufacturing operations are also changing as semiconductor production incorporates more automation, data analysis and advanced engineering.\n\nLee said Intel increasingly requires workers who can combine semiconductor knowledge with expertise from other technical disciplines.\n\nKey areas include integrated circuit design and validation, advanced packaging process development, systems engineering, test engineering and reliability. Intel is also seeking capabilities in data analytics, machine learning, AI software, cybersecurity, robotics and manufacturing automation.\n\n“The hardest skills to find are often at the intersections — engineers who can connect semiconductor domain knowledge with data science, statistics and AI to improve areas such as yield analysis, predictive maintenance and supply-chain optimisation,” Lee said.\n\nAddressing those gaps requires greater exposure to areas including semiconductor device physics, design for manufacturability, packaging, testing and validation, according to Lee.\n\nIntel works with Malaysian universities including Universiti Sains Malaysia and Universiti Malaysia Perlis on areas such as advanced packaging research and curriculum development. The company has also expanded partnerships with Tunku Abdul Rahman University of Management and Technology and Multimedia University around AI skills.\n\n“Courses, internships, cooperative education programmes and joint laboratories can give students earlier exposure to real tools, datasets and workflows,” Lee said.\n\n### Malaysia’s place in a diversified supply chain\n\nIntel’s manufacturing network also operates against a backdrop of export controls, geopolitical tensions and semiconductor companies diversifying production across multiple locations.\n\nLee said semiconductor supply-chain resilience requires companies to balance efficiency with stability and flexibility across their manufacturing networks.\n\n“A resilient semiconductor supply chain balances efficiency with stability and flexibility,” Lee said. “It is geographically diversified, transparent and able to respond quickly to changing conditions.”\n\nHe said trust within the semiconductor supply chain depends on consistent quality, security, traceability and manufacturing integrity throughout the product lifecycle.\n\nLee said Malaysia’s established semiconductor ecosystem, workforce and integration into global supply chains give the country a role within a geographically diversified manufacturing network.\n\nLooking ahead, Lee said Intel Malaysia’s progress should be assessed by the capabilities and responsibilities it develops within the company’s global operations rather than investment or employment figures alone.\n\n“I would like to see Malaysia recognised as a centre of excellence for advanced packaging, manufacturing innovation, automation and engineering leadership,” Lee said. “That means developing world-class talent, deploying next-generation manufacturing technologies and taking on increasingly critical global responsibilities.”\n\nLee also pointed to collaboration with universities, suppliers, startups and other industry participants as part of that development.\n\n“If Malaysia becomes a place where advanced technologies are developed, industrialised and scaled for the world, that would mark a successful next chapter not only for Intel Malaysia, but for Malaysia’s role in the global semiconductor ecosystem,” Lee said.\n\n**Want to learn more about AI and big data from industry leaders?** Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events, click here for more information.\n\nTech Wire Asia is powered by TechForge Media. Explore other upcoming enterprise technology events and webinars here.",
+      "content_url": "https://techwireasia.com/2026/09/intel-malaysia-advanced-packaging-ai-chips/"
+    },
+    {
+      "id": "2026-09-25-22edd8",
+      "title": "Data centres face rising cyber threats, regulatory lag",
+      "summary": "Data centre operators globally, including in India, face increasing cyber threats and operational vulnerabilities, necessitating proactive measures beyond current regulations. A lithium battery fire in Delhi disrupted Google Cloud across three Indian metros, highlighting operational resilience challenges.",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "cybersecurity",
+        "regulation",
+        "resilience",
+        "operations"
+      ],
+      "published_at": "2026-09-24T02:35:06Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/operations-resilience/data-centres-face-rising-cyber-threats-regulatory-lag/134449746",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Google"
+      ],
+      "content": "Data centre operators cannot afford to wait for regulation before strengthening cyber resilience, redundancy, and remote access controls, according to Nick Haan, Field CTO at Claroty. Two years after UK data centres were recognised as critical national infrastructure, minimum cybersecurity requirements are still absent, even as infrastructure becomes more vital and a tempting target for cyber threat actors.Not every threat is an accident; data centres are inherently vulnerable due to complex digital and physical systems, high energy demands, and minimal tolerance for downtime. Earlier this year, Russian hacktivist group Killnet breached a French data centre and its backup power supplier, claiming access to 120,000 UPS units and exfiltrating data. Furthermore, a fire at a data centre in Almere, Netherlands, in May disrupted Utrecht University, the Chamber of Commerce, and IBM Cloud. A month later, a lithium battery fire in Delhi triggered an emergency shutdown that knocked out Google Cloud across three Indian metros for a prolonged period.\n\nDespite high physical security, threat actors often target data centres through the cyber layer. Claroty's research across over 174,000 data centre infrastructure devices found that while only 0.4 per cent were directly internet-exposed, 18 per cent were just one hop away, with power distribution units (PDUs) posing the highest risk at 41 per cent. Remote access remains a significant challenge, often managed through ad hoc, disparate systems that create visibility and control gaps. The infrastructure, including DNS servers and domain controllers, requires rigorous security from the outset, not as an afterthought. Third-party contractors further complicate managing potential access points.Operators do not need to wait for new legislation; existing guidance like ISO 27002 and FIPS provides established approaches for individual accounts, logging, and access control, moving beyond shared credentials. The key to real resilience involves interrogating redundancy rather than assuming its effectiveness, ensuring independent systems prevent single points of failure. Claroty's Team82 researchers discovered critical vulnerabilities in Vertiv's widely used Liebert UPS network cards, which could allow an attacker to bypass authentication and remotely issue an \"output OFF\" command, shutting down protected devices. Data centre operators should assess their cyber-physical systems for blind spots and vulnerabilities, particularly concerning remote access and power distribution units. They must also interrogate their redundancy strategies to ensure independent systems and prevent single points of failure, including for backup power and security measures. It is essential to monitor these systems continuously to back resilience claims with evidence.\n\n### Cyber-physical vulnerabilities and remote access issues\n\nDespite high physical security, threat actors often target data centres through the cyber layer. Claroty's research across over 174,000 data centre infrastructure devices found that while only 0.4 per cent were directly internet-exposed, 18 per cent were just one hop away, with power distribution units (PDUs) posing the highest risk at 41 per cent. Remote access remains a significant challenge, often managed through ad hoc, disparate systems that create visibility and control gaps. The infrastructure, including DNS servers and domain controllers, requires rigorous security from the outset, not as an afterthought. Third-party contractors further complicate managing potential access points.Operators do not need to wait for new legislation; existing guidance like ISO 27002 and FIPS provides established approaches for individual accounts, logging, and access control, moving beyond shared credentials. The key to real resilience involves interrogating redundancy rather than assuming its effectiveness, ensuring independent systems prevent single points of failure. Claroty's Team82 researchers discovered critical vulnerabilities in Vertiv's widely used Liebert UPS network cards, which could allow an attacker to bypass authentication and remotely issue an \"output OFF\" command, shutting down protected devices. Data centre operators should assess their cyber-physical systems for blind spots and vulnerabilities, particularly concerning remote access and power distribution units. They must also interrogate their redundancy strategies to ensure independent systems and prevent single points of failure, including for backup power and security measures. It is essential to monitor these systems continuously to back resilience claims with evidence.",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/operations-resilience/data-centres-face-rising-cyber-threats-regulatory-lag/134449746"
+    },
+    {
+      "id": "2026-09-25-4873b0",
+      "title": "Alibaba Cloud targets 20GW data center capacity by 2032 for AI demand",
+      "summary": "Alibaba Cloud plans to exceed 20 gigawatts of global data centre capacity by 2032, a scale comparable to the world's largest hyperscalers today. The buildout is tied to a full-stack AI strategy spanning proprietary chips, cloud infrastructure and foundation models.",
+      "why_it_matters": "A 20GW commitment would make Alibaba Cloud a top-tier global capacity holder and anchor enormous demand for land, power and equipment across APAC over the next decade. It also challenges Western cloud dominance as AI workloads become geopolitically strategic.",
+      "score": 82,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "capacity",
+        "investment",
+        "chips"
+      ],
+      "published_at": "2026-09-24T02:25:15Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/alibaba-cloud-targets-20gw-data-center-capacity-by-2032-for-ai-demand/134449637",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Alibaba Cloud"
+      ],
+      "content": "Alibaba has outlined a comprehensive full-stack AI strategy, aiming to expand its global data center capacity beyond 20GW by 2032 to meet the escalating demand from AI workloads. The initiative encompasses new proprietary AI chips, an agentic cloud platform, and advanced Qwen foundation and multimodal models.At its Apsara Conference, Alibaba Cloud, the company's cloud computing arm, introduced the Zhenwu V900 AI training and inference processor, developed by its chip design unit T-Head. This new accelerator features 216 GB of GPU memory and 1,200 GB/s of inter-chip bandwidth, delivering three times the performance of its predecessor, the Zhenwu M890. The Zhenwu V900 supports FP8 and FP4 data precisions and is slated for mass production and commercial release in Q1 2027. T-Head also revealed a roadmap for next-generation proprietary Yitian CPUs, designed for agentic AI tasks, with a launch targeted for 2027.Alibaba Cloud's infrastructure upgrades include the HPN 8.0 Pro AI networking architecture, offering 100 petabits bandwidth with ultra-low latency, and the Cloud Parallel File Storage (CPFS) system, which provides hundred-terabyte-per-second throughput for AI model training, potentially reducing storage costs by 69 per cent.The company also unveiled updates to its Qwen multimodal model family, including Qwen3.8-LiveTranslate for simultaneous interpretation and Qwen-Audio-3.1-TTS-Next for cinematic soundscape generation. An agentic cloud strategy, built around AI Native Cloud, Agent Native Cloud, and Context Engine, aims to facilitate large-scale model training, enterprise-grade agent deployment, and real-time data context for AI applications.\n\n- AI & Compute Infrastructure\n- 1 min Read\n\n# Alibaba Cloud targets 20GW data center capacity by 2032 for AI demand\n\nAlibaba Cloud aims to surpass 20GW in global data center capacity by 2032, driven by the exponential demand for AI. This expansion is part of a comprehensive full-stack AI strategy, integrating proprietary chips, cloud infrastructure, and models.\n\n- Published On Sep 24, 2026 at 07:55 AM IST\n\n## Highlights\n\n- Alibaba Cloud targets over 20GW global data center capacity by 2032, driven by AI demand.\n- T-Head unveiled Zhenwu V900 AI processor, delivering three times performance of its predecessor.\n- Zhenwu V900 is scheduled for mass production and commercial release in Q1 2027.\n- Alibaba Cloud introduced HPN 8.0 Pro AI networking and CPFS storage for AI workloads.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/alibaba-cloud-targets-20gw-data-center-capacity-by-2032-for-ai-demand/134449637"
+    },
+    {
+      "id": "2026-09-25-ea29cc",
+      "title": "AI's data centre overhaul forcing a network rethink",
+      "summary": "AI training workloads are exposing network bottlenecks that leave expensive GPUs idle between compute steps, driving operators to redesign facilities around lossless Ethernet fabrics. Traditional data centre network architectures built for general-purpose traffic are proving inadequate for GPU-cluster communication.",
+      "why_it_matters": "Networks are now a first-order design constraint, shifting capex toward high-performance switching and specialised fabrics. Vendors of conventional networking gear face displacement, while AI-optimised fabric providers capture a growing share of build budgets.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "networking",
+        "architecture",
+        "capacity"
+      ],
+      "published_at": "2026-09-24T02:25:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/ai-s-data-centre-overhaul-forcing-a-network-rethink",
+          "type": "rss"
+        }
+      ],
+      "content": "Thu, 24th Sep 2026 (Yesterday)\nData centres are at a structural turning point as artificial intelligence reshapes not just compute demand, but the very assumptions underpinning networking and infrastructure design.\n\nWhat was once an incremental evolution of cloud architecture is now a wholesale redesign of how data moves and how systems scale. At the centre of this shift is a simple but increasingly unforgiving reality: AI workloads do not behave like traditional cloud applications.\n\nRather, they are continuous, tightly synchronised, and massively parallel. Instead of isolated requests and responses, modern AI training involves thousands of GPUs exchanging data simultaneously, often across racks and even across facilities.\n\nThe result is a network environment where performance is no longer a background concern, but has a direct impact on business performance.\n\nThe industry has already lived through two major networking eras. The \"north-south\" model of early cloud computing was built around user traffic entering and exiting data centres, with relatively modest internal communication needs.\n\nThat evolved into an \"east-west\" world driven by microservices, where server-to-server traffic inside the data centre became dominant. Now AI has pushed this pattern into overdrive. Internal traffic is no longer just frequent but also constant and highly sensitive to delay. In effect, east-west traffic has become the entire workload.\n\n### 'Pushing the piano'\n\nThe analogy often used inside the industry is that of \"pushing pianos around the office.\" Instead of individual tasks moving independently, thousands of components must co-ordinate large, heavy data movements in lockstep. If one participant falters, the entire group slows.\n\nEven small inefficiencies can cascade into queue buildup, GPU idle time, and significantly higher training costs. With accelerator clusters costing millions of dollars and operating continuously, every second of inefficiency becomes directly measurable in financial terms.\n\nThis is driving a rapid shift in architectural requirements. Oversubscription ratios that were once comfortably designed at 3:1 or 5:1 are now collapsing toward 1:1 models in AI clusters, where every GPU must communicate with every other GPU simultaneously.\n\nBandwidth demands are rising just as sharply, with 400Gbps Ethernet becoming baseline, 800Gbps deployments accelerating, and 1.6Tbps already on the horizon. Traditional \"best effort\" networking is increasingly viewed as insufficient for workloads that require predictable, near-lossless performance.\n\n### An evolving technology mix\n\nTo meet these demands, data centre operators are adopting technologies such as RDMA over Converged Ethernet (RoCE), along with congestion management mechanisms like Explicit Congestion Notification (ECN) and Priority Flow Control (PFC). These tools are designed to minimise buffering and prevent packet drops in environments where even microsecond-level delays can propagate into system-wide slowdowns.\n\nAt a higher level, the balance of compute itself is shifting. The GPU is becoming the primary unit of computation, while the CPU increasingly plays a co-ordinating role. This inversion is reshaping how servers are designed and how networking stacks are integrated.\n\nTechnologies such as SmartNICs and data processing units are offloading networking, security, and telemetry tasks closer to the fabric, reducing CPU overhead and improving synchronisation across distributed workloads.\n\nThese architectural changes are also driving physical transformation. Power densities of 50 to 150 kilowatts per rack are pushing air cooling beyond its limits, accelerating the adoption of direct-to-chip liquid cooling and immersion systems.\n\nNetworking hardware is undergoing a similar transition. Electrical interconnects are reaching their practical limits, accelerating a shift toward optical technologies. Co-packaged optics, which bring photonic interfaces closer to compute units, are reducing both latency and energy consumption, while enabling higher bandwidth density within constrained physical footprints.\n\n### The changing role of the network\n\nIn this emerging environment, the network is no longer passive but is becoming an active participant in workload management. Model updates, fine-tuned weights, and inference optimisation data are now treated as first-class traffic types, alongside traditional application data.\n\nAnd the network is not just a neutral transporter of data. Production-grade AI data centres need to run on a lossless, high-performance network fabric – supporting low latency, preventing oversubscription, and able to deliver east-west bandwidth at scale. Organisations aren't looking for a data centre network, they need an AI fabric, where the network is part of the application itself.\n\nTaken together, these shifts point to three structural changes that define the AI infrastructure era. First, the network now sits directly in the critical path of compute performance and financial efficiency.\n\nSecond, networking systems are becoming adaptive, continuously optimising in response to workload behaviour rather than static configuration.\n\nThird, compute and networking design are converging, with hardware and software increasingly co-designed rather than independently optimised.\n\nThe implication is that future competitiveness will not be determined solely by faster processors or larger clusters, but by how effectively compute and networking are integrated into a unified architecture.\n\nData centres are evolving into tightly coupled, GPU-dominated systems supported by lossless, high-bandwidth optical fabrics, while the edge becomes a distributed extension of the same intelligence layer.\n\nThe trajectory is clear: infrastructure is shifting from general-purpose computing environments into highly specialised AI factories. What once looked like incremental upgrades in speed and capacity is now a fundamental redesign of the digital economy's physical backbone.",
+      "content_url": "https://datacenternews.asia/story/ai-s-data-centre-overhaul-forcing-a-network-rethink"
+    },
+    {
+      "id": "2026-09-25-adc3b2",
+      "title": "AEMC opens consultation on data centre network cost recovery",
+      "summary": "The Australian Energy Market Commission has opened consultation on two rule change requests from Climate Change and Energy Minister Chris Bowen that would have data centres and other large loads pay more directly for the network costs they trigger. The proposals target connection-driven upgrades that are currently socialised across all consumers.",
+      "why_it_matters": "Cost-reflective charging would add a material new expense line for large data centre projects and could reshape site selection toward locations with spare grid capacity. It also answers political pressure over whether AI infrastructure should be subsidised by household power bills.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "power",
+        "regulation",
+        "energy",
+        "network-costs"
+      ],
+      "published_at": "2026-09-24T02:10:25Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/aemc-opens-consultation-on-data-centre-network-cost-recovery/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "AEMC"
+      ],
+      "content": "The Australian Energy Market Commission (AEMC) **has opened consultation on two rule change requests** aimed at making data centres and other large electricity loads contribute more directly to the network costs they cause or accelerate. The requests were submitted by Federal Climate Change and Energy Minister Chris Bowen in July and seek changes to the National Electricity Rules (NER) covering both distribution and transmission connections.\n\nThe AEMC said the consultation comes as the scale and speed of data centre growth is testing existing cost-recovery arrangements. The Commission’s consultation paper says the Australian Energy Market Operator (AEMO) forecasts data centre electricity consumption could rise from about 5 TWh in 2025-26 to around 15 TWh by 2029-30, equivalent to about 8 percent of National Electricity Market (NEM) operational consumption. By 2044-45, the forecast reaches about 41 TWh, or 13.5 percent.\n\nThe AEMC said connecting parties already pay for infrastructure required to facilitate their connections, as well as ongoing charges for use of the shared network. The issue under consultation is whether those arrangements adequately capture the costs and risks associated with the scale of some future large-load connections.\n\nBowen’s requests identify seven potential gaps in the current framework, and the AEMC is seeking views on whether they exist and how material they are.\n\nThese include the possibility that a large load connecting to a distribution network could trigger upstream transmission augmentation costs that are partly recovered from other customers; the risk of network assets being built for projects that subsequently do not proceed or use less capacity than expected; and uncertainty over the treatment of clustered large loads requiring major shared network investment.\n\n### Large loads\n\nThe AEMC is also asking whether there is insufficient public information about existing and prospective large loads to support effective forecasting and network planning, whether transmission-connected large loads should contribute to jurisdictional scheme costs, and whether the rules provide enough guidance around pricing for transmission connection services.\n\nOn jurisdictional schemes, the AEMC notes that the existing NER provides a mechanism for recovering such costs from distribution-connected customers, but no equivalent framework currently exists for transmission-connected customers.\n\nAmong the changes Bowen proposes is a requirement for network service providers to apply prudential requirements to large connections, alongside limits on their ability to recover stranded customer-specific assets from the broader consumer base.\n\nThe proposals would also require network service providers to provide information on existing and prospective large loads to AEMO for a proposed public large-load register. Other measures would make it easier for connection applicants to voluntarily fund, or bring forward, major network augmentations and introduce greater consistency in transmission connection pricing through an Australian Energy Regulator (AER) guideline.\n\n### Cost-recovery\n\nThe cost-recovery consultation is one part of a broader AEMC data centre reform program. The Commission’s earlier advice to Energy Ministers recommended measures covering clean energy procurement, firming capacity, market registration and demand flexibility. AEMO has separately proposed reforms to improve the operational visibility of large inverter-based loads, while further rule changes are expected covering data centre contracting obligations and the connection process.\n\nThe AEMC said it will consider the interlinkages across these reforms, and its consultation paper notes that connection pricing can depend on the registration status of a connection applicant, creating an interaction between the cost-recovery proposals and the operational-visibility reforms.\n\nThe Commission is also coordinating its work with other regulatory processes. These include a forthcoming AER review of distribution connection-charge guidelines, NSW proposals for network cost allocation, and the Federal government’s emerging national standards for new data centres. The AEMC notes that most elements of the NSW proposals are very similar to the solutions proposed in the rule change requests.\n\nThe AEMC expects to publish a draft determination on the two rule changes on 1 April 2027. The Commission says the timetable has been extended because of the complexity of the proposals and their interaction with its wider data centre reform program. Submissions close on 5 November 2026.",
+      "content_url": "https://w.media/aemc-opens-consultation-on-data-centre-network-cost-recovery/"
+    },
+    {
+      "id": "2026-09-25-c251e1",
+      "title": "Schneider Electric launches hybrid data centre cooler",
+      "summary": "Data centre operators can now mix air and liquid cooling in one unit as AI workloads push rack densities higher across facilities.",
+      "why_it_matters": "",
+      "score": 62,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "cooling",
+        "liquid-cooling",
+        "ai",
+        "equipment"
+      ],
+      "published_at": "2026-09-23T21:26:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/schneider-electric-launches-hybrid-data-centre-cooler",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Schneider Electric"
+      ],
+      "content": "Thu, 24th Sep 2026 (Yesterday)\nSchneider Electric has launched a new coolant distribution unit for data centres that combines liquid and air cooling in a single system.\n\nCalled the WCDU, the product is aimed at high-density AI deployments and is designed to work with fan wall air-cooling systems as well as standalone liquid cooling setups.\n\nThe launch adds a larger system to Schneider Electric's Motivair cooling range as operators look for ways to support denser computing equipment without committing too early to one cooling architecture. The unit is intended to let data centre operators shift the balance between air and liquid cooling as workload plans evolve, rather than redesigning a hall from the ground up.\n\nThat reflects a wider market shift as AI infrastructure drives higher rack densities and pushes operators towards liquid cooling. At the same time, many facilities still rely on air cooling in at least part of the hall, creating demand for systems that bridge both approaches.\n\n### Corridor design\n\nThe WCDU was developed for technical corridor deployments, where cooling distribution equipment is installed outside the white space used for IT hardware. Schneider Electric says this arrangement can ease maintenance and free up space inside the data hall.\n\nThe unit uses top-entry connections and is designed with zero lateral clearance, which can simplify installation in space-constrained sites. It also places pumps, heat exchangers and other CDU components within a single steel frame.\n\nIn practice, the WCDU can be integrated with existing fan wall environments or deployed as a standalone unit. That gives operators a retrofit option if they already use fan walls and want to add more liquid cooling to support denser systems.\n\nA single WCDU can provide cooling capacity of up to 3.5MW at 1.5 litres per minute per kW, and 2.5MW at 2.0 litres per minute per kW. Up to 20 units can be linked in group mode, making the system suitable for data halls in the 30MW to 40MW range, according to Schneider Electric.\n\n### Efficiency focus\n\nThe unit supports approach temperatures as low as 2°C and can operate with warmer facility water system temperatures. In data centre cooling systems, lower approach temperatures can improve overall efficiency by narrowing the gap between facility water temperature and the temperature required at the cooling interface.\n\nSchneider Electric says this can improve power usage effectiveness and reduce operating costs across the broader cooling system. The WCDU also includes hot-swappable pumps, pressure-independent control valves, 25-micron filters and a 15-inch touchscreen human-machine interface.\n\nFor sites that need additional backup, configurations up to 2.5MW can be specified with N+1 redundancy. That provides pump and valve backup intended to keep cooling available during maintenance or an unexpected component failure.\n\nThe addition broadens Schneider Electric's liquid cooling portfolio, which now spans CDU systems from 105kW to 3.5MW. The company positions the range as covering row-based, corridor-based and other deployment models.\n\nAndrew Bradner, Senior Vice President of the Cooling Business at Schneider Electric, said the product is designed to support changing data centre layouts.\n\n\"As the only CDU that brings together both liquid and air cooling within a single solution, we're delivering a level of flexibility the market hasn't seen before,\" said Andrew Bradner, Senior Vice President of the Cooling Business at Schneider Electric. \"This approach allows operators to deploy more efficiently, support a wider range of liquid cooling infrastructure configurations, and significantly reduce time to deployment.\"",
+      "content_url": "https://datacenternews.asia/story/schneider-electric-launches-hybrid-data-centre-cooler"
+    },
+    {
+      "id": "2026-09-25-5db2d9",
+      "title": "Mitsubishi Heavy buoyed by brisk gas turbine demand from US data centers",
+      "summary": "NEW YORK -- Mitsubishi Heavy Industries anticipates global demand for gas turbines to remain strong next year, with a surge in American business filling the company's order books, the chief of U.S.…",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "power",
+        "data-center",
+        "turbines",
+        "energy"
+      ],
+      "published_at": "2026-09-23T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Nikkei Asia — data center search",
+          "url": "https://asia.nikkei.com/editor-s-picks/interview/mitsubishi-heavy-buoyed-by-brisk-gas-turbine-demand-from-us-data-centers",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Mitsubishi Heavy Industries"
+      ],
+      "published_precision": "day",
+      "content": "NEW YORK -- Mitsubishi Heavy Industries anticipates global demand for gas turbines to remain strong next year, with a surge in American business filling the company's order books, the chief of U.S. operations tells Nikkei.\n\nInterview\n# Mitsubishi Heavy buoyed by brisk gas turbine demand from US data centers\n\nJapanese company's order backlog at record level, American unit chief says\n\nTakao Tsukui, chairman and CEO of Mitsubishi Heavy Industries America, talks with Nikkei in New York on Sept. 21. (Photo by Mai Ishitsubo)",
+      "content_url": "https://asia.nikkei.com/editor-s-picks/interview/mitsubishi-heavy-buoyed-by-brisk-gas-turbine-demand-from-us-data-centers"
+    },
+    {
+      "id": "2026-09-25-3d1975",
+      "title": "NYSE-listed $98b data centre giant lurks in Stack's APAC auction",
+      "summary": "A New York Stock Exchange-listed data centre company with a market capitalisation near US$98 billion is reportedly among the bidders circling Stack Infrastructure's Asia-Pacific assets. The interest adds a heavyweight strategic contender to an auction already drawing major private capital.",
+      "why_it_matters": "A listed strategic buyer could outbid financial sponsors on synergies, changing the economics of the sale. It would also signal that listed data centre giants see Asia-Pacific as the key frontier for growth as US markets mature.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "australia",
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "mna",
+        "colocation",
+        "data-center"
+      ],
+      "published_at": "2026-09-23T08:56:16Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/street-talk/nyse-listed-98b-data-centre-giant-lurks-in-stack-s-apac-auction-20260923-p60z2k",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Stack Infrastructure",
+        "Equinix"
+      ],
+      "content": "Here’s one lurker that’s gone unnoticed so far in the mix to buy Stack Infrastructure’s $28 billion-plus Asia Pacific data centres business.\n\nDigital Realty, a $US69.9 billion ($98.6 billion) data centre behemoth listed on the NYSE, has been stalking the auction over the past few months, several people briefed on the matter said on the condition of anonymity.\n\nLoading...",
+      "content_url": "https://www.afr.com/street-talk/nyse-listed-98b-data-centre-giant-lurks-in-stack-s-apac-auction-20260923-p60z2k"
+    },
+    {
+      "id": "2026-09-25-325f98",
+      "title": "CDC chief warns Australia can't miss AI wave – or 'we're toast'",
+      "summary": "CDC Data Centres chief executive Greg Boorer says Australia cannot afford to miss out on the artificial intelligence and data centre boom, warning it would affect geopolitics as well as national and…",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "policy",
+        "investment"
+      ],
+      "published_at": "2026-09-23T07:29:32Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/infrastructure/cdc-chief-warns-australia-can-t-miss-ai-wave-or-we-re-toast-20260923-p60zwe",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "CDC Data Centres"
+      ],
+      "content": "CDC Data Centres chief executive Greg Boorer says Australia cannot afford to miss out on the artificial intelligence and data centre boom, warning it would affect geopolitics as well as national and economic security.\n\nBoorer told The Australian Financial Review Chanticleer Lunch that issues related to copyright would be resolved, claiming frontier labs like OpenAI and Anthropic were not opposed to paying rights holders to train models.\n\nLoading...",
+      "content_url": "https://www.afr.com/companies/infrastructure/cdc-chief-warns-australia-can-t-miss-ai-wave-or-we-re-toast-20260923-p60zwe"
+    },
+    {
+      "id": "2026-09-25-23047a",
+      "title": "SUBCO eyes 2029 completion for three new Indo-Pacific cable systems",
+      "summary": "SUBCO says it will complete three new submarine cable systems totalling 40,000 km by 2029, linking Australia to Asia and the US. APX North will run 9,500 km from Sydney to Japan via Guam, complemented by APX East-2 and a third system across the Indo-Pacific.",
+      "why_it_matters": "The new systems add badly needed redundancy and capacity on Australia-Asia routes, where a small number of outages have repeatedly disrupted connectivity. They also strengthen Australia's position as a connectivity hub rather than a bandwidth outlier.",
+      "score": 72,
+      "heat": 1,
+      "regions": [
+        "australia",
+        "southeast-asia"
+      ],
+      "topics": [
+        "connectivity",
+        "subsea-cable",
+        "infrastructure"
+      ],
+      "published_at": "2026-09-23T11:39:50Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/subco-eyes-2029-completion-for-three-new-indo-pacific-cable-systems/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "SUBCO"
+      ],
+      "content": "SUBCO, a developer, owner, and operator of next-generation submarine fiber-optic cable infrastructure, has announced that it will be building three new subsea cables connecting Australia to several locations in Asia and the US over 40,000 km.\n\nAccording to a press release, APX North will span 9,500 km, connecting Sydney to Japan via Guam. APX East-2 will be 10,000 km long and connect Guam to Los Angeles. APX West is a 4,600 km cable connecting Perth to Singapore with branches to Jakarta and Batam. Each cable will contain 24 fiber pairs, with SUBCO targeting completion of all three systems by 2029.\n\n“People have been slow to understand that AI factories are dead without massive subsea connectivity to carry tokens from factory to customers. Hundreds and hundreds of terabits per second. That’s why we are about to undertake the single largest subsea infrastructure build ever by a carrier in the Indo-Pacific. Not only is the build itself huge, but the timeframe is compressed with over 40,000km of cable to be installed in just over three years. Our team has signed up for the challenge, and will grow significantly as each system reaches CIF,” said Bevan Slattery, SUBCO Founder and Co-Chief Executive Officer.\n\nThe co-CEO noted that APX Eat-2, connecting Guam and Los Angeles, is vital for trans-Pacific digital traffic and expects the system to be incredibly popular. Similarly, APEX West is important for resiliency and interconnection at hubs in Batam and Jakarta.\n\n“Singapore and Indonesia remain critical to Asia’s connectivity landscape, and their strategic importance will only grow as bandwidth demand accelerates, and new interconnection hubs are needed to deliver greater flexibility and route diversity. We are building as much of that as possible into our system design and making that available to our cornerstone customers through APX West,” said Slattery.\n\nThe company announced in June that its SMAP cable system connecting Sydney, Melbourne, Adelaide, and Perth was ready for service. The 5,000 km cable features 16 fiber pairs and delivers more than 400 Tbps of capacity.",
+      "content_url": "https://w.media/subco-eyes-2029-completion-for-three-new-indo-pacific-cable-systems/"
+    },
+    {
+      "id": "2026-09-25-94c4d7",
+      "title": "Thai bill proposes data center licensing, environmental & health impact assessments",
+      "summary": "A Thai MP has tabled a draft bill that would introduce mandatory licensing for data centres plus environmental and community health impact assessments for all projects. Operators would need approval from the Ministry of Digital Economy and Society before building or expanding.",
+      "why_it_matters": "If enacted, Thailand would move from one of Southeast Asia's most permissive regimes to a structured approvals process, adding time and uncertainty to project timelines. Established operators with compliant facilities gain an advantage over new entrants rushing to market.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "regulation",
+        "policy",
+        "licensing",
+        "environment"
+      ],
+      "published_at": "2026-09-23T09:55:40Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/thai-bill-proposes-data-center-licensing-environmental-health-impact-assessments/",
+          "type": "rss"
+        }
+      ],
+      "content": "A Thai member of Parliament has recently introduced a draft bill proposing sweeping changes to its data center rules, including requiring licensing, and environmental and community health impact assessments on all data center projects, according to local reports. If passed, operators would need to obtain a licence from the Ministry of Digital Economy and Society, locate their facilities in areas zoned for factories, must be a Thai-registered company, and provide a guarantee when applying for a licence.\n\nThe proposals, which were introduced by MP Supachai Jaisamut, seek to regulate digital infrastructure pertaining to project locations, environmental and health impact assessments, electricity and water supplies, and data sovereignty, with key numerical thresholds to be specified later in secondary legislation.\n\nThe public including operators, users of services and affected communities are invited to contribute their views thru to 15 October.\n\nWith the aim of protecting Thai resources, the draft bill requires high usage data centers to either generate their own electricity, buy directly from licensed private power producers, or a combination of both.\n\nSimilarly, data centers with high water consumption must have sufficient water from their own sources, without using public sources. They must also keep heat released and noise pollution within limits to be prescribed by the minister.\n\nThe draft requires operators that collect, store, process or hold in custody Thai nationals’ personal data, data of Thai-registered entities, or information of government departments, public organisations and other state agencies, to store those data in Thailand, with strict conditions for any transfers outside of the country.\n\nOperators must also ensure Thai nationals make up at least half of all personnel performing system supervision duties, as well as use minimum prescribed local content for their materials and equipment.\n\nThe penalty for operating without a licence is imprisonment for up to five years, a fine of at least THB10 million, or both, as well as an additional fine of up to THB1 million a day as long as a licence is not obtained. An operator which fails to store Thai nationals’ personal data in Thailand could face up to three years’ imprisonment, a fine of at least THB6 million, or both.\n\nExisting operators have up to 180 days from the date the law comes into force (ministerial licensing regulations) to apply for a licence.",
+      "content_url": "https://w.media/thai-bill-proposes-data-center-licensing-environmental-health-impact-assessments/"
+    },
+    {
+      "id": "2026-09-25-b25e86",
+      "title": "Australian data centre operators raise AU$35bn in 2026 as debt funding surges",
+      "summary": "A Reserve Bank of Australia staff analysis shows Australian data centre operators have raised at least AU$35 billion so far in 2026, with debt making up 85 percent of new capital. The sector now accounts for 16 percent of all funding raised by Australian non-financial corporations, a striking share for a single industry.",
+      "why_it_matters": "The scale of debt-funded expansion signals both confidence in AI-driven demand and growing systemic exposure: heavy leverage could amplify sector stress if capacity outruns tenant commitments. Policymakers are watching this boom as much as investors are.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "financing",
+        "debt",
+        "market-trends"
+      ],
+      "published_at": "2026-09-23T06:52:23Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/australian-data-centre-operators-raise-au35bn-in-2026-as-debt-funding-surges/",
+          "type": "rss"
+        }
+      ],
+      "content": "Australian data centre operators have raised at least AU$35bn in funding so far in 2026, with debt accounting for 85 percent of new capital, according to a Reserve Bank of Australia staff analysis. The RBA’s **Data Centre Financing in Australia** found that data centre operators accounted for 16 percent of funding raised by Australian non-financial corporations across the markets covered by its research.\n\nThe figure represents a significant increase from the AU$24bn raised in 2025 and an annual average of AU$4.6bn between 2020 and 2024.\n\nThe analysis, by RBA economist Bradley Speed, covers Australian-domiciled companies operating data centres in Australia. Its sample includes NextDC, CDC, Firmus, Goodman, Macquarie Technology, AirTrunk and local funding vehicles associated with Stack Infrastructure and Equinix. The RBA said its estimates should be treated as a lower bound because coverage of private transactions is incomplete and the data does not capture some single-bank lending.\n\n### Debt dominates data centre funding\n\nDebt accounted for 85 percent of new funding raised by Australian data centre operators in 2026, with syndicated lending providing the largest share. Operators raised approximately AU$25bn through syndicated loans, which accounted for around three-quarters of data centre financing in 2025 and 2026 to date.\n\nData centre operators also accounted for 17 percent of new syndicated lending during 2026, up from 6 percent in 2025. A further AU$13bn in syndicated lending deals had been announced during the year but had not yet been completed.\n\nThe RBA said syndicated lending was attractive because it enabled operators to secure larger loans through pooled lender exposure, while generally being more accessible than corporate bond markets for companies without investment-grade credit ratings.\n\nApproximately 70 percent of syndicated lending raised by Australian data centre operators was denominated in Australian dollars, with most of the remainder in US dollars.\n\nThe sector accounted for 7 percent of new Australian-dollar syndicated borrowing in 2026 to date. The RBA also found that loan pricing was broadly comparable with that of other non-financial corporations. The median spread on syndicated loans to data centre operators since 2024 was 185 basis points, compared with 175 basis points for other non-financial corporations.\n\nIt suggested that tenant pre-commitments could be helping to mitigate risks associated with rapid expansion. “Data centres’ higher use of syndicated lending is consistent with the rest of the Australian non-financial corporate sector,” the report said.\n\n### Bonds and equity remain secondary\n\nCorporate bonds accounted for AU$5bn, or 14 percent, of data centre funding in 2026 to date, up from 4 percent in 2025. The RBA said bond issuance remained relatively limited, potentially reflecting the costs associated with mandatory disclosures and credit ratings.\n\nHowever, it noted that bonds could become more attractive as operators grow and seek more diversified funding sources, particularly because they do not carry financial maintenance covenants.\n\nData centre operators raised a further AU$1.5bn through public equity issuance in 2026, while private equity funding reached approximately AU$4bn. Private equity activity had been concentrated largely in Firmus, which conducted three private equity issuances during the year. The RBA however cautioned that its visibility of private transactions was imperfect and that some funding could be missing from the estimates.\n\n### Limited evidence of crowding out\n\nDespite the rapid growth in funding, the RBA said data centre financing remained relatively small compared with the size of Australian capital markets. It found little evidence that the sector had materially affected financing conditions for other borrowers.\n\nThe analysis also found no evidence that access to finance was currently limiting data centre investment in Australia. The RBA said this could change as operators’ funding requirements increased, but expected the sector to make greater use of a wider range of domestic and offshore funding sources as it expanded.\n\nThe RBA added that local operators had made slightly larger contributions to investment in Australia’s data centre sector than foreign firms to date. It also identified the capital raised by local operators as a potentially useful leading indicator of future investment, given that these companies tend to rely on external funding to support construction.\n\nThe author added the caveat that the findings didn’t necessarily represent the view of the bank, adding that the analysis also excluded funding raised by overseas companies where the connection to specific Australian data centre investment was unclear.",
+      "content_url": "https://w.media/australian-data-centre-operators-raise-au35bn-in-2026-as-debt-funding-surges/"
     }
   ]
 }
