@@ -82,6 +82,16 @@ jobs:
           printf '%s' "${{ secrets.KIMI_CREDENTIALS_JSON }}" > "$HOME/.kimi-code/credentials/kimi-code.json"
           chmod 600 "$HOME/.kimi-code/credentials/kimi-code.json"
 
+      - name: Verify restored kimi config (no secrets printed)
+        if: steps.guard.outputs.skip == 'no'
+        run: |
+          cfg="$HOME/.kimi-code/config.toml"
+          cred="$HOME/.kimi-code/credentials/kimi-code.json"
+          echo "config.toml: $(wc -c < "$cfg") bytes, $(wc -l < "$cfg") lines"
+          echo "credentials json: $(wc -c < "$cred") bytes"
+          grep -q '^default_model' "$cfg" && echo "default_model: present" || { echo "default_model: MISSING — re-paste the KIMI_CONFIG_TOML secret with the full contents of ~/.kimi-code/config.toml"; exit 1; }
+          python -c "import json;json.load(open('$cred'))" && echo "credentials json: valid JSON" || { echo "credentials json: INVALID JSON — re-paste the KIMI_CREDENTIALS_JSON secret with the full contents of ~/.kimi-code/credentials/kimi-code.json"; exit 1; }
+
       - name: Fetch + process today's digest
         if: steps.guard.outputs.skip == 'no'
         env:
