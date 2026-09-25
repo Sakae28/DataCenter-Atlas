@@ -71,8 +71,8 @@ jobs:
         if: steps.guard.outputs.skip == 'no'
         run: |
           curl -fsSL https://code.kimi.com/kimi-code/install.sh | bash
-          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
-          "$HOME/.local/bin/kimi" --version
+          echo "$HOME/.kimi-code/bin" >> "$GITHUB_PATH"
+          "$HOME/.kimi-code/bin/kimi" --version
 
       - name: Restore kimi credentials
         if: steps.guard.outputs.skip == 'no'
