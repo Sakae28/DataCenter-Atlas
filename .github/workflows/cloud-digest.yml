@@ -1,0 +1,103 @@
+# Cloud daily digest — fetches + processes today's news on GitHub's
+# infrastructure and commits data/ back to main. Exists for the days the
+# local machine (Task Scheduler + accelerator + kimi CLI login) is off:
+# the local run is still the primary path; this workflow skips itself
+# whenever today's digest file already exists in the repo.
+#
+# LLM backend: the kimi CLI, restored from repository secrets so the run
+# uses the owner's Kimi Code subscription — no paid API key needed:
+#   KIMI_CONFIG_TOML       contents of ~/.kimi-code/config.toml
+#   KIMI_CREDENTIALS_JSON  contents of ~/.kimi-code/credentials/kimi-code.json
+# Note on OAuth rotation: once the cloud run refreshes the token, the copy
+# on the local machine is stale — run `/login` locally once when back.
+#
+# The data push is made with GITHUB_TOKEN, which does NOT trigger other
+# workflows, so the final step explicitly dispatches the Deploy site
+# workflow (daily.yml) after pushing.
+
+name: Cloud daily digest
+
+on:
+  schedule:
+    - cron: "23 1 * * *" # 09:23 Beijing time (UTC+8)
+  workflow_dispatch:
+
+permissions:
+  contents: write # push the data commit
+  actions: write  # dispatch the Deploy site workflow
+
+concurrency:
+  group: cloud-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Skip if today's digest already exists
+        id: guard
+        run: |
+          today=$(date -u +%F)
+          if [ -f "data/news/${today}.json" ]; then
+            echo "skip=yes" >> "$GITHUB_OUTPUT"
+            echo "data/news/${today}.json already in repo — local run beat us"
+          else
+            echo "skip=no" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-python@v5
+        if: steps.guard.outputs.skip == 'no'
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+
+      - name: Install Python dependencies
+        if: steps.guard.outputs.skip == 'no'
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Install kimi CLI
+        if: steps.guard.outputs.skip == 'no'
+        run: |
+          curl -fsSL https://code.kimi.com/kimi-code/install.sh | bash
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+          "$HOME/.local/bin/kimi" --version
+
+      - name: Restore kimi credentials
+        if: steps.guard.outputs.skip == 'no'
+        run: |
+          mkdir -p "$HOME/.kimi-code/credentials"
+          printf '%s' "${{ secrets.KIMI_CONFIG_TOML }}" > "$HOME/.kimi-code/config.toml"
+          printf '%s' "${{ secrets.KIMI_CREDENTIALS_JSON }}" > "$HOME/.kimi-code/credentials/kimi-code.json"
+          chmod 600 "$HOME/.kimi-code/credentials/kimi-code.json"
+
+      - name: Fetch + process today's digest
+        if: steps.guard.outputs.skip == 'no'
+        env:
+          PYTHONIOENCODING: utf-8
+        run: python pipeline/run.py
+
+      - name: Commit and push data
+        if: steps.guard.outputs.skip == 'no'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news data/reports data/projects.json
+          if git diff --cached --quiet; then
+            echo "no data changes"
+            exit 0
+          fi
+          git commit -m "data: daily digest (cloud run)"
+          git push origin main
+
+      - name: Dispatch Deploy site
+        if: steps.guard.outputs.skip == 'no'
+        run: |
+          curl -fsSL -X POST \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/daily.yml/dispatches" \
+            -d '{"ref":"main"}'

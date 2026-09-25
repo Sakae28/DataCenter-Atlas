@@ -1,10 +1,11 @@
 name: Deploy site
 
-# Plan A (2026-09-08): the local scheduled task (pipeline/daily_run.bat via
-# Windows Task Scheduler) owns fetch + LLM processing (kimi CLI login lives
-# on the user's machine) and commits data/ back to the repo. This workflow
-# only builds and deploys the site on push — it no longer fetches news, so
-# it needs neither the accelerator nor an LLM API key.
+# Data fetching is owned by two paths: the local scheduled task
+# (pipeline/daily_run.bat via Windows Task Scheduler) as the primary, and
+# the "Cloud daily digest" workflow (cloud-digest.yml) as the fallback when
+# the local machine is off. Both commit data/ back to the repo; this
+# workflow only builds and deploys the site on push (or on a dispatch from
+# the cloud digest) — it never fetches news itself.
 #
 # Job structure follows the official Astro GitHub Pages guide
 # (https://docs.astro.build/en/guides/deploy/github/): withastro/action only
