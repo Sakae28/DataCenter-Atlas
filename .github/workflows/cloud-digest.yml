@@ -21,6 +21,11 @@ on:
   schedule:
     - cron: "23 1 * * *" # 09:23 Beijing time (UTC+8)
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Run even if today's digest file already exists (merges, no duplicates)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write # push the data commit
@@ -41,7 +46,10 @@ jobs:
         id: guard
         run: |
           today=$(date -u +%F)
-          if [ -f "data/news/${today}.json" ]; then
+          if [ "${{ inputs.force }}" = "true" ]; then
+            echo "skip=no" >> "$GITHUB_OUTPUT"
+            echo "force=true — running even though data/news/${today}.json may exist"
+          elif [ -f "data/news/${today}.json" ]; then
             echo "skip=yes" >> "$GITHUB_OUTPUT"
             echo "data/news/${today}.json already in repo — local run beat us"
           else
