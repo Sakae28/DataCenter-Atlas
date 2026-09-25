@@ -365,7 +365,8 @@ def make_client(direct: bool = False) -> httpx.Client:
     """HTTP client honoring env-based proxy/TLS settings.
 
     - FETCH_PROXY: explicit proxy URL (e.g. http://127.0.0.1:7078). When
-      unset, httpx's trust_env picks up HTTP_PROXY/HTTPS_PROXY if present.
+      unset, env/system proxies are IGNORED — they only ever point at the
+      local accelerator, which routes everything to a dead port when off.
     - FETCH_INSECURE_TLS=1: skip TLS verification. Needed when a local
       accelerator MITMs HTTPS with its own CA. Never enable in CI.
     - direct=True: bypass all proxies (including env vars). Used for
@@ -380,6 +381,13 @@ def make_client(direct: bool = False) -> httpx.Client:
     proxy = os.environ.get("FETCH_PROXY")
     if proxy and not direct:
         kwargs["proxy"] = proxy
+    elif not direct:
+        # No explicit proxy configured: ignore HTTP(S)_PROXY and the Windows
+        # system proxy. Both point at the local accelerator — when it is off
+        # they route every request to a dead port (WinError 10061) and the
+        # whole day comes back empty. Direct is strictly better than a dead
+        # proxy: mainland-reachable sources still deliver.
+        kwargs["trust_env"] = False
     if os.environ.get("FETCH_INSECURE_TLS", "").lower() in ("1", "true", "yes"):
         kwargs["verify"] = False
         log.warning("FETCH_INSECURE_TLS set: TLS verification disabled")
