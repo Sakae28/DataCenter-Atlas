@@ -1,0 +1,202 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-10-07T12:15:43Z",
+  "hot": [
+    "2026-09-29-91ce90",
+    "2026-09-29-123f5e",
+    "2026-09-29-b7b32f",
+    "2026-09-29-9fd962",
+    "2026-09-29-ee581c"
+  ],
+  "stories": [
+    {
+      "id": "2026-09-29-91ce90",
+      "title": "Meta signs on to use AI capacity at Firmus' Southeast Asia data centers",
+      "summary": "Meta has agreed to consume AI compute capacity within Firmus Technologies' data center facilities across Southeast Asia, marking another hyperscaler commitment to the region's expanding AI infrastructure. The deal deepens Meta's presence in Asia-Pacific at a time when AI training and inference demand is driving a wave of capacity deals.",
+      "why_it_matters": "Hyperscaler pre-commitments like this effectively underwrite new data center construction in Southeast Asia, shifting development risk from operators to tenants. It also signals that Meta is diversifying AI capacity beyond its traditional US and European strongholds, which will pull more GPU supply, power procurement, and network investment into the region.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "capacity",
+        "hyperscale",
+        "investment"
+      ],
+      "published_at": "2026-09-29T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/meta-signs-on-to-use-ai-capacity-at-firmus-southeast-asia-data-centers/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Meta",
+        "Firmus"
+      ],
+      "published_precision": "day",
+      "content": "Meta has signed on to lease AI compute capacity from Aussie neocloud Firmus' upcoming data center deployments in Southeast Asia.\n\nThe agreement builds on an existing partnership, in which Meta is leasing Nvidia GB300 NVL72 compute from Firmus' Melbourne data center.\n\nFirmus is currently developing so-called \"AI factories\" in Southeast Asia with data center operator DayOne, including one in Batam, Indonesia, which is expected to house 170,000 GPUs. The company is also establishing data centers in Malaysia, of which OpenAI is set to be a customer.\n\nThe deployments will see Firmus' HyperCube modular data center solution integrated into the facilities. The company said in August 2026 that it would be acquiring the manufacturing business behind HyperCube from Benmax.\n\nThe compute capacity in Southeast Asia set to be delivered to Meta will be based on Nvidia's full-stack DSX platform.\n\nMeta's vice president of engineering and infrastructure, Gaya Nagarajan, said: \"We see Firmus as a long-term strategic infrastructure partner as we build for the next generation of AI across Asia-Pacific and expand the infrastructure supporting our AI research and model development efforts – the foundation of personal superintelligence.\"\n\nTim Rosenfield, co-founder and co-CEO of Firmus, added: “We’re building for partners at the forefront of AI, whose models demand exceptional performance and who want to get the most compute from every watt of energy. That’s the engineering challenge Firmus was founded to solve.\n\n“Meta’s AI research and model development activities require infrastructure capable of supporting some of the world’s most demanding AI workloads. Firmus’ AI factory build-out across Asia-Pacific has the scale to support and grow these ambitions.”\n\nEarlier this month, Firmus was reported to be looking to raise up to $5 billion in an initial public offering (IPO).\n\nFounded in 2019, Firmus was initially focused on crypto and high-performance compute, specializing in immersion cooling, but today describes itself as a pure AI factory builder.\n\nIt has projects under development in Australia, including in Tasmania (x3), as well as across Asia, in Singapore, Indonesia, and Malaysia. The Malaysia data centers will be used by OpenAI, with the two companies signing a capacity agreement earlier this month that brings Firmus' total contracted capacity to more than 900MW.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/meta-signs-on-to-use-ai-capacity-at-firmus-southeast-asia-data-centers/"
+    },
+    {
+      "id": "2026-09-29-b7b32f",
+      "title": "Plans filed for 400MW data center campus outside Melbourne, Australia",
+      "summary": "Development plans have been submitted for a 400MW data center campus to be built outside Melbourne, Australia — a scale that would rank among the largest single campuses in the country. The proposal comes as Melbourne competes with Sydney for large-scale cloud and AI workloads amid tightening power constraints elsewhere.",
+      "why_it_matters": "A 400MW campus is a transformational load for the local grid and would force early conversations about transmission upgrades, renewable sourcing, and planning approvals in Victoria. If approved, it would also sharpen national competition between Melbourne and Sydney for hyperscale and AI tenants, potentially redrawing pricing and land dynamics across the Australian market.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "capacity",
+        "power",
+        "investment",
+        "colocation"
+      ],
+      "published_at": "2026-09-29T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/plans-filed-for-400mw-data-center-campus-outside-melbourne-australia/",
+          "type": "html-list"
+        }
+      ],
+      "published_precision": "day",
+      "content": "Plans have been filed for a large-scale data center outside Melbourne, Australia.\n\nHyperDC Pty Ltd has filed a planning permit application with the Victorian government for a data center development in Moorabool.\n\nThe project would be located at 715 Ballan Road, a plot of largely vacant land outside Geelong, some 75km (47 miles) west of Melbourne.\n\nLittle information about the company is available, but HyperDC describes itself as a data center developer.\n\nAccording to its website, HyperDC’s MBL1 site totals 39 hectares, and the company is aiming to develop a campus offering 400MW of IT capacity. Further details have not been shared.\n\nAn individual named Gerard Adamsons lists himself as a director of the company on LinkedIn. He was previously at Australian residential developer Villawood Properties.\n\nThe site is close to the 300MW Victorian Big Battery site. Built by HMC Capital-backed Illuma, the site totals 210 Tesla Megapacks. AusNet Services’ existing Moorabool Terminal Station is also located close by.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/plans-filed-for-400mw-data-center-campus-outside-melbourne-australia/"
+    },
+    {
+      "id": "2026-09-29-9fd962",
+      "title": "Samsung invests $1bn into KKR's Helix data center platform",
+      "summary": "Samsung has committed $1 billion to KKR's Helix data center investment platform, one of the largest single checks into the sector by a strategic corporate investor this year. The investment pairs Samsung's memory, foundry, and component interests with KKR's global data center development pipeline.",
+      "why_it_matters": "Strategic capital from a chip and hardware giant like Samsung signals confidence in a sustained AI-driven buildout and may tilt Helix projects toward Samsung's own silicon and equipment. It also raises the competitive bar for infrastructure funds, as corporate balance sheets increasingly crowd into the same capacity-constrained assets.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [
+        "investment",
+        "data-center",
+        "capacity"
+      ],
+      "published_at": "2026-09-29T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/samsung-invests-1bn-into-kkrs-helix-data-center-platform/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Samsung",
+        "KKR"
+      ],
+      "published_precision": "day",
+      "content": "Samsung has invested in Helix Digital Infrastructure, the new data center developer set up by investment firm KKR.\n\nHelix and KKR today (September 29) announced that Samsung has committed $1 billion to Helix through its long-duration capital fund. The new funding will provide additional long-duration capital to support Helix’s build-out.\n\nHelix was founded earlier this year, led by former AWS CEO Adam Selipsky, with plans to deliver hyperscale data centers with integrated power supply agreements. The company has yet to reveal any details on planned projects.\n\nThe companies said Samsung’s investment builds on the more than $10bn of capital Helix has secured from investors including KKR, the Kuwait Investment Authority (KIA), Nvidia, and Vistra.\n\n“Samsung's commitment is a strong vote of confidence in Helix's strategy and further deepens the long-term capital base we've built to meet the scale of AI infrastructure demand,” said Selipsky, CEO and co-founder of Helix. “As one of the world's leading technology companies, Samsung brings unique capabilities that we expect will benefit Helix and its customers, and we look forward to working together to accelerate the deployment of next-generation digital infrastructure for hyperscalers around the world.”\n\nHelix said it expects to explore opportunities to “leverage Samsung’s capabilities” across areas such as advanced technology, construction, energy storage, and cooling.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/samsung-invests-1bn-into-kkrs-helix-data-center-platform/"
+    },
+    {
+      "id": "2026-09-29-a92938",
+      "title": "AMD acquires AI research firm World Labs in all-stock deal worth $8.2bn",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "investment"
+      ],
+      "published_at": "2026-09-29T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/amd-acquires-ai-research-firm-world-labs-in-all-stock-deal-worth-82bn/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "AMD",
+        "World Labs"
+      ],
+      "published_precision": "day",
+      "content": "AMD has acquired World Labs, an AI model and research lab, in an all-stock deal valued at $8.2 billion.\n\nThe deal will help AMD strengthen its ability to develop AI hardware, software, and systems that support the needs of emerging models and applications, the company said.\n\nFounded in 2024 and led by Dr. Fei-Fei Li – known as the ‘Godmother of AI’, San Francisco-based World Labs develops “spatial-intelligence models” that generate, reconstruct, and simulate interactive 3D environments from text, image, and video inputs. The company also develops technology for robotic learning and simulation, all of which AMD said will provide it with “deeper insight into how workloads are evolving and help shape its future technology roadmaps.”\n\nThe transaction is expected to close by the end of 2026, subject to regulatory approval and customary closing conditions. Once the acquisition is complete, the World Labs team will continue its work on advanced AI model research, while Dr. Li will join AMD as an executive vice president and chief scientist, reporting to CEO Dr. Lisa Su.\n\n“Building the compute platforms for the next generation of AI requires a deep understanding of how models are evolving,” said Dr. Su. “Fei-Fei and the World Labs team bring exceptional research leadership and model expertise. Together, we can use that insight to develop the hardware, software and systems that will power the next generation of AI and strengthen the open AI ecosystem.”\n\nDr. Li, co-founder and CEO of World Labs, added: “Advancing the next generation of AI technology requires close collaboration across model research, systems and compute. Joining AMD will give our team the resources and engineering depth to accelerate our research and help define the infrastructure needed for the next era of AI.”",
+      "content_url": "https://www.datacenterdynamics.com/en/news/amd-acquires-ai-research-firm-world-labs-in-all-stock-deal-worth-82bn/"
+    },
+    {
+      "id": "2026-09-29-123f5e",
+      "title": "Amazon buys land outside Kuala Lumpur, Malaysia",
+      "summary": "Amazon has acquired a land parcel in the vicinity of Kuala Lumpur, Malaysia, in a move widely interpreted as positioning for a future AWS data center campus. The purchase adds to a growing cluster of hyperscaler investments in the Klang Valley area, where land, power, and connectivity are still relatively accessible.",
+      "why_it_matters": "Land banking by AWS typically precedes campus announcements by one to two years, so this purchase hints at Malaysia becoming a more significant node in AWS's APAC footprint. Local developers, utilities, and policymakers will feel the effects first, as expectations of major capacity put pressure on grid readiness and approvals.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "capacity",
+        "hyperscale",
+        "investment",
+        "ai"
+      ],
+      "published_at": "2026-09-29T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/amazon-buys-land-outside-kuala-lumpur-malaysia/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "published_precision": "day",
+      "content": "Amazon has acquired a plot of land outside Kuala Lumpur, Malaysia.\n\nVia a stock exchange announcement, Sunsuria Bhd this week announced that its subsidiary Sunsuria City has entered into a conditional sale and purchase agreement with Amazon Data Services Malaysia Sdn Bhd to sell a parcel of land in Sepang, Selangor.\n\nThe deal would be for a total cash consideration of approximately RM316.84 million ($77.6m).\n\nLocated in the Mukim of Dengkil, some 40km south of Kuala Lumpur, the currently vacant site totals approximately 183,975 sqm (1,98 million sq ft) of freehold land. Sunsuria acquired the land in 2015 for RM145.97 million.\n\nDetails of any planned data center on the site have not been shared.\n\nSunsuria is a publicly listed property developer founded in 1989. The firm is largely focused on residential, commercial, and industrial property projects within Klang Valley.\n\nAmazon launched its Malaysian cloud region in 2024 with three availability zones, and is known to have facilities around Cyberjaya. AWS has previously said it is planning to invest $6 billion in Malaysia by 2037.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/amazon-buys-land-outside-kuala-lumpur-malaysia/"
+    },
+    {
+      "id": "2026-09-29-ee581c",
+      "title": "Broadcom, Toppan open Singapore's first advanced chip substrate facility",
+      "summary": "Broadcom and Toppan have inaugurated what they describe as Singapore's first facility for producing advanced chip substrates, the high-end packaging components critical for AI accelerators and high-performance compute chips. The plant strengthens Singapore's position in the semiconductor supply chain beyond wafer fabrication.",
+      "why_it_matters": "Advanced substrates are a known bottleneck for AI chip production, so new capacity in Singapore reduces geopolitical concentration risk for chipmakers and their data center customers. The facility also anchors more high-value manufacturing jobs and supplier ecosystems in Singapore, reinforcing the city-state's role as the region's chip logistics and packaging hub.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "chips",
+        "investment",
+        "manufacturing"
+      ],
+      "published_at": "2026-09-29T04:15:25Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia — data center search",
+          "url": "https://asia.nikkei.com/business/technology/broadcom-toppan-open-singapore-s-first-advanced-chip-substrate-facility",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Broadcom",
+        "Toppan"
+      ],
+      "content": "Technology\n# Broadcom, Toppan open Singapore's first advanced chip substrate facility\n\nUS and Japanese pair aim to ease supply bottleneck hampering AI boom\n\n Broadcom President of Semiconductor Solutions Group Charlie Kawwas, center left, explains to Gan Kim Yong, deputy prime minister of Singapore and minister for trade and industry, about the key AI data center materials and computing chips at its new facility. (Photo by Cheng Ting-Fang)\n\nCHENG TING-FANG\n\nSeptember 29, 2026 13:15 JST\n\nSINGAPORE -- U.S. chipmaker Broadcom and Japan's Toppan Holdings opened Singapore's first advanced chip substrate plant months ahead of schedule on Tuesday, as the Southeast Asian nation seeks to strengthen its role in the global artificial intelligence supply chain.",
+      "content_url": "https://asia.nikkei.com/business/technology/broadcom-toppan-open-singapore-s-first-advanced-chip-substrate-facility"
+    }
+  ]
+}

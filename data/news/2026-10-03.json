@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-07T12:15:43Z",
+  "hot": [
+    "2026-10-03-f2a57f",
+    "2026-10-03-203a15",
+    "2026-10-03-5ee17a"
+  ],
+  "stories": [
+    {
+      "id": "2026-10-03-203a15",
+      "title": "Once in decline, Japan's hard-drive suppliers ride soaring AI demand",
+      "summary": "Japanese hard-drive and storage component makers, long written off as casualties of the shift to solid-state drives, are seeing a revenue revival driven by AI data centers' appetite for high-capacity nearline HDDs. Suppliers of drives, motors, and related components are ramping production and upgrading facilities to meet orders from hyperscale cloud and AI operators. The rebound marks a rare bright spot for Japan's legacy hardware manufacturing sector.",
+      "why_it_matters": "AI's hunger for cheap, dense bulk storage is reviving a supply chain that the industry had effectively abandoned, changing the outlook for Japanese component makers and their investors. Hyperscalers gain a broader, more resilient supplier base for nearline storage as HDD output concentrates further, while SSD-centric rivals lose some of their assumed inevitability. It also signals that AI infrastructure demand extends well beyond GPUs into 'boring' components with multi-year order visibility.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "ai",
+        "storage",
+        "chips",
+        "supply-chain"
+      ],
+      "published_at": "2026-10-03T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia — data center search",
+          "url": "https://asia.nikkei.com/business/electronics/once-in-decline-japan-s-hard-drive-suppliers-ride-soaring-ai-demand",
+          "type": "html-list"
+        }
+      ],
+      "published_precision": "day",
+      "content": "TOKYO -- Japanese companies are racing to expand production of parts for hard-disk drives as the explosive spread of artificial intelligence drives demand for data storage, giving a boon to companies like Resonac Holdings and TDK that make a wide range of advanced technologies.",
+      "content_url": "https://asia.nikkei.com/business/electronics/once-in-decline-japan-s-hard-drive-suppliers-ride-soaring-ai-demand"
+    },
+    {
+      "id": "2026-10-03-f2a57f",
+      "title": "Japan's TEPCO to counter 'capacity squatters' in AI data center boom",
+      "summary": "Tokyo Electric Power Company is moving to curb 'capacity squatters' — developers who reserve large blocks of grid power for planned AI data centers but delay construction — as surging AI demand strains Japan's power supply. TEPCO is expected to tighten rules around grid connection reservations, potentially reassigning capacity that sits unused for too long. The move reflects growing pressure on Japanese utilities to allocate scarce electricity to projects that actually get built.",
+      "why_it_matters": "Tighter capacity rules would shift leverage from land-and-power speculators to operators ready to break ground, speeding up delivery of real AI capacity in one of APAC's hottest data center markets. Developers sitting on reserved power without firm construction timelines face losing their allocations, while hyperscalers and serious investors could see faster grid access. The policy could become a template for other constrained grids across Asia.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "data-center",
+        "power",
+        "ai",
+        "regulation"
+      ],
+      "published_at": "2026-10-03T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia — data center search",
+          "url": "https://asia.nikkei.com/business/energy/japan-s-tepco-to-counter-capacity-squatters-in-ai-data-center-boom",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "TEPCO"
+      ],
+      "published_precision": "day",
+      "content": "TOKYO -- Tokyo Electric Power Co. Holdings is among the Japanese utilities tightening rules on electricity for data centers to counter a trend of operators \"capacity squatting,\" or reserving power capacity that ends up being underutilized.\n\nEnergy\n# Japan's TEPCO to counter 'capacity squatters' in AI data center boom\n\nTokyo power company's new rules aim to prevent stranded capacity\n\nJapanese utilities and authorities are grappling with massive power demand for data center projects that are often delayed or moved or that use less capacity than agreed on. (Photo by Shintaro Ino)",
+      "content_url": "https://asia.nikkei.com/business/energy/japan-s-tepco-to-counter-capacity-squatters-in-ai-data-center-boom"
+    },
+    {
+      "id": "2026-10-03-5ee17a",
+      "title": "Macquarie Capital takes Zerra stake after $30b Queensland data centre deal",
+      "summary": "Macquarie Capital has acquired a stake in Zerra following the Australian developer's blockbuster deal to build data centers in Queensland reportedly valued at around $30 billion. The investment gives Zerra a major financial backer as it advances the large-scale campus project in Australia's surging AI infrastructure market. Terms of Macquarie's stake were not disclosed, but the move underscores deepening institutional interest in Australian data center development.",
+      "why_it_matters": "Macquarie's entry brings institutional-grade capital and credibility to one of Australia's biggest data center pipelines, accelerating project delivery and intensifying competition with incumbent operators. For Queensland, the backing raises the odds the promised capacity actually gets built, with knock-on effects for local power demand and construction. The deal also signals that global infrastructure investors now view Australian data centers as a core asset class rather than a niche bet.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "data-center",
+        "colocation"
+      ],
+      "published_at": "2026-10-03T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/financial-services/macquarie-capital-takes-zerra-stake-after-30b-queensland-data-centre-deal-20261003-p6129z",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Macquarie Capital",
+        "Zerra"
+      ],
+      "published_precision": "day",
+      "content": "Macquarie Capital has taken a stake in Singapore-based data centre developer Zerra DC, expanding its exposure to the artificial intelligence infrastructure boom just weeks after partnering with the company on a $30 billion Queensland project anchored by Anthropic.\n\nThe investment gives Macquarie Capital exposure to Zerra’s broader Asia-Pacific business, including projects in Australia, Japan and India, where the developer has assembled a pipeline of more than 2 gigawatts of planned capacity.\n\nLoading...",
+      "content_url": "https://www.afr.com/companies/financial-services/macquarie-capital-takes-zerra-stake-after-30b-queensland-data-centre-deal-20261003-p6129z"
+    }
+  ]
+}

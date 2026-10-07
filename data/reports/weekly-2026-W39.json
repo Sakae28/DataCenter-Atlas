@@ -1,0 +1,118 @@
+{
+  "type": "weekly",
+  "period": "2026-W39",
+  "date_range": {
+    "start": "2026-09-21",
+    "end": "2026-09-27"
+  },
+  "generated_at": "2026-10-07T12:32:03Z",
+  "complete": false,
+  "stats": {
+    "stories": 95,
+    "sources": 13,
+    "days": 5,
+    "read_minutes": 3
+  },
+  "title": "Alibaba's full-stack AI push frames APAC week",
+  "lede": "Alibaba dominated the period with a sweeping full-stack AI strategy, unveiling a self-developed chip it bills as China's most powerful, disclosing plans for a 5-10 trillion parameter model and targeting more than 20 gigawatts of data centre capacity by 2032, alongside expansion into Europe and the Middle East. The announcement landed as capital and regulatory currents reshaped the region. In Australia, Victoria banned data centres from residential zones and proposed rules requiring developers to source their own renewable power, while operators raised at least AU$35 billion in debt-dominated funding this year and Firmus prepared a A$7 billion IPO. A BlackRock and IFM Investors consortium moved to near a US$25 billion acquisition of Stack Infrastructure's APAC portfolio, one of several large deals underlining institutional appetite for the asset class. Thailand moved toward mandatory licensing and impact assessments, and Japan's financial regulator tightened scrutiny of AI data centre lending. Underneath it all, chipmakers from CXMT to Micron and Tower Semiconductor raced to supply the hardware the buildout demands.",
+  "themes": [
+    {
+      "heading": "Alibaba bets on full-stack AI",
+      "narrative": "Alibaba unveiled a self-developed AI accelerator it calls China's most powerful, positioning it as a domestic alternative to Nvidia, and disclosed plans to train a model with 5 to 10 trillion parameters. The company framed compute, silicon and cloud as one integrated platform, targeting over 20GW of global data centre capacity by 2032 and adding capacity in Europe and the Middle East. Huawei meanwhile rolled out cluster interconnect technology to support its own SuperPoD architecture.",
+      "story_ids": [
+        "2026-09-22-1ce82e",
+        "2026-09-22-3478f2",
+        "2026-09-25-4873b0",
+        "2026-09-25-81b553",
+        "2026-09-25-b4fb04",
+        "2026-09-25-1f098e"
+      ]
+    },
+    {
+      "heading": "Australia tightens data centre oversight",
+      "narrative": "Victoria banned data centres from residential zones and proposed requiring operators to secure their own renewable energy, curb cost-shifting to other electricity users and limit water use. The Northern Territory rejected a proposed national 100 percent offset mandate in favour of standalone power, while the AEMC opened consultation on network cost recovery for large loads. Industry figures AirTrunk and CDC called for clearer national standards as a Senate inquiry progresses.",
+      "story_ids": [
+        "2026-09-22-bc1cdd",
+        "2026-09-25-d379ec",
+        "2026-09-22-96c2a4",
+        "2026-09-25-1ce323",
+        "2026-09-25-2e7c83",
+        "2026-09-25-adc3b2",
+        "2026-09-22-f78ee5"
+      ]
+    },
+    {
+      "heading": "Capital floods APAC data centre assets",
+      "narrative": "A BlackRock and IFM Investors-backed consortium entered exclusive talks to buy Stack Infrastructure's APAC portfolio for around US$25 billion, with a NYSE-listed hyperscaler also reportedly circling. Australian operators have raised at least AU$35 billion this year, 85 percent in debt, while Firmus prepared an A$7 billion IPO that bankers say could value it up to $128 billion. AirTrunk sought a US$1.6 billion loan ahead of a Singapore REIT listing, and Goodman's data centre push drew a shareholder challenge at its AGM.",
+      "story_ids": [
+        "2026-09-25-7e3dd3",
+        "2026-09-25-3d1975",
+        "2026-09-25-b25e86",
+        "2026-09-22-58fddd",
+        "2026-09-25-ad4b4d",
+        "2026-09-22-3b557c",
+        "2026-09-22-71f73e",
+        "2026-09-22-4d0937",
+        "2026-09-22-edc335",
+        "2026-09-25-5db2d9",
+        "2026-09-22-b6d2cb"
+      ]
+    },
+    {
+      "heading": "Build-out spreads to new corridors",
+      "narrative": "BDx broke ground on a 640 MW AI campus in Indonesia financed by a US$320 million facility, while contractors in Malaysia won power and electrical works for Johor and Nilai projects. AirTrunk proposed a A$3.7 billion, 540 MW development in the NSW Hunter region, and GreenSquareDC signed Sharon AI as anchor for its SYD1 campus. Connectivity investment kept pace: SUBCO plans three new subsea systems totalling 40,000 km by 2029, Vocus announced a Brisbane-Darwin fibre route, and Open DC is building an internet exchange on the Malaysia-Thai border to keep traffic off Singapore.",
+      "story_ids": [
+        "2026-09-22-d2dfe1",
+        "2026-09-25-23047a",
+        "2026-09-25-7f62e5",
+        "2026-09-25-7aeca1",
+        "2026-09-22-710e20",
+        "2026-09-22-b4f29f",
+        "2026-09-22-1e8c10",
+        "2026-09-22-8ecc4b",
+        "2026-09-25-0f9ed4",
+        "2026-09-25-325f98"
+      ]
+    },
+    {
+      "heading": "Hardware supply chain races to catch up",
+      "narrative": "CXMT said its fifth-generation DRAM matches the best from Samsung and SK hynix without EUV tools, powering a 620 percent profit surge across China's chip sector. Micron demonstrated a 512GB DDR5 module for next-generation AI servers, Tower Semiconductor pledged US$4 billion including an optical chip hub in Japan, and Intel expanded Penang packaging for multi-chiplet AI processors. Analysts noted AI is shifting the bottleneck from compute to communication, with the optical transceiver market projected to reach $112 billion by 2031, while LG's liquid cooling unit won NVIDIA qualification.",
+      "story_ids": [
+        "2026-09-22-b0d8ce",
+        "2026-09-25-01828a",
+        "2026-09-22-08dcee",
+        "2026-09-25-b5c1e5",
+        "2026-09-25-3e5763",
+        "2026-09-22-629972",
+        "2026-09-25-655716",
+        "2026-09-22-257601"
+      ]
+    },
+    {
+      "heading": "Southeast Asia writes its rulebook",
+      "narrative": "Thailand moved to finalise data centre regulations by mid-October, classifying facilities above 100 MW as hyperscale, while a draft bill would mandate licensing plus environmental and community health impact assessments. Singapore said Asean members should specialise rather than compete head-on, with Huawei expanding AI cluster services and enterprise agents for corporate customers in the region. Japan's FSA stepped up scrutiny of bank and insurer financing for AI data centres as exposure grows.",
+      "story_ids": [
+        "2026-09-25-621621",
+        "2026-09-25-94c4d7",
+        "2026-09-25-bad474",
+        "2026-09-22-822cec",
+        "2026-09-25-e7b1a8",
+        "2026-09-25-e1b1df"
+      ]
+    }
+  ],
+  "project_milestones": [
+    {
+      "project_id": "anthropic-regional-queensland-data-centre",
+      "name": "Anthropic regional Queensland data centre",
+      "operator": "Anthropic",
+      "date": "2026-09-21",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-09-21-718ef4"
+    }
+  ]
+}

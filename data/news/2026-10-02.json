@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-07T12:15:43Z",
+  "hot": [
+    "2026-10-02-fca79b",
+    "2026-10-02-5b1300",
+    "2026-10-02-511483"
+  ],
+  "stories": [
+    {
+      "id": "2026-10-02-fca79b",
+      "title": "AWS drops non-disclosure agreements for data center projects",
+      "summary": "Amazon Web Services will no longer require communities, local officials, or economic development bodies to sign non-disclosure agreements when negotiating potential data center sites. The move ends a long-standing industry practice in which hyperscalers kept project details, water and power usage, and tax incentive terms secret until deals were effectively finalized. AWS is the first major cloud provider to broadly abandon NDAs, making site selection and incentive negotiations visible earlier in the development process.",
+      "why_it_matters": "Community opposition has become one of the biggest risks to data center development across the APAC and US markets, and secrecy clauses were a key driver of that backlash. With NDAs gone, local governments, utilities, and residents gain negotiating leverage on land, power, water, and tax breaks, while competitors lose a common excuse for their own opacity — a shift that will likely force other hyperscalers to follow or face tougher permitting fights.",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "hyperscale",
+        "regulation"
+      ],
+      "published_at": "2026-10-02T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/aws-drops-non-disclosure-agreements-for-data-center-projects/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Amazon Web Services"
+      ],
+      "published_precision": "day",
+      "content": "Amazon Web Services (AWS) has stopped using nondisclosure agreements for its data center projects.\n\nIn a blog post published today by AWS CEO Matt Garman, the company noted that it no longer uses \"nondisclosure agreements with the government agencies we work with on our projects.\"\n\nThe move is part of a series of commitments the company is making, many of which have either been previously stated or are common practice for the company, including AWS' pledge to cover utility infrastructure upgrade costs to ensure electricity bills don't increase for residents in the community, working with local officials to direct tax contributions to the right community initiatives, contributing to local non-profits and community organizations, creating jobs in the area, and designing and building data centers to be energy- and water-efficient.\n\nThe company has also announced its community program \"Built Together\" in which it will invest a further $1 billion in community initiatives across the US.\n\nThe overall purpose of the blog post seems to be to quash negative perceptions of data center projects, with Garman noting \"myths\" about data centers including large water usage, projects driving up energy rates, and the environmental impact of backup generators, and challenging these notions.\n\nGarman urges communities to encourage and accept the current data center buildout being seen across the US and elsewhere.\n\nHe writes: \"With any change, there will be important questions raised, but there will also be misinformation and outright lies, and in the age of social media and 24/7 news, myths take hold faster than ever before. In fact, this buildout is so important geopolitically that there are widespread reports of various countries intentionally seeding misinformation in the US about data centers to trick us into slowing down.\n\n\"Right now, there are over 100 data center moratoriums being considered across the country. If these measures are enacted, the US could be writing its own losing ticket to this race, and the consequences would last generations. As a country, we can’t afford to find ourselves in that position.\"\n\nThe move to ditch NDAs comes just over half a year after competitor Microsoft revealed that it would no longer ask local governments to sign NDAs.\n\nThe move also comes just days after US Representative Jamie Raskin, Ranking Member of the House Judiciary Committee, launched an investigation into Amazon, Google, Meta and Oracle over their use of NDAs for data center projects.\n\nRaskin found that Amazon's former secrecy agreements prevented local officials from disclosing broadly defined “proprietary” or “confidential” information, which led to uncertainty as to what could be shared.\n\nIn addition, Amazon has used shell companies to conceal its involvement in proposed data centers.\n\nThe blog post from CEO Garman did not address this issue, or the use of opaque project codenames. *DCD* has contacted AWS for comment on whether these practises will continue.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/aws-drops-non-disclosure-agreements-for-data-center-projects/"
+    },
+    {
+      "id": "2026-10-02-511483",
+      "title": "Zella DC launches stackable micro data center boxes",
+      "summary": "Zella DC has introduced a stackable micro data center product consisting of standardized, self-contained units that can be deployed individually or layered on top of one another to scale capacity at the edge. The boxes integrate power, cooling, and security in a factory-assembled enclosure designed for harsh or remote environments where conventional data halls are impractical. The design targets use cases such as telecom sites, mining operations, and distributed enterprise deployments where compute must sit close to the point of data generation.",
+      "why_it_matters": "Modular, stackable units lower the barrier to deploying infrastructure outside major data center hubs, shifting part of the market from purpose-built facilities toward productized hardware. This gives enterprises and telcos a faster, capex-light path to edge computing, and it pressures traditional colocation providers to offer comparable rapid-deployment options. It also reflects the industry's geographic spread as latency-sensitive AI and IoT workloads push compute toward the network edge.",
+      "score": 45,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "edge",
+        "capacity",
+        "ai"
+      ],
+      "published_at": "2026-10-02T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/zella-dc-launches-stackable-micro-data-center-boxes/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Zella DC"
+      ],
+      "published_precision": "day",
+      "content": "Micro data center firm Zella DC has launched a new stackable data center product.\n\nThe company this week announced Zella Stack, a series of self-contained data center boxes that can be deployed at the Edge. Each box measures 1300 x 700 x 580 mm (51.18 x 27.56 x 22.83 in).\n\nThe new modules are reportedly rugged and \"highly scalable,\" combining hybrid air and liquid cooling in one modular system that can be deployed “in days,” according to the firm.\n\nEvery Zella Stack begins with a base block on wheels containing the supporting infrastructure required to operate the system. IT blocks are then added above it to provide the rack space for compute.\n\nThe boxes come in 3U, 6U, and 12U configurations, available to offer densities from 3kW to 15kW. The company says options are available for up to 124kW of cooling capacity.\n\nThe largest unit – the Zella Stack 48 – totals 185kg (408lbs) and features three IT blocks on top of a base block. It stands 2.48m (8.1ft) tall. The unit runs at 50db.\n\nPreviously known as Zellabox, Zella DC was founded in Perth, Western Australia, and offers a number of micro data center products – self-contained, single-rack data center pods that can be deployed inside buildings or outside.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/zella-dc-launches-stackable-micro-data-center-boxes/"
+    },
+    {
+      "id": "2026-10-02-5b1300",
+      "title": "Firmus faces backlash over Tasmanian data centres",
+      "summary": "Firmus Sustainable Data Centres has drawn community and political criticism over its planned and operating facilities in Tasmania, with concerns centering on the projects' electricity and water demands, local planning processes, and the conversion of sites such as the Derwent Entertainment Centre into server halls. Opponents argue the approvals granted for the facilities lacked sufficient scrutiny of their resource consumption, while the company maintains its operations rely on Tasmania's abundant renewable hydro power. The dispute has made Tasmania a focal point in the broader Australian debate over whether data center growth should proceed without tighter state-level regulation.",
+      "why_it_matters": "The backlash signals that social license, not just grid capacity, is becoming a gating factor for Australian data center development. Developers eyeing Tasmania's cheap renewable power now face the prospect of contested planning approvals and reputational risk, which could slow projects and push operators toward stricter disclosure of energy and water use. For regional communities, it raises the question of whether the jobs and investment promised justify the strain on local infrastructure.",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "data-center",
+        "community-backlash",
+        "regulation"
+      ],
+      "published_at": "2026-10-02T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/technology/we-re-not-billionaires-tasmanians-fight-firmus-over-data-centres-20261002-p60zs6",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Firmus"
+      ],
+      "published_precision": "day",
+      "content": "On Tasmania’s northern coast, two yellow trucks and two blue excavators are digging into the earth on a hill overlooking the pale blue sea of Bass Strait, where views also stretch west for more than 100 kilometres to an extinct volcano, Table Cape.\n\nThe site, where pine trees have also been freshly felled, is one of three places in Tasmania that Firmus, an artificial intelligence infrastructure company with customers such as Meta and OpenAI, has chosen to build controversial data centres.",
+      "content_url": "https://www.afr.com/technology/we-re-not-billionaires-tasmanians-fight-firmus-over-data-centres-20261002-p60zs6"
+    }
+  ]
+}

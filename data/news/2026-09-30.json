@@ -1,0 +1,200 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-10-07T12:15:43Z",
+  "hot": [
+    "2026-09-30-300df6",
+    "2026-09-30-7f0581",
+    "2026-09-30-0f3455",
+    "2026-09-30-6e226e",
+    "2026-09-30-9a1d56"
+  ],
+  "stories": [
+    {
+      "id": "2026-09-30-9a1d56",
+      "title": "Fire at data center in Seoul, South Korea, sees 100 people evacuated",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [
+        "operations",
+        "safety"
+      ],
+      "published_at": "2026-09-30T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/fire-at-data-center-in-seoul-south-korea-sees-100-people-evacuated/",
+          "type": "html-list"
+        }
+      ],
+      "published_precision": "day",
+      "content": "More than 100 people had to be evacuated after a fire broke out at a data center in Seoul, South Korea.\n\nFirefighters were called to tackle the blaze at the data center in the Gasan-dong area of the Geumcheon-gu district at 11:55 am on Tuesday, September 29. Eighty officers and 14 fire engines were dispatched, and they extinguished the fire by 3:13 pm.\n\nGeumcheon Fire Department said there were no casualties as a result of the fire, but 105 people had to be evacuated due to the incident. Investigations into the cause of the blaze continue, but it is thought to have originated in a transformer in the data center’s uninterruptible power supply (UPS) room.\n\n*Update:*\n\nThough the fire department did not name the data center involved, STTGDC has confirmed to *DCD* that the blaze occurred at its Seoul 1 facility. The 30MW, 40,000 sqm (430,556 sq ft) facility was launched in July, having first been announced in 2021.\n\nA spokesperson for STTGDC said: \"Smoke was generated following an electrical component failure while new electrical equipment was being tested at STT Seoul 1 in a test environment separate from the systems supporting customer operations.\n\n\"Emergency response services conducted thorough checks and confirmed that there was no ongoing risk to electrical or life safety. There was no impact on customer systems, services, or overall data center operations.\"\n\n*Original story continues:*\n\nThough data centers are relatively rare, South Korea’s government suffered devastating losses after a blaze at the National Information Resources Service (NIRS) data center, located in the city of Daejeon, last September. It is thought that 858TB of government information, held on hard drives that had not been backed up, was lost in the blaze.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/fire-at-data-center-in-seoul-south-korea-sees-100-people-evacuated/"
+    },
+    {
+      "id": "2026-09-30-6e226e",
+      "title": "Optical interconnect startup CScale emerges from stealth following investment from Nvidia and Intel",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "investment"
+      ],
+      "published_at": "2026-09-30T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-cscale-emerges-from-stealth-following-investment-from-nvidia-and-intel/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "CScale",
+        "NVIDIA",
+        "Intel"
+      ],
+      "published_precision": "day",
+      "content": "Optical interconnect startup CScale has exited stealth following a $145 million Series C funding round that saw investment from Nvidia and Intel Capital.\n\nThe round was co-led by Atreides Management, Valor Equity Partners, and Premji Invest, with additional participation from Sutter Hill Ventures and Maverick Silicon. It brings the total raised by CScale to $188 million.\n\nFounded in 2023 by the company’s CTO, Sanjai Kohli, the Palo Alto-headquartered startup is developing an optical interconnect to support AI scale-up networking.\n\nFew details have been provided by the startup about its technology, but in a statement, CScale said it is architecting its interconnect in such a way that when optical failures occur, they are contained and therefore don’t interrupt compute.\n\nThe startup added that the funding would allow it to accelerate the development and commercialization of its optical interconnect offering.\n\n“As AI scale-up domains extend across dozens of racks, optical interconnect becomes essential,” said Martin Lund, CEO of CScale. “At that scale, reliable, predictable communication is fundamental to system economics. Easier part replacement improves serviceability, not continuity. We’re designing the interconnect for continuity. Lasers will fail. Compute shouldn’t.”\n\nGavin Baker, managing partner and chief investment officer at Atreides Management, added: \"AI infrastructure is no longer just a compute problem. It is a systems problem. As scale-up systems move toward gigawatt-class deployments, interconnect bandwidth means nothing without system reliability. Every optical failure is a compute failure. At this scale, failures are not hypothetical—they are inevitable. CScale is designing reliable scale-up optics for next-generation AI factories, unlocking the full performance of optics without trade-offs.”",
+      "content_url": "https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-cscale-emerges-from-stealth-following-investment-from-nvidia-and-intel/"
+    },
+    {
+      "id": "2026-09-30-0f3455",
+      "title": "CoreWeave makes Nvidia Vera Rubin NVL72 available, Cognition is early customer",
+      "summary": "CoreWeave has made Nvidia's next-generation Vera Rubin NVL72 rack-scale systems generally available to its cloud customers, with AI software developer Cognition among the first to access the new hardware. The NVL72 platform pairs Nvidia's Vera CPU with Rubin GPUs in a liquid-cooled 72-GPU rack, and CoreWeave is among the first cloud providers to deploy it at scale.",
+      "why_it_matters": "Early access to Vera Rubin hardware gives CoreWeave a performance edge in the race to host frontier AI training and inference workloads, strengthening its hand against the major hyperscalers. For APAC buyers, the launch compresses the window in which cutting-edge compute is scarce and expensive — and ramps up pressure on regional data centre operators and governments to secure power and space fast enough to house these dense, liquid-cooled racks as they arrive.",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "hyperscale"
+      ],
+      "published_at": "2026-09-30T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/coreweave-makes-nvidia-vera-rubin-nvl72-available-cognition-is-early-customer/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "CoreWeave",
+        "NVIDIA",
+        "Cognition"
+      ],
+      "published_precision": "day",
+      "content": "CoreWeave is now offering the Nvidia Vera Rubin NVL72 system on its cloud platform.\n\nJust a couple of months after the company revealed that it had installed and was operating what it claimed was the first fully working Vera Rubin NVL72 rack, the latest generation of Nvidia hardware is now available to customers.\n\nThe company announced the news at its Fully Connected conference in San Francisco.\n\nThe first customer to adopt the platform is Cognition, which CoreWeave says began using the Vera Rubin systems in early September.\n\n“Bringing up Nvidia Vera Rubin NVL72 so quickly, and having a customer already seeing performance gains within days, is the payoff from years of engineering our platform across GPU generations,” said Chen Goldberg, executive vice president of product & engineering at CoreWeave. “With customers like Cognition, that investment shows up in the ability to get production workloads running within days. When it comes to agentic tasks, long contexts, repeated model calls, and thousands of concurrent tasks put pressure on the entire platform. Our job is to make compute, networking, and software work as a single system, so customers can build increasingly complex agents without taking on the infrastructure complexity themselves.”\n\nAccording to Silas Alberti, SVP research & founding team at Cognition, the company has seen up to a 4.8x increase in total token throughput for its SWE-2 inference workloads on the new generation.\n\nThe Rubin platform comprises six chips in total – the NVLink 6 Switch, ConnectX-9 SuperNIC, BlueField-4 DPU, and Spectrum-6 Ethernet Switch, in addition to the Vera CPU and Rubin GPU. Vera is the successor to Nvidia’s Grace CPU, while Rubin will succeed Blackwell GPUs, with Nvidia claiming Rubin will be capable of achieving 5x and 3.5x inference and training performance, respectively, compared to Blackwell.\n\nThe NVL72 system - Nvidia's rack-scale offering that comprises 36 CPUs and 72 GPUs - differs from the Vera Rubin generation in that it is 100 percent liquid-cooled and features cable‑free modular tray designs, which Nvidia claims will allow installation times to be reduced from two hours to five minutes.\n\nIn addition to the availability of Vera Rubin systems, CoreWeave is also planning to offer the Vera CPU as a standalone offering. CoreWeave has traditionally been focused on offering access to GPUs.\n\nAccording to Corey Sanders, SVP of product at CoreWeave, this is still in the early stages, but the company is expecting some customers to begin testing it in the coming weeks, and a few have had early access.\n\nVera is designed for AI agents and to meet the needs of new workloads. The CPU will run on CoreWeave as a bare-metal offering.\n\nDeployed at rack-scale, CoreWeave will offer 128 Vera CPUs and 11,264 cores in a single rack, with BlueField-4 DPUs and Spectrum-X Ethernet switching delivering secure, high-performance connectivity between Vera nodes.\n\n“General-purpose infrastructure bottlenecks agentic AI; Vera is the first CPU explicitly designed to accelerate it,” said Goldberg. “Our platform natively enables Vera with products like CoreWeave Sandboxes out of the box. Teams can instantly spin up thousands of isolated environments, removing operational friction and accelerating the entire AI loop on day one.”\n\nAlso revealed at the Fully Connected conference was a new customer contract with Ennoble Care and the launch of CoreWeave Forge.\n\nThe home-based primary, palliative, and hospice care company is deploying Nvidia RTX Pro 6000 Blackwell Server Edition nodes of CoreWeave Kubernetes Service to enable the company to bring AI into everyday clinical workloads, including summarization, documentation, and clinical decision support.\n\n“We've built a full-stack, ONC-certified EMR purpose-built for home-based primary care, and we're now developing multiple AI agents on top of it, both to augment clinical delivery and to automate back-office functions,\" said Jonathan Taylor, CTO, Ennoble Care. \"CoreWeave is the right solution to help maintain our clinical standards. It gives us reserved capacity we can count on, a Kubernetes environment our team can move into quickly, and engineers who answer the phone. That combination allows us to scale the AI capabilities already built into our care delivery workflows and proprietary electronic medical record system, extending them to tens of thousands of additional patients as we continue to grow.”\n\n“Clinical inference is one of the most demanding places AI can run. The workload is continuous, the latency budget is short, and the compliance requirements are absolute,” added Jon Jones, chief revenue officer at CoreWeave. “That is what The Essential Cloud for AI means in practice. It’s a cloud ready for the workloads that matter most, in the industries where precision is everything.”\n\nCoreWeave Forge, meanwhile, is a development layer that has been added to the cloud platform. According to the company, this enables teams to build, improve, and evaluate AI models and agents in a single environment. The offering is now generally available.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/coreweave-makes-nvidia-vera-rubin-nvl72-available-cognition-is-early-customer/"
+    },
+    {
+      "id": "2026-09-30-300df6",
+      "title": "Australia's CDC plans gigawatt-scale data center campus in Wagga Wagga",
+      "summary": "CDC, one of Australia's largest data center operators, has announced plans to build a gigawatt-scale campus in Wagga Wagga, a regional city in New South Wales. The project would rank among the biggest data center developments in Australia and signals a shift of hyperscale infrastructure away from the congested Sydney market toward regional locations with access to large land parcels and power capacity. The plan follows a wave of AI-driven demand that has pushed Australian operators to seek new sites capable of supporting high-density compute loads.",
+      "why_it_matters": "A gigawatt-scale campus in regional NSW would redraw Australia's data center map. Hyperscalers and AI customers struggling with power constraints and planning delays in Sydney gain a viable alternative, while Wagga Wagga stands to capture construction jobs, grid investment, and a new anchor tenant for the local economy. For rivals like NextDC, AirTrunk, and DCI, CDC's move raises the competitive bar and may accelerate their own regional land-banking and grid-connection strategies before transmission capacity in inland NSW becomes scarce.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "capacity",
+        "investment",
+        "hyperscale",
+        "ai"
+      ],
+      "published_at": "2026-09-30T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/australias-cdc-plans-gigawatt-scale-data-center-campus-in-wagga-wagga/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "CDC Data Centres"
+      ],
+      "published_precision": "day",
+      "content": "CDC Data Centres is planning a new gigawatt-scale campus in New South Wales, Australia.\n\nThe company has announced that it is “exploring the opportunity” to build a new data center campus within an established industrial and waste‑management cluster in Gregadoo, on the south‑eastern edge of Wagga Wagga.\n\n“A CDC data center in Gregadoo would provide essential and secure data capacity to support the Riverina and NSW more broadly and position the region as a key part of Australia's digital economy,” the company said on its website.\n\nWagga Wagga is a city in the Riverina region of New South Wales, some 455km (283 miles) southwest of Sydney and more than 230km (143 miles) west of Canberra.\n\nAccording to a SEARs application with the New South Wales government, the campus would be located on vacant land at 216 Ashfords Road, Gregadoo, approximately 11km (seven miles) south of the Wagga Wagga city center.\n\nThe 103.4-hectare site could host up to four single-story data centers totaling a combined 189,325 sqm (two million sq ft) and up to 1.4GW of capacity. Two on-site substations are also planned.\n\nBuilt out in phases, each building would total 47,275 sqm (508,865 sq ft) and 240MW of capacity. Up to AU$15 billion (US$10.4bn) could be invested, according to the Wagga Wagga government.\n\nCDC said the site would use closed-loop cooling systems to reduce water use. It would feature up to 384 diesel generators and 13MW of rooftop solar panels.\n\nThe grid-connected campus would be located approximately 1.3km (0.8 miles) from the new TransGrid Wagga Terminal Station.\n\nLeading Edge DC, an Australian Edge data center firm, has a small facility in Wagga Wagga.\n\nFounded in 2007 and backed by investment firm Infratil, CDC has nearly 20 sites in operation and development across Sydney, Canberra, Melbourne, and Auckland, New Zealand.\n\nIt has more than 600MW of data center capacity in operation and development across Melbourne, Sydney, Canberra, and New Zealand (70MW). The company’s future development pipeline now totals a further 1.6GW out to 2034.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/australias-cdc-plans-gigawatt-scale-data-center-campus-in-wagga-wagga/"
+    },
+    {
+      "id": "2026-09-30-e5fcb5",
+      "title": "BrightRay plans 40MW data center in Macau",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "capacity",
+        "colocation",
+        "investment"
+      ],
+      "published_at": "2026-09-30T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/brightray-plans-40mw-data-center-in-macau/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "BrightRay"
+      ],
+      "published_precision": "day",
+      "content": "Malaysian pre-fab data center firm BrightRay is set to develop a data center in Macau.\n\nThe company last week announced that it has entered into a prefabricated module sales framework agreement with an unnamed customer based in Macau for a data center project there.\n\nThe customer is the developer of a planned AI data center project in Coloane, Macau, and will use BrightRay’s FPD fully prefabricated data center solution.\n\nLocated at Rua das Albizias Nos 71-93, Rua Marginal da Concordia, the five-story facility could offer up to 40MW of IT capacity across 9,000 sqm (96,875 sq ft). Delivery is expected in the third quarter of 2027.\n\nThe Tier III-quality facility could offer air-cooled, fully liquid-cooled, and hybrid air-liquid IT deployments, supporting 10kW to 500kW per rack.\n\n“Macau’s limited space places higher demands on land-use efficiency and on the organization of on-site construction,” said Bin Wang, founder of BrightRay. “We believe that additional AI computing infrastructure will contribute to the development of Macau’s digital economy, and we look forward to working with the customer to advance the project.\n\n\"The framework agreement marks an important step in the expansion of BrightRay’s prefabricated data center business. BrightRay’s project delivered in Johor, Malaysia, already has 70MW in operation, with a further 50MW planned.”\n\nThe agreement doesn’t include an obligation to purchase or supply modules, and will require a definitive sales contract, which will be signed after BrightRay subsidiary BrightRay Veridian has secured a tenant for the project and the customer has signed a legally binding lease with that tenant.\n\nThe current agreement runs until the end of September 2027, after which it will terminate automatically.\n\nBrightRay (aka BrightRay Science Inc.) has previously developed a data center in Johor, Malaysia.\n\nMacau (or Macao) is a special administrative region of China. Formerly a Portuguese colony, it was returned to China in 1999 under a similar \"one country, two systems\" agreement as Hong Kong.\n\nCTM is the only data center in the colony, according to Data Center Map. GDS has previously outlined plans for a 20MW facility there, but it's unclear if the project went live.\n\nHuawei has previously provided Macau’s Municipal Affairs Bureau (IAM) with a data center, according to an online case study.\n\nTelecoms firms China Telecom and 3 Macau also operate in Macau.\n\n## BUUU to acquire majority stake in BrightRay\n\nLast month, BrightRay announced that Nasdaq-listed BUUU Group Limited had entered into a definitive agreement to acquire a 60 percent equity interest in the data center company. Under the deal, BrightRay will become a consolidated subsidiary of BUUU upon completion of the transaction.\n\nBUUU also signed private placement agreements which, together with potential proceeds from the cash exercise of outstanding warrants, are expected to generate aggregate gross proceeds of more than $60 million. The proceeds are intended to support BrightRay’s capacity expansion and working capital requirements.\n\nBrightRay founder Wang said: “We made the data center one of the fastest parts of AI instead of the slowest. With BUUU, we gain the capital base and international standing to take this model global.”\n\nEstablished in 2017, BUUU is a meetings, incentives, conferences, and exhibitions solutions provider based in Hong Kong. BUUU will hold a call option to acquire the remaining 40 percent interest in BrightRay during a three-year period following closing.\n\nUnder the agreement, BUUU expects to pay the acquisition consideration in two components: newly issued BUUU Class A ordinary shares and a promissory note convertible into up to ten million BUUU shares. The final consideration will be limited to 19.99 percent of BUUU's total outstanding shares.\n\nBUUU management said: “In the AI era, the bottleneck is not the chips but the buildings, power, and cooling they cannot run without. BrightRay turned that bottleneck into a manufacturable product and proved it at hyperscale. We are acquiring the rate-limiting step of the AI economy.”\n\nBrightRay said it was previously supported by “Tencent-affiliated investors.”",
+      "content_url": "https://www.datacenterdynamics.com/en/news/brightray-plans-40mw-data-center-in-macau/"
+    },
+    {
+      "id": "2026-09-30-7f0581",
+      "title": "Investment bankers set for $215m fee bonanza in Firmus float",
+      "summary": "Advisers working on the planned ASX listing of Australian data center operator Firmus are in line to collect around US$215 million in fees, highlighting the scale of the deal. Firmus, which operates an AI-focused data center campus in Tasmania and the Indigo subsea cable, has been preparing its IPO amid strong investor appetite for AI infrastructure assets. The fee pool would be split among lead managers, legal counsel, and other advisers across the float.",
+      "why_it_matters": "A fee pool of this size signals that Firmus's float is one of the larger infrastructure listings out of Australia, and that global capital markets are rewarding AI-linked data center assets with premium valuations. For APAC investors, the listing offers a rare pure-play on domestic AI compute capacity; for rivals and landlords such as AirTrunk, NEXTDC, and Canberra Data Centres, a successful raise strengthens the case for further capacity expansion across the region.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "ai",
+        "ipo",
+        "capacity"
+      ],
+      "published_at": "2026-09-30T06:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/financial-services/investment-bankers-set-for-215m-fee-bonanza-in-firmus-float-20260930-p6110l",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Firmus"
+      ],
+      "content": "Firmus Technologies’ float is set to deliver investment bankers a $215 million payday, making it the most lucrative ASX listing for advisers ever.\n\nThe company, which rents out its specialised processing chips to large technology companies, is expected to begin trading on October 23, with Morgan Stanley, Bank of America, JPMorgan and Morgans Financial appointed as joint lead managers for the $7.2 billion raising.\n\nLoading...",
+      "content_url": "https://www.afr.com/companies/financial-services/investment-bankers-set-for-215m-fee-bonanza-in-firmus-float-20260930-p6110l"
+    }
+  ]
+}

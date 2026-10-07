@@ -1,0 +1,135 @@
+{
+  "type": "weekly",
+  "period": "2026-W40",
+  "date_range": {
+    "start": "2026-09-28",
+    "end": "2026-10-04"
+  },
+  "generated_at": "2026-10-07T12:33:03Z",
+  "complete": true,
+  "stats": {
+    "stories": 29,
+    "sources": 5,
+    "days": 7,
+    "read_minutes": 4
+  },
+  "title": "Firmus float crowns Australia's data center boom",
+  "lede": "The week's clearest signal came from Australia, where Firmus Sustainable Data Centres moved toward what could be one of the largest listings in ASX history, with bankers circling roughly US$215 million in fees and the company talking up a Nasdaq debut even as its Tasmanian operations drew fresh community and political criticism over power and water use. The enthusiasm is underwritten by an extraordinary pipeline of projects: CDC is planning a gigawatt-scale campus in Wagga Wagga, developers filed plans for a 400MW campus outside Melbourne, Macquarie Capital backed Queensland developer Zerra after a reported $30 billion deal, and Goodman withdrew a 90MW Sydney application, a reminder that not every proposal advances. Beyond Australia, Meta agreed to consume AI capacity across Firmus' Southeast Asian facilities, Amazon bought land near Kuala Lumpur, Akamai signed an $11.6 billion compute deal with Anthropic, and Tencent lined up 100,000 Nvidia GPUs through Oracle. In Japan, TEPCO moved against grid 'capacity squatters', underscoring how power, not capital, is becoming the sector's binding constraint.",
+  "themes": [
+    {
+      "heading": "Firmus IPO splits the market",
+      "narrative": "Firmus, the Australian operator behind the Sahara AI cloud platform and Tasmanian data center campuses, is preparing an ASX listing that could value it at A$43.7 billion, a figure that has divided the country's largest institutional investors. Advisers stand to collect around US$215 million in fees, and the company is already spruiking a future Nasdaq listing alongside the Australian float. The valuation debate is now a proxy for how far investors are willing to price in the AI infrastructure build-out.",
+      "story_ids": [
+        "2026-09-30-7f0581",
+        "2026-10-01-56ce98",
+        "2026-10-04-e28013"
+      ]
+    },
+    {
+      "heading": "Australia's gigawatt-scale pipeline grows",
+      "narrative": "CDC unveiled plans for a gigawatt-scale campus in Wagga Wagga, while a 400MW campus was proposed outside Melbourne, proposals that would rank among the largest in the country. Macquarie Capital took a stake in Zerra after the developer's reported $30 billion Queensland data center deal, and AI computing firm Sharon AI signed on to lease capacity from GreenSquareDC. The counterpoint came from Sydney, where Goodman withdrew its application for a 90MW campus.",
+      "story_ids": [
+        "2026-09-30-300df6",
+        "2026-09-29-b7b32f",
+        "2026-10-03-5ee17a",
+        "2026-09-28-020b1f",
+        "2026-09-28-e0a237"
+      ]
+    },
+    {
+      "heading": "Hyperscalers lock in AI capacity",
+      "narrative": "Meta agreed to consume AI compute capacity across Firmus Technologies' Southeast Asian facilities, deepening its regional AI infrastructure presence. Amazon acquired land outside Kuala Lumpur in a move read as positioning for a future AWS campus. Akamai committed to an $11.6 billion compute supply deal with Anthropic, while Tencent reportedly secured access to 100,000 Nvidia GPUs through Oracle Cloud Infrastructure, one of the largest single GPU procurement arrangements by a Chinese company since US export controls tightened.",
+      "story_ids": [
+        "2026-09-29-91ce90",
+        "2026-09-29-123f5e",
+        "2026-09-28-a26751",
+        "2026-10-01-54712e"
+      ]
+    },
+    {
+      "heading": "AI hardware supply chain deepens in Asia",
+      "narrative": "Broadcom and Toppan opened Singapore's first advanced chip substrate facility, producing the high-end packaging components critical for AI accelerators. Samsung committed $1 billion to KKR's Helix data center investment platform, pairing its memory and foundry interests with infrastructure. CoreWeave made Nvidia's Vera Rubin NVL72 rack-scale systems generally available with Cognition as an early customer, and optical interconnect startup CScale emerged from stealth backed by Nvidia and Intel. In Japan, hard-drive suppliers long written off are seeing a revenue revival on AI data centers' appetite for high-capacity nearline HDDs.",
+      "story_ids": [
+        "2026-09-29-ee581c",
+        "2026-09-29-9fd962",
+        "2026-09-30-0f3455",
+        "2026-09-30-6e226e",
+        "2026-10-03-203a15"
+      ]
+    },
+    {
+      "heading": "Power, water and secrecy draw scrutiny",
+      "narrative": "TEPCO moved to curb 'capacity squatters' who reserve large blocks of grid power for planned AI data centers but delay construction, as surging demand strains Japan's power supply. In Australia, Firmus faced community and political backlash over the electricity and water demands of its Tasmanian facilities, while AirTrunk's chief customer officer took questions from the Newcastle Herald and ABC Radio Newcastle about the proposed Kurri Kurri data centre. AWS, for its part, said it will no longer require non-disclosure agreements from communities and officials in data center negotiations, ending a long-standing and controversial practice.",
+      "story_ids": [
+        "2026-10-03-f2a57f",
+        "2026-10-02-5b1300",
+        "2026-10-01-085002",
+        "2026-10-01-51d6ce",
+        "2026-10-02-fca79b"
+      ]
+    },
+    {
+      "heading": "Edge expansions, deals and disruptions",
+      "narrative": "AMD acquired AI research firm World Labs in an all-stock deal worth $8.2 billion, and SubCo plans three subsea cables across the Indo-Pacific. BrightRay is planning a 40MW data center in Macau, extending China's build-out beyond the mainland hubs, while Zella DC launched stackable micro data center boxes for edge deployments. KDDI named a new chief executive for its Americas operations, a Seoul data center fire forced the evacuation of 100 people, and Nikkei Asia's September recap highlighted the backlash facing China's canal and data center ambitions in Southeast Asia.",
+      "story_ids": [
+        "2026-09-29-a92938",
+        "2026-09-28-56cdeb",
+        "2026-09-30-e5fcb5",
+        "2026-10-02-511483",
+        "2026-10-01-2c59c9",
+        "2026-09-30-9a1d56",
+        "2026-10-01-0a28e5"
+      ]
+    }
+  ],
+  "project_milestones": [
+    {
+      "project_id": "cdc-wagga-wagga-campus",
+      "name": "CDC Wagga Wagga Campus",
+      "operator": "CDC Data Centres",
+      "date": "2026-09-30",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-09-30-300df6"
+    },
+    {
+      "project_id": "brightray-macau-data-center",
+      "name": "BrightRay Macau Data Center",
+      "operator": "BrightRay DC",
+      "date": "2026-09-30",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-09-30-e5fcb5"
+    },
+    {
+      "project_id": "airtrunk-kurri-kurri-data-centre",
+      "name": "AirTrunk Kurri Kurri Data Centre",
+      "operator": "AirTrunk",
+      "date": "2026-10-01",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-01-085002"
+    },
+    {
+      "project_id": "zerra-queensland-data-centre-campus",
+      "name": "Zerra Queensland Data Centre Campus",
+      "operator": "Zerra",
+      "date": "2026-10-03",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-03-5ee17a"
+    }
+  ]
+}

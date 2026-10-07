@@ -265,6 +265,60 @@ def decode_turbo_stream(text: str) -> list[dict]:
     return out
 
 
+def _curl_get_text(url: str, forced: str | None = None) -> str | None:
+    """Last-resort fetch via the curl binary. Some sites (e.g. DCD behind
+    Cloudflare) fingerprint-block python/httpx with a 403 while the same
+    request through curl succeeds. Honors FETCH_PROXY like make_client;
+    -k because the local accelerator MITMs TLS. Returns None on failure."""
+    import shutil
+    import subprocess
+
+    curl = shutil.which("curl")
+    if not curl:
+        return None
+    cmd = [curl, "-fsSL", "--max-time", "30", "-A", USER_AGENT]
+    proxy = os.environ.get("FETCH_PROXY")
+    if proxy:
+        cmd += ["-x", proxy, "-k"]
+    cmd.append(url)
+    try:
+        out = subprocess.run(cmd, capture_output=True, timeout=40).stdout
+    except (OSError, subprocess.TimeoutExpired):
+        return None
+    if not out:
+        return None
+    if forced:
+        return out.decode(forced, errors="replace")
+    head = out[:4096].decode("ascii", errors="ignore").lower()
+    m = re.search(r'charset=["\']?([a-z0-9_-]+)', head)
+    if m:
+        enc = m.group(1)
+        if enc in ("gbk", "gb2312"):
+            enc = "gb18030"
+        try:
+            return out.decode(enc, errors="replace")
+        except (LookupError, ValueError):
+            pass
+    return out.decode("utf-8", errors="replace")
+
+
+def _get_text(client: httpx.Client, source: dict, url: str) -> str:
+    """client.get + decode_body, with a curl fallback on a plain 403."""
+    try:
+        resp = client.get(url)
+        resp.raise_for_status()
+        return decode_body(resp, source.get("encoding"))
+    except httpx.HTTPStatusError as exc:
+        if exc.response.status_code != 403:
+            raise
+        text = _curl_get_text(url, source.get("encoding"))
+        if text is None:
+            raise
+        log.info("%s: httpx got 403, curl fallback succeeded for %s",
+                 source["name"], url)
+        return text
+
+
 def fetch_html_list(source: dict, client: httpx.Client) -> list[dict]:
     """Scrape a list/topic page for article links + titles (+dates when
     available). Two extraction styles, configured per source in
@@ -280,19 +334,19 @@ def fetch_html_list(source: dict, client: httpx.Client) -> list[dict]:
       url_pattern whitelist on the absolute href, optional date_selector
       element or date_from: url + date_pattern.
     """
-    resp = client.get(source["url"])
-    resp.raise_for_status()
-    texts = [decode_body(resp, source.get("encoding"))]
+    texts = [_get_text(client, source, source["url"])]
     # Optional pagination: page_url carries a {page} placeholder; pages is
     # the total page count including page 1 (e.g. pages: 3 -> url, then
     # page_url with page=2 and page=3). For archive-style sources whose RSS
-    # window is shorter than a long weekend.
-    if source.get("page_url") and source.get("pages", 1) > 1:
-        for page in range(2, int(source["pages"]) + 1):
+    # window is shorter than a long weekend. FETCH_HTML_PAGES overrides
+    # `pages` for deep backfills (e.g. FETCH_HTML_PAGES=7 reaches ~2 weeks
+    # back on the DCD archive).
+    pages = int(os.environ.get("FETCH_HTML_PAGES", "0")) or int(source.get("pages", 1))
+    if source.get("page_url") and pages > 1:
+        for page in range(2, pages + 1):
             try:
-                r = client.get(source["page_url"].format(page=page))
-                r.raise_for_status()
-                texts.append(decode_body(r, source.get("encoding")))
+                texts.append(_get_text(client, source,
+                                       source["page_url"].format(page=page)))
             except Exception as exc:  # noqa: BLE001
                 log.warning("%s: page %d fetch failed: %s",
                             source["name"], page, exc)

@@ -1,0 +1,142 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-10-07T12:15:43Z",
+  "hot": [
+    "2026-09-28-a26751",
+    "2026-09-28-020b1f",
+    "2026-09-28-e0a237",
+    "2026-09-28-56cdeb"
+  ],
+  "stories": [
+    {
+      "id": "2026-09-28-e0a237",
+      "title": "Goodman withdraws application for 90MW data center campus in Sydney, Australia",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "capacity",
+        "power",
+        "regulation",
+        "colocation"
+      ],
+      "published_at": "2026-09-28T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/goodman-withdraws-application-for-90mw-data-center-campus-in-sydney-australia/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Goodman"
+      ],
+      "published_precision": "day",
+      "content": "Australian real estate firm Goodman Group has dropped plans for a data center campus in Sydney.\n\nGoodman this week announced it has pulled its application for Project Mars, a 90MW development planned in the Lane Cove area of Sydney, New South Wales.\n\nIn a post on its website, Goodman said that since commencing the planning process in March 2025, the policy and regulatory environment for large-scale data center development had “evolved significantly.”\n\n“Goodman has carefully considered these changes together with feedback received through the planning process, including the views of the local community,” the company said. “Having considered emerging federal and state policy, Goodman has concluded that it will not progress with the development application.”\n\nAn official withdrawal letter was also posted to the New South Wales government’s planning portal this week.\n\nNews of Project Mars first surfaced in April 2025. Located at 12 Mars Road, the company had hoped to invest AU$1.2 billion (US$725 million) in developing two two-story buildings totaling 18,830 sqm (202,685 sq ft).\n\nTraditionally focused on logistics and industrial real estate, Goodman has data center projects in operation or development across Hong Kong, Australia, Germany, the US, and Japan.\n\nDespite the setback, Goodman still has plans to develop multiple data center sites across Sydney.\n\nThe company is redeveloping the former ABC television studios in the city’s North Shore area into a 90MW data center.\n\nIt also has approval for a 126MW facility in Guildford West on a former Castrol site and a 135MW project in the Macquarie Park area.\n\nIt also has plans to redevelop a former Eaton warehouse site in Mascot into a 90MW facility.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/goodman-withdraws-application-for-90mw-data-center-campus-in-sydney-australia/"
+    },
+    {
+      "id": "2026-09-28-56cdeb",
+      "title": "SubCo plans three subsea cables in Indo-Pacific",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global",
+        "southeast-asia"
+      ],
+      "topics": [
+        "subsea-cable",
+        "connectivity",
+        "investment"
+      ],
+      "published_at": "2026-09-28T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/subco-plans-three-subea-cables-in-indo-pacific/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "SubCo"
+      ],
+      "published_precision": "day",
+      "content": "Australian digital infrastructure firm SubCo is planning several new subsea cable projects linking Australia, Asia, and the US.\n\nThe company last week announced three new Indo-Pacific subsea projects totaling more than 40,000km (24,855 miles) of fiber.\n\nAPX North will span 9,500km (5,903 miles), connecting Sydney, Australia, to Japan via Guam. The company said it will feature switched branching units enabling select fiber pairs to bypass Guam entirely.\n\nAPX East-2 will span 10,000km (6,214 miles), connecting Guam to Los Angeles.\n\nAPX West will span 4,600km (2,858 miles), connecting Perth to Singapore, with branches to Jakarta and Batam.\n\nAll three systems will offer 24 fiber pairs and are due live in 2029.\n\nFull details on the landing points have not been shared.\n\n“This segment is vital and will serve as the backbone for trans-Pacific traffic between Asia and the US, as well as providing diverse connectivity for Australia and Japan via APX North. We expect this system to be incredibly popular,” said founder & co-CEO of SubCo, Bevan Slattery. “Singapore and Indonesia remain critical to Asia's connectivity landscape, and their strategic importance will only grow as bandwidth demand accelerates, and new interconnection hubs are needed to deliver greater flexibility and route diversity. We are building as much of that as possible into our system design and making that available to our cornerstone customers through APX West.”\n\nCurrently, the Australia-Japan Cable (AJC) is the only cable directly linking Australia to Japan (with branches to Guam). A consortium project dating back to 2001, the cable was backed by AT&T, NTT, SoftBank, Telstra, and Verizon.\n\nVocus’ Australia-Singapore Cable (ASC) from 2018 and the Inigo-West consortium cable from 2019 both currently connect Perth to Singapore. Batam, located close to Singapore, has more than 20 cables live or in development, but only one (BW Digital’s upcoming Hawaiki Nui 1 system) is due to connect directly to Australia.\n\nUS territory Guam is a major cable landing point in the Pacific Ocean, with some 18 live and planned cables landing there linking the US, Australia, Japan, and Southeast Asia.\n\n“I know it’s ambitious, but it’s achievable, and it’s necessary. People have been slow to understand that AI factories are dead without massive subsea connectivity to carry tokens from factory to customers,” added Slattery. “That’s why we are about to undertake the single largest subsea infrastructure build ever by a carrier in the Indo-Pacific. Not only is the build itself huge, but the timeframe is compressed with over 40,000km of cable to be installed in just over three years.”\n\nSubCo, part of Slattery’s Soda Group, also owns the Oman Australia Cable and has capacity on the Indigo subsea cables. The company is developing the SMAP cable linking Sydney, Melbourne, Adelaide, and Perth, and is additionally developing a domestic subsea cable connecting mainland Australia to the island of Tasmania.\n\nSubCo is also building APX East, a new cable linking Australia directly to the US.\n\nFirst announced in January, the 16-fiber-pair system is set to connect Australia to the US, running from the north of Sydney in New South Wales to San Diego, California. The cable’s landing station in Australia will be at NextDC’s S1/S2 site in Sydney.\n\nAPX East is expected to be Ready for Service in Q4 2028. A Hawaii branch is to follow in Q4 2029, and a Fiji branch is also planned.\n\nAustralian neocloud Firmus is taking capacity on both the Tasmanian cable and APX East.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/subco-plans-three-subea-cables-in-indo-pacific/"
+    },
+    {
+      "id": "2026-09-28-020b1f",
+      "title": "Sharon AI to lease capacity from Australia's GreenSquareDC",
+      "summary": "Sharon AI, an artificial intelligence computing company, has signed an agreement to lease data center capacity from Australia's GreenSquareDC, an AI-optimized data center operator. The arrangement gives Sharon AI dedicated, high-density compute capacity in Australia as demand for AI infrastructure in the region accelerates.",
+      "why_it_matters": "The lease underscores how AI demand is being served through wholesale capacity deals rather than hyperscaler self-builds, putting niche operators like GreenSquareDC in a stronger negotiating position. For Australia's market, it means more AI workloads landing domestically, tightening power and rack supply and pressuring landlords and tenants alike to secure capacity earlier.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "colocation",
+        "investment",
+        "capacity"
+      ],
+      "published_at": "2026-09-28T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/sharon-ai-to-lease-capacity-from-australias-greensquaredc/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Sharon AI",
+        "GreenSquareDC"
+      ],
+      "published_precision": "day",
+      "content": "Australian neocloud Sharon AI is to lease capacity in Sydney from data center firm GreenSquare.\n\nGreenSquare last week announced that it has signed a long-term customer contract for the first stage of its SYD1 data center campus in Western Sydney with Sharon AI.\n\nSharon AI is expected to use the capacity to deploy approximately 8,200 Nvidia Blackwell Ultra GPUs. Initial operations are targeted for Q4 2026.\n\nGreenSquare CEO Charles Penny said: “Securing this customer commitment is an important milestone for GreenSquare. It validates our platform and the demand for AI-ready infrastructure that can be delivered with speed, density, and operational discipline. Our focus now is on execution – bringing next-generation capacity online safely, reliably, and on schedule.”\n\nNasdaq-listed Sharon currently utilizes Equinix in Sydney and NextDC in Melbourne for data center capacity.\n\nThe company also listed GreenSquare and CDC as data center partners in its most recent earnings presentation.\n\nThe company said it has 212MW of capacity online or in development, and some 64,000 Nvidia GPUs due to be deployed by mid-2027.\n\nThe firm, which went public earlier this year, recently bought a former paper mill in New South Wales, and in the US has a large project planned in Texas.\n\nGreenSquareDC launched in October 2022, and was acquired by Swiss private equity firm Partners Group back in March 2025.\n\nIts Sydney campus is a former IBM site. Located at 3 Brookhollow Avenue, the site includes a legacy data center the company is refurbishing, and plans to develop new buildings for a 110MW campus.\n\nGreenSquare launched with plans for a development in Perth, Western Australia, but dropped the project earlier this year. It is planning a large-scale development in Melbourne, Victoria.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/sharon-ai-to-lease-capacity-from-australias-greensquaredc/"
+    },
+    {
+      "id": "2026-09-28-a26751",
+      "title": "Akamai signs $11.6bn compute deal with Anthropic",
+      "summary": "Akamai has signed an $11.6 billion agreement with AI firm Anthropic under which the content delivery network will supply compute capacity for Anthropic's Claude model training and inference workloads. The deal represents one of the largest compute commitments to date involving an edge network provider, signaling a major strategic expansion of Akamai beyond its traditional CDN business into GPU-based cloud infrastructure.",
+      "why_it_matters": "This agreement marks a decisive shift in who supplies AI compute, pulling business away from the dominant hyperscalers toward edge-oriented providers that already operate distributed infrastructure. It validates Akamai's bet on building out GPU clouds at its global Points of Presence, and it gives Anthropic capacity diversity at a time when GPU supply and power availability constrain expansion — likely forcing competitors to lock in similar long-term, multi-billion-dollar supply arrangements.",
+      "score": 78,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "hyperscale",
+        "investment",
+        "compute"
+      ],
+      "published_at": "2026-09-28T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/akamai-signs-116bn-compute-deal-with-anthropic/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Akamai",
+        "Anthropic"
+      ],
+      "published_precision": "day",
+      "content": "AI company Anthropic is to lease compute capacity from Akamai.\n\nThe seven-year deal, valued at $11.6 billion, will see Anthropic to leverage Akamai Cloud's distributed infrastructure and software to support its CPU workloads.\n\nAkamai said the deal includes potential expansion by up to an additional $9bn, reaching a total potential commitment of approximately $20bn.\n\nTotal capital expenditures related to the deal are estimated to be approximately $5.5bn, an increase of approximately $1.7bn in 2026’s capital expenditures to secure and pre-purchase critical supply chain components, including memory.\n\n\"Anthropic is advancing the AI revolution and we are thrilled they chose Akamai’s capabilities for building and operating AI infrastructure at scale,” said Dr. Tom Leighton, co-founder and CEO, Akamai. “Akamai has an unparalleled reputation for helping our customers achieve their business-critical goals and build the future. Our expanding global footprint, combined with our years of experience serving the world’s largest enterprises, positions us to be the infrastructure provider for secure and responsible AI applications and workloads.”\n\nAkamai has also issued a warrant to Anthropic, the continued vesting of which is tied to expansion of the agreements, for up to approximately five percent of Akamai’s common stock outstanding. A portion of the warrant representing approximately two percent of Akamai’s common stock outstanding is expected to vest in connection with the announced commitment.\n\nThe deal adds to the more than $2.8bn in multi-year cloud commitments Akamai has secured this year.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/akamai-signs-116bn-compute-deal-with-anthropic/"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-07T12:15:43Z",
+  "hot": [
+    "2026-10-05-1525f7",
+    "2026-10-05-260f1a",
+    "2026-10-05-5e4094",
+    "2026-10-05-e879c7",
+    "2026-10-05-a93e75"
+  ],
+  "stories": [
+    {
+      "id": "2026-10-05-5e4094",
+      "title": "Jera, Dell Technologies, and Rhaelm team up for behind-the-meter AI infrastructure in Japan",
+      "summary": "Japan's largest power generator Jera, Dell Technologies, and energy infrastructure specialist Rhaelm have formed a partnership to develop behind-the-meter AI computing infrastructure co-located with power generation in Japan. The arrangement pairs on-site electricity supply with Dell's AI server hardware to serve surging domestic demand for AI compute.",
+      "why_it_matters": "Behind-the-meter projects sidestep Japan's famously congested grid interconnection queue, letting AI capacity come online years faster than conventional data centre builds and relieving pressure on utilities facing surging data centre load. For Japan's industrial users and hyperscalers hunting local compute, this creates a new supply channel, while traditional colocation operators face a model that undercuts them on speed and potentially on power cost.",
+      "score": 78,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "ai",
+        "power",
+        "infrastructure"
+      ],
+      "published_at": "2026-10-05T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/jera-dell-technologies-and-rhaelm-team-up-for-behind-the-meter-ai-infrastructure-in-japan/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Jera",
+        "Dell Technologies",
+        "Rhaelm"
+      ],
+      "published_precision": "day",
+      "content": "Power company Jera, Dell Technologies, and sovereign AI provider Rhaelm have signed a Memorandum of Understanding (MoU) to develop AI infrastructure at a \"national scale\" in Japan.\n\nUnder the MoU, the three companies are developing a standardized framework for building AI infrastructure - from power and electrical infrastructure to cooling and AI compute - and will start with a behind-the-meter project in Chiba that will be backed by Apollo Global Management.\n\nDell will provide standardized rack-scale AI infrastructure, while Rhaelm will offer its data center development and delivery expertise, with energy provided by Jera's capabilities across LNG procurement, shipping, import and regasification, and power generation.\n\nIn Chiba, the project will be developed by Rhaelm and Jera at the latter's Chiba Thermal Power Station, located at 2-1377 Soga-cho, Chuo-ku, Chiba.\n\nThe data center will have a power capacity of up to 400MW, and will operate on a behind-the-meter basis. Operations are targeted to begin in or around 2028. An estimated $15 billion will be invested in the project across all phases of development, including land, power infrastructure, construction, and AI compute.\n\nThe liquid natural gas-powered Chiba station has a total maximum output of 4.38GW.\n\nThe companies will also look at other Jera sites for similar deployments, of which the company has more than 20, aiming to have a multi-gigawatt footprint across Japan in the 2030s.\n\nYukio Kani, global CEO and chair of Jera, said: \"Jera is uniquely positioned to power Japan’s AI ambitions. We already generate one third of Japan’s electricity and supply nearly all of the power consumed in the Tokyo metropolitan area, with capabilities spanning the full LNG value chain, from fuel procurement, shipping, receiving terminals and gas infrastructure through to downstream power generation and reliable operations, complemented by a growing renewable energy portfolio.\"\n\nBradd Lewis, CEO & chief revenue officer, Rhaelm, added: \"Rhaelm was built to solve exactly this kind of challenge, taking stranded power capacity and turning it into sovereign AI infrastructure. By co-locating at Jera's Chiba station and deploying the Dell AI Factory as our compute standard, we can deliver a 400MW facility years ahead of a conventional grid-connected timeline. Jera's behind-the-meter power and site access are the foundation, and our role is to bring the execution capability and capital to build on it, with the end goal of replicating that model across Japan at the scale the country's AI ambitions demand.\"\n\nRhaelm is an AI cloud provider headquartered in London and with operations in Europe and Asia Pacific, ultimately targeting a gigawatt-scale platform. According to its website, it has a presence in Portugal, the UK, Poland, Japan, South Korea, and Australia. The company was previously known as Sovereign AI, rebranding to Rhaelm in September.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/jera-dell-technologies-and-rhaelm-team-up-for-behind-the-meter-ai-infrastructure-in-japan/"
+    },
+    {
+      "id": "2026-10-05-a93e75",
+      "title": "Qualcomm and Huawei sign multi-year patent license agreement spanning 5G, compute, AI, and networking technologies",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "regulation",
+        "ai",
+        "5g"
+      ],
+      "published_at": "2026-10-05T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/qualcomm-and-huawei-sign-multi-year-patent-license-agreement-spanning-5g-compute-ai-and-networking-technologies/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Qualcomm",
+        "Huawei"
+      ],
+      "published_precision": "day",
+      "content": "Qualcomm and Huawei have announced a multi-year patent license agreement that will span technologies including 5G, compute, AI, and networking.\n\nThe agreement will see Qualcomm purchase “certain US patents” from Huawei across the aforementioned technology areas.\n\nThe financial terms of the deal have not been disclosed, and no timeline for the transaction’s closure was detailed, with the companies simply stating it will follow “receipt of the necessary regulatory approvals.”\n\nHowever, Huawei has said the deal is expected to push the total value of its patent licensing agreements to more than $6.9 billion once completed.\n\n“Qualcomm has invested in foundational wireless technologies that have enabled successive generations of mobile innovation and earned broad recognition across the global wireless industry,” said John Han, EVP and GM of Qualcomm technology licensing. “This agreement reaffirms industry recognition of Qualcomm’s 5G technology leadership and the success of Qualcomm’s 5G SEP licensing program … [and] likewise reflects Qualcomm's recognition of Huawei's continued innovation and intellectual property in 5G and other technology fields.”\n\nAlan Fan, Huawei’s chief intellectual property officer, added: “Huawei's decades of sustained investment in fundamental R&D have driven innovation and progress in mobile communications and other technology fields. Huawei’s broad contributions to the 4G/5G standards, such as the near-physical-limit signal transmission technology using polar codes, have established Huawei’s leadership in the mobile communications industry, and continuously transformed the way people communicate and live.\n\n“This agreement not only demonstrates the value of Huawei’s innovations, but also recognizes Qualcomm’s foundational contributions to modern communication technologies.”\n\nThe announcement comes two years after the US government revoked some export licenses from Intel and Qualcomm, which had allowed the vendors to supply Huawei with certain semiconductors. Qualcomm had previously received a license from the US government in 2020 to sell older 4G chips to Huawei.\n\nHuawei was banned from providing equipment to the US government under the Defense Authorization Act of 2018 due to the company's close links to the Chinese government. A general import ban followed shortly thereafter, with President Donald Trump signing a law in 2020 to prevent US rural telecom carriers from using Huawei network equipment.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/qualcomm-and-huawei-sign-multi-year-patent-license-agreement-spanning-5g-compute-ai-and-networking-technologies/"
+    },
+    {
+      "id": "2026-10-05-294927",
+      "title": "Elon Musk confirms TeraFab discussions between SpaceX and TSMC, says SpaceXAI will be renamed SpaceXSI",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "investment"
+      ],
+      "published_at": "2026-10-05T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/elon-musk-confirms-terafab-discussions-between-spacex-and-tsmc-says-spacexai-will-be-renamed-spacexsi/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "SpaceX",
+        "TSMC",
+        "SpaceXAI"
+      ],
+      "published_precision": "day",
+      "content": "Elon Musk has said that SpaceX is in talks with TSMC regarding the former’s $16.8 billion TeraFab project in Grimes County, Texas.\n\nFollowing reports from Taiwan-based journalist Tim Culpan that TSMC was exploring ways to work with SpaceX on the project, Musk replied to a user on X sharing the report, writing: “Just discussions, but something may come of it.”\n\nCiting sources familiar with the situation, Culpan initially reported that discussions between the two companies were the result of plans currently being considered by TSMC to establish a presence in Texas, following the expansion of the chip maker’s manufacturing hub in Arizona.\n\nA report from DigiTimes in late September 2026 stated TSMC was evaluating plans to build up to six advanced chip fabs in the Lone Star state.\n\nAccording to Culpan, the most likely scenario would be for TSMC to own and operate a new fab in the state, with SpaceX signing on to the project with equity and/or guaranteed purchase agreements. However, prior to Musk’s confirmation of the talks, Culpan said the plans were not finalized, and other cooperation agreements were also being considered.\n\nThe idea for the TeraFab was first floated by Musk at a Tesla annual shareholder meeting in November 2025. At the time, Musk said that if Tesla were to extrapolate the best-case scenario for chip production from its suppliers, it still wouldn’t be enough, which had led him to propose the Tesla ‘TeraFab’ – “it’s like giga but way bigger.”\n\nHe went on to confirm plans to build a semiconductor plant in Austin, Texas, in March 2026, with the site set to be adjacent to Tesla’s headquarters and run as a joint venture between the automaker and SpaceX. The following month, Intel announced it had joined the TeraFab project, with Musk later claiming the fab would use the chipmaker’s 14A chip manufacturing process.\n\nIn August, Musk described the fab as “the largest and most valuable building on Earth by far,” adding that “TeraFab will be 50 times the size of the Pentagon when complete.” According to SpaceX, the facility will employ at least 3,000 people, many of whom will be from Grimes and nearby Brazos County. In June 2026, the project secured a 100 percent property tax abatement after County commissioners voted 4-1 to approve three proposals.\n\nIn other Musk news, following President Donald Trump’s rebranding of Artificial Intelligence (AI) to Super Intelligence (SI), Musk also took to his social media platform X over the weekend to post: “No more AI. SI. It’s better.”\n\nWhen asked if there was a possibility of renaming SpaceXAI, SpaceX's AI and cloud division, to SpaceXSI, Musk replied: “Yes, we will make that change.”",
+      "content_url": "https://www.datacenterdynamics.com/en/news/elon-musk-confirms-terafab-discussions-between-spacex-and-tsmc-says-spacexai-will-be-renamed-spacexsi/"
+    },
+    {
+      "id": "2026-10-05-1525f7",
+      "title": "Australia's Firmus to allocate half of IPO to existing investors",
+      "summary": "Firmus, the Australian AI data centre operator backed by US-based Nscale, plans to reserve roughly 50% of its planned initial public offering for existing shareholders rather than opening the entire raise to new institutional money. The allocation signals the company is leaning on its current investor base to anchor demand amid volatile conditions for data centre listings.",
+      "why_it_matters": "A half-allocated IPO shifts the risk calculus for new investors, since insider demand can mask weak broader appetite and complicate price discovery on debut. For Nscale and other existing backers, it means writing bigger cheques to support the listing, while rivals watching the Australian AI infrastructure pipeline will read the structure as a tell on how receptive public markets really are to GPU-heavy data centre stories.",
+      "score": 82,
+      "heat": 2,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "ai",
+        "capacity",
+        "ipo"
+      ],
+      "published_at": "2026-10-05T17:12:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "iTnews",
+          "url": "https://www.itnews.com.au/news/australias-firmus-to-allocate-half-of-ipo-to-existing-investors-629422?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+          "type": "rss"
+        },
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/street-talk/firmus-tells-fundies-indications-of-interest-exceed-7-9b-ipo-size-20261005-p612v5",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Firmus"
+      ],
+      "content": "Australian data centre operator Firmus plans to allocate about half of its up to US$5.5 billion ($7.9 billion) initial public offering, including the over-allotment option, to selected existing strategic and financial investors, two people with knowledge of the matter said.\n\nThe people did not identify which shareholders were set to receive allocations.\n\nFirmus said in previous press statements that its investors include Nvidia, Coatue, Blackstone and Jane Street.\n\nIn an US$2 billion strategic equity round in August, Firmus said Nvidia and Coatue made follow-on investments, while Blackstone and Jane Street also participated.\n\nThe planned share sale would be the second-largest Australian-listed IPO on record, behind only Telstra's US$10 billion share sale in 1997.\n\nIndications of interest have exceeded the shares available in the offering, one of the people said.\n\nBookbuilding will begin on Tuesday and the stock is due to start trading on the Australian Securities Exchange on October 23.\n\nThe company has fixed the share price at A$11, giving it a valuation of about US$30.6 billion, according to a term sheet seen by Reuters.\n\nThe people said the banks now expect to close the institutional bookbuild on Thursday, a day earlier than the Friday close set out in the term sheet.\n\nA bookbuild is the process in which banks collect orders from large investors.\n\nThe people declined to be named as the matter was private.\n\nFirmus said in an email it had \"no comment or further detail to provide at this time.\"\n\nThe company is scheduled to lodge its prospectus on October 12, according to the term sheet.\n\nBank of America, JPMorgan, Morgan Stanley and Morgans are leading the IPO.\n\nFirmus' valuation has nearly tripled since its August funding round, which valued the company at around US$10.5 billion post-money.\n\nSydney-headquartered Firmus is an AI-infrastructure and cloud-services company that designs and operates modular AI factories using proprietary energy and cooling technology.\n\nIt currently operates one data centre in Melbourne and one in Singapore.",
+      "content_url": "https://www.itnews.com.au/news/australias-firmus-to-allocate-half-of-ipo-to-existing-investors-629422"
+    },
+    {
+      "id": "2026-10-05-260f1a",
+      "title": "Dexus sends out bankers to hunt equity for Australian Data Centres",
+      "summary": "Dexus has appointed investment banks to run an equity raising process for its Australian Data Centres platform, which owns large-scale data centre assets across Sydney and Melbourne. The move is part of a broader capital rotation by the Australian property giant into digital infrastructure.",
+      "why_it_matters": "Fresh equity into Australian Data Centres gives Dexus firepower to accelerate development in a market where power-constrained supply is the main bottleneck, potentially tightening competition for tenants and grid connections in Sydney and Melbourne. The raising also tests institutional appetite for data centre exposure amid rising build costs and rate uncertainty, and sets a valuation benchmark that rivals and investors will use to price Australian assets.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "capacity",
+        "colocation"
+      ],
+      "published_at": "2026-10-05T08:13:59Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/street-talk/dexus-sends-out-bankers-to-hunt-equity-for-australian-data-centres-20261005-p612xn",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Dexus",
+        "Australian Data Centres"
+      ],
+      "content": "The $5.8 billion Dexus wants deep-pocketed investors for Australian Data Centres, its little known bet on the sector that shot to prominence last month when it emerged as a consortium partner for Anthropic’s first local computing contract.\n\nDexus has mandated Wall Street giant Citi to raise additional equity for the platform, in a deal that is expected to dilute the ASX-listed property manager’s 85 per cent shareholding.\n\nLoading...",
+      "content_url": "https://www.afr.com/street-talk/dexus-sends-out-bankers-to-hunt-equity-for-australian-data-centres-20261005-p612xn"
+    },
+    {
+      "id": "2026-10-05-0eec90",
+      "title": "Top-rated RBC data centre analyst Jon Atkin takes his leave",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "industry"
+      ],
+      "published_at": "2026-10-05T07:17:13Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/street-talk/top-rated-rbc-data-centre-analyst-jon-atkin-takes-his-leave-20261005-p6130a",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "RBC Capital Markets"
+      ],
+      "content": "RBC Capital Markets’ Jonathan Atkin, arguably the best-known data centre analyst in the world, is moving on.\n\nAtkin lobbed his resignation last week, shortly after interviewing sector royalty such as Equinix chief financial officer Olivier Leonetti at the Canadian bank’s conference in Chicago.\n\nLoading...",
+      "content_url": "https://www.afr.com/street-talk/top-rated-rbc-data-centre-analyst-jon-atkin-takes-his-leave-20261005-p6130a"
+    },
+    {
+      "id": "2026-10-05-e879c7",
+      "title": "Firmus missed first rental payment to data centre landlord",
+      "summary": "Firmus failed to make its first rent payment owed to the landlord of one of its data centre facilities, the latest sign of strain at the AI infrastructure operator as it pursues an IPO. The missed payment adds to questions around the company's cash position and its obligations on leased sites.",
+      "why_it_matters": "A missed inaugural rent payment is a red flag that goes straight to landlord confidence and lease enforcement, and it lands awkwardly just as Firmus courts public-market investors who will scrutinise its liabilities. For data centre landlords across Australia, it raises the risk profile of leasing to capital-hungry AI startups rather than established operators, potentially tightening lease terms industry-wide.",
+      "score": 78,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "capacity",
+        "finance"
+      ],
+      "published_at": "2026-10-05T05:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/rear-window/firmus-missed-first-rental-payment-to-data-centre-landlord-20261005-p612ne",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Firmus"
+      ],
+      "content": "Firmus’ $44 billion initial public offering has caused so many strong feelings that there really has to be a better way to air them all. Maybe we should plant a microphone in a public place, with professional money managers given a tight two minutes. A long queue of fundies doing campus talks.\n\nThe first days and months of trading will reveal actual preferences. One of the more concise (bearish) ones was from Plato’s **David Allen**. He told *The Australian Financial Review* that the “mooted valuation prices in five years of flawless execution from a loss-making business with barely a track record”.",
+      "content_url": "https://www.afr.com/rear-window/firmus-missed-first-rental-payment-to-data-centre-landlord-20261005-p612ne"
+    }
+  ]
+}

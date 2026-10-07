@@ -126,6 +126,10 @@ def main(argv: list[str]) -> None:
                      date, len(stories) - len(fresh))
         stories = fresh
 
+        if not stories:
+            log.info("%s: nothing left after dedup — no file written", date)
+            continue
+
         if fulltext.enabled():
             ok, no_content = fulltext.enrich_stories(stories)
             log.info("%s: full-text: %d extracted, %d without content",

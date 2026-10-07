@@ -5,89 +5,76 @@
     "start": "2026-09-01",
     "end": "2026-09-30"
   },
-  "generated_at": "2026-10-07T06:13:35Z",
+  "generated_at": "2026-10-07T12:33:58Z",
   "complete": false,
   "stats": {
-    "stories": 450,
+    "stories": 466,
     "sources": 17,
-    "days": 25,
+    "days": 28,
     "read_minutes": 3
   },
-  "title": "AI demand strains APAC grids and capital",
-  "lede": "September’s Asia-Pacific data centre story was a race between demand, electrons and money. Malaysia and Australia attracted the loudest commitments: OpenAI leased dedicated AI compute at Firmus sites in Malaysia, Nvidia-backed Zankore signed a US$3.1 billion GPU loan in Indonesia, and Australian operators raised at least AU$35 billion, mostly debt. Alibaba tried to convert that pressure into a full-stack advantage, pairing a self-developed AI chip with plans for a 5 trillion- to 10 trillion-parameter model and more than 20GW of cloud capacity by 2032. The same surge exposed constraints. Malaysia’s regulator said data centres already consume nearly a tenth of national electricity, Thailand halted 49 projects while rules are drafted, and Transgrid warned Sydney connection enquiries exceed available transmission. Capital was just as selective: KKR and Singtel completed the STT GDC takeover, BlackRock and IFM moved toward a roughly US$25 billion Stack portfolio deal, and AirTrunk lined up debt ahead of a possible Singapore listing. The month’s signal was not simply growth, but the rising price of powering and financing it.",
+  "title": "AI demand strains Asia's power and capital",
+  "lede": "September's data centre news in Asia Pacific was dominated by the collision between surging AI demand and the physical limits of power, capital and regulation. OpenAI signed a multi-year compute deal with Nvidia-backed Firmus in Malaysia that lifted its contracted capacity past 900MW, while Nvidia-backed projects in Indonesia and Australia moved forward with multi-gigawatt ambitions. Alibaba unveiled a self-developed AI chip and a plan to exceed 20GW of data centre capacity by 2032, joining Huawei's push for domestic silicon alternatives. The build-out is testing infrastructure: Malaysia's regulator said data centres now consume nearly a tenth of national electricity, Thailand halted 49 projects pending new rules, and Sydney's grid operator warned that transmission capacity is largely committed. Capital is moving just as fast — KKR and Singtel completed their takeover of STT GDC, a BlackRock-IFM consortium entered exclusive talks on Stack's APAC portfolio at roughly US$25 billion, and Australian operators raised AU$35 billion, mostly in debt, in the first nine months of the year.",
   "themes": [
     {
-      "heading": "Malaysia’s buildout meets power limits",
-      "narrative": "Malaysia’s data centre task force said projects made up 44% of total investment into the country in the first half of 2026, while the Energy Commission put the sector’s electricity use at nearly a tenth of national consumption. DayOne and Tenaga Nasional Berhad proposed up to 1.5GW of onsite generation and battery storage for a Selangor/Greater Kuala Lumpur campus, a marked shift toward self-supplied power. S&P Global Ratings said local banks are becoming more selective, pushing operators toward offshore US dollar bonds.",
-      "story_ids": [
-        "2026-09-15-7299df",
-        "2026-09-08-2652a3",
-        "2026-09-04-bca63f",
-        "2026-09-01-02021a",
-        "2026-09-02-50ed7b",
-        "2026-09-10-6b4a2a"
-      ]
-    },
-    {
-      "heading": "AI demand pre-books compute and cables",
-      "narrative": "OpenAI agreed to lease dedicated AI compute from two Firmus AI Factory sites in Malaysia, a deal reported as taking the Nvidia-backed Australian firm beyond 900MW of contracted capacity. Bitdeer AI said it had pre-sold the full 9.5MW of its Johor A102 AI cloud data centre ahead of energisation and expects US$800 million from long-term deals. Nvidia said Australian partners would bring 2GW online by 2027, while AWS’s 420Tbps Japan-Washington cable and Equinix’s inference offering with Nvidia and Together AI show the traffic and serving layer scaling too.",
+      "heading": "OpenAI anchors Malaysian AI compute",
+      "narrative": "OpenAI signed a multi-year agreement to lease dedicated AI compute from two Firmus AI Factory sites in Malaysia, a deal reported across several outlets that pushed the Nvidia-backed developer's contracted capacity beyond 900MW. The arrangement makes the US AI company the anchor customer for an Australian operator's Malaysian campuses and reflects how Southeast Asia is absorbing hyperscaler workloads. In Australia, Nvidia said it is working with local providers to bring 2GW of capacity online by 2027, and Bitdeer AI pre-sold the full 9.5MW of its Johor facility more than a year before energisation.",
       "story_ids": [
         "2026-09-10-c8a637",
+        "2026-09-08-73ecc1",
         "2026-09-09-31b5cb",
-        "2026-09-07-98e627",
         "2026-09-11-e00c5a",
-        "2026-09-03-39c71a",
-        "2026-09-02-cce903"
+        "2026-09-07-98e627"
       ]
     },
     {
-      "heading": "China’s chip push hits memory costs",
-      "narrative": "Alibaba unveiled a self-developed AI accelerator that it described as China’s most powerful, then tied it to a 5 trillion- to 10 trillion-parameter model plan and a target of more than 20GW of global data centre capacity by 2032. The company framed models, silicon and data centres as one platform rather than separate bets. Huawei was also preparing a flagship domestic challenger to Nvidia, but rising high-bandwidth memory costs showed the chip self-sufficiency drive remains expensive.",
+      "heading": "China pursues silicon self-sufficiency",
+      "narrative": "Alibaba unveiled an AI accelerator it called China's most powerful chip, alongside plans to train a model of 5 trillion to 10 trillion parameters and to exceed 20GW of global data centre capacity by 2032. The announcements framed chips, cloud and compute as a single platform strategy. Huawei, meanwhile, prepared its Ascend 960 and an 11-chip portfolio as Beijing's strongest challenge to Nvidia, though a shortage of high-bandwidth memory is lifting production costs for Chinese chipmakers.",
       "story_ids": [
         "2026-09-22-1ce82e",
         "2026-09-22-3478f2",
         "2026-09-25-4873b0",
         "2026-09-25-81b553",
-        "2026-09-17-2c2f2c",
-        "2026-09-11-c67462"
+        "2026-09-17-2c2f2c"
       ]
     },
     {
-      "heading": "Owners trade portfolios at scale",
-      "narrative": "KKR and Singtel completed their takeover of STT GDC, one of Asia’s largest data centre platforms, to fund faster AI-ready expansion. The Stack Infrastructure sale process moved from early bidding, with Macquarie stepping away, to exclusive talks by a BlackRock and IFM Investors-backed consortium at about US$25 billion. Keppel also deepened its Japan exposure, buying control of two Tokyo data centres while Keppel DC REIT agreed to acquire two freehold Japanese assets for about US$1.1 billion.",
+      "heading": "Malaysia's power math tightens",
+      "narrative": "Malaysia's Energy Commission said data centres now account for nearly a tenth of the country's total electricity consumption, with demand expected to climb further by year-end. Developers are responding with self-supply: DayOne and utility TNB proposed up to 1.5GW of on-site generation and battery storage for a planned Selangor campus. The government said data centres made up 44 percent of total investment into Malaysia in the first half of 2026, as its task force weighed more than 40 proposals against energy, water and connectivity constraints.",
       "story_ids": [
-        "2026-09-02-ed0059",
-        "2026-09-01-df9445",
-        "2026-09-06-578046",
-        "2026-09-25-7e3dd3",
-        "2026-09-03-5c0fd3",
-        "2026-09-02-96044b"
+        "2026-09-01-02021a",
+        "2026-09-08-2652a3",
+        "2026-09-15-7299df"
       ]
     },
     {
-      "heading": "Debt funds the next capacity wave",
-      "narrative": "Singapore-headquartered firms took about 98% of the US$11.5 billion raised by Southeast Asian data centre companies, and Australian operators had raised at least AU$35 billion in 2026, with debt supplying 85% of new capital. Zankore signed a US$3.1 billion loan for GPU purchases and an AI Factory of up to 1GW, starting with 100MW. AirTrunk sought roughly S$2 billion ahead of a possible Singapore listing, while NextDC raised AU$1.1 billion through convertible notes.",
-      "story_ids": [
-        "2026-09-08-5e2d0d",
-        "2026-09-25-b25e86",
-        "2026-09-10-916e90",
-        "2026-09-11-8df659",
-        "2026-09-14-6eaa10",
-        "2026-09-11-2d8e43",
-        "2026-09-12-c8cf69"
-      ]
-    },
-    {
-      "heading": "States and grids absorb the boom",
-      "narrative": "Thailand paused construction on 49 data centres as officials draft rules on electricity use and community impacts, and Singapore tabled its Digital Infrastructure Bill after industry consultation with a transition period for existing sites. The Philippines went the other way, publishing a US$34.4 billion AI infrastructure masterplan for 2026-2033. Nikkei Asia reported spreading public opposition over power costs, water and land across parts of Asia. In Australia, Amazon won approval for a 235MW, AUD2.17 billion Sydney campus even as Transgrid said more than 20GW of connection enquiries were stretching the grid.",
+      "heading": "Regulators push back on growth",
+      "narrative": "Thailand suspended construction on 49 data centre projects while it drafts new regulations on electricity consumption and community impact. Singapore tabled its Digital Infrastructure Bill, promising existing facilities a transition period to meet energy-efficiency requirements. Nikkei reported that opposition to rapid data centre construction is spreading across Malaysia, Indonesia and India over power costs, water use and land, echoing resistance seen in other markets.",
       "story_ids": [
         "2026-09-07-801900",
         "2026-09-11-e89af7",
         "2026-09-08-2c96a5",
-        "2026-09-15-b30691",
-        "2026-09-02-bf08de",
+        "2026-09-02-bf08de"
+      ]
+    },
+    {
+      "heading": "Capital rotates through platforms",
+      "narrative": "KKR and Singtel completed their joint takeover of STT GDC, one of Asia's largest data centre platforms, to fund AI-ready build-out. A BlackRock and IFM Investors-backed consortium entered exclusive negotiations to buy Stack Infrastructure's APAC portfolio for around US$25 billion, after Macquarie declined to bid. Blackstone's AirTrunk sought a S$2 billion loan ahead of a possible Singapore listing, while Zankore signed a US$3.1 billion facility — one of Asia's largest GPU-backed loans — for a planned 1GW AI factory in Indonesia.",
+      "story_ids": [
+        "2026-09-02-ed0059",
+        "2026-09-25-7e3dd3",
+        "2026-09-14-6eaa10",
+        "2026-09-11-8df659"
+      ]
+    },
+    {
+      "heading": "Australia scrambles for capacity",
+      "narrative": "Transgrid said more than 20GW of data centre connection enquiries are in its pipeline and that existing Sydney transmission capacity is largely committed, warning new projects face delays. Planning authorities nonetheless approved Amazon's AUD 2.17 billion, 235MW campus in western Sydney. NextDC raised AU$1.1 billion in convertible notes to fund expansion, part of a broader trend that saw Australian operators raise at least AU$35 billion in 2026, 85 percent of it debt, according to Reserve Bank of Australia analysis.",
+      "story_ids": [
         "2026-09-11-16a4bd",
-        "2026-09-18-75a176"
+        "2026-09-18-75a176",
+        "2026-09-12-c8cf69",
+        "2026-09-25-b25e86"
       ]
     }
   ],
@@ -295,6 +282,30 @@
       "prev_status": null,
       "change": "First tracked as announced",
       "story_id": "2026-09-21-718ef4"
+    },
+    {
+      "project_id": "cdc-wagga-wagga-campus",
+      "name": "CDC Wagga Wagga Campus",
+      "operator": "CDC Data Centres",
+      "date": "2026-09-30",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-09-30-300df6"
+    },
+    {
+      "project_id": "brightray-macau-data-center",
+      "name": "BrightRay Macau Data Center",
+      "operator": "BrightRay DC",
+      "date": "2026-09-30",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-09-30-e5fcb5"
     }
   ]
 }
