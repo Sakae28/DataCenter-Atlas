@@ -102926,7 +102926,49 @@
       "first_seen": "2026-09-21",
       "last_updated": "2026-09-21",
       "seed": false
+    },
+    {
+      "id": "canberra-cdc-hume-campus-3",
+      "name": "CDC Hume Campus 3",
+      "operator": "CDC Data Centres",
+      "region": "australia",
+      "country": "Australia",
+      "city": "Canberra",
+      "capacity_mw": 576,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-10-07",
+          "story_id": "2026-10-07-6fff97"
+        }
+      ],
+      "story_ids": [
+        "2026-10-07-6fff97"
+      ],
+      "first_seen": "2026-10-07",
+      "last_updated": "2026-10-07",
+      "seed": false,
+      "capacity_note": "up to 576MW potential"
     }
   ],
-  "updated_at": "2026-09-22T05:50:57Z"
+  "updated_at": "2026-10-07T06:10:41Z"
 }

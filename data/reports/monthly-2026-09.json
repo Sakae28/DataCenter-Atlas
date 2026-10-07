@@ -1,0 +1,300 @@
+{
+  "type": "monthly",
+  "period": "2026-09",
+  "date_range": {
+    "start": "2026-09-01",
+    "end": "2026-09-30"
+  },
+  "generated_at": "2026-10-07T06:13:35Z",
+  "complete": false,
+  "stats": {
+    "stories": 450,
+    "sources": 17,
+    "days": 25,
+    "read_minutes": 3
+  },
+  "title": "AI demand strains APAC grids and capital",
+  "lede": "September’s Asia-Pacific data centre story was a race between demand, electrons and money. Malaysia and Australia attracted the loudest commitments: OpenAI leased dedicated AI compute at Firmus sites in Malaysia, Nvidia-backed Zankore signed a US$3.1 billion GPU loan in Indonesia, and Australian operators raised at least AU$35 billion, mostly debt. Alibaba tried to convert that pressure into a full-stack advantage, pairing a self-developed AI chip with plans for a 5 trillion- to 10 trillion-parameter model and more than 20GW of cloud capacity by 2032. The same surge exposed constraints. Malaysia’s regulator said data centres already consume nearly a tenth of national electricity, Thailand halted 49 projects while rules are drafted, and Transgrid warned Sydney connection enquiries exceed available transmission. Capital was just as selective: KKR and Singtel completed the STT GDC takeover, BlackRock and IFM moved toward a roughly US$25 billion Stack portfolio deal, and AirTrunk lined up debt ahead of a possible Singapore listing. The month’s signal was not simply growth, but the rising price of powering and financing it.",
+  "themes": [
+    {
+      "heading": "Malaysia’s buildout meets power limits",
+      "narrative": "Malaysia’s data centre task force said projects made up 44% of total investment into the country in the first half of 2026, while the Energy Commission put the sector’s electricity use at nearly a tenth of national consumption. DayOne and Tenaga Nasional Berhad proposed up to 1.5GW of onsite generation and battery storage for a Selangor/Greater Kuala Lumpur campus, a marked shift toward self-supplied power. S&P Global Ratings said local banks are becoming more selective, pushing operators toward offshore US dollar bonds.",
+      "story_ids": [
+        "2026-09-15-7299df",
+        "2026-09-08-2652a3",
+        "2026-09-04-bca63f",
+        "2026-09-01-02021a",
+        "2026-09-02-50ed7b",
+        "2026-09-10-6b4a2a"
+      ]
+    },
+    {
+      "heading": "AI demand pre-books compute and cables",
+      "narrative": "OpenAI agreed to lease dedicated AI compute from two Firmus AI Factory sites in Malaysia, a deal reported as taking the Nvidia-backed Australian firm beyond 900MW of contracted capacity. Bitdeer AI said it had pre-sold the full 9.5MW of its Johor A102 AI cloud data centre ahead of energisation and expects US$800 million from long-term deals. Nvidia said Australian partners would bring 2GW online by 2027, while AWS’s 420Tbps Japan-Washington cable and Equinix’s inference offering with Nvidia and Together AI show the traffic and serving layer scaling too.",
+      "story_ids": [
+        "2026-09-10-c8a637",
+        "2026-09-09-31b5cb",
+        "2026-09-07-98e627",
+        "2026-09-11-e00c5a",
+        "2026-09-03-39c71a",
+        "2026-09-02-cce903"
+      ]
+    },
+    {
+      "heading": "China’s chip push hits memory costs",
+      "narrative": "Alibaba unveiled a self-developed AI accelerator that it described as China’s most powerful, then tied it to a 5 trillion- to 10 trillion-parameter model plan and a target of more than 20GW of global data centre capacity by 2032. The company framed models, silicon and data centres as one platform rather than separate bets. Huawei was also preparing a flagship domestic challenger to Nvidia, but rising high-bandwidth memory costs showed the chip self-sufficiency drive remains expensive.",
+      "story_ids": [
+        "2026-09-22-1ce82e",
+        "2026-09-22-3478f2",
+        "2026-09-25-4873b0",
+        "2026-09-25-81b553",
+        "2026-09-17-2c2f2c",
+        "2026-09-11-c67462"
+      ]
+    },
+    {
+      "heading": "Owners trade portfolios at scale",
+      "narrative": "KKR and Singtel completed their takeover of STT GDC, one of Asia’s largest data centre platforms, to fund faster AI-ready expansion. The Stack Infrastructure sale process moved from early bidding, with Macquarie stepping away, to exclusive talks by a BlackRock and IFM Investors-backed consortium at about US$25 billion. Keppel also deepened its Japan exposure, buying control of two Tokyo data centres while Keppel DC REIT agreed to acquire two freehold Japanese assets for about US$1.1 billion.",
+      "story_ids": [
+        "2026-09-02-ed0059",
+        "2026-09-01-df9445",
+        "2026-09-06-578046",
+        "2026-09-25-7e3dd3",
+        "2026-09-03-5c0fd3",
+        "2026-09-02-96044b"
+      ]
+    },
+    {
+      "heading": "Debt funds the next capacity wave",
+      "narrative": "Singapore-headquartered firms took about 98% of the US$11.5 billion raised by Southeast Asian data centre companies, and Australian operators had raised at least AU$35 billion in 2026, with debt supplying 85% of new capital. Zankore signed a US$3.1 billion loan for GPU purchases and an AI Factory of up to 1GW, starting with 100MW. AirTrunk sought roughly S$2 billion ahead of a possible Singapore listing, while NextDC raised AU$1.1 billion through convertible notes.",
+      "story_ids": [
+        "2026-09-08-5e2d0d",
+        "2026-09-25-b25e86",
+        "2026-09-10-916e90",
+        "2026-09-11-8df659",
+        "2026-09-14-6eaa10",
+        "2026-09-11-2d8e43",
+        "2026-09-12-c8cf69"
+      ]
+    },
+    {
+      "heading": "States and grids absorb the boom",
+      "narrative": "Thailand paused construction on 49 data centres as officials draft rules on electricity use and community impacts, and Singapore tabled its Digital Infrastructure Bill after industry consultation with a transition period for existing sites. The Philippines went the other way, publishing a US$34.4 billion AI infrastructure masterplan for 2026-2033. Nikkei Asia reported spreading public opposition over power costs, water and land across parts of Asia. In Australia, Amazon won approval for a 235MW, AUD2.17 billion Sydney campus even as Transgrid said more than 20GW of connection enquiries were stretching the grid.",
+      "story_ids": [
+        "2026-09-07-801900",
+        "2026-09-11-e89af7",
+        "2026-09-08-2c96a5",
+        "2026-09-15-b30691",
+        "2026-09-02-bf08de",
+        "2026-09-11-16a4bd",
+        "2026-09-18-75a176"
+      ]
+    }
+  ],
+  "project_milestones": [
+    {
+      "project_id": "dayone-selangor-campus",
+      "name": "DayOne Selangor Campus",
+      "operator": "DayOne",
+      "date": "2026-09-01",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-09-01-02021a"
+    },
+    {
+      "project_id": "dayone-greater-kuala-lumpur-campus",
+      "name": "DayOne Greater Kuala Lumpur Campus",
+      "operator": "DayOne",
+      "date": "2026-09-02",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-09-02-50ed7b"
+    },
+    {
+      "project_id": "two-freehold-data-centers-in-japan-keppel-dc-reit-acquisition",
+      "name": "Two freehold data centers in Japan (Keppel DC REIT acquisition)",
+      "operator": "Keppel DC REIT",
+      "date": "2026-09-02",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": "2026-09-02-96044b"
+    },
+    {
+      "project_id": "ada-infrastructure-tokyo-data-center",
+      "name": "Ada Infrastructure Tokyo Data Center",
+      "operator": "Ada Infrastructure",
+      "date": "2026-09-03",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-09-03-c698e5"
+    },
+    {
+      "project_id": "evolution-dc-bangkok-data-centre",
+      "name": "Evolution DC Bangkok Data Centre",
+      "operator": "Evolution Data Centres",
+      "date": "2026-09-04",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-09-04-e6c6a3"
+    },
+    {
+      "project_id": "glp-foshan-data-center-campus",
+      "name": "GLP Foshan Data Center Campus",
+      "operator": "GLP",
+      "date": "2026-09-07",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-09-07-43d433"
+    },
+    {
+      "project_id": "key-asic-ct-vision-green-ai-data-center",
+      "name": "Key ASIC–CT Vision Green AI Data Center",
+      "operator": "Key ASIC",
+      "date": "2026-09-07",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-09-07-776bd8"
+    },
+    {
+      "project_id": "johor-bitdeer-a102-ai-cloud-data-center",
+      "name": "Bitdeer A102 AI Cloud Data Center",
+      "operator": "Bitdeer AI",
+      "date": "2026-09-07",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-09-07-98e627"
+    },
+    {
+      "project_id": "firmus-ai-factory-malaysia-sites",
+      "name": "Firmus AI Factory Malaysia Sites",
+      "operator": "Firmus",
+      "date": "2026-09-10",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-09-10-c8a637"
+    },
+    {
+      "project_id": "zankore-ai-factory",
+      "name": "Zankore AI Factory",
+      "operator": "Zankore",
+      "date": "2026-09-11",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-09-11-8df659"
+    },
+    {
+      "project_id": "btc-digital-vietnam-ai-data-center",
+      "name": "BTC Digital Vietnam AI Data Center",
+      "operator": "BTC Digital",
+      "date": "2026-09-15",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-09-15-f1fde2"
+    },
+    {
+      "project_id": "goodman-hong-kong-data-center-partnership-facility",
+      "name": "Goodman Hong Kong Data Center Partnership Facility",
+      "operator": "Goodman Group",
+      "date": "2026-09-16",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-09-16-23f221"
+    },
+    {
+      "project_id": "johor-bahru-bitdeer-ai-a202",
+      "name": "Bitdeer AI A202",
+      "operator": "Bitdeer",
+      "date": "2026-09-16",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-09-16-04ff72"
+    },
+    {
+      "project_id": "amazon-web-services-sydney-glendenning-aws-glendenning-data-centre-campus",
+      "name": "AWS Glendenning Data Centre Campus",
+      "operator": "Amazon Web Services",
+      "date": "2026-09-18",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-09-18-75a176"
+    },
+    {
+      "project_id": "gmi-cloud-thailand-data-centre",
+      "name": "GMI Cloud Thailand Data Centre",
+      "operator": "GMI Cloud",
+      "date": "2026-09-18",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-09-18-55c214"
+    },
+    {
+      "project_id": "sharonai-albury-site",
+      "name": "SharonAI Albury Site",
+      "operator": "SharonAI",
+      "date": "2026-09-19",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-09-19-5d48ba"
+    },
+    {
+      "project_id": "anthropic-regional-queensland-data-centre",
+      "name": "Anthropic regional Queensland data centre",
+      "operator": "Anthropic",
+      "date": "2026-09-21",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-09-21-718ef4"
+    }
+  ]
+}
