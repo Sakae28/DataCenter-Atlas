@@ -1,14 +1,284 @@
 {
   "date": "2026-10-10",
-  "generated_at": "2026-10-10T12:38:43Z",
+  "generated_at": "2026-10-10T16:12:18Z",
   "hot": [
     "2026-10-10-1f7803",
-    "2026-10-10-f3a8bf",
-    "2026-10-10-62158d",
-    "2026-10-10-f10ccf",
-    "2026-10-10-ef3001"
+    "2026-10-10-96d7fc",
+    "2026-10-10-04ad77",
+    "2026-10-10-80234c",
+    "2026-10-10-f3a8bf"
   ],
   "stories": [
+    {
+      "id": "2026-10-10-36c7ab",
+      "title": "Trump's AI free-for-all plays into China's hands",
+      "summary": "William Matthews is a lecturer in the Defence Studies Department at King’s College London where he works on China’s geopolitical influence and military modernisation and the wider impact of AI. He…",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global",
+        "china"
+      ],
+      "topics": [
+        "ai",
+        "regulation",
+        "chips"
+      ],
+      "published_at": "2026-10-10T16:12:18Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/opinion/trump-s-ai-free-for-all-plays-into-china-s-hands",
+          "type": "rss"
+        }
+      ],
+      "content": "*William Matthews is a lecturer in the Defence Studies Department at King’s College London where he works on China’s geopolitical influence and military modernisation and the wider impact of AI. He has previously worked at Chatham House and the London School of Economics, as well as in private sector AI and geopolitical risk.*",
+      "content_url": "https://asia.nikkei.com/opinion/trump-s-ai-free-for-all-plays-into-china-s-hands"
+    },
+    {
+      "id": "2026-10-10-1be82d",
+      "title": "NTT DC Reit proposes DPU-linked performance fee for manager",
+      "summary": "Manager to cap FY26/27 entitlement; waive if DPU less than US$0.078",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "reit",
+        "colocation"
+      ],
+      "published_at": "2026-10-10T16:12:18Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/ntt-dc-reit-proposes-dpu-linked-performance-fee-manager",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NTT DC REIT"
+      ],
+      "content": "Manager to cap FY26/27 entitlement; waive if DPU less than US$0.078\n\n\\[SINGAPORE\\] The manager of NTT DC Reit is proposing changes to its management fee structure that it expects will better align with the interests of the unitholders of the real estate investment trust (Reit).\n\nThe move is set to grow distributions and overall total returns for unitholders as it ensures that higher fees are earned only upon achieving stronger DPU growth, the manager said in a statement on Thursday (Oct 8).\n\nIt is looking to link its performance fee directly to year-on-year growth in the distribution per unit (DPU).\n\nThis will be split into two tiers: 0.1 per cent per annum of the deposited property when DPU growth exceeds 3 per cent but is below 5 per cent; or 0.2 per cent per annum of the deposited property when DPU growth is at least 5 per cent.\n\nNo performance fee will be payable if year-on-year DPU growth is 3 per cent or less. Currently, the performance fee is based on the Reit’s net property income.\n\nThe manager is also proposing to revise the issue price of the management fee that is paid in the form of the Reit’s units. The units will be issued at the net asset value (NAV) per unit, instead of the prevailing market price, when the price is at or below the NAV per unit.\n\nThis will also mitigate the potential dilution arising from the issuance of units, the manager said.\n\nAs a further sign of commitment to strengthen the alignment of interest with unitholders, the manager said it would waive its entitlement to a performance fee for its financial year 2026/2027 if the actual DPU achieved in the year is less than US$0.078.\n\nIt will also cap its entitlement to performance fees in FY26/27 to US$3.726 million.\n\nYutaka Torigoe, chief executive of the Reit manager, said: “We believe DPU growth is a more robust measure of performance, as it better captures the combined impact of operating performance, capital management, financing decisions and cost discipline. “The changes will align our remuneration more closely with sustainable DPU growth and long-term value creation.”\n\nUnits of NTT DC Reit closed 0.5 per cent or US$0.005 lower at US$0.935 before the announcement.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/ntt-dc-reit-proposes-dpu-linked-performance-fee-manager"
+    },
+    {
+      "id": "2026-10-10-eb65f4",
+      "title": "Broadcom plans US$50 billion financing for OpenAI chips, WSJ says",
+      "summary": "Broadcom is arranging a US$50 billion financing package to fund chip production for OpenAI, according to the Wall Street Journal, marking one of the largest corporate financings tied to AI demand. The deal underscores deepening ties between chipmakers and AI labs as compute requirements explode.",
+      "why_it_matters": "A financing of this scale signals that AI compute demand is being funded through bespoke, leveraged structures rather than traditional capex alone, embedding financial risk into the AI supply chain. It also cements OpenAI's dependence on Broadcom's custom silicon, with ripple effects for Nvidia's dominance and for Asia's foundry ecosystem.",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "investment",
+        "ai"
+      ],
+      "published_at": "2026-10-10T16:12:18Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/startups-tech/technology/broadcom-plans-us50-billion-financing-openai-chips-wsj-says",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Broadcom",
+        "OpenAI"
+      ],
+      "content": "The AI build-out has prompted tech giants to seek new forms of financing\n\n\\[SAN FRANCISCO\\] Broadcom is arranging more than US$50 billion in financing for the custom artificial intelligence chip it is developing with OpenAI, part of a surge in deals to pay for AI infrastructure, the *Wall Street Journal* reported.\n\nApollo Global Management and Blackstone are among the lenders in talks to participate in the deal, the Journal said, citing unidentified people familiar with the discussions.\n\nOracle, meanwhile, is talking to Apollo and Goldman Sachs to line up money for the purchase of chips, the newspaper reported.\n\nThe companies are seeking the deals in the face of soaring costs to outfit data centres.\n\nThe AI build-out – meant to support a proliferation of software and services – has prompted tech giants to seek new forms of financing.\n\nBroadcom had already said in June that it had established a platform, with Apollo and Blackstone as anchor investors, to help finance more than 20 gigawatts in computing capacity for AI developers including Anthropic and OpenAI through 2028.\n\nThe platform began with an initial tranche of US$35 billion led by Apollo, in partnership with Blackstone.\n\nBloomberg reported in August that Broadcom held talks with a group of lenders to raise more than US$60 billion in debt for an AI chip financing deal that will benefit Anthropic and other companies. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/startups-tech/technology/broadcom-plans-us50-billion-financing-openai-chips-wsj-says"
+    },
+    {
+      "id": "2026-10-10-53c311",
+      "title": "US$7 trillion data-centre boom is creating gaps in insurance cover within Apac: report",
+      "summary": "A new report warns that the roughly US$7 trillion global data-centre buildout is exposing gaps in insurance coverage across Asia Pacific, with many projects underinsured or facing capacity shortages. Insurers are struggling to keep pace with the scale and novel risk profiles of AI-era facilities.",
+      "why_it_matters": "Coverage gaps shift risk back onto operators, lenders and their investors precisely when projects are bigger and more complex than ever. Project financiers may demand revised risk allocations, and underwriters who can model AI data centre risks stand to capture a growing premium pool.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "insurance",
+        "risk",
+        "capacity"
+      ],
+      "published_at": "2026-10-10T16:12:18Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/us7-trillion-data-centre-boom-creating-gaps-insurance-cover-within-apac-report",
+          "type": "html-list"
+        }
+      ],
+      "content": "There are interconnected and concentrated risks in power, construction, operations, cybersecurity and downtime\n\n\\[SINGAPORE\\] Insuring the Asia-Pacific’s rapidly expanding data-centre sector is becoming increasingly challenging.\n\nGlobal insurance broker Howden identifies the wide range of interconnected and concentrated risks in power, construction, operations and cybersecurity, with downtime being a significant business exposure.\n\nThe expansion is being driven in part by rising investments in artificial intelligence infrastructure. The world is on track to spend roughly US$7 trillion on the physical infrastructure underpinning AI by 2030, reported global underwriter Advanced Technology Assurance, using 2026 data.\n\nThat sum exceeds the gross domestic product of every country except the US and China.\n\nThe scale of investment is creating a growing need for insurance capacity. Yet some of the largest data centres are worth more than the insurance market can comfortably absorb under a single policy, Howden said.\n\nCoverage is therefore often spread among dozens of insurers and reinsurers.\n\nHamish Ravindran, chief client officer at Howden Asia, speaking at a media lunch on Wednesday (Oct 7), said: “Outage is a huge uninsured gap right now. There are only three insurance companies in my 18 months of hunting that have come close to finding a solution for outage.”\n\nNearly half (45 per cent) of major outages can be traced to power failures.\n\nIn some cases, an outage can result from an operational error, such as someone accidentally switching off the power. The resulting power loss can expose data-centre operators to significant contractual liabilities, particularly when they have committed to strict uptime requirements for customers.\n\nThose risks persist despite extensive redundancy. More than 98 per cent of Asia-Pacific data centres have redundant capacity built into their systems, Howden found in an analysis of data collated by 451 Research, part of S&P Global.\n\nOutages can still arise from system failures that do not involve physical damage – and this presents a challenge for traditional insurance solutions, which typically rely on physical damage as a trigger for coverage.\n\nThe market is now developing alternative solutions, including parametric cover, particularly for retail and wholesale providers. These providers account for about three-quarters of Asia-Pacific’s data centres and carry uptime commitments to multiple customers.\n\nHamish said that such commitments can expose operators to significant contractual liabilities, particularly in the race to attract major hyperscalers and other large technology companies to their facilities.\n\n## Liability\n\nWith the balance between data-centre supply and demand tightening in some markets, large technology customers have greater leverage in contract negotiations.\n\nThis is contributing to “more punitive contractual liability” provisions in data-centre contracts, Hamish said.\n\nLiability exposures may be less significant in parts of Asia because the region has a relatively less litigious business environment, he added.\n\nThe risk is more pronounced in markets such as the US and Australia, where data-centre operators face growing legal and community opposition.\n\nThe concerns range from water and electricity consumption to the impact of large data-centre developments on surrounding property values.\n\nHowden found that, although relatively few cases have resulted in insured liability losses, the number of major lawsuits and arbitrations involving data centres has more than tripled since 2021, coinciding with the acceleration of AI investment.\n\nBeyond outages and liability, Howden identified four other key risk areas shaping the data-centre insurance market:\n\n- Construction;\n- Natural catastrophes;\n- Power supply; and\n- Cyber and geopolitical risks.\n\nZoe Zhang, regional director of Howden Asia’s digital infrastructure practice, said at the luncheon: “The reason why these six key risks are so important for us to look at is, if you track the growth of data centres over the last nine to 10 years, new construction alone has a cumulative annual growth rate of 18 per cent.\n\n“In a material sense, that means that we are seeing four and a half times more data centres built in the last 10 years than we did in 2016.”\n\nShe added that data centres are also growing in size. The average new facility, at 141,000 sq ft in 2016, now spans 236,000 sq ft – about the size of three football fields.\n\n“The size and scale are both increasing at quite a rapid rate,” she noted.\n\nThe expansion is also increasing exposure to geopolitical risks.\n\nIn 2025, 60 per cent of the data-centre capacity accumulated between 2020 and 2024 was located within 10 to 15 km of global conflict zones.\n\nThis was four times the total recorded between 2015 and 2019, Howden added.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/us7-trillion-data-centre-boom-creating-gaps-insurance-cover-within-apac-report"
+    },
+    {
+      "id": "2026-10-10-35fc01",
+      "title": "Goodman's Japanese data centre comes under fire following Sydney site setback",
+      "summary": "Goodman Group faces criticism over its Japanese data centre development after a setback at its Sydney site drew scrutiny of its broader portfolio. The incidents have raised questions about project execution and community impact across the developer's Asia Pacific expansion.",
+      "why_it_matters": "Opposition in multiple markets suggests local consent is becoming a real constraint on data centre development, not just a permitting formality. Developers like Goodman may need to invest more heavily in community engagement and site selection to avoid costly delays across the region.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "australia"
+      ],
+      "topics": [
+        "colocation",
+        "investment",
+        "opposition"
+      ],
+      "published_at": "2026-10-10T16:12:18Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/property/goodmans-japanese-data-centre-comes-under-fire-following-sydney-site-setback",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Goodman"
+      ],
+      "content": "The data centre is adjacent to a residential block, a hospital and a nursing home\n\n\\[TSUKUBA, Japan\\] Goodman Group, Australia’s largest property firm by market value, faces mounting criticism of what would be its largest data centre project in Japan, just days after it scrapped plans for a similar development in Sydney following local resistance.\n\nThe dispute with residents in Japan is part of a broader global backlash against data centres, as local communities raise concerns about their impact on power grids, water supplies and local environments.\n\nFor Goodman, the stakes are high. The project is one of the largest foreign-backed digital infrastructure investments in Japan and is expected to become one of the country’s biggest data centre campuses, with an eventual capacity of 1 gigawatt – equivalent to an estimated investment of about three trillion yen (US$20 billion).\n\nThis year, Goodman began construction on the first 50-MW phase of the data centre campus in the city of Tsukuba, about 50 km north-east of Tokyo. The 45-hectare site in the Oho district, with a population of about 20,000, is adjacent to a residential block, a hospital and a nursing home.\n\nResidents said they had little understanding of the project’s scale until huge cranes appeared at the construction site in February and now complain that developers have yet to address concerns via an open public forum.\n\n“The project was originally presented in documents in 2023 as a logistics warehouse, but partway through, the word ‘data centre’ appeared,” said Hiroyuki Yanagimachi, who later formed a residents’ group to seek more information. “That made people deeply suspicious.”\n\n## Residents’ group considers protests as next step\n\nIn Japan, foreign developers like Goodman, Singapore’s GLP and London-based Colt Data Centre Services have been racing to build data centres to meet surging demand, sometimes in densely populated neighbourhoods where residents typically have little sway over development plans.\n\nYanagimachi said his group collected about 800 signatures calling for a public town hall meeting and sent two letters to Goodman requesting an open information session, but had yet to receive a response.\n\nIf talks fail to materialise, the group is considering protests at the construction site and outside Goodman’s Tokyo office, he said.\n\nAsked why it had not responded to the group, Goodman said in a statement: “Our door remains open to meet the head of the residents’ association and address their concerns and they have our contact details.”\n\nIt said it planned to hold an information meeting with residents in a format that would be decided after consultation with municipal authorities.\n\nSome six months after construction began, Goodman held its first information sessions which a few dozen Tsukuba residents attended over two evenings in August. The invitation-only meetings took place at a local restaurant and included a multi-course meal, according to four residents who attended.\n\n“It felt like a hospitality event,” one of the attendees said, asking to be identified only by her first name, Keiko, to protect her anonymity.\n\n“I’m not against data centres in general, but if anything, the event made me feel distrustful of them.”\n\nGoodman said it is “committed to engaging with residents openly and respectfully, and we will continue to do so.” It also said the company has “exceeded legal requirements and those set out in guidelines.”\n\nIn guidelines published in May, the Japan Data Center Council, an industry body of which Goodman is a member, stressed the importance of consultation, saying operators should view engagement as “a forum for discussion and mutual understanding, not a one-sided report.” REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/property/goodmans-japanese-data-centre-comes-under-fire-following-sydney-site-setback"
+    },
+    {
+      "id": "2026-10-10-f9941c",
+      "title": "Singapore data centre operator DayOne opts for US IPO at likely US$20 billion valuation",
+      "summary": "DayOne, the Singapore-based data centre operator, has chosen the US for a planned initial public offering that could value the company at around US$20 billion. The listing would rank among the largest ever for a Southeast Asian infrastructure company.",
+      "why_it_matters": "A US listing at that scale would test American investor appetite for Asian data centre assets and cement Singapore's status as a source of global infrastructure champions. Success could unlock a new wave of Asian operator IPOs priced off US benchmarks rather than local exchanges.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ipo",
+        "investment",
+        "colocation",
+        "hyperscale"
+      ],
+      "published_at": "2026-10-10T16:12:18Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/singapore-data-centre-operator-dayone-opts-us-ipo-likely-us20-billion-valuation",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "DayOne"
+      ],
+      "content": "It is seeking to raise as much as US$5 billion with a Nasdaq listing\n\n\\[SINGAPORE\\] DayOne Data Centers filed for a proposed Nasdaq initial public offering in the US on Tuesday (Oct 6), joining the wave of artificial intelligence and AI-related companies that are tapping the public equity markets.\n\nWhile the number of American depositary shares to be offered and the price range for the proposed offering are not confirmed, Reuters reported in February that the Singapore-headquartered company was aiming to raise as much as US$5 billion at a potential valuation of US$20 billion.\n\nDayOne develops and operates data centres for cloud computing and AI customers, providing space, power, cooling and connectivity, primarily under long-term contracts.\n\nEarlier media reports noted that DayOne was considering a concurrent Nasdaq-SGX dual listing.\n\nEven though there was no such mention in the prospectus, *The Business Times* understands that a subsequent listing on the SGX has not been ruled out.\n\nThe data centre operator is part of a wave of companies in the sector eyeing IPOs in the near future.\n\nGiven investor interest in the AI sector, many companies have announced IPO plans. Apart from the well-publicised candidates Anthropic and OpenAI, there is also data centre operator Switch, which is seeking a valuation approaching US$50 billion including debt. Another is London-based AI cloud provider Nscale, with a valuation of US$35 billion, according to Reuters.\n\nIn Asia, China’s Deepseek is aiming to list in Shanghai next year while Moonshot AI is eyeing the Hong Kong exchange.\n\nDayOne reported US$512 million in revenue for the six months ended Jun 30, more than three times the US$151.5 million in the same period the previous year.\n\nNet loss stood at US$81.9 million for the same period, compared with the US$13.5 million loss for the year-ago period, according to its prospectus.\n\nThe company has a global presence in markets such as Singapore, Japan, Thailand, Spain and Finland; it was one of four recipients to be awarded capacity in the city-state’s pilot Data Centre – Call for Application programme in 2023.\n\nIn H1, 87 per cent of DayOne’s revenue was derived from Malaysia. The company has 10 customers in Johor, with about 1.4 gigawatts (GW) of bookings.\n\nThe operator reported a total booking capacity of 2.3 GW as at Sep 20, and its largest customer – an unnamed tech company with a leading short-form video platform – accounted for 69.2 per cent of H1 revenue.\n\n“Our business and growth prospects significantly depend on a limited number of global hyperscale customers, and we may not succeed in diversifying our customer base,” it said.\n\nDayOne will use net proceeds from the IPO for the development and construction of new data centre projects, as well as for working capital and other general corporate purposes.\n\nThrough the offering, the data centre operator is also looking to increase its financial flexibility and capitalisation, which stands at US$11.2 billion, it noted in the prospectus filing.\n\n“We do not expect to pay dividends in the foreseeable future,” it added.\n\nBT has reached out to DayOne for comments.\n\n## Milestone for the ex-GDS subsidiary\n\nThe upcoming listing represents a milestone for DayOne, which began as a subsidiary of Shanghai-based GDS Holdings.\n\nGDS, one of China’s largest carrier-neutral data centre operators, established the international unit in Singapore in 2022 to lead its expansion outside mainland China.\n\nThe prospectus also revealed that two of DayOne’s existing customers have been designated as “Chinese military companies” by the US Department of War.\n\nThe operator did not reveal the identity or revenue contribution of the two customers, but noted that its business operations could be affected if customers and suppliers are added to sanctions or export controls.\n\nIn late 2024, GDS’ stake in the business was diluted to 35.6 per cent from 52.7 per cent, following a US$1.2 billion Series B funding round.\n\nIn January 2025, the separated entity rebranded from GDS International to DayOne. It now operates under a distinct ownership and governance framework.\n\nPrior to the IPO filing, DayOne had tapped investors for a Series C fundraising round in June, raising US$4.5 billion to further support its growth plans.\n\nGDS’ shareholding in DayOne has been reduced to 19.4 per cent since the latest fundraising and share buyback. It is now the company’s third-largest shareholder after investment management firm Coatue and private equity player Hillhouse.\n\nSince 2024, DayOne has raised more than US$6 billion in equity financing, backed by a formidable roster of global investors. Others include the SoftBank Vision Fund, Indonesia Investment Authority, Achi Capital, Boyu Capital and Baupost Group.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/singapore-data-centre-operator-dayone-opts-us-ipo-likely-us20-billion-valuation"
+    },
+    {
+      "id": "2026-10-10-b3ee6d",
+      "title": "Banks chase risky chip loans in Asia's US$8.2 trillion AI buildout",
+      "summary": "Banks are increasingly underwriting riskier loans tied to semiconductor facilities as Asia's AI buildout, valued at US$8.2 trillion, strains traditional project finance channels. Lenders are accepting weaker covenants and longer tenors to win mandates in the crowded chip financing market.",
+      "why_it_matters": "Aggressive bank competition for chip-linked lending raises the spectre of deteriorating credit quality if AI capital expenditure cools. Regulators in the region will be watching for concentration risk in bank books, while borrowers gain cheaper, looser financing in the near term.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "global",
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "chips",
+        "ai",
+        "finance"
+      ],
+      "published_at": "2026-10-10T16:12:18Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/banks-chase-risky-chip-loans-asias-us8-2-trillion-ai-buildout",
+          "type": "html-list"
+        }
+      ],
+      "content": "With lenders a bigger funding source, firms must do more to prove projects will generate enough revenue\n\n\\[HONG KONG\\] The next wave of artificial intelligence debt financing is taking off in Asia.\n\nCompanies building hundreds of data centres across the region are also seeking funds to buy the advanced computer chips that will power them.\n\nWhile borrowing to acquire graphics processing units (GPUs) has grown rapidly in the US, the few such loans secured in Asia have mostly involved private credit funds that were willing to take more risk.\n\nNow banks are becoming more comfortable with GPU financing, significantly widening the pool of capital available for the next phase of the AI race.\n\nThat money will be crucial given PricewaterhouseCoopers estimates Asia’s spending on data centres could reach US$8.2 trillion by 2050, with the vast majority going to hardware including GPUs and servers.\n\nIn recent months, banks played key roles in GPU loans totalling roughly US$3.8 billion to GMI Cloud and two other AI infrastructure providers, Zankore and PaleBlueDot AI.\n\nCitigroup was the sole debt adviser for Zankore’s US$3.1 billion borrowing in Indonesia, while JPMorgan Chase was the placement agent for the credit facility raised by PaleBlueDot AI.\n\nHalf a dozen bankers and financial advisers across Asia said they were either in talks for or aware of more financing deals linked to GPUs, though lending is still nascent because of concerns over how to value the chips longer term and assess risks tied to geopolitical tensions and AI itself.\n\nThey asked not to be identified discussing private information.\n\n“As deal sizes grow and borrowers push for more competitive pricing, banks will be increasingly important,” said Eric Tan, a banking and finance partner at Hogan Lovells Cadwalader.\n\n## Exposure to depreciation, tech obsolescence\n\nBut GPU financing also exposes lenders to “rapid depreciation, technology obsolescence and volatile rental rates” due to how quickly the technology changes, he said.\n\nAmong traditional lenders that have waded into Asian GPU financing, global investment banks have so far been the main players because of their expertise in the complex structures, according to people familiar with ongoing talks.\n\nSome US lenders have drawn on specialists in their head offices to assess chip valuations, one banker said.\n\nCitigroup, JPMorgan Chase, Barclays, Deutsche Bank, Banco Santander and Japan’s Sumitomo Mitsui Banking Corp are currently evaluating GPU-linked loans, according to people familiar with the matter.\n\nGMI Cloud is in talks with banks and private lenders for a new US$300 million loan to buy chips for its Thai data centre, separate people familiar said in September.\n\nRepresentatives for Citigroup, Barclays and Deutsche Bank declined to comment. JPMorgan, Santander and SMBC did not immediately reply to requests for comment.\n\nStill, Asian banks are starting to get more active in the space.\n\nSingapore’s UOB , which jointly underwrote Zankore’s US$3.1 billion loan with four other banks, is now leading talks as the data centre operator tries to raise a fresh US$6 billion from banks, according to Zankore chairman Vikram Sinha.\n\nWorking with banks is “the right way” because Zankore will need to keep raising money as it expands its AI data centre capacity by 10 times to 1 gigawatt, Sinha said at a conference on Sep 22.\n\n“We were very clear \\[about\\] the scale we are looking at. We wanted to go the hard way – we wanted to work with banks and a bank syndicate.”\n\nAs banks become a bigger source of funding, companies seeking to borrow for chip purchases will have to do more to prove their projects will generate enough revenue to make good on their loans.\n\nTraditional lenders will likely demand more conservative underwriting and higher debt service reserve requirements.\n\nMike Arougheti, who runs Ares Management, one of Asia’s largest private credit lenders, has said that his firm is also keeping the bar high even though GPU financing has the biggest funding gap in the AI boom.\n\n“You have to be leading with your risk appetite and not your appetite to deploy,” Arougheti said at the Barclays Global Financial Services conference in September.\n\n“No one could really articulate, at least to me, what the depreciation curve looks like for that technology,” he said, adding that returns are limited and usually only around 100 to 200 basis points higher than other kinds of AI infrastructure lending.\n\nGPU loans in Asia have largely followed a structure pioneered by CoreWeave, one of the earliest and biggest users of this type of financing.\n\nIn many deals, the loans are repaid with revenue from selling a data centre’s computing power.\n\nCustomer contracts and the chips themselves often serve as security for the loans.\n\nFor a lender, the most important question then becomes: how reliable are those customers and how long are the contracts?\n\nDeals backed by Nvidia have been an easy yes.\n\nIn both the GMI Cloud and Zankore loans completed in September, the US technology giant agreed to purchase any unsold computing capacity, providing a backstop if customer contracts fall through.\n\nIn return, the companies, which are part of Nvidia’s cloud partner programme, will charge buyers higher prices than Nvidia’s promised rate and share their revenue with Nvidia.\n\n## Chinese tech demand\n\nMajor Chinese tech companies have emerged as another key source of demand for computing power in Asia.\n\nThey are a relatively safe bet since they are also able to draw in Chinese banks, according to a loan banker at a European lender.\n\nTencent would be the end user of chips GMI Cloud wants to buy for its Thai data centre, people familiar said in September.\n\nXiaohongshu, a popular Chinese social media platform, was set to buy computing capacity from chips purchased by PaleBlueDot AI for its project in Japan, separate people familiar said in December.\n\nBut Chinese clients also come with their own baggage.\n\nThe US already restricts chip exports to mainland China and is considering new legislation that aims to curb Chinese firms’ remote access to Nvidia chips via cloud computing, which would restrict them from renting computing capacity located in other countries.\n\n“Large Chinese hyperscalers generally have strong credit quality,” said Yijing Ng, an analyst at S&P Global Ratings.\n\nHowever, banks will have to conduct more due diligence to ensure they are complying with regulations and the ultimate users of the computing power are not violating any sanctions or restrictions, she said.\n\nAt the same time, the existential debate about AI’s dangers and the need to impose guardrails on its growth will continue to influence risk assessments.\n\n“The markets are likely to take a while to find an equilibrium,” said Tan from Hogan Lovells Cadwalader. “Deal structures may tighten up, sovereign support may come into play and the model for deals will evolve as a result.” BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/banks-chase-risky-chip-loans-asias-us8-2-trillion-ai-buildout"
+    },
+    {
+      "id": "2026-10-10-40746d",
+      "title": "Microchip, Navitas partner on 800V DC power for AI data centers",
+      "summary": "Microchip Technology and Navitas Semiconductor have collaborated on an 800V DC-to-6V DC reference design. This platform aims to accelerate the industry's shift towards 800V DC rack power architectures in AI data centers, improving efficiency and power density.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "power",
+        "ai",
+        "chips"
+      ],
+      "published_at": "2026-10-10T11:47:11Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/microchip-navitas-partner-on-800v-dc-power-for-ai-data-centers/134853702",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Microchip Technology",
+        "Navitas Semiconductor"
+      ],
+      "content": "Microchip Technology and Navitas Semiconductor have collaborated on an 800V DC-to-6V DC reference design for AI data center rack power applications. This platform aims to accelerate the industry's transition to higher-voltage rack power architectures, enhancing distribution efficiency and power density.The collaboration provides a practical path for developers to implement high-efficiency power conversion, aligning with the Open Compute Project (OCP) 800V DC standard. The solution includes reference hardware, software, and design documentation, which helps reduce design risk and shorten development cycles. It also accelerates the deployment of next-generation AI infrastructure, according to the companies.Joe Thomsen, Corporate Vice President of Microchip's digital signal controller business unit, stated that AI infrastructure optimisation is driving a significant power architecture transition in data centers. He added that developers need proven control and security as the ecosystem moves towards higher-voltage rack power systems.The reference platform integrates Microchip's dsPIC33AK Digital Signal Controllers (DSCs) and TA100 CryptoAuthentication security IC with Navitas’ GaNFast gallium nitride (GaN) power devices. The dsPIC33AK provides deterministic digital power control for high-frequency, high-efficiency DC/DC conversion. Meanwhile, the TA100 establishes a hardware root of trust for authentication, secure boot, and protected firmware updates.The dsPIC33AK256MPS306 family features a 200 MHz 32-bit core with a double-precision floating-point unit (FPU). It also includes 78 ps high-resolution Pulse Width Modulators (PWMs) and multiple 12-bit Analog-to-Digital Converters (ADCs) operating at up to 40 MSPS. The devices support Commercial National Security Algorithm (CNSA) Suite 2.0 recommended post-quantum cryptographic algorithms and hardware-accelerated cryptographic functions.The power delivery board (PDB) uses 16 NV6034, 650 V, 17 mΩ GaNFast FETs in a stacked half-bridge topology on the primary side. Its DFN8x8 dual-side-cooled package reduces thermal resistance, allowing higher continuous power operation while maintaining efficiency.The PDB targets delivering up to 96 per cent peak efficiency at full load with 1 MHz switching frequency. This enables a power density of 2,100 W/in³.The ultra-low profile design is approximately 20 per cent thinner than a mobile phone. This enables close integration with the GPU board, maximising transient performance and improving power distribution efficiency. Direct conversion from 800V DC to 6V DC combines two conversion stages into one converter, delivering higher end-to-end efficiency.Vipin Bothra, Vice President of Global Solution Marketing at Navitas Semiconductor, noted that GaNFast technology is a critical enabler for higher power density and greater efficiency as AI infrastructure scales. He added that the collaboration accelerates the delivery of advanced power solutions for next-generation AI data centers.Microchip's TA100 CryptoAuthentication IC integrates hardware-based security, allowing developers to establish a trusted foundation for system authentication and protection. The TA100 supports code authentication, secure boot, Message Authentication Code (MAC) generation, and trusted firmware updates. It also handles multiple key management protocols, including Transport Layer Security (TLS), and other root-of-trust-based operations.\n\n- Policy, Land & Power\n- 2 min Read\n\n# Microchip, Navitas partner on 800V DC power for AI data centers\n\nMicrochip Technology and Navitas Semiconductor have collaborated on an 800V DC-to-6V DC reference design. This platform aims to accelerate the industry's shift towards 800V DC rack power architectures in AI data centers, improving efficiency and power density.\n\n- Published On Oct 10, 2026 at 05:17 PM IST\n\n## Highlights\n\n- Microchip, Navitas partner on 800V DC power design for AI data centers.\n- Solution accelerates shift to 800V DC rack architectures, boosting efficiency.\n- Combines digital power control, security, and GaNFast power devices.\n- Targets 96 per cent peak efficiency, 2,100 W/in³ power density.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/microchip-navitas-partner-on-800v-dc-power-for-ai-data-centers/134853702"
+    },
+    {
+      "id": "2026-10-10-1ba57c",
+      "title": "Asia data center projects face IPO delays and government halts",
+      "summary": "Two major listings hit obstacles: Firmus pulled its AU$7.1 billion IPO in Australia to pursue private fundraising, while PLDT pushed its Vitro data centre REIT listing to 2027, citing rising interest rates. The moves reflect cooling capital market conditions for Asian data centre assets.",
+      "why_it_matters": "IPO delays tighten exit options for sponsors and slow the recycling of capital into new capacity, which could eventually constrain supply growth. Private equity and debt funds gain leverage as public markets retreat, reshaping who ultimately owns the region's digital infrastructure.",
+      "score": 68,
+      "heat": 1,
+      "regions": [
+        "australia",
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "ipo",
+        "colocation"
+      ],
+      "published_at": "2026-10-10T02:00:25Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/asia-data-center-projects-face-ipo-delays-and-government-halts/134846158",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Firmus",
+        "PLDT"
+      ],
+      "content": "Asia-Pacific's rapid data center expansion is encountering several obstacles, including delayed initial public offerings and government-imposed development pauses.Australian-based Firmus, backed by shareholders including Blackstone and Nvidia, withdrew its AU$7.1 billion (US$4.97 billion) planned IPO on Friday. The company, which had been expected to be the biggest ASX debut since 1997, will now seek up to $3 billion through private fundraising, the Financial Times reported. Firmus faced challenges in securing market support at its target price, even after offering a reduction.Maas Group, a Firmus shareholder with a 3.2 per cent stake and outstanding contracts worth AU$727 million ($507 million), saw its stock drop 27 per cent in two days, leading to a trading halt. Additionally, CDC Data Centers removed Firmus from their joint AI infrastructure project in Australia, citing concerns over Firmus' Southeast Asian expansion, which was not part of their original partnership.Separately, Philippine telco PLDT postponed its Vitro data center REIT listing until 2027. The company attributed this delay to \"current market conditions and rising interest rates,\" according to an exchange filing. The REIT was anticipated to generate as much as 24.2 billion Philippine pesos (US$385.1 million) on the Manila bourse. The Philippines' central bank recently increased interest rates by 25 basis points and is expected to announce further rises by year-end.Government interventions are also slowing growth. Indonesia's West Java province halted a 640MW project by Singapore-based BDX, citing a lack of key approvals, including an environmental assessment. Last month, Thailand suspended 166 data center projects, with 49 under construction and 117 awaiting approval. This pause allows government committees to establish new industry rules aimed at setting standards and maximising economic benefits for Thailand.In Malaysia, a hub for data center development in Asia, officials are concerned about the soaring power consumption of new digital infrastructure. Siti Safinah Salleh, head of the Malaysian Energy Commission, reportedly stated that electricity demand growth has risen from 1.5 per cent-2 per cent annually to nearly 10 per cent due to data centers. Salleh also noted the difficulty in recovering energy costs from data center operators, many of whom are on short-term contracts and resist long-term commitments.\n\n- Investments & Deals\n- 2 min Read\n\n# Asia data center projects face IPO delays and government halts\n\nAustralian-based Firmus withdrew its AU$7.1 billion IPO, opting for private fundraising after struggling to gain market support. Philippine telco PLDT also delayed its Vitro data center REIT listing until 2027 due to rising interest rates.\n\n- Published On Oct 10, 2026 at 07:30 AM IST\n\n## Highlights\n\n- Firmus withdrew its AU$7.1 billion IPO, seeking private funding instead.\n- PLDT delayed its Vitro data center REIT listing until 2027 due to rising interest rates.\n- Indonesia halted a 640MW project; Thailand suspended 166 data center projects.\n- Malaysia's electricity demand surged nearly 10 per cent due to data centers.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/asia-data-center-projects-face-ipo-delays-and-government-halts/134846158"
+    },
     {
       "id": "2026-10-10-a85d20",
       "title": "Sugon 8000 'computes' the future of weather forecasting, domestic compute breaks kilometer-scale global forecast bottleneck",
@@ -38,6 +308,191 @@
       ],
       "content": "天气变化是地球系统中最复杂的科学问题之一。从一次暴雨过程的形成，到台风路径与强度演变，再到全球气候系统变化，气象预测本质上是一场对地球运行规律的高精度计算。\n\n随着极端天气事件增多，传统中低分辨率模式已经难以满足精细化预报需求，气象领域正在进入以高分辨率模式、高性能计算和人工智能融合驱动的新阶段。\n\n在“算力登峰 定数风云——曙光8000气象领域重大应用成果发布会”上，中国气象局地球系统数值预报中心与中科曙光联合发布全球公里级高精度气象计算重大成果，基于全国产十万卡AI超集群曙光8000，中国气象局下一代天气气候一体化模式MCV完成了系统优化，并实现全球5公里分辨率、未来10天的气象模拟可在1小时内完成，业务化能力迈入全球第一梯队。\n\n中科曙光董事长历军表示，数值天气预报与高性能计算始终相伴相生，协同演进，过70多年，每一次预报都是算法创新与算力跃升双轮驱动的结果。\n\n中国气象局地球系统数值预报中心研究员李兴良在接受采访时表示，本次发布的核心成果可以概括为“国产算力+国产原创自主模式”，即国产超强算力与自主研发模式形成协同突破。\n\n### 一、从12.5公里到5公里：气象预报竞争进入精细化计算时代\n\n气象预报能力提升，首先体现于空间分辨率的提升。过去较长时间里，全球数值预报模式主要运行在十公里级甚至更高尺度，而进入公里级分辨率后，模式能够更加准确描述复杂地形、强对流天气以及中小尺度天气系统演变。陈起英认为，水平分辨率提升带来的不仅是数字变化，更是对天气物理过程刻画能力的增强。\n\n中国气象局地球系统数值预报中心首席科学家陈起英指出，从12.5公里提升到5公里，最明显的变化体现在中小尺度天气过程预测能力增强。例如在暴雨预报中，12.5公里模式可能只能预测到中雨量级，而提升至5公里后，对暴雨强度的模拟能力明显提高；对于台风预测而言，原有模式能够较好预测路径，但强度预报存在偏弱问题，5公里模式能够进一步改善强度模拟效果。\n\n分辨率提升的背后，是计算规模的大幅增加。中国气象局地球系统数值预报中心高级工程师蒋沁谷介绍，数值天气预报模式实际上是一套基于大气运动规律建立的大型计算程序，通过求解动力学方程模拟未来天气状态。模式将地球大气划分为大量网格单元，分辨率越高，需要计算的空间单元越多，对计算资源的需求也呈指数增长。\n\n### 二、MCV模式突破：自主算法与国产****算力****形成协同创新\n\n高精度气象预报不仅依赖硬件算力，也依赖模式算法创新。MCV模式是中国气象局地球系统数值预报中心研发的新一代大气模式，其核心目标是提升模拟精度、增强计算扩展能力，并支撑公里级气象预测需求。\n\n李兴良介绍，MCV本身是一套原创算法体系，团队围绕该算法发展形成新的高精度模式。该模式解决的重要问题包括提升模拟精度、增强长期大气质量模拟能力，以及更充分发挥超级计算资源的作用。他表示，如果缺少高效模式算法，即使拥有强大的计算设备，也难以充分释放计算能力。\n\n从国际竞争视角看，公里级全球模式已经成为气象科技发展的重要方向。李兴良指出，全球5公里模式是国际气象领域共同探索方向，美国全球模式分辨率约为12.5公里，欧洲中心约为9公里，各方均在向5公里方向推进。综合计算成本与业务效率，5公里成为兼顾科学价值与工程可行性的关键尺度。\n\n此次MCV模式与曙光8000融合，解决的不只是“能不能算”的问题，更是“能不能快速稳定运行”的问题。蒋沁谷介绍，国际业务化预报对计算时效有严格要求，模式必须在规定时间内完成计算并输出产品。由于公里级模式计算量巨大，传统CPU架构难以满足需求，因此双方探索利用国产异构加速计算体系提升效率。\n\n### 三、曙光8000赋能：从单纯提供算力到参与科学计算体系创新\n\n在高端科学计算领域，算力平台正在从基础资源向深度融合的计算基础设施演进。此次合作中，曙光8000并非简单承担计算任务，而是围绕模式移植、通信优化、存储体系和软件生态展开系统级协同。\n\n中科曙光高端计算总工程师卜景德表示，气象计算具有典型的科学计算特征，与人工智能计算存在明显差异。传统数值天气预报更加关注双精度计算能力，而人工智能应用更多采用低精度计算方式。通过异构计算体系，可以在同一系统中同时支持传统科学计算、人工智能计算以及数智融合应用。\n\n曙光8000的重要特点之一，是支持超智融合异构计算。发布会上介绍，该系统能够同时支撑科学计算、人工智能训练以及推理应用，并通过全精度算力满足多类型计算需求。同时，系统针对气象业务中的海量数据处理需求进行了优化，包括低延迟网络、高带宽存储以及可靠性设计。\n\n气象业务对计算系统稳定性提出极高要求。卜景德指出，气象预报不是一次性的科研计算，而是持续运行的生产系统，需要满足稳定、高效、可靠的要求。尤其在重大天气过程和关键保障时期，如果系统无法按时完成计算，将直接影响预报产品生成，因此业务化气象计算对系统可靠性提出了严苛要求。\n\n### 四、从“算得快”到“算得准”：超智融合打开气象计算新路径\n\n随着人工智能技术快速发展，气象领域正在探索传统数值模式与人工智能模型融合的新路径。人工智能能够从海量历史数据中学习天气演变规律，而数值模式则基于物理方程提供高精度模拟能力，两者结合有望形成新的气象预测体系。\n\n卜景德认为，气象预测中的超智融合，本质是让人工智能与传统科学计算形成互补。由于大气初始状态存在不确定性，即使拥有高精度观测，也难以完全描述真实状态，因此人工智能可以通过历史数据学习提供趋势判断，再与高精度模式结合，提高整体预测能力。\n\n这一趋势也推动计算基础设施向更加开放和智能的方向发展。卜景德表示，双方合作过程中积累的软件优化、算法创新和工程经验，不仅服务于气象领域，也可以推广到生命科学、工程设计、能源勘探等科学计算场景。通过气象这样高标准、高可靠性的应用验证，可以进一步推动国产计算生态完善。\n\n### 五、迈向地球系统智能计算：国产算力产业迎来应用深化\n\n从产业角度看，气象领域正在成为验证高端计算能力的重要场景。相比单纯追求峰值性能，科学计算更加关注长期稳定运行、软件生态适配和复杂任务协同能力。曙光8000与MCV模式的结合，体现了国产计算产业从设备建设向应用创新深入发展的趋势。\n\n李兴良表示，目前5公里模式已经具备较高水平，但完整业务化体系仍需要模式、资料同化、运行流程等多个环节共同完善。气象预报是一项系统工程，需要整个链条协同推进，才能实现高精度、高时效业务运行。\n\n面对更高分辨率需求，算力挑战仍在持续增加。蒋沁谷介绍，按照现有模式计算规律，分辨率提升一倍，计算量通常增长8倍至16倍。未来向更高精度模拟推进，需要更强计算芯片、更高速互联网络以及更加高效的软件体系共同支撑。\n\n这也意味着，气象计算正在成为国产高性能计算产业的重要创新试验场。从芯片、服务器、网络、存储到软件生态，气象业务提出的高可靠、高性能、高复杂度需求，将推动整个计算产业链持续升级。\n\n### 结束语：\n\n气象预测的发展史，本质上也是计算技术不断突破的过程。从粗尺度模拟到公里级精细预测，从单一数值计算到超智融合，气象科学与高性能计算正在形成更加紧密的协同关系。\n\n此次曙光8000与MCV模式的联合突破，标志着国产算力与国产科学模式在高端应用领域实现深度融合。它不仅提升了气象预测能力，也为国产计算体系服务重大科学问题提供了新的实践样本。\n\n当算力成为认识地球、模拟自然、服务社会的重要基础设施，气象领域的创新探索正在展示一个更加广阔的产业图景：未来的计算竞争，不只是比拼硬件性能，更是比拼算法、生态和应用深度融合能力。国产算力正在从支撑计算任务，走向参与科学创新。",
       "content_url": "https://news.idcquan.com/news/208275.shtml"
+    },
+    {
+      "id": "2026-10-10-910eba",
+      "title": "Digital Realty begins work on KIX15 data center in Japan",
+      "summary": "Digital Realty has started construction on KIX15, a new 24MW data center building on its Osaka campus in Japan. The project adds capacity to serve hyperscale and enterprise demand in the Kansai region.",
+      "why_it_matters": "Osaka is gaining ground as a second major Japanese hub as operators hedge against Tokyo's land and power limits. The 24MW build-out deepens competition in Kansai and gives Digital Realty more capacity to capture enterprise and AI workloads seeking geographic diversification within Japan.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "capacity",
+        "investment",
+        "colocation",
+        "construction"
+      ],
+      "published_at": "2026-10-09T15:30:34Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/digital-realty-begins-work-on-kix15-data-center-in-japan/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Digital Realty"
+      ],
+      "content": "Digital Realty has begun construction work on a data center at its Osaka campus in Japan.\n\nDubbed KIX15, the building will add 24MW of capacity to the KIX Campus located in Ibaraki City, Osaka Prefecture.\n\nKIX15 is being developed through the MC Digital Realty (MCDR) joint venture, a 50/50 joint venture with Mitsubishi Corporation, and will be the fifth building at the campus.\n\nOperations are expected to begin in Q4 2028. The new data center will bring the MCDR's total capacity in Japan to 220MW of IT capacity.\n\nSerene Nah, managing director and head of Asia Pacific, Digital Realty, said: “Japan is a strategic market for Digital Realty and a key part of our long-term growth in Asia Pacific. Our continued investment in Japan reflects both our confidence in the market and our commitment to building the infrastructure customers will need for the long term.\n\n“KIX15 is the next step in that commitment. As customer requirements become more distributed and complex, the combination of local scale and global reach will become increasingly important.”\n\nKohei Yamashita, representative director and CEO of MC Digital Realty, added: “Kansai has a growing opportunity to play a larger role in Japan’s AI economy. Realizing that potential will require an ecosystem that can support businesses as they build and scale AI, bringing together computing infrastructure, connectivity, and technology expertise.”\n\nThe data center will be designed to support hybrid air- and liquid-cooling technologies.\n\nEarlier this year, Digital Realty added a third data center to its NRT campus in Inzai City, Japan, located approximately 71km (44 miles) from downtown Tokyo. Work on the 31MW NRT14 began in May 2024.\n\nThe company also has a fourth data center in the Tokyo region, dubbed HND10.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/digital-realty-begins-work-on-kix15-data-center-in-japan/"
+    },
+    {
+      "id": "2026-10-10-04ad77",
+      "title": "China to curb tech investment bubbles, ensure AI safety",
+      "summary": "The guidelines warned against blind investment and excessive expansion into emerging sectors",
+      "why_it_matters": "",
+      "score": 62,
+      "heat": 2,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "ai",
+        "regulation",
+        "investment"
+      ],
+      "published_at": "2026-10-09T13:12:33Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/china-to-curb-tech-investment-bubbles-ensure-ai-safety/134853068",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/global/china-vows-curb-tech-bubbles-keep-ai-risks-check",
+          "type": "rss"
+        }
+      ],
+      "content": "China will tighten oversight of its advanced technology drive, seeking to curb investment bubbles.Policy guidelines issued on Friday also aim to ensure artificial intelligence (AI) remains safe, reliable, and controllable.The guidelines, issued by the ruling Communist Party and the cabinet, warned against blind investment and excessive expansion into emerging sectors.This directive comes as Beijing ramps up support for high-tech manufacturing and strategic industries.The goal is to boost technological self-sufficiency amid ongoing rivalry with the US. Xinhua cited the guidelines, stating that \"Developing new productive forces is an inherent requirement and an important focus for promoting high-quality development.\"President Xi Jinping introduced the term \"new productive forces\" in 2023. This concept emphasises scientific research, technological breakthroughs, and industrial upgrading across China's manufacturing base.China will seek breakthroughs in AI theory and core technologies, the guidelines stated. It will also strengthen the supply of computing power, algorithms, and data.National pilot bases for industrial AI applications will be established. Technology monitoring, risk-warning, and emergency-response systems will also be implemented to ensure AI remains \"safe, reliable and controllable.\"The document said China would fully implement its \"AI Plus\" initiative. This initiative aims to use AI to upgrade traditional industries and accelerate the rollout of intelligent products.These intelligent products include connected new-energy vehicles, AI-enabled phones and computers, and humanoid robots. The guidelines also pledged to strengthen \"original and disruptive\" innovation in core technologies.China will use its state-led \"new nationwide system\" to speed the development and deployment of landmark products. At the same time, officials were told to prioritise the real economy and avoid bubbles.They must also avoid industrial hollowing-out, blind investment, and \"swarm-like\" rushes into high-tech sectors. China will \"strictly prohibit the illegal or improper abuse of policies\" in the name of developing new productive forces.Officials responsible for major losses caused by blind investment would be held accountable. The document also called for the healthy and orderly development of the low-altitude economy.This includes businesses built around civilian drones, air taxis, small aircraft, and related services. The guidelines stressed the importance of ensuring safety within this emerging sector.\n\n- AI & Compute Infrastructure\n- 2 min Read\n\n# China to curb tech investment bubbles, ensure AI safety\n\nChina will tighten oversight on advanced technology, aiming to curb investment bubbles. Policy guidelines issued on Friday also seek to ensure artificial intelligence remains safe and controllable. Officials will be held accountable for major losses from blind investment.\n\n- Published On Oct 10, 2026 at 04:51 PM IST\n\n## Highlights\n\n- China tightens oversight on advanced technology investments.\n- Guidelines warn against blind investment in emerging sectors.\n- Officials to be held accountable for major investment losses.\n- Focus on AI safety, computing power, and core tech breakthroughs.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/china-to-curb-tech-investment-bubbles-ensure-ai-safety/134853068"
+    },
+    {
+      "id": "2026-10-10-9471a4",
+      "title": "Report: Nvidia plans to invest in inference chip startup d-Matrix",
+      "summary": "Follows reports that company was seeking to raise additional funds, targeting $5bn valuation",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "investment",
+        "ai"
+      ],
+      "published_at": "2026-10-09T12:00:55Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/report-nvidia-plans-to-invest-in-inference-chip-startup-d-matrix/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA",
+        "d-Matrix"
+      ],
+      "content": "Nvidia is planning to invest in inference chip startup d-Matrix, according to a report from The Information.\n\nCiting three people with knowledge of the deal, the report said the planned investment is part of an effort by Nvidia to make its technology compatible with rival chip designs.\n\nThe report comes a month after d-Matrix announced it would adopt Nvidia’s NVLink technology to connect its Raptor processors with the chip giant’s hardware in rack-scale solutions. First unveiled in May 2025 and known as NVLink Fusion, the interconnect technology allows partners to build semi-custom AI infrastructure linking non-Nvidia accelerators with Nvidia hardware.\n\nOther NVLink Fusion partners include the likes of Arm, Fujitsu, Intel, MediaTek, Qualcomm, SiFive, and Synopsys.\n\nFounded in 2019 and headquartered in Santa Clara, d-Matrix develops accelerator cards that aim to make AI inferencing workloads quicker and more efficient. Its full-stack platform is powered by the company’s Corsair inference accelerators, JetStream NICS, and Aviator software, which it claims can deliver 10X faster performance, 3X lower cost, and 3–5X better energy efficiency than GPU-based systems.\n\nIn November 2025, the startup closed a $275 million Series C funding round, valuing the company at $2 billion. The Information separately reported in July 2026 that d-Matrix was looking to raise additional financing, targeting a $5bn valuation.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/report-nvidia-plans-to-invest-in-inference-chip-startup-d-matrix/"
+    },
+    {
+      "id": "2026-10-10-128415",
+      "title": "How to land corporate Australia's hottest $1.2m role",
+      "summary": "Pooyan Asgari had a lot to learn before starting as law firm MinterEllison’s inaugural chief artificial intelligence officer, but not about AI.",
+      "why_it_matters": "",
+      "score": 40,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "talent",
+        "careers"
+      ],
+      "published_at": "2026-10-09T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/work-and-careers/careers/how-to-land-corporate-australia-s-hottest-1-2m-role-20261009-p60o0l",
+          "type": "html-list"
+        }
+      ],
+      "published_precision": "day",
+      "content": "Pooyan Asgari had a lot to learn before starting as law firm MinterEllison’s inaugural chief artificial intelligence officer, but not about AI.\n\nWith decades of data and AI experience across academia and his previous role as Domain’s chief data officer, Asgari spent the month before his August start date immersing himself in the legal sector to ensure he could translate that technical background into business value.\n\nLoading...",
+      "content_url": "https://www.afr.com/work-and-careers/careers/how-to-land-corporate-australia-s-hottest-1-2m-role-20261009-p60o0l"
+    },
+    {
+      "id": "2026-10-10-96d7fc",
+      "title": "Singapore passes Digital Infrastructure Bill for data centres, cloud",
+      "summary": "Singapore's Parliament has passed the Digital Infrastructure Bill, creating licensing regimes for data centre operators and cloud service providers for the first time. The law aims to strengthen the digital economy's foundations and embed environmental sustainability requirements in data centre operations.",
+      "why_it_matters": "Operators in Singapore will now face formal licensing obligations, likely tightening standards on energy and water efficiency in one of the world's most constrained markets. The regime could raise compliance costs but also give the government sharper levers to align capacity growth with sustainability targets.",
+      "score": 78,
+      "heat": 2,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "regulation",
+        "colocation",
+        "cloud",
+        "sustainability"
+      ],
+      "published_at": "2026-10-09T11:05:25Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/singapore-passes-digital-infrastructure-bill-for-data-centres-cloud/134831663",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/singapore/major-data-centres-meet-stricter-security-resilience-rules-passing-new-bill",
+          "type": "html-list"
+        }
+      ],
+      "content": "Singapore's Parliament has passed the Digital Infrastructure Bill, introducing two new licensing regimes. The new law aims to strengthen the foundations of Singapore's digital economy and provide regulatory clarity.It also seeks to ensure the environmental sustainability of data centre operations. The bill was initially tabled in Parliament for its First Reading in September.The new law mandates licensing for data centres with a critical IT load of at least 3 megawatts (MW). Major co-location and cloud data centres with a critical IT load of at least 10MW also fall under this requirement.Additionally, major cloud service providers whose Infrastructure-as-a-Service and Platform-as-a-Service services generate at least S$100 million (US$78.2 million) in average annual revenue from users in Singapore over the past three years are included.Major data centres will be required to implement processes ensuring the physical and cybersecurity of their services. They must also establish business continuity and disaster recovery plans.The Infocomm Media Development Authority (IMDA) must be notified of prescribed cybersecurity incidents or service disruptions. Singapore currently operates more than 1.6GW of existing data centre capacity across 70 facilities, which includes 200MW of new capacity awarded to four operators in August.\n\n- Policy, Land & Power\n- 1 min Read\n\n# Singapore passes Digital Infrastructure Bill for data centres, cloud\n\nSingapore's Parliament has passed the Digital Infrastructure Bill, introducing new licensing regimes for data centres and cloud service providers. This legislation aims to enhance the digital economy's foundation and ensure environmental sustainability in data centre operations.\n\n- Published On Oct 09, 2026 at 04:35 PM IST\n\n## Highlights\n\n- Singapore's Parliament passed the Digital Infrastructure Bill introducing new licensing regimes.\n- Data centres with 3MW IT load and cloud providers with S$100 million revenue require licenses.\n- The law mandates cybersecurity, business continuity, and environmental sustainability for major DCs.\n- IMDA must be notified of cybersecurity incidents and service disruptions by licensed entities.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/singapore-passes-digital-infrastructure-bill-for-data-centres-cloud/134831663"
+    },
+    {
+      "id": "2026-10-10-80234c",
+      "title": "AirTrunk secures US$1.21 billion green loan for Tokyo data center",
+      "summary": "AirTrunk has secured a ¥191.6 billion (US$1.21 billion) green loan to refinance existing debt and fund the TOK1 hyperscale campus in eastern Tokyo. The proceeds will support expansion of the campus to serve rising AI and cloud demand.",
+      "why_it_matters": "This deal shows green financing has become a mainstream funding channel for hyperscale projects in Japan, giving operators cheaper capital while tying them to sustainability commitments. It also signals continued institutional confidence in Tokyo as a primary AI infrastructure hub despite regional power and land constraints.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "investment",
+        "financing",
+        "hyperscale",
+        "capacity"
+      ],
+      "published_at": "2026-10-09T10:55:41Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/airtrunk-secures-us1-21-billion-green-loan-for-tokyo-data-center/134831357",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "AirTrunk"
+      ],
+      "content": "AirTrunk, a hyperscale data center specialist, secured a ¥191.6 billion (US$1.21 billion) green loan to refinance existing debt and fund further development of its TOK1 hyperscale data center campus in eastern Tokyo.The expansion aims to meet growing demand for computing capacity driven by artificial intelligence and cloud services. The loan will fund capital expenditures for additional phases of TOK1, which can ultimately expand to over 300 MW.AirTrunk recently began constructing an expansion that will add more than 100 MW of IT capacity to the campus. This is to meet near-term customer demand, according to a press release.Sumitomo Mitsui Banking Corp. (SMBC), MUFG, Crédit Agricole CIB, and Société Générale acted as global coordinators for the financing. Twelve banks participated as mandated lead arrangers and bookrunners.Robin Khuda, founder and CEO of AirTrunk, stated that Japan is a critical market for cloud and AI. He noted that this financing accelerates the expansion of TOK1 to deliver needed capacity.Masato Hori, AirTrunk associate vice president, treasury Japan, called this the largest data center financing ever completed in Japan. He cited the deep collaboration between AirTrunk and its banking partners.The financing is structured under AirTrunk’s Green Financing Framework and is tied to the company's energy efficiency standards. Margin incentives from the loan will be directed to AirTrunk’s Social Impact Fund in Japan.AirTrunk's total investment in Japan has exceeded ¥1.2 trillion (US$8 billion) across existing and planned projects. Its four Japanese campuses, TOK1, TOK2, OSK1, and OSK2, are expected to provide about 530 MW of total capacity when fully built.\n\n- Investments & Deals\n- 1 min Read\n\n# AirTrunk secures US$1.21 billion green loan for Tokyo data center\n\nAirTrunk secured a ¥191.6 billion (US$1.21 billion) green loan to refinance debt and fund its TOK1 hyperscale data center in eastern Tokyo. This financing supports the expansion of the campus to meet increasing demand for AI and cloud services.\n\n- Published On Oct 09, 2026 at 04:25 PM IST\n\n## Highlights\n\n- AirTrunk secured a US$1.21 billion green loan for its TOK1 data center in Tokyo.\n- The financing will fund additional phases of the TOK1 campus, expanding it to over 300 MW.\n- The expansion addresses rising demand for AI and cloud services in Japan.\n- A consortium of 12 banks, including SMBC and MUFG, participated in the green loan.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/airtrunk-secures-us1-21-billion-green-loan-for-tokyo-data-center/134831357"
     },
     {
       "id": "2026-10-10-f3a8bf",
@@ -102,6 +557,40 @@
       "content_url": "https://theedgemalaysia.com/node/821207"
     },
     {
+      "id": "2026-10-10-f10ccf",
+      "title": "SoftBank, Grab, PETROS ink deal to explore AI infrastructure in Sarawak, Malaysia",
+      "summary": "SoftBank, Grab and Sarawak's state-owned energy firm PETROS signed a Framework Agreement to explore building an AI and digital infrastructure platform in Sarawak, Malaysia. The partnership would combine capital, technology and the state's energy resources for the proposed development.",
+      "why_it_matters": "The deal positions Sarawak as an emerging alternative to saturated hubs like Johor and Singapore, leveraging cheap hydropower from the state. If it advances, it accelerates Malaysia's rise as an AI infrastructure destination and gives PETROS a direct stake in the digital economy.",
+      "score": 82,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "japan"
+      ],
+      "topics": [
+        "ai",
+        "infrastructure",
+        "investment",
+        "hyperscale"
+      ],
+      "published_at": "2026-10-09T05:55:59Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/softbank-grab-petros-ink-deal-to-explore-ai-infrastructure-in-sarawak-malaysia/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "SoftBank",
+        "Grab",
+        "PETROS"
+      ],
+      "content": "Investment firm SoftBank Group Corp., Southeast Asian superapp Grab Holdings Limited and Sarawak’s state-owned energy firm Petroleum Sarawak Berhad (“PETROS”) yesterday signed a Framework Agreement to explore the development of an artificial intelligence (AI) and digital infrastructure platform in Sarawak, Malaysia, according to the firms’ joint statement yesterday.\n\nUnder the Framework Agreement, the three parties will collaborate to develop a roadmap for the phased development of the project as well as explore opportunities across the wider AI value chain, including AI compute and services, advanced technologies, robotics, local workforce and community development.\n\nSoftBank will contribute its global technology and AI ecosystem, with expertise spanning AI infrastructure, advanced computing, semiconductors and physical AI.\n\nGrab will contribute its Southeast Asian digital ecosystem and extensive regional customer and partner networks while PETROS will bring its experience in harnessing Sarawak’s energy resources to drive economic development. Through PETROS’ Sarawak Gas Roadmap and as Master Developer of the Kuching Low-Carbon Hub (KLCH), PETROS has vast experience in developing energy supply solutions and enabling infrastructure, facilitating local engagement, and strengthening local participation and value creation across Sarawak’s supply chain.\n\nSarawak is seen as having great potential in becoming a destination for AI infrastructure and high-value technology industries.\n\nThe agreement was signed by Masayoshi Son, Chairman and Chief Executive Officer of SoftBank Group Corp.; Anthony Tan, Group Chairman, Chief Executive Officer and Co-Founder of Grab; and Dato Janin Girie, Group Chief Executive Officer of PETROS.",
+      "content_url": "https://w.media/softbank-grab-petros-ink-deal-to-explore-ai-infrastructure-in-sarawak-malaysia/"
+    },
+    {
       "id": "2026-10-10-ef3001",
       "title": "Unisem plans RM396 mil second phase expansion of Gopeng plant",
       "summary": "Unisem (M) and its subsidiary will invest RM396 million in a second-phase expansion of their semiconductor plant in Gopeng, Perak, targeting advanced packaging for AI and data-centre applications. The move aims to capture rising demand for chiplet-style packaging as AI accelerators become more complex.",
@@ -131,40 +620,6 @@
       ],
       "content": "KUALA LUMPUR (Oct 9): Unisem (M) Bhd (KL:UNISEM) and its subsidiary plan to invest RM396 million to expand its semiconductor manufacturing plant in Gopeng, Perak, as the group seeks to capture growing demand for advanced chip packaging used in artificial intelligence (AI) and data centres.\n\nThe semiconductor assembly and test services provider said the second phase of expansion will increase its manufacturing capacity for wafer bumping and post-bump services, which are used in preparing semiconductor chips for advanced packaging.\n\nIn a filing with Bursa Malaysia on Friday, Unisem said the expansion involves constructing a new production facility with a built-up area of approximately 40,000 sq m, at an estimated cost of RM196 million.\n\nHalf of the facility will be leased to its wholly owned subsidiary, Unisem Advanced Technologies Sdn Bhd, to expand wafer-bumping operations, an advanced semiconductor packaging process.\n\nThe necessary equipment and facility preparation works are expected to cost another RM200 million, bringing the total investment to RM396 million.\n\nUnisem said the expansion is aimed at meeting growing customer demand, particularly for advanced packaging applications in AI, data centres and high-performance computing.\n\nThe project will be funded through a combination of internally generated funds and bank borrowings, although the proportions have yet to be determined.\n\nThe group said the expansion is not expected to materially affect its earnings for the current financial year but should contribute positively once completed and operational.\n\nThe latest expansion follows Unisem's earlier investment in its Gopeng facility, which began construction in March 2022. The first phase was initially estimated to cost RM300 million and was designed to double the production capacity of its existing operations in Ipoh.\n\nIn April this year, Unisem chairman and group managing director John Chia Sin Tet told *The Edge* that the group had invested RM600 million in its Gopeng plant as part of nearly RM1 billion in capital expenditure over three years.\n\nMore recently, CIMB Securities said in a September research note that Gopeng Phase 2 could drive Unisem's next leg of growth, with the expansion expected to support additional wafer-bumping and advanced packaging capacity.\n\nAt the midday break on Friday, Unisem shares were up eight sen or 1.9% at RM4.36, giving the group a market capitalisation of RM7.48 billion.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
       "content_url": "https://theedgemalaysia.com/node/821171"
-    },
-    {
-      "id": "2026-10-10-f10ccf",
-      "title": "SoftBank, Grab, PETROS ink deal to explore AI infrastructure in Sarawak, Malaysia",
-      "summary": "SoftBank Group, Grab, and Sarawak state energy firm PETROS signed a framework agreement to study building an AI and digital infrastructure platform in Sarawak, Malaysia. The tie-up pairs global AI capital and a regional technology partner with the state's energy resources, positioning Sarawak as a potential low-cost compute hub.",
-      "why_it_matters": "Sarawak's abundant hydro and gas power gives it a cost and sustainability edge in the race to host energy-hungry AI workloads. If the exploration matures into buildout, it would deepen East Malaysia's role in the regional AI supply chain and give PETROS a new revenue stream beyond hydrocarbons.",
-      "score": 78,
-      "heat": 1,
-      "regions": [
-        "southeast-asia",
-        "japan"
-      ],
-      "topics": [
-        "ai",
-        "investment",
-        "infrastructure",
-        "energy"
-      ],
-      "published_at": "2026-10-09T05:55:59Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "W.Media",
-          "url": "https://w.media/softbank-grab-petros-ink-deal-to-explore-ai-infrastructure-in-sarawak-malaysia/",
-          "type": "rss"
-        }
-      ],
-      "companies": [
-        "SoftBank",
-        "Grab",
-        "PETROS"
-      ],
-      "content": "Investment firm SoftBank Group Corp., Southeast Asian superapp Grab Holdings Limited and Sarawak’s state-owned energy firm Petroleum Sarawak Berhad (“PETROS”) yesterday signed a Framework Agreement to explore the development of an artificial intelligence (AI) and digital infrastructure platform in Sarawak, Malaysia, according to the firms’ joint statement yesterday.\n\nUnder the Framework Agreement, the three parties will collaborate to develop a roadmap for the phased development of the project as well as explore opportunities across the wider AI value chain, including AI compute and services, advanced technologies, robotics, local workforce and community development.\n\nSoftBank will contribute its global technology and AI ecosystem, with expertise spanning AI infrastructure, advanced computing, semiconductors and physical AI.\n\nGrab will contribute its Southeast Asian digital ecosystem and extensive regional customer and partner networks while PETROS will bring its experience in harnessing Sarawak’s energy resources to drive economic development. Through PETROS’ Sarawak Gas Roadmap and as Master Developer of the Kuching Low-Carbon Hub (KLCH), PETROS has vast experience in developing energy supply solutions and enabling infrastructure, facilitating local engagement, and strengthening local participation and value creation across Sarawak’s supply chain.\n\nSarawak is seen as having great potential in becoming a destination for AI infrastructure and high-value technology industries.\n\nThe agreement was signed by Masayoshi Son, Chairman and Chief Executive Officer of SoftBank Group Corp.; Anthony Tan, Group Chairman, Chief Executive Officer and Co-Founder of Grab; and Dato Janin Girie, Group Chief Executive Officer of PETROS.",
-      "content_url": "https://w.media/softbank-grab-petros-ink-deal-to-explore-ai-infrastructure-in-sarawak-malaysia/"
     },
     {
       "id": "2026-10-10-281170",
@@ -197,18 +652,18 @@
     {
       "id": "2026-10-10-1f7803",
       "title": "Australian Nvidia-backed AI data centre operator Firmus shelves IPO",
-      "summary": "Firmus Technologies, the Nvidia-backed Australian operator of AI data centres, has shelved its planned initial public offering after would-be investors expressed scepticism. The decision reflects softening sentiment toward AI-infrastructure listings despite the sector's rapid capacity growth.",
-      "why_it_matters": "The pulled IPO is an early sign that public-market investors are scrutinising AI data-centre valuations and funding models more harshly than private backers. Rivals preparing listings will likely face tougher questions on power costs, customer concentration, and Nvidia-linked economics.",
-      "score": 74,
-      "heat": 2,
+      "summary": "Firmus, the Australian data centre operator backed by Nvidia, has shelved plans to go public amid scepticism from potential investors about its valuation and prospects. The company had sought to raise significant capital for its AI-focused campus expansion in Tasmania.",
+      "why_it_matters": "The shelved listing signals that public markets are growing more discriminating about AI data centre valuations after years of enthusiasm. Private capital may now shoulder more of the sector's funding burden, and other operators eyeing listings will likely face tougher scrutiny of their economics and customer concentration.",
+      "score": 85,
+      "heat": 7,
       "regions": [
         "australia"
       ],
       "topics": [
         "ai",
         "investment",
-        "ipo",
-        "funding"
+        "colocation",
+        "data center"
       ],
       "published_at": "2026-10-09T01:21:00Z",
       "featured": true,
@@ -217,6 +672,31 @@
           "name": "iTnews",
           "url": "https://www.itnews.com.au/news/australian-nvidia-backed-ai-data-centre-operator-firmus-shelves-ipo-629529?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
           "type": "rss"
+        },
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/nvidia-backed-data-center-provider-firmus-scraps-5bn-australian-ipo2",
+          "type": "rss"
+        },
+        {
+          "name": "Nikkei Asia — data center search",
+          "url": "https://asia.nikkei.com/business/technology/nvidia-backed-data-center-provider-firmus-scraps-5bn-australian-ipo2",
+          "type": "html-list"
+        },
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/nvidia-backed-firmus-scraps-us5-billion-australian-ipo-poor-demand-eyes-private-funding",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/nvidia-backed-firmus-scraps-us5-billion-australian-ipo-poor-demand-eyes-private-funding",
+          "type": "html-list"
+        },
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/infrastructure/maas-group-says-373m-paid-by-firmus-as-ipo-pulled-20261009-p6144i",
+          "type": "html-list"
         },
         {
           "name": "The Edge Malaysia — data centre search",
@@ -228,28 +708,59 @@
         "Firmus",
         "NVIDIA",
         "Firmus Technologies",
+        "Hunter Energy",
         "Maas Group"
       ],
       "content": "Australia's Firmus, a data centre operator backed by Nvidia, shelved its US$5 billion ($7 billion) initial public offering, citing market volatility and conditions, and said it would opt for a private fundraising round instead.\n\nFirmus' IPO would have been the second-largest new share sale in Australia's history but met lukewarm demand, a warning sign that investors remain selective about AI issuers even as the artificial intelligence boom drives global markets.\n\n\"Firmus will now pursue capital from the private markets and consider alternative public and private market options,\" Firmus said in a statement, adding the terms did not correctly reflect the strength of its business and long-term growth outlook.\n\n\"The board therefore concluded that proceeding with the offer was not in the best interests of the company and its shareholders,\" it said.\n\nThe company initially planned to sell its shares at $11 each, giving Firmus an equity valuation of US$30.6 billion, nearly triple the US$10.5 billion valuation it achieved following a fundraising round at the start of August.\n\nFirmus, backed by major AI companies and investors Nvidia and Coatue Management, along with Blackstone and Jane Street, designs and operates modular AI factories using proprietary energy and cooling technology.\n\nIt currently only has two online in Melbourne and Singapore. Five more planned across the Asia-Pacific are in early stages of development.\n\n\"I think the Firmus situation represents an important reality check for the AI investment boom, but I wouldn't interpret it as the beginning of the end of the AI trade,\" said Jun Bei Liu, co-founder of fund manager Ten Cap, who has been critical of the Firmus IPO.\n\n\"There are certainly Firmus-specific issues, particularly around the speed of its valuation increase, the enormous capital requirements and the execution risks associated with delivering its ambitious expansion plans.\"\n\nLiu said there was a broader shift taking place in which investors were becoming more focused on the economics of AI investments, returns on capital and converting infrastructure spending into returns.\n\nCumulative spending globally on data centres alone could top US$30 trillion by 2050, according to a projection by PwC.\n\n### Debt pile worries investors\n\nFirmus has about US$30 billion worth of debt, according to analysts working for the IPO's joint lead managers, meaning the enterprise value would have been about US$60 billion.\n\nThe deal would have made Firmus, founded in 2019, more valuable than some of Australia's longest-established companies.\n\nThe deal's term sheet sent out when the deal launched had said indicative offers for the IPO were already enough to cover the transaction size.\n\nBut potential investors told *Reuters* they were sceptical about the company's burgeoning valuation, ability to execute on its ambitious growth plans and hefty debt pile.\n\nFirmus said in a draft prospectus it would make US$5 billion in annual earnings within five years from its portfolio of data centres, but most of those have yet to be built.\n\nInvestor grew more concerned about Firmus' huge increase in valuation after they were informed earlier this week about the deal's escrow arrangements that would have allowed more than half the stock to be sold by existing investors from the proposed first day of trading.",
       "content_url": "https://www.itnews.com.au/news/australian-nvidia-backed-ai-data-centre-operator-firmus-shelves-ipo-629529"
     },
     {
-      "id": "2026-10-10-27a5c7",
-      "title": "FedEx study sees Asia Pacific semiconductor expansion",
-      "summary": "Geopolitical risks are prompting chipmakers to spread production across Asia Pacific, with 35% planning expansion into new regional markets.",
+      "id": "2026-10-10-85c61b",
+      "title": "Interactive: Why the Asean Power Grid's future lies in subsea cables",
+      "summary": "Some of the world’s longest subsea power cables could be laid in the region, if vision can translate to action",
       "why_it_matters": "",
       "score": 62,
       "heat": 1,
       "regions": [
-        "global"
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "grid",
+        "energy"
+      ],
+      "published_at": "2026-10-09T01:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/interactive-why-asean-power-grids-future-lies-subsea-cables",
+          "type": "rss"
+        }
+      ],
+      "content": "Some of the world’s longest subsea power cables could be laid in the region, if vision can translate to action\n\nSouth-east Asian countries have long traded electricity via land-based power cables. But achieving the Asean Power Grid (APG) – a decades-old vision to link up the bloc’s power systems – calls for a deep dive into the ocean.\n\nSubsea interconnectors will be vital to realise the APG. These are high-voltage power cable systems laid on or under the seabed, transmitting electricity from one country to another.\n\n## Vikings ahoy!\n\nToday, the world’s longest subsea interconnector runs 630 km between the UK and Denmark. It is part of the Viking Link, a network of high-voltage direct current (HVDC) cables that allows both countries to exchange power from sources such as offshore wind.\n\nSource: National Grid\n\nIf the Viking Link seems massive, South-east Asia could take subsea interconnectors to a whole new scale.\n\nThe region already has several overland interconnectors, mostly used by Laos to export electricity to its neighbours – including Singapore, via Thailand and Malaysia, as part of a breakthrough APG project.\n\nThe APG envisions many more interconnectors, including those that could connect Singapore to Cambodia, Vietnam, Sarawak in East Malaysia, and the Riau Islands and Sumatra in Indonesia.\n\nSingapore aims to import 6 gigawatts (GW) of low-carbon electricity by 2035, meeting about one-third of its energy demand then.\n\nTo obtain an import licence, companies will first need to receive conditional approval from Singapore’s energy regulator, followed by a conditional licence.\n\nThe Energy Market Authority (EMA) has thus far granted conditional approvals to projects that seek to import 6.25 GW of clean energy from destinations such as Cambodia, Vietnam and even as far away as Australia.\n\nEMA has also granted conditional licences to six projects that could bring in 3 GW of clean energy from Indonesia.\n\nWith such projects in the works, the market for subsea power cables is “expanding steadily”, said Sandra Seah, a partner at law firm Bird & Bird with expertise in energy.\n\nShe noted that ZTT Group, a Chinese advanced manufacturing player, “has stepped up its game” with major manufacturing and research bases in the region for medium-voltage and high-voltage subsea power cables.\n\nCable installers – who specialise in the transportation, installation and protection of subsea power cables – “are also becoming more active in the Asean market”, said Seah.\n\n## Ambitious leap\n\nRealising these projects will be a big leap. The region currently only has one subsea interconnector: between Plentong in Johor, Malaysia and Singapore’s Woodlands.\n\nEstablished in 1983 and upgraded in 2022, the link supports bidirectional electricity flows of up to 1 GW. It spans just 2 km, a fraction of the UK-Denmark Viking Link, according to data compiled by the International Energy Agency (IEA).\n\nFor the APG to truly take off, subsea cables would have to run much longer distances, beating even the Viking Link. For instance, an undersea interconnector from Malaysia to Vietnam could span 700 km.\n\nOne from Singapore to Sarawak may run 750 km.\n\nAnd another from the city-state to Vietnam or to Cambodia may have to cross at least 1,000 km.\n\nThe APG is a “step change in ambition for the region”, said Tan Sue-Ern, head of IEA Regional Cooperation Centre.\n\n“Several planned subsea cable projects are significantly more complex than what came before – with cables spanning long distances, crossing multiple jurisdictions, and requiring specialised vessels and expertise for cable installation and repair,” she told *The Business Times*.\n\n### 2 km\n\n### 630 km\n\n### \\~700 km\n\n### \\~750 km\n\n### \\~1,000 km\n\n### >1,000 km\n\nIEA estimated US$27 billion is needed between 2025 and 2040 to deliver the proposed pipeline of energy interconnection projects, inclusive of both overland and subsea cables.\n\nThis is more than 10 times the US$2 billion that the region invested in energy interconnectors from the 1970s to 2024, mostly for one-way power export.\n\n## Caution: high voltage\n\nBuilding these long-distance interconnectors will require HVDC cables, as well as specialised vessels to lay them. But the global market for these resources is tight.\n\nLam Pham, an Asia energy analyst at think tank Ember, noted that Asean still lacks manufacturing capacity for such cables within the region, and is thus “heavily dependent” on established suppliers and installation capacity from elsewhere.\n\n“(With) Asean projects competing for the same manufacturing slots and installation capacity as Europe’s offshore wind industry, (this) is pushing up costs and creating long lead times for new projects,” he said.\n\n## Cross-section of a HVDC subsea cable\n\nThe interactive cutaway loads as you reach this section.\n\nIllustrative single-core extruded HVDC cable based on the Europacable reference. Layer proportions and colours are schematic.\n\nSources: Europacable, ZMS Cable\n\nAssaad Razzouk, CEO of Singapore-based renewable power company Gurin Energy, called for centralised procurement of subsea power cables to mitigate supply constraints.\n\n“Governments should give us a hand in procuring these ahead of time, so that as a region, we don’t find ourselves in five years without the ability to… build the Asean grid because the rest of the world gobbled (the cables),” he said at an industry event in August.\n\n## Cracking the puzzle\n\nRegulatory clarity is another key piece of the puzzle.\n\nFor subsea cable manufacturers to establish production or installation operations in Asean, they will need greater certainty around the project pipeline and government policy, Lam noted.\n\nSeah echoed this, noting that transmission infrastructure is capital-intensive and will only be developed where there is “demonstrable demand”.\n\nSentiment around the APG is still cautious. In a recent survey of energy professionals, only a quarter expect significant cross-border power trading in the next decade. Over half of respondents believed that a fully integrated regional grid “will remain some way off”.\n\nThis comes amid obstacles that APG projects face. The Singapore-Indonesia projects, for instance, have run into delays over regulatory uncertainty.\n\nJakarta requires clean energy exporters to renew permits every five years. But this frequent renewal timeframe leads to a lack of confidence among potential investors and offtakers.\n\nAsean member states have also not formally agreed on a single framework governing subsea cable assets under the APG, and whether ownership will be public or private, noted Seah.\n\n## Key development to watch\n\nThe status quo could change, as Asean works on its Submarine Power Cable Development Framework.\n\nThe framework will cover four aspects around the laying and maintenance of subsea power cables: legal and regulatory, technical, commercial, and governance issues.\n\nIn October last year, Asean’s energy ministers reaffirmed the importance of the framework during their annual meeting, calling for “sustained and accelerated progress”.\n\nThe completion of this framework will be a key milestone to watch out for.\n\nAsean's diversity of technical standards and political priorities will need to be taken into consideration, said Seah, noting that the region currently uses more than 20 grid codes.\n\nAs she put it, the process will take “time and trust”.\n\n**Sources:** Rystad Energy, International Energy Agency, Sustainable Energy Association of Singapore, data compiled by BT\n\n**Graphic:** Ho Yan Hao, Nurulshazanani Idris, BT (with AI assistance)",
+      "content_url": "https://graphics.businesstimes.com.sg/specials/asean-subsea/index.html"
+    },
+    {
+      "id": "2026-10-10-27a5c7",
+      "title": "FedEx study sees Asia Pacific semiconductor expansion",
+      "summary": "A FedEx study finds that geopolitical risk is pushing semiconductor makers to diversify production across Asia Pacific, with 35% of surveyed companies planning expansion into new regional markets. The trend reflects efforts to build supply-chain resilience beyond China-centric manufacturing.",
+      "why_it_matters": "Chip production spreading across more APAC markets translates directly into demand for localised data centres, logistics and industrial power infrastructure. Economies like Vietnam, India and Malaysia stand to benefit, while freight and construction providers gain a structural tailwind from reconfigured supply chains.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "global",
+        "southeast-asia",
+        "australia"
       ],
       "topics": [
         "chips",
-        "investment",
-        "supply-chain"
+        "ai",
+        "supply-chain",
+        "capacity"
       ],
       "published_at": "2026-10-09T00:51:00Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "DataCenterNews Asia",
@@ -260,8 +771,39 @@
       "companies": [
         "FedEx"
       ],
-      "content": "Fri, 9th Oct 2026 (Yesterday)\nFedEx has published a report on semiconductor and digital infrastructure supply chains in Asia Pacific. The study found that 35% of surveyed semiconductor companies expect to expand manufacturing into additional markets across the region.\n\nProduced with Frost & Sullivan, the report examines how demand from artificial intelligence, high-performance computing, electric vehicles and advanced communications technology is reshaping semiconductor production and logistics in Asia Pacific. The region accounts for about 58% of global semiconductor industry revenue, it said.\n\nSurvey data points to continued regional expansion. Another 25% of respondents said they plan to increase or diversify sourcing within Asia Pacific or globally over the next three years, while 30% identified geopolitical disruption as the biggest challenge to growth.\n\nFedEx surveyed 478 semiconductor industry participants from companies, industry associations and research institutes in Asia Pacific, Europe and North America. Responses were collected in Taipei and covered growth expectations, supply chain strategy, expansion challenges and logistics needs.\n\n### AI demand\n\nThe findings place artificial intelligence and high-performance computing at the centre of semiconductor demand growth. The report also highlights continued demand from electric vehicles, 5G, the internet of things, consumer electronics, medical devices and industrial automation.\n\nBeyond chips, the study examines the equipment needed to support the AI economy, including servers, networking equipment, cooling systems and power solutions. These products often pass through several manufacturing, assembly and testing hubs before deployment, adding complexity to cross-border supply chains.\n\nThat complexity is shaping logistics choices. According to the survey, 44% of respondents said faster international shipping would be the most important factor when choosing logistics and supply chain partners over the next three years.\n\n### Regional roles\n\nThe report describes Asia Pacific as a network of specialised semiconductor hubs rather than a single manufacturing centre. It identifies China as a major materials supplier, consumer market and growing fabrication base, while Taiwan is described as the leading market for advanced semiconductor manufacturing and as accounting for roughly 60% of global foundry output.\n\nSouth Korea is identified as a leading producer of memory chips and advanced fabrication, while Japan is highlighted for equipment, materials and specialist manufacturing inputs. Southeast Asia, meanwhile, is presented as an important base for assembly, packaging and testing operations.\n\nAs a result, design, fabrication, packaging, testing and deployment often take place across multiple countries before a finished product reaches the market. The report says this structure is creating a more interconnected supply chain as companies work to meet rising demand across industries.\n\n### Resilience focus\n\nThe survey suggests companies are putting greater emphasis on resilience alongside efficiency. Geopolitical uncertainty, regulation and customs complexity are among the pressures affecting operations, pushing businesses to diversify manufacturing locations and suppliers.\n\nAccording to the findings, traditional just-in-time models are being supplemented by inventory buffers and broader sourcing strategies. That shift has increased the importance of logistics networks that can handle time-sensitive, high-value shipments across multiple jurisdictions.\n\nNearly four in five respondents identified Taiwan, Southeast Asia, Greater China and Japan as the markets expected to record the largest increase in semiconductor demand over the next three years. The report said this outlook reflects both the strength of established production hubs and the broader regionalisation of supply chains.\n\nFedEx linked the findings to recent changes in its own network, including daily direct flights between Taiwan and South Korea and the expansion of its Taoyuan transhipment centre in Taiwan. It said the changes were intended to handle rising volumes of semiconductor and advanced technology shipments across the region.\n\n\"The next decade of innovation will be shaped not only by advances in semiconductors, but by the strength and resilience of the supply chains that power AI and digital infrastructure,\" said Salil Chari, President, Asia Pacific, FedEx.\n\n\"As investment in AI infrastructure accelerates, businesses are managing increasingly complex supply chains spanning semiconductors, servers, networking equipment, cooling systems and advanced technology components across multiple markets. Resilience, visibility and agility have become strategic advantages. FedEx is helping customers connect these critical supply chains through our extensive APAC network, global reach and specialized logistics capabilities, enabling innovation to move faster from factory floor to data center,\" said Chari.",
+      "content": "FedEx has published a report on semiconductor and digital infrastructure supply chains in Asia Pacific. The study found that 35% of surveyed semiconductor companies expect to expand manufacturing into additional markets across the region.\n\nProduced with Frost & Sullivan, the report examines how demand from artificial intelligence, high-performance computing, electric vehicles and advanced communications technology is reshaping semiconductor production and logistics in Asia Pacific. The region accounts for about 58% of global semiconductor industry revenue, it said.\n\nSurvey data points to continued regional expansion. Another 25% of respondents said they plan to increase or diversify sourcing within Asia Pacific or globally over the next three years, while 30% identified geopolitical disruption as the biggest challenge to growth.\n\nFedEx surveyed 478 semiconductor industry participants from companies, industry associations and research institutes in Asia Pacific, Europe and North America. Responses were collected in Taipei and covered growth expectations, supply chain strategy, expansion challenges and logistics needs.\n\n### AI demand\n\nThe findings place artificial intelligence and high-performance computing at the centre of semiconductor demand growth. The report also highlights continued demand from electric vehicles, 5G, the internet of things, consumer electronics, medical devices and industrial automation.\n\nBeyond chips, the study examines the equipment needed to support the AI economy, including servers, networking equipment, cooling systems and power solutions. These products often pass through several manufacturing, assembly and testing hubs before deployment, adding complexity to cross-border supply chains.\n\nThat complexity is shaping logistics choices. According to the survey, 44% of respondents said faster international shipping would be the most important factor when choosing logistics and supply chain partners over the next three years.\n\n### Regional roles\n\nThe report describes Asia Pacific as a network of specialised semiconductor hubs rather than a single manufacturing centre. It identifies China as a major materials supplier, consumer market and growing fabrication base, while Taiwan is described as the leading market for advanced semiconductor manufacturing and as accounting for roughly 60% of global foundry output.\n\nSouth Korea is identified as a leading producer of memory chips and advanced fabrication, while Japan is highlighted for equipment, materials and specialist manufacturing inputs. Southeast Asia, meanwhile, is presented as an important base for assembly, packaging and testing operations.\n\nAs a result, design, fabrication, packaging, testing and deployment often take place across multiple countries before a finished product reaches the market. The report says this structure is creating a more interconnected supply chain as companies work to meet rising demand across industries.\n\n### Resilience focus\n\nThe survey suggests companies are putting greater emphasis on resilience alongside efficiency. Geopolitical uncertainty, regulation and customs complexity are among the pressures affecting operations, pushing businesses to diversify manufacturing locations and suppliers.\n\nAccording to the findings, traditional just-in-time models are being supplemented by inventory buffers and broader sourcing strategies. That shift has increased the importance of logistics networks that can handle time-sensitive, high-value shipments across multiple jurisdictions.\n\nNearly four in five respondents identified Taiwan, Southeast Asia, Greater China and Japan as the markets expected to record the largest increase in semiconductor demand over the next three years. The report said this outlook reflects both the strength of established production hubs and the broader regionalisation of supply chains.\n\nFedEx linked the findings to recent changes in its own network, including daily direct flights between Taiwan and South Korea and the expansion of its Taoyuan transhipment centre in Taiwan. It said the changes were intended to handle rising volumes of semiconductor and advanced technology shipments across the region.\n\n\"The next decade of innovation will be shaped not only by advances in semiconductors, but by the strength and resilience of the supply chains that power AI and digital infrastructure,\" said Salil Chari, President, Asia Pacific, FedEx.\n\n\"As investment in AI infrastructure accelerates, businesses are managing increasingly complex supply chains spanning semiconductors, servers, networking equipment, cooling systems and advanced technology components across multiple markets. Resilience, visibility and agility have become strategic advantages. FedEx is helping customers connect these critical supply chains through our extensive APAC network, global reach and specialized logistics capabilities, enabling innovation to move faster from factory floor to data center,\" said Chari.",
       "content_url": "https://datacenternews.asia/story/fedex-study-sees-asia-pacific-semiconductor-expansion"
+    },
+    {
+      "id": "2026-10-10-660091",
+      "title": "Stocks to watch: Frasers Property, StarHub, NTT DC Reit",
+      "summary": "[SINGAPORE] The following companies saw new developments that may affect trading of their securities on Friday (Oct 9):",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "reit",
+        "investment"
+      ],
+      "published_at": "2026-10-09T00:13:42Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/stocks-watch-frasers-property-starhub-ntt-dc-reit",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Frasers Property",
+        "StarHub",
+        "NTT DC Reit"
+      ],
+      "content": "\\[SINGAPORE\\] The following companies saw new developments that may affect trading of their securities on Friday (Oct 9):\n\nFrasers Property : The CEO of Frasers Hospitality Eu Chin Fen will be stepping down, effective Jan 1, 2027. This follows the privatisation of Frasers Hospitality Trust and its portfolio optimisation. Frasers Hospitality’s leadership structure “will be strategically segmented, aligning with group resources, and reporting into senior group leadership”. Its chief operating officer Chew Hang Song will report to the group CEO. The counter closed at S$0.955 on Thursday, down S$0.01 or 1 per cent.\n\nStarHub : The telco said it will acquire MyRepublic’s mobile business by Apr 30, 2027. The value of the transaction is not fixed, but is dependent on the total 4G and 5G MyRepublic mobile subscribers, average revenue per user of active 4G and 5G subscribers, as well as subscriber lifetime. StarHub will also pay additional cash amounts when specific subscriber migration milestones are met. Shares of StarHub ended at S$1.10 on Thursday, S$0.02 or 1.8 per cent lower.\n\nNTT DC Reit : The real estate investment trust’s (Reit) manager is proposing changes to its management fee structure, that it expects will better align with the interests of the unitholders of the Reit. It is looking to link its performance fee directly to year-on-year growth in the distribution per unit. Units of NTT DC Reit ended 0.5 per cent or US$0.005 lower at US$0.935 on Thursday.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/stocks-watch-frasers-property-starhub-ntt-dc-reit"
     }
   ]
 }

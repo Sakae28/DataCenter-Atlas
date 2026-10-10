@@ -834,7 +834,7 @@
       "status": "operational",
       "developer": null,
       "investor": "Macquarie Asset Management (MIRA)",
-      "investment": null,
+      "investment": "¥191.6 billion (US$1.21 billion) green loan to refinance existing debt and fund TOK1 campus expansion",
       "phases": "Multi-phase campus, 320MW total planned",
       "anchor_tenants": [],
       "power": null,
@@ -842,10 +842,12 @@
       "construction_start": null,
       "rfs": null,
       "status_history": [],
-      "story_ids": [],
+      "story_ids": [
+        "2026-10-10-80234c"
+      ],
       "first_seen": "2026-08-14",
-      "last_updated": null,
-      "seed": true,
+      "last_updated": "2026-10-10",
+      "seed": false,
       "source": "datacentermap",
       "lat": 35.81602,
       "lon": 140.15881,
@@ -103133,7 +103135,49 @@
       "first_seen": "2026-10-03",
       "last_updated": "2026-10-03",
       "seed": false
+    },
+    {
+      "id": "digital-realty-kix15-osaka-campus",
+      "name": "Digital Realty KIX15 (Osaka campus)",
+      "operator": "Digital Realty",
+      "region": "japan",
+      "country": "Japan",
+      "city": "Osaka",
+      "capacity_mw": 24,
+      "status": "under_construction",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "under_construction",
+          "date": "2026-10-10",
+          "story_id": "2026-10-10-910eba"
+        }
+      ],
+      "story_ids": [
+        "2026-10-10-910eba"
+      ],
+      "first_seen": "2026-10-10",
+      "last_updated": "2026-10-10",
+      "seed": false,
+      "capacity_note": "new building capacity"
     }
   ],
-  "updated_at": "2026-10-07T12:26:53Z"
+  "updated_at": "2026-10-10T16:18:46Z"
 }
