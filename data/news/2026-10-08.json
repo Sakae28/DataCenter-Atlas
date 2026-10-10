@@ -1,0 +1,326 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-10T17:03:25Z",
+  "hot": [
+    "2026-10-08-1fc99f",
+    "2026-10-08-e15b3d",
+    "2026-10-08-08f75e",
+    "2026-10-08-92f930",
+    "2026-10-08-0000a2"
+  ],
+  "stories": [
+    {
+      "id": "2026-10-08-0000a2",
+      "title": "KT Cloud plans 50MW data center project in Incheon, South Korea",
+      "summary": "KT Cloud, the cloud and data center arm of Korean telco KT, is planning a 50MW data center project in Incheon, expanding capacity outside Seoul's congested core. The development adds to South Korea's growing pipeline of large-scale facilities aimed at meeting AI and cloud demand from domestic enterprises.",
+      "why_it_matters": "The project underscores how Korean operators are pushing new capacity into the greater Seoul region's outskirts as power and permitting constraints bite in the capital itself. It intensifies competition among telco-backed and independent operators for AI-driven tenants in one of APAC's most mature markets.",
+      "score": 78,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [
+        "capacity",
+        "hyperscale",
+        "investment"
+      ],
+      "published_at": "2026-10-08T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/kt-cloud-plans-50mw-data-center-project-in-incheon-south-korea/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "KT Cloud"
+      ],
+      "published_precision": "day",
+      "content": "KT Cloud is constructing a 50MW data center in the Cheongna district of Incheon, greater Seoul, South Korea.\n\nThe company will serve as the design, build, and operate (DBO) partner for the project, reports the Seoul Economic Daily. The data center will span two basement levels and 11 above-ground floors.\n\nConstruction will begin in Q4 of this year, with a target completion date of Q1 2030.\n\nAs the DBO partner, KT Cloud will run the data center and oversee its development, including design, mechanical, electrical, and plumbing works, and commissioning.\n\nHyundai Engineering is serving as the joint contractor on the project and will be responsible for architectural, civil, equipment, landscaping, and telecommunications works.\n\nKT Cloud said it would link the data center to its other facilities in the region to meet expansion requirements from customers and improve network continuity.\n\nThe data center will support both AI infrastructure and cloud workloads, and will have a dedicated \"AI zone\" with direct-to-chip liquid cooling, separated from the \"cloud zone.\"\n\n\"We expect the Cheongna AI data center to serve as a key hub in the western cluster of the capital region and to respond effectively to demand from domestic and overseas corporate customers that require large-scale AI infrastructure,\" KT Cloud CEO Kim Bong-kyun said. \"We will continue to expand our AI data center supply base both inside and outside the capital region, and give concrete shape to our 1GW AI data center goal based on differentiated technological capabilities.\"\n\nKT Cloud is targeting 1GW of data center capacity by 2031, up from its previously stated aim of 320MW by 2030. The company is known to have a 10MW data center in Yecheon-gun, Gyeongsangbuk-do, as well as a 26MW data center in Seoul's Geumcheon District and a 30MW data center in Dae Bong Dong.\n\nDatacenters.com lists 16 KT Cloud data centers across Korea.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/kt-cloud-plans-50mw-data-center-project-in-incheon-south-korea/"
+    },
+    {
+      "id": "2026-10-08-180065",
+      "title": "GlobalFoundries signs $2bn, five-year deal with TSMC for production of advanced packaging components",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 58,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai"
+      ],
+      "published_at": "2026-10-08T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/globalfoundries-signs-2bn-five-year-deal-with-tsmc-for-production-of-advanced-packaging-components/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "GlobalFoundries",
+        "TSMC"
+      ],
+      "published_precision": "day",
+      "content": "GlobalFoundries has entered into a $2 billion, multi-year manufacturing agreement with TSMC to secure the supply of silicon interposers for TSMC’s CoWoS advanced packaging ecosystem in the US.\n\nUnder the terms of the deal, GF will provide manufacturing services to TSMC and add capacity at its fab in Malta, New York, to establish the site as the first US base for the production of silicon interposers – thin pieces of silicon containing vertical channels, also known as through-silicon vias (TSVs), that support 3D stacking on silicon wafers.\n\nGF said the agreement has an initial term of five years and provides a framework for future capacity expansion. Volume production is expected to begin ramping at the Malta site during the first half of 2028.\n\n“Advanced packaging is becoming increasingly critical to delivering the performance, power efficiency and scale required for next-generation AI systems,” said Ed Kaste, SVP of CMOS business at GF. “By providing manufacturing services using GF’s trusted US manufacturing footprint, we are creating a secure, scalable source of essential advanced-packaging elements that will help customers accelerate innovation and strengthen the semiconductor supply chain.”",
+      "content_url": "https://www.datacenterdynamics.com/en/news/globalfoundries-signs-2bn-five-year-deal-with-tsmc-for-production-of-advanced-packaging-components/"
+    },
+    {
+      "id": "2026-10-08-942b8a",
+      "title": "Oracle, Broadcom, and SpaceX looking to secure tens of billions in financing to support AI compute purchases – report",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "hyperscale"
+      ],
+      "published_at": "2026-10-08T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/oracle-broadcom-and-spacex-looking-to-secure-ten-of-billions-in-financing-to-support-ai-compute-purchases-report/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Oracle",
+        "Broadcom",
+        "SpaceX"
+      ],
+      "published_precision": "day",
+      "content": "Oracle, Broadcom, and SpaceX are looking to secure large-scale financing deals to fund future AI compute hardware purchases, the Wall Street Journal has reported.\n\nThe news outlet said that in recent weeks, Broadcom has been seeking more than $50 billion to support the ongoing development of the custom AI chip it has partnered with OpenAI on.\n\nMeanwhile, Oracle is reportedly in talks with private equity firm Apollo and Goldman Sachs, and SpaceX is looking to arrange a $40bn chip financing deal for the purchase of Nvidia hardware, the report added.\n\nThe deal Broadcom is looking to broker could include “several gigawatts of OpenAI chip capacity,” the WSJ said, and is slated to close before the end of the year. Few details about the agreement Oracle is looking to secure were disclosed, but the report noted that the financing is intended to help the company bridge the gap between when it has to pay for the hardware and when its cloud computing revenue starts coming in.\n\nA separate report from the FT this week said that SpaceX is seeking to raise $10bn in bank loans and $30bn in investment-grade debt to fund the purchases, noting that Apollo is expected to lead the deal and help sell the debt. The transaction is expected to close in 2027.\n\nThe report comes in the same week that SpaceX CEO Elon Musk confirmed on X that the company has held talks with Taiwanese chipmaker TSMC regarding the former's $16.8 billion TeraFab project in Grimes County, Texas.\n\nOctober 3, Musk said that so far there had been “just discussions, but something may come of it.” Later that same week, in response to speculation about how the potential partnership might look, Musk said: “[SpaceX] will build and run the fab … Maybe TSMC subleases part of the TeraFab if they want, but nothing more than that.”\n\nSpaceX is planning to invest $16.8bn in the proposed fab in Grimes County, Texas. In August 2026, Musk claimed that, once built, “it will be the largest and most valuable building on Earth by far,” adding that “TeraFab will be 50 times the size of the Pentagon when complete.”\n\nEarlier this year, Nvidia overtook Apple as TSMC’s largest customer.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/oracle-broadcom-and-spacex-looking-to-secure-ten-of-billions-in-financing-to-support-ai-compute-purchases-report/"
+    },
+    {
+      "id": "2026-10-08-08f75e",
+      "title": "SoftBank and Grab to develop AI infrastructure in Malaysia's Sarawak",
+      "summary": "SoftBank and Southeast Asian tech group Grab have agreed to jointly develop AI infrastructure in Sarawak, Malaysia, extending both companies' reach into one of the region's emerging data center markets. The project adds to a wave of AI-related digital infrastructure investment flowing into Malaysia beyond the established Johor and Klang Valley hubs.",
+      "why_it_matters": "The partnership pushes AI infrastructure into East Malaysia, where abundant land and hydropower offer an alternative to saturated Peninsular hubs. For Sarawak, it accelerates ambitions to become a digital economy player, while for SoftBank and Grab it secures early positioning in a market competing for hyperscale spillover from Singapore.",
+      "score": 82,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "japan"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "capacity",
+        "infrastructure"
+      ],
+      "published_at": "2026-10-08T12:01:09Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia — data center search",
+          "url": "https://asia.nikkei.com/business/technology/softbank-and-grab-to-develop-ai-infrastructure-in-malaysia-s-sarawak",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "SoftBank",
+        "Grab"
+      ],
+      "content": "TOKYO/KUALA LUMPUR -- SoftBank Group and Grab plan to develop AI infrastructure in the eastern Malaysian state of Sarawak under a broader agreement that also includes a local energy group, the companies said Thursday.\n\nTechnology\n# SoftBank and Grab to develop AI infrastructure in Malaysia's Sarawak\n\nCompanies also plan talent development with local energy group\n\nSoftBank Group CEO Masayoshi Son speaks during an event to pitch AI for businesses in Tokyo in June. The Japanese investment group has been betting heavily on the technology. © Reuters",
+      "content_url": "https://asia.nikkei.com/business/technology/softbank-and-grab-to-develop-ai-infrastructure-in-malaysia-s-sarawak"
+    },
+    {
+      "id": "2026-10-08-e15b3d",
+      "title": "Firmus' float on the precipice as investor scepticism grows",
+      "summary": "Australian AI infrastructure company Firmus is facing mounting doubts over its planned stock market listing as potential investors question the company's valuation and business fundamentals. The scepticism threatens to derail one of the most closely watched data center sector floats in Australia.",
+      "why_it_matters": "A faltering IPO would test whether the AI infrastructure investment boom can translate into public market confidence in the APAC region. Institutional investors and other data center operators eyeing listings would likely recalibrate valuations and timing if Firmus fails to get away.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "ipo",
+        "hyperscale"
+      ],
+      "published_at": "2026-10-08T06:21:52Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/technology/firmus-ipo-hangs-in-the-balance-as-investor-demand-evaporates-20261008-p613s0",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Firmus",
+        "Firmus Technologies"
+      ],
+      "content": "The biggest Australian sharemarket listing in a generation has buckled, with Firmus Technologies and its heavyweight advisers scrambling to find a path for the artificial intelligence infrastructure play to go public in the face of lukewarm interest from major investors and local super funds.\n\nIn a dramatic turn early on Thursday, bankers working on the proposed $44 billion listing veered from discussing the need to rework the float, cutting the company’s market capitalisation, to considering pulling the deal altogether.\n\nLoading...",
+      "content_url": "https://www.afr.com/technology/firmus-ipo-hangs-in-the-balance-as-investor-demand-evaporates-20261008-p613s0"
+    },
+    {
+      "id": "2026-10-08-92f930",
+      "title": "Maas Group's $1.2b AI contracts at risk on Firmus' IPO doubts",
+      "summary": "Australian construction group Maas Group faces risk to A$1.2 billion worth of AI-related contracts tied to data center developer Firmus, whose proposed IPO is under growing investor scrutiny. The exposure highlights how dependent listed contractors have become on the creditworthiness of private AI infrastructure players.",
+      "why_it_matters": "If Firmus' listing stalls, the fallout would extend beyond equity markets to the construction and supply chain built around its data center pipeline. It is a cautionary case for contractors and investors pricing AI buildout work as secured revenue when the underlying clients remain unproven.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "capacity",
+        "ipo"
+      ],
+      "published_at": "2026-10-08T00:52:47Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/infrastructure/maas-group-sheds-550m-in-value-on-shaky-firmus-ipo-20261008-p613tu",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Maas Group",
+        "Firmus Technologies"
+      ],
+      "content": "Maas Group’s market capitalisation has been sliced by almost one quarter as investors baulked at the pricing of the Firmus Technologies float, where the infrastructure and data centre contractor is a major stakeholder.\n\nMaas has a 3.2 per cent interest in Firmus and also holds lucrative work contracts with the developer. This year, it moved away from its core business of construction with the $1.7 billion sale of more than half the company to gain greater exposure to the artificial intelligence boom.\n\nLoading...",
+      "content_url": "https://www.afr.com/companies/infrastructure/maas-group-sheds-550m-in-value-on-shaky-firmus-ipo-20261008-p613tu"
+    },
+    {
+      "id": "2026-10-08-417edd",
+      "title": "China's remote data centre buildout is on steroids",
+      "summary": "China is accelerating construction of data centers in remote western and northern regions at a pace that dwarfs previous buildout programs, driven by national policy and surging AI compute demand. The expansion leans on cheap land and renewable energy resources far from coastal population centers.",
+      "why_it_matters": "The scale of the remote buildout is reshaping global data center geography, concentrating enormous compute capacity in regions with abundant power but limited local demand. It raises questions about utilization, grid strain, and how China's AI infrastructure push will affect equipment supply chains and competitive dynamics across Asia.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "capacity",
+        "hyperscale",
+        "investment"
+      ],
+      "published_at": "2026-10-08T04:43:25Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/world/asia/china-s-remote-data-centre-build-out-is-on-steroids-20261008-p613w3",
+          "type": "html-list"
+        }
+      ],
+      "content": "China is building data centres at rapid speed across its energy-rich hinterland, as Beijing seeks to turn abundant electricity and cheap land into an advantage in the global race to develop AI.\n\nThe push is creating vast new computing hubs such as Ulanqab in Inner Mongolia, where 89 data centres are built or planned. The AI infrastructure buildout is among the fastest and biggest anywhere in the world.\n\nLoading...\n\nFinancial Times",
+      "content_url": "https://www.afr.com/world/asia/china-s-remote-data-centre-build-out-is-on-steroids-20261008-p613w3"
+    },
+    {
+      "id": "2026-10-08-7226b9",
+      "title": "NTT DOCOMO BUSINESS and Classiq Enter Strategic Business Partnership to Accelerate Enterprise Adoption of Quantum Computing",
+      "summary": "TOKYO, Oct. 8, 2026 — NTT DOCOMO BUSINESS, Inc. (formerly NTT Communications Corporation) and Classiq Technologies G.K., the Japanese subsidiary of Classiq Technologies Ltd., today announced a memorandum of understanding establishing a strategic business partnership aimed at accelerating enterprise adoption of quantum computing in Japan.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "quantum-computing",
+        "partnership",
+        "enterprise"
+      ],
+      "published_at": "2026-10-08T11:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "NTT DOCOMO BUSINESS (official)",
+          "url": "https://www.ntt.com/en/about-us/press-releases/news/article/2026/1008.html",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NTT DOCOMO BUSINESS",
+        "Classiq"
+      ],
+      "content": "October 8, 2026\n\nNTT DOCOMO BUSINESS, Inc.\n\nClassiq\n\n### NTT DOCOMO BUSINESS and Classiq Enter Strategic Business Partnership to Accelerate Enterprise Adoption of Quantum Computing\n\nCombining Classiq’s quantum software development platform with NTT DOCOMO BUSINESS's real-world implementation expertise to accelerate enterprise quantum adoption\n\n**TOKYO, Oct. 8, 2026 —** NTT DOCOMO BUSINESS, Inc. (formerly NTT Communications Corporation) and Classiq Technologies G.K., the Japanese subsidiary of Classiq Technologies Ltd., today announced a memorandum of understanding establishing a strategic business partnership aimed at accelerating enterprise adoption of quantum computing<sup>1</sup> in Japan.\n\nUnder the partnership, NTT DOCOMO BUSINESS will propose and sell the Classiq quantum software development platform and work with Classiq to help enterprises identify, develop and validate quantum computing use cases. Classiq will provide the platform, along with expertise and technical support related to quantum algorithms and quantum software technologies. The two companies will combine Classiq’s quantum software technology with NTT DOCOMO BUSINESS’s experience bringing advanced technologies into real-world enterprise environments.\n\nQuantum computing is attracting growing interest across many industries for its potential to address computational challenges in areas including materials development and drug discovery, financial risk analysis, and logistics and network optimization. In Japan, expanding cloud access to gate-based quantum computers<sup>2</sup> is enabling more organizations to move beyond research and begin evaluating potential applications.\n\nDeveloping quantum software, however, requires specialized expertise. Quantum developers must account for concepts such as superposition and entanglement, while quantum circuits<sup>3</sup> may also need to be adapted and optimized for different hardware architectures.\n\nThe Classiq platform is designed to abstract much of that complexity. It combines agentic AI interfaces, Qmod,<sup>4</sup> Classiq’s high-level quantum modeling language, and an automated synthesis engine<sup>5</sup> that transforms high-level functional models into optimized quantum circuits. This approach enables developers and technical teams to focus on algorithmic and business requirements while the platform handles many lower-level implementation decisions.\n\nIn addition, the Classiq platform supports simulators as well as quantum hardware based on diverse operational principles, including superconducting, neutral-atom, trapped-ion, and photonic architectures. Developers can execute algorithms across multiple types of quantum hardware directly from the Classiq platform without rewriting their code. By allowing organizations to select hardware targets based on their specific application requirements and machine time availability,<sup>6</sup> the platform enables customers to advance their quantum initiatives and safeguard their digital assets without being locked into any single modality.\n\n“Enterprises are increasingly interested in quantum computing, but turning that interest into concrete use cases requires both accessible development technology and the ability to integrate new capabilities into existing business environments,” said Yuichi Ikejiri, Head of the Innovation Center, NTT DOCOMO BUSINESS. “Through this partnership with Classiq, we will work with customers to identify where quantum computing can create value and help them build the capabilities needed to evaluate and develop practical applications.”\n\nThrough joint customer engagements, NTT DOCOMO BUSINESS and Classiq plan to assess business challenges where the Classiq platform can be applied and support the development and execution of quantum algorithms. The companies will work together to develop new use cases, build enterprise quantum readiness and facilitate access to quantum computing resources.\n\n“Japan has a strong base of enterprises already exploring how quantum computing can contribute to their long-term technology strategies,” said Akira Tanaka, VP, Head of APAC at Classiq. “By combining NTT DOCOMO BUSINESS’s enterprise implementation experience with Classiq’s high-level quantum software development technology, we can help more organizations move from learning about quantum computing to developing and evaluating applications around their own business challenges.”\n\nNTT DOCOMO BUSINESS works with customers across industries including manufacturing, financial services, logistics and the public sector, drawing on its experience deploying and operating networks, cloud services and AI infrastructure. The company is also pursuing quantum-related technology validation and implementation initiatives, including the development of a wide-area quantum-secure communications network using quantum key distribution (QKD)<sup>7,8</sup> and security technologies leveraging post-quantum cryptography (PQC).<sup>9</sup>\n\nGoing forward, NTT DOCOMO BUSINESS and Classiq aim to expand quantum computing beyond specialized domains and help enterprises develop the capabilities needed to pursue practical business applications.\n\n1 Quantum computing is a computing technology that applies principles of quantum mechanics, such as superposition and quantum entanglement, and has the potential to efficiently address problems that are difficult for conventional computers to solve within a practical timeframe.\n\n2 Gate-based quantum computing is a general-purpose approach in which basic operations (gates) are applied to qubits in combination to execute a wide range of algorithms. Unlike Ising-machine approaches specialized for combinatorial optimization, gate-based systems are expected to support a broad range of applications, including machine learning and simulation.\n\n3 A quantum circuit is an ordered sequence of basic operations (gates) applied to qubits, representing the set of instructions executed by a quantum computer.\n\n4 Qmod is a high-level modeling language developed by Classiq for describing quantum algorithms. It enables quantum algorithm concepts to be expressed intuitively and at a high level of abstraction, from which quantum circuits are automatically generated.\n\n5 The synthesis engine automatically translates high-level quantum models into quantum circuits while optimizing them against defined constraints and target hardware requirements.\n\n6 Machine time refers to the allocated computing time available to execute jobs on a quantum computer.\n\n7 Quantum key distribution (QKD) is a technology that uses principles of quantum mechanics to securely share cryptographic keys and can detect attempts by a third party to intercept the key exchange.\n\n8 Announced June 30, 2026: “Construction Begins on Japan’s First Wide-Area Quantum-Secure Communications Network Spanning Approximately 600 km Across Tokyo, Nagoya and Osaka.” See https://www.ntt.com/about-us/press-releases/news/article/2026/0630_2.html (in Japanese)\n\n9 Post-quantum cryptography (PQC) refers to cryptographic methods designed to provide protection against decryption attacks using quantum computers.\n\n#### About NTT DOCOMO BUSINESS\n\nNTT DOCOMO BUSINESS, Inc. is Japan’s leading comprehensive global ICT solutions provider. We are an Industrial and Regional AX Platformer driving digital transformation across industries and communities, enabling the development of a decentralized, autonomous, and collaborative society where businesses and communities can thrive sustainably. Our mission is to unlock new value and help create prosperity for all. For more information, please visit https://www.ntt.com/en/.\n\n#### About Classiq\n\nClassiq, a leading quantum computing software company, provides an enterprise-grade platform that makes it practical to develop scalable, efficient quantum applications. Used by dozens of global enterprises including Rolls-Royce, Comcast, The BMW Group, Intesa Sanpaolo, the Classiq platform combines AI agents, Qmod (a high-level quantum programming language) and synthesis-based design automation to accelerate the development of optimized, hardware-ready quantum software. The platform also supports hardware benchmarking, cost and performance optimization, and execution via the cloud across quantum hardware platforms.\n\nClassiq, a Fast Company ‘Next Big Thing in Tech’ award winner, is backed by leading global investors and collaborates with quantum cloud providers, hyperscalers and quantum hardware companies. Follow Classiq on LinkedIn, X or YouTube, visit the Slack community, GitHub repository and www.classiq.io to learn more.\n\n2026-R122",
+      "content_url": "https://www.ntt.com/en/about-us/press-releases/news/article/2026/1008.html"
+    },
+    {
+      "id": "2026-10-08-1fc99f",
+      "title": "AirTrunk Secures US$1.24 billion green loan for Tokyo data center expansion",
+      "summary": "AirTrunk has closed a ¥191.6 billion (US$1.24 billion) green loan that refinances existing debt and funds the next development stages of its TOK1 hyperscale campus in eastern Tokyo. The financing reflects sustained lender appetite for energy-efficient data center assets as AI and cloud demand drives capacity growth in Japan's primary market.",
+      "why_it_matters": "The deal deepens AirTrunk's capital position in Japan at a time when Tokyo land and power are increasingly constrained, strengthening its ability to compete for hyperscale tenants. It also signals that green financing frameworks are becoming a standard route for APAC hyperscalers to tap large-scale debt, which competitors and lenders across the region will take note of.",
+      "score": 86,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "hyperscale",
+        "ai",
+        "capacity"
+      ],
+      "published_at": "2026-10-08T09:30:36Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/airtrunk-secures-us-1-24-billion-green-loan-for-tokyo-data-center-expansion/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "AirTrunk"
+      ],
+      "content": "AirTrunk, a hyperscale data center specialist, has secured a ¥191.6 billion (US$ 1.21 billion) green loan to refinance existing debt and fund the next stages of its TOK1 hyperscale data center campus in eastern Tokyo, as demand for computing capacity grows with the expansion of artificial intelligence and cloud services.\n\nThe loan will fund capital expenditures for additional phases of TOK1, which can ultimately be expanded to more than 300 MW. The company recently began construction on an expansion that will add more than 100 MW of IT capacity to the campus to meet near term customer demand.\n\nAccording to a press release, Sumitomo Mitsui Banking Corp. (SMBC), MUFG, Crédit Agricole CIB and Société Générale acted as global coordinators. Twelve banks participated as mandated lead arrangers and bookrunners, including the four coordinators, BNP Paribas, The Chiba Bank, DBS Bank, E.SUN Commercial Bank, Mizuho Bank, Natixis, Oversea-Chinese Banking Corporation (OCBC) and United Overseas Bank (UOB).\n\nRobin Khuda, founder and CEO, AirTrunk, said, “Japan is one of the world’s most important cloud and AI markets. AirTrunk has been investing deeply in Japan for this reason – to build the hyperscale platform that will underpin the country’s digital future and connect it to the broader region. This landmark financing enables us to accelerate the expansion of TOK1 and continue delivering the capacity our customers need today, while preparing Japan for the extraordinary compute demands ahead.”\n\nMasato Hori, AirTrunk associate vice president, treasury Japan, said, “This is the largest data center financing ever completed in Japan and a testament to the deep collaboration between AirTrunk and our banking partners. The structure of the facility reflects our commitment to transparency, sustainability, and innovation in capital markets, and further strengthens AirTrunk’s financing platform across the region.”\n\nNori Matsushita, AirTrunk head of Japan, said, “This milestone reflects our credibility of delivering sustainable digital infrastructure at scale and the strength of our relationships with financial markets in Japan. As we expand TOK1, we remain focused on supporting local communities, investing in resilient infrastructure, and contributing to Japan’s digital transformation.”\n\nTakehisa Manabe, general manager, global structured finance, Sumitomo Mitsui Banking Corporation, said, “AirTrunk’s TOK1 campus represents the scale, efficiency, and innovation required to support Japan’s rapidly expanding cloud and AI ecosystem. SMBC is proud to act as Global Coordinator for this landmark transaction, which demonstrates how green financing can channel capital toward mission critical digital infrastructure while advancing the nation’s GX agenda.”\n\nDaisuke Bito, managing executive officer and head of Financial Solutions Group, MUFG Bank Ltd., said, “This financing showcases the important role that financial institutions play in enabling sustainable growth in Japan’s digital economy. As Global Coordinator/Structuring Bank and syndication lead, MUFG strongly shares AirTrunk’s commitment to energy efficiency and long term investment, which aligns with our priorities in responsible financing, and we are pleased to support the next phase of development at TOK1.”\n\nSatoshi Oda, managing director and head of Corporate and Leveraged Finance/Distribution and Asset Rotation, Crédit Agricole CIB, said, “As a global leader in green and sustainable finance, Crédit Agricole CIB is proud to partner with AirTrunk on a project that sets a new benchmark for data centre financing in Japan. The transaction reflects growing investor confidence in high efficiency digital infrastructure that can meet the surging demand for compute capacity driven by AI and cloud technologies.”\n\nEugene Tan, Co head of Infrastructure and Telecom, Media & Technology for Asia Pacific, Societe Generale, said, “This milestone financing highlights the increasing convergence of sustainability and digital transformation. Societe Generale is delighted to support AirTrunk as it expands TOK1, delivering the resilient and low carbon infrastructure that Japan’s technology sector requires to thrive in the AI era.”\n\nThe financing was structured under AirTrunk’s Green Financing Framework and the loan will refinance existing facilities and fund development costs for the TOK1 expansion.\n\nThe facility is also tied to AirTrunk’s energy efficiency standards for its data centers which are designed to operate more efficiently than the regional average, reducing the amount of energy required for the same computing output. Margin incentives from the loan will be directed to AirTrunk’s Social Impact Fund, which supports programs in Japan focused on STEM education, digital access, biodiversity and conservation, sustainable innovation and disaster relief.\n\nThe financing comes as AirTrunk expands its Japanese operations such as the recently announced OSK2, its second hyperscale data center in Osaka, as well as a new Japan headquarters. AirTrunk’s total investment in Japan has surpassed ¥1.2 trillion, (US$ 8 billion)\n\nacross existing and planned projects. Its four Japanese campuses TOK1, TOK2, OSK1 and OSK2  are expected to provide about 530 MW of total capacity when fully built.",
+      "content_url": "https://w.media/airtrunk-secures-us-1-24-billion-green-loan-for-tokyo-data-center-expansion/"
+    },
+    {
+      "id": "2026-10-08-0ef688",
+      "title": "LG expands AI data centre chiller production in US and South Korea",
+      "summary": "Rising demand for AI cooling is pushing the Korean group to add capacity in Virginia and South Korea with KRW 150 billion of investment.",
+      "why_it_matters": "",
+      "score": 62,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [
+        "cooling",
+        "ai",
+        "capacity",
+        "investment"
+      ],
+      "published_at": "2026-10-08T01:37:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/lg-expands-ai-data-centre-chiller-production-in-us",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "LG"
+      ],
+      "content": "Thu, 8th Oct 2026\nLG Electronics is expanding chiller production for AI data centres with a new factory in Virginia and additional capacity in South Korea, extending its manufacturing footprint for the equipment to three sites.\n\nThe company plans to build the new air-cooled chiller facility in Windsor, Virginia, while increasing output at its existing plants in Changwon and Pyeongtaek. Total investment across the three sites will amount to KRW 150 billion.\n\nChillers are a key part of data centre cooling systems, and rising computing density has increased the need to manage heat. Demand has been particularly strong in facilities built for artificial intelligence workloads, which require more power and generate greater thermal loads than many conventional data centre operations.\n\nThe Virginia plant will have 30,000 square metres of gross floor area on a 170,000-square-metre site. Production is due to begin in the first half of 2027, with the factory making air-cooled chillers for AI data centres in North America.\n\nThe US location places LG close to a large concentration of data centre operators. Virginia has become one of the sector's most important hubs, making local supply chains and response times increasingly important for equipment vendors.\n\n### North America focus\n\nFigures from Omdia cited by LG show global data centre capacity is expected to rise from 226GW in 2026 to 420GW in 2030, with 60 per cent of the additional capacity concentrated in North America.\n\nThat outlook helps explain the decision to add manufacturing in the United States rather than rely solely on exports from Asia. Local production can shorten delivery times and may reduce some supply chain risks for customers building or expanding facilities quickly.\n\nAt its South Korean operations, LG is expanding air-cooled chiller production lines in Pyeongtaek and Changwon. It is also introducing a conveyor-based production system for higher-volume manufacturing, with products moving through the process on a single conveyor.\n\nThe change is intended to improve operational efficiency and support a faster response to rising order volumes. The expansion in Korea will complement, rather than replace, output from the new US facility.\n\n### Cooling portfolio\n\nBeyond expanding manufacturing, LG is presenting the investment as part of a broader approach to AI data centre cooling. The company describes the strategy as \"Chip-to-Chiller\", linking chillers with liquid cooling products including Coolant Distribution Units and cold plates that remove heat directly from chips.\n\nLiquid cooling has drawn growing attention across the industry as operators seek more effective ways to manage dense AI server clusters. Air cooling remains common in many facilities, but direct chip-level cooling is becoming more relevant for racks running high-intensity AI workloads.\n\nLG said its product range includes a 2.6MW CDU that qualified as an NVIDIA DSX Ready CDU. It has also joined the NVIDIA Partner Network as a Power and Cooling Solution Preferred Partner.\n\nThose links to NVIDIA place LG within a wider ecosystem forming around infrastructure for AI computing. Technology suppliers, power equipment providers and thermal management companies have all sought closer ties with chipmakers and server vendors as demand for specialised data centre systems grows.\n\n### Broader strategy\n\nIn Asia, LG is applying a \"One LG\" approach that combines heating, ventilation and air conditioning products with battery systems and data centre design, build and operation work from other affiliates. The approach is being used in a hyperscale AI data centre project for Sinar Mas Group in Jakarta.\n\nLG has also upgraded its Business Innovation Centre in Singapore to allow partners, engineers and integrators to test and assess solutions. The facility is part of the company's effort to deepen ties with regional customers and channel partners involved in data centre projects.\n\nJames Lee, President of the LG ES Company, set out the company's position on the investment. \"We will continue to strengthen our core capabilities in AI data center cooling solutions, from differentiated product technologies to production capacity,\" said Lee. \"With these capabilities, we will ensure a stable supply and actively address rapidly growing market demand.\"",
+      "content_url": "https://datacenternews.asia/story/lg-expands-ai-data-centre-chiller-production-in-us"
+    }
+  ]
+}
