@@ -5,9 +5,10 @@
 # whenever today's digest file already exists in the repo.
 #
 # LLM backend: the kimi CLI, restored from repository secrets so the run
-# uses the owner's Kimi Code subscription — no paid API key needed:
-#   KIMI_CONFIG_TOML       contents of ~/.kimi-code/config.toml
-#   KIMI_CREDENTIALS_JSON  contents of ~/.kimi-code/credentials/kimi-code.json
+# uses the owner's Kimi Code subscription — no paid API key needed.
+# Secrets hold BASE64 of the files (paste-proof: no BOM/whitespace issues):
+#   KIMI_CONFIG_TOML_B64       base64 -w0 ~/.kimi-code/config.toml
+#   KIMI_CREDENTIALS_JSON_B64  base64 -w0 ~/.kimi-code/credentials/kimi-code.json
 # Note on OAuth rotation: once the cloud run refreshes the token, the copy
 # on the local machine is stale — run `/login` locally once when back.
 #
@@ -78,11 +79,8 @@ jobs:
         if: steps.guard.outputs.skip == 'no'
         run: |
           mkdir -p "$HOME/.kimi-code/credentials"
-          printf '%s' "${{ secrets.KIMI_CONFIG_TOML }}" > "$HOME/.kimi-code/config.toml"
-          printf '%s' "${{ secrets.KIMI_CREDENTIALS_JSON }}" > "$HOME/.kimi-code/credentials/kimi-code.json"
-          # Tolerate common paste artifacts: UTF-8 BOM and stray whitespace.
-          sed -i '1s/^\xef\xbb\xbf//' "$HOME/.kimi-code/config.toml" "$HOME/.kimi-code/credentials/kimi-code.json"
-          sed -i -e 's/[[:space:]]*$//' -e '/./,$!d' "$HOME/.kimi-code/config.toml"
+          printf '%s' "${{ secrets.KIMI_CONFIG_TOML_B64 }}" | tr -d '[:space:]' | base64 -d > "$HOME/.kimi-code/config.toml"
+          printf '%s' "${{ secrets.KIMI_CREDENTIALS_JSON_B64 }}" | tr -d '[:space:]' | base64 -d > "$HOME/.kimi-code/credentials/kimi-code.json"
           chmod 600 "$HOME/.kimi-code/credentials/kimi-code.json"
 
       - name: Verify restored kimi config (no secrets printed)
