@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T12:38:43Z",
+  "hot": [
+    "2026-10-10-1f7803",
+    "2026-10-10-f3a8bf",
+    "2026-10-10-62158d",
+    "2026-10-10-f10ccf",
+    "2026-10-10-ef3001"
+  ],
+  "stories": [
+    {
+      "id": "2026-10-10-a85d20",
+      "title": "Sugon 8000 'computes' the future of weather forecasting, domestic compute breaks kilometer-scale global forecast bottleneck",
+      "summary": "天气变化是地球系统中最复杂的科学问题之一。从一次暴雨过程的形成，到台风路径与强度演变，再到全球气候系统变化，气象预测本质上是一场对地球运行规律的高精度计算。",
+      "why_it_matters": "",
+      "score": 62,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "ai",
+        "compute",
+        "chips"
+      ],
+      "published_at": "2026-10-09T15:50:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "中国IDC圈",
+          "url": "https://news.idcquan.com/news/208275.shtml",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Sugon"
+      ],
+      "content": "天气变化是地球系统中最复杂的科学问题之一。从一次暴雨过程的形成，到台风路径与强度演变，再到全球气候系统变化，气象预测本质上是一场对地球运行规律的高精度计算。\n\n随着极端天气事件增多，传统中低分辨率模式已经难以满足精细化预报需求，气象领域正在进入以高分辨率模式、高性能计算和人工智能融合驱动的新阶段。\n\n在“算力登峰 定数风云——曙光8000气象领域重大应用成果发布会”上，中国气象局地球系统数值预报中心与中科曙光联合发布全球公里级高精度气象计算重大成果，基于全国产十万卡AI超集群曙光8000，中国气象局下一代天气气候一体化模式MCV完成了系统优化，并实现全球5公里分辨率、未来10天的气象模拟可在1小时内完成，业务化能力迈入全球第一梯队。\n\n中科曙光董事长历军表示，数值天气预报与高性能计算始终相伴相生，协同演进，过70多年，每一次预报都是算法创新与算力跃升双轮驱动的结果。\n\n中国气象局地球系统数值预报中心研究员李兴良在接受采访时表示，本次发布的核心成果可以概括为“国产算力+国产原创自主模式”，即国产超强算力与自主研发模式形成协同突破。\n\n### 一、从12.5公里到5公里：气象预报竞争进入精细化计算时代\n\n气象预报能力提升，首先体现于空间分辨率的提升。过去较长时间里，全球数值预报模式主要运行在十公里级甚至更高尺度，而进入公里级分辨率后，模式能够更加准确描述复杂地形、强对流天气以及中小尺度天气系统演变。陈起英认为，水平分辨率提升带来的不仅是数字变化，更是对天气物理过程刻画能力的增强。\n\n中国气象局地球系统数值预报中心首席科学家陈起英指出，从12.5公里提升到5公里，最明显的变化体现在中小尺度天气过程预测能力增强。例如在暴雨预报中，12.5公里模式可能只能预测到中雨量级，而提升至5公里后，对暴雨强度的模拟能力明显提高；对于台风预测而言，原有模式能够较好预测路径，但强度预报存在偏弱问题，5公里模式能够进一步改善强度模拟效果。\n\n分辨率提升的背后，是计算规模的大幅增加。中国气象局地球系统数值预报中心高级工程师蒋沁谷介绍，数值天气预报模式实际上是一套基于大气运动规律建立的大型计算程序，通过求解动力学方程模拟未来天气状态。模式将地球大气划分为大量网格单元，分辨率越高，需要计算的空间单元越多，对计算资源的需求也呈指数增长。\n\n### 二、MCV模式突破：自主算法与国产****算力****形成协同创新\n\n高精度气象预报不仅依赖硬件算力，也依赖模式算法创新。MCV模式是中国气象局地球系统数值预报中心研发的新一代大气模式，其核心目标是提升模拟精度、增强计算扩展能力，并支撑公里级气象预测需求。\n\n李兴良介绍，MCV本身是一套原创算法体系，团队围绕该算法发展形成新的高精度模式。该模式解决的重要问题包括提升模拟精度、增强长期大气质量模拟能力，以及更充分发挥超级计算资源的作用。他表示，如果缺少高效模式算法，即使拥有强大的计算设备，也难以充分释放计算能力。\n\n从国际竞争视角看，公里级全球模式已经成为气象科技发展的重要方向。李兴良指出，全球5公里模式是国际气象领域共同探索方向，美国全球模式分辨率约为12.5公里，欧洲中心约为9公里，各方均在向5公里方向推进。综合计算成本与业务效率，5公里成为兼顾科学价值与工程可行性的关键尺度。\n\n此次MCV模式与曙光8000融合，解决的不只是“能不能算”的问题，更是“能不能快速稳定运行”的问题。蒋沁谷介绍，国际业务化预报对计算时效有严格要求，模式必须在规定时间内完成计算并输出产品。由于公里级模式计算量巨大，传统CPU架构难以满足需求，因此双方探索利用国产异构加速计算体系提升效率。\n\n### 三、曙光8000赋能：从单纯提供算力到参与科学计算体系创新\n\n在高端科学计算领域，算力平台正在从基础资源向深度融合的计算基础设施演进。此次合作中，曙光8000并非简单承担计算任务，而是围绕模式移植、通信优化、存储体系和软件生态展开系统级协同。\n\n中科曙光高端计算总工程师卜景德表示，气象计算具有典型的科学计算特征，与人工智能计算存在明显差异。传统数值天气预报更加关注双精度计算能力，而人工智能应用更多采用低精度计算方式。通过异构计算体系，可以在同一系统中同时支持传统科学计算、人工智能计算以及数智融合应用。\n\n曙光8000的重要特点之一，是支持超智融合异构计算。发布会上介绍，该系统能够同时支撑科学计算、人工智能训练以及推理应用，并通过全精度算力满足多类型计算需求。同时，系统针对气象业务中的海量数据处理需求进行了优化，包括低延迟网络、高带宽存储以及可靠性设计。\n\n气象业务对计算系统稳定性提出极高要求。卜景德指出，气象预报不是一次性的科研计算，而是持续运行的生产系统，需要满足稳定、高效、可靠的要求。尤其在重大天气过程和关键保障时期，如果系统无法按时完成计算，将直接影响预报产品生成，因此业务化气象计算对系统可靠性提出了严苛要求。\n\n### 四、从“算得快”到“算得准”：超智融合打开气象计算新路径\n\n随着人工智能技术快速发展，气象领域正在探索传统数值模式与人工智能模型融合的新路径。人工智能能够从海量历史数据中学习天气演变规律，而数值模式则基于物理方程提供高精度模拟能力，两者结合有望形成新的气象预测体系。\n\n卜景德认为，气象预测中的超智融合，本质是让人工智能与传统科学计算形成互补。由于大气初始状态存在不确定性，即使拥有高精度观测，也难以完全描述真实状态，因此人工智能可以通过历史数据学习提供趋势判断，再与高精度模式结合，提高整体预测能力。\n\n这一趋势也推动计算基础设施向更加开放和智能的方向发展。卜景德表示，双方合作过程中积累的软件优化、算法创新和工程经验，不仅服务于气象领域，也可以推广到生命科学、工程设计、能源勘探等科学计算场景。通过气象这样高标准、高可靠性的应用验证，可以进一步推动国产计算生态完善。\n\n### 五、迈向地球系统智能计算：国产算力产业迎来应用深化\n\n从产业角度看，气象领域正在成为验证高端计算能力的重要场景。相比单纯追求峰值性能，科学计算更加关注长期稳定运行、软件生态适配和复杂任务协同能力。曙光8000与MCV模式的结合，体现了国产计算产业从设备建设向应用创新深入发展的趋势。\n\n李兴良表示，目前5公里模式已经具备较高水平，但完整业务化体系仍需要模式、资料同化、运行流程等多个环节共同完善。气象预报是一项系统工程，需要整个链条协同推进，才能实现高精度、高时效业务运行。\n\n面对更高分辨率需求，算力挑战仍在持续增加。蒋沁谷介绍，按照现有模式计算规律，分辨率提升一倍，计算量通常增长8倍至16倍。未来向更高精度模拟推进，需要更强计算芯片、更高速互联网络以及更加高效的软件体系共同支撑。\n\n这也意味着，气象计算正在成为国产高性能计算产业的重要创新试验场。从芯片、服务器、网络、存储到软件生态，气象业务提出的高可靠、高性能、高复杂度需求，将推动整个计算产业链持续升级。\n\n### 结束语：\n\n气象预测的发展史，本质上也是计算技术不断突破的过程。从粗尺度模拟到公里级精细预测，从单一数值计算到超智融合，气象科学与高性能计算正在形成更加紧密的协同关系。\n\n此次曙光8000与MCV模式的联合突破，标志着国产算力与国产科学模式在高端应用领域实现深度融合。它不仅提升了气象预测能力，也为国产计算体系服务重大科学问题提供了新的实践样本。\n\n当算力成为认识地球、模拟自然、服务社会的重要基础设施，气象领域的创新探索正在展示一个更加广阔的产业图景：未来的计算竞争，不只是比拼硬件性能，更是比拼算法、生态和应用深度融合能力。国产算力正在从支撑计算任务，走向参与科学创新。",
+      "content_url": "https://news.idcquan.com/news/208275.shtml"
+    },
+    {
+      "id": "2026-10-10-f3a8bf",
+      "title": "Asia data centre boom vulnerable to US policies, Jardine says",
+      "summary": "The head of Jardine Matheson warned that Asia's data-centre buildout is heavily dependent on a small group of US tech giants for capital and equipment, leaving the region's billions in planned investment exposed to Washington's volatile China policy. A sharp shift in US export rules or market access could stall projects across the region regardless of local demand.",
+      "why_it_matters": "Developers and governments across APAC have assumed uninterrupted access to US chips, cloud platforms, and hyperscaler capital. If Washington tightens restrictions further, operators may need to redesign supply chains and financing plans, and countries courting data-centre investment will face tougher questions about geopolitical dependency.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "global"
+      ],
+      "topics": [
+        "investment",
+        "hyperscale",
+        "geopolitics",
+        "capacity"
+      ],
+      "published_at": "2026-10-09T08:47:30Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/821215",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Jardine Matheson"
+      ],
+      "content": "(Oct 9): Asia’s booming data-centre industry faces growing political risks as billions of dollars in investment hinge on a handful of US technology giants whose ability to operate globally could be upended by Washington’s increasingly unpredictable stance toward China, according to the chief of one of Hong Kong’s biggest conglomerates.\n\n“The risk we think the most about at this point is actually political risk,” Jardine Matheson Holdings Ltd chief executive officer Lincoln Pan told the Milken Asia Summit in Singapore on Friday. “If you look at this debate about the US and China and the significant bets many people are making around this sector, particularly around data centres and AI large language models coming out of the US, it’s a highly concentrated bet on the stability of US data policy.”\n\nPrivate equity giants including Blackstone Inc and KKR & Co have poured billions of dollars into Asian data centres, betting that the explosive growth of artificial intelligence and cloud computing will fuel demand for computing capacity for years to come.\n\nWhile Asia’s digital infrastructure will struggle to keep pace with that demand, those facilities depend heavily on US hyperscalers that operate and are influenced significantly by US government policy, said Pan, whose company has real estate investments across Asia through its Hongkong Land unit.\n\nWhether US-domiciled companies will be allowed to operate globally with the same degree of stability and certainty over the next decade is “a highly, highly uncertain risk that no one can underwrite,” he said.\n\nPresident Donald Trump has been pushing AI investment in a race with China, even as some AI companies call for slower development and a public backlash over data centres emerges. China remains Asia’s biggest market for data centres, while outside the mainland, Western cloud providers account for about 70% of hyperscaler demand and Chinese players about 30%, according to a McKinsey report in June.\n\nPan’s remarks come as Firmus Grid Ltd abandoned its attempt at one of Australia’s biggest-ever initial public offerings, after the Nvidia Corp-backed data centre company failed to lure global investors who have grown increasingly skittish over frothy AI valuations. Much of Firmus’ valuation was based on the company successfully building a pipeline of data centres across Asia serving customers such as Meta Platforms Inc and OpenAI.\n\nThe uncertainty extends beyond data centres to the broader AI investment boom. Despite the flood of capital into the sector, Jim Coulter, executive chairman of TPG Inc, cautioned that investors should resist assuming today’s winners and business models are already clear, saying the three most important words in AI are “I don’t know.”\n\nSpeaking on the same panel, Coulter likened investing in AI to the chaos of playing pinball, with more traditional investment akin to the repetition of 10-pin bowling.\n\n“We have a number of themes that are very long-term themes that we’re still bowling,” he said. “But over the other side of the bowling alley, we’re playing pinball in AI because you have to shorten your cycle.”\n\n*Uploaded by Magessan Varatharaja*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/821215"
+    },
+    {
+      "id": "2026-10-10-62158d",
+      "title": "DayOne in early talks with banks for potential US$500 mil bond",
+      "summary": "DayOne Data Centers, the Singapore-based operator formerly known as GDS International, has held weeks of preliminary discussions with banks over a potential US$500 million bond offering. The fundraising would support its expansion as AI-driven demand for data-centre capacity accelerates across Asia.",
+      "why_it_matters": "A successful offering would mark a key test of debt-market appetite for Asian data-centre credits and give DayOne cheaper fuel to compete with hyperscalers for AI capacity. It also signals that operators are leaning on bond markets rather than equity as capital intensity climbs.",
+      "score": 78,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "ai",
+        "financing"
+      ],
+      "published_at": "2026-10-09T08:27:57Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/821207",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "DayOne Data Centers"
+      ],
+      "content": "(Oct 9): DayOne Data Centers Ltd has been in preliminary talks for weeks with banks about a potential US$500 million (RM2.04 billion) bond offering, according to people familiar with the matter, as the Singapore-based company ramps up fundraising amid growing demand for artificial intelligence (AI) infrastructure.\n\nThe firm intends to push on with the discussions even after one of its project partners, Nvidia Corp-backed Firmus Grid Ltd, dropped an initial public offering plan in Australia this week, the people said, who asked not to be identified discussing private information.\n\nProceeds from the planned bond sale would be used for project financing, the people said. There were no details on which project or projects the money would be for. Citigroup Inc is the lead arranger for the deal and the data centre operator could go to the market as early as next year, the people said.\n\nRepresentatives for DayOne and Citigroup declined to comment.\n\nDayOne joins an increasing number of companies that are part of the broad AI buildout with plans to tap the debt market, banking on surging demand. But the failure of Firmus’ share sale attempt, in what would have been one of Australia’s largest IPOs, shows how global investors are starting to push back against what they see are frothy AI valuations.\n\nThe proceeds from Firmus’ listing would have funded purchases of graphics processing units for its first data centre project in Batam, Indonesia, that it’s developing with DayOne as part of an eight-year partnership with Nvidia.\n\nDayOne filed for a US IPO earlier this week and has been considering to raise around US$5 billion.\n\nAI-related data centre spending could reach US$2.9 trillion between 2025 and 2028, with around half requiring external financing, which is driving debt issuance, according to Morgan Stanley.\n\nIf DayOne taps the bond market, it would be among the first data centre firms in Asia Pacific to do so and would help others in the business to draw on larger pools of capital beyond bank financing.\n\nAhead of its planned bond offering, DayOne has closed half of a US$7 billion-equivalent loan — one of the largest AI-linked borrowings in Asia — with more than 30 lenders participating. The upsized part of the loan, valued at US$3.7 billion-equivalent, was split into a RM5.5 billion tranche and a US$2.4 billion portion.\n\nDayOne has also been seeking a HK$1.86 billion (US$237 million or RM970 million) loan for a Hong Kong data centre. In August, the company obtained a four-year S$530 million (US$414 million or RM1.69 billion) to develop its first buildout in Singapore.\n\nOther companies in the region have been aggressively raising money from the debt market to fund their AI ambitions. Billionaire Masayoshi Son’s SoftBank Group Corp last month raised the equivalent of US$11.1 billion in one of the largest corporate junk-bond offerings on record.\n\nOnce an international affiliate of Chinese data centre operator GDS Holdings Ltd, DayOne was previously known as GDS International before rebranding last year. It has brought in international investors, including SoftBank Vision Fund, Coatue Management and Ken Griffin and closed a US$4.5 billion Series C funding round in June.\n\nApart from Indonesia, the company is operating or developing data centres in Singapore, Malaysia, Japan, Hong Kong, Thailand and Finland, according to the company’s website.\n\n*Uploaded by Chng Shear Lane*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/821207"
+    },
+    {
+      "id": "2026-10-10-ef3001",
+      "title": "Unisem plans RM396 mil second phase expansion of Gopeng plant",
+      "summary": "Unisem (M) and its subsidiary will invest RM396 million in a second-phase expansion of their semiconductor plant in Gopeng, Perak, targeting advanced packaging for AI and data-centre applications. The move aims to capture rising demand for chiplet-style packaging as AI accelerators become more complex.",
+      "why_it_matters": "Malaysia is already a major chip assembly and test hub, and expansions like this push the country up the value chain into advanced packaging where AI demand is strongest. It also reinforces Penang-Perak corridor employment and signals that OSATs see AI workloads as a multi-year growth engine.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "chips",
+        "investment",
+        "ai",
+        "supply-chain"
+      ],
+      "published_at": "2026-10-09T05:55:47Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/821171",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Unisem"
+      ],
+      "content": "KUALA LUMPUR (Oct 9): Unisem (M) Bhd (KL:UNISEM) and its subsidiary plan to invest RM396 million to expand its semiconductor manufacturing plant in Gopeng, Perak, as the group seeks to capture growing demand for advanced chip packaging used in artificial intelligence (AI) and data centres.\n\nThe semiconductor assembly and test services provider said the second phase of expansion will increase its manufacturing capacity for wafer bumping and post-bump services, which are used in preparing semiconductor chips for advanced packaging.\n\nIn a filing with Bursa Malaysia on Friday, Unisem said the expansion involves constructing a new production facility with a built-up area of approximately 40,000 sq m, at an estimated cost of RM196 million.\n\nHalf of the facility will be leased to its wholly owned subsidiary, Unisem Advanced Technologies Sdn Bhd, to expand wafer-bumping operations, an advanced semiconductor packaging process.\n\nThe necessary equipment and facility preparation works are expected to cost another RM200 million, bringing the total investment to RM396 million.\n\nUnisem said the expansion is aimed at meeting growing customer demand, particularly for advanced packaging applications in AI, data centres and high-performance computing.\n\nThe project will be funded through a combination of internally generated funds and bank borrowings, although the proportions have yet to be determined.\n\nThe group said the expansion is not expected to materially affect its earnings for the current financial year but should contribute positively once completed and operational.\n\nThe latest expansion follows Unisem's earlier investment in its Gopeng facility, which began construction in March 2022. The first phase was initially estimated to cost RM300 million and was designed to double the production capacity of its existing operations in Ipoh.\n\nIn April this year, Unisem chairman and group managing director John Chia Sin Tet told *The Edge* that the group had invested RM600 million in its Gopeng plant as part of nearly RM1 billion in capital expenditure over three years.\n\nMore recently, CIMB Securities said in a September research note that Gopeng Phase 2 could drive Unisem's next leg of growth, with the expansion expected to support additional wafer-bumping and advanced packaging capacity.\n\nAt the midday break on Friday, Unisem shares were up eight sen or 1.9% at RM4.36, giving the group a market capitalisation of RM7.48 billion.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/821171"
+    },
+    {
+      "id": "2026-10-10-f10ccf",
+      "title": "SoftBank, Grab, PETROS ink deal to explore AI infrastructure in Sarawak, Malaysia",
+      "summary": "SoftBank Group, Grab, and Sarawak state energy firm PETROS signed a framework agreement to study building an AI and digital infrastructure platform in Sarawak, Malaysia. The tie-up pairs global AI capital and a regional technology partner with the state's energy resources, positioning Sarawak as a potential low-cost compute hub.",
+      "why_it_matters": "Sarawak's abundant hydro and gas power gives it a cost and sustainability edge in the race to host energy-hungry AI workloads. If the exploration matures into buildout, it would deepen East Malaysia's role in the regional AI supply chain and give PETROS a new revenue stream beyond hydrocarbons.",
+      "score": 78,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "japan"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "infrastructure",
+        "energy"
+      ],
+      "published_at": "2026-10-09T05:55:59Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/softbank-grab-petros-ink-deal-to-explore-ai-infrastructure-in-sarawak-malaysia/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "SoftBank",
+        "Grab",
+        "PETROS"
+      ],
+      "content": "Investment firm SoftBank Group Corp., Southeast Asian superapp Grab Holdings Limited and Sarawak’s state-owned energy firm Petroleum Sarawak Berhad (“PETROS”) yesterday signed a Framework Agreement to explore the development of an artificial intelligence (AI) and digital infrastructure platform in Sarawak, Malaysia, according to the firms’ joint statement yesterday.\n\nUnder the Framework Agreement, the three parties will collaborate to develop a roadmap for the phased development of the project as well as explore opportunities across the wider AI value chain, including AI compute and services, advanced technologies, robotics, local workforce and community development.\n\nSoftBank will contribute its global technology and AI ecosystem, with expertise spanning AI infrastructure, advanced computing, semiconductors and physical AI.\n\nGrab will contribute its Southeast Asian digital ecosystem and extensive regional customer and partner networks while PETROS will bring its experience in harnessing Sarawak’s energy resources to drive economic development. Through PETROS’ Sarawak Gas Roadmap and as Master Developer of the Kuching Low-Carbon Hub (KLCH), PETROS has vast experience in developing energy supply solutions and enabling infrastructure, facilitating local engagement, and strengthening local participation and value creation across Sarawak’s supply chain.\n\nSarawak is seen as having great potential in becoming a destination for AI infrastructure and high-value technology industries.\n\nThe agreement was signed by Masayoshi Son, Chairman and Chief Executive Officer of SoftBank Group Corp.; Anthony Tan, Group Chairman, Chief Executive Officer and Co-Founder of Grab; and Dato Janin Girie, Group Chief Executive Officer of PETROS.",
+      "content_url": "https://w.media/softbank-grab-petros-ink-deal-to-explore-ai-infrastructure-in-sarawak-malaysia/"
+    },
+    {
+      "id": "2026-10-10-281170",
+      "title": "Water constraints in Selangor could slow down data center construction in 2027",
+      "summary": "A research house warned that limited water supply headroom in Selangor between 2027 and 2029 could slow approvals and construction of new data centres in the Malaysian state. Because water availability is assessed before investment, constrained supply may temporarily moderate new projects in one of the country's key data-centre clusters.",
+      "why_it_matters": "Selangor anchors much of Malaysia's data-centre capacity, so water constraints could shift investment to Johor, Penang, or East Malaysia and force operators to budget for recycling and alternative sourcing. It is an early concrete example of water emerging as a binding constraint on APAC data-centre growth.",
+      "score": 68,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "capacity",
+        "power",
+        "construction",
+        "investment"
+      ],
+      "published_at": "2026-10-09T04:15:14Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/water-constraints-in-selangor-could-slow-down-data-center-construction-in-2027/",
+          "type": "rss"
+        }
+      ],
+      "content": "New data center investment and construction could slow down in 2027 in Selangor, Malaysia due to water constraints, a research house said in a note yesterday.\n\n“As water supply is assessed at the pre-investment stage, limited headroom over 2027–2029 may slow approvals of new water-intensive projects, potentially leading to a temporary moderation in new data centre construction awards in 2027,” BIMB Securities Research said.\n\nAs current construction of data centers takes about 18 -24 months for completion, BIMB expects new award activity to pick up again from 2028 due to the completion of Langat 2 Phase 2 water treatment and distribution system, in 2030.\n\nSelangor state water utility, Air Selangor has a planned 2,360 million litres per day (MLD) water treatment plant (WTP) pipeline which could expand capacity by about 37 per cent through 2031. However, this could only support organic growth and projected data center water requirements of 632 MLD, resulting in tight near-term supply. The National Water Services Commission (SPAN) stipulates a 15 per cent reserve margin for water supply in the state.\n\nThe earliest completion of a WTP in the state is the Rasau WTP Stage 1 with 700 MLD capacity which is expected to go onstream in 2027. But BIMB noted that this new capacity will be absorbed by organic growth demand which averages about 3 per cent per year.\n\nDespite the near-term tight headroom, the research house said the completion of Langat 2 Phase 2 (760 MLD) in 2030 and Rasau Stage 2 (700 MLD) in 2031, will lift data center headroom to 523 MLD in 2030 and 931 MLD in 2031 respectively.\n\nIn the long-term, continuing investment in WTP construction and pipeline replacements will ensure demand can be accommodated while near-term constraints can be mitigated by lower-water cooling designs, reclaimed water supply, or a shift to other states such as Johor, BIMB said.",
+      "content_url": "https://w.media/water-constraints-in-selangor-could-slow-down-data-center-construction-in-2027/"
+    },
+    {
+      "id": "2026-10-10-1f7803",
+      "title": "Australian Nvidia-backed AI data centre operator Firmus shelves IPO",
+      "summary": "Firmus Technologies, the Nvidia-backed Australian operator of AI data centres, has shelved its planned initial public offering after would-be investors expressed scepticism. The decision reflects softening sentiment toward AI-infrastructure listings despite the sector's rapid capacity growth.",
+      "why_it_matters": "The pulled IPO is an early sign that public-market investors are scrutinising AI data-centre valuations and funding models more harshly than private backers. Rivals preparing listings will likely face tougher questions on power costs, customer concentration, and Nvidia-linked economics.",
+      "score": 74,
+      "heat": 2,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "ipo",
+        "funding"
+      ],
+      "published_at": "2026-10-09T01:21:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "iTnews",
+          "url": "https://www.itnews.com.au/news/australian-nvidia-backed-ai-data-centre-operator-firmus-shelves-ipo-629529?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+          "type": "rss"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/821194",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Firmus",
+        "NVIDIA",
+        "Firmus Technologies",
+        "Maas Group"
+      ],
+      "content": "Australia's Firmus, a data centre operator backed by Nvidia, shelved its US$5 billion ($7 billion) initial public offering, citing market volatility and conditions, and said it would opt for a private fundraising round instead.\n\nFirmus' IPO would have been the second-largest new share sale in Australia's history but met lukewarm demand, a warning sign that investors remain selective about AI issuers even as the artificial intelligence boom drives global markets.\n\n\"Firmus will now pursue capital from the private markets and consider alternative public and private market options,\" Firmus said in a statement, adding the terms did not correctly reflect the strength of its business and long-term growth outlook.\n\n\"The board therefore concluded that proceeding with the offer was not in the best interests of the company and its shareholders,\" it said.\n\nThe company initially planned to sell its shares at $11 each, giving Firmus an equity valuation of US$30.6 billion, nearly triple the US$10.5 billion valuation it achieved following a fundraising round at the start of August.\n\nFirmus, backed by major AI companies and investors Nvidia and Coatue Management, along with Blackstone and Jane Street, designs and operates modular AI factories using proprietary energy and cooling technology.\n\nIt currently only has two online in Melbourne and Singapore. Five more planned across the Asia-Pacific are in early stages of development.\n\n\"I think the Firmus situation represents an important reality check for the AI investment boom, but I wouldn't interpret it as the beginning of the end of the AI trade,\" said Jun Bei Liu, co-founder of fund manager Ten Cap, who has been critical of the Firmus IPO.\n\n\"There are certainly Firmus-specific issues, particularly around the speed of its valuation increase, the enormous capital requirements and the execution risks associated with delivering its ambitious expansion plans.\"\n\nLiu said there was a broader shift taking place in which investors were becoming more focused on the economics of AI investments, returns on capital and converting infrastructure spending into returns.\n\nCumulative spending globally on data centres alone could top US$30 trillion by 2050, according to a projection by PwC.\n\n### Debt pile worries investors\n\nFirmus has about US$30 billion worth of debt, according to analysts working for the IPO's joint lead managers, meaning the enterprise value would have been about US$60 billion.\n\nThe deal would have made Firmus, founded in 2019, more valuable than some of Australia's longest-established companies.\n\nThe deal's term sheet sent out when the deal launched had said indicative offers for the IPO were already enough to cover the transaction size.\n\nBut potential investors told *Reuters* they were sceptical about the company's burgeoning valuation, ability to execute on its ambitious growth plans and hefty debt pile.\n\nFirmus said in a draft prospectus it would make US$5 billion in annual earnings within five years from its portfolio of data centres, but most of those have yet to be built.\n\nInvestor grew more concerned about Firmus' huge increase in valuation after they were informed earlier this week about the deal's escrow arrangements that would have allowed more than half the stock to be sold by existing investors from the proposed first day of trading.",
+      "content_url": "https://www.itnews.com.au/news/australian-nvidia-backed-ai-data-centre-operator-firmus-shelves-ipo-629529"
+    },
+    {
+      "id": "2026-10-10-27a5c7",
+      "title": "FedEx study sees Asia Pacific semiconductor expansion",
+      "summary": "Geopolitical risks are prompting chipmakers to spread production across Asia Pacific, with 35% planning expansion into new regional markets.",
+      "why_it_matters": "",
+      "score": 62,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "investment",
+        "supply-chain"
+      ],
+      "published_at": "2026-10-09T00:51:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/fedex-study-sees-asia-pacific-semiconductor-expansion",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "FedEx"
+      ],
+      "content": "Fri, 9th Oct 2026 (Yesterday)\nFedEx has published a report on semiconductor and digital infrastructure supply chains in Asia Pacific. The study found that 35% of surveyed semiconductor companies expect to expand manufacturing into additional markets across the region.\n\nProduced with Frost & Sullivan, the report examines how demand from artificial intelligence, high-performance computing, electric vehicles and advanced communications technology is reshaping semiconductor production and logistics in Asia Pacific. The region accounts for about 58% of global semiconductor industry revenue, it said.\n\nSurvey data points to continued regional expansion. Another 25% of respondents said they plan to increase or diversify sourcing within Asia Pacific or globally over the next three years, while 30% identified geopolitical disruption as the biggest challenge to growth.\n\nFedEx surveyed 478 semiconductor industry participants from companies, industry associations and research institutes in Asia Pacific, Europe and North America. Responses were collected in Taipei and covered growth expectations, supply chain strategy, expansion challenges and logistics needs.\n\n### AI demand\n\nThe findings place artificial intelligence and high-performance computing at the centre of semiconductor demand growth. The report also highlights continued demand from electric vehicles, 5G, the internet of things, consumer electronics, medical devices and industrial automation.\n\nBeyond chips, the study examines the equipment needed to support the AI economy, including servers, networking equipment, cooling systems and power solutions. These products often pass through several manufacturing, assembly and testing hubs before deployment, adding complexity to cross-border supply chains.\n\nThat complexity is shaping logistics choices. According to the survey, 44% of respondents said faster international shipping would be the most important factor when choosing logistics and supply chain partners over the next three years.\n\n### Regional roles\n\nThe report describes Asia Pacific as a network of specialised semiconductor hubs rather than a single manufacturing centre. It identifies China as a major materials supplier, consumer market and growing fabrication base, while Taiwan is described as the leading market for advanced semiconductor manufacturing and as accounting for roughly 60% of global foundry output.\n\nSouth Korea is identified as a leading producer of memory chips and advanced fabrication, while Japan is highlighted for equipment, materials and specialist manufacturing inputs. Southeast Asia, meanwhile, is presented as an important base for assembly, packaging and testing operations.\n\nAs a result, design, fabrication, packaging, testing and deployment often take place across multiple countries before a finished product reaches the market. The report says this structure is creating a more interconnected supply chain as companies work to meet rising demand across industries.\n\n### Resilience focus\n\nThe survey suggests companies are putting greater emphasis on resilience alongside efficiency. Geopolitical uncertainty, regulation and customs complexity are among the pressures affecting operations, pushing businesses to diversify manufacturing locations and suppliers.\n\nAccording to the findings, traditional just-in-time models are being supplemented by inventory buffers and broader sourcing strategies. That shift has increased the importance of logistics networks that can handle time-sensitive, high-value shipments across multiple jurisdictions.\n\nNearly four in five respondents identified Taiwan, Southeast Asia, Greater China and Japan as the markets expected to record the largest increase in semiconductor demand over the next three years. The report said this outlook reflects both the strength of established production hubs and the broader regionalisation of supply chains.\n\nFedEx linked the findings to recent changes in its own network, including daily direct flights between Taiwan and South Korea and the expansion of its Taoyuan transhipment centre in Taiwan. It said the changes were intended to handle rising volumes of semiconductor and advanced technology shipments across the region.\n\n\"The next decade of innovation will be shaped not only by advances in semiconductors, but by the strength and resilience of the supply chains that power AI and digital infrastructure,\" said Salil Chari, President, Asia Pacific, FedEx.\n\n\"As investment in AI infrastructure accelerates, businesses are managing increasingly complex supply chains spanning semiconductors, servers, networking equipment, cooling systems and advanced technology components across multiple markets. Resilience, visibility and agility have become strategic advantages. FedEx is helping customers connect these critical supply chains through our extensive APAC network, global reach and specialized logistics capabilities, enabling innovation to move faster from factory floor to data center,\" said Chari.",
+      "content_url": "https://datacenternews.asia/story/fedex-study-sees-asia-pacific-semiconductor-expansion"
+    }
+  ]
+}

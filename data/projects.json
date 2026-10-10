@@ -102968,7 +102968,172 @@
       "last_updated": "2026-10-07",
       "seed": false,
       "capacity_note": "up to 576MW potential"
+    },
+    {
+      "id": "airtrunk-kurri-kurri-data-centre",
+      "name": "AirTrunk Kurri Kurri Data Centre",
+      "operator": "AirTrunk",
+      "region": "australia",
+      "country": "Australia",
+      "city": "Kurri Kurri",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-10-01",
+          "story_id": "2026-10-01-085002"
+        }
+      ],
+      "story_ids": [
+        "2026-10-01-085002"
+      ],
+      "first_seen": "2026-10-01",
+      "last_updated": "2026-10-01",
+      "seed": false
+    },
+    {
+      "id": "cdc-wagga-wagga-campus",
+      "name": "CDC Wagga Wagga Campus",
+      "operator": "CDC Data Centres",
+      "region": "australia",
+      "country": "Australia",
+      "city": "Wagga Wagga",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-09-30",
+          "story_id": "2026-09-30-300df6"
+        }
+      ],
+      "story_ids": [
+        "2026-09-30-300df6"
+      ],
+      "first_seen": "2026-09-30",
+      "last_updated": "2026-09-30",
+      "seed": false
+    },
+    {
+      "id": "brightray-macau-data-center",
+      "name": "BrightRay Macau Data Center",
+      "operator": "BrightRay DC",
+      "region": "china",
+      "country": "China",
+      "city": "",
+      "capacity_mw": 40,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-09-30",
+          "story_id": "2026-09-30-e5fcb5"
+        }
+      ],
+      "story_ids": [
+        "2026-09-30-e5fcb5"
+      ],
+      "first_seen": "2026-09-30",
+      "last_updated": "2026-09-30",
+      "seed": false,
+      "capacity_note": "planned"
+    },
+    {
+      "id": "zerra-queensland-data-centre-campus",
+      "name": "Zerra Queensland Data Centre Campus",
+      "operator": "Zerra",
+      "region": "australia",
+      "country": "Australia",
+      "city": "",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": null,
+      "investor": "Macquarie Capital",
+      "investment": "around US$30 billion",
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-10-03",
+          "story_id": "2026-10-03-5ee17a"
+        }
+      ],
+      "story_ids": [
+        "2026-10-03-5ee17a"
+      ],
+      "first_seen": "2026-10-03",
+      "last_updated": "2026-10-03",
+      "seed": false
     }
   ],
-  "updated_at": "2026-10-07T06:10:41Z"
+  "updated_at": "2026-10-07T12:26:53Z"
 }
