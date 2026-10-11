@@ -173,5 +173,65 @@
     "domain": "edgeconnex.com",
     "category": "Colocation",
     "blurb": "EQT-backed colocation operator spanning edge to hyperscale, with a growing APAC footprint including Indonesia."
+  },
+  "Oracle": {
+    "domain": "oracle.com",
+    "category": "Hyperscale & Cloud",
+    "blurb": "Database and cloud giant pouring capex into GPU-dense OCI regions, with Stargate-scale AI ambitions."
+  },
+  "Meta": {
+    "domain": "meta.com",
+    "category": "Hyperscale & Cloud",
+    "blurb": "Facebook's parent; one of the world's largest data center builders and a major APAC capacity lessee."
+  },
+  "CoreWeave": {
+    "domain": "coreweave.com",
+    "category": "Neocloud & GPU Cloud",
+    "blurb": "The largest pure-play AI neocloud; NVIDIA-backed hyperscale GPU capacity on long-term contracts."
+  },
+  "Nebius": {
+    "domain": "nebius.com",
+    "category": "Neocloud & GPU Cloud",
+    "blurb": "Amsterdam-based AI cloud spun out of Yandex, scaling GPU capacity across Europe and the US."
+  },
+  "Lambda": {
+    "domain": "lambda.ai",
+    "category": "Neocloud & GPU Cloud",
+    "blurb": "US GPU cloud provider serving AI labs and enterprises, expanding into large-scale campuses."
+  },
+  "Crusoe": {
+    "domain": "crusoe.ai",
+    "category": "Neocloud & GPU Cloud",
+    "blurb": "AI infrastructure builder that started on stranded energy; now developing hyperscale GPU campuses."
+  },
+  "IREN": {
+    "domain": "iren.com",
+    "category": "Neocloud & GPU Cloud",
+    "blurb": "Australian-listed bitcoin miner turned AI cloud operator, converting power-rich sites into GPU data centers."
+  },
+  "Applied Digital": {
+    "domain": "applieddigital.com",
+    "category": "Neocloud & GPU Cloud",
+    "blurb": "US developer of purpose-built AI data centers, anchored by long-term neocloud leases."
+  },
+  "Fluidstack": {
+    "domain": "fluidstack.io",
+    "category": "Neocloud & GPU Cloud",
+    "blurb": "GPU cloud provider partnering with governments and labs on sovereign AI capacity."
+  },
+  "GMI Cloud": {
+    "domain": "gmicloud.ai",
+    "category": "Neocloud & GPU Cloud",
+    "blurb": "Taiwan-rooted GPU cloud operating AI data centers across the US and Asia."
+  },
+  "Firmus Technologies": {
+    "domain": "firmus.co",
+    "category": "Neocloud & GPU Cloud",
+    "blurb": "Tasmanian AI infrastructure pioneer behind Sustainable Metal Cloud; listed on the ASX in 2026."
+  },
+  "SharonAI": {
+    "domain": "sharonai.com",
+    "category": "Neocloud & GPU Cloud",
+    "blurb": "Australian neocloud building sovereign GPU capacity with local partners."
   }
 }

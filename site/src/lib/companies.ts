@@ -53,6 +53,7 @@ let companiesCache: Company[] | null = null;
 
 export const CATEGORY_ORDER = [
   'Hyperscale & Cloud',
+  'Neocloud & GPU Cloud',
   'Colocation',
   'Telco & Carrier',
   'Developer & Investor',
@@ -99,6 +100,22 @@ export function loadCompanies(): Company[] {
       projects: [...plist].sort((a, b) => (b.capacity_mw ?? 0) - (a.capacity_mw ?? 0)),
     });
   }
+  // Curated companies with no tracked facilities yet (e.g. hyperscalers
+  // and neoclouds whose APAC builds aren't in the directories) still get
+  // a card — the news section is their main content for now.
+  for (const [name, meta] of Object.entries(CURATED)) {
+    if (byOperator.has(name)) continue;
+    companies.push({
+      name: meta.name ?? name,
+      slug: slugify(name),
+      operator: name,
+      domain: meta.domain ?? null,
+      category: meta.category ?? 'Other operators',
+      blurb: meta.blurb ?? null,
+      stats: { facilities: 0, operational: 0, planned: 0, countries: 0, markets: 0, mw: 0 },
+      projects: [],
+    });
+  }
   companies.sort(
     (a, b) => b.stats.facilities - a.stats.facilities || a.name.localeCompare(b.name),
   );
@@ -123,7 +140,7 @@ const LOGO_DIR = fileURLToPath(new URL('../../public/logos', import.meta.url));
     and committed (Clearbit's logo API shut down in Dec 2025). Resolved at
     build time; null when we have no logo — the card shows a letter avatar. */
 export function logoUrl(domain: string): string | null {
-  for (const ext of ['png', 'svg', 'jpg']) {
+  for (const ext of ['png', 'svg', 'jpg', 'ico', 'webp']) {
     if (existsSync(join(LOGO_DIR, `${domain}.${ext}`))) {
       return `${import.meta.env.BASE_URL}/logos/${domain}.${ext}`;
     }
