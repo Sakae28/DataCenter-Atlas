@@ -5,8 +5,8 @@
     "2026-10-09-fd586c",
     "2026-10-09-910eba",
     "2026-10-09-9471a4",
-    "2026-10-09-f3a8bf",
-    "2026-10-09-96d7fc"
+    "2026-10-09-96d7fc",
+    "2026-10-09-80234c"
   ],
   "stories": [
     {
@@ -171,37 +171,6 @@
       "content_url": "https://www.datacenterdynamics.com/en/news/bitdeer-ai-signs-67mw-ai-cloud-agreement-in-malaysia/"
     },
     {
-      "id": "2026-10-09-728b29",
-      "title": "Wes Maas made a big bet on Firmus. Now his company is paying the price",
-      "summary": "Wes Maas's decision to build a major position in Firmus through Maas Group is now weighing on his company following the neocloud's scrapped IPO. What was framed as a transformative bet on AI infrastructure has instead exposed the construction group to valuation and liquidity risk tied to a single private asset.",
-      "why_it_matters": "The episode highlights the governance and concentration risks of listed companies taking outsized venture-style positions in unlisted AI infrastructure firms, and it may make boards and investors more cautious about similar cross-holdings in the sector.",
-      "score": 68,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "ai",
-        "investment",
-        "ipo"
-      ],
-      "published_at": "2026-10-09T00:27:21Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/companies/infrastructure/maas-group-says-373m-paid-by-firmus-as-ipo-pulled-20261009-p6144i",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Firmus",
-        "Maas Group"
-      ],
-      "content": "Maas has moved to assuage shareholder fears about its exposure to artificial intelligence infrastructure company Firmus Technologies after the latter pulled its proposed $44 billion float because of a lack of investor interest.\n\nMaas, founded by former rugby league footballer Wes Maas, owns a 3.2 per cent stake in Firmus, and has $1.1 billion in contracts for electrical engineering work required for Firmus’ planned data centre network across Australia.\n\nLoading...",
-      "content_url": "https://www.afr.com/companies/infrastructure/maas-group-says-373m-paid-by-firmus-as-ipo-pulled-20261009-p6144i"
-    },
-    {
       "id": "2026-10-09-fdd0b4",
       "title": "Firmus float failure turns to blame game, with brokers at the centre",
       "summary": "In the aftermath of Firmus's failed IPO, recriminations have begun over who bears responsibility, with the brokers who ran the bookbuild at the center of the dispute. Questions are being raised about pricing expectations, deal timing, and how demand was gauged before the float was pulled.",
@@ -233,34 +202,63 @@
       "content_url": "https://www.afr.com/technology/firmus-pulls-plans-for-float-of-the-decade-amid-lukewarm-investor-demand-20261009-p61447"
     },
     {
-      "id": "2026-10-09-49056e",
-      "title": "The fundies who cashed in on Firmus before the IPO dream fizzled",
-      "summary": "",
-      "why_it_matters": "",
-      "score": 60,
+      "id": "2026-10-09-96d7fc",
+      "title": "Singapore passes Digital Infrastructure Bill for data centres, cloud",
+      "summary": "Singapore's Parliament has passed the Digital Infrastructure Bill, creating new licensing regimes for data centers and cloud service providers operating in the city-state. The legislation is designed to strengthen the foundations of the digital economy while imposing environmental sustainability requirements on data center operations.",
+      "why_it_matters": "Operators and cloud providers in Singapore now face formal licensing and compliance obligations, including sustainability mandates, that could raise the cost of doing business but also provide regulatory certainty in a market that has long balanced growth against tight energy and land constraints.",
+      "score": 85,
       "heat": 1,
       "regions": [
-        "australia"
+        "southeast-asia"
       ],
       "topics": [
-        "ai",
-        "investment",
-        "ipo"
+        "regulation",
+        "cloud",
+        "sustainability",
+        "colocation"
       ],
-      "published_at": "2026-10-09T01:00:00Z",
-      "featured": false,
+      "published_at": "2026-10-09T11:05:25Z",
+      "featured": true,
       "sources": [
         {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/markets/equity-markets/the-fundies-who-cashed-in-on-firmus-before-the-ipo-dream-fizzled-20261009-p613t0",
-          "type": "html-list"
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/singapore-passes-digital-infrastructure-bill-for-data-centres-cloud/134831663",
+          "type": "rss"
+        }
+      ],
+      "content": "Singapore's Parliament has passed the Digital Infrastructure Bill, introducing two new licensing regimes. The new law aims to strengthen the foundations of Singapore's digital economy and provide regulatory clarity.It also seeks to ensure the environmental sustainability of data centre operations. The bill was initially tabled in Parliament for its First Reading in September.The new law mandates licensing for data centres with a critical IT load of at least 3 megawatts (MW). Major co-location and cloud data centres with a critical IT load of at least 10MW also fall under this requirement.Additionally, major cloud service providers whose Infrastructure-as-a-Service and Platform-as-a-Service services generate at least S$100 million (US$78.2 million) in average annual revenue from users in Singapore over the past three years are included.Major data centres will be required to implement processes ensuring the physical and cybersecurity of their services. They must also establish business continuity and disaster recovery plans.The Infocomm Media Development Authority (IMDA) must be notified of prescribed cybersecurity incidents or service disruptions. Singapore currently operates more than 1.6GW of existing data centre capacity across 70 facilities, which includes 200MW of new capacity awarded to four operators in August.\n\n- Policy, Land & Power\n- 1 min Read\n\n# Singapore passes Digital Infrastructure Bill for data centres, cloud\n\nSingapore's Parliament has passed the Digital Infrastructure Bill, introducing new licensing regimes for data centres and cloud service providers. This legislation aims to enhance the digital economy's foundation and ensure environmental sustainability in data centre operations.\n\n- Published On Oct 09, 2026 at 04:35 PM IST\n\n## Highlights\n\n- Singapore's Parliament passed the Digital Infrastructure Bill introducing new licensing regimes.\n- Data centres with 3MW IT load and cloud providers with S$100 million revenue require licenses.\n- The law mandates cybersecurity, business continuity, and environmental sustainability for major DCs.\n- IMDA must be notified of cybersecurity incidents and service disruptions by licensed entities.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/singapore-passes-digital-infrastructure-bill-for-data-centres-cloud/134831663"
+    },
+    {
+      "id": "2026-10-09-80234c",
+      "title": "AirTrunk secures US$1.21 billion green loan for Tokyo data center",
+      "summary": "AirTrunk has secured a ¥191.6 billion (US$1.21 billion) green loan to refinance existing debt and fund its TOK1 hyperscale data center in eastern Tokyo. The financing will support expansion of the campus as demand for AI and cloud capacity in Japan continues to climb.",
+      "why_it_matters": "One of the largest green financings in Japan's data center sector, the deal shows lenders remain willing to deploy billion-dollar tickets for credible hyperscale operators even as broader credit conditions tighten, and it underscores how sustainability-linked structures are becoming the default funding route for APAC data center growth.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "investment",
+        "hyperscale",
+        "ai",
+        "financing"
+      ],
+      "published_at": "2026-10-09T10:55:41Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/airtrunk-secures-us1-21-billion-green-loan-for-tokyo-data-center/134831357",
+          "type": "rss"
         }
       ],
       "companies": [
-        "Firmus"
+        "AirTrunk"
       ],
-      "content": "Firmus Technologies’ blockbuster float might be dead in the water, but its meteoric rise in the past year has already beefed up returns for a select group of funds in what has otherwise been a tough time for active managers on the Australian sharemarket.\n\nThe artificial intelligence infrastructure firm pulled its IPO on Friday morning after bankers working on the proposed $44 billion listing veered from discussing the need to rework the float and cutting its valuation, to cancelling the float altogether.\n\nLoading...",
-      "content_url": "https://www.afr.com/markets/equity-markets/the-fundies-who-cashed-in-on-firmus-before-the-ipo-dream-fizzled-20261009-p613t0"
+      "content": "AirTrunk, a hyperscale data center specialist, secured a ¥191.6 billion (US$1.21 billion) green loan to refinance existing debt and fund further development of its TOK1 hyperscale data center campus in eastern Tokyo.The expansion aims to meet growing demand for computing capacity driven by artificial intelligence and cloud services. The loan will fund capital expenditures for additional phases of TOK1, which can ultimately expand to over 300 MW.AirTrunk recently began constructing an expansion that will add more than 100 MW of IT capacity to the campus. This is to meet near-term customer demand, according to a press release.Sumitomo Mitsui Banking Corp. (SMBC), MUFG, Crédit Agricole CIB, and Société Générale acted as global coordinators for the financing. Twelve banks participated as mandated lead arrangers and bookrunners.Robin Khuda, founder and CEO of AirTrunk, stated that Japan is a critical market for cloud and AI. He noted that this financing accelerates the expansion of TOK1 to deliver needed capacity.Masato Hori, AirTrunk associate vice president, treasury Japan, called this the largest data center financing ever completed in Japan. He cited the deep collaboration between AirTrunk and its banking partners.The financing is structured under AirTrunk’s Green Financing Framework and is tied to the company's energy efficiency standards. Margin incentives from the loan will be directed to AirTrunk’s Social Impact Fund in Japan.AirTrunk's total investment in Japan has exceeded ¥1.2 trillion (US$8 billion) across existing and planned projects. Its four Japanese campuses, TOK1, TOK2, OSK1, and OSK2, are expected to provide about 530 MW of total capacity when fully built.\n\n- Investments & Deals\n- 1 min Read\n\n# AirTrunk secures US$1.21 billion green loan for Tokyo data center\n\nAirTrunk secured a ¥191.6 billion (US$1.21 billion) green loan to refinance debt and fund its TOK1 hyperscale data center in eastern Tokyo. This financing supports the expansion of the campus to meet increasing demand for AI and cloud services.\n\n- Published On Oct 09, 2026 at 04:25 PM IST\n\n## Highlights\n\n- AirTrunk secured a US$1.21 billion green loan for its TOK1 data center in Tokyo.\n- The financing will fund additional phases of the TOK1 campus, expanding it to over 300 MW.\n- The expansion addresses rising demand for AI and cloud services in Japan.\n- A consortium of 12 banks, including SMBC and MUFG, participated in the green loan.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/airtrunk-secures-us1-21-billion-green-loan-for-tokyo-data-center/134831357"
     },
     {
       "id": "2026-10-09-f3a8bf",
@@ -359,96 +357,6 @@
       "content_url": "https://theedgemalaysia.com/node/821194"
     },
     {
-      "id": "2026-10-09-ef3001",
-      "title": "Unisem Plans RM396 Million Second-Phase Expansion of Gopeng Plant for AI and Data Center Chip Packaging",
-      "summary": "Unisem (M) Bhd (KL:UNISEM) and its subsidiary plan to invest RM396 million to expand its semiconductor manufacturing plant in Gopeng, Perak, as the group seeks to capture growing demand for advanced chip packaging used in artificial intelligence (AI) and data centres..",
-      "why_it_matters": "",
-      "score": 62,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "semiconductors",
-        "ai",
-        "investment",
-        "manufacturing"
-      ],
-      "published_at": "2026-10-09T05:55:47Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/821171",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Unisem"
-      ],
-      "content": "KUALA LUMPUR (Oct 9): Unisem (M) Bhd (KL:UNISEM) and its subsidiary plan to invest RM396 million to expand its semiconductor manufacturing plant in Gopeng, Perak, as the group seeks to capture growing demand for advanced chip packaging used in artificial intelligence (AI) and data centres.\n\nThe semiconductor assembly and test services provider said the second phase of expansion will increase its manufacturing capacity for wafer bumping and post-bump services, which are used in preparing semiconductor chips for advanced packaging.\n\nIn a filing with Bursa Malaysia on Friday, Unisem said the expansion involves constructing a new production facility with a built-up area of approximately 40,000 sq m, at an estimated cost of RM196 million.\n\nHalf of the facility will be leased to its wholly owned subsidiary, Unisem Advanced Technologies Sdn Bhd, to expand wafer-bumping operations, an advanced semiconductor packaging process.\n\nThe necessary equipment and facility preparation works are expected to cost another RM200 million, bringing the total investment to RM396 million.\n\nUnisem said the expansion is aimed at meeting growing customer demand, particularly for advanced packaging applications in AI, data centres and high-performance computing.\n\nThe project will be funded through a combination of internally generated funds and bank borrowings, although the proportions have yet to be determined.\n\nThe group said the expansion is not expected to materially affect its earnings for the current financial year but should contribute positively once completed and operational.\n\nThe latest expansion follows Unisem's earlier investment in its Gopeng facility, which began construction in March 2022. The first phase was initially estimated to cost RM300 million and was designed to double the production capacity of its existing operations in Ipoh.\n\nIn April this year, Unisem chairman and group managing director John Chia Sin Tet told *The Edge* that the group had invested RM600 million in its Gopeng plant as part of nearly RM1 billion in capital expenditure over three years.\n\nMore recently, CIMB Securities said in a September research note that Gopeng Phase 2 could drive Unisem's next leg of growth, with the expansion expected to support additional wafer-bumping and advanced packaging capacity.\n\nAt the midday break on Friday, Unisem shares were up eight sen or 1.9% at RM4.36, giving the group a market capitalisation of RM7.48 billion.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/821171"
-    },
-    {
-      "id": "2026-10-09-96d7fc",
-      "title": "Singapore passes Digital Infrastructure Bill for data centres, cloud",
-      "summary": "Singapore's Parliament has passed the Digital Infrastructure Bill, creating new licensing regimes for data centers and cloud service providers operating in the city-state. The legislation is designed to strengthen the foundations of the digital economy while imposing environmental sustainability requirements on data center operations.",
-      "why_it_matters": "Operators and cloud providers in Singapore now face formal licensing and compliance obligations, including sustainability mandates, that could raise the cost of doing business but also provide regulatory certainty in a market that has long balanced growth against tight energy and land constraints.",
-      "score": 85,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "regulation",
-        "cloud",
-        "sustainability",
-        "colocation"
-      ],
-      "published_at": "2026-10-09T11:05:25Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/singapore-passes-digital-infrastructure-bill-for-data-centres-cloud/134831663",
-          "type": "rss"
-        }
-      ],
-      "content": "Singapore's Parliament has passed the Digital Infrastructure Bill, introducing two new licensing regimes. The new law aims to strengthen the foundations of Singapore's digital economy and provide regulatory clarity.It also seeks to ensure the environmental sustainability of data centre operations. The bill was initially tabled in Parliament for its First Reading in September.The new law mandates licensing for data centres with a critical IT load of at least 3 megawatts (MW). Major co-location and cloud data centres with a critical IT load of at least 10MW also fall under this requirement.Additionally, major cloud service providers whose Infrastructure-as-a-Service and Platform-as-a-Service services generate at least S$100 million (US$78.2 million) in average annual revenue from users in Singapore over the past three years are included.Major data centres will be required to implement processes ensuring the physical and cybersecurity of their services. They must also establish business continuity and disaster recovery plans.The Infocomm Media Development Authority (IMDA) must be notified of prescribed cybersecurity incidents or service disruptions. Singapore currently operates more than 1.6GW of existing data centre capacity across 70 facilities, which includes 200MW of new capacity awarded to four operators in August.\n\n- Policy, Land & Power\n- 1 min Read\n\n# Singapore passes Digital Infrastructure Bill for data centres, cloud\n\nSingapore's Parliament has passed the Digital Infrastructure Bill, introducing new licensing regimes for data centres and cloud service providers. This legislation aims to enhance the digital economy's foundation and ensure environmental sustainability in data centre operations.\n\n- Published On Oct 09, 2026 at 04:35 PM IST\n\n## Highlights\n\n- Singapore's Parliament passed the Digital Infrastructure Bill introducing new licensing regimes.\n- Data centres with 3MW IT load and cloud providers with S$100 million revenue require licenses.\n- The law mandates cybersecurity, business continuity, and environmental sustainability for major DCs.\n- IMDA must be notified of cybersecurity incidents and service disruptions by licensed entities.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/singapore-passes-digital-infrastructure-bill-for-data-centres-cloud/134831663"
-    },
-    {
-      "id": "2026-10-09-80234c",
-      "title": "AirTrunk secures US$1.21 billion green loan for Tokyo data center",
-      "summary": "AirTrunk has secured a ¥191.6 billion (US$1.21 billion) green loan to refinance existing debt and fund its TOK1 hyperscale data center in eastern Tokyo. The financing will support expansion of the campus as demand for AI and cloud capacity in Japan continues to climb.",
-      "why_it_matters": "One of the largest green financings in Japan's data center sector, the deal shows lenders remain willing to deploy billion-dollar tickets for credible hyperscale operators even as broader credit conditions tighten, and it underscores how sustainability-linked structures are becoming the default funding route for APAC data center growth.",
-      "score": 85,
-      "heat": 1,
-      "regions": [
-        "japan"
-      ],
-      "topics": [
-        "investment",
-        "hyperscale",
-        "ai",
-        "financing"
-      ],
-      "published_at": "2026-10-09T10:55:41Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/airtrunk-secures-us1-21-billion-green-loan-for-tokyo-data-center/134831357",
-          "type": "rss"
-        }
-      ],
-      "companies": [
-        "AirTrunk"
-      ],
-      "content": "AirTrunk, a hyperscale data center specialist, secured a ¥191.6 billion (US$1.21 billion) green loan to refinance existing debt and fund further development of its TOK1 hyperscale data center campus in eastern Tokyo.The expansion aims to meet growing demand for computing capacity driven by artificial intelligence and cloud services. The loan will fund capital expenditures for additional phases of TOK1, which can ultimately expand to over 300 MW.AirTrunk recently began constructing an expansion that will add more than 100 MW of IT capacity to the campus. This is to meet near-term customer demand, according to a press release.Sumitomo Mitsui Banking Corp. (SMBC), MUFG, Crédit Agricole CIB, and Société Générale acted as global coordinators for the financing. Twelve banks participated as mandated lead arrangers and bookrunners.Robin Khuda, founder and CEO of AirTrunk, stated that Japan is a critical market for cloud and AI. He noted that this financing accelerates the expansion of TOK1 to deliver needed capacity.Masato Hori, AirTrunk associate vice president, treasury Japan, called this the largest data center financing ever completed in Japan. He cited the deep collaboration between AirTrunk and its banking partners.The financing is structured under AirTrunk’s Green Financing Framework and is tied to the company's energy efficiency standards. Margin incentives from the loan will be directed to AirTrunk’s Social Impact Fund in Japan.AirTrunk's total investment in Japan has exceeded ¥1.2 trillion (US$8 billion) across existing and planned projects. Its four Japanese campuses, TOK1, TOK2, OSK1, and OSK2, are expected to provide about 530 MW of total capacity when fully built.\n\n- Investments & Deals\n- 1 min Read\n\n# AirTrunk secures US$1.21 billion green loan for Tokyo data center\n\nAirTrunk secured a ¥191.6 billion (US$1.21 billion) green loan to refinance debt and fund its TOK1 hyperscale data center in eastern Tokyo. This financing supports the expansion of the campus to meet increasing demand for AI and cloud services.\n\n- Published On Oct 09, 2026 at 04:25 PM IST\n\n## Highlights\n\n- AirTrunk secured a US$1.21 billion green loan for its TOK1 data center in Tokyo.\n- The financing will fund additional phases of the TOK1 campus, expanding it to over 300 MW.\n- The expansion addresses rising demand for AI and cloud services in Japan.\n- A consortium of 12 banks, including SMBC and MUFG, participated in the green loan.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/airtrunk-secures-us1-21-billion-green-loan-for-tokyo-data-center/134831357"
-    },
-    {
       "id": "2026-10-09-f10ccf",
       "title": "SoftBank, Grab, PETROS ink deal to explore AI infrastructure in Sarawak, Malaysia",
       "summary": "SoftBank Group, Grab Holdings, and Sarawak's state-owned energy firm PETROS have signed a framework agreement to explore building an AI and digital infrastructure platform in the Malaysian state of Sarawak. The pact brings together a global tech investor, Southeast Asia's leading superapp, and the state's energy utility to assess development opportunities.",
@@ -480,6 +388,37 @@
       ],
       "content": "Investment firm SoftBank Group Corp., Southeast Asian superapp Grab Holdings Limited and Sarawak’s state-owned energy firm Petroleum Sarawak Berhad (“PETROS”) yesterday signed a Framework Agreement to explore the development of an artificial intelligence (AI) and digital infrastructure platform in Sarawak, Malaysia, according to the firms’ joint statement yesterday.\n\nUnder the Framework Agreement, the three parties will collaborate to develop a roadmap for the phased development of the project as well as explore opportunities across the wider AI value chain, including AI compute and services, advanced technologies, robotics, local workforce and community development.\n\nSoftBank will contribute its global technology and AI ecosystem, with expertise spanning AI infrastructure, advanced computing, semiconductors and physical AI.\n\nGrab will contribute its Southeast Asian digital ecosystem and extensive regional customer and partner networks while PETROS will bring its experience in harnessing Sarawak’s energy resources to drive economic development. Through PETROS’ Sarawak Gas Roadmap and as Master Developer of the Kuching Low-Carbon Hub (KLCH), PETROS has vast experience in developing energy supply solutions and enabling infrastructure, facilitating local engagement, and strengthening local participation and value creation across Sarawak’s supply chain.\n\nSarawak is seen as having great potential in becoming a destination for AI infrastructure and high-value technology industries.\n\nThe agreement was signed by Masayoshi Son, Chairman and Chief Executive Officer of SoftBank Group Corp.; Anthony Tan, Group Chairman, Chief Executive Officer and Co-Founder of Grab; and Dato Janin Girie, Group Chief Executive Officer of PETROS.",
       "content_url": "https://w.media/softbank-grab-petros-ink-deal-to-explore-ai-infrastructure-in-sarawak-malaysia/"
+    },
+    {
+      "id": "2026-10-09-ef3001",
+      "title": "Unisem Plans RM396 Million Second-Phase Expansion of Gopeng Plant for AI and Data Center Chip Packaging",
+      "summary": "Unisem (M) Bhd (KL:UNISEM) and its subsidiary plan to invest RM396 million to expand its semiconductor manufacturing plant in Gopeng, Perak, as the group seeks to capture growing demand for advanced chip packaging used in artificial intelligence (AI) and data centres..",
+      "why_it_matters": "",
+      "score": 62,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "semiconductors",
+        "ai",
+        "investment",
+        "manufacturing"
+      ],
+      "published_at": "2026-10-09T05:55:47Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/821171",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Unisem"
+      ],
+      "content": "KUALA LUMPUR (Oct 9): Unisem (M) Bhd (KL:UNISEM) and its subsidiary plan to invest RM396 million to expand its semiconductor manufacturing plant in Gopeng, Perak, as the group seeks to capture growing demand for advanced chip packaging used in artificial intelligence (AI) and data centres.\n\nThe semiconductor assembly and test services provider said the second phase of expansion will increase its manufacturing capacity for wafer bumping and post-bump services, which are used in preparing semiconductor chips for advanced packaging.\n\nIn a filing with Bursa Malaysia on Friday, Unisem said the expansion involves constructing a new production facility with a built-up area of approximately 40,000 sq m, at an estimated cost of RM196 million.\n\nHalf of the facility will be leased to its wholly owned subsidiary, Unisem Advanced Technologies Sdn Bhd, to expand wafer-bumping operations, an advanced semiconductor packaging process.\n\nThe necessary equipment and facility preparation works are expected to cost another RM200 million, bringing the total investment to RM396 million.\n\nUnisem said the expansion is aimed at meeting growing customer demand, particularly for advanced packaging applications in AI, data centres and high-performance computing.\n\nThe project will be funded through a combination of internally generated funds and bank borrowings, although the proportions have yet to be determined.\n\nThe group said the expansion is not expected to materially affect its earnings for the current financial year but should contribute positively once completed and operational.\n\nThe latest expansion follows Unisem's earlier investment in its Gopeng facility, which began construction in March 2022. The first phase was initially estimated to cost RM300 million and was designed to double the production capacity of its existing operations in Ipoh.\n\nIn April this year, Unisem chairman and group managing director John Chia Sin Tet told *The Edge* that the group had invested RM600 million in its Gopeng plant as part of nearly RM1 billion in capital expenditure over three years.\n\nMore recently, CIMB Securities said in a September research note that Gopeng Phase 2 could drive Unisem's next leg of growth, with the expansion expected to support additional wafer-bumping and advanced packaging capacity.\n\nAt the midday break on Friday, Unisem shares were up eight sen or 1.9% at RM4.36, giving the group a market capitalisation of RM7.48 billion.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/821171"
     },
     {
       "id": "2026-10-09-281170",
@@ -588,6 +527,37 @@
       "content_url": "https://www.datacenterdynamics.com/en/news/neocloud-firmus-cancels-ipo-blames-market-volatility/"
     },
     {
+      "id": "2026-10-09-49056e",
+      "title": "The fundies who cashed in on Firmus before the IPO dream fizzled",
+      "summary": "",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "ipo"
+      ],
+      "published_at": "2026-10-09T01:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/markets/equity-markets/the-fundies-who-cashed-in-on-firmus-before-the-ipo-dream-fizzled-20261009-p613t0",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Firmus"
+      ],
+      "content": "Firmus Technologies’ blockbuster float might be dead in the water, but its meteoric rise in the past year has already beefed up returns for a select group of funds in what has otherwise been a tough time for active managers on the Australian sharemarket.\n\nThe artificial intelligence infrastructure firm pulled its IPO on Friday morning after bankers working on the proposed $44 billion listing veered from discussing the need to rework the float and cutting its valuation, to cancelling the float altogether.\n\nLoading...",
+      "content_url": "https://www.afr.com/markets/equity-markets/the-fundies-who-cashed-in-on-firmus-before-the-ipo-dream-fizzled-20261009-p613t0",
+      "published_precision": "day"
+    },
+    {
       "id": "2026-10-09-85c61b",
       "title": "Interactive: Why the Asean Power Grid's future lies in subsea cables",
       "summary": "Some of the world’s longest subsea power cables could be laid in the region, if vision can translate to action",
@@ -644,6 +614,37 @@
       ],
       "content": "FedEx has published a report on semiconductor and digital infrastructure supply chains in Asia Pacific. The study found that 35% of surveyed semiconductor companies expect to expand manufacturing into additional markets across the region.\n\nProduced with Frost & Sullivan, the report examines how demand from artificial intelligence, high-performance computing, electric vehicles and advanced communications technology is reshaping semiconductor production and logistics in Asia Pacific. The region accounts for about 58% of global semiconductor industry revenue, it said.\n\nSurvey data points to continued regional expansion. Another 25% of respondents said they plan to increase or diversify sourcing within Asia Pacific or globally over the next three years, while 30% identified geopolitical disruption as the biggest challenge to growth.\n\nFedEx surveyed 478 semiconductor industry participants from companies, industry associations and research institutes in Asia Pacific, Europe and North America. Responses were collected in Taipei and covered growth expectations, supply chain strategy, expansion challenges and logistics needs.\n\n### AI demand\n\nThe findings place artificial intelligence and high-performance computing at the centre of semiconductor demand growth. The report also highlights continued demand from electric vehicles, 5G, the internet of things, consumer electronics, medical devices and industrial automation.\n\nBeyond chips, the study examines the equipment needed to support the AI economy, including servers, networking equipment, cooling systems and power solutions. These products often pass through several manufacturing, assembly and testing hubs before deployment, adding complexity to cross-border supply chains.\n\nThat complexity is shaping logistics choices. According to the survey, 44% of respondents said faster international shipping would be the most important factor when choosing logistics and supply chain partners over the next three years.\n\n### Regional roles\n\nThe report describes Asia Pacific as a network of specialised semiconductor hubs rather than a single manufacturing centre. It identifies China as a major materials supplier, consumer market and growing fabrication base, while Taiwan is described as the leading market for advanced semiconductor manufacturing and as accounting for roughly 60% of global foundry output.\n\nSouth Korea is identified as a leading producer of memory chips and advanced fabrication, while Japan is highlighted for equipment, materials and specialist manufacturing inputs. Southeast Asia, meanwhile, is presented as an important base for assembly, packaging and testing operations.\n\nAs a result, design, fabrication, packaging, testing and deployment often take place across multiple countries before a finished product reaches the market. The report says this structure is creating a more interconnected supply chain as companies work to meet rising demand across industries.\n\n### Resilience focus\n\nThe survey suggests companies are putting greater emphasis on resilience alongside efficiency. Geopolitical uncertainty, regulation and customs complexity are among the pressures affecting operations, pushing businesses to diversify manufacturing locations and suppliers.\n\nAccording to the findings, traditional just-in-time models are being supplemented by inventory buffers and broader sourcing strategies. That shift has increased the importance of logistics networks that can handle time-sensitive, high-value shipments across multiple jurisdictions.\n\nNearly four in five respondents identified Taiwan, Southeast Asia, Greater China and Japan as the markets expected to record the largest increase in semiconductor demand over the next three years. The report said this outlook reflects both the strength of established production hubs and the broader regionalisation of supply chains.\n\nFedEx linked the findings to recent changes in its own network, including daily direct flights between Taiwan and South Korea and the expansion of its Taoyuan transhipment centre in Taiwan. It said the changes were intended to handle rising volumes of semiconductor and advanced technology shipments across the region.\n\n\"The next decade of innovation will be shaped not only by advances in semiconductors, but by the strength and resilience of the supply chains that power AI and digital infrastructure,\" said Salil Chari, President, Asia Pacific, FedEx.\n\n\"As investment in AI infrastructure accelerates, businesses are managing increasingly complex supply chains spanning semiconductors, servers, networking equipment, cooling systems and advanced technology components across multiple markets. Resilience, visibility and agility have become strategic advantages. FedEx is helping customers connect these critical supply chains through our extensive APAC network, global reach and specialized logistics capabilities, enabling innovation to move faster from factory floor to data center,\" said Chari.",
       "content_url": "https://datacenternews.asia/story/fedex-study-sees-asia-pacific-semiconductor-expansion"
+    },
+    {
+      "id": "2026-10-09-728b29",
+      "title": "Wes Maas made a big bet on Firmus. Now his company is paying the price",
+      "summary": "Wes Maas's decision to build a major position in Firmus through Maas Group is now weighing on his company following the neocloud's scrapped IPO. What was framed as a transformative bet on AI infrastructure has instead exposed the construction group to valuation and liquidity risk tied to a single private asset.",
+      "why_it_matters": "The episode highlights the governance and concentration risks of listed companies taking outsized venture-style positions in unlisted AI infrastructure firms, and it may make boards and investors more cautious about similar cross-holdings in the sector.",
+      "score": 68,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "ipo"
+      ],
+      "published_at": "2026-10-09T00:27:21Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/infrastructure/maas-group-says-373m-paid-by-firmus-as-ipo-pulled-20261009-p6144i",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Firmus",
+        "Maas Group"
+      ],
+      "content": "Maas has moved to assuage shareholder fears about its exposure to artificial intelligence infrastructure company Firmus Technologies after the latter pulled its proposed $44 billion float because of a lack of investor interest.\n\nMaas, founded by former rugby league footballer Wes Maas, owns a 3.2 per cent stake in Firmus, and has $1.1 billion in contracts for electrical engineering work required for Firmus’ planned data centre network across Australia.\n\nLoading...",
+      "content_url": "https://www.afr.com/companies/infrastructure/maas-group-says-373m-paid-by-firmus-as-ipo-pulled-20261009-p6144i"
     },
     {
       "id": "2026-10-09-660091",
