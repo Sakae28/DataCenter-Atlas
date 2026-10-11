@@ -1,7 +1,8 @@
 ---
 /**
  * One story row on the digest timeline: rail time + card. Shared by the
- * homepage (index.astro) and the per-day archive pages (day/[date].astro).
+ * homepage (index.astro) and the per-day archive pages (day/[date].astro),
+ * in both languages (lang prop).
  */
 import Icon from './Icon.astro';
 import FavButton from './FavButton.astro';
@@ -14,6 +15,7 @@ import {
   REGION_LABELS,
   type NewsStory,
 } from '../lib/news';
+import { t, lf, langPrefix, REGION_LABELS_ZH, type Lang } from '../lib/i18n';
 
 interface Props {
   story: NewsStory;
@@ -24,71 +26,81 @@ interface Props {
   project?: { id: string; name: string };
   /** Canonical company/operator name (lowercased) → directory slug. */
   companySlugByName: Map<string, string>;
+  lang?: Lang;
 }
 
-const { story, dayDate, project, companySlugByName } = Astro.props;
+const { story, dayDate, project, companySlugByName, lang = 'en' } = Astro.props;
 const base = import.meta.env.BASE_URL;
+const prefix = langPrefix(lang);
+const regionLabel = (r: string) =>
+  lang === 'zh'
+    ? (REGION_LABELS_ZH[r as keyof typeof REGION_LABELS_ZH] ?? r)
+    : (REGION_LABELS[r as keyof typeof REGION_LABELS] ?? r);
+const title = lf(story, 'title', lang);
+const summary = lf(story, 'summary', lang);
+const why = lang === 'zh' && story.why_zh ? story.why_zh : story.why_it_matters;
+const dayOnlyTipZh = `${formatDate(story.published_at.slice(0, 10), lang)} — 具体时间未知（来源只提供了日期）`;
 ---
 
-<div class="story-row" data-id={story.id} data-regions={story.regions.join(' ')} data-search={`${story.title} ${story.summary} ${(story.companies ?? []).join(' ')}`.toLowerCase()}>
+<div class="story-row" data-id={story.id} data-regions={story.regions.join(' ')} data-search={`${story.title} ${story.title_zh ?? ''} ${story.summary} ${story.summary_zh ?? ''} ${(story.companies ?? []).join(' ')}`.toLowerCase()}>
   <div class="story-rail" aria-hidden="true">
-    <time class="rail-time js-time" class:list={[{ 'rail-time--day': story.published_precision === 'day' }]} data-time-format="rail" data-day={dayDate} data-precision={story.published_precision} data-ts={story.published_at} datetime={story.published_at} title={story.published_precision === 'day' ? `${formatDate(story.published_at.slice(0, 10))} — exact time unknown (the source published only a date)` : formatDateTime(story.published_at)}>{story.published_precision === 'day' ? '—' : formatTime(story.published_at)}</time>
+    <time class="rail-time js-time" class:list={[{ 'rail-time--day': story.published_precision === 'day' }]} data-time-format="rail" data-day={dayDate} data-precision={story.published_precision} data-ts={story.published_at} datetime={story.published_at} title={story.published_precision === 'day' ? (lang === 'zh' ? dayOnlyTipZh : `${formatDate(story.published_at.slice(0, 10))} — exact time unknown (the source published only a date)`) : formatDateTime(story.published_at, lang)}>{story.published_precision === 'day' ? '—' : formatTime(story.published_at)}</time>
     <span class="rail-dot"></span>
   </div>
   <article class="story-card">
     <div class="story-top">
       <div class="story-origin">
         <span class="story-source-name">{sourceDisplayName(story.sources[0], story)}</span>
-        {story.featured && <span class="badge featured">Featured</span>}
+        {story.featured && <span class="badge featured">{t(lang, 'common.featured')}</span>}
       </div>
       <div class="story-actions">
         {story.score !== null && (
-          <span class="ai-score" title="AI relevance score (0–100): how central this story is to the APAC data center industry">AI score {story.score}/100</span>
+          <span class="ai-score" title={t(lang, 'common.aiScoreTip')}>AI score {story.score}/100</span>
         )}
         <FavButton type="news" id={story.id} />
       </div>
     </div>
     <h3 class="story-title">
-      <a class="stretched-link" href={`${base}/news/${story.id}/`}>{story.title}</a>
+      <a class="stretched-link" href={`${base}${prefix}/news/${story.id}/`}>{title}</a>
     </h3>
-    {hasDistinctSummary(story.title, story.summary) && (
-      <p class="story-summary">{story.summary}</p>
+    {hasDistinctSummary(title, summary) && (
+      <p class="story-summary">{summary}</p>
     )}
     <div class="story-tags">
       {story.regions.map((r) => (
-        <span class="chip region">{REGION_LABELS[r]}</span>
+        <span class="chip region">{regionLabel(r)}</span>
       ))}
       {story.companies?.map((c) => {
         const slug = companySlugByName.get(c.toLowerCase());
         return slug ? (
-          <a class="chip company chip-link" href={`${base}/companies/${slug}/`}>{c}</a>
+          <a class="chip company chip-link" href={`${base}${prefix}/companies/${slug}/`}>{c}</a>
         ) : (
           <span class="chip company">{c}</span>
         );
       })}
-      {story.topics.map((t) => (
-        <span class="chip topic">#{t}</span>
+      {story.topics.map((tp) => (
+        <span class="chip topic">#{tp}</span>
       ))}
     </div>
     {project && (
-      <a class="project-link" href={`${base}/projects/${project.id}/`}>
-        <Icon name="server" size={12} />Project: {project.name}
+      <a class="project-link" href={`${base}${prefix}/projects/${project.id}/`}>
+        <Icon name="server" size={12} />{t(lang, 'common.projectLabel')} {project.name}
       </a>
     )}
     {story.sources.length > 1 && (
       <p class="also-reported">
-        Also reported by{' '}
+        {t(lang, 'common.alsoReported')}{' '}
         {story.sources.slice(1).map((s, i) => (
           <>
-            <a href={s.url}>{sourceDisplayName(s, story)}</a>{i < story.sources.length - 2 ? ', ' : ''}
+            <a href={s.url}>{sourceDisplayName(s, story)}</a>{i < story.sources.length - 2 ? (lang === 'zh' ? '、' : ', ') : ''}
           </>
         ))}
       </p>
     )}
-    {story.why_it_matters && (
+    {why && (
       <p class="why-it-matters">
-        <span class="why-label">Why it matters</span>
-        {story.why_it_matters}
+        <span class="why-label">{t(lang, 'common.whyItMatters')}</span>
+        {why}
       </p>
     )}
   </article>

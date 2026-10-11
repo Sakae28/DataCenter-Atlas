@@ -13,9 +13,10 @@ interface Props {
   label: string;
   /** Project status — keys the pin color (same palette as the HeatMap pins). */
   status: 'announced' | 'under_construction' | 'operational' | 'on_hold' | 'cancelled';
+  lang?: import('../lib/i18n').Lang;
 }
 
-const { lat, lon, label, status } = Astro.props;
+const { lat, lon, label, status, lang = 'en' } = Astro.props;
 ---
 
 <div
@@ -24,7 +25,7 @@ const { lat, lon, label, status } = Astro.props;
   data-lon={lon}
   data-status={status}
   role="img"
-  aria-label={`Map showing the location of ${label}`}
+  aria-label={lang === 'zh' ? `显示 ${label} 位置的地图` : `Map showing the location of ${label}`}
 ></div>
 
 <script>

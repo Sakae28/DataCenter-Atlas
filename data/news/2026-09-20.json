@@ -38,7 +38,10 @@
       "companies": [
         "Nippon Life Insurance",
         "Nippon Life"
-      ]
+      ],
+      "title_zh": "Nippon Life计划投入130亿美元用于数据中心融资，重点在美国",
+      "summary_zh": "东京——日本生命保险公司计划投资2万亿日元（127亿美元）用于基础设施融资，其中包括在美国建设数据中心。",
+      "why_zh": "日本保险公司正成为美国数据中心建设的重要债务与融资新来源,在高昂建设成本和激烈的项目资金竞争之下,这可能缓解开发商面临的资本约束。"
     },
     {
       "id": "2026-09-20-000497",
@@ -61,7 +64,10 @@
         }
       ],
       "content": "The Telangana government has allotted a 10-acre land parcel to the State Bank of India (SBI) in Meerkhanpet for its planned data centre project within Bharat Future City. This development positions Bharat Future City as an emerging hub for AI and data centre infrastructure in India, attracting various significant investments already.Seven acres of the land were provided to SBI in exchange for disputed land at Raidurg, while the bank will purchase the remaining three acres. This resolution concludes a dispute between the state government and SBI concerning nearly five acres of land in Raidurg, clearing the path for the data centre's development.\n\n- Policy, Land & Power\n- 1 min Read\n\n# SBI secures 10 acres for data centre in Bharat Future City\n\nSBI has been allotted a 10-acre land parcel in Meerkhanpet for its proposed data centre, to be located in Bharat Future City. This allocation follows the resolution of a long-standing land dispute with the state government.\n\n- Published On Sep 19, 2026 at 07:55 AM IST\n\n## Highlights\n\n- SBI secures 10 acres in Meerkhanpet for a new data centre.\n- Project location is Bharat Future City, an emerging AI and data centre hub.\n- Land allocation resolves a prior dispute over five acres at Raidurg.\n- Telangana government supports infrastructure growth with this allotment.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/sbi-secures-10-acres-for-data-centre-in-bharat-future-city/134346656"
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/sbi-secures-10-acres-for-data-centre-in-bharat-future-city/134346656",
+      "title_zh": "SBI在Bharat Future City拿下10英亩土地建设数据中心",
+      "summary_zh": "SBI已获分配位于Meerkhanpet的一块10英亩土地，用于其拟建的数据中心，该数据中心将坐落于Bharat Future City。此次分配是在其与邦政府长期土地纠纷得到解决之后进行的。",
+      "why_zh": "随着土地障碍被扫除,印度最大的银行之一得以推进其自建自用数据中心容量,这进一步强化了大型金融机构在印度数据中心市场加速发展之际将关键基础设施内化的趋势。"
     },
     {
       "id": "2026-09-20-725f96",
@@ -82,7 +88,10 @@
           "url": "https://www.datacenterdynamics.com/en/news/virginias-loudoun-county-board-votes-to-pause-new-data-center-applications/",
           "type": "rss"
         }
-      ]
+      ],
+      "title_zh": "弗吉尼亚州Loudoun县委员会投票暂停受理新的数据中心申请",
+      "summary_zh": "该县在数据中心热点地区推出为期12个月的暂停令",
+      "why_zh": "北弗吉尼亚核心枢纽的冻结可能将需求引导至邻近辖区和美国二级市场,同时给hyperscalers带来更多阻力——它们的容量储备依赖于该地区可预测的审批时限。"
     },
     {
       "id": "2026-09-20-bfba85",
@@ -105,7 +114,10 @@
         }
       ],
       "content": "Insatiable demand is outpacing traditional procurement. Fragmented purchasing and \"just get it here\" mindsets quietly turn logistics into your biggest expense, driving up rework, operational distraction, and costly emergency shipping.\n\nIt doesn't have to be this way. Standardization doesn't mean rigid, off-the-shelf limits, it means smarter data, predictable availability, and managed inventory tailored to how your teams actually work.\n\n### Download this guide to uncover how to\n\n- Shift to proactive BOM/spares management to drastically cut emergency shipments.\n- Reduce guesswork under pressure so new teams perform faster.\n- Gain clear inventory visibility to expand capacity without adding headcount or complexity",
-      "content_url": "https://www.datacenterdynamics.com/en/whitepapers/2026-guide-to-navigating-data-center-supply-chain-complexity/"
+      "content_url": "https://www.datacenterdynamics.com/en/whitepapers/2026-guide-to-navigating-data-center-supply-chain-complexity/",
+      "title_zh": "隐性成本",
+      "summary_zh": "2026年应对数据中心供应链复杂性的指南",
+      "why_zh": "在建设和设备成本持续波动的背景下,误判供应链复杂性的运营商面临预算超支和交付延迟的风险——这使得采购与物流规划在项目经济性中与电力和土地同等关键。"
     },
     {
       "id": "2026-09-20-756844",
@@ -128,7 +140,10 @@
         }
       ],
       "content": "On Tuesday, September 15, during a ceremony at the Planalto Palace, President Luiz Inácio Lula da Silva (PT) signed Bill 278/2026 into law, establishing the Special Taxation Regime for Data Center Services (aka ReData).\n\nThe law creates tax incentives for the establishment of data processing centers in the country, with a focus on facilities dedicated to cloud computing and artificial intelligence.\n\nThe bill was approved by the Senate on September 1, without any substantive changes from the version that came from the Chamber of Deputies, where it had been passed in February under urgent procedure, without going through the committees.\n\nThe Senate rapporteur, Senator Cid Gomes (PSB), reportedly made only editorial adjustments to prevent the bill from returning to the Chamber of Deputies.\n\nThe program provides for the suspension of import duties, the IPI tax, the PIS/Pasep taxes, and the COFINS tax — including those on imports — levied on the purchase, in the domestic or foreign market, of information and communication technology equipment and components intended for data centers.\n\nThis benefit may be enjoyed for up to five years and becomes a permanent exemption after obligations are fulfilled.\n\nIn the case of the Import Tax, the benefit applies only to products with no equivalent manufactured in Brazil, and the Manaus Free Trade Zone retains specific treatment, with the IPI suspension not applying to certain items produced in the region.\n\nAccording to government estimates, the tax waiver will total approximately 5.2 billion reais ($1bn) in 2026, with 1 billion reais ($193.7m) projected for each of the following two years. Data from the Ministry of Finance indicate that approximately 60 percent of the data and artificial intelligence resources used in Brazil are processed abroad, a trend attributed, in part, to tax costs.\n\nIn contrast, companies registered with ReData will be required to allocate at least 10 percent of their data processing, storage, and handling capacity to the Brazilian market, without the option to export or retain that portion; comply with sustainability criteria, including the use of electricity from renewable or low-emission sources; maintain a Water Efficiency Index of no more than 0.05 liters of water per kilowatt-hour; and invest in the country an amount equivalent to two percent of the value of products purchased using the benefits. Companies located in the North, Northeast, Midwest, or in areas covered by regional development agencies have these requirements reduced to eight percent and 1.6 percent, respectively, and at least 40 percent of investments intended to stimulate the digital economy must be directed to these regions.\n\nFailure to comply with these obligations may result in the collection of suspended taxes, with interest and penalties, and, in the case of the domestic market supply target, the suspension of benefits for new purchases, which will result in the revocation of eligibility if the noncompliance is not corrected within 180 days. Entry into the program will require authorization from the Ministry of Finance, and oversight will be the responsibility of that ministry and the Ministry of Development, Industry, Trade, and Services.\n\n*This piece was translated from DCD's Portuguese site and edited by a member of DCD staff.*",
-      "content_url": "https://www.datacenterdynamics.com/en/news/president-lula-signs-bill-at-the-planalto-palace/"
+      "content_url": "https://www.datacenterdynamics.com/en/news/president-lula-signs-bill-at-the-planalto-palace/",
+      "title_zh": "巴西总统Lula签署ReData数据中心法案使其正式成为法律",
+      "summary_zh": "该法案于9月在参议院获得通过",
+      "why_zh": "专门的法律框架降低了关注拉美最大数据中心市场的投资者所面临的监管不确定性,随着hyperscalers和本地企业获得更清晰的运营与激励规则,这可能释放新一轮建设浪潮。"
     },
     {
       "id": "2026-09-20-0a675c",
@@ -154,7 +169,10 @@
       "content_url": "https://www.datacenterdynamics.com/en/news/eveo-accelerates-expansion-in-the-northeast-and-will-have-a-tier-iii-data-center-in-recife/",
       "companies": [
         "Eveo"
-      ]
+      ],
+      "title_zh": "巴西Eveo计划在累西腓建设数据中心",
+      "summary_zh": "该公司正在Fortaleza、São Paulo和Curitiba扩建站点",
+      "why_zh": "Eveo此举反映出巴西东南部枢纽以外地区对数据中心容量的需求正在上升,并使东北部地区的企业在数字化普及超越主要大都市的趋势下获得更低延迟的本地基础设施。"
     },
     {
       "id": "2026-09-20-534edc",
@@ -181,7 +199,10 @@
         }
       ],
       "content": "Data center expansion is massively outpacing available talent, as the industry strains under the weight of its own growth, according to the results of *DCD Intelligence’s* new workforce survey.\n\nStaffing is stretched thin across all sectors, with more than two-thirds of developers and operators reporting staffing levels below what their operations require. Nearly a third are operating at under 80 percent of demand.\n\nThese issues are reflected across all critical areas, where gaps risk reduced performance and increased downtime, the report said, with the shortages most acute in facilities and physical infrastructure, power and cooling systems, and IT operations.\n\nThese shortages are largely down to recruitment issues and lack of available talent, with nearly half of respondents to the survey stating that a lack of technical knowledge in prospective hires was the biggest barrier to entry. Respondents also cited low industry awareness as an issue.\n\nThe survey also examined how organizations are hiring and where they are sourcing new talent from. Organizations are increasingly looking toward adjacent technical infrastructure and utilities sectors to fill roles, with cross-hires from the telecoms industry falling into third place.\n\nFluid dynamics and power expertise were the biggest drivers of workforce expansion, with respondents looking to power and water utilities and the oil and gas industry to fill these roles.\n\nOrganizations are also looking to expand education-based pathways, including internships, apprenticeship programs, and university programs.\n\n“Looking across these different issues, the one clear thread is that the industry is lacking structure in its recruitment and training processes. Staffing gaps, poor onboarding, inconsistent training, and slow upskilling are all caused by the absence of consistent and deliberate systems for building and sustaining talent,” the report said.\n\n“The organizations best positioned to win out of the industry’s explosive growth are those that treat their workforce development as core infrastructure to their businesses. Investing in deliberately structured training and standardized onboarding are a must, as is upskilling staff on AI and other new technologies coming into use in the industry. Without a shift in this regard, skill gaps and recruitment shortages will continue, and could widen in the coming years as the pace of technological change continues to accelerate.”",
-      "content_url": "https://www.datacenterdynamics.com/en/news/dcd-intelligence-data-center-expansion-is-outpacing-talent/"
+      "content_url": "https://www.datacenterdynamics.com/en/news/dcd-intelligence-data-center-expansion-is-outpacing-talent/",
+      "title_zh": "DCD Intelligence：数据中心扩张速度超过人才供给",
+      "summary_zh": "超过三分之二的受访者表示人员配备低于运营需求",
+      "why_zh": "随着新容量投产的速度超过工程师和技术人员的招聘与培训速度,运营商面临投产延迟、加班负担加重以及人员流失率上升——这一约束可能拖慢市场所依赖的扩张步伐。"
     },
     {
       "id": "2026-09-20-fdb658",
@@ -207,7 +228,10 @@
       "content_url": "https://www.datacenterdynamics.com/en/news/pgim-sells-data-center-development-site-in-munich/",
       "companies": [
         "PGIM"
-      ]
+      ],
+      "title_zh": "PGIM出售慕尼黑数据中心开发用地",
+      "summary_zh": "买家未具名",
+      "why_zh": "该交易表明欧洲供应紧张市场中开发用地的交易活跃,那里可随时开工的数据中心地块稀缺——同时也显示尽管融资成本上升,投资者仍愿意为优质地段支付溢价。"
     },
     {
       "id": "2026-09-20-3fc8c9",
@@ -234,7 +258,10 @@
       "companies": [
         "Gazprom",
         "Crypto Energy"
-      ]
+      ],
+      "title_zh": "据报道，Gazprom与Crypto Energy合作，在西伯利亚气田部署模块化数据中心",
+      "summary_zh": "该试点项目将利用Yamalo-Nenets自治区一处枯竭气田的天然气",
+      "why_zh": "该试点项目展示了能源生产商如何利用模块化数据中心将原本无法销售的天然气转化为算力收入——这一模式可能在偏远能源资产中推广,并重塑高耗能计算的选址格局。"
     },
     {
       "id": "2026-09-20-fdf5d2",
@@ -260,7 +287,10 @@
       "content_url": "https://www.datacenterdynamics.com/en/news/russia-claims-strikes-on-de-novo-data-center-in-kyiv-ukraine/",
       "companies": [
         "De Novo"
-      ]
+      ],
+      "title_zh": "俄罗斯声称对乌克兰基辅的De Novo数据中心发动袭击",
+      "summary_zh": "这些袭击是更广泛基础设施攻击的一部分",
+      "why_zh": "针对数据中心的攻击提高了乌克兰云服务和托管业务的韧性要求,可能加速数据向海外迁移,并增加乌克兰企业及其服务商对冗余、地理分布式容量的需求。"
     }
   ]
 }

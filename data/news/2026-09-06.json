@@ -36,7 +36,10 @@
         "Vocus"
       ],
       "content": "## Key points\n\n- Vocus is grappling with a cable break on its Australia Singapore Cable (ASC) system between Perth and Singapore, following a shunt fault on the second major cable on the route weeks earlier.\n- COTDR testing from the Perth cable landing station has pinpointed the break to Indonesian waters between Anyer and Singapore, with Vocus now coordinating marine repairs, spare materials and regulatory approvals.\n- Internet traffic has been rerouted via alternate paths, with network engineers on Reddit reporting traffic shifting to Australian east coast cables and then through Japan or the United States.\n\nVocus is dealing with a break on its Australia Singapore Cable (ASC) system that runs between Perth and Singapore, weeks after the second major cable on the route experienced a shunt fault.\n\nThe problems with ASC began Friday night and were traced to a cable break between Anyer, which sits about 80km west of Jakarta, and Singapore, in Indonesian waters.\n\nVocus said in status updates that coherent optical time domain reflectometry (COTDR) testing from its Perth cable landing station had provided a more “accurate measurement of the cable break location.”\n\n”[We are] working closely with its marine repair partner to progress repair readiness, including reviewing the latest diagnostic results, confirming the required spare materials, and coordinating the necessary permits and regulatory approvals,” it said in its most recent status update.\n\nThe transmission operator said that internet traffic had been “rerouted via alternate paths”.\n\nWhat this means will vary by internet service provider or other organisations that rely on west coast subsea paths to route traffic to Singapore and beyond.\n\nBut network engineers posting to Reddit indicated that traffic was rerouting to cables on Australian east coast, and then via countries such as Japan or the United States.\n\nThe last published status updates for Indigo West indicated a repair timeframe in the first part of September.",
-      "content_url": "https://www.itnews.com.au/news/vocus-hit-by-australia-singapore-cable-break-628720"
+      "content_url": "https://www.itnews.com.au/news/vocus-hit-by-australia-singapore-cable-break-628720",
+      "title_zh": "Australia Singapore Cable在印尼海域中断,Vocus受到波及",
+      "summary_zh": "Vocus报告Australia Singapore Cable发生故障，该海缆在印尼海域发生断裂，导致连接澳大利亚与东南亚的海底线路容量中断。目前流量已被重新路由，维修作业正在安排中，而印尼海域的船只可用性和许可要求通常将决定恢复时间。",
+      "why_zh": "在印度尼西亚这类航运繁忙、审批繁琐的水域，海底光缆断裂可能需要数周才能修复，这对运营商和云服务客户的网络冗余构成考验。此次事件凸显了澳大利亚与亚洲之间连接线路的脆弱性，以及路由多样性日益提升的重要性。"
     },
     {
       "id": "2026-09-06-578046",
@@ -69,7 +72,10 @@
       ],
       "content": "Macquarie Asset Management did not submit an indicative offer for the Stack portfolio, multiple sources told Street Talk on the condition of anonymity. That’s despite it hiring two investment banks, UBS and Goldman Sachs, for advice on funding and diligence.\n\nLoading...\n\nSarah Thompson has co-edited Street Talk since 2009, specialising in private equity, investment banking, M&A and equity capital markets stories. Prior to that, she spent 10 years in London as a markets and M&A reporter at Bloomberg and Dow Jones. Email Sarah at sarah.thompson@afr.com\n\nAngira Bharadwaj is a co-editor of Street Talk. She covers IPOs, capital raises, mergers and acquisitions and other breaking news in Australia’s capital markets. Previously, she covered financial services, state, and federal politics. Send tips to @angirab.60 on encrypted messaging platform Signal. Email Angira at angira.bharadwaj@nine.com.au",
       "content_url": "https://www.afr.com/street-talk/macquarie-passes-on-stack-infra-s-28b-plus-data-centres-as-bids-land-20260906-p60uvm",
-      "published_precision": "day"
+      "published_precision": "day",
+      "title_zh": "竞标落地,Macquarie放弃收购Stack Infrastructure超280亿美元数据中心资产",
+      "summary_zh": "Macquarie已拒绝参与Stack Infrastructure亚太地区数据中心资产组合的出售流程，该资产组合估值超过280亿澳元，目前其他竞购方已提交正式报价。这一决定使这家最知名的基础设施投资者之一退出了竞逐，而该交易有望成为该地区有史以来规模最大的数字基础设施交易之一。其余竞购方目前正在为这个以hyperscale为主的平台筹备报价。",
+      "why_zh": "Macquarie的退出缩小了财力雄厚买家的范围，可能重塑亚太区最大规模数据中心交易之一的定价与结构，进而影响整个行业的估值水平。对运营商和投资者而言，这释放出一个信号：即便是最活跃的基础设施基金，在建设成本上升和利率压力之下，也开始对入场价格精挑细选。"
     },
     {
       "id": "2026-09-06-a9da04",
@@ -97,7 +103,10 @@
         }
       ],
       "content": "CompaniesInfrastructureData centresPrint articleEnergy overtakes land as biggest data centre bottleneckJenny WigginsSenior reporterSep 6, 2026 – 8.00pmSecuring access to power has trumped land acquisitions as the biggest hurdle to building new data centres, developers say, as projects worth tens of billions of dollars compete for renewable energy contracts amid surging demand.Developers will tell The Australian Financial Review Property Summit on Monday that land is no longer the biggest constraint to development, but that they could have trouble securing enough renewable energy to meet new national standards if additional power is not added to the Australian grid.Loading...SaveLog in or Subscribe to save articleShareCopy linkCopiedEmailLinkedInTwitterFacebookCopy linkCopiedShare via...Gift this articleSubscribe to gift this articleGift 5 articles to anyone you choose each month when you subscribe.Subscribe nowAlready a subscriber? LoginLicense articleRead MoreData centresFirmus GridRenewablesElectricityLatest In InfrastructureFetching latest articlesMost Viewed In Companies",
-      "content_url": "https://www.afr.com/companies/infrastructure/energy-overtakes-land-as-biggest-data-centre-bottleneck-20260906-p60utk"
+      "content_url": "https://www.afr.com/companies/infrastructure/energy-overtakes-land-as-biggest-data-centre-bottleneck-20260906-p60utk",
+      "title_zh": "能源取代土地成为数据中心行业最大瓶颈",
+      "summary_zh": "行业高管和分析师表示，在亚太各市场，确保电力供应已取代土地获取成为数据中心开发的首要制约因素。即使场地可用，并网排队、变电站容量有限以及来自电气化需求的竞争仍在推迟关键枢纽的项目。这一转变正迫使开发商更早地与公用事业公司接洽，并探索自行发电和替代能源方案。",
+      "why_zh": "这标志着选址经济学的根本性重构：过去因廉价土地和连接条件而备受青睐的市场，如今能否赢得项目取决于电力供应。开发商、公用事业公司和政府都面临加快电网投资的压力，而电力受限枢纽地区的运营商则面临多年延期的风险，这可能使容量增长转向能源更易获取的新兴市场。"
     }
   ]
 }

@@ -17,6 +17,7 @@ export interface CompanyMeta {
   domain?: string;
   category?: string;
   blurb?: string;
+  blurb_zh?: string;
 }
 
 export interface CompanyStats {
@@ -39,6 +40,7 @@ export interface Company {
   domain: string | null;
   category: string;
   blurb: string | null;
+  blurb_zh: string | null;
   stats: CompanyStats;
   projects: Project[];
 }
@@ -96,6 +98,7 @@ export function loadCompanies(): Company[] {
       domain: meta?.domain ?? null,
       category: meta?.category ?? 'Other operators',
       blurb: meta?.blurb ?? null,
+      blurb_zh: meta?.blurb_zh ?? null,
       stats,
       projects: [...plist].sort((a, b) => (b.capacity_mw ?? 0) - (a.capacity_mw ?? 0)),
     });
@@ -112,6 +115,7 @@ export function loadCompanies(): Company[] {
       domain: meta.domain ?? null,
       category: meta.category ?? 'Other operators',
       blurb: meta.blurb ?? null,
+      blurb_zh: meta.blurb_zh ?? null,
       stats: { facilities: 0, operational: 0, planned: 0, countries: 0, markets: 0, mw: 0 },
       projects: [],
     });

@@ -1,0 +1,43 @@
+---
+import Base from '../../../layouts/Base.astro';
+import CompanyDetailPage from '../../../components/pages/CompanyDetailPage.astro';
+import { loadCompanies } from '../../../lib/companies';
+import { loadAllStories, type NewsStory } from '../../../lib/news';
+
+export function getStaticPaths() {
+  const allStories = loadAllStories();
+  return loadCompanies().map((company) => {
+    // Stories whose company tags mention this company (display name or raw
+    // operator name), newest first, capped for the rail.
+    const names = new Set([company.name.toLowerCase(), company.operator.toLowerCase()]);
+    const news = allStories
+      .filter(({ story }) =>
+        (story.companies ?? []).some((c) => names.has(c.toLowerCase())),
+      )
+      .slice(0, 8);
+    return {
+      params: { slug: company.slug },
+      props: { company, news },
+    };
+  });
+}
+
+interface Props {
+  company: ReturnType<typeof loadCompanies>[number];
+  news: { story: NewsStory; dayDate: string }[];
+}
+
+const { company, news } = Astro.props;
+const base = import.meta.env.BASE_URL;
+---
+
+<Base title={company.name} active="companies" lang="zh">
+  <link
+    slot="head"
+    rel="alternate"
+    type="application/rss+xml"
+    title={`${company.name} · DataCenter Atlas`}
+    href={`${base}/companies/${company.slug}/rss.xml`}
+  />
+  <CompanyDetailPage company={company} news={news} lang="zh" />
+</Base>

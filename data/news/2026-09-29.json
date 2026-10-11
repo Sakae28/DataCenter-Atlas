@@ -40,7 +40,10 @@
       ],
       "published_precision": "day",
       "content": "Meta has signed on to lease AI compute capacity from Aussie neocloud Firmus' upcoming data center deployments in Southeast Asia.\n\nThe agreement builds on an existing partnership, in which Meta is leasing Nvidia GB300 NVL72 compute from Firmus' Melbourne data center.\n\nFirmus is currently developing so-called \"AI factories\" in Southeast Asia with data center operator DayOne, including one in Batam, Indonesia, which is expected to house 170,000 GPUs. The company is also establishing data centers in Malaysia, of which OpenAI is set to be a customer.\n\nThe deployments will see Firmus' HyperCube modular data center solution integrated into the facilities. The company said in August 2026 that it would be acquiring the manufacturing business behind HyperCube from Benmax.\n\nThe compute capacity in Southeast Asia set to be delivered to Meta will be based on Nvidia's full-stack DSX platform.\n\nMeta's vice president of engineering and infrastructure, Gaya Nagarajan, said: \"We see Firmus as a long-term strategic infrastructure partner as we build for the next generation of AI across Asia-Pacific and expand the infrastructure supporting our AI research and model development efforts – the foundation of personal superintelligence.\"\n\nTim Rosenfield, co-founder and co-CEO of Firmus, added: “We’re building for partners at the forefront of AI, whose models demand exceptional performance and who want to get the most compute from every watt of energy. That’s the engineering challenge Firmus was founded to solve.\n\n“Meta’s AI research and model development activities require infrastructure capable of supporting some of the world’s most demanding AI workloads. Firmus’ AI factory build-out across Asia-Pacific has the scale to support and grow these ambitions.”\n\nEarlier this month, Firmus was reported to be looking to raise up to $5 billion in an initial public offering (IPO).\n\nFounded in 2019, Firmus was initially focused on crypto and high-performance compute, specializing in immersion cooling, but today describes itself as a pure AI factory builder.\n\nIt has projects under development in Australia, including in Tasmania (x3), as well as across Asia, in Singapore, Indonesia, and Malaysia. The Malaysia data centers will be used by OpenAI, with the two companies signing a capacity agreement earlier this month that brings Firmus' total contracted capacity to more than 900MW.",
-      "content_url": "https://www.datacenterdynamics.com/en/news/meta-signs-on-to-use-ai-capacity-at-firmus-southeast-asia-data-centers/"
+      "content_url": "https://www.datacenterdynamics.com/en/news/meta-signs-on-to-use-ai-capacity-at-firmus-southeast-asia-data-centers/",
+      "title_zh": "Meta签约使用Firmus东南亚数据中心的AI算力",
+      "summary_zh": "Meta已同意在Firmus Technologies位于东南亚各地的数据中心设施中使用AI算力，这标志着又一家hyperscaler对该地区不断扩张的AI基础设施做出承诺。在AI训练和推理需求推动一波容量交易浪潮之际，这笔交易深化了Meta在亚太地区的布局。",
+      "why_zh": "像这样的 hyperscaler 预承诺实际上为东南亚的新数据中心建设提供了兜底保障，将开发风险从运营商转移给了租户。这也表明 Meta 正在将 AI 产能多元化布局到其传统的美国和欧洲大本营之外，这将把更多的 GPU 供应、电力采购和网络投资引入该地区。"
     },
     {
       "id": "2026-09-29-b7b32f",
@@ -69,7 +72,10 @@
       ],
       "published_precision": "day",
       "content": "Plans have been filed for a large-scale data center outside Melbourne, Australia.\n\nHyperDC Pty Ltd has filed a planning permit application with the Victorian government for a data center development in Moorabool.\n\nThe project would be located at 715 Ballan Road, a plot of largely vacant land outside Geelong, some 75km (47 miles) west of Melbourne.\n\nLittle information about the company is available, but HyperDC describes itself as a data center developer.\n\nAccording to its website, HyperDC’s MBL1 site totals 39 hectares, and the company is aiming to develop a campus offering 400MW of IT capacity. Further details have not been shared.\n\nAn individual named Gerard Adamsons lists himself as a director of the company on LinkedIn. He was previously at Australian residential developer Villawood Properties.\n\nThe site is close to the 300MW Victorian Big Battery site. Built by HMC Capital-backed Illuma, the site totals 210 Tesla Megapacks. AusNet Services’ existing Moorabool Terminal Station is also located close by.",
-      "content_url": "https://www.datacenterdynamics.com/en/news/plans-filed-for-400mw-data-center-campus-outside-melbourne-australia/"
+      "content_url": "https://www.datacenterdynamics.com/en/news/plans-filed-for-400mw-data-center-campus-outside-melbourne-australia/",
+      "title_zh": "澳大利亚墨尔本郊外400MW数据中心园区规划已提交",
+      "summary_zh": "一项在澳大利亚墨尔本郊外建设400MW数据中心园区的开发计划已提交——这一规模将跻身该国最大的单体数据中心园区之列。该提案出台之际，正值墨尔本在其他地区电力约束趋紧的背景下，与悉尼争夺大规模云和AI工作负载。",
+      "why_zh": "一座 400MW 的园区对当地电网而言是变革性的负荷，将迫使各方尽早展开关于输电升级、可再生能源采购以及维多利亚州规划审批的讨论。如果获批，还将加剧墨尔本与悉尼之间在争取 hyperscale 和 AI 租户方面的全国性竞争，可能重塑澳大利亚市场的定价和土地格局。"
     },
     {
       "id": "2026-09-29-9fd962",
@@ -101,7 +107,10 @@
       ],
       "published_precision": "day",
       "content": "Samsung has invested in Helix Digital Infrastructure, the new data center developer set up by investment firm KKR.\n\nHelix and KKR today (September 29) announced that Samsung has committed $1 billion to Helix through its long-duration capital fund. The new funding will provide additional long-duration capital to support Helix’s build-out.\n\nHelix was founded earlier this year, led by former AWS CEO Adam Selipsky, with plans to deliver hyperscale data centers with integrated power supply agreements. The company has yet to reveal any details on planned projects.\n\nThe companies said Samsung’s investment builds on the more than $10bn of capital Helix has secured from investors including KKR, the Kuwait Investment Authority (KIA), Nvidia, and Vistra.\n\n“Samsung's commitment is a strong vote of confidence in Helix's strategy and further deepens the long-term capital base we've built to meet the scale of AI infrastructure demand,” said Selipsky, CEO and co-founder of Helix. “As one of the world's leading technology companies, Samsung brings unique capabilities that we expect will benefit Helix and its customers, and we look forward to working together to accelerate the deployment of next-generation digital infrastructure for hyperscalers around the world.”\n\nHelix said it expects to explore opportunities to “leverage Samsung’s capabilities” across areas such as advanced technology, construction, energy storage, and cooling.",
-      "content_url": "https://www.datacenterdynamics.com/en/news/samsung-invests-1bn-into-kkrs-helix-data-center-platform/"
+      "content_url": "https://www.datacenterdynamics.com/en/news/samsung-invests-1bn-into-kkrs-helix-data-center-platform/",
+      "title_zh": "三星向KKR旗下Helix数据中心平台投资10亿美元",
+      "summary_zh": "Samsung已向KKR的Helix数据中心投资平台承诺出资10亿美元，这是今年战略性企业投资者对该行业开出的最大单笔支票之一。这笔投资将Samsung在存储、代工和元器件领域的利益与KKR的全球数据中心开发管线相结合。",
+      "why_zh": "来自三星这样的芯片与硬件巨头的战略资本，表明其对 AI 驱动的持续建设热潮抱有信心，并可能使 Helix 项目向三星自家的芯片和设备倾斜。这也抬高了基础设施基金面临的竞争门槛，因为企业资产负债表正越来越多地涌入同样的产能受限资产。"
     },
     {
       "id": "2026-09-29-a92938",
@@ -133,7 +142,8 @@
       ],
       "published_precision": "day",
       "content": "AMD has acquired World Labs, an AI model and research lab, in an all-stock deal valued at $8.2 billion.\n\nThe deal will help AMD strengthen its ability to develop AI hardware, software, and systems that support the needs of emerging models and applications, the company said.\n\nFounded in 2024 and led by Dr. Fei-Fei Li – known as the ‘Godmother of AI’, San Francisco-based World Labs develops “spatial-intelligence models” that generate, reconstruct, and simulate interactive 3D environments from text, image, and video inputs. The company also develops technology for robotic learning and simulation, all of which AMD said will provide it with “deeper insight into how workloads are evolving and help shape its future technology roadmaps.”\n\nThe transaction is expected to close by the end of 2026, subject to regulatory approval and customary closing conditions. Once the acquisition is complete, the World Labs team will continue its work on advanced AI model research, while Dr. Li will join AMD as an executive vice president and chief scientist, reporting to CEO Dr. Lisa Su.\n\n“Building the compute platforms for the next generation of AI requires a deep understanding of how models are evolving,” said Dr. Su. “Fei-Fei and the World Labs team bring exceptional research leadership and model expertise. Together, we can use that insight to develop the hardware, software and systems that will power the next generation of AI and strengthen the open AI ecosystem.”\n\nDr. Li, co-founder and CEO of World Labs, added: “Advancing the next generation of AI technology requires close collaboration across model research, systems and compute. Joining AMD will give our team the resources and engineering depth to accelerate our research and help define the infrastructure needed for the next era of AI.”",
-      "content_url": "https://www.datacenterdynamics.com/en/news/amd-acquires-ai-research-firm-world-labs-in-all-stock-deal-worth-82bn/"
+      "content_url": "https://www.datacenterdynamics.com/en/news/amd-acquires-ai-research-firm-world-labs-in-all-stock-deal-worth-82bn/",
+      "title_zh": "AMD以82亿美元全股票交易收购AI研究公司World Labs"
     },
     {
       "id": "2026-09-29-123f5e",
@@ -165,7 +175,10 @@
       ],
       "published_precision": "day",
       "content": "Amazon has acquired a plot of land outside Kuala Lumpur, Malaysia.\n\nVia a stock exchange announcement, Sunsuria Bhd this week announced that its subsidiary Sunsuria City has entered into a conditional sale and purchase agreement with Amazon Data Services Malaysia Sdn Bhd to sell a parcel of land in Sepang, Selangor.\n\nThe deal would be for a total cash consideration of approximately RM316.84 million ($77.6m).\n\nLocated in the Mukim of Dengkil, some 40km south of Kuala Lumpur, the currently vacant site totals approximately 183,975 sqm (1,98 million sq ft) of freehold land. Sunsuria acquired the land in 2015 for RM145.97 million.\n\nDetails of any planned data center on the site have not been shared.\n\nSunsuria is a publicly listed property developer founded in 1989. The firm is largely focused on residential, commercial, and industrial property projects within Klang Valley.\n\nAmazon launched its Malaysian cloud region in 2024 with three availability zones, and is known to have facilities around Cyberjaya. AWS has previously said it is planning to invest $6 billion in Malaysia by 2037.",
-      "content_url": "https://www.datacenterdynamics.com/en/news/amazon-buys-land-outside-kuala-lumpur-malaysia/"
+      "content_url": "https://www.datacenterdynamics.com/en/news/amazon-buys-land-outside-kuala-lumpur-malaysia/",
+      "title_zh": "Amazon在马来西亚吉隆坡郊外购地",
+      "summary_zh": "Amazon已收购马来西亚吉隆坡附近的一块土地，此举被广泛解读为是在为未来建设AWS数据中心园区做布局。这笔收购进一步壮大了巴生谷地区日益增长的hyperscaler投资集群，该地区的土地、电力和网络连接仍相对容易获得。",
+      "why_zh": "AWS 的土地储备通常比园区官宣提前一到两年，因此此次收购暗示马来西亚将成为 AWS 在亚太地区布局中更重要的节点。当地开发商、公用事业公司和政策制定者将最先感受到影响，因为对重大产能的预期将给电网就绪程度和审批流程带来压力。"
     },
     {
       "id": "2026-09-29-ee581c",
@@ -196,7 +209,10 @@
         "Toppan"
       ],
       "content": "Technology\n# Broadcom, Toppan open Singapore's first advanced chip substrate facility\n\nUS and Japanese pair aim to ease supply bottleneck hampering AI boom\n\n Broadcom President of Semiconductor Solutions Group Charlie Kawwas, center left, explains to Gan Kim Yong, deputy prime minister of Singapore and minister for trade and industry, about the key AI data center materials and computing chips at its new facility. (Photo by Cheng Ting-Fang)\n\nCHENG TING-FANG\n\nSeptember 29, 2026 13:15 JST\n\nSINGAPORE -- U.S. chipmaker Broadcom and Japan's Toppan Holdings opened Singapore's first advanced chip substrate plant months ahead of schedule on Tuesday, as the Southeast Asian nation seeks to strengthen its role in the global artificial intelligence supply chain.",
-      "content_url": "https://asia.nikkei.com/business/technology/broadcom-toppan-open-singapore-s-first-advanced-chip-substrate-facility"
+      "content_url": "https://asia.nikkei.com/business/technology/broadcom-toppan-open-singapore-s-first-advanced-chip-substrate-facility",
+      "title_zh": "Broadcom与Toppan开设新加坡首座先进芯片基板工厂",
+      "summary_zh": "Broadcom与Toppan为其所称的新加坡首座先进芯片基板生产设施举行了落成仪式，这种高端封装组件对AI加速器和高性能计算芯片至关重要。该工厂巩固了新加坡在晶圆制造之外的半导体供应链地位。",
+      "why_zh": "先进基板是 AI 芯片生产的已知瓶颈，因此新加坡的新产能可降低芯片制造商及其数据中心客户面临的地缘政治集中风险。该设施还将为新加坡锚定更多高价值制造业岗位和供应商生态系统，巩固这个城市国家作为地区芯片物流与封装枢纽的地位。"
     }
   ]
 }

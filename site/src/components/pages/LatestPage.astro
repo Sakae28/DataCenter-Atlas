@@ -1,0 +1,356 @@
+---
+/**
+ * The digest home ("Latest") — shared by pages/index.astro (en) and
+ * pages/zh/index.astro (zh). All user-facing strings go through i18n.
+ */
+import Icon from '../Icon.astro';
+import FavButton from '../FavButton.astro';
+import StoryCard from '../StoryCard.astro';
+import {
+  loadNewsDays,
+  formatDate,
+  weekdayOf,
+  REGIONS,
+  REGION_LABELS,
+} from '../../lib/news';
+import { loadProjects, buildStoryProjectIndex } from '../../lib/projects';
+import { companySlugMap } from '../../lib/companies';
+import { langPrefix, REGION_LABELS_ZH, type Lang } from '../../lib/i18n';
+
+interface Props {
+  lang?: Lang;
+}
+const { lang = 'en' } = Astro.props;
+const zh = lang === 'zh';
+
+const { days: allDays, source } = loadNewsDays();
+// Empty digest files (failed runs that slipped through) must not render as
+// "0 stories" groups — drop them entirely.
+const nonEmpty = allDays.filter((d) => d.stories.length > 0);
+// Only the latest week is embedded; older days live on /day/<date>/ archive
+// pages (keeps the homepage HTML small as the archive grows).
+const HOME_DAYS = 7;
+const days = nonEmpty.slice(0, HOME_DAYS);
+const archiveDays = nonEmpty.slice(HOME_DAYS);
+const base = import.meta.env.BASE_URL;
+const prefix = langPrefix(lang);
+// Reverse index story_id → project, for the "Project: <name>" link on cards.
+const projectByStory = buildStoryProjectIndex(loadProjects().projects);
+// Canonical company/operator name (lowercased) → directory slug, for
+// linking the company chips on story cards to company pages when one exists.
+const companySlugByName = companySlugMap();
+const latest = days[0];
+const hotStories = latest
+  ? latest.hot
+      .map((id) => latest.stories.find((s) => s.id === id))
+      .filter((s) => s !== undefined)
+  : [];
+
+// "Sources today" list, computed from the latest digest.
+const sourceCounts = new Map<string, number>();
+for (const story of latest?.stories ?? []) {
+  for (const s of story.sources) {
+    sourceCounts.set(s.name, (sourceCounts.get(s.name) ?? 0) + 1);
+  }
+}
+const railSources = [...sourceCounts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+
+/** Lowercase haystack for the client-side search filter (Trending items). */
+const searchText = (...parts: (string | undefined)[]) =>
+  parts.filter(Boolean).join(' ').toLowerCase();
+
+const regionLabel = (r: string) =>
+  zh ? (REGION_LABELS_ZH[r as keyof typeof REGION_LABELS_ZH] ?? r)
+     : REGION_LABELS[r as keyof typeof REGION_LABELS];
+
+const storyWord = (n: number) =>
+  zh ? `${n} 条新闻` : `${n} ${n === 1 ? 'story' : 'stories'}`;
+---
+
+<header class="page-head">
+  <div>
+    <h1 class="page-title">{zh ? '最新' : 'Latest'}</h1>
+    {latest && (
+      <p class="page-sub">
+        {zh
+          ? `${formatDate(latest.date, lang)}（${weekdayOf(latest.date, lang)}）日报 · AI 策划的亚太数据中心资讯`
+          : `Digest for ${formatDate(latest.date)} (${weekdayOf(latest.date)}) · AI-curated APAC data center news`}
+      </p>
+      <p class="tz-note">{zh ? '时间已按你所在时区显示' : 'Times shown in your local timezone'}</p>
+    )}
+  </div>
+</header>
+
+<div class="filter-bar">
+  <div class="tabs" role="group" aria-label={zh ? '按地区筛选' : 'Filter by region'}>
+    <button class="tab is-active" data-region="all">{zh ? '全部' : 'All'}</button>
+    {REGIONS.map((r) => (
+      <button class="tab" data-region={r}>{regionLabel(r)}</button>
+    ))}
+  </div>
+  <div class="filter-right">
+    <button class="tab saved-toggle" type="button" aria-pressed="false">
+      <Icon name="bookmark" size={13} /> {zh ? '只看收藏' : 'Saved only'}
+    </button>
+    {railSources.length > 0 && (
+      <details class="sources-menu">
+        <summary>
+          <Icon name="layers" size={14} class="summary-icon" />
+          {zh ? '今日来源' : 'Sources today'}
+          <span class="sources-count">{railSources.length}</span>
+        </summary>
+        <ul class="sources-pop">
+          {railSources.map(([name, count]) => (
+            <li><span class="rail-source-name">{name}</span><span class="rail-source-count">{count}</span></li>
+          ))}
+        </ul>
+      </details>
+    )}
+    <div class="search-wrap">
+      <Icon name="search" size={14} class="search-icon" />
+      <input
+        class="search"
+        type="search"
+        placeholder={zh ? '搜索标题、摘要…' : 'Search title, summary…'}
+        aria-label={zh ? '按标题或摘要搜索新闻' : 'Search stories by title or summary'}
+      />
+    </div>
+  </div>
+</div>
+
+{source === 'fixtures' && (
+  <p class="dev-notice">Showing bundled fixture data — the pipeline has not produced output yet.</p>
+)}
+
+{hotStories.length > 0 && (
+  <section class="trending">
+    <h2 class="panel-title">{zh ? '热点' : 'Trending'}</h2>
+    <p class="panel-note">{zh ? '按来源数量排序，其次按 AI 相关性评分' : 'Ranked by source count, then AI relevance score'}</p>
+    <ol class="hot-list">
+      {hotStories.map((story, i) => (
+        <li class="hot-item" data-id={story.id} data-regions={story.regions.join(' ')} data-search={searchText(story.title, story.title_zh, story.summary, story.summary_zh, (story.companies ?? []).join(' '))}>
+          <span class="hot-rank" class:list={[{ 'is-top': i < 3 }]}>{i + 1}</span>
+          <a class="hot-title" href={`${base}${prefix}/news/${story.id}/`}>{zh && story.title_zh ? story.title_zh : story.title}</a>
+          {story.companies && story.companies.length > 0 && (
+            <span class="hot-companies">{story.companies.join(' · ')}</span>
+          )}
+          <span class="hot-right">
+            <span class="hot-heat"><Icon name="flame" size={13} />{zh ? `${story.heat} 个来源` : `${story.heat} ${story.heat === 1 ? 'source' : 'sources'}`}</span>
+            {story.score !== null && <span class="hot-score">{story.score}/100</span>}
+            <FavButton type="news" id={story.id} size={13} />
+          </span>
+        </li>
+      ))}
+    </ol>
+  </section>
+)}
+
+<section class="timeline">
+  {days.length === 0 && <p>{zh ? '暂无新闻。' : 'No news available yet.'}</p>}
+  {days.map((day, i) => (
+    <details class="day-group" open={i === 0}>
+      <summary class="day-heading">
+        <h2 class="day-heading-line">
+          <span class="day-date">{formatDate(day.date, lang)}</span>
+          <Icon name="chevron" size={14} class="day-chev" />
+          <span class="day-sub">{weekdayOf(day.date, lang)} · {storyWord(day.stories.length)}</span>
+        </h2>
+      </summary>
+      <div class="story-list" data-total={day.stories.length}>
+        {day.stories.map((story) => (
+          <StoryCard
+            story={story}
+            dayDate={day.date}
+            project={projectByStory.get(story.id)}
+            companySlugByName={companySlugByName}
+            lang={lang}
+          />
+        ))}
+      </div>
+    </details>
+  ))}
+</section>
+
+{archiveDays.length > 0 && (
+  <nav class="archive-nav" aria-label={zh ? '更早的日报' : 'Older digests'}>
+    <span class="archive-label">{zh ? '更早的日报：' : 'Older digests:'}</span>
+    {archiveDays.map((day) => (
+      <a class="archive-link" href={`${base}${prefix}/day/${day.date}/`}>{formatDate(day.date, lang)}</a>
+    ))}
+  </nav>
+)}
+
+<div class="empty-state" id="empty-state" hidden>
+  <span class="empty-icon empty-icon-saved"><Icon name="bookmark" size={26} /></span>
+  <span class="empty-icon empty-icon-filter" hidden><Icon name="search" size={26} /></span>
+  <p class="empty-title" id="empty-title"></p>
+  <p class="empty-sub" id="empty-sub"></p>
+</div>
+
+<script>
+  const LANG = document.body.dataset.lang === 'zh' ? 'zh' : 'en';
+  const pills = document.querySelectorAll<HTMLButtonElement>('.tabs .tab');
+  const cards = document.querySelectorAll<HTMLElement>('[data-regions]');
+  const dayGroups = [...document.querySelectorAll<HTMLDetailsElement>('details.day-group')];
+  const trending = document.querySelector<HTMLElement>('.trending');
+  const searchInput = document.querySelector<HTMLInputElement>('.search');
+
+  let activeRegion = 'all';
+  let query = '';
+  let savedOnly = false;
+  const savedToggle = document.querySelector<HTMLButtonElement>('.saved-toggle');
+
+  // Original day-group sub-lines ("Wednesday · 29 stories") for restore.
+  const daySubs = dayGroups.map((g) => {
+    const el = g.querySelector<HTMLElement>('.day-sub');
+    const total = parseInt(
+      g.querySelector<HTMLElement>('.story-list')?.dataset.total ?? '0', 10);
+    return { el, original: el?.textContent ?? '', total };
+  });
+
+  // Filter state lives in the URL (?region=&q=&saved=1) so a filtered view
+  // survives refresh and can be shared.
+  function syncUrl() {
+    const p = new URLSearchParams();
+    if (activeRegion !== 'all') p.set('region', activeRegion);
+    if (query) p.set('q', query);
+    if (savedOnly) p.set('saved', '1');
+    const qs = p.toString();
+    history.replaceState(null, '', location.pathname + (qs ? `?${qs}` : ''));
+  }
+
+  {
+    const params = new URLSearchParams(location.search);
+    const initRegion = params.get('region');
+    const pill = [...pills].find((p) => p.dataset.region === initRegion);
+    if (pill) {
+      pills.forEach((p) => p.classList.remove('is-active'));
+      pill.classList.add('is-active');
+      activeRegion = pill.dataset.region ?? 'all';
+    }
+    const initQ = params.get('q');
+    if (initQ && searchInput) {
+      searchInput.value = initQ;
+      query = initQ.trim().toLowerCase();
+    }
+    if (params.get('saved') === '1' && savedToggle) {
+      savedOnly = true;
+      savedToggle.classList.add('is-active');
+      savedToggle.setAttribute('aria-pressed', 'true');
+    }
+  }
+
+  function favNewsIds(): Set<string> {
+    try {
+      const raw = JSON.parse(localStorage.getItem('dc-favs') ?? '{}');
+      return new Set(Array.isArray(raw.news) ? raw.news : []);
+    } catch {
+      return new Set();
+    }
+  }
+
+  function applyFilters() {
+    const favs = savedOnly ? favNewsIds() : null;
+    cards.forEach((el) => {
+      const regionOk =
+        activeRegion === 'all' || (el.dataset.regions ?? '').split(' ').includes(activeRegion);
+      const queryOk = query === '' || (el.dataset.search ?? '').includes(query);
+      const favOk = !favs || favs.has(el.dataset.id ?? '');
+      el.classList.toggle('is-hidden', !(regionOk && queryOk && favOk));
+    });
+    // Hide day groups / trending panel when nothing inside is visible.
+    // While a filter is active, auto-open collapsed days that have matches;
+    // when cleared, restore the default state (latest day open, rest closed).
+    const filtering = activeRegion !== 'all' || query !== '' || savedOnly;
+    dayGroups.forEach((group, i) => {
+      const visible = group.querySelectorAll('.story-row:not(.is-hidden)').length;
+      group.classList.toggle('is-hidden', visible === 0);
+      group.open = filtering ? visible > 0 : i === 0;
+    });
+    // While filtering, show "3 / 29 stories" per day; restore after.
+    daySubs.forEach(({ el, original, total }, i) => {
+      if (!el) return;
+      if (!filtering) {
+        el.textContent = original;
+        return;
+      }
+      const visible = dayGroups[i].querySelectorAll('.story-row:not(.is-hidden)').length;
+      el.textContent = LANG === 'zh'
+        ? original.replace(/\d+ 条新闻/, `${visible} / ${total} 条新闻`)
+        : original.replace(/\d+ (stor(?:y|ies))/i, `${visible} / ${total} $1`);
+    });
+    syncUrl();
+    if (trending) {
+      const visible = trending.querySelectorAll('.hot-item:not(.is-hidden)').length;
+      trending.classList.toggle('is-hidden', visible === 0);
+    }
+    // Empty state: friendly placeholder instead of a blank page when a
+    // filter (especially Saved with no bookmarks yet) hides everything.
+    const emptyEl = document.getElementById('empty-state');
+    if (emptyEl) {
+      const visibleRows = document.querySelectorAll('.story-row:not(.is-hidden)').length;
+      const visibleHot = trending ? trending.querySelectorAll('.hot-item:not(.is-hidden)').length : 0;
+      const isEmpty = filtering && visibleRows === 0 && visibleHot === 0;
+      emptyEl.hidden = !isEmpty;
+      if (isEmpty) {
+        const title = emptyEl.querySelector('#empty-title');
+        const sub = emptyEl.querySelector('#empty-sub');
+        const iconSaved = emptyEl.querySelector('.empty-icon-saved');
+        const iconFilter = emptyEl.querySelector('.empty-icon-filter');
+        if (savedOnly) {
+          if (title) title.textContent = LANG === 'zh' ? '还没有收藏任何新闻' : 'No saved stories yet';
+          if (sub) sub.textContent = LANG === 'zh' ? '点击新闻卡片上的书签图标即可收藏。' : 'Tap the bookmark icon on any story to keep it here.';
+        } else {
+          if (title) title.textContent = LANG === 'zh' ? '没有匹配的新闻' : 'No stories match';
+          if (sub) sub.textContent = LANG === 'zh' ? '换个地区或搜索词试试。' : 'Try a different region or search term.';
+        }
+        iconSaved?.toggleAttribute('hidden', !savedOnly);
+        iconFilter?.toggleAttribute('hidden', savedOnly);
+      }
+    }
+  }
+
+  savedToggle?.addEventListener('click', () => {
+    savedOnly = !savedOnly;
+    savedToggle.classList.toggle('is-active', savedOnly);
+    savedToggle.setAttribute('aria-pressed', String(savedOnly));
+    applyFilters();
+  });
+
+  document.addEventListener('dcfav:change', () => {
+    if (savedOnly) applyFilters();
+  });
+
+  pills.forEach((pill) => {
+    pill.addEventListener('click', () => {
+      pills.forEach((p) => p.classList.remove('is-active'));
+      pill.classList.add('is-active');
+      activeRegion = pill.dataset.region ?? 'all';
+      applyFilters();
+    });
+  });
+
+  searchInput?.addEventListener('input', () => {
+    query = searchInput.value.trim().toLowerCase();
+    applyFilters();
+  });
+
+  // Restore filters coming in via URL on first paint.
+  if (activeRegion !== 'all' || query !== '' || savedOnly) applyFilters();
+
+  // "Sources today" popover: close on Esc / click outside.
+  const sourcesMenu = document.querySelector<HTMLDetailsElement>('details.sources-menu');
+  if (sourcesMenu) {
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && sourcesMenu.open) {
+        sourcesMenu.open = false;
+        sourcesMenu.querySelector('summary')?.focus();
+      }
+    });
+    document.addEventListener('click', (e) => {
+      if (sourcesMenu.open && !sourcesMenu.contains(e.target as Node)) {
+        sourcesMenu.open = false;
+      }
+    });
+  }
+</script>

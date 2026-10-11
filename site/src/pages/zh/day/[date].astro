@@ -1,0 +1,25 @@
+---
+/**
+ * 中文按日归档：/zh/day/2026-08-26/。pages/day/[date].astro 的中文对应页。
+ */
+import Base from '../../../layouts/Base.astro';
+import DayPage from '../../../components/pages/DayPage.astro';
+import { loadNewsDays, formatDate, type NewsDay } from '../../../lib/news';
+
+export function getStaticPaths() {
+  const { days } = loadNewsDays();
+  return days
+    .filter((d) => d.stories.length > 0)
+    .map((day) => ({ params: { date: day.date }, props: { day } }));
+}
+
+interface Props {
+  day: NewsDay;
+}
+
+const { day } = Astro.props;
+---
+
+<Base title={`日报 ${day.date}`} description={`${formatDate(day.date, 'zh')} 亚太数据中心新闻日报`} active="latest" lang="zh">
+  <DayPage day={day} lang="zh" />
+</Base>

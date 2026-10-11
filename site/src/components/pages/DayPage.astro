@@ -1,0 +1,51 @@
+---
+/**
+ * Per-day digest archive body — shared by pages/day/[date].astro (en) and
+ * pages/zh/day/[date].astro (zh). The route files own getStaticPaths().
+ */
+import Icon from '../Icon.astro';
+import StoryCard from '../StoryCard.astro';
+import { formatDate, weekdayOf, type NewsDay } from '../../lib/news';
+import { loadProjects, buildStoryProjectIndex } from '../../lib/projects';
+import { companySlugMap } from '../../lib/companies';
+import { langPrefix, type Lang } from '../../lib/i18n';
+
+interface Props {
+  day: NewsDay;
+  lang?: Lang;
+}
+
+const { day, lang = 'en' } = Astro.props;
+const zh = lang === 'zh';
+const base = import.meta.env.BASE_URL;
+const prefix = langPrefix(lang);
+const projectByStory = buildStoryProjectIndex(loadProjects().projects);
+const companySlugByName = companySlugMap();
+---
+
+<header class="page-head">
+  <div>
+    <h1 class="page-title">{formatDate(day.date, lang)}</h1>
+    <p class="page-sub">
+      {zh
+        ? `${weekdayOf(day.date, lang)} · ${day.stories.length} 条新闻 · 归档日报`
+        : `${weekdayOf(day.date)} · ${day.stories.length} ${day.stories.length === 1 ? 'story' : 'stories'} · archived digest`}
+    </p>
+    <p class="tz-note">{zh ? '时间已按你所在时区显示' : 'Times shown in your local timezone'}</p>
+  </div>
+  <a class="article-bar-back" href={`${base}${prefix}/`}><Icon name="arrow-left" size={14} />{zh ? '最新' : 'Latest'}</a>
+</header>
+
+<section class="timeline">
+  <div class="story-list">
+    {day.stories.map((story) => (
+      <StoryCard
+        story={story}
+        dayDate={day.date}
+        project={projectByStory.get(story.id)}
+        companySlugByName={companySlugByName}
+        lang={lang}
+      />
+    ))}
+  </div>
+</section>

@@ -1,0 +1,220 @@
+---
+/**
+ * Company profile page — shared by pages/companies/[slug].astro (en) and
+ * pages/zh/companies/[slug].astro (zh). The route files own getStaticPaths
+ * and pass { company, news } through.
+ */
+import Icon from '../Icon.astro';
+import InfoTip from '../InfoTip.astro';
+import FollowButton from '../FollowButton.astro';
+import { loadCompanies, logoUrl } from '../../lib/companies';
+import { STATUS_META, formatCapacity } from '../../lib/projects';
+import { formatDate, sourceDisplayName, REGION_LABELS, type NewsStory } from '../../lib/news';
+import { t, lf, langPrefix, REGION_LABELS_ZH, CATEGORY_LABELS_ZH, STATUS_LABELS_ZH, type Lang } from '../../lib/i18n';
+
+interface Props {
+  company: ReturnType<typeof loadCompanies>[number];
+  news: { story: NewsStory; dayDate: string }[];
+  lang?: Lang;
+}
+
+const { company, news, lang = 'en' } = Astro.props;
+const zh = lang === 'zh';
+const base = import.meta.env.BASE_URL;
+const prefix = langPrefix(lang);
+const { stats } = company;
+const logo = company.domain ? logoUrl(company.domain) : null;
+
+function fmtMw(mw: number): string {
+  return mw >= 1000 ? `${(mw / 1000).toFixed(1)} GW` : `${mw} MW`;
+}
+
+const STAT_CARDS = [
+  {
+    label: zh ? '数据中心' : 'Data Centers',
+    value: String(stats.facilities),
+    icon: 'server' as const,
+    tip: zh
+      ? '该公司在我们追踪的亚太目录中收录的设施与部署总数。'
+      : 'Tracked facilities and deployments operated by this company across the APAC directories we follow.',
+  },
+  {
+    label: zh ? '运营中' : 'Operational',
+    value: String(stats.operational),
+    icon: 'check' as const,
+    tip: zh ? '当前已投运的设施。' : 'Facilities currently in service.',
+  },
+  {
+    label: zh ? '规划/在建' : 'Planned',
+    value: String(stats.planned),
+    icon: 'calendar' as const,
+    tip: zh ? '已宣布或在建 —— 未来的管线。' : 'Announced or under construction — the forward pipeline.',
+  },
+  {
+    label: zh ? '国家' : 'Countries',
+    value: String(stats.countries),
+    icon: 'globe' as const,
+    tip: zh ? '至少有一个追踪设施的国家数量。' : 'Countries with at least one tracked facility.',
+  },
+  {
+    label: zh ? '市场' : 'Markets',
+    value: String(stats.markets),
+    icon: 'map-pin' as const,
+    tip: zh ? '覆盖的不同城市/都市圈市场数量。' : 'Distinct cities/metro markets covered.',
+  },
+  {
+    label: zh ? '追踪容量' : 'Tracked Capacity',
+    value: stats.mw > 0 ? fmtMw(stats.mw) : '—',
+    icon: 'bolt' as const,
+    tip: zh
+      ? '设施容量（MW）之和（不含租赁的租户部署，避免重复计算）。'
+      : 'Sum of facility capacity in MW (leased tenant deployments excluded to avoid double counting).',
+  },
+];
+
+const blurb = zh ? (company.blurb_zh ?? company.blurb) : company.blurb;
+const categoryLabel = zh
+  ? (CATEGORY_LABELS_ZH[company.category] ?? company.category)
+  : company.category;
+const regionLabel = (r: keyof typeof REGION_LABELS) =>
+  zh ? (REGION_LABELS_ZH[r] ?? REGION_LABELS[r]) : REGION_LABELS[r];
+const statusLabel = (status: keyof typeof STATUS_META) =>
+  zh ? (STATUS_LABELS_ZH[status] ?? STATUS_META[status].label) : STATUS_META[status].label;
+---
+
+<div class="article-bar">
+  <a class="article-bar-back" href={`${base}${prefix}/companies/`}>
+    <Icon name="arrow-left" size={14} />{zh ? '返回公司列表' : 'Back to companies'}
+  </a>
+</div>
+
+<article class="panel co-profile" data-company-page={company.slug}>
+  <span class="co-logo co-logo--lg">
+    {logo && (
+      <img src={logo} alt="" onerror="this.remove()" />
+    )}
+    <span class="co-letter" aria-hidden="true">{company.name.charAt(0)}</span>
+  </span>
+  <div class="co-profile-body">
+    <h1 class="co-profile-name">{company.name}</h1>
+    <div class="fact-chips">
+      <span class="chip topic">{categoryLabel}</span>
+    </div>
+    {blurb && <p class="co-profile-blurb">{blurb}</p>}
+    <div class="co-actions">
+      {company.domain && (
+        <a class="btn btn-primary co-site" href={`https://${company.domain}`} target="_blank" rel="noopener">
+          {zh ? t(lang, 'common.website') : 'Official website'}<Icon name="external" size={13} />
+        </a>
+      )}
+      <FollowButton slug={company.slug} lang={lang} />
+      <a
+        class="btn co-rss"
+        href={`${base}/companies/${company.slug}/rss.xml`}
+        title={zh ? `RSS 订阅：提及 ${company.name} 的新闻` : `RSS feed: news mentioning ${company.name}`}
+      >
+        <Icon name="rss" size={13} />RSS
+      </a>
+    </div>
+  </div>
+</article>
+
+<section class="co-stat-grid">
+  {STAT_CARDS.map((s) => (
+    <div class="panel co-stat">
+      <span class="co-stat-icon"><Icon name={s.icon} size={17} strokeWidth={1.9} /></span>
+      <p class="co-stat-text">
+        <strong>{s.value}</strong> {s.label}
+        <InfoTip tip={s.tip} />
+      </p>
+    </div>
+  ))}
+</section>
+
+<section class="panel co-facilities">
+  <div class="co-facilities-head">
+    <h2 class="panel-title">{zh ? `设施 (${company.projects.length})` : `Facilities (${company.projects.length})`}</h2>
+    {company.projects.length > 8 && (
+      <div class="search-wrap">
+        <Icon name="search" size={14} class="search-icon" />
+        <input
+          class="search"
+          id="facility-search"
+          type="search"
+          placeholder={zh ? '筛选设施…' : 'Filter facilities…'}
+          aria-label={zh ? '按名称、位置或状态筛选设施' : 'Filter facilities by name, location or status'}
+        />
+      </div>
+    )}
+  </div>
+  <table class="pipeline-table co-table">
+    <thead>
+      <tr>
+        <th><span class="th-text">{zh ? '项目' : 'Project'}</span></th>
+        <th><span class="th-text">{zh ? '地区' : 'Region'}</span></th>
+        <th><span class="th-text">{zh ? '位置' : 'Location'}</span></th>
+        <th><span class="th-text">{zh ? '容量' : 'Capacity'}</span></th>
+        <th><span class="th-text">{zh ? '状态' : 'Status'}</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      {company.projects.map((p) => {
+        const cap = formatCapacity(p);
+        const meta = STATUS_META[p.status];
+        const loc = p.city === p.country ? p.city : [p.city, p.country].filter(Boolean).join(', ');
+        // zh appends the Chinese labels so the facility filter matches them
+        // too; en keeps the original haystack byte-for-byte.
+        const searchExtra = zh ? ` ${statusLabel(p.status)} ${regionLabel(p.region)}` : '';
+        return (
+          <tr data-search={`${p.name} ${loc} ${meta.label} ${REGION_LABELS[p.region]}${searchExtra}`.toLowerCase()}>
+            <td class="proj-name"><a href={`${base}${prefix}/projects/${p.id}/`}>{p.name}</a></td>
+            <td><span class="chip region">{regionLabel(p.region)}</span></td>
+            <td class="proj-loc">{loc}</td>
+            <td class="proj-cap">
+              <span class="cap-value" class:list={[{ 'is-empty': p.capacity_mw === null }]}>{cap.value}</span>
+              {cap.note && <span class="cap-note">{cap.note}</span>}
+            </td>
+            <td><span class={`badge ${meta.className}`}>{statusLabel(p.status)}</span></td>
+          </tr>
+        );
+      })}
+    </tbody>
+  </table>
+  <p class="co-filter-empty is-hidden" id="facility-filter-empty">{zh ? '没有匹配的设施 —— 换个搜索词试试。' : 'No facilities match — try a different search term.'}</p>
+</section>
+
+<script>
+  /* Instant text filter for the facilities table (any column). */
+  const facilitySearch = document.querySelector<HTMLInputElement>('#facility-search');
+  if (facilitySearch) {
+    const facilityRows = [
+      ...document.querySelectorAll<HTMLTableRowElement>('.co-table tbody tr'),
+    ];
+    const filterEmpty = document.getElementById('facility-filter-empty');
+    facilitySearch.addEventListener('input', () => {
+      const q = facilitySearch.value.trim().toLowerCase();
+      let visible = 0;
+      facilityRows.forEach((tr) => {
+        const ok = q === '' || (tr.dataset.search ?? '').includes(q);
+        tr.classList.toggle('is-hidden', !ok);
+        if (ok) visible++;
+      });
+      filterEmpty?.classList.toggle('is-hidden', visible > 0);
+    });
+  }
+</script>
+
+{news.length > 0 && (
+  <section class="panel co-news">
+    <h2 class="panel-title">{zh ? '相关新闻' : 'In the news'}</h2>
+    <ul class="news-timeline">
+      {news.map(({ story }) => (
+        <li>
+          <span class="tl-date">{formatDate(story.published_at.slice(0, 10), lang)}</span>
+          <a class="tl-title" href={`${base}${prefix}/news/${story.id}/`}>{lf(story, 'title', lang)}</a>
+          <span class="tl-source">{sourceDisplayName(story.sources[0], story)}</span>
+        </li>
+      ))}
+    </ul>
+  </section>
+)}

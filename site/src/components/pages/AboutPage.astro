@@ -1,0 +1,282 @@
+---
+/**
+ * /about/ — what DataCenter Atlas tracks and how it works. Shared by
+ * pages/about.astro (en) and pages/zh/about.astro (zh).
+ */
+import Icon from '../Icon.astro';
+import { loadNewsDays } from '../../lib/news';
+import { loadProjects } from '../../lib/projects';
+import { loadCompanies } from '../../lib/companies';
+import { langPrefix, type Lang } from '../../lib/i18n';
+
+interface Props {
+  lang?: Lang;
+}
+const { lang = 'en' } = Astro.props;
+const zh = lang === 'zh';
+
+const base = import.meta.env.BASE_URL;
+const prefix = langPrefix(lang);
+
+// Live stats, computed from the real data at build time.
+const { days } = loadNewsDays();
+const { projects } = loadProjects();
+const companies = loadCompanies();
+const storyCount = days.reduce((n, d) => n + d.stories.length, 0);
+const trackedGw =
+  projects
+    .filter((p) => !p.leased_from && p.capacity_mw !== null)
+    .reduce((sum, p) => sum + (p.capacity_mw ?? 0), 0) / 1000;
+const sourceSet = new Set<string>();
+for (const d of days) for (const s of d.stories) for (const src of s.sources) sourceSet.add(src.name);
+const firstDate = days[days.length - 1]?.date;
+
+const features = [
+  {
+    icon: 'bolt',
+    name: zh ? '最新' : 'Latest',
+    href: `${base}${prefix}/`,
+    text: zh
+      ? '每日新闻日报。去重合并，按 0–100 打分相关性，摘要与「为什么重要」为快速浏览而写。'
+      : 'The daily digest. Duplicates merged, relevance scored 0–100, summaries and "why it matters" written for skimming.',
+  },
+  {
+    icon: 'newspaper',
+    name: zh ? '周报/月报' : 'Reports',
+    href: `${base}${prefix}/reports/`,
+    text: zh
+      ? '每周与每月汇总：当期主题、最重要的新闻，以及每一次项目状态变更。'
+      : 'Weekly and monthly rollups: the period’s themes, the biggest stories, and every project status change.',
+  },
+  {
+    icon: 'server',
+    name: zh ? '项目管线' : 'Pipeline',
+    href: `${base}${prefix}/pipeline/`,
+    text: zh
+      ? '项目与设施的实时数据库——状态、容量、投资额、关键日期——附地图视图。'
+      : 'A live database of projects and facilities — status, capacity, investment, key dates — with a map view.',
+  },
+  {
+    icon: 'building',
+    name: zh ? '公司' : 'Companies',
+    href: `${base}${prefix}/companies/`,
+    text: zh
+      ? '项目背后的运营商：业务布局、市场覆盖，以及每一条提及它们的新闻。'
+      : 'The operators behind the projects: footprints, markets, and every story that mentions them.',
+  },
+  {
+    icon: 'bookmark',
+    name: zh ? '收藏' : 'Saved',
+    href: `${base}${prefix}/saved/`,
+    text: zh
+      ? '你的书签。只存在你的浏览器里——没有账号、没有追踪，任何数据都不会离开你的设备。'
+      : 'Your bookmarks. Stored only in your browser — no account, no tracking, nothing leaves your device.',
+  },
+] as const;
+
+const steps = [
+  {
+    title: zh ? '抓取' : 'Poll',
+    text: zh
+      ? '每天清晨，自动化管线会抓取亚太地区的行业媒体、公司新闻页与官方公告。'
+      : 'Every morning an automated pipeline polls industry publications, company newsrooms and official announcements across APAC.',
+  },
+  {
+    title: zh ? '去重' : 'Dedupe',
+    text: zh
+      ? 'AI 会把同一事件的不同报道聚类合并。后续报道并入第一条新闻的来源列表，而不是在时间线上重复出现。'
+      : 'An AI pass clusters coverage of the same story. Follow-up reports merge into the first story’s source list instead of repeating on the timeline.',
+  },
+  {
+    title: zh ? '评分与摘要' : 'Score & summarize',
+    text: zh
+      ? '每条新闻都会得到相关性评分（0–100）和摘要——当日精选新闻还附有「为什么重要」解读。'
+      : 'Each story gets a relevance score (0–100), a summary and — for the day’s featured stories — a "why it matters" note.',
+  },
+  {
+    title: zh ? '追踪' : 'Track',
+    text: zh
+      ? '具体的项目事件（动工、扩建、融资、投产）会自动更新项目数据库。'
+      : 'Concrete project events (groundbreakings, expansions, financing, commissioning) update the project database automatically.',
+  },
+] as const;
+
+const regions = zh
+  ? ([
+      { label: '中国', note: '含香港' },
+      { label: '日本', note: null },
+      { label: '韩国', note: null },
+      { label: '澳大利亚', note: null },
+      { label: '东南亚', note: 'SG · MY · ID · TH · VN · PH …' },
+      { label: '全球', note: '仅收录影响亚太的动态' },
+    ] as const)
+  : ([
+      { label: 'China', note: 'incl. Hong Kong' },
+      { label: 'Japan', note: null },
+      { label: 'Korea', note: null },
+      { label: 'Australia', note: null },
+      { label: 'Southeast Asia', note: 'SG · MY · ID · TH · VN · PH …' },
+      { label: 'Global', note: 'only when it moves APAC' },
+    ] as const);
+---
+
+<!-- Hero -->
+<section class="about-hero panel">
+  <p class="about-kicker">{zh ? '关于 DataCenter Atlas' : 'About DataCenter Atlas'}</p>
+  <h1 class="about-headline">
+    {zh
+      ? <>数据中心行业正在为 AI 重建。<br />我们追踪整个亚太地区的进程。</>
+      : <>The data center industry is being rebuilt for AI.<br />We track it across Asia-Pacific.</>}
+  </h1>
+  <p class="about-lede">
+    {zh
+      ? '每日 AI 策划的新闻日报、项目与设施的实时数据库，以及背后公司的名录——一站式跟进亚太地区的建设浪潮。'
+      : 'A daily AI-curated news digest, a live database of projects and facilities, and a directory of the companies behind them — one place to follow the region\'s build-out.'}
+  </p>
+  <div class="about-cta">
+    <a class="btn btn-primary" href={`${base}${prefix}/`}>{zh ? '今日日报' : 'Today\'s digest'}</a>
+    <a class="btn" href={`${base}${prefix}/pipeline/`}>{zh ? '浏览项目管线' : 'Explore the pipeline'}</a>
+  </div>
+</section>
+
+<!-- Live stats -->
+<section class="about-stats" aria-label={zh ? '覆盖数据一览' : 'Coverage in numbers'}>
+  <div class="about-stat panel">
+    <p class="about-stat-value">{storyCount.toLocaleString('en-US')}</p>
+    <p class="about-stat-label">{zh ? `条已策划新闻${firstDate ? `，始自 ${firstDate}` : ''}` : `stories curated${firstDate ? ` since ${firstDate}` : ''}`}</p>
+  </div>
+  <div class="about-stat panel">
+    <p class="about-stat-value">{projects.length.toLocaleString('en-US')}</p>
+    <p class="about-stat-label">{zh ? '个追踪中的项目与设施' : 'projects & facilities tracked'}</p>
+  </div>
+  <div class="about-stat panel">
+    <p class="about-stat-value">{trackedGw.toFixed(1)}<span class="about-stat-unit"> GW</span></p>
+    <p class="about-stat-label">{zh ? '追踪容量' : 'of tracked capacity'}</p>
+  </div>
+  <div class="about-stat panel">
+    <p class="about-stat-value">{companies.length.toLocaleString('en-US')}</p>
+    <p class="about-stat-label">{zh ? '家建档公司' : 'companies profiled'}</p>
+  </div>
+  <div class="about-stat panel">
+    <p class="about-stat-value">{sourceSet.size.toLocaleString('en-US')}</p>
+    <p class="about-stat-label">{zh ? '家监测中的媒体' : 'publications monitored'}</p>
+  </div>
+</section>
+
+<!-- What's inside -->
+<section class="about-section">
+  <h2 class="about-section-title">{zh ? '站内内容' : 'What\'s inside'}</h2>
+  <div class="about-features">
+    {features.map((f) => (
+      <a class="about-feature panel" href={f.href}>
+        <span class="about-feature-icon"><Icon name={f.icon} size={18} /></span>
+        <span class="about-feature-name">{f.name}</span>
+        <span class="about-feature-text">{f.text}</span>
+        <span class="about-feature-cta">{zh ? '打开 →' : 'Open →'}</span>
+      </a>
+    ))}
+  </div>
+</section>
+
+<!-- How it's made -->
+<section class="about-section">
+  <h2 class="about-section-title">{zh ? '日报是如何生成的' : 'How the digest is made'}</h2>
+  <ol class="about-steps">
+    {steps.map((s, i) => (
+      <li class="about-step panel">
+        <span class="about-step-num">{i + 1}</span>
+        <p class="about-step-title">{s.title}</p>
+        <p class="about-step-text">{s.text}</p>
+      </li>
+    ))}
+  </ol>
+</section>
+
+<!-- Coverage -->
+<section class="about-section">
+  <h2 class="about-section-title">{zh ? '覆盖范围' : 'Coverage'}</h2>
+  <div class="about-coverage panel">
+    <div class="about-region-chips">
+      {regions.map((r) => (
+        <span class="about-region-chip">
+          {r.label}
+          {r.note && <span class="about-region-note">{r.note}</span>}
+        </span>
+      ))}
+    </div>
+    <p class="about-coverage-note">
+      {zh
+        ? '「全球」栏目收录区域之外但实质性影响亚太的新闻——GPU 供应、全球云厂商资本开支等——低价值内容会被过滤。印度不在覆盖范围内。'
+        : 'The Global bucket holds stories outside the region that materially affect APAC — GPU supply, global cloud capex — with low-signal items filtered out. India is out of scope.'}
+    </p>
+  </div>
+</section>
+
+<!-- How to read the data -->
+<section class="about-section">
+  <h2 class="about-section-title">{zh ? '如何读懂数据' : 'How to read the data'}</h2>
+  <div class="about-prose panel">
+    <ul>
+      {zh ? (
+        <>
+          <li><strong>状态</strong>是标准化的生命周期阶段：已宣布 → 在建 → 运营中（另有暂停 / 取消）。来源中的「意向扩建」「土地储备」等表述会以限定标签的形式出现。</li>
+          <li><strong>容量</strong>指 IT 负载，单位为 MW。「总规划」数字覆盖整个园区的全部建设，因此已投运的一期可能小于该数字。租赁的租户部署计入宿主设施，绝不重复计算。</li>
+          <li><strong>最近更新</strong>是最后一次真实变更的日期——新的关联新闻、状态变更、新字段——而不是批量导入数据的日期。</li>
+          <li>尚未被追踪新闻证实的<strong>目录条目</strong>会有相应标注；单一来源的目录数据仅供参考。</li>
+          <li><strong>全文</strong>仅为阅读便利而镜像——默认折叠、移除图片，并始终署名、链接至原文。如果出版方要求我们不镜像，我们就不镜像：其新闻只显示 AI 摘要并链接出去。</li>
+        </>
+      ) : (
+        <>
+          <li><strong>Status</strong> is the normalized lifecycle stage: announced → under construction → operational (plus on hold / cancelled). Source labels like "prospective expansion" or "land bank" appear as qualifier chips.</li>
+          <li><strong>Capacity</strong> is IT load in MW. "Total planned" figures cover full campus build-out, so a live phase can be smaller. Leased tenant deployments are counted on the host facility, never double-counted.</li>
+          <li><strong>Last updated</strong> is the date of the last real change — a new linked story, a status change, a new field — not the date data was bulk-imported.</li>
+          <li><strong>Directory entries</strong> not yet confirmed by tracked news are marked as such; treat single-source directory data as indicative.</li>
+          <li><strong>Full text</strong> is mirrored for reading convenience — collapsed by default, images stripped, always credited and linked to the original. If a publisher asks us not to mirror, we don't: their stories show the AI summary and link out.</li>
+        </>
+      )}
+    </ul>
+  </div>
+</section>
+
+<!-- Good to know -->
+<section class="about-section">
+  <h2 class="about-section-title">{zh ? '须知' : 'Good to know'}</h2>
+  <div class="about-notes">
+    <div class="about-note panel">
+      <p class="about-note-title"><Icon name="info" size={14} /> {zh ? 'AI 生成，非编辑观点' : 'AI-generated, not editorial'}</p>
+      <p class="about-note-text">
+        {zh
+          ? '评分、摘要与「为什么重要」是帮助你快速浏览的 AI 启发式结果——不构成编辑判断或投资建议。想要了解全貌，请务必点击来源链接。'
+          : 'Scores, summaries and "why it matters" notes are AI heuristics to help you skim — not editorial judgment or investment advice. Always follow the source link for the full picture.'}
+      </p>
+    </div>
+    <div class="about-note panel">
+      <p class="about-note-title"><Icon name="globe" size={14} /> {zh ? '时间以你的时区显示' : 'Times are local to you'}</p>
+      <p class="about-note-text">
+        {zh
+          ? '所有时间戳都会按你设备的时区渲染。时间线上灰色的「—」表示来源只公布了日期，没有具体时间。'
+          : 'All timestamps render in your device\'s timezone. A muted "—" on the timeline means the source published only a date, so no exact time exists.'}
+      </p>
+    </div>
+    <div class="about-note panel">
+      <p class="about-note-title"><Icon name="bookmark" size={14} /> {zh ? '隐私优先设计' : 'Private by design'}</p>
+      <p class="about-note-text">
+        {zh
+          ? '书签保存在你浏览器的本地存储中。本站没有账号系统，也没有任何分析追踪器。'
+          : 'Bookmarks live in your browser\'s local storage. There is no account system and no analytics tracker on this site.'}
+      </p>
+    </div>
+    <div class="about-note panel">
+      <p class="about-note-title"><Icon name="flag" size={14} /> {zh ? '发现错误？' : 'Spot an error?'}</p>
+      <p class="about-note-text">
+        {zh
+          ? <>公开目录中的设施数据可能滞后于现实。每个项目页面都有「报告数据问题」链接，也可以在 <a href="https://github.com/Sakae28/DataCenter-Atlas/issues">GitHub</a> 上提交 issue。</>
+          : <>Facility data from public directories can lag reality. Every project page has a "Report a data issue" link, or open an issue on <a href="https://github.com/Sakae28/DataCenter-Atlas/issues">GitHub</a>.</>}
+      </p>
+    </div>
+  </div>
+</section>
+
+<p class="about-foot">
+  <a href={`${base}/rss.xml`}><Icon name="rss" size={13} /> {zh ? '通过 RSS 订阅' : 'Subscribe via RSS'}</a>
+</p>

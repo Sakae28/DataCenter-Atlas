@@ -4,7 +4,7 @@
  * Weekly/Monthly tabs + month-grouped issue list, main column with masthead,
  * lede card, stat strip, key-themes index, per-theme sections and project
  * milestones. Used by reports/index.astro (latest issue) and the
- * reports/weekly|monthly/[id] routes.
+ * reports/weekly|monthly/[id] routes, in both languages (lang prop).
  */
 import Icon from './Icon.astro';
 import {
@@ -16,6 +16,7 @@ import {
 } from '../lib/reports';
 import { formatDate, sourceDisplayName, type NewsStory } from '../lib/news';
 import { STATUS_META, type ProjectStatus } from '../lib/projects';
+import { lf, langPrefix, STATUS_LABELS_ZH, type Lang } from '../lib/i18n';
 
 const statusMeta = (s?: string | null) =>
   s && s in STATUS_META ? STATUS_META[s as ProjectStatus] : null;
@@ -24,27 +25,38 @@ interface Props {
   report: Report;
   reports: Report[];
   storiesById: Map<string, NewsStory>;
+  lang?: Lang;
 }
 
-const { report, reports, storiesById } = Astro.props;
+const { report, reports, storiesById, lang = 'en' } = Astro.props;
+const zh = lang === 'zh';
 const base = import.meta.env.BASE_URL;
-const href = (r: Report) => `${base}${reportPath(r)}`;
+const prefix = langPrefix(lang);
+const href = (r: Report) => `${base}${prefix}${reportPath(r)}`;
 
 const sameType = reports.filter((r) => r.type === report.type);
-const railGroups = groupByMonth(sameType);
+const railGroups = groupByMonth(sameType, lang);
 const latestOf = (type: Report['type']) => reports.find((r) => r.type === type);
 const latestWeekly = latestOf('weekly');
 const latestMonthly = latestOf('monthly');
 
-const kindLabel = report.type === 'weekly' ? 'WEEKLY' : 'MONTHLY';
-const briefLabel = report.type === 'weekly' ? 'The week in brief' : 'The month in brief';
+const kindLabel = zh
+  ? (report.type === 'weekly' ? '周报' : '月报')
+  : (report.type === 'weekly' ? 'WEEKLY' : 'MONTHLY');
+const briefLabel = zh
+  ? (report.type === 'weekly' ? '本周速览' : '本月速览')
+  : (report.type === 'weekly' ? 'The week in brief' : 'The month in brief');
 const totalThemeStories = report.themes.reduce((n, t) => n + t.story_ids.length, 0);
 
-const fmtDay = (iso: string) => formatDate(iso.slice(0, 10));
+const fmtDay = (iso: string) => formatDate(iso.slice(0, 10), lang);
+const reportTitle = lf(report, 'title', lang);
+const storyWord = (n: number) => (zh ? `${n} 条新闻` : `${n} ${n === 1 ? 'story' : 'stories'}`);
+const statusLabel = (s: string | null | undefined, fallback: string) =>
+  zh && s ? (STATUS_LABELS_ZH[s] ?? fallback) : fallback;
 ---
 
 <div class="report-layout">
-  <aside class="report-rail" aria-label="Report issues">
+  <aside class="report-rail" aria-label={zh ? '报告列表' : 'Report issues'}>
     <div class="report-tabs" role="tablist">
       {latestWeekly ? (
         <a
@@ -53,9 +65,9 @@ const fmtDay = (iso: string) => formatDate(iso.slice(0, 10));
           href={href(latestWeekly)}
           role="tab"
           aria-selected={report.type === 'weekly'}
-        >Weekly</a>
+        >{zh ? '周报' : 'Weekly'}</a>
       ) : (
-        <span class="report-tab is-disabled">Weekly</span>
+        <span class="report-tab is-disabled">{zh ? '周报' : 'Weekly'}</span>
       )}
       {latestMonthly ? (
         <a
@@ -64,9 +76,9 @@ const fmtDay = (iso: string) => formatDate(iso.slice(0, 10));
           href={href(latestMonthly)}
           role="tab"
           aria-selected={report.type === 'monthly'}
-        >Monthly</a>
+        >{zh ? '月报' : 'Monthly'}</a>
       ) : (
-        <span class="report-tab is-disabled">Monthly</span>
+        <span class="report-tab is-disabled">{zh ? '月报' : 'Monthly'}</span>
       )}
     </div>
 
@@ -86,8 +98,8 @@ const fmtDay = (iso: string) => formatDate(iso.slice(0, 10));
                 href={href(r)}
               >
                 <span class="report-issue-badge">{issueBadge(r)}</span>
-                <span class="report-issue-title">{r.title}</span>
-                {!r.complete && <span class="report-issue-partial" title="Partial: period still in progress or days missing">•</span>}
+                <span class="report-issue-title">{lf(r, 'title', lang)}</span>
+                {!r.complete && <span class="report-issue-partial" title={zh ? '不完整：周期仍在进行中或部分日期缺失' : 'Partial: period still in progress or days missing'}>•</span>}
               </a>
             </li>
           ))}
@@ -99,53 +111,55 @@ const fmtDay = (iso: string) => formatDate(iso.slice(0, 10));
   <div class="report-main">
     <header class="report-masthead">
       <p class="report-kicker">
-        VOL. {report.period} · {report.stats.stories} STORIES · DATACENTER ATLAS {kindLabel}
+        {zh
+          ? `VOL. ${report.period} · ${report.stats.stories} 条新闻 · DATACENTER ATLAS ${kindLabel}`
+          : `VOL. ${report.period} · ${report.stats.stories} STORIES · DATACENTER ATLAS ${kindLabel}`}
       </p>
-      <h1 class="report-title">{report.title}</h1>
+      <h1 class="report-title">{reportTitle}</h1>
       <p class="report-meta">
-        {formatRange(report)} · {kindLabel} · Compiled automatically
+        {formatRange(report, lang)} · {kindLabel} · {zh ? '自动汇编' : 'Compiled automatically'}
         {!report.complete && (
-          <span class="badge featured report-partial-badge">Partial — period in progress or archive gaps</span>
+          <span class="badge featured report-partial-badge">{zh ? '不完整 — 周期进行中或归档有缺失' : 'Partial — period in progress or archive gaps'}</span>
         )}
       </p>
     </header>
 
     <section class="panel report-lede">
       <p class="report-section-label">{briefLabel}</p>
-      <p class="report-lede-text">{report.lede}</p>
+      <p class="report-lede-text">{lf(report, 'lede', lang)}</p>
     </section>
 
     <section class="report-stat-grid">
       <div class="panel report-stat">
         <p class="report-stat-value">{report.stats.stories}</p>
-        <p class="report-stat-label">Stories</p>
+        <p class="report-stat-label">{zh ? '新闻' : 'Stories'}</p>
       </div>
       <div class="panel report-stat">
         <p class="report-stat-value">{report.stats.sources}</p>
-        <p class="report-stat-label">Sources</p>
+        <p class="report-stat-label">{zh ? '来源' : 'Sources'}</p>
       </div>
       <div class="panel report-stat">
         <p class="report-stat-value">{report.stats.days}</p>
-        <p class="report-stat-label">Days covered</p>
+        <p class="report-stat-label">{zh ? '覆盖天数' : 'Days covered'}</p>
       </div>
       <div class="panel report-stat">
-        <p class="report-stat-value">≈{report.stats.read_minutes} min</p>
-        <p class="report-stat-label">To read this page</p>
+        <p class="report-stat-value">{zh ? `约 ${report.stats.read_minutes} 分钟` : `≈${report.stats.read_minutes} min`}</p>
+        <p class="report-stat-label">{zh ? '读完本页' : 'To read this page'}</p>
       </div>
     </section>
 
     {report.themes.length > 0 && (
       <section class="panel report-themes-index">
         <div class="report-themes-head">
-          <h2 class="panel-title">Key themes</h2>
-          <span class="report-themes-count">{report.themes.length} themes · {totalThemeStories} stories</span>
+          <h2 class="panel-title">{zh ? '关键主题' : 'Key themes'}</h2>
+          <span class="report-themes-count">{zh ? `${report.themes.length} 个主题 · ${totalThemeStories} 条新闻` : `${report.themes.length} themes · ${totalThemeStories} stories`}</span>
         </div>
         <ol class="report-theme-list">
           {report.themes.map((theme, i) => (
             <li>
               <a class="report-theme-row" href={`#theme-${i + 1}`}>
                 <span class="report-theme-num">{String(i + 1).padStart(2, '0')}</span>
-                <span class="report-theme-heading">{theme.heading}</span>
+                <span class="report-theme-heading">{lf(theme, 'heading', lang)}</span>
                 <span class="report-theme-count">{theme.story_ids.length}</span>
               </a>
             </li>
@@ -158,17 +172,17 @@ const fmtDay = (iso: string) => formatDate(iso.slice(0, 10));
       <section class="report-theme-section" id={`theme-${i + 1}`}>
         <h2 class="report-theme-title">
           <span class="report-theme-num">{String(i + 1).padStart(2, '0')}</span>
-          {theme.heading}
-          <span class="report-theme-count">{theme.story_ids.length} {theme.story_ids.length === 1 ? 'story' : 'stories'}</span>
+          {lf(theme, 'heading', lang)}
+          <span class="report-theme-count">{storyWord(theme.story_ids.length)}</span>
         </h2>
-        {theme.narrative && <p class="report-theme-narrative">{theme.narrative}</p>}
+        {lf(theme, 'narrative', lang) && <p class="report-theme-narrative">{lf(theme, 'narrative', lang)}</p>}
         <div class="panel report-story-list">
           {theme.story_ids.map((id) => {
             const story = storiesById.get(id);
             if (!story) return null;
             return (
               <div class="report-story-row">
-                <a class="report-story-title" href={`${base}/news/${story.id}/`}>{story.title}</a>
+                <a class="report-story-title" href={`${base}${prefix}/news/${story.id}/`}>{lf(story, 'title', lang)}</a>
                 <span class="report-story-meta">
                   <span class="report-story-source">{sourceDisplayName(story.sources[0], story)}</span>
                   <span class="report-story-date">{fmtDay(story.published_at)}</span>
@@ -183,14 +197,14 @@ const fmtDay = (iso: string) => formatDate(iso.slice(0, 10));
     {report.project_milestones.length > 0 && (
       <section class="report-theme-section">
         <h2 class="report-theme-title">
-          Project milestones
+          {zh ? '项目里程碑' : 'Project milestones'}
           <span class="report-theme-count">{report.project_milestones.length}</span>
         </h2>
         <div class="panel report-story-list">
           {report.project_milestones.map((m) => (
             <div class="report-story-row">
               <span class="report-story-title">
-                <a href={`${base}/projects/${m.project_id}/`}>{m.name}</a>
+                <a href={`${base}${prefix}/projects/${m.project_id}/`}>{m.name}</a>
                 <span class="report-milestone-op">{m.operator}</span>
               </span>
               <span class="report-story-meta">
@@ -202,13 +216,13 @@ const fmtDay = (iso: string) => formatDate(iso.slice(0, 10));
                     if (m.kind === 'status_change' && prev) {
                       return (
                         <>
-                          <span class={`badge ${prev.className}`}>{prev.label}</span>
+                          <span class={`badge ${prev.className}`}>{statusLabel(m.prev_status, prev.label)}</span>
                           {' → '}
-                          <span class={`badge ${cur.className}`}>{cur.label}</span>
+                          <span class={`badge ${cur.className}`}>{statusLabel(m.status, cur.label)}</span>
                         </>
                       );
                     }
-                    return <span class={`badge ${cur.className}`}>{cur.label}</span>;
+                    return <span class={`badge ${cur.className}`}>{statusLabel(m.status, cur.label)}</span>;
                   })()}
                 </span>
                 <span class="report-story-date">{fmtDay(m.date)}</span>
@@ -220,8 +234,9 @@ const fmtDay = (iso: string) => formatDate(iso.slice(0, 10));
     )}
 
     <p class="report-footnote">
-      Generated {formatDate(report.generated_at.slice(0, 10))} from the daily digest archive.
-      Themes and narratives are AI-compiled; all linked stories credit their original sources.
+      {zh
+        ? `由每日新闻归档于 ${formatDate(report.generated_at.slice(0, 10), lang)} 自动汇编。主题与叙述由 AI 整理；所有链接新闻均已注明原始来源。`
+        : `Generated ${formatDate(report.generated_at.slice(0, 10))} from the daily digest archive. Themes and narratives are AI-compiled; all linked stories credit their original sources.`}
     </p>
   </div>
 </div>

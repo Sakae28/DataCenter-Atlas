@@ -8,6 +8,9 @@ import Icon from './Icon.astro';
 interface Props {
   /** Tooltip text shown on hover/focus. */
   tip: string;
+  /** Accepted for consistency with other shared components; the caller
+      supplies the already-localized `tip` text. */
+  lang?: import('../lib/i18n').Lang;
 }
 
 const { tip } = Astro.props;

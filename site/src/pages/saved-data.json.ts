@@ -15,6 +15,7 @@ export const GET: APIRoute = () => {
   const news = loadAllStories().map(({ story }) => ({
     id: story.id,
     t: story.title,
+    tz: story.title_zh ?? null,
     d: formatDate(story.published_at.slice(0, 10)),
     s: sourceDisplayName(story.sources[0], story),
     co: (story.companies ?? []).map((c) => [c, slugs.get(c.toLowerCase()) ?? null]),

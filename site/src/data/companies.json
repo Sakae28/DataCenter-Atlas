@@ -2,241 +2,289 @@
   "GDS": {
     "domain": "gds-services.com",
     "category": "Colocation",
-    "blurb": "China's leading carrier-neutral data center provider; its overseas business operates as DayOne."
+    "blurb": "China's leading carrier-neutral data center provider; its overseas business operates as DayOne.",
+    "blurb_zh": "中国领先的运营商中立数据中心服务商；其海外业务以DayOne品牌运营。"
   },
   "NTT Global Data Centers": {
     "domain": "ntt.com",
     "category": "Colocation",
-    "blurb": "One of the world's top-three colocation platforms, part of the NTT DOCOMO group."
+    "blurb": "One of the world's top-three colocation platforms, part of the NTT DOCOMO group.",
+    "blurb_zh": "全球三大colocation平台之一，隶属于NTT DOCOMO集团。"
   },
   "Equinix": {
     "domain": "equinix.com",
     "category": "Colocation",
-    "blurb": "The world's largest colocation and interconnection provider."
+    "blurb": "The world's largest colocation and interconnection provider.",
+    "blurb_zh": "全球最大的colocation与互联互通服务商。"
   },
   "China Telecom": {
     "domain": "chinatelecom.com.cn",
     "category": "Telco & Carrier",
-    "blurb": "One of China's three state-owned carriers, operating a vast IDC footprint nationwide."
+    "blurb": "One of China's three state-owned carriers, operating a vast IDC footprint nationwide.",
+    "blurb_zh": "中国三大国有电信运营商之一，在全国范围内运营庞大的IDC布局。"
   },
   "CDC Data Centres": {
     "domain": "cdc.com.au",
     "category": "Colocation",
-    "blurb": "Canberra-headquartered operator focused on secure, sovereign-capable facilities across ANZ."
+    "blurb": "Canberra-headquartered operator focused on secure, sovereign-capable facilities across ANZ.",
+    "blurb_zh": "总部位于堪培拉的运营商，专注于在澳新地区建设安全、具备主权能力的设施。"
   },
   "AWS": {
     "domain": "aws.amazon.com",
     "category": "Hyperscale & Cloud",
-    "blurb": "Amazon's cloud platform — a mix of self-built campuses and wholesale leases across APAC."
+    "blurb": "Amazon's cloud platform — a mix of self-built campuses and wholesale leases across APAC.",
+    "blurb_zh": "亚马逊的云平台——在亚太地区采用自建园区与批发租赁相结合的模式。"
   },
   "STT GDC": {
     "domain": "sttelemediagdc.com",
     "category": "Colocation",
-    "blurb": "Singapore-based colocation platform with 100+ facilities across Asia and Europe."
+    "blurb": "Singapore-based colocation platform with 100+ facilities across Asia and Europe.",
+    "blurb_zh": "总部位于新加坡的colocation平台，在亚洲和欧洲拥有100多个设施。"
   },
   "KDDI Telehouse": {
     "domain": "telehouse.com",
     "category": "Telco & Carrier",
-    "blurb": "KDDI's colocation arm, a fixture of Japan's carrier-neutral interconnection scene."
+    "blurb": "KDDI's colocation arm, a fixture of Japan's carrier-neutral interconnection scene.",
+    "blurb_zh": "KDDI旗下的colocation业务，是日本运营商中立互联互通领域的常客。"
   },
   "China Mobile": {
     "domain": "chinamobileltd.com",
     "category": "Telco & Carrier",
-    "blurb": "The world's largest mobile operator, building out cloud and IDC campuses across China."
+    "blurb": "The world's largest mobile operator, building out cloud and IDC campuses across China.",
+    "blurb_zh": "全球最大的移动运营商，正在中国各地建设云和IDC园区。"
   },
   "Digital Realty": {
     "domain": "digitalrealty.com",
     "category": "Colocation",
-    "blurb": "US-listed data center REIT with a global carrier-neutral portfolio."
+    "blurb": "US-listed data center REIT with a global carrier-neutral portfolio.",
+    "blurb_zh": "美国上市的数据中心REIT，拥有全球化的运营商中立资产组合。"
   },
   "Alibaba Cloud": {
     "domain": "alibabacloud.com",
     "category": "Hyperscale & Cloud",
-    "blurb": "Alibaba's cloud arm — China's largest public cloud, with self-built campuses nationwide."
+    "blurb": "Alibaba's cloud arm — China's largest public cloud, with self-built campuses nationwide.",
+    "blurb_zh": "阿里巴巴旗下的云业务——中国最大的公有云，在全国建有自建园区。"
   },
   "NEXTDC": {
     "domain": "nextdc.com.au",
     "category": "Colocation",
-    "blurb": "Australia's leading independent colocation provider, expanding into Southeast Asia."
+    "blurb": "Australia's leading independent colocation provider, expanding into Southeast Asia.",
+    "blurb_zh": "澳大利亚领先的独立colocation服务商，正在向东南亚扩张。"
   },
   "Digital Edge": {
     "domain": "digitaledgedc.com",
     "category": "Colocation",
-    "blurb": "Stonepeak-backed platform focused on carrier-dense facilities across Asia."
+    "blurb": "Stonepeak-backed platform focused on carrier-dense facilities across Asia.",
+    "blurb_zh": "Stonepeak支持的平台，专注于亚洲各地运营商资源密集的设施。"
   },
   "AirTrunk": {
     "domain": "airtrunk.com",
     "category": "Colocation",
-    "blurb": "Macquarie-backed hyperscale wholesale operator, one of APAC's largest independent platforms."
+    "blurb": "Macquarie-backed hyperscale wholesale operator, one of APAC's largest independent platforms.",
+    "blurb_zh": "Macquarie支持的hyperscale批发运营商，是亚太地区最大的独立平台之一。"
   },
   "Princeton Digital Group": {
     "domain": "princetondg.com",
     "category": "Colocation",
-    "blurb": "Warburg Pincus-backed hyperscale platform spanning China and Southeast Asia."
+    "blurb": "Warburg Pincus-backed hyperscale platform spanning China and Southeast Asia.",
+    "blurb_zh": "Warburg Pincus支持的hyperscale平台，业务横跨中国和东南亚。"
   },
   "Keppel Data Centres": {
     "domain": "keppel.com",
     "category": "Colocation",
-    "blurb": "The data center arm of Singapore's Keppel Corporation."
+    "blurb": "The data center arm of Singapore's Keppel Corporation.",
+    "blurb_zh": "新加坡吉宝企业（Keppel Corporation）旗下的数据中心业务。"
   },
   "Microsoft": {
     "domain": "microsoft.com",
     "category": "Hyperscale & Cloud",
-    "blurb": "Azure's APAC expansion mixes owned campuses, land banks and wholesale leases."
+    "blurb": "Azure's APAC expansion mixes owned campuses, land banks and wholesale leases.",
+    "blurb_zh": "Azure在亚太的扩张结合了自有园区、土地储备和批发租赁。"
   },
   "STACK": {
     "domain": "stackinfra.com",
     "category": "Colocation",
-    "blurb": "IPI-backed hyperscale developer-operator, rapidly expanding across APAC markets."
+    "blurb": "IPI-backed hyperscale developer-operator, rapidly expanding across APAC markets.",
+    "blurb_zh": "IPI支持的hyperscale开发运营商，正在亚太各市场快速扩张。"
   },
   "Huawei Cloud": {
     "domain": "huaweicloud.com",
     "category": "Hyperscale & Cloud",
-    "blurb": "Huawei's cloud business, anchored by large self-built campuses in Guizhou and beyond."
+    "blurb": "Huawei's cloud business, anchored by large self-built campuses in Guizhou and beyond.",
+    "blurb_zh": "华为的云业务，以贵州等地的大型自建园区为依托。"
   },
   "Bridge Data Centres": {
     "domain": "bridgedc.com",
     "category": "Colocation",
-    "blurb": "Chindata's international hyperscale platform serving Southeast Asia and India."
+    "blurb": "Chindata's international hyperscale platform serving Southeast Asia and India.",
+    "blurb_zh": "Chindata旗下的国际hyperscale平台，服务东南亚和印度市场。"
   },
   "KT": {
     "domain": "kt.com",
     "category": "Telco & Carrier",
-    "blurb": "Korea's incumbent carrier, operating IDCs under the kt cloud brand."
+    "blurb": "Korea's incumbent carrier, operating IDCs under the kt cloud brand.",
+    "blurb_zh": "韩国主导运营商,以 kt cloud 品牌运营IDC。"
   },
   "China Unicom": {
     "domain": "chinaunicom.com.cn",
     "category": "Telco & Carrier",
-    "blurb": "China's second-largest carrier, with a national IDC and cloud network."
+    "blurb": "China's second-largest carrier, with a national IDC and cloud network.",
+    "blurb_zh": "中国第二大运营商,拥有全国性IDC与云网络。"
   },
   "DCI Indonesia": {
     "domain": "dci-indonesia.com",
     "category": "Colocation",
-    "blurb": "Indonesia's leading enterprise-grade colocation provider."
+    "blurb": "Indonesia's leading enterprise-grade colocation provider.",
+    "blurb_zh": "印度尼西亚领先的企业级colocation提供商。"
   },
   "Tencent Cloud": {
     "domain": "tencent.com",
     "category": "Hyperscale & Cloud",
-    "blurb": "Tencent's cloud arm, anchored by mega-campuses like Gui'an Seven Star."
+    "blurb": "Tencent's cloud arm, anchored by mega-campuses like Gui'an Seven Star.",
+    "blurb_zh": "Tencent的云业务,以贵安七星等超大型园区为依托。"
   },
   "Google": {
     "domain": "google.com",
     "category": "Hyperscale & Cloud",
-    "blurb": "Google Cloud's APAC footprint — self-built campuses in Singapore, Japan and Taiwan."
+    "blurb": "Google Cloud's APAC footprint — self-built campuses in Singapore, Japan and Taiwan.",
+    "blurb_zh": "Google Cloud的亚太布局——在新加坡、日本和台湾自建园区。"
   },
   "Global Switch": {
     "domain": "globalswitch.com",
     "category": "Colocation",
-    "blurb": "Long-standing carrier-neutral operator with landmark facilities in Singapore, Sydney and Hong Kong."
+    "blurb": "Long-standing carrier-neutral operator with landmark facilities in Singapore, Sydney and Hong Kong.",
+    "blurb_zh": "历史悠久的carrier-neutral运营商,在新加坡、悉尼和香港拥有标志性设施。"
   },
   "Colt Data Centre Services": {
     "domain": "colt.net",
     "category": "Colocation",
-    "blurb": "Fidelity-backed operator with deep roots in Japan's enterprise colocation market."
+    "blurb": "Fidelity-backed operator with deep roots in Japan's enterprise colocation market.",
+    "blurb_zh": "Fidelity投资的运营商,深耕日本企业级colocation市场。"
   },
   "Vocus Communications": {
     "domain": "vocus.com.au",
     "category": "Telco & Carrier",
-    "blurb": "Australian telco and fiber operator with a national data center network."
+    "blurb": "Australian telco and fiber operator with a national data center network.",
+    "blurb_zh": "澳大利亚电信和光纤运营商,拥有全国性数据中心网络。"
   },
   "Naver": {
     "domain": "navercorp.com",
     "category": "Hyperscale & Cloud",
-    "blurb": "Korea's largest internet company, building hyperscale campuses for its cloud platform."
+    "blurb": "Korea's largest internet company, building hyperscale campuses for its cloud platform.",
+    "blurb_zh": "韩国最大的互联网公司,正为其云平台建设hyperscale园区。"
   },
   "ESR Group": {
     "domain": "esr.com",
     "category": "Developer & Investor",
-    "blurb": "APAC's largest logistics-real-estate developer, now a major data center developer-landlord."
+    "blurb": "APAC's largest logistics-real-estate developer, now a major data center developer-landlord.",
+    "blurb_zh": "亚太最大的物流地产开发商,现已成为重要的数据中心开发商兼业主。"
   },
   "Goodman Group": {
     "domain": "goodman.com",
     "category": "Developer & Investor",
-    "blurb": "Global industrial property group developing powered-shell campuses for hyperscale tenants."
+    "blurb": "Global industrial property group developing powered-shell campuses for hyperscale tenants.",
+    "blurb_zh": "全球性工业地产集团,为hyperscale租户开发供电壳体(powered-shell)园区。"
   },
   "Vantage Data Centers": {
     "domain": "vantage-dc.com",
     "category": "Colocation",
-    "blurb": "DigitalBridge-backed hyperscale wholesale platform with APAC campuses in Japan, Australia, Malaysia and Taiwan."
+    "blurb": "DigitalBridge-backed hyperscale wholesale platform with APAC campuses in Japan, Australia, Malaysia and Taiwan.",
+    "blurb_zh": "DigitalBridge投资的hyperscale批发平台,在日本、澳大利亚、马来西亚和台湾设有亚太园区。"
   },
   "DayOne": {
     "domain": "dayonedc.com",
     "category": "Colocation",
-    "blurb": "GDS's international arm, rebranded from GDS International in 2025 — Singapore-based hyperscale platform expanding across Southeast Asia, Japan and Europe."
+    "blurb": "GDS's international arm, rebranded from GDS International in 2025 — Singapore-based hyperscale platform expanding across Southeast Asia, Japan and Europe.",
+    "blurb_zh": "GDS的国际业务,2025年由GDS International更名而来——总部位于新加坡的hyperscale平台,业务扩展至东南亚、日本和欧洲。"
   },
   "VNET": {
     "domain": "vnet.com",
     "category": "Colocation",
-    "blurb": "Nasdaq-listed carrier-neutral IDC operator, one of China's largest third-party data center providers."
+    "blurb": "Nasdaq-listed carrier-neutral IDC operator, one of China's largest third-party data center providers.",
+    "blurb_zh": "纳斯达克上市的carrier-neutral IDC运营商,中国最大的第三方数据中心提供商之一。"
   },
   "EdgeConneX": {
     "domain": "edgeconnex.com",
     "category": "Colocation",
-    "blurb": "EQT-backed colocation operator spanning edge to hyperscale, with a growing APAC footprint including Indonesia."
+    "blurb": "EQT-backed colocation operator spanning edge to hyperscale, with a growing APAC footprint including Indonesia.",
+    "blurb_zh": "EQT投资的colocation运营商,业务覆盖从edge到hyperscale,亚太布局不断扩张,包括印度尼西亚。"
   },
   "Oracle": {
     "domain": "oracle.com",
     "category": "Hyperscale & Cloud",
-    "blurb": "Database and cloud giant pouring capex into GPU-dense OCI regions, with Stargate-scale AI ambitions."
+    "blurb": "Database and cloud giant pouring capex into GPU-dense OCI regions, with Stargate-scale AI ambitions.",
+    "blurb_zh": "数据库与云巨头,正向GPU密集的OCI区域大举投入资本开支,并怀有Stargate规模的AI雄心。"
   },
   "Meta": {
     "domain": "meta.com",
     "category": "Hyperscale & Cloud",
-    "blurb": "Facebook's parent; one of the world's largest data center builders and a major APAC capacity lessee."
+    "blurb": "Facebook's parent; one of the world's largest data center builders and a major APAC capacity lessee.",
+    "blurb_zh": "Facebook的母公司;全球最大的数据中心建设者之一,也是亚太地区的主要容量承租方。"
   },
   "CoreWeave": {
     "domain": "coreweave.com",
     "category": "Neocloud & GPU Cloud",
-    "blurb": "The largest pure-play AI neocloud; NVIDIA-backed hyperscale GPU capacity on long-term contracts."
+    "blurb": "The largest pure-play AI neocloud; NVIDIA-backed hyperscale GPU capacity on long-term contracts.",
+    "blurb_zh": "最大的纯正AI neocloud;NVIDIA支持的hyperscale GPU容量,以长期合约运营。"
   },
   "Nebius": {
     "domain": "nebius.com",
     "category": "Neocloud & GPU Cloud",
-    "blurb": "Amsterdam-based AI cloud spun out of Yandex, scaling GPU capacity across Europe and the US."
+    "blurb": "Amsterdam-based AI cloud spun out of Yandex, scaling GPU capacity across Europe and the US.",
+    "blurb_zh": "总部位于阿姆斯特丹的AI云公司,从Yandex分拆而来,正在欧洲和美国扩展GPU容量。"
   },
   "Lambda": {
     "domain": "lambda.ai",
     "category": "Neocloud & GPU Cloud",
-    "blurb": "US GPU cloud provider serving AI labs and enterprises, expanding into large-scale campuses."
+    "blurb": "US GPU cloud provider serving AI labs and enterprises, expanding into large-scale campuses.",
+    "blurb_zh": "美国GPU云服务商,服务AI实验室和企业客户,正向大规模园区扩张。"
   },
   "Crusoe": {
     "domain": "crusoe.ai",
     "category": "Neocloud & GPU Cloud",
-    "blurb": "AI infrastructure builder that started on stranded energy; now developing hyperscale GPU campuses."
+    "blurb": "AI infrastructure builder that started on stranded energy; now developing hyperscale GPU campuses.",
+    "blurb_zh": "从搁浅能源起步的AI基础设施开发商,目前正在开发hyperscale GPU园区。"
   },
   "IREN": {
     "domain": "iren.com",
     "category": "Neocloud & GPU Cloud",
-    "blurb": "Australian-listed bitcoin miner turned AI cloud operator, converting power-rich sites into GPU data centers."
+    "blurb": "Australian-listed bitcoin miner turned AI cloud operator, converting power-rich sites into GPU data centers.",
+    "blurb_zh": "澳大利亚上市的比特币矿企转型为AI云运营商,将电力资源丰富的站点改造为GPU数据中心。"
   },
   "Applied Digital": {
     "domain": "applieddigital.com",
     "category": "Neocloud & GPU Cloud",
-    "blurb": "US developer of purpose-built AI data centers, anchored by long-term neocloud leases."
+    "blurb": "US developer of purpose-built AI data centers, anchored by long-term neocloud leases.",
+    "blurb_zh": "美国定制化AI数据中心开发商,以长期neocloud租约为支撑。"
   },
   "Fluidstack": {
     "domain": "fluidstack.io",
     "category": "Neocloud & GPU Cloud",
-    "blurb": "GPU cloud provider partnering with governments and labs on sovereign AI capacity."
+    "blurb": "GPU cloud provider partnering with governments and labs on sovereign AI capacity.",
+    "blurb_zh": "与各国政府及实验室合作建设主权AI算力的GPU云服务商。"
   },
   "GMI Cloud": {
     "domain": "gmicloud.ai",
     "category": "Neocloud & GPU Cloud",
-    "blurb": "Taiwan-rooted GPU cloud operating AI data centers across the US and Asia."
+    "blurb": "Taiwan-rooted GPU cloud operating AI data centers across the US and Asia.",
+    "blurb_zh": "根植于台湾的GPU云服务商,在美国和亚洲多地运营AI数据中心。"
   },
   "Firmus Technologies": {
     "domain": "firmus.co",
     "category": "Neocloud & GPU Cloud",
-    "blurb": "Tasmanian AI infrastructure pioneer behind Sustainable Metal Cloud; listed on the ASX in 2026."
+    "blurb": "Tasmanian AI infrastructure pioneer behind Sustainable Metal Cloud; listed on the ASX in 2026.",
+    "blurb_zh": "塔斯马尼亚AI基础设施先驱,Sustainable Metal Cloud的幕后公司;于2026年在ASX上市。"
   },
   "SharonAI": {
     "domain": "sharonai.com",
     "category": "Neocloud & GPU Cloud",
-    "blurb": "Australian neocloud building sovereign GPU capacity with local partners."
+    "blurb": "Australian neocloud building sovereign GPU capacity with local partners.",
+    "blurb_zh": "澳大利亚neocloud企业,与本地合作伙伴共建主权GPU算力。"
   },
   "SoftBank": {
     "domain": "softbank.jp",
     "category": "Telco & Carrier",
-    "blurb": "Japanese telco-turned-AI-infrastructure group: SoftBank Corp operates domestic DCs and the Sakai AI campus, while SoftBank Group backs Stargate-scale AI investments."
+    "blurb": "Japanese telco-turned-AI-infrastructure group: SoftBank Corp operates domestic DCs and the Sakai AI campus, while SoftBank Group backs Stargate-scale AI investments.",
+    "blurb_zh": "由电信运营商转型为AI基础设施集团的日本企业:SoftBank Corp运营日本国内数据中心及Sakai AI园区,而SoftBank Group则支持Stargate级别的AI投资。"
   }
 }

@@ -23,7 +23,9 @@
         "2026-08-17-b3de1a",
         "2026-08-18-ee0873",
         "2026-08-13-2788d9"
-      ]
+      ],
+      "heading_zh": "AI 预租赁收紧供应，数据中心交易管线创纪录",
+      "narrative_zh": "亚太地区的开发项目管线在2026年上半年达到创纪录的26.5 GW，AI租户的预租需求正在挤压东南亚、中国、日本、韩国和澳大利亚的可用容量。全球范围内，JLL测算上半年吸纳量为25 GW，约为上年同期的两倍，远超预期。这些数据勾勒出一个需求（而非资本）不再构成制约的市场格局。"
     },
     {
       "heading": "Johor and Singapore anchor Southeast Asian growth",
@@ -35,7 +37,9 @@
         "2026-08-21-0b9a75",
         "2026-08-25-ea6b1e",
         "2026-08-18-efc391"
-      ]
+      ],
+      "heading_zh": "柔佛与新加坡引领东南亚增长",
+      "narrative_zh": "YTL Power与JLand宣布计划在柔佛建设最高1.5 GW的数据中心园区，为东南亚拟建规模最大的项目之一；与此同时，STT GDC为其柔佛旗舰园区获得最高13.7亿美元的绿色融资。在新加坡，政府在第二轮容量征集申请中向Digital Realty、Equinix、Keppel和STT GDC各授予50 MW，Digital Realty另公布在裕廊岛建设一座50 MW的AI专用设施。DayOne新增一笔5.3亿新元的绿色贷款，用于在新加坡建设氢能驱动的概念验证站点。"
     },
     {
       "heading": "Japan's build-out spreads beyond the capital",
@@ -46,7 +50,9 @@
         "2026-08-17-7384e1",
         "2026-08-18-5a86dd",
         "2026-08-13-63114b"
-      ]
+      ],
+      "heading_zh": "日本的建设热潮扩展至首都圈之外",
+      "narrative_zh": "秋田县将承接日本最大的AI数据中心，该项目估算投资约2万亿日元（约合126至130亿美元），并由海上风电提供电力支撑。在离东京更近的地方，Goodman就其规划中的1 GW筑波园区首期50 MW与一家全球hyperscaler签署了20年租约，电力已从TEPCO获得保障。与此同时，一个由NTT支持的财团将目光投向北海道石狩，拟将其打造为新枢纽，凸显出行业向拥有土地、电力资源和更凉爽气候的北部地区转移的趋势。"
     },
     {
       "heading": "Korea scales AI capacity amid local pushback",
@@ -59,7 +65,9 @@
         "2026-08-17-7abad1",
         "2026-08-14-113fcc",
         "2026-08-13-1ecf33"
-      ]
+      ],
+      "heading_zh": "韩国在本地反对声中扩大 AI 容量",
+      "narrative_zh": "韩国启动了一项据称规模达1,200万亿韩元的数据中心投资计划，以推动AI基础设施本土化；NVIDIA承诺向NAVER投资10亿美元以扩大韩国本土AI算力，阿里云则在韩国开设了第三座设施。韩国电信运营商的AI数据中心销售额合计突破1万亿韩元，凸显其作为基础设施提供商的角色日益增强。这轮热潮正遭遇阻力：首尔居民反对在社区附近新建数据中心，政策制定者也在呼吁对用电和选址实施更严格的监管。"
     },
     {
       "heading": "China demand lifts GDS as capacity shifts inland",
@@ -71,7 +79,9 @@
         "2026-08-17-298f7e",
         "2026-08-17-c9bcc2",
         "2026-08-20-67a0e3"
-      ]
+      ],
+      "heading_zh": "中国需求提振 GDS，产能向内陆转移",
+      "narrative_zh": "万国数据（GDS Holdings）因AI需求走强和预订量创纪录而上调全年营收和EBITDA指引，推动股价上涨7.6%，并引发分析师认为该股可能仍被低估三分之一的观点。激增的AI算力需求正推动中国科技巨头向内蒙古转移，当地能源资源和更凉爽的气候是主要吸引力，容量正从沿海枢纽重新分布。另外，TechInsights分析了中国能否在不使用NVIDIA GPU的情况下提供有竞争力的数据中心AI性能，将国产芯片能力称为一个价值1,000亿美元的问题。"
     },
     {
       "heading": "Australia races to match grid with gigawatt ambitions",
@@ -83,7 +93,9 @@
         "2026-08-25-e3d1f1",
         "2026-08-19-97613a",
         "2026-08-18-4f6052"
-      ]
+      ],
+      "heading_zh": "澳大利亚加速电网建设以匹配千兆瓦级雄心",
+      "narrative_zh": "Centuria与ResetData加速推进250 MW的AI项目管线，获得1.65亿澳元的GPU融资并完成3亿澳元的股权融资，同时与CDC Data Centres签署7 MW容量协议，并获得Macquarie的过桥融资。另有报道称Macquarie正关注Stack Infrastructure的亚太资产组合，估值超过250亿美元；总部位于新加坡的Zerra DC提交了在昆士兰建设1.44 GW园区的规划。Transgrid推出六部分就绪测试，作为向大型负荷授予电网容量的前置条件；一位联邦部长则阐述了将投资热潮转化为主权AI能力的愿景。"
     }
   ],
   "project_milestones": [
@@ -495,5 +507,7 @@
       "change": "First tracked as operational",
       "story_id": null
     }
-  ]
+  ],
+  "title_zh": "APAC项目储备创历史新高，AI竞赛持续扩大",
+  "lede_zh": "根据JLL的数据，2026年上半年亚太地区数据中心开发管道达到创纪录的26.5 GW，全球吸纳量同比翻倍至25 GW，AI预租使该地区供应趋紧。这一轮增长分布并不均衡：柔佛巩固了其作为东南亚增长引擎的地位，YTL Power与JLand正规划一座1.5 GW的园区，STT GDC则获得了13.7亿美元的绿色融资；新加坡通过第二轮Data Centre Call for Application，将稀缺的新增容量分配给了Digital Realty、Equinix、Keppel和STT GDC。日本的建设已拓展至东京—大阪走廊之外，标志性项目包括秋田一座投资额达2万亿日元的AI园区，以及Goodman在筑波签下的一份为期20年的hyperscaler租约。韩国则推出了一项庞大的国家投资计划，并配套NVI"
 }

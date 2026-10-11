@@ -26,7 +26,9 @@
         "2026-09-25-81b553",
         "2026-09-25-b4fb04",
         "2026-09-25-1f098e"
-      ]
+      ],
+      "heading_zh": "Alibaba押注全栈AI",
+      "narrative_zh": "Alibaba发布了一款自研AI加速器，称其为国内最强，将其定位为Nvidia的国产替代方案，并披露计划训练一个拥有5至10万亿参数的模型。该公司将算力、芯片和云计算框定为一个一体化平台，目标是到2032年全球数据中心容量超过20GW，并在欧洲和中东扩张产能。与此同时，Huawei推出了集群互联技术，以支持其自有的SuperPoD架构。"
     },
     {
       "heading": "Australia tightens data centre oversight",
@@ -39,7 +41,9 @@
         "2026-09-25-2e7c83",
         "2026-09-25-adc3b2",
         "2026-09-22-f78ee5"
-      ]
+      ],
+      "heading_zh": "澳大利亚收紧数据中心监管",
+      "narrative_zh": "Victoria州禁止在住宅区建设数据中心，并提议要求运营商自行获取可再生能源、遏制向其他电力用户转嫁成本以及限制用水。Northern Territory否决了一项拟议中的全国100%抵销强制令，转而支持独立供电方案，而AEMC就大型负荷的电网成本回收开启了咨询。随着参议院调查的推进，业界人士AirTrunk和CDC呼吁制定更明确的国家标准。"
     },
     {
       "heading": "Capital floods APAC data centre assets",
@@ -56,7 +60,9 @@
         "2026-09-22-edc335",
         "2026-09-25-5db2d9",
         "2026-09-22-b6d2cb"
-      ]
+      ],
+      "heading_zh": "资本涌入亚太数据中心资产",
+      "narrative_zh": "由BlackRock和IFM Investors支持的财团进入独家谈判，拟以约250亿美元收购Stack Infrastructure的亚太区资产组合，据悉一家在NYSE上市的hyperscaler也在跟进。澳大利亚运营商今年已融资至少350亿澳元，其中85%为债务融资，而Firmus正在筹备70亿澳元的IPO，银行家称其估值可能高达1280亿澳元。AirTrunk在新加坡REIT上市前寻求一笔16亿美元贷款，Goodman的数据中心扩张计划在其年度股东大会（AGM）上遭到了股东质疑。"
     },
     {
       "heading": "Build-out spreads to new corridors",
@@ -72,7 +78,9 @@
         "2026-09-22-8ecc4b",
         "2026-09-25-0f9ed4",
         "2026-09-25-325f98"
-      ]
+      ],
+      "heading_zh": "建设热潮蔓延至新兴走廊",
+      "narrative_zh": "BDx在印度尼西亚为一个640 MW的AI园区破土动工，该项目由一笔3.2亿美元的贷款融资支持，同时马来西亚的承包商赢得了Johor和Nilai项目的电力与电气工程合同。AirTrunk提议在NSW的Hunter地区开发一个投资37亿澳元、540 MW的项目，GreenSquareDC则签约Sharon AI作为其SYD1园区的锚定客户。连接性投资也保持同步：SUBCO计划到2029年建成三条总长40,000公里的新海底光缆系统，Vocus宣布了Brisbane至Darwin的光纤线路，Open DC正在马来西亚-泰国边境建设一个互联网交换中心，以让流量绕开新加坡。"
     },
     {
       "heading": "Hardware supply chain races to catch up",
@@ -86,7 +94,9 @@
         "2026-09-22-629972",
         "2026-09-25-655716",
         "2026-09-22-257601"
-      ]
+      ],
+      "heading_zh": "硬件供应链奋力追赶需求",
+      "narrative_zh": "CXMT表示，其第五代DRAM在不使用EUV设备的情况下已可媲美Samsung和SK hynix的最佳产品，推动中国芯片行业利润激增620%。Micron展示了面向下一代AI服务器的512GB DDR5内存模块，Tower Semiconductor承诺投资40亿美元，包括在日本建设一个光学芯片中心，Intel则扩大了其在Penang的封装产能，用于多chiplet的AI处理器。分析人士指出，AI正将瓶颈从计算转向通信，光收发模块市场预计到2031年将达到1120亿美元，而LG的液冷部门获得了NVIDIA的认证。"
     },
     {
       "heading": "Southeast Asia writes its rulebook",
@@ -98,7 +108,9 @@
         "2026-09-22-822cec",
         "2026-09-25-e7b1a8",
         "2026-09-25-e1b1df"
-      ]
+      ],
+      "heading_zh": "东南亚制定自己的规则手册",
+      "narrative_zh": "泰国着手在10月中旬前敲定数据中心法规，将100 MW以上的设施归类为hyperscale，同时一项法案草案将强制要求许可，以及环境和社区健康影响评估。新加坡表示，Asean成员国应各自专业化发展而非正面竞争，Huawei正在该地区为企业客户扩展AI集群服务和企业级智能体。随着风险敞口的扩大，日本FSA加强了对银行和保险公司为AI数据中心融资的审查。"
     }
   ],
   "project_milestones": [
@@ -114,5 +126,7 @@
       "change": "First tracked as announced",
       "story_id": "2026-09-21-718ef4"
     }
-  ]
+  ],
+  "title_zh": "Alibaba全栈AI布局成为APAC地区本周焦点",
+  "lede_zh": "阿里巴巴凭借全面的全栈AI战略主导了这一时期，发布了一款其称之为中国最强大的自研芯片，披露了5-10万亿参数模型的计划，并提出到2032年数据中心容量超过20 gigawatts的目标，同时向欧洲和中东扩张。该宣布恰逢资本和监管动向重塑该地区格局之际。在澳大利亚，维多利亚州禁止在住宅区建设数据中心，并提出要求开发商自行采购可再生电力的规定；与此同时，运营商今年已筹集至少350亿澳元以债务为主的资金，Firmus正在筹备70亿澳元的IPO。由BlackRock和IFM Investors组成的财团正推进对Stack Infrastructure亚太投资组合近250亿美元的收购，这是数笔大型交易之一。"
 }

@@ -1,0 +1,43 @@
+---
+import Base from '../../../layouts/Base.astro';
+import NewsStoryPage from '../../../components/pages/NewsStoryPage.astro';
+import { loadAllStories, sourceDisplayName, type NewsStory } from '../../../lib/news';
+import { lf } from '../../../lib/i18n';
+
+export function getStaticPaths() {
+  // Mirror of pages/news/[id].astro — both locales render the same set of
+  // story ids from their own route files.
+  return loadAllStories().map(({ story, dayDate }) => ({
+    params: { id: story.id },
+    props: { story, dayDate },
+  }));
+}
+
+interface Props {
+  story: NewsStory;
+  dayDate: string;
+}
+
+const { story } = Astro.props;
+---
+
+<Base title={lf(story, 'title', 'zh')} description={lf(story, 'summary', 'zh')} active="latest" ogType="article" lang="zh">
+  <script
+    slot="head"
+    type="application/ld+json"
+    set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'NewsArticle',
+      headline: story.title,
+      description: story.summary,
+      datePublished: story.published_at,
+      author: story.sources.map((s) => ({
+        '@type': 'Organization',
+        name: sourceDisplayName(s, story),
+        url: s.url,
+      })),
+      isBasedOn: story.sources[0]?.url,
+    })}
+  />
+  <NewsStoryPage story={story} lang="zh" />
+</Base>

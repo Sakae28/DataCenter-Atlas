@@ -35,8 +35,12 @@ const SourceSchema = z.object({
 const StorySchema = z.object({
   id: z.string(),
   title: z.string(),
+  // Optional Simplified Chinese translations produced by the pipeline.
+  title_zh: z.string().optional(),
   summary: z.string(),
+  summary_zh: z.string().optional(),
   why_it_matters: z.string(),
+  why_zh: z.string().optional(),
   score: z.number().min(0).max(100).nullable(),
   heat: z.number().int().nonnegative(),
   regions: z.array(z.enum(REGIONS)).min(1),
@@ -119,14 +123,20 @@ function parseTime(iso: string): number {
 }
 
 const WEEKDAYS = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+const WEEKDAYS_ZH = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
 
-export function weekdayOf(date: string): string {
+export function weekdayOf(date: string, lang: 'en' | 'zh' = 'en'): string {
   // Parse as UTC noon to avoid timezone drift on the date itself.
-  return WEEKDAYS[new Date(`${date}T12:00:00Z`).getUTCDay()];
+  const day = new Date(`${date}T12:00:00Z`).getUTCDay();
+  return lang === 'zh' ? WEEKDAYS_ZH[day] : WEEKDAYS[day];
 }
 
-export function formatDate(date: string): string {
-  return new Date(`${date}T12:00:00Z`).toLocaleDateString('en-US', {
+export function formatDate(date: string, lang: 'en' | 'zh' = 'en'): string {
+  const d = new Date(`${date}T12:00:00Z`);
+  if (lang === 'zh') {
+    return `${d.getUTCFullYear()}年${d.getUTCMonth() + 1}月${d.getUTCDate()}日`;
+  }
+  return d.toLocaleDateString('en-US', {
     year: 'numeric',
     month: 'long',
     day: 'numeric',
@@ -144,17 +154,28 @@ export function formatTime(iso: string): string {
 }
 
 /** "August 13, 2026 · 01:57 UTC" from an ISO timestamp. */
-export function formatDateTime(iso: string): string {
+export function formatDateTime(iso: string, lang: 'en' | 'zh' = 'en'): string {
   if (Number.isNaN(Date.parse(iso))) return iso;
-  return `${formatDate(iso.slice(0, 10))} · ${formatTime(iso)} UTC`;
+  return `${formatDate(iso.slice(0, 10), lang)} · ${formatTime(iso)} UTC`;
 }
 
 /** "16 hours ago" style relative time from an ISO timestamp. */
-export function relativeTime(iso: string, now = Date.now()): string {
+export function relativeTime(iso: string, now = Date.now(), lang: 'en' | 'zh' = 'en'): string {
   const t = Date.parse(iso);
   if (Number.isNaN(t)) return '';
   const diff = Math.max(0, now - t);
   const minutes = Math.floor(diff / 60000);
+  if (lang === 'zh') {
+    if (minutes < 1) return '刚刚';
+    if (minutes < 60) return `${minutes} 分钟前`;
+    const hours = Math.floor(minutes / 60);
+    if (hours < 24) return `${hours} 小时前`;
+    const days = Math.floor(hours / 24);
+    if (days < 30) return `${days} 天前`;
+    const months = Math.floor(days / 30);
+    if (months < 12) return `${months} 个月前`;
+    return `${Math.floor(months / 12)} 年前`;
+  }
   if (minutes < 1) return 'just now';
   if (minutes < 60) return `${minutes} minute${minutes === 1 ? '' : 's'} ago`;
   const hours = Math.floor(minutes / 60);

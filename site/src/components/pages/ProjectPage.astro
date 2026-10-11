@@ -1,0 +1,406 @@
+---
+/**
+ * One project detail page — shared by pages/projects/[id].astro (en) and
+ * pages/zh/projects/[id].astro (zh); the route files run getStaticPaths and
+ * hand the data in. Page-specific strings use inline lang ternaries.
+ */
+import Icon from '../Icon.astro';
+import InfoTip from '../InfoTip.astro';
+import FavButton from '../FavButton.astro';
+import MiniMap from '../MiniMap.astro';
+import { formatDate, sourceDisplayName, REGION_LABELS, type NewsStory } from '../../lib/news';
+import { STATUS_META, stageDisplay, formatCapacity, type Project } from '../../lib/projects';
+import { companySlugMap } from '../../lib/companies';
+import {
+  lf,
+  langPrefix,
+  REGION_LABELS_ZH,
+  CATEGORY_LABELS_ZH,
+  STATUS_LABELS_ZH,
+  type Lang,
+} from '../../lib/i18n';
+
+interface Props {
+  project: Project;
+  stories: NewsStory[];
+  knownStoryIds: string[];
+  lang?: Lang;
+}
+
+const { project, stories, knownStoryIds, lang = 'en' } = Astro.props;
+const zh = lang === 'zh';
+const base = import.meta.env.BASE_URL;
+const prefix = langPrefix(lang);
+
+// Link the operator to its company directory page when one exists.
+const companySlugByName = companySlugMap();
+const operatorSlug = companySlugByName.get(project.operator.toLowerCase());
+
+// Locator map: exact facility coordinates only — a city-level fallback pin
+// at street zoom would imply a precision we don't have, so projects without
+// coordinates get no map.
+const coords = project.lat != null && project.lon != null
+  ? { lat: project.lat, lon: project.lon }
+  : null;
+
+// City-states: "Singapore, Singapore" reads as a glitch — show it once.
+const locationLabel = project.city === project.country
+  ? project.city
+  : [project.city, project.country].filter(Boolean).join(', ');
+
+// Single coherent stage: normalized status + qualifier chip derived from the
+// source's verbatim stage (see stageDisplay). The raw stage_detail string is
+// never rendered directly.
+const stage = stageDisplay(project);
+const stageLabel = zh
+  ? (stage.label === 'Decommissioned'
+      ? '已退役'
+      : (STATUS_LABELS_ZH[project.status] ?? stage.label))
+  : stage.label;
+const STAGE_QUALIFIER_ZH: Record<string, string> = {
+  Expanding: '扩建中',
+  'Land bank': '土地储备',
+};
+const stageQualifier = stage.qualifier
+  ? (zh ? (STAGE_QUALIFIER_ZH[stage.qualifier] ?? stage.qualifier) : stage.qualifier)
+  : null;
+const cap = formatCapacity(project);
+const knownStories = new Set(knownStoryIds);
+
+const history = project.status_history ?? [];
+const tenants = project.anchor_tenants ?? [];
+
+// First seen / Last updated are ingestion bookkeeping — only meaningful for
+// projects with tracked news. Directory/seed-only projects show neither.
+const hasStories = project.story_ids.length > 0;
+
+// Provenance for directory-imported projects with no tracked news.
+const SOURCE_LABELS: Record<string, string> = {
+  baxtel: 'Baxtel',
+  datacentermap: 'DataCenterMap',
+};
+const sourceLabel = !hasStories && project.source
+  ? SOURCE_LABELS[project.source]
+  : undefined;
+
+// Key dates (announced / construction start / RFS) are free-form "YYYY[-MM]"
+// text, so they render verbatim rather than through formatDate.
+const keyDates = [
+  { label: 'Announced', value: project.announced },
+  { label: 'Construction start', value: project.construction_start },
+  { label: 'RFS', value: project.rfs },
+  { label: 'Year built', value: project.year_built },
+].filter((d): d is { label: string; value: string } => Boolean(d.value));
+
+// Display labels for the fact rows (keyed by the canonical English label,
+// which also keys FIELD_TIPS below).
+const FIELD_LABELS_ZH: Record<string, string> = {
+  Developer: '开发商',
+  Investor: '投资方',
+  Location: '位置',
+  'Leased site': '租赁站点',
+  Capacity: '容量',
+  Phases: '分期建设',
+  Investment: '投资',
+  Status: '状态',
+  Announced: '宣布时间',
+  'Construction start': '开工时间',
+  RFS: '预计投运 (RFS)',
+  'Year built': '建成年份',
+  Power: '电力',
+  'Anchor tenants': '主力租户',
+  'First seen': '首次收录',
+  'Last updated': '最近更新',
+};
+const fieldLabel = (k: string) => (zh ? (FIELD_LABELS_ZH[k] ?? k) : k);
+
+// Hover explanations for field labels (InfoTip). Keyed by the canonical
+// English label (not the displayed one).
+const FIELD_TIPS: Record<string, string> = {
+  Developer: 'Builds and owns the real estate — often different from the operator who runs the facility, and from the fund that finances it.',
+  Investor: 'Capital partner funding the project (equity or debt).',
+  Capacity: 'IT load in megawatts. "Total planned" figures cover the full campus build-out, so a live phase can be smaller. Leased tenant deployments are counted on the host facility, not here.',
+  Phases: 'Build-out phases as disclosed by the operator or directories — explains how capacity ramps over time.',
+  Investment: 'Announced project investment or financing, verbatim from sources, in the original currency.',
+  Status: 'Our normalized lifecycle stage. The source\'s own label is folded in and only surfaces as a qualifier chip (e.g. "Expanding", "Land bank") when it adds real information.',
+  Announced: 'First public announcement of the project.',
+  'Construction start': 'Groundbreaking — start of construction.',
+  RFS: 'Ready-for-service — expected commissioning date.',
+  'Year built': 'Year the facility was commissioned.',
+  'Anchor tenants': 'Major customers leasing or deploying capacity here — including wholesale tenants (e.g. AWS inside a colocation building).',
+};
+const FIELD_TIPS_ZH: Record<string, string> = {
+  Developer: '建造并持有物业的一方——通常不同于运营设施的运营商，也不同于提供资金的基金。',
+  Investor: '为项目提供资金（股权或债权）的资本方。',
+  Capacity: 'IT 负载容量，单位 MW。"Total planned" 数字涵盖园区全部建成规模，因此已投运的某一期可能更小。租赁型租户部署的容量计入宿主设施，不计入本项目。',
+  Phases: '运营商或名录披露的分期建设计划——说明容量如何随时间爬坡。',
+  Investment: '来源公布的项目投资或融资额，按原文及原始币种展示。',
+  Status: '我们归一化的生命周期阶段。来源自身的标签会被折叠，仅在提供增量信息时以限定标签（如"扩建中"、"土地储备"）的形式出现。',
+  Announced: '项目的首次公开宣布。',
+  'Construction start': '破土动工——施工开始。',
+  RFS: 'Ready-for-service——预计交付投运日期。',
+  'Year built': '设施建成投运的年份。',
+  'Anchor tenants': '在此租赁或部署容量的主要客户——包括批发型租户（如托管机房内的 AWS）。',
+};
+const fieldTip = (k: string) => (zh ? (FIELD_TIPS_ZH[k] ?? FIELD_TIPS[k]) : FIELD_TIPS[k]);
+
+// Hover explanations for the DCM spec-sheet terms (InfoTip on each spec row).
+const SPEC_TIPS: Record<string, string> = {
+  Whitespace: 'Raised-floor area available for IT equipment — the sellable server-hall space.',
+  Floors: 'Number of data-hall floors in the building.',
+  Construction: 'Purpose-built = designed as a data center from the ground up, vs. a converted existing building.',
+  'UPS redundancy': 'Uninterruptible power supply backup level. N+1 = one spare module beyond need; 2N = fully mirrored systems.',
+  'Cooling redundancy': 'Backup level for the cooling plant (chillers/CRACs). N+1 = one spare unit; 2N = fully mirrored.',
+  'Standby redundancy': 'Backup diesel-generator redundancy for utility outages.',
+  'Tier (designed)': 'Uptime Institute availability tier the facility was designed for (I–IV). Tier III ≈ 99.982% uptime, concurrently maintainable; Tier IV ≈ 99.995%, fault tolerant.',
+  'Tier (certified)': 'Uptime Institute tier actually certified by audit (stronger claim than "designed").',
+  Certifications: 'Audited standards the facility holds — quality (ISO 9001), environment (14001), security (27001), safety (45001), payment data (PCI-DSS), etc.',
+  Security: 'Physical access controls protecting the halls.',
+  'Building size': 'Gross floor area of the whole building (not just the server halls).',
+  'Power per rack': 'Maximum power density per cabinet — a key figure for AI/GPU deployments (legacy enterprise racks run 5–10 kW).',
+  PUE: 'Power usage effectiveness = total facility power ÷ IT power. Lower is better; ~1.2 is excellent, 1.5+ is dated.',
+};
+const SPEC_TIPS_ZH: Record<string, string> = {
+  Whitespace: '可用于 IT 设备的架空地板面积——即可销售的服务器机房空间。',
+  Floors: '建筑内数据机房的层数。',
+  Construction: 'Purpose-built = 从设计之初就是数据中心，而非由既有建筑改造。',
+  'UPS redundancy': '不间断电源（UPS）的备份级别。N+1 = 在需求之外多一个备用模块；2N = 完全镜像的双系统。',
+  'Cooling redundancy': '制冷系统（冷机/精密空调）的备份级别。N+1 = 多一台备用；2N = 完全镜像。',
+  'Standby redundancy': '市电中断时备用柴油发电机的冗余级别。',
+  'Tier (designed)': '设施设计所对标的 Uptime Institute 可用性等级（I–IV）。Tier III ≈ 99.982% 可用率，可并行维护；Tier IV ≈ 99.995%，容错。',
+  'Tier (certified)': '经审计实际认证的 Uptime Institute 等级（比"设计对标"更有力的声明）。',
+  Certifications: '设施持有的审计认证——质量（ISO 9001）、环境（14001）、信息安全（27001）、职业安全（45001）、支付数据（PCI-DSS）等。',
+  Security: '保护机房的物理访问控制。',
+  'Building size': '整栋建筑的总建筑面积（不仅限于服务器机房）。',
+  'Power per rack': '单机柜最大功率密度——AI/GPU 部署的关键指标（传统企业机柜为 5–10 kW）。',
+  PUE: '电能使用效率 = 设施总耗电 ÷ IT 设备耗电。越低越好；约 1.2 为优秀，1.5 以上偏老旧。',
+};
+const specTip = (k: string) => (zh ? (SPEC_TIPS_ZH[k] ?? SPEC_TIPS[k]) : SPEC_TIPS[k]);
+---
+
+<div class="article-bar">
+  <a class="article-bar-back" href={`${base}${prefix}/pipeline/`}>
+    <Icon name="arrow-left" size={14} />{zh ? '返回项目列表' : 'Back to pipeline list'}
+  </a>
+  <div class="article-bar-right">
+    <FavButton type="projects" id={project.id} />
+    <span class={`badge ${stage.className}`}>{stageLabel}</span>
+    {stageQualifier && <span class="badge badge-qualifier">{stageQualifier}</span>}
+  </div>
+</div>
+
+<div class="project-grid">
+  <article class="panel fact-card">
+    <h1 class="fact-name">{project.name}</h1>
+    <p class="fact-operator">
+      {operatorSlug ? (
+        <a class="operator-link" href={`${base}${prefix}/companies/${operatorSlug}/`}>
+          {project.operator}<Icon name="chevron" size={12} />
+        </a>
+      ) : (
+        project.operator
+      )}
+    </p>
+    <div class="fact-chips">
+      <span class="chip region">{zh ? (REGION_LABELS_ZH[project.region] ?? project.region) : REGION_LABELS[project.region]}</span>
+      {project.category && <span class="chip topic">{zh ? (CATEGORY_LABELS_ZH[project.category] ?? project.category) : project.category}</span>}
+      {project.company_type && <span class="chip topic">{project.company_type}</span>}
+    </div>
+
+    {project.description && <p class="fact-description">{project.description}</p>}
+
+    <section class="fact-group">
+      <h2 class="fact-group-label">{zh ? '概览' : 'Overview'}</h2>
+      <dl class="fact-rows">
+        {project.developer && (
+          <div class="fact-row">
+            <dt>{fieldLabel('Developer')} <InfoTip tip={fieldTip('Developer')} lang={lang} /></dt>
+            <dd>{project.developer}</dd>
+          </div>
+        )}
+        {project.investor && (
+          <div class="fact-row">
+            <dt>{fieldLabel('Investor')} <InfoTip tip={fieldTip('Investor')} lang={lang} /></dt>
+            <dd>{project.investor}</dd>
+          </div>
+        )}
+        <div class="fact-row">
+          <dt>{fieldLabel('Location')}</dt>
+          <dd>{locationLabel}</dd>
+        </div>
+        {project.leased_from && (
+          <div class="fact-row">
+            <dt>{fieldLabel('Leased site')}</dt>
+            <dd>{zh
+              ? `位于 ${project.leased_from} 内部的租户部署——容量计入宿主设施，不计入本项目。`
+              : `Tenant deployment inside ${project.leased_from} — capacity is counted on the host facility, not here.`}</dd>
+          </div>
+        )}
+      </dl>
+    </section>
+
+    <section class="fact-group">
+      <h2 class="fact-group-label">{zh ? '规模与进度' : 'Scale & progress'}</h2>
+      <dl class="fact-rows">
+        <div class="fact-row">
+          <dt>{fieldLabel('Capacity')} <InfoTip tip={fieldTip('Capacity')} lang={lang} /></dt>
+          <dd>
+            {cap.value}
+            {cap.note && <span class="cap-note-inline">({cap.note})</span>}
+          </dd>
+        </div>
+        {project.phases && (
+          <div class="fact-row fact-row--stack">
+            <dt>{fieldLabel('Phases')} <InfoTip tip={fieldTip('Phases')} lang={lang} /></dt>
+            <dd>{project.phases}</dd>
+          </div>
+        )}
+        {project.investment && (
+          <div class="fact-row fact-row--stack">
+            <dt>{fieldLabel('Investment')} <InfoTip tip={fieldTip('Investment')} lang={lang} /></dt>
+            <dd>{project.investment}</dd>
+          </div>
+        )}
+        <div class="fact-row">
+          <dt>{fieldLabel('Status')} <InfoTip tip={fieldTip('Status')} lang={lang} /></dt>
+          <dd>
+            <span class={`badge ${stage.className}`}>{stageLabel}</span>
+            {stageQualifier && <span class="badge badge-qualifier">{stageQualifier}</span>}
+          </dd>
+        </div>
+      </dl>
+      {history.length > 0 && (
+        <ol class="milestone-list">
+          {history.map((entry) => {
+            const label = zh
+              ? (STATUS_LABELS_ZH[entry.status] ?? STATUS_META[entry.status].label)
+              : STATUS_META[entry.status].label;
+            const inner = (
+              <>
+                <span class="ms-status">{label}</span>
+                <span class="ms-date">{formatDate(entry.date, lang)}</span>
+              </>
+            );
+            return (
+              <li>
+                {entry.story_id && knownStories.has(entry.story_id) ? (
+                  <a class="ms-link" href={`${base}${prefix}/news/${entry.story_id}/`}>{inner}</a>
+                ) : (
+                  inner
+                )}
+              </li>
+            );
+          })}
+        </ol>
+      )}
+      {keyDates.length > 0 && (
+        <div class="key-dates">
+          {keyDates.map((d) => (
+            <span class="key-date">
+              <Icon name="calendar" size={12} />
+              <span class="key-date-label">{fieldLabel(d.label)}</span>
+              {fieldTip(d.label) && <InfoTip tip={fieldTip(d.label)} lang={lang} />}
+              <span class="key-date-value">{d.value}</span>
+            </span>
+          ))}
+        </div>
+      )}
+    </section>
+
+    {project.specs && Object.keys(project.specs).length > 0 && (
+      <section class="fact-group">
+        <h2 class="fact-group-label">{zh ? '规格参数' : 'Specs'}</h2>
+        <dl class="fact-rows">
+          {Object.entries(project.specs).map(([label, value]) => (
+            <div class="fact-row">
+              <dt>{label} {specTip(label) && <InfoTip tip={specTip(label)} lang={lang} />}</dt>
+              <dd>{value}</dd>
+            </div>
+          ))}
+        </dl>
+      </section>
+    )}
+
+    {(project.power || tenants.length > 0) && (
+      <section class="fact-group">
+        <h2 class="fact-group-label">{zh ? '电力与租户' : 'Power & tenants'}</h2>
+        <dl class="fact-rows">
+          {project.power && (
+            <div class="fact-row fact-row--stack">
+              <dt>{fieldLabel('Power')}</dt>
+              <dd>{project.power}</dd>
+            </div>
+          )}
+        </dl>
+        {tenants.length > 0 && (
+          <>
+            <h3 class="fact-sub-label">{fieldLabel('Anchor tenants')} <InfoTip tip={fieldTip('Anchor tenants')} lang={lang} /></h3>
+            <div class="fact-chips">
+              {tenants.map((tenant) => <span class="chip company">{tenant}</span>)}
+            </div>
+          </>
+        )}
+      </section>
+    )}
+
+    {hasStories && (
+      <div class="fact-group fact-meta">
+        <div class="fact-row">
+          <dt>{fieldLabel('First seen')}</dt>
+          <dd>{formatDate(project.first_seen, lang)}</dd>
+        </div>
+        <div class="fact-row">
+          <dt>{fieldLabel('Last updated')}</dt>
+          <dd>{project.last_updated ? formatDate(project.last_updated, lang) : '—'}</dd>
+        </div>
+      </div>
+    )}
+
+    {sourceLabel && (
+      <p class="source-note">{zh ? `名录数据来自 ${sourceLabel}。` : `Directory listing via ${sourceLabel}.`}</p>
+    )}
+
+    {project.seed && (
+      <p class="seed-note">{zh ? '种子条目——尚未被追踪新闻确认。' : 'Seeded entry — not yet confirmed by a tracked story.'}</p>
+    )}
+  </article>
+
+  <div class="project-side">
+    {coords && (
+      <section class="panel minimap-panel">
+        <MiniMap lat={coords.lat} lon={coords.lon} label={project.name} status={project.status} lang={lang} />
+        <p class="minimap-caption">
+          <Icon name="map-pin" size={12} />
+          {locationLabel}
+        </p>
+      </section>
+    )}
+
+    <section class="panel project-news">
+      <h2 class="panel-title">{zh ? '新闻时间线' : 'News timeline'}</h2>
+      {stories.length > 0 ? (
+        <ul class="news-timeline">
+          {stories.map((story) => (
+            <li>
+              <span class="tl-date">{formatDate(story.published_at.slice(0, 10), lang)}</span>
+              <a class="tl-title" href={`${base}${prefix}/news/${story.id}/`}>{lf(story, 'title', lang)}</a>
+              <span class="tl-source">{sourceDisplayName(story.sources[0], story)}</span>
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p class="empty-state">{zh ? '暂无追踪新闻。' : 'No tracked news yet.'}</p>
+      )}
+    </section>
+
+    <p class="report-issue">
+      <a
+        href={`https://github.com/Sakae28/DataCenter-Atlas/issues/new?title=${encodeURIComponent(`Data issue: ${project.name}`)}&body=${encodeURIComponent(`Project: ${project.name}\nURL: https://sakae28.github.io/DataCenter-Atlas/projects/${project.id}/\n\nWhat's wrong:\n`)}`}
+        target="_blank"
+        rel="noopener"
+      >
+        <Icon name="flag" size={12} /> {zh ? '报告数据问题' : 'Report a data issue'}
+      </a>
+    </p>
+  </div>
+</div>

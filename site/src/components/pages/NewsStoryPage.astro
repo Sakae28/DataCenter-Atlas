@@ -1,0 +1,198 @@
+---
+/**
+ * News story detail body — shared by pages/news/[id].astro (en) and
+ * pages/zh/news/[id].astro (zh). The route files own getStaticPaths() and
+ * the JSON-LD <head> slot; this component renders the article itself.
+ * Story full text (story.content) is not translated by the pipeline, so the
+ * body stays in the publisher's language in both locales.
+ */
+import Icon from '../Icon.astro';
+import FavButton from '../FavButton.astro';
+import {
+  formatDate,
+  formatDateTime,
+  relativeTime,
+  sourceDisplayName,
+  hasDistinctSummary,
+  REGION_LABELS,
+  type NewsStory,
+} from '../../lib/news';
+import { renderArticle } from '../../lib/markdown';
+import { loadProjects, buildStoryProjectIndex } from '../../lib/projects';
+import { companySlugMap } from '../../lib/companies';
+import { t, lf, langPrefix, REGION_LABELS_ZH, type Lang } from '../../lib/i18n';
+
+interface Props {
+  story: NewsStory;
+  lang?: Lang;
+}
+
+const { story, lang = 'en' } = Astro.props;
+const zh = lang === 'zh';
+const base = import.meta.env.BASE_URL;
+const prefix = langPrefix(lang);
+
+const title = lf(story, 'title', lang);
+const summary = lf(story, 'summary', lang);
+// The zh translation of "why_it_matters" is stored as why_zh.
+const why = lf(story, 'why', lang) || story.why_it_matters;
+
+const names = story.sources.map((s) => sourceDisplayName(s, story));
+const rel = relativeTime(story.published_at, Date.now(), lang);
+
+// Canonical company/operator name (lowercased) → directory slug, for
+// linking the Companies rail chips to company pages when one exists.
+const companySlugByName = companySlugMap();
+
+// Project that tracks this story (via the reverse index on story_ids).
+const project = buildStoryProjectIndex(loadProjects().projects).get(story.id);
+
+const hasContent = !!(story.content && story.content.trim().length > 0);
+const wordCount = hasContent ? story.content!.split(/\s+/).length : 0;
+// Don't show summaries that merely repeat the headline (see hasDistinctSummary).
+const showSummary = hasDistinctSummary(story.title, story.summary);
+const { html: bodyHtml, toc } = hasContent
+  ? renderArticle(story.content!)
+  : { html: '', toc: [] };
+
+const sep = zh ? '、' : ', ';
+const regionLabel = (r: string) =>
+  zh
+    ? (REGION_LABELS_ZH[r as keyof typeof REGION_LABELS_ZH] ?? r)
+    : REGION_LABELS[r as keyof typeof REGION_LABELS];
+---
+
+<div class="article-bar">
+  <a class="article-bar-back" href={`${base}${prefix}/`}><Icon name="arrow-left" size={14} />{t(lang, 'common.back')}</a>
+  <div class="article-bar-right">
+    {story.featured && <span class="badge featured">{t(lang, 'common.featured')}</span>}
+    {story.score !== null && (
+      <span class="ai-score" title={zh ? t('zh', 'common.aiScoreTip') : 'AI relevance score'}>AI score {story.score}/100</span>
+    )}
+    <FavButton type="news" id={story.id} />
+    <a class="btn btn-primary" href={story.content_url ?? story.sources[0].url} target="_blank" rel="noopener">
+      {t(lang, 'common.viewOriginal')}<Icon name="external" size={13} />
+    </a>
+  </div>
+</div>
+
+<article class="article-card">
+  <div class="article-grid">
+    <div class="article-main">
+      <h1 class="article-title">{title}</h1>
+
+      <div class="article-meta">
+        <span>{names.join(sep)}</span>
+        <span class="article-meta-sep" aria-hidden="true">·</span>
+        <time class="js-time" data-time-format="datetime" data-precision={story.published_precision} data-ts={story.published_at} datetime={story.published_at}>{story.published_precision === 'day' ? formatDate(story.published_at.slice(0, 10), lang) : formatDateTime(story.published_at, lang)}</time>
+        {rel && (
+          <>
+            <span class="article-meta-sep" aria-hidden="true">·</span>
+            <span class="js-time" data-time-format="relative" data-ts={story.published_at}>{rel}</span>
+          </>
+        )}
+      </div>
+
+      {showSummary && (
+        <div class="ai-summary">
+          <p class="ai-summary-label">{zh ? 'AI 摘要' : 'AI Summary'}</p>
+          <p class="ai-summary-text">{summary}</p>
+        </div>
+      )}
+
+      <hr class="article-divider" />
+
+      {hasContent ? (
+        <details class="fulltext-fold">
+          <summary>
+            <span class="fulltext-fold-label">
+              <Icon name="newspaper" size={13} />
+              {zh ? `全文 · ${wordCount} 词` : `Full text · ${wordCount} words`}
+            </span>
+            <span class="fulltext-fold-hint">{zh ? '摘自发布方原文 — 点击展开' : 'Excerpted from the publisher — tap to expand'}</span>
+          </summary>
+          <div class="article-body" set:html={bodyHtml} />
+        </details>
+      ) : (
+        <div class="article-body">
+          {showSummary && <p>{summary}</p>}
+          <p class="content-note">
+            {zh
+              ? '该新闻暂无全文 — 请通过来源链接阅读原始报道。'
+              : "Full text isn't available for this story — read the original article via the source link."}
+          </p>
+        </div>
+      )}
+
+      {story.sources.length > 1 && (
+        <p class="also-reported">
+          {t(lang, 'common.alsoReported')}{' '}
+          {story.sources.slice(1).map((s, i) => (
+            <>
+              <a href={s.url} target="_blank" rel="noopener">{sourceDisplayName(s, story)}</a>{i < story.sources.length - 2 ? sep : ''}
+            </>
+          ))}
+        </p>
+      )}
+    </div>
+
+    <aside class="article-rail">
+      {why && (
+        <section class="rail-block">
+          <h2 class="rail-title">{t(lang, 'common.whyItMatters')}</h2>
+          <p class="rail-text">{why}</p>
+        </section>
+      )}
+
+      {project && (
+        <section class="rail-block">
+          <h2 class="rail-title">{zh ? '追踪项目' : 'Tracked project'}</h2>
+          <a class="project-link" href={`${base}${prefix}/projects/${project.id}/`}>
+            <Icon name="server" size={13} />{project.name}
+          </a>
+        </section>
+      )}
+
+      {toc.length > 0 && (
+        <section class="rail-block">
+          <h2 class="rail-title">{zh ? '目录' : 'Contents'}</h2>
+          <ul class="rail-toc">
+            {toc.map((entry) => (
+              <li class:list={[{ 'is-sub': entry.depth === 3 }]}>
+                <a href={`#${entry.id}`}>{entry.text}</a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      {story.companies && story.companies.length > 0 && (
+        <section class="rail-block">
+          <h2 class="rail-title">{zh ? '相关公司' : 'Companies'}</h2>
+          <div class="story-tags">
+            {story.companies.map((c) => {
+              const slug = companySlugByName.get(c.toLowerCase());
+              return slug ? (
+                <a class="chip company chip-link" href={`${base}${prefix}/companies/${slug}/`}>{c}</a>
+              ) : (
+                <span class="chip company">{c}</span>
+              );
+            })}
+          </div>
+        </section>
+      )}
+
+      <section class="rail-block">
+        <h2 class="rail-title">{zh ? '标签' : 'Tags'}</h2>
+        <div class="story-tags">
+          {story.regions.map((r) => (
+            <span class="chip region">{regionLabel(r)}</span>
+          ))}
+          {story.topics.map((topic) => (
+            <span class="chip topic">#{topic}</span>
+          ))}
+        </div>
+      </section>
+    </aside>
+  </div>
+</article>

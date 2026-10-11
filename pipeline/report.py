@@ -344,6 +344,14 @@ def generate(kind: str, period: str, today: date | None = None) -> Path | None:
     log.info("wrote %s (%d stories, %d themes, %d milestones, complete=%s)",
              out.name, stats["stories"], len(body["themes"]),
              len(report["project_milestones"]), report["complete"])
+    # Fill in the Simplified Chinese fields (title_zh/lede_zh/heading_zh/
+    # narrative_zh) as a post-step so the /zh/ pages render natively.
+    if backend is not None:
+        try:
+            import translate_days
+            translate_days.translate_report(backend, out)
+        except Exception as exc:  # noqa: BLE001
+            log.warning("zh translation of report failed (non-fatal): %s", exc)
     return out
 
 

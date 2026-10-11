@@ -1,0 +1,44 @@
+---
+/**
+ * /reports/ — renders the newest report issue (weekly or monthly, whichever
+ * is more recent). Empty state when the pipeline has produced none yet.
+ * Shared by pages/reports/index.astro (en) and pages/zh/reports/index.astro (zh).
+ */
+import Icon from '../Icon.astro';
+import ReportView from '../ReportView.astro';
+import { loadReports } from '../../lib/reports';
+import { loadAllStories, type NewsStory } from '../../lib/news';
+import type { Lang } from '../../lib/i18n';
+
+interface Props {
+  lang?: Lang;
+}
+const { lang = 'en' } = Astro.props;
+const zh = lang === 'zh';
+
+const reports = loadReports();
+const latest = reports[0] ?? null;
+const storiesById = new Map<string, NewsStory>(
+  loadAllStories().map(({ story }) => [story.id, story]),
+);
+---
+
+{latest ? (
+  <ReportView report={latest} reports={reports} storiesById={storiesById} lang={lang} />
+) : (
+  <>
+    <div class="page-head">
+      <div>
+        <h1 class="page-title">{zh ? '周报/月报' : 'Reports'}</h1>
+        <p class="page-sub">{zh ? '由每日新闻归档汇编而成的周报与月报' : 'Weekly and monthly digests compiled from the daily news archive'}</p>
+      </div>
+    </div>
+    <div class="empty-state">
+      <span class="empty-icon"><Icon name="newspaper" size={22} /></span>
+      <p class="empty-title">{zh ? '暂无报告' : 'No reports yet'}</p>
+      <p class="empty-sub">
+        {zh ? '每周一汇编周报，每月一日汇编月报。' : 'Weekly reports are compiled every Monday, monthly reports on the first of the month.'}
+      </p>
+    </div>
+  </>
+)}

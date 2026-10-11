@@ -12,6 +12,10 @@ const ReportThemeSchema = z.object({
   heading: z.string(),
   narrative: z.string(),
   story_ids: z.array(z.string()).min(1),
+  // Optional Chinese translations produced by the pipeline; the site falls
+  // back to the English field when absent.
+  heading_zh: z.string().optional(),
+  narrative_zh: z.string().optional(),
 });
 
 const MilestoneSchema = z.object({
@@ -28,6 +32,7 @@ const MilestoneSchema = z.object({
   prev_status: z.string().nullable().optional(),
   // Absent/null on directory_sync milestones (no linked story).
   story_id: z.string().nullish(),
+  note_zh: z.string().optional(),
 });
 
 const ReportSchema = z.object({
@@ -48,6 +53,8 @@ const ReportSchema = z.object({
   }),
   title: z.string(),
   lede: z.string(),
+  title_zh: z.string().optional(),
+  lede_zh: z.string().optional(),
   themes: z.array(ReportThemeSchema),
   project_milestones: z.array(MilestoneSchema),
 });
@@ -95,12 +102,19 @@ export function issueBadge(report: Report): string {
   });
 }
 
-/** "August 17 – 23, 2026" / "August 1 – 31, 2026". */
-export function formatRange(report: Report): string {
+/** "August 17 – 23, 2026" / "August 1 – 31, 2026"; zh: "2026年8月17日 – 23日". */
+export function formatRange(report: Report, lang: 'en' | 'zh' = 'en'): string {
   const start = new Date(`${report.date_range.start}T12:00:00Z`);
   const end = new Date(`${report.date_range.end}T12:00:00Z`);
+  if (lang === 'zh') {
+    const s = `${start.getUTCFullYear()}年${start.getUTCMonth() + 1}月${start.getUTCDate()}日`;
+    const sameYear = start.getUTCFullYear() === end.getUTCFullYear();
+    const e = sameYear
+      ? `${end.getUTCMonth() + 1}月${end.getUTCDate()}日`
+      : `${end.getUTCFullYear()}年${end.getUTCMonth() + 1}月${end.getUTCDate()}日`;
+    return `${s} – ${e}`;
+  }
   const opts: Intl.DateTimeFormatOptions = { month: 'long', day: 'numeric', timeZone: 'UTC' };
-  const sameMonth = start.getUTCMonth() === end.getUTCMonth() && start.getUTCFullYear() === end.getUTCFullYear();
   const s = start.toLocaleDateString('en-US', opts);
   const e = end.toLocaleDateString('en-US', { ...opts, year: 'numeric' });
   return `${s} – ${e}`;
@@ -110,14 +124,16 @@ export function formatRange(report: Report): string {
  * Rail grouping: reports bucketed by the month their period starts in,
  * newest month first, each bucket's issues newest first.
  */
-export function groupByMonth(reports: Report[]): { label: string; key: string; reports: Report[] }[] {
+export function groupByMonth(reports: Report[], lang: 'en' | 'zh' = 'en'): { label: string; key: string; reports: Report[] }[] {
   const groups = new Map<string, { label: string; reports: Report[] }>();
   for (const report of reports) {
     const d = new Date(`${report.date_range.start}T12:00:00Z`);
     const key = report.date_range.start.slice(0, 7);
     if (!groups.has(key)) {
       groups.set(key, {
-        label: d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', timeZone: 'UTC' }),
+        label: lang === 'zh'
+          ? `${d.getUTCFullYear()}年${d.getUTCMonth() + 1}月`
+          : d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', timeZone: 'UTC' }),
         reports: [],
       });
     }

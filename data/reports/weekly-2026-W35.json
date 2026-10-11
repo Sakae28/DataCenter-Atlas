@@ -26,7 +26,9 @@
         "2026-08-27-719538",
         "2026-08-29-c17897",
         "2026-08-27-10534b"
-      ]
+      ],
+      "heading_zh": "融资与企业并购交易主导本周动态",
+      "narrative_zh": "阿里巴巴计划通过配股融资800亿港元（102亿美元），用于AI和数据中心扩张。SK Telecom将其AI数据中心业务分拆为SK Horizon，获得KKR及IMM Investment-Stonebridge财团3.08万亿韩元的股权支持。在澳大利亚，一家纽交所上市的数字基础设施公司同意以超过30亿澳元收购Ausgrid的数据中心部门，同时Blue Owl牵头为Iren提供34亿美元债务融资用于购买NVIDIA芯片。据报告的巨额交易还延伸至算力租赁领域，据称Anthropic与Nscale达成了450亿美元的协议，获得超过400MW的容量。"
     },
     {
       "heading": "APAC data centre values near US$1 trillion",
@@ -37,7 +39,9 @@
         "2026-08-26-997310",
         "2026-08-28-52487d",
         "2026-08-28-50e73f"
-      ]
+      ],
+      "heading_zh": "亚太地区数据中心价值逼近1万亿美元",
+      "narrative_zh": "本周多项研究预测，到2030年亚太地区数据中心资产价值将达到9500亿至1万亿美元，背后有约2800亿美元的建设支出支撑。马来西亚在国家层面印证了这一趋势：MIDA报告称，2026年上半年2185亿林吉特的获批投资中，数据中心和云项目占了近一半。Gamuda新增35.7亿林吉特合同，将在波德申建设两座hyperscale数据中心。"
     },
     {
       "heading": "Australia's power crunch shapes data centre policy",
@@ -49,7 +53,9 @@
         "2026-08-28-8bcc87",
         "2026-08-26-b50619",
         "2026-08-26-2df161"
-      ]
+      ],
+      "heading_zh": "澳大利亚电力紧张局面塑造数据中心政策",
+      "narrative_zh": "AEMO的最新展望预测，澳大利亚数据中心用电量将从目前的约5TWh增至2035-36年的34TWh，近七倍的增长也得到了其他独立预测的确认。堪培拉正在为该行业制定新的电力和用水标准，能源部长Chris Bowen排除了对昆士兰州的任何豁免。行业委托的研究认为，若能解决电网约束，澳大利亚有望成为亚太AI基础设施枢纽，甚至可通过出口算力削减区域排放。"
     },
     {
       "heading": "Approvals advance amid growing local pushback",
@@ -61,7 +67,9 @@
         "2026-08-25-5931c7",
         "2026-08-27-32b013",
         "2026-08-26-9f3c92"
-      ]
+      ],
+      "heading_zh": "审批推进之际，本地反对声浪日益高涨",
+      "narrative_zh": "总部位于新加坡的Zerra DC提交了在昆士兰Western Downs建设1.44GW园区的规划，Firmus则获得市议会批准，在塔斯马尼亚Bell Bay建设一座288MW的AI工厂。NextDC首席执行官表示，建设周期应缩短一半至约九个月；模块化专业公司DXN赢得了一份1220万澳元的集装箱式数据中心合同。增长正遭遇阻力：Whittlesea市议会要求州政府对Dover DC位于South Morang的200MW项目加强监管，随着郊区反对情绪升温，开发商面临越来越大的签订正式社区利益协议的压力。"
     },
     {
       "heading": "NVIDIA demand wave strains supply and power",
@@ -75,7 +83,9 @@
         "2026-08-26-77558b",
         "2026-08-28-3fcac9",
         "2026-08-28-1a8aef"
-      ]
+      ],
+      "heading_zh": "NVIDIA需求浪潮令供应链与电力承压",
+      "narrative_zh": "NVIDIA报告数据中心收入达890亿美元，同时AWS在扩大的合作框架下将新增部署200万块GPU，合作范围涵盖CPU、网络和机器人。印度的Yotta为其120MW的德里设施订购了约9.5万块GPU，价值75亿美元。NVIDIA推进其平台路线图，宣称Vera Rubin每兆瓦吞吐量提升30倍，并通过NVHBM内存扩展NVLink Fusion生态系统，尽管据报道其因反垄断担忧暂停了部分云收入分成协议。"
     },
     {
       "heading": "India and Southeast Asia add capacity",
@@ -86,7 +96,9 @@
         "2026-08-28-eb64cf",
         "2026-08-28-539515",
         "2026-08-28-5508de"
-      ]
+      ],
+      "heading_zh": "印度与东南亚新增产能",
+      "narrative_zh": "Google投资150亿美元、规模1GW的维沙卡帕特南园区由Adani和Airtel支持，被定位为印度AI走廊的锚点项目，首期目标于2028年年中投产。在新加坡，Digital Realty计划在裕廊岛建设一座50MW的AI数据中心，而新加坡发布了其所称的全球首个面向热带数据中心的国家级液冷标准。印度尼西亚Indosat分拆出的Infra Fiber Teknologi推出了支持AI的RAIA Grid平台，行业分析则强调，创纪录的海底光缆建设浪潮正在电力供应趋紧的背景下重塑亚洲互联互通格局。"
     }
   ],
   "project_milestones": [
@@ -594,5 +606,7 @@
       "change": "First tracked as announced",
       "story_id": "2026-08-28-4b5dca"
     }
-  ]
+  ],
+  "title_zh": "资本涌入亚太地区AI基础设施建设热潮",
+  "lede_zh": "本周的主题是亚太地区AI基础设施的大规模资本形成。阿里巴巴计划为AI和数据中心扩张筹资102亿美元；SK Telecom将其AI数据中心业务分拆为SK Horizon，获得KKR及IMM-Stonebridge财团22亿美元的支持；一家NYSE上市的买家同意以超过30亿澳元收购Ausgrid的数据中心业务。研究机构对该地区的发展轨迹进行了展望，预测到2030年亚太数据中心资产价值将接近1万亿美元，对应的资本开支约为2800亿美元。澳大利亚占据了大部分运营层面的新闻：AEMO预测全国数据中心电力需求到2035-36财年将升至34TWh，昆士兰州和塔斯马尼亚州的新项目取得进展，地方议会和居民则要求加强监管。"
 }

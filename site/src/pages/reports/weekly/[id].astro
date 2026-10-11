@@ -26,6 +26,6 @@ interface Props {
 const { report, reports, storiesById } = Astro.props;
 ---
 
-<Base title={`Weekly ${report.period}: ${report.title}`} active="reports">
-  <ReportView report={report} reports={reports} storiesById={storiesById} />
+<Base title={`Weekly ${report.period}: ${report.title}`} active="reports" lang="en">
+  <ReportView report={report} reports={reports} storiesById={storiesById} lang="en" />
 </Base>

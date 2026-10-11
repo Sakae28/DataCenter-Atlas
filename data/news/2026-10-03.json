@@ -34,7 +34,10 @@
       ],
       "published_precision": "day",
       "content": "TOKYO -- Japanese companies are racing to expand production of parts for hard-disk drives as the explosive spread of artificial intelligence drives demand for data storage, giving a boon to companies like Resonac Holdings and TDK that make a wide range of advanced technologies.",
-      "content_url": "https://asia.nikkei.com/business/electronics/once-in-decline-japan-s-hard-drive-suppliers-ride-soaring-ai-demand"
+      "content_url": "https://asia.nikkei.com/business/electronics/once-in-decline-japan-s-hard-drive-suppliers-ride-soaring-ai-demand",
+      "title_zh": "日本硬盘供应商曾陷衰退，如今乘AI需求飙升之势重振",
+      "summary_zh": "日本的硬盘与存储零部件制造商长期被视为向固态硬盘转型的牺牲品，如今却迎来收入复苏，驱动力来自AI数据中心对大容量近线HDD的需求。硬盘、马达及相关零部件供应商正在扩大产能并升级设施，以满足hyperscale云服务商和AI运营商的订单。此次反弹成为日本传统硬件制造业难得的亮点。",
+      "why_zh": "AI对廉价、高密度大容量存储的渴求正在复苏一条行业实际上已经放弃的供应链，改变了日本元器件制造商及其投资者的前景。随着HDD产量进一步集中，hyperscaler获得了更广泛、更具韧性的近线存储供应商基础，而以SSD为核心的竞争对手则失去了部分原本被视为必然的优势。这也表明AI基础设施的需求远远超出GPU，延伸到了那些拥有多年订单可见性的'不起眼'元器件。"
     },
     {
       "id": "2026-10-03-f2a57f",
@@ -66,7 +69,10 @@
       ],
       "published_precision": "day",
       "content": "TOKYO -- Tokyo Electric Power Co. Holdings is among the Japanese utilities tightening rules on electricity for data centers to counter a trend of operators \"capacity squatting,\" or reserving power capacity that ends up being underutilized.\n\nEnergy\n# Japan's TEPCO to counter 'capacity squatters' in AI data center boom\n\nTokyo power company's new rules aim to prevent stranded capacity\n\nJapanese utilities and authorities are grappling with massive power demand for data center projects that are often delayed or moved or that use less capacity than agreed on. (Photo by Shintaro Ino)",
-      "content_url": "https://asia.nikkei.com/business/energy/japan-s-tepco-to-counter-capacity-squatters-in-ai-data-center-boom"
+      "content_url": "https://asia.nikkei.com/business/energy/japan-s-tepco-to-counter-capacity-squatters-in-ai-data-center-boom",
+      "title_zh": "日本TEPCO出手应对AI数据中心热潮中的\"容量囤积者\"",
+      "summary_zh": "东京电力公司（TEPCO）正着手遏制“容量占位者”——即为规划中的AI数据中心预留大量电网电力却迟迟不开工的开发商——因AI需求激增令日本电力供应承压。TEPCO预计将收紧电网接入预留规则，可能对长期闲置的容量进行重新分配。此举反映出日本电力公司面临的日益增大的压力：需将稀缺电力分配给真正会落地的项目。",
+      "why_zh": "更严格的容量规则将把主导权从囤地囤电的投机者转移到准备破土动工的运营商手中，从而加快亚太最热门数据中心市场之一真实AI容量的交付。那些持有预留电力却没有明确施工时间表的开发商将面临失去配额的风险，而hyperscaler和认真的投资者则可能更快获得电网接入。该政策可能成为亚洲其他受限电网的范本。"
     },
     {
       "id": "2026-10-03-5ee17a",
@@ -98,7 +104,10 @@
       ],
       "published_precision": "day",
       "content": "Macquarie Capital has taken a stake in Singapore-based data centre developer Zerra DC, expanding its exposure to the artificial intelligence infrastructure boom just weeks after partnering with the company on a $30 billion Queensland project anchored by Anthropic.\n\nThe investment gives Macquarie Capital exposure to Zerra’s broader Asia-Pacific business, including projects in Australia, Japan and India, where the developer has assembled a pipeline of more than 2 gigawatts of planned capacity.\n\nLoading...",
-      "content_url": "https://www.afr.com/companies/financial-services/macquarie-capital-takes-zerra-stake-after-30b-queensland-data-centre-deal-20261003-p6129z"
+      "content_url": "https://www.afr.com/companies/financial-services/macquarie-capital-takes-zerra-stake-after-30b-queensland-data-centre-deal-20261003-p6129z",
+      "title_zh": "300亿美元昆士兰数据中心交易落地后，Macquarie Capital入股Zerra",
+      "summary_zh": "在澳大利亚开发商Zerra达成一项据报道价值约300亿美元的昆士兰州数据中心建设大单后，Macquarie Capital已收购其部分股权。在Zerra推进这一大型园区项目、投身澳大利亚蓬勃发展的AI基础设施市场之际，该投资为其带来了重要的资金支持方。Macquarie的持股条款未予披露，但此举凸显了机构投资者对澳大利亚数据中心开发的兴趣不断加深。",
+      "why_zh": "Macquarie的入局为澳大利亚最大的数据中心项目管线之一带来了机构级资本和信誉，加快了项目交付，并加剧了与现有运营商的竞争。对昆士兰而言，这笔支持提高了承诺容量真正落地的可能性，并对当地电力需求和建筑业产生连锁影响。这笔交易还表明，全球基础设施投资者如今已将澳大利亚数据中心视为核心资产类别，而非小众押注。"
     }
   ]
 }

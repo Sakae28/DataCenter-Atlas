@@ -1,6 +1,7 @@
 ---
 import geo from '../data/apac-countries.json';
 import { MAP_W as W, MAP_H as H, projectX, projectY } from '../lib/geo';
+import type { Lang } from '../lib/i18n';
 
 export interface CountryHeat {
   mw: number;
@@ -33,9 +34,11 @@ interface Props {
   heat: Record<string, CountryHeat>;
   /** One pin per project. */
   pins: MapPin[];
+  lang?: Lang;
 }
 
-const { heat, pins } = Astro.props;
+const { heat, pins, lang = 'en' } = Astro.props;
+const zh = lang === 'zh';
 
 type Ring = [number, number][];
 type Geom =
@@ -88,6 +91,18 @@ const PIN_META: Record<MapPin['status'], { label: string; shape: 'circle' | 'tri
   cancelled: { label: 'Cancelled', shape: 'cross' },
 };
 
+const PIN_LABEL_ZH: Record<MapPin['status'], string> = {
+  operational: '运营中',
+  under_construction: '在建',
+  announced: '已宣布',
+  expansion: '意向扩建',
+  landbank: '土地储备',
+  on_hold: '搁置',
+  cancelled: '已取消',
+};
+
+const pinLabel = (s: MapPin['status']) => (zh ? PIN_LABEL_ZH[s] : PIN_META[s].label);
+
 // Render muted statuses first so operational pins sit on top.
 const STATUS_ORDER: MapPin['status'][] = ['cancelled', 'on_hold', 'landbank', 'announced', 'expansion', 'under_construction', 'operational'];
 
@@ -115,7 +130,7 @@ const legend = STATUS_ORDER.map((s) => ({
       viewBox={`0 0 ${W} ${H}`}
       preserveAspectRatio="xMidYMid meet"
       role="img"
-      aria-label="Map of tracked data center projects across Asia-Pacific"
+      aria-label={zh ? '亚太地区数据中心项目分布地图' : 'Map of tracked data center projects across Asia-Pacific'}
     >
       {/* Pin shapes as symbols: 2,811 pins reference 7 definitions instead of
           repeating the geometry. Presentation attributes (not CSS) carry the
@@ -158,13 +173,13 @@ const legend = STATUS_ORDER.map((s) => ({
 
     {/* Zoom controls (wheel zoom + drag pan wired in the script below). */}
     <div class="map-zoom">
-      <button type="button" class="map-zoom-btn" data-zoom="in" aria-label="Zoom in">
+      <button type="button" class="map-zoom-btn" data-zoom="in" aria-label={zh ? '放大' : 'Zoom in'}>
         <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>
       </button>
-      <button type="button" class="map-zoom-btn" data-zoom="out" aria-label="Zoom out">
+      <button type="button" class="map-zoom-btn" data-zoom="out" aria-label={zh ? '缩小' : 'Zoom out'}>
         <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M5 12h14"/></svg>
       </button>
-      <button type="button" class="map-zoom-btn" data-zoom="reset" aria-label="Reset zoom">
+      <button type="button" class="map-zoom-btn" data-zoom="reset" aria-label={zh ? '重置缩放' : 'Reset zoom'}>
         <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"/></svg>
       </button>
     </div>
@@ -196,7 +211,7 @@ const legend = STATUS_ORDER.map((s) => ({
               <rect class="pin-hollow" x="-8" y="-8" width="16" height="16" />
             )}
           </svg>
-          {l.label}
+          {pinLabel(l.status)}
           <span class="map-status-count">{l.count}</span>
         </span>
       ))}
@@ -207,7 +222,7 @@ const legend = STATUS_ORDER.map((s) => ({
       <p class="map-popup-name"></p>
       <p class="map-popup-meta"></p>
       <p class="map-popup-sub"></p>
-      <span class="map-popup-cta">View project →</span>
+      <span class="map-popup-cta">{zh ? '查看项目 →' : 'View project →'}</span>
     </div>
   </div>
 
@@ -240,6 +255,8 @@ const legend = STATUS_ORDER.map((s) => ({
   const svg = document.querySelector<SVGSVGElement>('#dc-map');
   const wrap = svg?.closest<HTMLElement>('.heatmap-map');
   const leafletEl = document.querySelector<HTMLElement>('#dc-leaflet');
+  const MAP_LANG = document.body.dataset.lang === 'zh' ? 'zh' : 'en';
+  const CTA_VIEW_PROJECT = MAP_LANG === 'zh' ? '查看项目 →' : 'View project →';
   if (svg && wrap) {
     const FULL_W = parseFloat(wrap.dataset.w ?? '1000');
     const FULL_H = parseFloat(wrap.dataset.h ?? '1800');
@@ -598,7 +615,7 @@ const legend = STATUS_ORDER.map((s) => ({
               `<p class="map-popup-name">${d.n ?? ''}</p>` +
               `<p class="map-popup-meta">${[d.o, d.sl].filter(Boolean).join(' · ')}</p>` +
               `<p class="map-popup-sub">${[d.l, d.c].filter(Boolean).join(' · ')}</p>` +
-              '<span class="map-popup-cta">View project →</span>',
+              `<span class="map-popup-cta">${CTA_VIEW_PROJECT}</span>`,
               { direction: 'top', offset: [0, -10], className: 'dc-tooltip' },
             );
             mk.on('click', () => { if (d.u) window.location.href = d.u; });

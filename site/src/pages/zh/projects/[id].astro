@@ -1,0 +1,38 @@
+---
+import Base from '../../../layouts/Base.astro';
+import ProjectPage from '../../../components/pages/ProjectPage.astro';
+import { loadAllStories, type NewsStory } from '../../../lib/news';
+import { loadProjects, type Project } from '../../../lib/projects';
+
+export function getStaticPaths() {
+  const { projects } = loadProjects();
+  const storiesById = new Map(loadAllStories().map(({ story }) => [story.id, story]));
+  return projects.map((project) => ({
+    params: { id: project.id },
+    props: {
+      project,
+      // story_ids are newest-last; render newest first. Missing ids
+      // (story not in the loaded digests) are skipped silently.
+      stories: project.story_ids
+        .map((id) => storiesById.get(id))
+        .filter((s): s is NewsStory => s !== undefined)
+        .reverse(),
+      // Ids resolvable to a news detail page — status_history entries link only
+      // when the referenced story is actually in the loaded digests.
+      knownStoryIds: [...storiesById.keys()],
+    },
+  }));
+}
+
+interface Props {
+  project: Project;
+  stories: NewsStory[];
+  knownStoryIds: string[];
+}
+
+const { project, stories, knownStoryIds } = Astro.props;
+---
+
+<Base title={project.name} active="pipeline" lang="zh">
+  <ProjectPage project={project} stories={stories} knownStoryIds={knownStoryIds} lang="zh" />
+</Base>

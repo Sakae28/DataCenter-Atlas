@@ -23,7 +23,9 @@
         "2026-09-30-7f0581",
         "2026-10-01-56ce98",
         "2026-10-04-e28013"
-      ]
+      ],
+      "heading_zh": "Firmus IPO 令市场观点分化",
+      "narrative_zh": "Firmus是澳大利亚运营商，旗下拥有Sahara AI云平台和塔斯马尼亚数据中心园区，目前正筹备在澳大利亚证券交易所（ASX）上市，估值可能达到437亿澳元，这一数字令该国最大的机构投资者意见分化。顾问机构预计将获得约2.15亿美元的承销费用，而公司已在筹划澳大利亚上市之外未来登陆纳斯达克（Nasdaq）。这场估值之争如今已成为投资者愿意为AI基础设施建设计入多高溢价的试金石。"
     },
     {
       "heading": "Australia's gigawatt-scale pipeline grows",
@@ -34,7 +36,9 @@
         "2026-10-03-5ee17a",
         "2026-09-28-020b1f",
         "2026-09-28-e0a237"
-      ]
+      ],
+      "heading_zh": "澳大利亚吉瓦级项目管线持续增长",
+      "narrative_zh": "CDC公布了在沃加沃加（Wagga Wagga）建设吉瓦级园区的计划，同时墨尔本郊外也提出了一个400MW的园区项目，这些项目规模将位居全国前列。在开发商Zerra据报达成300亿澳元昆士兰数据中心交易后，麦格理资本（Macquarie Capital）入股了该公司；AI计算公司Sharon AI则签约租用GreenSquareDC的容量。与之形成对照的是悉尼：Goodman撤回了其90MW园区的申请。"
     },
     {
       "heading": "Hyperscalers lock in AI capacity",
@@ -44,7 +48,9 @@
         "2026-09-29-123f5e",
         "2026-09-28-a26751",
         "2026-10-01-54712e"
-      ]
+      ],
+      "heading_zh": "Hyperscaler 锁定 AI 算力容量",
+      "narrative_zh": "Meta同意使用Firmus Technologies东南亚设施的AI算力，进一步深化其在该地区的AI基础设施布局。亚马逊（Amazon）在吉隆坡郊外购得土地，被解读为在为未来的AWS园区做铺垫。Akamai承诺与Anthropic达成一项116亿美元的算力供应协议；与此同时，据报道腾讯通过Oracle Cloud Infrastructure获得了10万块Nvidia GPU的算力使用权，这是美国收紧出口管制以来中国公司最大的单笔GPU采购安排之一。"
     },
     {
       "heading": "AI hardware supply chain deepens in Asia",
@@ -55,7 +61,9 @@
         "2026-09-30-0f3455",
         "2026-09-30-6e226e",
         "2026-10-03-203a15"
-      ]
+      ],
+      "heading_zh": "AI 硬件供应链在亚洲不断深化",
+      "narrative_zh": "博通（Broadcom）与凸版印刷（Toppan）开设了新加坡首个先进芯片基板工厂，生产对AI加速器至关重要的高端封装组件。三星（Samsung）向KKR旗下的Helix数据中心投资平台承诺出资10亿美元，将其存储和代工业务与基础设施投资相结合。CoreWeave将Nvidia的Vera Rubin NVL72机架级系统推向全面商用，Cognition成为其早期客户；光互连初创公司CScale也在Nvidia和英特尔（Intel）的支持下结束隐身状态。在日本，长期不被看好的硬盘供应商正凭借AI数据中心对大容量近线（nearline）HDD的旺盛需求迎来营收复苏。"
     },
     {
       "heading": "Power, water and secrecy draw scrutiny",
@@ -66,7 +74,9 @@
         "2026-10-01-085002",
         "2026-10-01-51d6ce",
         "2026-10-02-fca79b"
-      ]
+      ],
+      "heading_zh": "电力、水资源与保密性问题引发审视",
+      "narrative_zh": "东京电力公司（TEPCO）着手整治'容量囤积者'——这些主体为计划中的AI数据中心预留了大块电网容量却迟迟不开工，而激增的需求正令日本电力供应承压。在澳大利亚，Firmus因其塔斯马尼亚设施的电力和用水需求遭遇社区与政界的反对；AirTrunk的首席客户官则接受了《Newcastle Herald》和ABC纽卡斯尔广播电台（ABC Radio Newcastle）就拟议中的Kurri Kurri数据中心提出的质询。AWS方面则表示，将停止在数据中心谈判中要求社区和官员签署保密协议，终结这一长期存在且颇具争议的做法。"
     },
     {
       "heading": "Edge expansions, deals and disruptions",
@@ -79,7 +89,9 @@
         "2026-10-01-2c59c9",
         "2026-09-30-9a1d56",
         "2026-10-01-0a28e5"
-      ]
+      ],
+      "heading_zh": "边缘节点扩张、交易与市场动荡",
+      "narrative_zh": "AMD以一笔价值82亿美元的全股票交易收购了AI研究公司World Labs；SubCo计划在印太地区铺设三条海底光缆。BrightRay正规划在澳门建设一座40MW数据中心，将中国的建设版图延伸至内地枢纽之外；Zella DC则推出了面向边缘部署的可堆叠微型数据中心模块。KDDI为其美洲业务任命了新的首席执行官；首尔一座数据中心发生火灾，迫使100人疏散；《日经亚洲》（Nikkei Asia）的九月回顾则聚焦中国在东南亚的运河与数据中心计划所面临的反对声浪。"
     }
   ],
   "project_milestones": [
@@ -131,5 +143,7 @@
       "change": "First tracked as announced",
       "story_id": "2026-10-03-5ee17a"
     }
-  ]
+  ],
+  "title_zh": "Firmus 上市为澳大利亚数据中心热潮加冕",
+  "lede_zh": "本周最明确的信号来自澳大利亚：Firmus Sustainable Data Centres 正推进可能成为 ASX 历史上最大规模之一的上市交易，银行家们围绕约 2.15 亿美元的费用展开角逐，该公司还在高调宣传其登陆 Nasdaq 的计划，而与此同时，其位于塔斯马尼亚的运营因电力和水资源消耗问题再度招致社区和政治层面的批评。这份热情背后是一条非同寻常的项目管线：CDC 正计划在 Wagga Wagga 建设一个吉瓦级园区，开发商已提交在墨尔本郊外建设 400MW 园区的规划，Macquarie Capital 据报道在一笔 300 亿美元的交易之后注资昆士兰开发商 Zerra，而 Goodman 则撤回了一项 90MW 的悉尼项目申请——这提醒人们，并非每一个提案都能推进。在澳大利亚以外，Meta 已同意使用 Firmus 位于 Southe"
 }

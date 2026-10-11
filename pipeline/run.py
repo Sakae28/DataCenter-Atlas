@@ -82,6 +82,14 @@ def assemble_story(date: str, cluster: dict, generated_at: str) -> dict:
     companies = (cluster.get("companies") or [])[:6]
     if companies:
         story["companies"] = companies
+    # Chinese fields (LLM-produced); absent when heuristics ran — the site
+    # falls back to the English field then.
+    for src_field, dst_field in (("title_zh", "title_zh"),
+                                 ("summary_zh", "summary_zh"),
+                                 ("why_zh", "why_zh")):
+        val = (cluster.get(src_field) or "").strip()
+        if val:
+            story[dst_field] = val
     # Date-only sources: surface the precision marker so the site renders a
     # bare date instead of a fabricated time of day.
     if published:

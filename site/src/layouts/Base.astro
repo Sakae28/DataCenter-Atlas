@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import Icon from '../components/Icon.astro';
+import { t, langPrefix, altLangPath, type Lang } from '../lib/i18n';
 
 interface Props {
   title: string;
@@ -9,6 +10,7 @@ interface Props {
   active?: 'latest' | 'reports' | 'pipeline' | 'companies' | 'saved' | 'about';
   /** Open Graph type — "article" on news detail pages. */
   ogType?: 'website' | 'article';
+  lang?: Lang;
 }
 
 const {
@@ -16,16 +18,20 @@ const {
   description = 'Daily data center intelligence across Asia-Pacific',
   active = 'latest',
   ogType = 'website',
+  lang = 'en',
 } = Astro.props;
 
 const base = import.meta.env.BASE_URL;
+const prefix = langPrefix(lang);
 const site = Astro.site ?? new URL('https://sakae28.github.io');
 const canonical = new URL(Astro.url.pathname, site);
 const ogImage = new URL(`${base}/og-default.png`, site);
+// Language switcher target: same page in the other language.
+const switchPath = `${base}${altLangPath(Astro.url.pathname, base)}`.replace(/\/+/g, '/');
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang={lang === 'zh' ? 'zh-CN' : 'en'}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -46,10 +52,10 @@ const ogImage = new URL(`${base}/og-default.png`, site);
     <title>{title} · DataCenter Atlas</title>
     <slot name="head" />
   </head>
-  <body data-base={base}>
-    <a class="skip" href="#main">Skip to content</a>
+  <body data-base={base} data-lang={lang}>
+    <a class="skip" href="#main">{t(lang, 'skip')}</a>
     <aside class="sidebar">
-      <a class="brand" href={base}>
+      <a class="brand" href={`${base}${prefix}/`}>
         <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true">
           <defs>
             <linearGradient id="brand-grad" x1="0" y1="0" x2="1" y2="1">
@@ -69,31 +75,35 @@ const ogImage = new URL(`${base}/og-default.png`, site);
         <span class="brand-word">DataCenter <span class="brand-accent">Atlas</span></span>
       </a>
       <nav class="side-nav" aria-label="Site">
-        <p class="side-label">Digest</p>
-        <a class="side-item" class:list={[{ 'is-active': active === 'latest' }]} href={base}>
+        <p class="side-label">{t(lang, 'nav.section')}</p>
+        <a class="side-item" class:list={[{ 'is-active': active === 'latest' }]} href={`${base}${prefix}/`}>
           <Icon name="bolt" size={15} class="side-icon" />
-          Latest
+          {t(lang, 'nav.latest')}
         </a>
-        <a class="side-item" class:list={[{ 'is-active': active === 'reports' }]} href={`${base}/reports/`}>
+        <a class="side-item" class:list={[{ 'is-active': active === 'reports' }]} href={`${base}${prefix}/reports/`}>
           <Icon name="newspaper" size={15} class="side-icon" />
-          Reports
+          {t(lang, 'nav.reports')}
         </a>
-        <a class="side-item" class:list={[{ 'is-active': active === 'pipeline' }]} href={`${base}/pipeline/`}>
+        <a class="side-item" class:list={[{ 'is-active': active === 'pipeline' }]} href={`${base}${prefix}/pipeline/`}>
           <Icon name="server" size={15} class="side-icon" />
-          Pipeline
+          {t(lang, 'nav.pipeline')}
         </a>
-        <a class="side-item" class:list={[{ 'is-active': active === 'companies' }]} href={`${base}/companies/`} data-nav-companies>
+        <a class="side-item" class:list={[{ 'is-active': active === 'companies' }]} href={`${base}${prefix}/companies/`} data-nav-companies>
           <Icon name="building" size={15} class="side-icon" />
-          Companies
-          <span class="nav-alert-dot" title="Followed companies have new activity" hidden></span>
+          {t(lang, 'nav.companies')}
+          <span class="nav-alert-dot" title={t(lang, 'common.navNewActivity')} hidden></span>
         </a>
-        <a class="side-item" class:list={[{ 'is-active': active === 'saved' }]} href={`${base}/saved/`}>
+        <a class="side-item" class:list={[{ 'is-active': active === 'saved' }]} href={`${base}${prefix}/saved/`}>
           <Icon name="bookmark" size={15} class="side-icon" />
-          Saved
+          {t(lang, 'nav.saved')}
         </a>
-        <a class="side-item" class:list={[{ 'is-active': active === 'about' }]} href={`${base}/about/`}>
+        <a class="side-item" class:list={[{ 'is-active': active === 'about' }]} href={`${base}${prefix}/about/`}>
           <Icon name="info" size={15} class="side-icon" />
-          About
+          {t(lang, 'nav.about')}
+        </a>
+        <a class="side-item lang-switch" href={switchPath} hreflang={lang === 'zh' ? 'en' : 'zh-CN'}>
+          <Icon name="globe" size={15} class="side-icon" />
+          {t(lang, 'nav.switch')}
         </a>
       </nav>
     </aside>
@@ -105,12 +115,11 @@ const ogImage = new URL(`${base}/og-default.png`, site);
       <footer class="site-footer">
         <div class="main-inner">
           <p>
-            DataCenter Atlas is an automated news digest. Scores and summaries are AI-generated
-            heuristics, not editorial judgment. All sources are credited and linked.
+            {t(lang, 'footer.note')}
           </p>
           <p class="footer-links">
-            <a href={`${base}/rss.xml`} title="Subscribe to the RSS feed">
-              <Icon name="rss" size={13} /> RSS feed
+            <a href={`${base}/rss.xml`} title={t(lang, 'footer.rss')}>
+              <Icon name="rss" size={13} /> {t(lang, 'footer.rss')}
             </a>
           </p>
         </div>
@@ -120,11 +129,14 @@ const ogImage = new URL(`${base}/og-default.png`, site);
     <script>
       // Progressive enhancement: rewrite server-rendered UTC times to the
       // visitor's local timezone. Without JS the UTC fallback text stays.
+      const LANG = document.body.dataset.lang === 'zh' ? 'zh' : 'en';
       const MONTHS = [
         'January', 'February', 'March', 'April', 'May', 'June',
         'July', 'August', 'September', 'October', 'November', 'December',
       ];
       const pad = (n: number) => String(n).padStart(2, '0');
+      const zhDate = (d: Date, utc = false) =>
+        `${utc ? d.getUTCMonth() + 1 : d.getMonth() + 1}月${utc ? d.getUTCDate() : d.getDate()}日`;
 
       function formatLocal(iso: string, kind: string, precision?: string, groupDate?: string): string | null {
         const t = Date.parse(iso);
@@ -132,6 +144,17 @@ const ogImage = new URL(`${base}/og-default.png`, site);
         if (kind === 'relative') {
           const diff = Math.max(0, Date.now() - t);
           const minutes = Math.floor(diff / 60000);
+          if (LANG === 'zh') {
+            if (minutes < 1) return '刚刚';
+            if (minutes < 60) return `${minutes} 分钟前`;
+            const hours = Math.floor(minutes / 60);
+            if (hours < 24) return `${hours} 小时前`;
+            const days = Math.floor(hours / 24);
+            if (days < 30) return `${days} 天前`;
+            const months = Math.floor(days / 30);
+            if (months < 12) return `${months} 个月前`;
+            return `${Math.floor(months / 12)} 年前`;
+          }
           if (minutes < 1) return 'just now';
           if (minutes < 60) return `${minutes} minute${minutes === 1 ? '' : 's'} ago`;
           const hours = Math.floor(minutes / 60);
@@ -148,7 +171,9 @@ const ogImage = new URL(`${base}/og-default.png`, site);
         // UTC calendar date (the timestamp is pinned to noon UTC).
         if (precision === 'day') {
           if (kind === 'datetime') {
-            return `${MONTHS[d.getUTCMonth()]} ${d.getUTCDate()}, ${d.getUTCFullYear()}`;
+            return LANG === 'zh'
+              ? `${d.getUTCFullYear()}年${zhDate(d, true)}`
+              : `${MONTHS[d.getUTCMonth()]} ${d.getUTCDate()}, ${d.getUTCFullYear()}`;
           }
           // Rail: the day-group heading already carries the date, so repeating
           // "Sep 8" beside the card reads as a second date header. An em dash
@@ -157,7 +182,9 @@ const ogImage = new URL(`${base}/og-default.png`, site);
         }
         const hhmm = `${pad(d.getHours())}:${pad(d.getMinutes())}`;
         if (kind === 'datetime') {
-          return `${MONTHS[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()} · ${hhmm}`;
+          return LANG === 'zh'
+            ? `${d.getFullYear()}年${zhDate(d)} ${hhmm}`
+            : `${MONTHS[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()} · ${hhmm}`;
         }
         // Rail time on the digest timeline: show a bare HH:MM when the story
         // falls on the digest date in the visitor's timezone; otherwise
@@ -169,7 +196,11 @@ const ogImage = new URL(`${base}/og-default.png`, site);
             d.getFullYear() === gd.getUTCFullYear() &&
             d.getMonth() === gd.getUTCMonth() &&
             d.getDate() === gd.getUTCDate();
-          if (!sameDay) return `${MONTHS[d.getMonth()].slice(0, 3)} ${d.getDate()} · ${hhmm}`;
+          if (!sameDay) {
+            return LANG === 'zh'
+              ? `${zhDate(d)} ${hhmm}`
+              : `${MONTHS[d.getMonth()].slice(0, 3)} ${d.getDate()} · ${hhmm}`;
+          }
         }
         return hhmm;
       }
@@ -211,7 +242,9 @@ const ogImage = new URL(`${base}/og-default.png`, site);
           const on = store[type]?.includes(btn.dataset.favId ?? '') ?? false;
           btn.classList.toggle('is-fav', on);
           btn.setAttribute('aria-pressed', String(on));
-          btn.title = on ? 'Saved — click to remove' : 'Save';
+          btn.title = on
+            ? (LANG === 'zh' ? '已收藏 — 点击取消' : 'Saved — click to remove')
+            : (LANG === 'zh' ? '收藏' : 'Save');
         });
       }
 
@@ -288,10 +321,12 @@ const ogImage = new URL(`${base}/og-default.png`, site);
           btn.classList.toggle('is-following', on);
           btn.setAttribute('aria-pressed', String(on));
           btn.title = on
-            ? 'Following — click to unfollow'
-            : 'Follow — get an on-site alert when this company has news or project updates';
+            ? (LANG === 'zh' ? '追踪中 — 点击取消追踪' : 'Following — click to unfollow')
+            : (LANG === 'zh' ? '追踪 — 该公司有新闻或项目更新时会在站内提醒' : 'Follow — get an on-site alert when this company has news or project updates');
           const label = btn.querySelector('.follow-btn-label');
-          if (label) label.textContent = on ? 'Following' : 'Follow';
+          if (label) label.textContent = on
+            ? (LANG === 'zh' ? '追踪中' : 'Following')
+            : (LANG === 'zh' ? '追踪' : 'Follow');
         });
       }
 
@@ -368,7 +403,7 @@ const ogImage = new URL(`${base}/og-default.png`, site);
         if (navDot) {
           navDot.hidden = unread.length === 0;
           navDot.title = unread.length
-            ? `New activity: ${unread.map((s) => activity[s]?.name ?? s).join(', ')}`
+            ? `${LANG === 'zh' ? '新动态：' : 'New activity: '}${unread.map((s) => activity[s]?.name ?? s).join(', ')}`
             : '';
         }
         document.querySelectorAll<HTMLElement>('.co-card[data-company-slug]').forEach((card) => {

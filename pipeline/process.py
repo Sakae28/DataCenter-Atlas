@@ -332,12 +332,15 @@ _RELEVANCE_SYSTEM = (
     "investment, hyperscale, colocation, regulation, chips). "
     "title_en — a clean normalized English headline with any trailing "
     "publisher/outlet name suffix (e.g. \" - Reuters\") removed. "
+    "title_zh — the headline translated into Simplified Chinese; keep "
+    "company names, product names, project codenames and industry terms "
+    "(e.g. MW, GPU, hyperscale, colocation) in their original English form. "
     "companies — up to 6 canonical names of companies/organizations the "
     'story is ABOUT (e.g. "NVIDIA", "STT GDC", "Equinix", "NTT", "AirTrunk"); '
     "omit generic mentions with no substance; empty array when none. "
     'Reply with JSON: {"results": [{"index": int, "relevant": bool, '
     '"score": int, "regions": [...], "topics": [...], "title_en": "...", '
-    '"companies": [...]}]}.'
+    '"title_zh": "...", "companies": [...]}]}.'
 )
 
 
@@ -367,6 +370,9 @@ def _annotate_batch(backend, batch: list[dict]) -> None:
         title_en = str(res.get("title_en", "")).strip()
         if title_en:
             cluster["title_en"] = title_en
+        title_zh = str(res.get("title_zh", "")).strip()
+        if title_zh:
+            cluster["title_zh"] = title_zh
         cluster["companies"] = [str(c).strip()
                                 for c in res.get("companies", [])
                                 if str(c).strip()][:6]
@@ -498,6 +504,9 @@ def _absorb(dst: dict, src: dict) -> None:
     companies = list(dict.fromkeys((dst.get("companies") or []) +
                                    (src.get("companies") or [])))[:6]
     dst["companies"] = companies
+    for field in ("title_en", "title_zh"):
+        if not dst.get(field) and src.get(field):
+            dst[field] = src[field]
 
 
 # ------------------------------------------------------ step 3: enrichment
@@ -506,10 +515,15 @@ _ENRICH_SYSTEM = (
     "You are an editor for an APAC data center industry news service. For "
     "each story, write: summary — 2-3 sentence factual English summary that "
     "adds information beyond the headline (never restate or copy the title); "
+    "summary_zh — the summary translated into Simplified Chinese, keeping "
+    "company/project names and industry terms (MW, GPU, hyperscale, "
+    "colocation) in English; "
     "why_it_matters — one short editorial paragraph in the style of "
-    '"what changes, who is affected" (do NOT restate the summary). '
+    '"what changes, who is affected" (do NOT restate the summary); '
+    "why_zh — the why_it_matters paragraph in Simplified Chinese, same "
+    "terminology rules as summary_zh. "
     'Reply with JSON: {"results": [{"index": int, "summary": "...", '
-    '"why_it_matters": "..."}]}.'
+    '"summary_zh": "...", "why_it_matters": "...", "why_zh": "..."}]}.'
 )
 
 
@@ -525,6 +539,12 @@ def _enrich_batch(backend, ranked: list[dict]) -> None:
             continue
         ranked[idx]["summary"] = str(res.get("summary", "")).strip()
         ranked[idx]["why_it_matters"] = str(res.get("why_it_matters", "")).strip()
+        summary_zh = str(res.get("summary_zh", "")).strip()
+        if summary_zh:
+            ranked[idx]["summary_zh"] = summary_zh
+        why_zh = str(res.get("why_zh", "")).strip()
+        if why_zh:
+            ranked[idx]["why_zh"] = why_zh
 
 
 def _enrich_resilient(backend, ranked: list[dict]) -> None:
