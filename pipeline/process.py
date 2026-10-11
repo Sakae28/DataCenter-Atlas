@@ -409,7 +409,8 @@ _KNOWN_COMPANIES = [
     "Oracle", "CoreWeave", "Keppel", "Singtel", "SoftBank", "GDS",
     "CyrusOne", "DayOne", "Macquarie", "IBM", "AMD", "Intel", "OpenAI",
     "Broadcom", "TSMC", "Zayo", "Crusoe", "Lightmatter", "JLL",
-    "Centuria", "ResetData", "AWS",
+    "Centuria", "ResetData", "AWS", "Nebius", "IREN", "Lambda",
+    "Firmus", "GMI Cloud", "Applied Digital", "Fluidstack", "SharonAI",
 ]
 _KNOWN_COMPANY_RE = re.compile(
     r"(?<![\w])(" + "|".join(re.escape(n) for n in
