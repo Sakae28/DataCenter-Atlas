@@ -1,0 +1,213 @@
+{
+  "type": "weekly",
+  "period": "2026-W41",
+  "date_range": {
+    "start": "2026-10-05",
+    "end": "2026-10-11"
+  },
+  "generated_at": "2026-10-12T07:39:42Z",
+  "complete": true,
+  "stats": {
+    "stories": 107,
+    "sources": 15,
+    "days": 7,
+    "read_minutes": 1
+  },
+  "title": "Neocloud Firmus cancels IPO, blames market volatility",
+  "lede": "Australian neocloud operator Firmus has withdrawn its planned IPO, citing volatile market conditions as the reason for pulling the offering. The decision marks an abrupt reversal for the Nvidia-backed company, which had been positioning the listing as one of the year's marquee AI infrastructure floats. Blackstone has committed US$30 billion to develop AI data centers in Japan over the next three to five years, marking the largest single investment of its kind in the country. The move underscores Japan's emergence as a preferred destination for hyperscale AI infrastructure investment in Asia-Pacific. AirTrunk has closed a ¥191.6 billion (US$1.24 billion) green loan that refinances existing debt and funds the next development stages of its TOK1 hyperscale campus in eastern Tokyo. The financing reflects sustained lender appetite for energy-efficient data center assets as AI and cloud demand drives capacity growth in Japan's primary market.",
+  "themes": [
+    {
+      "heading": "Australia developments",
+      "narrative": "",
+      "story_ids": [
+        "2026-10-09-fd586c",
+        "2026-10-08-e15b3d",
+        "2026-10-10-1f7803",
+        "2026-10-05-1525f7",
+        "2026-10-07-6fff97",
+        "2026-10-05-260f1a",
+        "2026-10-08-92f930",
+        "2026-10-05-e879c7",
+        "2026-10-09-b2ba83",
+        "2026-10-11-5545c8",
+        "2026-10-07-1525f7",
+        "2026-10-09-728b29",
+        "2026-10-09-fdd0b4",
+        "2026-10-10-1ba57c",
+        "2026-10-06-2f1158",
+        "2026-10-09-49056e",
+        "2026-10-06-d3ce01",
+        "2026-10-07-d3ce01",
+        "2026-10-06-74b433",
+        "2026-10-06-348cd1",
+        "2026-10-06-0e6988",
+        "2026-10-07-0e6988",
+        "2026-10-06-21d34d",
+        "2026-10-06-75e9ca",
+        "2026-10-10-128415",
+        "2026-10-06-e3cf5c",
+        "2026-10-12-7eb696"
+      ]
+    },
+    {
+      "heading": "Japan developments",
+      "narrative": "",
+      "story_ids": [
+        "2026-10-07-48e2d3",
+        "2026-10-08-1fc99f",
+        "2026-10-06-48e2d3",
+        "2026-10-09-80234c",
+        "2026-10-10-80234c",
+        "2026-10-09-910eba",
+        "2026-10-05-5e4094",
+        "2026-10-10-910eba",
+        "2026-10-10-35fc01",
+        "2026-10-06-0bd594",
+        "2026-10-08-7226b9",
+        "2026-10-09-03a440",
+        "2026-10-06-7595b7"
+      ]
+    },
+    {
+      "heading": "Southeast Asia developments",
+      "narrative": "",
+      "story_ids": [
+        "2026-10-07-55012f",
+        "2026-10-09-f3a8bf",
+        "2026-10-10-f3a8bf",
+        "2026-10-09-96d7fc",
+        "2026-10-11-a38f85",
+        "2026-10-08-08f75e",
+        "2026-10-09-f10ccf",
+        "2026-10-10-f10ccf",
+        "2026-10-07-04f7ba",
+        "2026-10-09-62158d",
+        "2026-10-09-a14243",
+        "2026-10-10-f9941c",
+        "2026-10-10-62158d",
+        "2026-10-10-96d7fc",
+        "2026-10-09-281170",
+        "2026-10-10-53c311",
+        "2026-10-07-1ced30",
+        "2026-10-06-55012f",
+        "2026-10-10-ef3001",
+        "2026-10-10-281170",
+        "2026-10-10-85c61b",
+        "2026-10-09-ef3001",
+        "2026-10-06-483a8c",
+        "2026-10-10-660091",
+        "2026-10-09-85c61b",
+        "2026-10-10-1be82d",
+        "2026-10-07-7024d8",
+        "2026-10-07-483a8c",
+        "2026-10-07-b509a9",
+        "2026-10-07-418d8b",
+        "2026-10-09-660091"
+      ]
+    },
+    {
+      "heading": "China developments",
+      "narrative": "",
+      "story_ids": [
+        "2026-10-07-cda6e2",
+        "2026-10-08-417edd",
+        "2026-10-06-dc7989",
+        "2026-10-06-80af13",
+        "2026-10-10-04ad77",
+        "2026-10-10-a85d20",
+        "2026-10-05-a93e75",
+        "2026-10-09-272d11",
+        "2026-10-09-a85d20"
+      ]
+    },
+    {
+      "heading": "Global developments",
+      "narrative": "",
+      "story_ids": [
+        "2026-10-06-04ce04",
+        "2026-10-10-b3ee6d",
+        "2026-10-10-27a5c7",
+        "2026-10-10-eb65f4",
+        "2026-10-06-054255",
+        "2026-10-07-0bd594",
+        "2026-10-09-9471a4",
+        "2026-10-10-40746d",
+        "2026-10-08-180065",
+        "2026-10-05-0eec90",
+        "2026-10-05-294927",
+        "2026-10-07-df12ea",
+        "2026-10-08-942b8a",
+        "2026-10-10-9471a4",
+        "2026-10-11-accddc",
+        "2026-10-10-36c7ab",
+        "2026-10-11-3e191f",
+        "2026-10-09-27a5c7",
+        "2026-10-12-fb92af",
+        "2026-10-12-8b0022",
+        "2026-10-12-15f85b",
+        "2026-10-12-ec31d4",
+        "2026-10-12-1505fa",
+        "2026-10-12-ea09dc"
+      ]
+    },
+    {
+      "heading": "Korea developments",
+      "narrative": "",
+      "story_ids": [
+        "2026-10-08-0000a2",
+        "2026-10-08-0ef688",
+        "2026-10-11-9ca530"
+      ]
+    }
+  ],
+  "project_milestones": [
+    {
+      "project_id": "canberra-cdc-hume-campus-3",
+      "name": "CDC Hume Campus 3",
+      "operator": "CDC Data Centres",
+      "date": "2026-10-07",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-07-6fff97"
+    },
+    {
+      "project_id": "kt-cloud-incheon-data-center",
+      "name": "KT Cloud Incheon Data Center",
+      "operator": "KT Cloud",
+      "date": "2026-10-08",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-08-0000a2"
+    },
+    {
+      "project_id": "bitdeer-ai-malaysia-deployment",
+      "name": "Bitdeer AI Malaysia deployment",
+      "operator": "Bitdeer",
+      "date": "2026-10-09",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-09-a14243"
+    },
+    {
+      "project_id": "digital-realty-kix15-osaka-campus",
+      "name": "Digital Realty KIX15 (Osaka campus)",
+      "operator": "Digital Realty",
+      "date": "2026-10-10",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-10-10-910eba"
+    }
+  ]
+}

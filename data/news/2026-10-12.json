@@ -1,0 +1,496 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T07:28:12Z",
+  "hot": [
+    "2026-10-12-86bd9d",
+    "2026-10-12-4fd068",
+    "2026-10-12-cd8601",
+    "2026-10-12-5dc8de",
+    "2026-10-12-a2d590"
+  ],
+  "stories": [
+    {
+      "id": "2026-10-12-4fd068",
+      "title": "Kinergy bags RM47.5m electrical works contract for hyperscale data centre",
+      "summary": "Kinergy Advancement Bhd (KL:KINERGY) has secured a RM47.5 million subcontract from Gamuda Bhd's (KL:GAMUDA) unit for electrical works at a hyperscale data centre in Bandar Spring Hill, Port Dickson.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-10-12T06:34:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/821476",
+          "type": "html-list"
+        }
+      ],
+      "content": "KUALA LUMPUR (Oct 12): Kinergy Advancement Bhd (KL:KINERGY) has secured a RM47.5 million subcontract from Gamuda Bhd's (KL:GAMUDA) unit for electrical works at a hyperscale data centre in Bandar Spring Hill, Port Dickson.\n\nThe subcontract was awarded by Gamuda Bhd’s wholly-owned subsidiary, Gamuda Engineering Sdn Bhd, for the data centre for a multi-national technology company headquartered in the US. The company was not named in the filing on Monday (Oct 12).\n\nUnder the contract, Kinergy will design, supply, install, test and commission the electrical infrastructure, including substations, transformers, power distribution systems, cabling, lighting, backup power systems and EV charging facilities.\n\nThe works are scheduled for completion in the first quarter of 2028.\n\nKinergy’s executive deputy chairman and group managing director Datuk Dr Lai Keng Onn said the award signals the group’s growing recognition in the data centre sector and its technical capabilities in high-specification infrastructure.\n\nLai cited Malaysian Investment Development Authority (Mida) figures that showed RM95.8 billion worth of data centre and cloud-computing investments being approved in Malaysia in the first half of 2026.\n\n“As development grows in scale and complexity, we see increasing demand for specialised engineering and power infrastructure, creating a strong opportunity for Kinergy to deepen its participation in the sector,” Lad added.\n\nKinergy’s share price was unchanged at 39.5 sen during Monday’s mid-day break, valuing it at RM852.31 million.\n\nEdited ByPresenna Nambiar\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/821476"
+    },
+    {
+      "id": "2026-10-12-cd8601",
+      "title": "Sponsored: Making every watt work",
+      "summary": "nVent’s David Wood explores how real-time power intelligence could be the key to unlocking stranded data center capacity and securing responsive AI infrastructure",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-12T07:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/marketwatch/making-every-watt-work/",
+          "type": "rss"
+        }
+      ],
+      "content": "Across the data center industry, the race to support AI is increasingly being measured in megawatts. As workloads become more demanding and compute densities continue to rise, operators are having to think carefully about how power is delivered and, crucially, how effectively it can be used.\n\nWhile the conversation often starts at the facility level, the real challenge begins much closer to the rack.\n\nFor nVent, the rack itself is becoming a critical point of control. As AI workloads introduce rapid fluctuations in power demand, the ability to monitor and respond in real time will increasingly determine how effectively secured capacity can be utilized.\n\n“The ceiling isn’t really about the silicon,” says David Wood, senior product manager of smart power at nVent. “It’s about power, and specifically, how intelligently you can deliver it.”\n\nWith more than 20 years of experience in the data center industry, Wood has witnessed the evolution of power infrastructure first-hand. Now, in a recent DCD>Broadcast episode, he shares why the next step will be about giving the rack the intelligence to respond to increasingly dynamic workloads.\n\n## The rack-level power problem\n\nData center capacity is often discussed in terms of the overall power available to a facility. Operators may have 20, 50 or even more than 100MW at their disposal, but this doesn’t necessarily mean all this capacity can be put to work. As Wood explains:\n\n“The constraint almost never shows up at this scale. It’s evident inside a single rack.”\n\nAt the rack level, provisioned power is either converted into useful compute or becomes stranded because something further downstream can’t respond quickly enough to the demands placed upon it.\n\nTraditional enterprise workloads were relatively predictable, allowing infrastructure to be designed around stable patterns of consumption. AI workloads are an entirely different beast.\n\nGPU clusters can rapidly move between idle and full power draw as workloads shift between training, inference, and communication cycles. Crucially, these changes can happen within milliseconds, creating a level of volatility that conventional infrastructure wasn’t designed to manage.\n\n“This volatility is where the real damage happens,” says Wood. “Whether it’s thermal spikes, phase imbalances, or circuit breaker trips – when the power delivery can’t keep up, your own infrastructure becomes the bottleneck.”\n\nThis reality is driving a fundamental shift in power infrastructure. Rather than sizing systems to meet peak demand, operators increasingly need to manage power dynamically as workloads change.\n\n## From monitoring to real-time intelligence\n\nThe problem with responding to these events effectively is that they can happen faster than traditional monitoring systems can detect them.\n\nConventional power distribution units (PDUs) typically rely on polling, where readings are requested at intervals of a second or more. This can provide a useful overview of consumption, but it risks missing the more transient events that matter most.\n\n“If you’re polling every second or every few seconds, and you have a millisecond-scale swing, that reading is a snapshot of something that’s already over,” says Wood.\n\nnVent’s approach is based on subsecond sampling and live streaming of power data. Beyond providing a record of what’s happened, the system is designed to provide visibility into how the workload is behaving as it happens.\n\n“You can’t automate what you can’t see in real time,” adds Wood.\n\n## The engine turning data into action\n\nThis is where nVent’s Intelligent PDU Platform with built-in event engine secures its place. Traditional metering can deliver accurate information about power consumption and quality, including billing-grade measurements, but this insight is still retrospective. The event engine is designed to take this information and put it into action to trigger an immediate response.\n\n“The event engine can act on what’s happening right now because it runs on the PDU itself,” explains Wood.\n\nThe principle is relatively straightforward. An operator establishes a trigger, defines the condition under which it should be sustained, and then specifies the action that follows.\n\nFor example, a phase imbalance could be allowed to persist for a defined period before it exceeds a specified threshold and triggers an automated response. This helps prevent the system from reacting to momentary noise while ensuring it responds when it really matters.\n\n## Beyond the PDU\n\nFor nVent, the longer-term opportunity lies in connecting power intelligence with the wider data center environment. Once the rack can understand its own power behavior and respond accordingly, this intelligence can be linked with other infrastructure systems, including critical cooling and workload management. This creates the possibility of coordinating systems around what the workload actually needs.\n\n“We’re looking at it from the ground up at the rack level, to help secure better coordination across the entire facility,” says Wood.\n\nnVent’s position is strengthened by its presence across both power and cooling. Rather than treating the two as entirely separate systems, the company is exploring how they can work together to anticipate workload requirements and respond accordingly.\n\nOn a broader level, rack-level intelligence can also feed into building management systems and data center infrastructure management software. What starts out as a local response can become part of a wider optimization strategy across the data hall.\n\nThis can help deliver more usable capacity from the same footprint, fewer nuisance trips, and closer coordination between power, cooling, and compute.\n\n## The shift towards self-healing infrastructure\n\nThe ability to respond automatically is central to another concept Wood highlights: self-healing infrastructure. The term describes a move away from systems that simply identify a problem and notify an operator, towards more proactive infrastructure.\n\n“Most of the infrastructure components and solutions that we use today, especially in power, tell you something went wrong,” says Wood. “What self-healing means is that the power distribution itself can do something about it before you even see the alert.”\n\nEnvironmental monitoring provides another example. If sensors detect a temperature increase within a cabinet, predefined thresholds could trigger a response such as shutting down non-critical loads, reducing the heat being generated, and giving cooling systems time to react.\n\nInside high-density environments containing huge volumes of high-value equipment, the stakes are elevated. Consequently, for operators, the appeal of self-healing infrastructure is intrinsically tied to protecting valuable physical and computational investments.\n\n## The bottom line\n\nAs rack densities continue to rise, however, intelligent power management will also need to evolve alongside the underlying architecture.\n\nWood points towards a future in which higher-voltage DC power is delivered directly at the rack, with architectures moving towards 400V and potentially 800V.\n\nBy reducing the number of power conversion stages between the source and the compute hardware, operators can potentially reduce losses while freeing up physical space to dedicate to compute.\n\n“It’s a real architectural shift, and it doesn’t happen overnight,” says Wood. “But it’s coming, and rack intelligence has to move with it.”\n\nUltimately, the argument for intelligent power comes down to the fundamental reality that secured capacity is only valuable if it can actually be deployed effectively.\n\n“The risk has never really been about running out of power. It’s about stranding the power you already have and not making use of it because the rack can’t act fast enough,” he continues.\n\nThis makes the rack an increasingly important part of data center power strategies. With real-time visibility, automated responses, and close integration between cooling and workload management, power distribution can become an active participant in infrastructure optimization.\n\nFor Wood, the ultimate goal is to ensure that the enormous investments being made in AI infrastructure deliver as much useful compute as possible.\n\n“We invest a lot of money in our data centers today, and it’s really important to be able to make the most of it,” he concludes. “nVent is here to help extract the greatest value out of that investment and to be responsible in our environmental approaches by utilizing our resources most efficiently.”\n\n*To hear more from David Wood on intelligent power for AI operations watch the full DCD>Broadcast episode, here.*\n\n## More from nVent\n\n- # Sponsored nVent expands data center liquid cooling capacity 160,000 square foot site will support growing liquid cooling demand from AI and high-performance computing environments\n- # The real challenge for liquid cooling isn’t deployment – it’s scale Liquid cooling has arrived. Now the industry must identify how to scale it, say nVent’s experts\n- # We do cool stuff Building resilient, high-density infrastructure foundations that enable scalable cooling, integrated power pathways, and future-ready deployment strategies for AI era data centers",
+      "content_url": "https://www.datacenterdynamics.com/en/marketwatch/making-every-watt-work/"
+    },
+    {
+      "id": "2026-10-12-5dc8de",
+      "title": "Submer India, BSNL Tower Corporation to develop AI-ready data centres across India",
+      "summary": "Submer India Private Limited and BSNL Tower Corporation Limited (BTCL) signed an MoU at India Mobile Congress 2026. The collaboration will explore sovereign, AI-ready data centre infrastructure across India.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-12T06:12:44Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/submer-india-bsnl-tower-corporation-to-develop-ai-ready-data-centres-across-india/134884756",
+          "type": "rss"
+        }
+      ],
+      "content": "NEW DELHI: Submer India and BSNL Tower Corporation Limited (BTCL) on Monday said they have signed a Memorandum of Understanding (MoU) at the recently concluded India Mobile Congress (IMC 2026) to explore the development of sovereign, AI-ready data centre infrastructure across India.The collaboration will focus on infrastructure designed for artificial intelligence (AI) and high-performance computing (HPC) requirements. Submer and BTCL will jointly assess opportunities for GPU-as-a-Service, sovereign AI cloud infrastructure, and edge and micro-edge data centres.They will also evaluate large-scale data centre projects up to 20 MW. The parties will assess the suitability of BSNL premises and data centre facilities for transformation into distributed edge infrastructure.These assessments will consider technical and commercial feasibility, connectivity, scalability, and energy efficiency. They will also address the requirements of government, public sector undertakings (PSU), enterprise, research, and institutional workloads.“AI will play an increasingly important role in India’s digital transformation, creating demand for secure, high-performance computing infrastructure that can serve the country at scale,” said Robert J Ravi, CMD, BSNL. “This MoU marks an important step in evaluating how BSNL’s nationwide infrastructure and connectivity footprint can support sovereign AI capabilities. Our collaboration with Submer will help us explore an infrastructure model designed around India’s long-term digital priorities.”“Government bodies and enterprises need a practical path to adopt AI without compromising performance, security, or data sovereignty,” said Sudhakar Rao Papa, director (enterprise business), BSNL. “By assessing GPU-as-a-Service, sovereign cloud and distributed edge infrastructure, this collaboration aims to bring AI computing capacity closer to organizations across India and support a broader range of public-sector and enterprise applications.”“India has the talent, demand, and digital reach to become a global AI infrastructure leader. The next step is to build the physical capacity that turns that ambition into deployable compute,” said Anupam Shrivastava, Submer India Head. “Together with BTCL, we are bringing infrastructure, network reach, and engineering expertise into one model. Our goal is clear: make sovereign AI capacity available where it is needed, from strategic edge locations to large-scale AI data centers.”Under the pact, Submer will apply its expertise in integrated data centre architecture, liquid cooling, and high-density computing. BTCL will coordinate access to relevant BSNL premises and data centre facilities for feasibility studies.A key assessment area will be a sovereign AI cloud model. This model will leverage BSNL’s network footprint and indigenous 4G and 5G core to support scalable, low-latency GPU-as-a-Service. The collaboration also includes coordinated opportunity development and technical workshops.\n\n- AI & Compute Infrastructure\n- 2 min Read\n\n# Submer India, BSNL Tower Corporation to develop AI-ready data centres across India\n\nSubmer India Private Limited and BSNL Tower Corporation Limited (BTCL) signed an MoU at India Mobile Congress 2026. The collaboration will explore sovereign, AI-ready data centre infrastructure across India.\n\n- Updated On Oct 12, 2026 at 11:50 AM IST\n\n## Highlights\n\n- Submer India and BTCL signed an MoU at India Mobile Congress 2026.\n- The partnership explores sovereign, AI-ready data centre infrastructure across India.\n- It will assess GPU-as-a-Service and edge data centres up to 20 MW.\n- BSNL premises will be evaluated for distributed edge infrastructure transformation.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/submer-india-bsnl-tower-corporation-to-develop-ai-ready-data-centres-across-india/134884756"
+    },
+    {
+      "id": "2026-10-12-a2d590",
+      "title": "India's semiconductor sector sees M&A, investment surge for AI data centers",
+      "summary": "India's semiconductor ecosystem is experiencing significant growth in mergers, acquisitions, and investments. This expansion is driven by government support, a strong talent pool, and increasing global interest, particularly for AI data centre applications.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-12T06:01:59Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/indias-semiconductor-sector-sees-ma-investment-surge-for-ai-data-centers/134884279",
+          "type": "rss"
+        }
+      ],
+      "content": "India's semiconductor sector is witnessing a surge in mergers, acquisitions, and investments, driven by both international chipmakers and domestic companies. This growth reflects a maturing ecosystem and rising investor confidence, with implications for AI data centre applications.Seven acquisitions were announced in 2026, reflecting interest in India’s semiconductor capabilities. Five-year data from the Ministry of Corporate Affairs, Tracxn, and industry estimates signal this maturing ecosystem. The ₹76,000-crore India Semiconductor Mission in 2021 sparked immediate interest, drawing $25.1 million to local startups that year. Momentum surged alongside key milestones, such as Micron’s chip packaging plant in Sanand, Gujarat.Startups raised $153.7 million in 2023, $113.7 million in 2024, and $474 million in 2025. They added another $228.7 million through early October this year. The number of first-time investors in the semiconductor industry followed a similar trajectory, jumping from 12 in 2021 to 80 in 2024. The Union Cabinet approved the Tata Group’s first chip fabrication unit in Dholera, Gujarat, in 2024.In 2023, Indian semiconductor startups saw $14.4 million in seed-stage investment, $31.3 million in early-stage, and $108 million in late-stage investment. Two years later, in 2025, seed-stage investments rose to $33.4 million, and early-stage investment grew to $79.4 million. Late-stage investment in Indian semiconductor startups more than tripled to $361 million in 2025.Rajan Anandan, managing director of global venture capital firm Peak XV Partners, said India is seeing the beginning of a massive semiconductor startup ecosystem. He noted that talent is the core reason, as 20 per cent of global semiconductor designers are in India. Peak XV has invested in semiconductor startups Agrani Labs, C2i Semiconductors, InCore Semiconductors, and Mindgrove.\n### M&A activity and AI data centre focus\n\nA similar trend is emerging in mergers and acquisitions. Among 3,557 companies in the semiconductor and allied sectors, 68 were acquired at a median price of $33.7 million. As many as 27 M&A deals were announced over the last five years, including seven in 2026 alone. The median deal price jumped to $125 million in these deals.One of the largest acquisitions in the last five years was Narayan Powertech, a Vadodara-based manufacturer. In 2024, New Hampshire–headquartered Standex acquired the company for $261.9 million. Japan’s Renesas bought Bengaluru-headquartered Steradian Semiconductors for nearly $36 million in 2022. Steradian provides radar solutions for object recognition.Germany’s Infineon in August 2026 announced the acquisition of Bengaluru-based C2i Semiconductors. C2i specialises in software-defined multiphase controllers and smart power stages for AI data centre applications. Adam White, president of Infineon’s Power Systems division, said this acquisition strengthens Infineon’s leadership in power solutions for AI data centres. He added that it creates a new centre of excellence for digital power technologies in India.M&A activity over the past five years is not restricted to pure-play chip designers. It now extends into companies focused on water recycling and power optimisation for silicon chips, experts noted. Sateesh Andra, managing partner at venture capital firm Endiya Partners, said there is a gradual shift towards intellectual property ownership. Indian startups are moving beyond design services to develop proprietary semiconductor products and technologies.Government support for semiconductor initiatives and manufacturing incentives is improving ecosystem infrastructure and investment visibility, Andra said. More engineers with global semiconductor experience are now launching deep-tech ventures.\n\n- AI & Compute Infrastructure\n- 3 min Read\n\n# India's semiconductor sector sees M&A, investment surge for AI data centers\n\nIndia's semiconductor ecosystem is experiencing significant growth in mergers, acquisitions, and investments. This expansion is driven by government support, a strong talent pool, and increasing global interest, particularly for AI data centre applications.\n\n- Published On Oct 12, 2026 at 11:31 AM IST\n\n## Highlights\n\n- India's semiconductor sector sees rising M&A and investment.\n- Startups raised $474 million in 2025, $228.7 million this year.\n- Infineon acquired C2i Semiconductors for AI data centre power solutions.\n- Government initiatives and talent pool drive ecosystem growth.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/indias-semiconductor-sector-sees-ma-investment-surge-for-ai-data-centers/134884279"
+    },
+    {
+      "id": "2026-10-12-50d281",
+      "title": "India data centre investments shift to multi-city portfolios, capacity nears 2GW",
+      "summary": "India's data centre sector returned to multi-city investment strategies in the first half of 2026, with over 85 per cent of $38 billion committed to such portfolios. This shift aims to build resilience, with total operational capacity projected to reach 2 gigawatts by the end of 2026.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-12T05:57:31Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/india-data-centre-investments-shift-to-multi-city-portfolios-capacity-nears-2gw/134884090",
+          "type": "rss"
+        }
+      ],
+      "content": "India's data centre sector saw a return to multi-city investment strategies in the first half of 2026, according to a recent market research report. Investors committed over 85 per cent of $38 billion in H1 2026 to new projects spread across multiple hubs, CBRE's report stated.This follows a period dominated by single-site mega projects, with multi-city capital deployment now accounting for the majority. Large capacity additions are typically spread across several cities to build resilience.Between 2021 and 2023, multi-city portfolios represented over 60 per cent of total investments. This included targeted spending in primary hubs such as Mumbai, Delhi-NCR, Bengaluru, and Chennai.The trend temporarily shifted in 2024 and 2025, with Hyderabad capturing 23 per cent and 15 per cent of total investments respectively. Tier-II cities secured 16 per cent and 27 per cent in those years, driven by standalone mega projects like Google’s centre in Vizag.India added 130 megawatts (MW) of new capacity in H1 2026. Mumbai accounted for 94 per cent of this new supply, while Chennai contributed the remaining 6 per cent.Established micro markets like Navi Mumbai and Chennai’s Siruseri continue to see significant activity. Mumbai currently holds over 52 per cent of the country’s total data centre capacity, with Chennai at 18 per cent.More than 200 MW is expected to be added in the second half of the year. This puts India’s total operational capacity on track to reach 2 gigawatts (GW) by the end of 2026.While over 80 per cent of India’s operational capacity remains concentrated in Mumbai, Chennai, and Delhi-NCR, incremental capacity is expected in secondary and emerging hubs. This is driven by better availability of land, power, and water.Anshuman Magazine, chairperson and CEO (India, SEA, Middle East and Africa) of CBRE, told TOI that India’s data centre landscape is becoming more geographically diverse. He added that Hyderabad is emerging as a key growth market.Operators are expected to add more capacity in Bengaluru, Kolkata, and Visakhapatnam, Magazine said. They weigh access to land, power, water, and connectivity, he noted.Magazine clarified that the lower share of new supply in H1 2026 does not indicate a move away from Chennai by hyperscalers. It reflects a maturing multi-hub market, he stated.Recent investments bring India’s total data centre commitments to around $173 billion since 2021. Over 15 per cent of this capital is specifically dedicated to supporting Artificial Intelligence (AI).Large global tech companies and cloud providers, known as hyperscalers, continue to drive most of the real estate demand. They account for 50-55 per cent of current market activity.\n\n- Investments & Deals\n- 2 min Read\n\n# India data centre investments shift to multi-city portfolios, capacity nears 2GW\n\nIndia's data centre sector returned to multi-city investment strategies in the first half of 2026, with over 85 per cent of $38 billion committed to such portfolios. This shift aims to build resilience, with total operational capacity projected to reach 2 gigawatts by the end of 2026.\n\n- Published On Oct 12, 2026 at 11:27 AM IST\n\n## Highlights\n\n- Multi-city data centre investments accounted for 85 per cent of $38 billion in H1 2026.\n- India's operational data centre capacity is set to reach 2GW by end-2026.\n- Mumbai holds over 52 per cent of total capacity; Chennai has 18 per cent.\n- Total data centre commitments since 2021 reached $173 billion, with 15 per cent for AI.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/india-data-centre-investments-shift-to-multi-city-portfolios-capacity-nears-2gw/134884090"
+    },
+    {
+      "id": "2026-10-12-150078",
+      "title": "ReNew Wind Energy signs MoU with Maharashtra gov’t for US$ 7.3 billion green DC park",
+      "summary": "ReNew Wind Energy Pvt Ltd, a wholly-owned subsidiary of clean energy company ReNew, has signed a memorandum of understanding (MoU) with the government of the western Indian state of Maharashtra for a proposed ₹70,000 crore (US$ 7.3 billion) integrated green data center park in the Mumbai Metropolitan Region (MMR). The green data center park project […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-12T04:29:58Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/renew-wind-energy-signs-mou-with-maharashtra-govt-for-us-7-3-billion-green-dc-park/",
+          "type": "rss"
+        }
+      ],
+      "content": "ReNew Wind Energy Pvt Ltd, a wholly-owned subsidiary of clean energy company ReNew, has signed a memorandum of understanding (MoU) with the government of the western Indian state of Maharashtra for a proposed ₹70,000 crore (US$ 7.3 billion) integrated green data center park in the Mumbai Metropolitan Region (MMR).\n\nThe green data center park project aligns with Maharashtra’s goal to become a US$ 1 trillion economy by 2030. Readers would recall that just this year, Maharashtra has entered into several MoUs and agreements with different digital infrastructure providers for projects in the wider MMR and especially in areas in and around Navi Mumbai. These include projects by Tillman Global Holdings, AirtTrunk, Tata Group, and most recently, Trentrar.\n\nAccording to a report by Business Standard, the planned capacity for the project stands at 750 MW. The green data center part will be developed near Mumbai in the region’s emerging data center corridor spread across Panvel, Khalapur, Taloja and Bhokharpada.\n\n“A defining feature of the proposed park is its focus on green power for data centre operations,” ReNew said in a statement to Business Standard. “The Integrated Green Data Center Park would be required to use 51 percent green power for maintaining its operations. The project is also envisaged with dedicated power infrastructure, including facilitation for two incoming feeders from independent sources to the data centre park substation.” The company says that the project is expected to begin operations in 2028.\n\nThe MoU was signed by ReNew’s state head, and P.Anbalagan who serves as Principal Secretary, Industries, Investment & Services Department, and CEO, Invest Maharashtra. The agreement outlines how the state government will facilitate obtaining necessary permissions, registrations, approvals, clearances etc. and offer fiscal incentives as per relevant policies and regulations.",
+      "content_url": "https://w.media/renew-wind-energy-signs-mou-with-maharashtra-govt-for-us-7-3-billion-green-dc-park/"
+    },
+    {
+      "id": "2026-10-12-86bd9d",
+      "title": "EonFibre launches connectivity offer for NZ data centre zones",
+      "summary": "New Zealand fibre network operator EonFibre has launched Zone Direct, a connectivity service aimed at data centre developers, hyperscalers, neocloud providers and carriers considering entering or expanding in the country. The service is designed to help investors assess connectivity during site selection, covering connections to existing and proposed data centres, cable landing stations and international […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-12T04:10:51Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/eonfibre-launches-connectivity-offer-for-nz-data-centre-zones/",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/eonfibre-launches-zone-direct-for-nz-data-center-connectivity/134883951",
+          "type": "rss"
+        }
+      ],
+      "content": "New Zealand fibre network operator EonFibre has launched Zone Direct, a connectivity service aimed at data centre developers, hyperscalers, neocloud providers and carriers considering entering or expanding in the country. The service is designed to help investors assess connectivity during site selection, covering connections to existing and proposed data centres, cable landing stations and international capacity.\n\nZone Direct is based around six data centre zones identified by Invest New Zealand in its Data and Digital Infrastructure sector overview: North Waikato, Taupō, Taranaki, Manawatū, South Canterbury and Central Otago.\n\nThe zones were selected for their access to high-voltage electricity infrastructure, backhaul fibre and potential speed to power. Invest New Zealand says some sites within the zones could have infrastructure connections for new data centres within one to three years. However, a footnote to the report’s zone map cautions that the listed capacities cannot all be achieved simultaneously because of constraints on total system capacity.\n\nEonFibre chief executive Richard Mooney said connectivity needed to be considered alongside power availability and land when investors assessed potential locations. “The case for data centres in New Zealand starts with renewable power, land and stability,” Mooney said.\n\n“Investors also need to know how capacity at a new campus will reach customers in Australia, Asia and the United States. National and international bandwidth is our core business. We want to be part of those conversations early, while sites are still being chosen, to enable efficiencies across the development and operational process.”\n\nZone Direct will provide a connectivity brief for each zone, outlining route options, physical diversity and indicative latency to international cable landing stations and destinations in Australia and the US. The service will also offer site-specific desktop assessments, a single point of contact for network planning and delivery, and the design, construction, operation and maintenance of campus connectivity networks.\n\nEonFibre operates more than 11,000km of fibre between Whangārei in the north and Invercargill in the south. Its network includes metropolitan fibre rings in Auckland, Hamilton, Wellington and Christchurch, three diverse routes between the North and South Islands, and the Aqualink domestic submarine cable.\n\nThe operator says its network reaches major data centres and exchange sites across New Zealand, including the Auckland clusters at Albany, Westgate, the CBD and Silverdale.\n\nInternationally, EonFibre co-owns the Tasman Global Access cable between New Zealand and Sydney and provides capacity on the Hawaiki and Southern Cross systems. It also has points of presence in Australia and the US, alongside partnerships with global operators for onward connectivity.\n\nEonFibre has also worked with Google on fibre infrastructure for the Honomoana submarine cable, which landed north of Auckland. The cable adds international capacity and connectivity between New Zealand, Australia and other Pacific destinations.\n\nZone Direct combines these national and international network assets with EonFibre’s existing Direct Fibre, FlexWave managed wavelength services of up to 400Gbps, data centre interconnection and international capacity.\n\n“Developers want to know how many physically separate routes reach a site, how far it is to the international cables, and how quickly capacity can be delivered,” Mooney said. “Because we hold both the national routes and the international capacity, we can answer those questions and deliver the service end to end, from the campus to Sydney or the United States.”\n\n### New Zealand targets data centre investment\n\n**Invest New Zealand’s sector overview** positions the country as a potential location for data centre and AI infrastructure investment, citing renewable electricity, available land, a cool climate, political stability and international connectivity.\n\nThe report says hydropower accounted for 54% of New Zealand’s electricity generation in 2025, while geothermal contributed 20%. It also points to further renewable generation development as an opportunity to support additional data centre demand.\n\nNew Zealand’s electricity system is connected through a national high-voltage transmission network operated by Transpower. The report says data centres accounted for approximately 0.6% of grid electricity consumption in 2025, while planned transmission upgrades and new generation projects are intended to support future demand.\n\nConnectivity is another part of the country’s investment proposition. The report identifies four operational international submarine cable systems serving New Zealand: the Southern Cross Cable Network, Southern Cross NEXT, Hawaiki and Tasman Global Access. It also highlights Honomoana, which landed in 2026, and several proposed systems intended to expand international capacity and route diversity.\n\nThe report, citing BCG analysis, forecasts that New Zealand’s data centre capacity could grow from approximately 125MW in 2025 to 425MW by 2035 based on domestic demand. Export-oriented development could raise total capacity to around 725MW in its base scenario or as much as 1,425MW in a high-growth scenario.\n\nThe six zones form part of the government’s effort to direct investors towards locations where electricity infrastructure and fibre routes could support new development. EonFibre’s new service is intended to give prospective developers a clearer view of connectivity options before they commit to a site.\n\n*For those interested in the opportunities and challenges shaping New Zealand’s data centre market can also attend the **New Zealand Cloud & Datacenter Convention 2026**. The event will provide an opportunity to hear from industry participants and discuss the country’s evolving cloud and data centre landscape.*",
+      "content_url": "https://w.media/eonfibre-launches-connectivity-offer-for-nz-data-centre-zones/"
+    },
+    {
+      "id": "2026-10-12-78c21b",
+      "title": "SM+ acquires Princeton Digital Group's Indonesian enterprise data centers",
+      "summary": "PT SMPlus Digital Investama (SM+) has signed an agreement to acquire Princeton Digital Group's (PDG) enterprise data center business in Indonesia. The acquisition includes five operational facilities across key Indonesian markets.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-12T04:05:36Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/sm-acquires-princeton-digital-groups-indonesian-enterprise-data-centers/134882080",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Princeton Digital Group"
+      ],
+      "content": "PT SMPlus Digital Investama (SM+) announced it has signed a definitive agreement to acquire the enterprise data center business in Indonesia from Princeton Digital Group (PDG). This acquisition includes five operational data center facilities located across Greater Jakarta, Bandung, Surabaya, and Pekanbaru.The transaction is expected to strengthen and expand SM+'s digital infrastructure platform in Indonesia, which is experiencing strong growth in data consumption and cloud adoption. Following this deal, SM+ will operate 31 sites in 25 cities or markets within Indonesia.Herson Suindah, President Director and Group CEO of SM+ Holdings, stated that the acquisition marks an important milestone in building Indonesia's leading home-grown digital infrastructure platform. He added that expanding their nationwide footprint strengthens their ability to serve customers and support Indonesia's digital economy.Varoon Raghavan, Chief Operating Officer and Co-Founder of Princeton Digital Group, noted that Indonesia is a key market for PDG since its entry in 2019. PDG acquired these enterprise-grade sites as part of its 'enter-and-expand' strategy.Raghavan further explained that PDG has since developed a hyperscale data center portfolio of approximately 400 MW in the country. PDG's focus will continue to be on building its hyperscale portfolio, which includes the JC2, JC3, and JC4 campuses, with further expansion underway.UBS AG Singapore Branch acted as the exclusive financial advisor to SM+ on this transaction.\n\n- Investments & Deals\n- 1 min Read\n\n# SM+ acquires Princeton Digital Group's Indonesian enterprise data centers\n\nPT SMPlus Digital Investama (SM+) has signed an agreement to acquire Princeton Digital Group's (PDG) enterprise data center business in Indonesia. The acquisition includes five operational facilities across key Indonesian markets.\n\n- Published On Oct 12, 2026 at 09:35 AM IST\n\n## Highlights\n\n- SM+ acquires five operational enterprise data centers from Princeton Digital Group in Indonesia.\n- The acquisition expands SM+'s digital infrastructure footprint to 31 sites across 25 Indonesian cities.\n- Princeton Digital Group will now focus on its hyperscale data center portfolio in Indonesia.\n- The acquired facilities are located in Greater Jakarta, Bandung, Surabaya, and Pekanbaru.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/sm-acquires-princeton-digital-groups-indonesian-enterprise-data-centers/134882080"
+    },
+    {
+      "id": "2026-10-12-0a3867",
+      "title": "Google faces backlash over $15 billion India data center in Vizag",
+      "summary": "Google's planned $15 billion AI data center in Visakhapatnam, India, faces growing opposition from residents. Concerns include environmental impact, strain on water and power resources, and limited job creation.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-12T04:05:29Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/google-faces-backlash-over-15-billion-india-data-center-in-vizag/134882078",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Google"
+      ],
+      "content": "Opposition is mounting against Google's planned AI mega-facility in India, according to AFP. Excavators have started clearing forest and farmland on the southeast coast for the $15 billion construction in Visakhapatnam, Andhra Pradesh state.The project in Visakhapatnam, often called Vizag, is championed by India as a cornerstone of its technological ambitions. Many residents, however, fear the data center will strain water and power resources and damage the environment.Farmer Chandala Sadamma told AFP she was paid over $82,000 for her two-acre plot of mango and cashew trees. She expressed dissatisfaction, stating a company took the land without showing respect.Vizag is a landing point for submarine internet cables, making its 600-acre site ideal for India. Alexander Smith, Google's head of infrastructure and energy for Asia-Pacific, said the AI Hub investment is a multi-decade commitment.He added that the company has an obligation to be a good neighbour. The Andhra Pradesh government told AFP that new housing is being built and handed over to people who lived on the site, in addition to financial compensation.Activists in Andhra Pradesh are demanding a moratorium on new data centers across the state. They seek independent environmental and social impact evaluations before more projects proceed.Google stated it will use advanced air cooling technology at the India hub. The state plans six 1.2-gigawatt nuclear power plants as energy demand rises.Shopkeeper Gubbala Ramanamma, 57, expressed concerns about water scarcity despite Google's claims of educational and employment opportunities. Google estimates its data center will generate $688 million in local economic activity annually.It also projects supporting about 4,200 jobs during construction, with hundreds of specialist jobs once operational in 2028. The Andhra Pradesh government expects 188,000 direct and indirect jobs to be generated.Gutta Rohith of the local Human Rights Forum campaign group argued that economic benefits would not necessarily trickle down. He stated that mass employment and labour-intensive industries are needed, not high-capital industries.Google is not alone in its investment; a joint venture between Reliance Industries, Brookfield, and Digital Realty is investing $11 billion in another AI data center in Vizag. Land prices in Visakhapatnam have risen by more than 45 per cent since the city unveiled its development plans, according to E. Ashok Kumar of CREDAI.Andhra Pradesh Technology Minister Nara Lokesh spoke of investment agreements worth $175 billion involving 760 projects in February. He vowed to execute these projects at an unprecedented pace. Lokesh also insisted that residential requirements will always be prioritised over data centers.\n\n- Policy, Land & Power\n- 2 min Read\n\n# Google faces backlash over $15 billion India data center in Vizag\n\nGoogle's planned $15 billion AI data center in Visakhapatnam, India, faces growing opposition from residents. Concerns include environmental impact, strain on water and power resources, and limited job creation.\n\n- Published On Oct 12, 2026 at 09:35 AM IST\n\n## Highlights\n\n- Google's $15 billion AI data center in Visakhapatnam faces local opposition over environmental and resource concerns.\n- Residents fear the project will strain water and power while offering limited employment benefits.\n- Activists demand a moratorium on new data centers for independent environmental and social impact evaluations.\n- The Andhra Pradesh government supports the project, citing job creation and prioritising residential needs.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/google-faces-backlash-over-15-billion-india-data-center-in-vizag/134882078"
+    },
+    {
+      "id": "2026-10-12-106491",
+      "title": "SM+ to acquire Princeton Digital Group’s enterprise data center business in Indonesia",
+      "summary": "Indonesian digital infrastructure firm PT SMPlus Digital Investama (together with its affiliates, “SM+”), announced today that it has signed a definitive agreement to acquire the enterprise data centre business in Indonesia held by Princeton Digital Group (PDG), according to statements by the firms. The business acquired includes five high-quality, operational data centre facilities located across […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-12T03:02:49Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/sm-to-acquire-princeton-digital-groups-enterprise-data-center-business-in-indonesia/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Princeton Digital Group"
+      ],
+      "content": "Indonesian digital infrastructure firm PT SMPlus Digital Investama (together with its affiliates, “SM+”), announced today that it has signed a definitive agreement to acquire the enterprise data centre business in Indonesia held by Princeton Digital Group (PDG), according to statements by the firms.\n\nThe business acquired includes five high-quality, operational data centre facilities located across key Indonesian markets, namely Greater Jakarta, Bandung, Surabaya and Pekanbaru.\n\nThis acquisition will help strengthen and expand SM+ digital infrastructure platform in Indonesia, which is experiencing strong growth in data consumption, cloud adoption and enterprise digital transformation. The firm further expects to enhance service delivery, support future growth opportunities and continue enabling Indonesia’s digital transformation through this transaction.\n\nWith this deal, SM+ will be operating 31 sites in 25 cities or markets in Indonesia.\n\n“This acquisition marks an important milestone in our journey to build Indonesia’s leading home-grown digital infrastructure platform. By adding five facilities across Greater Jakarta, Bandung, Surabaya and Pekanbaru, we are expanding our nationwide footprint and strengthening our ability to serve customers as we continue supporting Indonesia’s digital economy,” said Herson Suindah, President Director and Group CEO of SM+ Holdings.\n\n “Indonesia is a key market for PDG since entering the market in 2019. We acquired these enterprise-grade sites as part of our ‘enter-and-expand’ strategy of market entry and have since developed a hyperscale data center portfolio of \\~400 MW in the country. Our focus will continue to be to build on that hyperscale portfolio (which includes the JC2, JC3 and JC4 campuses, with further expansion underway) and to enhance our leadership position in Indonesia,” said Varoon Raghavan, Chief Operating Officer and Co-Founder of Princeton Digital Group.\n\nPDG’s total portfolio exceeds 1.8 GW across eight countries in Asia Pacific.\n\nThe transaction remains subject to customary closing conditions. UBS AG Singapore Branch is acting as exclusive financial advisor to SM+ on the transaction.",
+      "content_url": "https://w.media/sm-to-acquire-princeton-digital-groups-enterprise-data-center-business-in-indonesia/"
+    },
+    {
+      "id": "2026-10-12-0b5fcf",
+      "title": "EonFibre launches Zone Direct for New Zealand data centres",
+      "summary": "New data centre builds in six New Zealand zones should gain faster links to offshore customers as EonFibre packages site-to-cable connectivity.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-12T02:47:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/eonfibre-launches-zone-direct-for-new-zealand-data-centres",
+          "type": "rss"
+        }
+      ],
+      "content": "Mon, 12th Oct 2026 (Today)\nEonFibre has launched Zone Direct for data centre developers and network operators planning to enter or expand in New Zealand. The product targets projects in six data centre zones identified by Invest New Zealand.\n\nZone Direct is intended to provide connectivity from a proposed New Zealand data centre campus to offshore customers, including regional routes, links to existing and planned data centres, cable landing stations and international bandwidth.\n\nThe launch comes as New Zealand seeks to attract investment in digital infrastructure by promoting access to renewable electricity, land and stable operating conditions. Invest New Zealand has identified North Waikato, Taupō, Taranaki, Manawatū, South Canterbury and Central Otago as advantaged zones for data centre development, chosen for lead times to power, access to high-voltage infrastructure and backhaul fibre.\n\nThe offer provides a connectivity brief for each zone, including route options, physical diversity and indicative latency to New Zealand's international cable landing stations, Australia and the United States. It also includes site connectivity assessments during site selection, a single point of contact from early assessment through network planning and delivery, and the design, build, operation and maintenance of campus connectivity networks.\n\nRichard Mooney, Chief Executive Officer of EonFibre, said the company wants to engage with investors while projects are still at an early stage.\n\n\"The case for data centres in New Zealand starts with renewable power, land and stability,\" Mooney said. \"Investors also need to know how capacity at a new campus will reach customers in Australia, Asia and the United States. National and international bandwidth is our core business. We want to be part of those conversations early, while sites are still being chosen, to create efficiencies across development and operations.\"\n\n### Network footprint\n\nEonFibre operates more than 11,000km of fibre across New Zealand, from Whangārei to Invercargill. Its network includes metro fibre rings in Auckland, Hamilton, Wellington and Christchurch, three diverse routes between the North and South Islands, and the Aqualink domestic submarine cable.\n\nIts infrastructure reaches major data centres and exchange sites across the country, including Auckland clusters in Albany, Westgate, the CBD and Silverdale. EonFibre is also a co-owner of the Tasman Global Access cable to Sydney and sells capacity on the Hawaiki and Southern Cross systems.\n\nOutside New Zealand, EonFibre has points of presence in the United States and Australia and works with global operators for onward connectivity. It already supplies infrastructure to global hyperscalers, including dedicated fibre networks, subsea cable landing and lit capacity.\n\nThe company has also worked with Google on fibre infrastructure linked to the Honomoana cable, which lands north of Auckland.\n\n### Site questions\n\nThe new offer is built around practical issues data centre developers assess before committing to a site. These include the number of physically separate fibre routes available, the distance to international cable systems and the likely time needed to deliver bandwidth to a new campus.\n\n\"Developers want to know how many physically separate routes reach a site, how far it is to the international cables, and how quickly capacity can be delivered,\" Mooney said. \"Because we hold both the national routes and the international capacity, we can answer those questions and deliver the service end to end, from the campus to Sydney or the United States.\"\n\nZone Direct draws on EonFibre's existing services, including Direct Fibre, FlexWave managed wavelengths of up to 400 Gbit/s, data centre interconnection and international capacity. EonFibre works directly with developers, hyperscalers, carriers and data centre operators, with commercial terms tailored to long-term infrastructure projects.",
+      "content_url": "https://datacenternews.asia/story/eonfibre-launches-zone-direct-for-new-zealand-data-centres"
+    },
+    {
+      "id": "2026-10-12-a20e11",
+      "title": "Italy council rejects 80MW data center over environmental concerns",
+      "summary": "Cologno Monzese City Council in Lombardy, Italy, unanimously rejected an 80MW data center proposal from Officine Mak and 2C Sviluppo Immobiliare Spa. The decision cites concerns over water and electricity consumption, land use, and technological waste. This rejection highlights growing local opposition to data center expansion in Italy.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-12T02:20:28Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/italy-council-rejects-80mw-data-center-over-environmental-concerns/134880846",
+          "type": "rss"
+        }
+      ],
+      "content": "Cologno Monzese City Council in Lombardy, Italy, unanimously rejected an 80MW data center proposal from Officine Mak and 2C Sviluppo Immobiliare Spa. The project was planned for the former Torriani industrial site on Via Guzzina, near Brugherio.The council's September 24 resolution cited concerns regarding water and electricity consumption, land use, and technological waste. It stated that the project conflicted with the municipality’s environmental and strategic objectives.“The submitted proposal does not fully comply with the requirements of the PGT \\[territorial government plan\\],” the council resolution reported in Il Giorno said. It added that strategic objectives require the city to lead Cologno Monzese toward an eco-sustainable, circular, and intelligent model.This model focuses on regenerating existing buildings, energy efficiency, water resource protection, and expanding biodiversity and urban forests. Lombardy, particularly the Milan metropolitan area, is experiencing rapid data center growth driven by AI demand.The region expects 2GW of new capacity over the next five years. However, this expansion has sparked local opposition over environmental concerns.A proposed 240MW facility in Magenta faced backlash earlier this summer. Plans for a 120MW data center in Travagliato were withdrawn last month.\n\n- Policy, Land & Power\n- 1 min Read\n\n# Italy council rejects 80MW data center over environmental concerns\n\nCologno Monzese City Council in Lombardy, Italy, unanimously rejected an 80MW data center proposal from Officine Mak and 2C Sviluppo Immobiliare Spa. The decision cites concerns over water and electricity consumption, land use, and technological waste. This rejection highlights growing local opposition to data center expansion in Italy.\n\n- Updated On Oct 12, 2026 at 11:15 AM IST\n\n## Highlights\n\n- Cologno Monzese Council rejected an 80MW data center proposal in Lombardy, Italy.\n- Concerns included water and electricity consumption, land use, and technological waste.\n- The project by Officine Mak and 2C Sviluppo Immobiliare Spa conflicted with local environmental goals.\n- The rejection signals increasing local opposition to data center expansion in Italy.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/italy-council-rejects-80mw-data-center-over-environmental-concerns/134880846"
+    },
+    {
+      "id": "2026-10-12-4643e7",
+      "title": "DayOne in talks for US$500 million bond: Report",
+      "summary": "Singapore-based data center platform DayOne Data Centers Ltd has been discussing with banks for weeks about a potential US$500 million bond offering which could go to the market as early as next year, Bloomberg reports quoting people familiar with the matter. The people added the bond offerring which is arranged by Citigroup Inc is to finance projects […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-12T01:34:02Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/dayone-in-talks-for-us500-million-bond-report/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "DayOne"
+      ],
+      "content": "Singapore-based data center platform DayOne Data Centers Ltd has been discussing with banks for weeks about a potential US$500 million bond offering which could go to the market as early as next year, Bloomberg reports quoting people familiar with the matter.\n\nThe people added the bond offerring which is arranged by Citigroup Inc is to finance projects but did not specify which particular projects. If successful, this would be one of the first data center bond offerrings in Asia Pacific.\n\nThis is despite one of its project partners, Nvidia Corp-backed Firmus Grid Ltd, abandoning an initial public offering in Australia last week. This would have been one of Australia’s largest IPOs and the proceeds would have funded purchases of graphics processing units (GPUs) for its planned first data center project in Batam, Indonesia, as part of an eight-year partnership with Nvidia. DayOne would have been the co-developer of the data center.\n\nLast week, DayOne had filed for a US IPO for a potential US$5 billion raise as the firm ramps up fundraising to meet insatiable demand for artificial intelligence (AI) infrastructure.\n\nDayOne had earlier closed half of a US$7 billion-equivalent loan supported by more than 30 lenders. The firm is also seeking a HK$1.86 billion (US$237 million) loan for a Hong Kong data center. In August, DayOne secured a four-year S$530 million (US$414 million) to develop its first data center in Singapore.\n\nDayOne features footprint in Indonesia, Singapore, Malaysia, Japan, Hong Kong, Thailand and Finland.\n\nRepresentatives for DayOne and Citigroup declined to comment when requested.",
+      "content_url": "https://w.media/dayone-in-talks-for-us500-million-bond-report/"
+    },
+    {
+      "id": "2026-10-12-ea09dc",
+      "title": "Sponsored: Legacy data center efficiency now has a compliance deadline",
+      "summary": "Why efficiency in existing facilities has shifted from good intention to obligation",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-11T15:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/opinions/legacy-data-center-efficiency-now-has-a-compliance-deadline/",
+          "type": "rss"
+        }
+      ],
+      "content": "Walk into many legacy data halls and you’ll find the same thing: racks breathing air colder than the hardware needs, cooled by equipment sized for a load that changed a decade ago. For years, that waste stayed an internal line item. A growing number of building performance, emissions and data-reporting requirements in the US and Europe are bringing that inefficiency under greater regulatory scrutiny.\n\nThat shift turns efficiency in existing facilities from a good intention into an obligation with a deadline. It also puts the focus on the part of the industry with the most room for improvement: portfolios of enterprise data centers, network facilities and Edge sites that were built for different workloads and have been expanded piece by piece ever since.\n\n## Efficiency is becoming a reporting obligation\n\nBuilding performance policy has moved well past a handful of early-adopter cities. More than 50 US states and cities now have benchmarking or performance requirements for large buildings on the books.\n\nColorado is a useful example of where these programs are headed. Its statewide program covers buildings of 50,000 square feet or more, and starting in 2030, HB25-1269 allows fines of up to $2,300 for every 30 days a covered building remains out of compliance with applicable performance standards, with higher penalties possible for subsequent violations.\n\nData centers in the program are measured against Power Usage Effectiveness targets. Operators can request a target tailored to their facility, but only with a detailed engineering audit to back it up. The flexibility goes to the operators who already have the data. New York City’s Local Law 97 assesses $268 for every metric ton of CO2 equivalent a covered building emits over its limit, and those limits tighten in 2030.\n\nIn Europe, Delegated Regulation (EU) 2024/1364 requires every data center with at least 500 kW of installed IT power demand to report 24 key performance indicators spanning energy, ICT and data traffic to a European database each year.\n\nOperators are responding unevenly. Uptime Institute’s 2026 Global Data Center Survey found that the share of organizations actively collecting sustainability metrics has returned to a gradual upward trend, while carbon emissions tracking remains a minority activity. For facilities subject to these rules, incomplete operating data can become a compliance risk.\n\n## Legacy infrastructure holds the biggest efficiency gain**s**\n\nDemand growth raises the stakes. Lawrence Berkeley National Laboratory estimates US data centers consumed 192 TWh in 2024, about 4.7 percent of national electricity, and projects that share could reach 11.8 percent by 2030 in its reference case.\n\nNew, highly efficient AI capacity will carry much of this growth, yet the same Uptime survey found legacy infrastructure is slowing global efficiency progress, with average PUE improving only slightly this year.\n\nExisting sites are where regulatory exposure and improvement potentially overlap, and where operators often have the least visibility. A portfolio assembled over 15 or 20 years typically runs several building management systems, cooling plants of different ages and set points chosen conservatively long ago and never revisited.\n\n## Retrofits that pay for themselves\n\nThe measures that recover efficiency in these facilities are well understood, and few of them require replacing major cooling equipment such as chillers, CRAC units or air handlers:\n\n- Full-aisle containment, plus sealing of cable cutouts, floor gaps and missing blanking panels, so supply and return air stop mixing.\n- Plenum repair to restore the underfloor static pressure that raised-floor cooling depends on.\n- EC fan retrofits with dynamic controls, so fans track real thermal load instead of running at a fixed worst-case speed.\n- Filter optimization to maintain required particulate protection while reducing unnecessary airflow resistance.\n- Temperature set point optimization within the ASHRAE-recommended envelope of 18°C to 27°C (64.4°F to 80.6°F) for air-cooled IT equipment.\n\nThe last item is the most frequently overlooked. Many legacy rooms still deliver inlet air below the bottom of ASHRAE’s recommended range, wasting cooling energy the hardware doesn't need.\n\nENERGY STAR estimates data centers can save four to five percent in energy costs for every 1°F increase in server inlet temperature. Containment and airflow repairs are what make it safe to raise set points without creating hot spots.\n\n## Measure first, then verify every step\n\nThe order of operations determines whether these retrofits produce measurable, defensible results. The sequence that holds up is to establish a measured baseline with rack-level thermal and energy monitoring, make one category of change at a time and verify the result before moving to the next.\n\nDocumenting each step this way does three jobs. It confirms each intervention reduced thermal risk instead of adding it, it supports measurement and verification for utility incentive programs and it creates the auditable data trail that performance standards and disclosure rules require.\n\nA recent Promera customer proof of concept at a national media and connectivity provider shows how this approach can work in practice. The operator runs six national data centers and roughly 600 local market sites, and cited state building performance legislation, alongside a corporate carbon-neutrality goal, as the reason to manage thermal load more dynamically. The team baselined a pilot site with real-time monitoring software, then layered in containment, filter changes and EC fan retrofits while tracking the effect of each.\n\nResults to date include more than $50,000 in estimated cooling energy savings at an electricity price of roughly seven cents per kWh, a 1.79-year payback on the energy savings portion of the project and a potential 56 percent return on that segment.\n\nAverage rack temperatures rose a safe 7.2°F, and the number of racks running below 64.4°F, the floor of ASHRAE’s recommended range, fell by 31.5 percent. The same monitoring data now feeds the operator’s internal sustainability reporting and state compliance reporting, and it documented the project for a utility rebate.\n\n## Treat 2030 as a budget deadline\n\nThe low power price in that example matters. A retrofit that pays for itself in under two years at seven cents per kWh pays off even faster where electricity costs more. Add the fines an operator avoids by meeting its performance targets, and the payback period shrinks again.\n\nWith 2030 only three or four budget cycles away, operators should begin establishing baselines and sequencing improvements now. Organizations that act early can plan retrofits across their portfolios, pursue available incentives and enter mandatory compliance periods with years of verified performance data. Those that wait may face the same work on a tighter timeline, with less evidence to demonstrate progress.\n\n*Promera helps data center operators establish measurable baselines, identify airflow and cooling inefficiencies, implement targeted improvements and verify results across critical environments. Learn more about Promera.*",
+      "content_url": "https://www.datacenterdynamics.com/en/opinions/legacy-data-center-efficiency-now-has-a-compliance-deadline/"
+    },
+    {
+      "id": "2026-10-12-7eb696",
+      "title": "Warburg Pincus-backed developer to pay $300m for Melbourne data centre",
+      "summary": "Forget Firmus – here’s a data centre deal with cold, hard cash behind it and developers ready to get cracking.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [],
+      "published_at": "2026-10-11T07:55:54Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/street-talk/warburg-pincus-backed-developer-to-pay-300m-for-melbourne-data-centre-20261011-p614jw",
+          "type": "html-list"
+        }
+      ],
+      "content": "Forget Firmus – here’s a data centre deal with cold, hard cash behind it and developers ready to get cracking.\n\nPrinceton Digital, the Singapore-headquartered developer of massive data centre and cloud computing operations, appears set to land in Australia in a move backed by its major investors including Warburg Pincus.\n\nLoading...",
+      "content_url": "https://www.afr.com/street-talk/warburg-pincus-backed-developer-to-pay-300m-for-melbourne-data-centre-20261011-p614jw"
+    },
+    {
+      "id": "2026-10-12-1505fa",
+      "title": "Hyperscale Data plans Patriot BTC subsidiary for Bitcoin mining business",
+      "summary": "Will transfer Montana data center to new company",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-11T11:00:49Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/hyperscale-data-plans-patriot-btc-subsidiary-for-bitcoin-mining-business/",
+          "type": "rss"
+        }
+      ],
+      "content": "Hyperscale Data plans to form a new subsidiary, Patriot BTC, to hold its Bitcoin mining operations as it develops its Michigan data center for AI workloads.\n\nUnder the proposal announced on September 22, the company would transfer its Montana data center, Bitcoin miners, mining equipment, and associated infrastructure to the subsidiary.\n\n“Bitcoin mining and AI data center development have different capital requirements, operating priorities and value drivers,” explained Milton 'Todd' Ault III, Hyperscale Data’s executive chairman.\n\nThe firm is evaluating ways to position Patriot BTC within a publicly traded entity, potentially through a separation or another transaction. At the time of the announcement, the subsidiary had not been formed and no transaction structure or separation had been approved. Any transaction would require board approval and compliance with applicable legal and regulatory requirements.\n\nThe proposed restructuring follows Hyperscale Data’s shutdown of Bitcoin mining at its Dowagiac, Michigan, facility on September 1, as it prepares the site for a California-based neocloud customer.\n\nIts Alliance Cloud Services subsidiary announced a master services agreement with the customer in June, covering an initial 20MW of critical AI compute capacity. The agreement has a ten-year term and two five-year extension options. Hyperscale Data expects revenue above $1.2bn if both term extensions are exercised.\n\nAccording to the company’s SEC filing, the customer also has a right of first offer for an additional 32MW of critical AI compute capacity, subject to availability.\n\nIn a September 17 update, Hyperscale Data said it was targeting the start of operations under the agreement in November 2026 and had invested more than $70m in Alliance Cloud Services and the Michigan facility.\n\nThe company reiterated on October 5 that the campus could ultimately support more than 300MW of total power capacity. Expansion beyond the initial 20MW remains subject to financing, utility agreements, engineering, regulatory approvals and other conditions.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/hyperscale-data-plans-patriot-btc-subsidiary-for-bitcoin-mining-business/"
+    },
+    {
+      "id": "2026-10-12-ec31d4",
+      "title": "Northern Virginia data center market features 611 facilities",
+      "summary": "The Northern Virginia data center market, located in the state of Virginia, hosts 611 facilities. Amazon AWS operates 159 sites, establishing it as a top provider in the region.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-11T06:20:37Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/market-insights-analysis/northern-virginia-data-center-market-features-611-facilities/134866238",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "AWS"
+      ],
+      "content": "The Northern Virginia data center market in the United States currently has 611 facilities. This region is a significant hub for digital infrastructure within the Americas.Amazon AWS is a leading provider in this market, operating 159 sites. Digital Realty Trust also maintains a substantial presence with 38 facilities in the region.Among the most popular facilities are CoreSite: VA1 and NTT VA3. The market provides a benchmark for global data center development.\n\n- Market Insights & Analysis\n- 1 min Read\n\n# Northern Virginia data center market features 611 facilities\n\nThe Northern Virginia data center market, located in the state of Virginia, hosts 611 facilities. Amazon AWS operates 159 sites, establishing it as a top provider in the region.\n\n- Published On Oct 11, 2026 at 11:50 AM IST\n\n## Highlights\n\n- Northern Virginia market hosts 611 data center facilities in the US.\n- Amazon AWS is a top provider with 159 sites in Northern Virginia.\n- Digital Realty Trust operates 38 facilities in the same market.\n- CoreSite: VA1 and NTT VA3 are among the most popular facilities.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/market-insights-analysis/northern-virginia-data-center-market-features-611-facilities/134866238"
+    },
+    {
+      "id": "2026-10-12-15f85b",
+      "title": "Yandex cloud zone down after Sasovo data center drone attack",
+      "summary": "Russian web giant Yandex reported its ru-central1-b cloud availability zone is unavailable due to a drone attack on its Sasovo data center. Operations have completely halted, with restoration uncertain in the near future.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-11T00:00:24Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/operations-resilience/yandex-cloud-zone-down-after-sasovo-data-center-drone-attack/134863681",
+          "type": "rss"
+        }
+      ],
+      "content": "Russian web giant Yandex reported that one of its cloud availability zones, ru-central1-b, is currently unavailable.This incident was caused by a fire resulting from a drone attack on Yandex's data center in Sasovo, a town approximately 300 kilometers southeast of Moscow.Data center operations have been completely halted, affecting part of the Yandex Cloud infrastructure. Yandex has recommended users employ alternative service restoration plans, including its bare metal servers.However, the company advised that it will not be possible to restore service in the near future. Reuters reported that Yandex is uncertain about restoring operations at the affected data center.Ukrainian press reports indicate that President Volodymyr Zelensky has linked the attack to previous Russian attacks on Ukrainian data centers, suggesting a retaliatory response.This event marks a potential second instance this year of a cloud provider losing facilities to drone attacks. Earlier, AWS reportedly decided its Bahrain facility could not be recovered after an Iranian drone attack.Industry executives have consistently highlighted data centers as critical infrastructure. They are therefore potential targets for kinetic attacks during conflicts, either directly or by targeting their connections to energy grids and communications services.\n\n- Operations & Resilience\n- 1 min Read\n\n# Yandex cloud zone down after Sasovo data center drone attack\n\nRussian web giant Yandex reported its ru-central1-b cloud availability zone is unavailable due to a drone attack on its Sasovo data center. Operations have completely halted, with restoration uncertain in the near future.\n\n- Published On Oct 11, 2026 at 05:30 AM IST\n\n## Highlights\n\n- Yandex reported its ru-central1-b cloud availability zone is down.\n- A drone attack caused a fire, halting data center operations in Sasovo.\n- Yandex is uncertain if operations can be restored at the facility.\n- The incident highlights data centers as critical infrastructure targets.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/operations-resilience/yandex-cloud-zone-down-after-sasovo-data-center-drone-attack/134863681"
+    },
+    {
+      "id": "2026-10-12-8b0022",
+      "title": "Drax data centre campus faces scrutiny over biomass emissions",
+      "summary": "Drax's plans for a major data centre campus at its Selby power station are under scrutiny for potential biomass demand and emissions. Campaigners estimate that supplying the proposed behind-the-meter capacity could require 4.9 million tonnes of wood annually, producing 8.6 million tonnes of CO2 emissions.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-10T11:47:49Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/drax-data-centre-campus-faces-scrutiny-over-biomass-emissions/134853719",
+          "type": "rss"
+        }
+      ],
+      "content": "Drax's plans for a major data centre campus at its Selby power station are under scrutiny over potential biomass demand and emissions. Campaigners estimate that supplying the proposed behind-the-meter capacity with biomass could require around 4.9 million tonnes of wood annually.The Natural Resources Defense Council (NRDC) estimates this scenario could produce 8.6 million tonnes of CO2 emissions annually. This figure is nearly twice the yearly emissions from Gatwick flights.Drax initially outlined plans for an approximately 100MW data centre at Selby power station in December 2025. This first phase would use electricity imported through the grid.The company has also explored a larger 1.2GW-scale campus, which could include behind-the-meter electricity from its generation assets. The NRDC stress-tested 1.1GW of this potential capacity.Drax disputes the NRDC's methodology and assumptions about how the larger campus would be powered. This dispute adds uncertainty to the company's data centre plans.Further uncertainty arose when The Times reported that the proposal to designate Drax Power Station as an AI Growth Zone was rejected by the Government. North Yorkshire Council no longer supports this designation.AI Growth Zone status could have addressed power, planning, and investment barriers for the expansion. York and North Yorkshire is not among the five zones currently designated by the Government.While Drax disputes the NRDC's figures, the group's 4.9 million tonne biomass estimate broadly matches an extrapolation from Drax's own 2025 data. Drax reported consuming 7.74 million tonnes of biomass at its power station in 2025.Its generation figures indicated around 15.36TWh of biomass electricity during that year. Applying this fuel intensity to a constant 1.1GW load implies an annual biomass requirement of approximately 4.85 million tonnes.Drax states it has not committed to continuously supplying the entire data centre campus from its biomass units. Its Low-Carbon Dispatchable Contract for Difference requires Government permission to supply a data centre directly from its biomass units during its term.\n\n- Energy, Cooling & Sustainability\n- 2 min Read\n\n# Drax data centre campus faces scrutiny over biomass emissions\n\nDrax's plans for a major data centre campus at its Selby power station are under scrutiny for potential biomass demand and emissions. Campaigners estimate that supplying the proposed behind-the-meter capacity could require 4.9 million tonnes of wood annually, producing 8.6 million tonnes of CO2 emissions.\n\n- Published On Oct 10, 2026 at 05:17 PM IST\n\n## Highlights\n\n- Drax's Selby data centre campus faces scrutiny over potential biomass demand and emissions.\n- Campaigners estimate 4.9 million tonnes of wood and 8.6 million tonnes of CO2 annually.\n- Proposal for Drax Power Station as an AI Growth Zone was rejected by the Government.\n- Drax disputes campaigner methodology but their biomass estimate aligns with Drax's own data.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/drax-data-centre-campus-faces-scrutiny-over-biomass-emissions/134853719"
+    },
+    {
+      "id": "2026-10-12-fb92af",
+      "title": "Cipher extends Barber Lake data center lease commitments to 20 years",
+      "summary": "Fluidstack and unnamed AI lab agree lengthy leases",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-10T11:00:34Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/cipher-extends-barber-lake-data-center-lease-commitments-to-20-years/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Fluidstack"
+      ],
+      "content": "AI data center company Cipher Digital has agreed deals with Fluidstack and an unnamed AI lab to lease space at the firm's Barber Lake data center campus in Colorado City, Texas, for the next 20 years.\n\nThe agreements, announced on September 25, amend AI cloud provider Fluidstack’s existing lease and secure a binding commitment from an unnamed AI lab to enter into a separate ten-year lease once Fluidstack’s term ends.\n\nCipher expects the additional commitment to generate around $5.2bn, raising total contracted revenue at Barber Lake from $3.8bn to more than $9bn, according to the announcement. The second lease will have substantially similar economic terms to Fluidstack’s agreement.\n\nThe company expects to deliver individual data halls between Q4 2026 and Q1 2027, with rent starting as each hall is handed over. Cipher attributed the revised schedule to design changes and evolving tenant requirements.\n\nThe amendment also sets out a cost-sharing arrangement. Cipher will absorb the first $359.3m of costs above the original budget. The tenant will reimburse half of further overruns through additional rent over the combined 20-year period, calculated to provide Cipher with a contracted return.\n\n“Extending Barber Lake’s contracted life from 10 to 20 years and adding approximately $5.2 billion of contracted revenue reflects the enduring value of the infrastructure we're building,” said Tyler Page, Cipher Digital CEO.\n\nCipher’s original deal with Fluidstack in September 2025 covered 168MW of critical IT load. An expansion announced that November added 39MW, bringing the combined critical IT load to 207MW. Cipher said the expanded agreement covered the entire 300MW of capacity at Barber Lake.\n\nEarlier disclosures targeted delivery of the initial 168MW phase by September 2026, followed by the additional 39MW phase by January 2027.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/cipher-extends-barber-lake-data-center-lease-commitments-to-20-years/"
+    }
+  ]
+}
