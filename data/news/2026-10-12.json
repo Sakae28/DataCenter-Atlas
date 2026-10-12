@@ -1,36 +1,365 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-12T07:28:12Z",
+  "generated_at": "2026-10-12T13:21:55Z",
   "hot": [
-    "2026-10-12-86bd9d",
-    "2026-10-12-4fd068",
-    "2026-10-12-cd8601",
-    "2026-10-12-5dc8de",
-    "2026-10-12-a2d590"
+    "2026-10-12-106491",
+    "2026-10-12-5634d8",
+    "2026-10-12-4643e7",
+    "2026-10-12-82888b",
+    "2026-10-12-61a868"
   ],
   "stories": [
     {
-      "id": "2026-10-12-4fd068",
-      "title": "Kinergy bags RM47.5m electrical works contract for hyperscale data centre",
-      "summary": "Kinergy Advancement Bhd (KL:KINERGY) has secured a RM47.5 million subcontract from Gamuda Bhd's (KL:GAMUDA) unit for electrical works at a hyperscale data centre in Bandar Spring Hill, Port Dickson.",
+      "id": "2026-10-12-61a868",
+      "title": "Former iPhone Display Plant in Japan to Start New Life in Chip Supply Chain",
+      "summary": "TOKYO -- A factory that once carried the hopes of Japan's display industry will be reborn under its fifth owner in the latest twist in a story that follows the changing fortunes of the Japanese…",
       "why_it_matters": "",
-      "score": null,
+      "score": 35,
+      "heat": 2,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "chips",
+        "supply-chain",
+        "semiconductors"
+      ],
+      "published_at": "2026-10-12T13:21:55Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/spotlight/supply-chain/former-iphone-display-plant-in-japan-to-start-new-life-in-chip-supply-chain",
+          "type": "rss"
+        },
+        {
+          "name": "Nikkei Asia — data center search",
+          "url": "https://asia.nikkei.com/spotlight/supply-chain/former-iphone-display-plant-in-japan-to-start-new-life-in-chip-supply-chain",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "日本原iPhone显示屏工厂将转型进入半导体供应链",
+      "content": "TOKYO -- A factory that once carried the hopes of Japan's display industry will be reborn under its fifth owner in the latest twist in a story that follows the changing fortunes of the Japanese electronics sector.\n\nSupply Chain\n# Former iPhone display plant in Japan to start new life in chip supply chain\n\nJDI's Mobara factory to churn out package substrates for fifth owner Shinko Electric\n\nThe Mobara plant made LCDs for iPhones, but Apple later switched to a different display technology. (Source photos by Japan Display and Nikkei)",
+      "content_url": "https://asia.nikkei.com/spotlight/supply-chain/former-iphone-display-plant-in-japan-to-start-new-life-in-chip-supply-chain"
+    },
+    {
+      "id": "2026-10-12-811c9a",
+      "title": "AMD unveils CPU-only Helion rack to support agentic AI workloads",
+      "summary": "Chip designer working with ecosystem partners ahead of planned November launch date",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "hardware"
+      ],
+      "published_at": "2026-10-12T13:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/amd-unveils-cpu-only-helion-rack-to-support-agentic-ai-workloads/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "AMD"
+      ],
+      "title_zh": "AMD发布仅CPU的Helion机架以支持agentic AI工作负载",
+      "content": "AMD has unveiled Helion, a CPU-only rack designed to support agentic AI workloads.\n\nAnnounced by AMD at the OCP Global Summit in San Jose today (October 12), the company said Helion builds on the “open-platform approach” of its Helios rackscale solution, which was launched earlier this year.\n\nDesigned for hyperscale customers, Helion is powered by 6th Gen AMD Epyc 'Venice' server CPUs, supporting up to 32,768 CPU cores. However, AMD said users can customize the rack’s configurations by integrating CPU and AMD Instinct GPU nodes in order to match agent execution, model inference, and tailor compute to each deployment’s performance, power, and cost needs.\n\nAvailable in both liquid and air-cooled versions, AMD says this approach allows users to “create virtually any configuration needed” to support their requirements.\n\n“Agentic AI is not a single workload. It spans personal agents, enterprise applications, code execution and complex workflows, each with different compute requirements,” said Dan McNamara, SVP and GM, compute and enterprise AI, AMD. “To do that takes optimized compute and infrastructure that can adapt to different workloads. With AMD Helion, we are bringing AMD Epyc performance, open software and flexible rack designs together so our partners can build systems around customer needs and make efficient use of available power.”\n\nAMD said it plans to contribute its Helion specification to OCP, making it available to the community for further development and adoption. At present, the Helion agentic rack configurations are still under development with ecosystem partners, but AMD expects them to be available in November 2026\n\nEcosystem partners working with AMD for Helion’s launch include Cisco, Dell, Hon Hai Technology (aka Foxconn), HPE, Lenovo, Supermicro, and Wiwynn.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/amd-unveils-cpu-only-helion-rack-to-support-agentic-ai-workloads/"
+    },
+    {
+      "id": "2026-10-12-65bedf",
+      "title": "MN Holdings bags RM294 mil job to build power facilities for a data centre",
+      "summary": "MN Holdings has won a RM293.88 million contract to construct two high-voltage power facilities serving a data center development in central Peninsular Malaysia. The award highlights the growing order books of Malaysian electrical infrastructure contractors as the country's data center pipeline drives demand for grid connections and substations.",
+      "why_it_matters": "Power infrastructure contracts of this size confirm that Malaysia's data center boom is translating into real construction activity, not just announcements. Listed utility contractors are emerging as a proxy play on the sector, and the award signals continued developer confidence in securing grid capacity in the central region.",
+      "score": 68,
       "heat": 1,
       "regions": [
         "southeast-asia"
       ],
-      "topics": [],
-      "published_at": "2026-10-12T06:34:00Z",
+      "topics": [
+        "power",
+        "construction",
+        "investment"
+      ],
+      "published_at": "2026-10-12T12:52:39Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/821541",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "MN Holdings"
+      ],
+      "title_zh": "MN Holdings赢得2.94亿令吉合同，为一座数据中心建设电力设施",
+      "summary_zh": "MN Holdings 赢得一份价值 2.9388 亿林吉特的合同，为马来半岛中部的一个 data center 项目建设两座高压电力设施。该合同凸显了马来西亚电气基础设施承包商订单的增长——随着该国 data center 项目管线推进，电网接入和变电站需求持续攀升。",
+      "why_zh": "如此规模的电力基础设施合同证实，马来西亚的 data center 热潮正转化为实实在在的建设活动，而非仅停留在公告层面。上市电力工程承包商正成为该行业的间接投资标的，此次中标也显示开发商对中部地区电网容量获取的信心不减。",
+      "content": "KUALA LUMPUR (Oct 12): MN Holdings Bhd (KL:MNHLDG) has secured a RM293.88 million contract to build two high-voltage power facilities for a data centre development in the central region of Peninsular Malaysia.\n\nIn a bourse filing on Monday, the infrastructure utilities construction and engineering group said its wholly-owned MN Power Transmission Sdn Bhd had accepted a letter of award (LOA) from an undisclosed Malaysian company involved in providing infrastructure for hosting, data processing and related services.\n\nThe exact location of the project was also not disclosed.\n\nThe contract involves the construction of two 275-kilovolt (kV) consumer landing stations.\n\nUnder the contract, MN Power Transmission will undertake the construction, supply, installation, testing and commissioning of the facilities, including main buildings and related external works.\n\nConstruction began in September 2026 and is expected to be completed by August 2027.\n\nMN Holdings executive director Datuk Dang Siong Diang said the contract reflected continued demand for high-voltage power infrastructure to support large-scale data centre developments in Malaysia.\n\n\"Our experience in delivering high-voltage substations and power infrastructure positions us well to participate in this growing segment, and we remain focused on executing these projects effectively while continuing to pursue opportunities across the power infrastructure, data centre and utilities sectors across Peninsular Malaysia,\" he said in a statement.\n\nAs at end-June 2026, MN Holdings had an outstanding order book of RM1.64 billion, with projects across the power, renewable energy, data centre and water infrastructure segments.\n\nThe group recently closed its financial year ended June 30, 2026 with a near doubling of annual profit to a record RM92.14 million, as revenue jumped 60.8% to RM869.19 million.\n\nThis comes as it reported a 98.8% surge in its fourth-quarter net profit to RM23.98 million from RM12.06 million a year earlier, driven by stronger contributions from its substation engineering segment and a reversal of impairment losses.\n\nQuarterly revenue rose 17.9% to RM211.47 million from RM179.42 million, with the substation engineering segment recording a 24% increase in contribution on higher work progress and project activities.\n\nMN Holdings shares rose three sen or 0.76% to close at RM3.96 on Monday, valuing the group at RM2.74 billion. The counted has gained more than 135% year to date.\n\nEdited ByTan Choe Choe\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/821541"
+    },
+    {
+      "id": "2026-10-12-3e93fe",
+      "title": "IJM bags RM1.23 bil contract to build AT&S semiconductor manufacturing facilities in Kedah",
+      "summary": "IJM Corporation Bhd (KL:IJM) has secured a RM1.23 billion contract from AT&S Austria Technologie & Systemtechnik (Malaysia) Sdn Bhd to construct semiconductor manufacturing facilities at the Kulim Hi-Tech Park in Kedah.",
+      "why_it_matters": "",
+      "score": 42,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "chips",
+        "construction",
+        "investment"
+      ],
+      "published_at": "2026-10-12T12:13:35Z",
       "featured": false,
       "sources": [
         {
           "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/821476",
+          "url": "https://theedgemalaysia.com/node/821536",
           "type": "html-list"
         }
       ],
-      "content": "KUALA LUMPUR (Oct 12): Kinergy Advancement Bhd (KL:KINERGY) has secured a RM47.5 million subcontract from Gamuda Bhd's (KL:GAMUDA) unit for electrical works at a hyperscale data centre in Bandar Spring Hill, Port Dickson.\n\nThe subcontract was awarded by Gamuda Bhd’s wholly-owned subsidiary, Gamuda Engineering Sdn Bhd, for the data centre for a multi-national technology company headquartered in the US. The company was not named in the filing on Monday (Oct 12).\n\nUnder the contract, Kinergy will design, supply, install, test and commission the electrical infrastructure, including substations, transformers, power distribution systems, cabling, lighting, backup power systems and EV charging facilities.\n\nThe works are scheduled for completion in the first quarter of 2028.\n\nKinergy’s executive deputy chairman and group managing director Datuk Dr Lai Keng Onn said the award signals the group’s growing recognition in the data centre sector and its technical capabilities in high-specification infrastructure.\n\nLai cited Malaysian Investment Development Authority (Mida) figures that showed RM95.8 billion worth of data centre and cloud-computing investments being approved in Malaysia in the first half of 2026.\n\n“As development grows in scale and complexity, we see increasing demand for specialised engineering and power infrastructure, creating a strong opportunity for Kinergy to deepen its participation in the sector,” Lad added.\n\nKinergy’s share price was unchanged at 39.5 sen during Monday’s mid-day break, valuing it at RM852.31 million.\n\nEdited ByPresenna Nambiar\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/821476"
+      "companies": [
+        "IJM Corporation",
+        "AT&S"
+      ],
+      "title_zh": "IJM赢得12.3亿令吉合同，在吉打州为AT&S建设半导体制造设施",
+      "content": "KUALA LUMPUR (Oct 12): IJM Corporation Bhd (KL:IJM) has secured a RM1.23 billion contract from AT&S Austria Technologie & Systemtechnik (Malaysia) Sdn Bhd to construct semiconductor manufacturing facilities at the Kulim Hi-Tech Park in Kedah.\n\nAT&S Malaysia is a subsidiary of Vienna-listed Austria Technologie & Systemtechnik AG (AT&S), an Austrian manufacturer of high-end printed circuit boards (PCBs) and integrated circuit (IC) substrates, which are used to connect semiconductor chips to circuit boards.\n\nThe Austrian group established its first Southeast Asian manufacturing campus in Kulim, where it began high-volume production of IC substrates for US chipmaker Advanced Micro Devices Inc (AMD) in 2025, primarily for use in data centre processors.\n\nIn a bourse filing on Monday, IJM said its wholly owned subsidiary IJM Construction Sdn Bhd had accepted a letter of award for the design and construction of the facilities.\n\nThe project involves the construction of a four-storey production building, a three-storey central utility building and a single-storey wastewater treatment facility.\n\nIJM said the 14-month project covers design development, procurement, construction, testing and commissioning, including civil and structural works, mechanical and electrical systems, cleanrooms, process utilities and supporting infrastructure.\n\nThe project will also incorporate Industrialised Building System (IBS) precast components, while the production building is targeted to achieve Leadership in Energy and Environmental Design (LEED) Gold certification.\n\nConstruction is scheduled to commence in the fourth quarter of 2026, with completion expected in the fourth quarter of 2027.\n\nIJM group chief executive officer and managing director Datuk Lee Chun Fai said the contract award builds on the capabilities IJM Construction had developed in advanced manufacturing.\n\n\"Semiconductor facilities demand a high degree of technical coordination across the building, mechanical and engineering systems, cleanroom environment and process utilities, while meeting demanding programme requirements,\" he said in a separate statement.\n\n\"The scale and integrated scope of this project, together with its 14-month delivery programme, demonstrate our ability to manage technically complex projects at speed,\" Lee added.\n\nThe latest contract follows RM909.5 million worth of semiconductor and medical technology projects secured by IJM Construction in August 2026.\n\nWith the latest award, IJM Construction's outstanding order book stands at RM10.6 billion, covering building construction, advanced industrial facilities and civil engineering projects.\n\nIn June, AT&S announced plans to invest between €1.5 billion and €2 billion (approximately RM7 billion to RM9.3 billion) to expand its Kulim operations, backed by long-term commitments from AMD and another major technology customer.\n\nThe expansion includes fitting out its existing second plant and constructing a new manufacturing facility for IC substrate cores and advanced PCBs.\n\nAT&S had initially committed €1.7 billion to the first phase of its Kulim campus, which was officially opened in January 2024, making it the largest single investment by an Austrian company in Malaysia at the time.\n\nIJM shares closed at RM2.80 on Monday, down five sen or 1.75%, valuing the group at RM10.21 billion. Year-to-date the stock is up almost 26%\n\n*Read also: Tech: AT&S pivots to co-creation model as it deepens ties with global chip customers AT&S sees no immediate tariff impact, keeping close watch on supply chain shifts Tech: AT&S’ deal with AMD to help elevate Malaysia’s E&E value chain AT&S' new site in Kulim to produce sophisticated IC substrates for AMD by end-2024*\n\nEdited ByPresenna Nambiar\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/821536"
+    },
+    {
+      "id": "2026-10-12-7c7deb",
+      "title": "Lennox quietly marked up Firmus stake last week, only for it to fizzle",
+      "summary": "Don’t count your chickens before they hatch – it’s sage advice for Sydney’s Lennox Capital Partners, who made this very mistake last week.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "ai"
+      ],
+      "published_at": "2026-10-12T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/street-talk/lennox-quietly-marked-up-firmus-stake-last-week-only-for-it-to-fizzle-20261012-p614kl",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Firmus Technologies"
+      ],
+      "title_zh": "Lennox上周悄然上调Firmus持股估值，随后却不了了之",
+      "published_precision": "day",
+      "content": "Don’t count your chickens before they hatch – it’s sage advice for Sydney’s Lennox Capital Partners, who made this very mistake last week.\n\nBacked by Fidante, the Challenger-owned asset manager overseeing a portfolio of around $100 million, Lennox wrote up the valuation of its stake in much-hyped neocloud Firmus Technologies on October 6 to its IPO price of $11 per share, people familiar with the situation who spoke on the condition of anonymity said.\n\nLoading...",
+      "content_url": "https://www.afr.com/street-talk/lennox-quietly-marked-up-firmus-stake-last-week-only-for-it-to-fizzle-20261012-p614kl"
+    },
+    {
+      "id": "2026-10-12-3412c5",
+      "title": "Three Ps of the apocalypse doomed the Firmus IPO",
+      "summary": "For the best part of a year, Luxury Escapes chief executive Adam Schwab has impersonated the oracle at Delphi on our podcast, incanting his prophecy of Firmus initial public offering doom. I hate…",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "ai",
+        "power"
+      ],
+      "published_at": "2026-10-12T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/technology/three-ps-of-the-apocalypse-doomed-the-firmus-ipo-20261012-p614au",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Firmus Technologies"
+      ],
+      "title_zh": "'末日三P'注定Firmus IPO失败",
+      "published_precision": "day",
+      "content": "For the best part of a year, Luxury Escapes chief executive Adam Schwab has impersonated the oracle at Delphi on our podcast, incanting his prophecy of Firmus initial public offering doom. I hate when he’s right, and we’ve since read plenty of salacious dives into the anatomy of this flop.\n\nTherefore, I wasn’t shocked by the outcome and, indeed, I had been somewhat convinced it would fail even before launch. The more interesting question now is whether Firmus can execute a second effort and overcome the main causes of this mess. I call them the three Ps of the apocalypse: the people, proposition and process.",
+      "content_url": "https://www.afr.com/technology/three-ps-of-the-apocalypse-doomed-the-firmus-ipo-20261012-p614au"
+    },
+    {
+      "id": "2026-10-12-821c20",
+      "title": "Masteel announces 51% stake buy in power infra firm and private placement to raise working capital funds",
+      "summary": "Steel manufacturer Malaysia Steel Works (KL) Bhd (KL:MASTEEL) on Monday announced the acquisition of a 51% stake in a high-voltage electrical engineering firm for RM12 million to expand into power infrastructure and data centre construction, as well as a proposed placement of nearly 4% of its issued share base to raise up to RM5.78 million for working capital.",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "investment",
+        "construction",
+        "capacity"
+      ],
+      "published_at": "2026-10-12T11:49:04Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/821531",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Malaysia Steel Works"
+      ],
+      "title_zh": "Masteel宣布收购一家电力基础设施公司51%股权，并通过私募配售筹集营运资金，以拓展数据中心建设业务",
+      "content": "KUALA LUMPUR (Oct 12): Steel manufacturer Malaysia Steel Works (KL) Bhd (KL:MASTEEL) on Monday announced the acquisition of a 51% stake in a high-voltage electrical engineering firm for RM12 million to expand into power infrastructure and data centre construction, as well as a proposed placement of nearly 4% of its issued share base to raise up to RM5.78 million for working capital.\n\nThe group said in a bourse filing that the acquisition of Anpec Global Corporation Sdn Bhd will allow it to tap into the latter's engineering capabilities and contracts with major utility companies, including Tenaga Nasional Bhd (KL:TENAGA) and Sabah Electricity Sdn Bhd.\n\nMasteel has entered into a share sale agreement with Anpec founder and CEO Abd Rasid Mohamed Salleh for the acquisition. The purchase will be satisfied through RM3 million cash from internal funds, and the issuance of 45 million new Masteel shares at 20 sen apiece — a 7.93% premium to Masteel's five-day volume-weighted average market price (VWAMP) of 18.53 sen up to Oct 9.\n\nThis means Abd Rasid, who will retain a 49% interest in Anpec and continue overseeing its operations, will emerge as a substantial shareholder of Masteel with a 5.7% stake. This will be eventually diluted to 5.49% upon completion of the subsequent share placement.\n\nAnpec specialises in high-voltage electrical infrastructure, substations and industrial electrical systems. It has an outstanding order book of RM107 million from six ongoing projects, with completion dates extending to 2028. It has also ventured into data centre-related power infrastructure, having completed a 275kV bulk electricity supply project for the Marmot Data Centre in Elmina West, Selangor, in December 2025.\n\nThe company is now bidding for roughly RM63 million worth of jobs involving TNB substations and high-voltage equipment testing services for Sabah Electricity.\n\nMasteel executive vice-chairman Datuk Seri Tai Hean Leng said the acquisition would allow the group to combine its steel manufacturing operations with Anpec's expertise in power infrastructure engineering. The group is aiming to pursue opportunities arising from TNB's RM15 billion investment in the national electricity grid infrastructure, as highlighted under Budget 2027.\n\n\"We are positioned to execute larger green energy transition projects, providing green-certified steel alongside 132kV and 275kV substation engineering to connect large-scale solar facilities to the grid,\" he said in a statement.\n\nThe acquisition is targeted for completion by the end of 2026.\n\nThe subsequent share placement involves up to 29.48 million new shares, or 3.96% of its issued share base, to investors to be identified at an indicative price of 19.6 sen per share. The final price will be capped at a maximum discount of 10% to the five-day VMAMP before the price-fixing date.\n\nOf the proceeds, RM5.53 million will be used for working capital, including utilities, staff costs and administrative expenses. The balance will be used to defray the proposal's expenses.\n\nTogether with the 45 million consideration shares to be issued for the Anpec acquisition, the group will be issuing up to 74.48 million new Masteel shares, equivalent to 10% of its existing issued share capital.\n\nThe group previously completed a private placement in August 2025, raising RM13.82 million from issuing 67.5 million new shares. Proceeds from that have since been fully utilised for working capital and related expenses.\n\nShares of Masteel, which manufactures steel billets, high-tensile deformed steel bars and mild steel round bars, rose 0.5 sen or 2.7% to close at 19 sen on Monday, valuing the company at RM141.9 million.\n\nEdited ByTan Choe Choe\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/821531"
+    },
+    {
+      "id": "2026-10-12-7093b3",
+      "title": "Bipartisan AI inquiry urges Labor to invest in data centres",
+      "summary": "A bipartisan parliamentary inquiry in Australia has recommended that the Labor government increase investment in data center infrastructure to support the country's artificial intelligence ambitions. The report frames domestic computing capacity as strategically essential, urging policy support to keep AI workloads and associated economic activity onshore.",
+      "why_it_matters": "Bipartisan backing removes much of the political risk around government support for data centers, opening the door to incentives, streamlined approvals, or direct funding in Australia. Operators and investors can now plan around a friendlier policy environment, though energy grid impacts will draw countervailing pressure.",
+      "score": 71,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "regulation",
+        "investment",
+        "capacity"
+      ],
+      "published_at": "2026-10-12T11:05:37Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/politics/federal/bipartisan-ai-inquiry-urges-labor-to-invest-in-data-centres-20261012-p614nw",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "澳大利亚两党AI调查敦促工党政府投资数据中心",
+      "summary_zh": "澳大利亚一项两党联合议会调查建议工党（Labor）政府加大对 data center 基础设施的投资，以支撑该国的人工智能发展雄心。报告将本土算力定位为具有战略必要性的资产，敦促政府出台政策支持，把 AI 工作负载及相关经济活动留在国内。",
+      "why_zh": "两党共同支持在很大程度上消除了政府扶持 data center 的政治风险，为澳大利亚出台激励措施、简化审批或直接投资打开了大门。运营商和投资者可以围绕更友好的政策环境制定规划，但电网承载压力也将引来反向的制约声音。",
+      "content": "A bipartisan parliamentary inquiry into artificial intelligence has taken the unprecedented step of writing to Prime Minister Anthony Albanese, urging the government to invest in data centres in the national interest and insisting that independent assessors have high-level access to model developers such as OpenAI and Anthropic to monitor their activities in real time.\n\nThe committee has also given the Albanese government approval to press ahead with changes to copyright laws that will make it easier for major AI developers to train their models in local data centres.\n\nLoading...",
+      "content_url": "https://www.afr.com/politics/federal/bipartisan-ai-inquiry-urges-labor-to-invest-in-data-centres-20261012-p614nw"
+    },
+    {
+      "id": "2026-10-12-718c47",
+      "title": "Number of data center fires and power failures has doubled since 2024",
+      "summary": "New data from the Energy Incident Register reveals increasing faults",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "power",
+        "safety",
+        "operations",
+        "reliability"
+      ],
+      "published_at": "2026-10-12T10:14:22Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/number-of-data-center-fires-and-power-failures-has-doubled-since-2024/",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "自2024年以来数据中心火灾和电力故障数量翻倍",
+      "content": "Data center fires and power failures have more than doubled since 2024, new incident data has revealed.\n\nAccording to the Energy Incident Register, which provides an independently run public register of safety incidents in energy and grid infrastructure, the number of fires or power failures at data centers rose from just eight in 2024 to 20 in 2025 and 19 in 2026.\n\nThe Energy Incident Register now tracks data center incidents, based on public reporting, from 2010 to 2026 across 26 countries. Of 93 data center incidents in the period, 47 occurred in 2024 or later.\n\nThe US suffered the most from these incidents, with 33 incidents across the 16 year period – though this is to be expected given its market share. The UK saw the next highest incidence rate, with 14 incidents across the period.\n\nSome 52 of the 93 incidents were fires or thermal events, with 18 classified as major.\n\nThe most common failures were in Uninterruptible Power Systems (UPS) and battery rooms, which represent 22 of the 93 incidents. Backup generators came next, with 15 incidents.\n\nHowever, in the majority of incidents (53 of 93), no part was named in reporting.\n\n*DCD* has reported on several major incidents at data centers this year, the latest being a fire at a data center in Gasan-dong, Seoul, South Korea, in September, and a fire in a Tata Communications center in India in June.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/number-of-data-center-fires-and-power-failures-has-doubled-since-2024/"
+    },
+    {
+      "id": "2026-10-12-82888b",
+      "title": "The huge lurking leverage of AI hyperscalers",
+      "summary": "While equity investors look to sunny futures, creditors are scrutinising liabilities like data centre leases",
+      "why_it_matters": "",
+      "score": 58,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "hyperscale",
+        "investment"
+      ],
+      "published_at": "2026-10-12T10:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/opinion-features/huge-lurking-leverage-ai-hyperscalers",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/opinion-features/huge-lurking-leverage-ai-hyperscalers",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "AI hyperscaler潜藏的巨大杠杆",
+      "content": "While equity investors look to sunny futures, creditors are scrutinising liabilities like data centre leases\n\nAT TIMES, creditors can feel like they are the only adults in the room. As artificial intelligence-driven exuberance drives stock markets higher, bond vigilantes are pushing Treasury rates higher, while credit markets are repricing data centre-related debt lower.\n\nWhile equity analysts might get paid for dreamy earnings forecasts, the best creditors can hope for is repayment at par if a bond is held to maturity.\n\nSo they look at the details where, as ever, devils reside. For example, while the debt being taken on by hyperscalers to build out AI infrastructure is getting lots of attention and is even being blamed for crowding out Treasury bonds, creditors have taken this a step further in typically geeky fashion, scrutinising off-balance-sheet obligations such as leases.",
+      "content_url": "https://www.businesstimes.com.sg/opinion-features/huge-lurking-leverage-ai-hyperscalers"
+    },
+    {
+      "id": "2026-10-12-0014f8",
+      "title": "Tencent tells investors its US$5 bil bond mainly for AI capex",
+      "summary": "Tencent Holdings told fixed-income investors that its planned bond offering of roughly US$5 billion will primarily fund AI-related capital expenditures, according to people familiar with the matter. The disclosure signals the Chinese internet giant is accelerating spending on AI infrastructure as it competes in the domestic race for computing capacity.",
+      "why_it_matters": "One of China's largest tech firms explicitly tapping bond markets for AI capex marks a shift in how the country's AI buildout is financed. It signals sustained GPU and data center demand in China despite chip export restrictions, and gives creditors a clearer line of sight into how aggressively Chinese hyperscalers plan to spend.",
+      "score": 72,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "hyperscale",
+        "capacity"
+      ],
+      "published_at": "2026-10-12T08:36:02Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/821501",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Tencent"
+      ],
+      "title_zh": "Tencent向投资者表示，其50亿美元债券主要用于AI资本支出",
+      "summary_zh": "据知情人士透露，腾讯控股向固定收益投资者表示，其计划发行的约 50 亿美元债券将主要用于 AI 相关的资本支出。这一披露表明，这家中国互联网巨头正加快 AI 基础设施投入，以在国内算力竞争中占据有利位置。",
+      "why_zh": "中国最大科技公司之一明确通过债券市场为 AI 资本支出融资，标志着中国 AI 建设融资方式的转变。这表明即便在芯片出口管制之下，中国对 GPU 和 data center 的需求仍将持续，也让债权人更清楚地看到中国 hyperscaler 的投入力度。",
+      "content": "(Oct 12): Tencent Holdings Ltd told fixed-income investors Monday that its planned bond offering of about US$5 billion (RM20.4 billion) will help finance AI-related capital expenditures, people familiar with the matter said, as it doubles down on the sector.\n\nThe Chinese technology and gaming giant could price the deal as early as Tuesday, it said in a call with the investors, according to the people, who asked not to be identified because the discussions are private. The offering includes US$1.5 billion to US$2 billion across dollar tranches, and 20 billion yuan to 25 billion yuan from offshore yuan notes, the people said.\n\nThe proceeds will be primarily for general corporate purposes, such as AI-related capital expenditure, with the bulk of such spending directed toward chip purchases, the people added, citing Tencent’s management.\n\nBoth global and Chinese tech companies are increasingly turning to capital markets to fund costly AI investments, even as investors start to scrutinise whether spending on data centres, chips and model development will generate adequate returns.\n\nSoftBank Group Corp recently raised US$11.1 billion through one of the largest corporate junk-bond offerings on record, while Alibaba Group Holding Ltd scooped up a record US$10.2 billion via a follow-on offering. Chinese AI model maker Z.AI Co garnered US$9.6 billion through its IPO, placements and convertible bonds.\n\nTencent said in the investor call that it currently has no plans to issue shares or convertible bonds, added the people, citing the company.\n\nTencent didn’t respond to a request for comment.\n\nTencent is also ramping up its AI-related spending amid a push to catch up to rivals such as ByteDance Ltd and Alibaba. The company hiked capital expenditures by 176% on AI projects and computing to 52.8 billion yuan in the June quarter, triggering a free-cash outflow of 13.8 billion yuan.\n\nTencent’s capital expenditure is likely to remain elevated through the remainder of 2026 and into 2027, suggesting annual spending of slightly more than 200 billion yuan based on second-quarter levels, the people said. \n\n*Uploaded by Magessan Varatharaja*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/821501"
     },
     {
       "id": "2026-10-12-cd8601",
@@ -56,6 +385,40 @@
       "content_url": "https://www.datacenterdynamics.com/en/marketwatch/making-every-watt-work/"
     },
     {
+      "id": "2026-10-12-4fd068",
+      "title": "Kinergy bags RM47.5m electrical works contract for hyperscale data centre",
+      "summary": "Kinergy Advancement has secured a RM47.5 million subcontract from a Gamuda unit to carry out electrical works at a hyperscale data center in Bandar Spring Hill, Port Dickson. The project adds to a cluster of large-scale facilities rising in Negeri Sembilan as developers look beyond the saturated Klang Valley and Johor corridors.",
+      "why_it_matters": "The subcontract shows Malaysia's data center construction wave cascading down to second-tier electrical contractors and into new geographies like Port Dickson. For the supply chain it means sustained work pipelines; for the market it confirms hyperscale development is diffusing beyond the two established hubs, easing land and power concentration risk.",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "hyperscale",
+        "construction",
+        "power"
+      ],
+      "published_at": "2026-10-12T06:34:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/821476",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Kinergy Advancement",
+        "Gamuda"
+      ],
+      "title_zh": "Kinergy赢得4750万令吉合同，为波德申一座hyperscale数据中心提供电气工程服务",
+      "summary_zh": "Kinergy Advancement 从 Gamuda 旗下子公司获得一份价值 4750 万林吉特的分包合同，负责位于波德申 Bandar Spring Hill 一座 hyperscale data center 的电气工程。随着开发商将目光投向饱和的巴生谷和柔佛走廊之外，森美兰州正崛起一批大型设施集群。",
+      "why_zh": "这份分包合同显示，马来西亚的 data center 建设浪潮正传导至二线电气承包商，并向波德申等新区域扩散。对供应链而言，这意味着持续的工程订单；对市场而言，则证实 hyperscale 开发正从两大成熟枢纽向外扩散，有助于缓解土地和电力的集中度风险。",
+      "content": "KUALA LUMPUR (Oct 12): Kinergy Advancement Bhd (KL:KINERGY) has secured a RM47.5 million subcontract from Gamuda Bhd's (KL:GAMUDA) unit for electrical works at a hyperscale data centre in Bandar Spring Hill, Port Dickson.\n\nThe subcontract was awarded by Gamuda Bhd’s wholly-owned subsidiary, Gamuda Engineering Sdn Bhd, for the data centre for a multi-national technology company headquartered in the US. The company was not named in the filing on Monday (Oct 12).\n\nUnder the contract, Kinergy will design, supply, install, test and commission the electrical infrastructure, including substations, transformers, power distribution systems, cabling, lighting, backup power systems and EV charging facilities.\n\nThe works are scheduled for completion in the first quarter of 2028.\n\nKinergy’s executive deputy chairman and group managing director Datuk Dr Lai Keng Onn said the award signals the group’s growing recognition in the data centre sector and its technical capabilities in high-specification infrastructure.\n\nLai cited Malaysian Investment Development Authority (Mida) figures that showed RM95.8 billion worth of data centre and cloud-computing investments being approved in Malaysia in the first half of 2026.\n\n“As development grows in scale and complexity, we see increasing demand for specialised engineering and power infrastructure, creating a strong opportunity for Kinergy to deepen its participation in the sector,” Lad added.\n\nKinergy’s share price was unchanged at 39.5 sen during Monday’s mid-day break, valuing it at RM852.31 million.\n\nEdited ByPresenna Nambiar\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/821476"
+    },
+    {
       "id": "2026-10-12-5dc8de",
       "title": "Submer India, BSNL Tower Corporation to develop AI-ready data centres across India",
       "summary": "Submer India Private Limited and BSNL Tower Corporation Limited (BTCL) signed an MoU at India Mobile Congress 2026. The collaboration will explore sovereign, AI-ready data centre infrastructure across India.",
@@ -77,6 +440,46 @@
       ],
       "content": "NEW DELHI: Submer India and BSNL Tower Corporation Limited (BTCL) on Monday said they have signed a Memorandum of Understanding (MoU) at the recently concluded India Mobile Congress (IMC 2026) to explore the development of sovereign, AI-ready data centre infrastructure across India.The collaboration will focus on infrastructure designed for artificial intelligence (AI) and high-performance computing (HPC) requirements. Submer and BTCL will jointly assess opportunities for GPU-as-a-Service, sovereign AI cloud infrastructure, and edge and micro-edge data centres.They will also evaluate large-scale data centre projects up to 20 MW. The parties will assess the suitability of BSNL premises and data centre facilities for transformation into distributed edge infrastructure.These assessments will consider technical and commercial feasibility, connectivity, scalability, and energy efficiency. They will also address the requirements of government, public sector undertakings (PSU), enterprise, research, and institutional workloads.“AI will play an increasingly important role in India’s digital transformation, creating demand for secure, high-performance computing infrastructure that can serve the country at scale,” said Robert J Ravi, CMD, BSNL. “This MoU marks an important step in evaluating how BSNL’s nationwide infrastructure and connectivity footprint can support sovereign AI capabilities. Our collaboration with Submer will help us explore an infrastructure model designed around India’s long-term digital priorities.”“Government bodies and enterprises need a practical path to adopt AI without compromising performance, security, or data sovereignty,” said Sudhakar Rao Papa, director (enterprise business), BSNL. “By assessing GPU-as-a-Service, sovereign cloud and distributed edge infrastructure, this collaboration aims to bring AI computing capacity closer to organizations across India and support a broader range of public-sector and enterprise applications.”“India has the talent, demand, and digital reach to become a global AI infrastructure leader. The next step is to build the physical capacity that turns that ambition into deployable compute,” said Anupam Shrivastava, Submer India Head. “Together with BTCL, we are bringing infrastructure, network reach, and engineering expertise into one model. Our goal is clear: make sovereign AI capacity available where it is needed, from strategic edge locations to large-scale AI data centers.”Under the pact, Submer will apply its expertise in integrated data centre architecture, liquid cooling, and high-density computing. BTCL will coordinate access to relevant BSNL premises and data centre facilities for feasibility studies.A key assessment area will be a sovereign AI cloud model. This model will leverage BSNL’s network footprint and indigenous 4G and 5G core to support scalable, low-latency GPU-as-a-Service. The collaboration also includes coordinated opportunity development and technical workshops.\n\n- AI & Compute Infrastructure\n- 2 min Read\n\n# Submer India, BSNL Tower Corporation to develop AI-ready data centres across India\n\nSubmer India Private Limited and BSNL Tower Corporation Limited (BTCL) signed an MoU at India Mobile Congress 2026. The collaboration will explore sovereign, AI-ready data centre infrastructure across India.\n\n- Updated On Oct 12, 2026 at 11:50 AM IST\n\n## Highlights\n\n- Submer India and BTCL signed an MoU at India Mobile Congress 2026.\n- The partnership explores sovereign, AI-ready data centre infrastructure across India.\n- It will assess GPU-as-a-Service and edge data centres up to 20 MW.\n- BSNL premises will be evaluated for distributed edge infrastructure transformation.\n\n## Comments\n\nWhat are your thoughts?",
       "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/submer-india-bsnl-tower-corporation-to-develop-ai-ready-data-centres-across-india/134884756"
+    },
+    {
+      "id": "2026-10-12-5634d8",
+      "title": "Bain's Bridge Data Centres seeks to upsize loan to US$6.6 billion",
+      "summary": "Bridge Data Centres, the Bain Capital-owned pan-Asian platform, is seeking to upsize an existing loan facility to US$6.6 billion. If completed, the financing would rank among the largest debt deals ever struck in Asia's data center sector, reflecting the scale of capital required for hyperscale expansion across the region.",
+      "why_it_matters": "A loan of this size signals that lenders still view Asian hyperscale data centers as bankable at scale, even as equity markets grow cautious. It also raises the leverage bar for competitors: operators without access to comparable debt capacity risk falling behind in land and power acquisition races across key APAC markets.",
+      "score": 80,
+      "heat": 2,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "financing",
+        "capacity",
+        "expansion"
+      ],
+      "published_at": "2026-10-12T06:03:48Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/startups-tech/technology/bains-bridge-data-centres-seeks-upsize-loan-us6-6-billion",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/startups-tech/technology/bains-bridge-data-centres-seeks-upsize-loan-us6-6-billion",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Bain Capital",
+        "Bridge Data Centres"
+      ],
+      "title_zh": "贝恩资本旗下Bridge Data Centres寻求将贷款规模扩大至66亿美元",
+      "summary_zh": "贝恩资本（Bain Capital）旗下的泛亚平台 Bridge Data Centres 正寻求将现有贷款规模扩大至 66 亿美元。若最终完成，该融资将成为亚洲 data center 行业有史以来最大规模的债务交易之一，反映出该区域 hyperscale 扩张所需的庞大资本量。",
+      "why_zh": "如此大规模的贷款表明，即便股票市场趋于谨慎，贷款机构仍认为亚洲 hyperscale data center 在大规模层面具备可融资性。这也抬高了竞争对手的杠杆门槛：无法获得同等债务融资能力的运营商，可能在亚太主要市场的土地和电力资源争夺战中掉队。",
+      "content": "This will be one of the largest deals for the sector in Asia\n\n\\[HONG KONG\\] Bain Capital-owned Bridge Data Centres is in talks with banks to more than double the size of an existing loan to about US$6.6 billion, people familiar with the matter said, in what would be one of the largest deals for the sector in Asia.\n\nThe move is an extension of a previous effort to increase the size to at least US$5 billion from an original US$2.8 billion that it obtained last year for its operations in Malaysia.\n\nThe expanded deal could be launched into the market as early as November, according to the people, who asked not to be identified discussion private matters.\n\nAt the same time, plans for a loan of up to US$6 billion for a Thailand-based data centre have stalled, the people said, around the time the South-east Asian nation decided last month to suspend the construction of 49 data centres amid concerns over energy usage.\n\nA spokesperson for Bridge said “as a matter of policy, we do not comment on unverified information or market speculation”.\n\nData centre operators have been rushing to take on additional debt as they seek to expand amid growing demand spurred by the AI boom. Moody’s Ratings expects at least US$3 trillion to flow into data centre-related investments over the next five years, with much of the spending financed through debt.\n\nStill, signs are emerging that global investors are starting to push back when they perceive valuations to be frothy. Banks are increasingly mindful of their exposure to the sector as they bump-up against lending limits.\n\nThe most salient recent example of investor hesitation came just last week when Firmus Grid pulled an attempt at one of Australia’s biggest-ever initial public offerings after running into difficulties convincing some potential investors of its steep increase in market value.\n\nWall Street has grown increasingly anxious about AI and its potential to impact other businesses, a fear that spurred investors to dump a range of stocks from Expedia to Salesforce earlier this year.\n\nBDC is a unit of Wintrix, formerly known as Chindata Group, the Chinese data centre operator that Bain Capital took private in 2023 in a deal worth about US$3.2 billion. The firm currently has facilities in Malaysia, Thailand, and India, according to its company website. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/startups-tech/technology/bains-bridge-data-centres-seeks-upsize-loan-us6-6-billion"
     },
     {
       "id": "2026-10-12-a2d590",
@@ -229,27 +632,41 @@
     },
     {
       "id": "2026-10-12-106491",
-      "title": "SM+ to acquire Princeton Digital Group’s enterprise data center business in Indonesia",
-      "summary": "Indonesian digital infrastructure firm PT SMPlus Digital Investama (together with its affiliates, “SM+”), announced today that it has signed a definitive agreement to acquire the enterprise data centre business in Indonesia held by Princeton Digital Group (PDG), according to statements by the firms. The business acquired includes five high-quality, operational data centre facilities located across […]",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
+      "title": "SM+ to Acquire Princeton Digital Group's Enterprise Data Center Business in Indonesia",
+      "summary": "Indonesian digital infrastructure firm PT SMPlus Digital Investama (SM+) has signed a definitive agreement to acquire Princeton Digital Group's (PDG) enterprise data center business in Indonesia. The deal covers five operational facilities located across the country, expanding SM+'s footprint in one of Southeast Asia's fastest-growing digital infrastructure markets.",
+      "why_it_matters": "The transaction marks a significant consolidation in Indonesia's data center market, shifting five live facilities from a regional hyperscale player to a domestic operator. For PDG it frees capital for larger hyperscale builds elsewhere in Asia, while enterprise and cloud customers in Indonesia will watch whether service terms and expansion plans change under new ownership.",
+      "score": 82,
+      "heat": 2,
       "regions": [
-        "global"
+        "southeast-asia"
       ],
-      "topics": [],
+      "topics": [
+        "m&a",
+        "colocation",
+        "investment",
+        "capacity"
+      ],
       "published_at": "2026-10-12T03:02:49Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "W.Media",
           "url": "https://w.media/sm-to-acquire-princeton-digital-groups-enterprise-data-center-business-in-indonesia/",
           "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/sm-acquires-princeton-digital-groups-indonesian-enterprise-data-centers/134882080",
+          "type": "rss"
         }
       ],
       "companies": [
+        "SM+",
         "Princeton Digital Group"
       ],
+      "title_zh": "SM+ 将收购 Princeton Digital Group 在印尼的企业数据中心业务",
+      "summary_zh": "印尼数字基础设施公司 PT SMPlus Digital Investama（SM+）已签署最终协议，收购 Princeton Digital Group（PDG）在印尼的 enterprise data center 业务。此次交易涵盖位于印尼各地的五座已投入运营的设施，扩大了 SM+ 在东南亚增长最快的数字基础设施市场之一的布局。",
+      "why_zh": "这笔交易标志着印尼 data center 市场的一次重要整合，五座在运设施从区域性 hyperscale 运营商转手至本土运营商。对 PDG 而言，这释放了资金用于亚洲其他地区更大规模的 hyperscale 建设；而印尼的企业和云客户将关注新东家是否会改变服务条款与扩张计划。",
       "content": "Indonesian digital infrastructure firm PT SMPlus Digital Investama (together with its affiliates, “SM+”), announced today that it has signed a definitive agreement to acquire the enterprise data centre business in Indonesia held by Princeton Digital Group (PDG), according to statements by the firms.\n\nThe business acquired includes five high-quality, operational data centre facilities located across key Indonesian markets, namely Greater Jakarta, Bandung, Surabaya and Pekanbaru.\n\nThis acquisition will help strengthen and expand SM+ digital infrastructure platform in Indonesia, which is experiencing strong growth in data consumption, cloud adoption and enterprise digital transformation. The firm further expects to enhance service delivery, support future growth opportunities and continue enabling Indonesia’s digital transformation through this transaction.\n\nWith this deal, SM+ will be operating 31 sites in 25 cities or markets in Indonesia.\n\n“This acquisition marks an important milestone in our journey to build Indonesia’s leading home-grown digital infrastructure platform. By adding five facilities across Greater Jakarta, Bandung, Surabaya and Pekanbaru, we are expanding our nationwide footprint and strengthening our ability to serve customers as we continue supporting Indonesia’s digital economy,” said Herson Suindah, President Director and Group CEO of SM+ Holdings.\n\n “Indonesia is a key market for PDG since entering the market in 2019. We acquired these enterprise-grade sites as part of our ‘enter-and-expand’ strategy of market entry and have since developed a hyperscale data center portfolio of \\~400 MW in the country. Our focus will continue to be to build on that hyperscale portfolio (which includes the JC2, JC3 and JC4 campuses, with further expansion underway) and to enhance our leadership position in Indonesia,” said Varoon Raghavan, Chief Operating Officer and Co-Founder of Princeton Digital Group.\n\nPDG’s total portfolio exceeds 1.8 GW across eight countries in Asia Pacific.\n\nThe transaction remains subject to customary closing conditions. UBS AG Singapore Branch is acting as exclusive financial advisor to SM+ on the transaction.",
       "content_url": "https://w.media/sm-to-acquire-princeton-digital-groups-enterprise-data-center-business-in-indonesia/"
     },
@@ -301,29 +718,72 @@
     },
     {
       "id": "2026-10-12-4643e7",
-      "title": "DayOne in talks for US$500 million bond: Report",
-      "summary": "Singapore-based data center platform DayOne Data Centers Ltd has been discussing with banks for weeks about a potential US$500 million bond offering which could go to the market as early as next year, Bloomberg reports quoting people familiar with the matter. The people added the bond offerring which is arranged by Citigroup Inc is to finance projects […]",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
+      "title": "DayOne in Talks for US$500 Million Bond: Report",
+      "summary": "Singapore-headquartered DayOne Data Centers has been in discussions with banks for several weeks about a potential US$500 million bond offering that could launch as early as next year, according to Bloomberg. The Citigroup-arranged deal would fund the company's project pipeline as the GDS-spun-off platform expands across Asia-Pacific.",
+      "why_it_matters": "A successful bond sale would give DayOne independent access to capital markets separate from its GDS heritage, testing investor appetite for Southeast Asian data center credit. The timing and pricing will serve as a benchmark for other regional platforms weighing bond financing against private debt.",
+      "score": 78,
+      "heat": 2,
       "regions": [
-        "global"
+        "southeast-asia"
       ],
-      "topics": [],
+      "topics": [
+        "financing",
+        "investment",
+        "hyperscale",
+        "capacity"
+      ],
       "published_at": "2026-10-12T01:34:02Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "W.Media",
           "url": "https://w.media/dayone-in-talks-for-us500-million-bond-report/",
           "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/dayone-data-centers-discusses-us500-million-bond-offering/134881708",
+          "type": "rss"
         }
       ],
       "companies": [
-        "DayOne"
+        "DayOne",
+        "DayOne Data Centers",
+        "Citigroup"
       ],
+      "title_zh": "据报道，DayOne 正洽谈发行 5 亿美元债券",
+      "summary_zh": "据彭博社报道，总部位于新加坡的 DayOne Data Centers 已与多家银行就潜在 5 亿美元债券发行讨论数周，最早可能于明年推向市场。该笔由花旗集团（Citigroup）安排的债券将用于资助公司项目管线，支持这家从 GDS 分拆出来的平台在亚太地区扩张。",
+      "why_zh": "若债券成功发行，DayOne 将获得独立于 GDS 体系的资本市场直接融资渠道，同时检验投资者对东南亚 data center 信用资产的接受度。其发行时机与定价将成为区域内其他平台在公募债券与私募债务之间权衡时的重要参照。",
       "content": "Singapore-based data center platform DayOne Data Centers Ltd has been discussing with banks for weeks about a potential US$500 million bond offering which could go to the market as early as next year, Bloomberg reports quoting people familiar with the matter.\n\nThe people added the bond offerring which is arranged by Citigroup Inc is to finance projects but did not specify which particular projects. If successful, this would be one of the first data center bond offerrings in Asia Pacific.\n\nThis is despite one of its project partners, Nvidia Corp-backed Firmus Grid Ltd, abandoning an initial public offering in Australia last week. This would have been one of Australia’s largest IPOs and the proceeds would have funded purchases of graphics processing units (GPUs) for its planned first data center project in Batam, Indonesia, as part of an eight-year partnership with Nvidia. DayOne would have been the co-developer of the data center.\n\nLast week, DayOne had filed for a US IPO for a potential US$5 billion raise as the firm ramps up fundraising to meet insatiable demand for artificial intelligence (AI) infrastructure.\n\nDayOne had earlier closed half of a US$7 billion-equivalent loan supported by more than 30 lenders. The firm is also seeking a HK$1.86 billion (US$237 million) loan for a Hong Kong data center. In August, DayOne secured a four-year S$530 million (US$414 million) to develop its first data center in Singapore.\n\nDayOne features footprint in Indonesia, Singapore, Malaysia, Japan, Hong Kong, Thailand and Finland.\n\nRepresentatives for DayOne and Citigroup declined to comment when requested.",
       "content_url": "https://w.media/dayone-in-talks-for-us500-million-bond-report/"
+    },
+    {
+      "id": "2026-10-12-c4b372",
+      "title": "Architecting digital trust for Malaysia's sovereign AI future",
+      "summary": "Artificial intelligence is moving into the systems that power banking, public services, industry and critical infrastructure. But having the computing power to run AI is only part of the story. Malaysia also needs to secure its data, test how AI systems perform and know whether their outputs can be trusted.",
+      "why_it_matters": "",
+      "score": 35,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "regulation",
+        "sovereign-ai"
+      ],
+      "published_at": "2026-10-11T16:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/820672",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "为马来西亚主权AI未来构建数字信任架构",
+      "content": "Artificial intelligence is moving into the systems that power banking, public services, industry and critical infrastructure. But having the computing power to run AI is only part of the story. Malaysia also needs to secure its data, test how AI systems perform and know whether their outputs can be trusted.\n\nThis is the role MIMOS Berhad is looking to play as Malaysia builds its own sovereign AI capabilities, with Group Chief Technology Officer Dr Zulaikha Kadim working across areas including deepfake detection, AI-driven cybersecurity, trusted digital identity and cognitive AI.\n\nAs AI takes on bigger, higher-stakes roles, it can no longer be judged simply by how fast or intelligent it is, she says. Its outputs must also be accurate, secure, explainable and accountable.\n\n“AI is no longer used only to generate text or images. It is increasingly being embedded into systems that influence decisions in public services, industry, finance and critical infrastructure,” she points out.\n\nIn other words, AI now has to be checked and proven, not just made faster or smarter. That is the idea behind Digital Trust: being able to rely on what a digital system tells you, whether a transaction is genuine, a person is who they claim to be, or a record has not been changed.\n\nMIMOS is developing these digital trust capabilities through its Trusted Intelligence Platform, as part of its efforts to turn national priorities into technologies that can be tested locally. The two concepts are closely linked, but Zulaikha says they serve different purposes.\n\n“Digital Trust is the confidence that people and organisations have in a digital system, transaction or AI-supported decision. They need to know that the system is secure, that the information has not been altered and that the identity or content involved is genuine,” she explains.\n\nThat work is aligned with Malaysia’s broader push to build trusted and sovereign AI capabilities, with MIMOS translating national priorities into technologies that can be developed and tested locally.\n\nUnder the 13th Malaysia Plan (RMK13), MIMOS is developing blockchain-secured trusted logs, deepfake detection and AI-driven cybersecurity, as well as Mi-Muallim, which detects deviations in verified content. The work also extends to cognitive AI for vision and robotics.\n\nDeepfakes are one area where the technology is being put to the test. MIMOS is developing detection tools while studying how synthetic and manipulated content is created, allowing researchers to understand how quickly the technology behind such manipulation is evolving.\n\n“MIMOS is addressing deepfakes from both the defensive and research perspectives. Under RMK13, we are developing AI-based detection technologies to assess multimedia integrity, while researching generative AI to understand how synthetic and manipulated content is created,” says Zulaikha.\n\nBut detection alone is not enough. She says the technology also has to work in Malaysia, where language, accents and demographics can differ from the data used to train overseas models.\n\n“Localisation is equally important. Detection models developed overseas may not perform consistently with Bahasa Melayu, mixed-language conversations, Malaysian accents or our diverse population,” she adds.\n\nThis means building local datasets and testing methods to give organisations evidence they can use in investigations, risk assessments and operational decisions. From there, MIMOS takes the technology into controlled proof-of-concept projects with users, testing how it performs in real operating environments before wider deployment.\n\n“Their feedback also allows us to refine the technology around genuine requirements rather than assumptions made by researchers. Therefore, the objective is not to conduct a showcase for its own sake. It is to generate evidence, confirm the value proposition and create a credible pathway towards adoption and commercialisation,” says Zulaikha.\n\nThat approach also shapes how MIMOS works alongside global technology providers as Malaysia expands its cloud, data centre and computing capacity. Sovereignty does not mean shutting out global technology, but retaining control over sensitive data and critical AI capabilities, she says.\n\n“Global technology providers give Malaysia access to advanced cloud infrastructure, computing platforms, foundational AI models and global innovation networks. We should benefit from their speed, scale and investment. However, Malaysia must retain the ability to protect sensitive data, verify how an AI system performs in our environment and decide which workloads should remain local or on-premises,” she adds.\n\nMIMOS therefore takes a hybrid approach to computing, combining its own on-premises graphics processing units with secure cloud resources and infrastructure from strategic partners. Sensitive workloads can remain in controlled local environments, while larger workloads can use external infrastructure where appropriate.\n\n“The important point is that sovereignty is not determined only by who owns the hardware. It also depends on whether Malaysia retains control over its data, models, security requirements and critical AI capabilities,” she says.\n\nThe longer-term opportunity is to turn those capabilities into platforms, standards and assurance services that can be deployed beyond individual projects.\n\n“If we can convert these capabilities into repeatable platforms, standards and assurance services, Malaysia can support both domestic adoption and regional deployment. The opportunity is larger than becoming a user or host of AI infrastructure,” says Zulaikha.\n\n“Malaysia can become a regional location where high-impact AI and digital content are independently tested, validated and trusted. That is where technological sovereignty can translate into economic value.”\n\nFor more on MIMOS’ applied research and development work, visit mimos.my.\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/820672"
     },
     {
       "id": "2026-10-12-ea09dc",
@@ -349,29 +809,6 @@
       "content_url": "https://www.datacenterdynamics.com/en/opinions/legacy-data-center-efficiency-now-has-a-compliance-deadline/"
     },
     {
-      "id": "2026-10-12-7eb696",
-      "title": "Warburg Pincus-backed developer to pay $300m for Melbourne data centre",
-      "summary": "Forget Firmus – here’s a data centre deal with cold, hard cash behind it and developers ready to get cracking.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [],
-      "published_at": "2026-10-11T07:55:54Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/street-talk/warburg-pincus-backed-developer-to-pay-300m-for-melbourne-data-centre-20261011-p614jw",
-          "type": "html-list"
-        }
-      ],
-      "content": "Forget Firmus – here’s a data centre deal with cold, hard cash behind it and developers ready to get cracking.\n\nPrinceton Digital, the Singapore-headquartered developer of massive data centre and cloud computing operations, appears set to land in Australia in a move backed by its major investors including Warburg Pincus.\n\nLoading...",
-      "content_url": "https://www.afr.com/street-talk/warburg-pincus-backed-developer-to-pay-300m-for-melbourne-data-centre-20261011-p614jw"
-    },
-    {
       "id": "2026-10-12-1505fa",
       "title": "Hyperscale Data plans Patriot BTC subsidiary for Bitcoin mining business",
       "summary": "Will transfer Montana data center to new company",
@@ -393,6 +830,39 @@
       ],
       "content": "Hyperscale Data plans to form a new subsidiary, Patriot BTC, to hold its Bitcoin mining operations as it develops its Michigan data center for AI workloads.\n\nUnder the proposal announced on September 22, the company would transfer its Montana data center, Bitcoin miners, mining equipment, and associated infrastructure to the subsidiary.\n\n“Bitcoin mining and AI data center development have different capital requirements, operating priorities and value drivers,” explained Milton 'Todd' Ault III, Hyperscale Data’s executive chairman.\n\nThe firm is evaluating ways to position Patriot BTC within a publicly traded entity, potentially through a separation or another transaction. At the time of the announcement, the subsidiary had not been formed and no transaction structure or separation had been approved. Any transaction would require board approval and compliance with applicable legal and regulatory requirements.\n\nThe proposed restructuring follows Hyperscale Data’s shutdown of Bitcoin mining at its Dowagiac, Michigan, facility on September 1, as it prepares the site for a California-based neocloud customer.\n\nIts Alliance Cloud Services subsidiary announced a master services agreement with the customer in June, covering an initial 20MW of critical AI compute capacity. The agreement has a ten-year term and two five-year extension options. Hyperscale Data expects revenue above $1.2bn if both term extensions are exercised.\n\nAccording to the company’s SEC filing, the customer also has a right of first offer for an additional 32MW of critical AI compute capacity, subject to availability.\n\nIn a September 17 update, Hyperscale Data said it was targeting the start of operations under the agreement in November 2026 and had invested more than $70m in Alliance Cloud Services and the Michigan facility.\n\nThe company reiterated on October 5 that the campus could ultimately support more than 300MW of total power capacity. Expansion beyond the initial 20MW remains subject to financing, utility agreements, engineering, regulatory approvals and other conditions.",
       "content_url": "https://www.datacenterdynamics.com/en/news/hyperscale-data-plans-patriot-btc-subsidiary-for-bitcoin-mining-business/"
+    },
+    {
+      "id": "2026-10-12-7eb696",
+      "title": "Warburg Pincus-backed developer to pay $300m for Melbourne data centre",
+      "summary": "A data center developer backed by Warburg Pincus has agreed to pay A$300 million for a data center asset in Melbourne, Australia. The acquisition adds to a wave of private equity-driven investment in Australian digital infrastructure as cloud and AI demand lifts values for powered land and operational facilities in major metros.",
+      "why_it_matters": "The A$300 million price tag sets a fresh valuation marker for Melbourne assets and confirms private equity's willingness to pay up for scarce capacity in Australia's secondary hub. Sellers of existing facilities now have a clear comparable, which could accelerate deal flow and raise entry costs for new entrants.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "capacity",
+        "colocation"
+      ],
+      "published_at": "2026-10-11T07:55:54Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/street-talk/warburg-pincus-backed-developer-to-pay-300m-for-melbourne-data-centre-20261011-p614jw",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Warburg Pincus"
+      ],
+      "title_zh": "Warburg Pincus支持的开发商将斥资3亿澳元收购墨尔本数据中心",
+      "summary_zh": "一家由 Warburg Pincus 支持的开发商已同意以 3 亿澳元收购位于澳大利亚墨尔本的一处 data center 资产。随着云和 AI 需求推高主要都市区带电土地及在运设施的估值，此次收购进一步壮大了私募股权在澳大利亚数字基础设施领域的投资浪潮。",
+      "why_zh": "3 亿澳元的成交价为墨尔本市场资产树立了新的估值基准，也确认私募股权愿意为澳大利亚次级枢纽城市的稀缺产能支付溢价。现有设施的卖家获得了明确的可比交易参考，可能加快成交节奏，同时抬高新进入者的入场成本。",
+      "content": "Forget Firmus – here’s a data centre deal with cold, hard cash behind it and developers ready to get cracking.\n\nPrinceton Digital, the Singapore-headquartered developer of massive data centre and cloud computing operations, appears set to land in Australia in a move backed by its major investors including Warburg Pincus.\n\nLoading...",
+      "content_url": "https://www.afr.com/street-talk/warburg-pincus-backed-developer-to-pay-300m-for-melbourne-data-centre-20261011-p614jw"
     },
     {
       "id": "2026-10-12-ec31d4",
@@ -419,6 +889,41 @@
       ],
       "content": "The Northern Virginia data center market in the United States currently has 611 facilities. This region is a significant hub for digital infrastructure within the Americas.Amazon AWS is a leading provider in this market, operating 159 sites. Digital Realty Trust also maintains a substantial presence with 38 facilities in the region.Among the most popular facilities are CoreSite: VA1 and NTT VA3. The market provides a benchmark for global data center development.\n\n- Market Insights & Analysis\n- 1 min Read\n\n# Northern Virginia data center market features 611 facilities\n\nThe Northern Virginia data center market, located in the state of Virginia, hosts 611 facilities. Amazon AWS operates 159 sites, establishing it as a top provider in the region.\n\n- Published On Oct 11, 2026 at 11:50 AM IST\n\n## Highlights\n\n- Northern Virginia market hosts 611 data center facilities in the US.\n- Amazon AWS is a top provider with 159 sites in Northern Virginia.\n- Digital Realty Trust operates 38 facilities in the same market.\n- CoreSite: VA1 and NTT VA3 are among the most popular facilities.\n\n## Comments\n\nWhat are your thoughts?",
       "content_url": "http://datacenters.economictimes.indiatimes.com/news/market-insights-analysis/northern-virginia-data-center-market-features-611-facilities/134866238"
+    },
+    {
+      "id": "2026-10-12-2341bb",
+      "title": "Nvidia weighs deeper ties with open-model developer Reflection AI through investment or computing deal",
+      "summary": "Reflection has also struck billion-dollar deals with SpaceX and cloud provider Nebius Group",
+      "why_it_matters": "",
+      "score": 62,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "chips",
+        "cloud"
+      ],
+      "published_at": "2026-10-11T04:38:53Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/global/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA",
+        "Reflection AI",
+        "SpaceX",
+        "Nebius Group"
+      ],
+      "title_zh": "NVIDIA考虑通过投资或算力交易加深与开源模型开发商Reflection AI的合作",
+      "content": "Reflection has also struck billion-dollar deals with SpaceX and cloud provider Nebius Group\n\nNVIDIA is in talks to boost its investment in Reflection AI or offer the US startup computing power, a move that would strengthen ties with a key developer of open-weight models, according to a person familiar with the matter.\n\nThe discussions are at an early stage, and no terms have been reached, said the person, who asked not to be identified because the matter is private. Nvidia did not immediately respond to a request for comment, while Reflection declined to comment.\n\nThe *Financial Times* previously reported on the talks, saying they could potentially lead to an acquisition offer. Possible deal structures include an “acqui-hire,” in which Nvidia would hire staff and license technology; an agreement to provide the startup with more chips; or an increase in Nvidia’s equity investment, the newspaper said.\n\nThe startup debuted its first open-weight model, Beam, earlier in October, pushing into a market where Chinese startups have a strong presence. With such software, developers release the model’s parameters, or weights, allowing others to freely use and modify the technology.\n\nBeam is designed to perform well for business customers and developers on coding and AI agent tasks while costing less than many competitors’ products, Reflection said on Monday (Oct 5). It said Beam scores comparably on advanced reasoning benchmarks to GLM-5.2, a flagship open model from China’s Z.AI.\n\nThe startup, which was founded by two former Google DeepMind researchers, has held talks to raise US$2.5 billion at a valuation of US$25 billion, the *Wall Street Journal* previously reported.\n\nReflection has also struck billion-dollar deals with Elon Musk’s SpaceX and cloud provider Nebius Group to secure computing power to develop its models.\n\nA Reflection tie-up would add to a frenzy of transactions by Nvidia in recent months. The chipmaker, which is the world’s most valuable company, has used its financial might to cultivate the broader AI industry.\n\nThe deals have included a US$13 billion agreement to buy AI model company Hugging Face in September and a roughly US$20 billion licensing pact with the chip startup Groq.\n\nNvidia chief executive officer Jensen Huang is also a major proponent of open-weight models.\n\nThe hope is that US development of the technology could curb startups’ use of Chinese open-weight models, which are much cheaper to use than ones from American companies like OpenAI and Anthropic, while not far behind in intelligence.\n\nThe US government is also encouraging the development of such models.\n\n“We need to ensure America has leading open models founded on American values,” reads US President Donald Trump’s July 2025 AI action plan. “Open-source and open-weight models could become global standards in some areas of business and in academic research worldwide.” BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/international/global/nvidia-weighs-deeper-ties-open-model-developer-reflection-ai-through-investment-or-computing-deal"
     },
     {
       "id": "2026-10-12-15f85b",
