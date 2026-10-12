@@ -5,159 +5,97 @@
     "start": "2026-10-05",
     "end": "2026-10-11"
   },
-  "generated_at": "2026-10-12T07:39:42Z",
+  "generated_at": "2026-10-12T14:38:47Z",
   "complete": true,
   "stats": {
-    "stories": 107,
+    "stories": 109,
     "sources": 15,
     "days": 7,
-    "read_minutes": 1
+    "read_minutes": 3
   },
-  "title": "Neocloud Firmus cancels IPO, blames market volatility",
-  "lede": "Australian neocloud operator Firmus has withdrawn its planned IPO, citing volatile market conditions as the reason for pulling the offering. The decision marks an abrupt reversal for the Nvidia-backed company, which had been positioning the listing as one of the year's marquee AI infrastructure floats. Blackstone has committed US$30 billion to develop AI data centers in Japan over the next three to five years, marking the largest single investment of its kind in the country. The move underscores Japan's emergence as a preferred destination for hyperscale AI infrastructure investment in Asia-Pacific. AirTrunk has closed a ¥191.6 billion (US$1.24 billion) green loan that refinances existing debt and funds the next development stages of its TOK1 hyperscale campus in eastern Tokyo. The financing reflects sustained lender appetite for energy-efficient data center assets as AI and cloud demand drives capacity growth in Japan's primary market.",
+  "title": "Firmus IPO collapse tests APAC boom",
+  "lede": "The week's dominant storyline was the collapse of Australian AI infrastructure operator Firmus's planned blockbuster IPO, shelved after investors balked at its valuation following reports of a missed rental payment and waning book demand. The episode rippled through associated stocks and raised pointed questions about underwriting standards in the AI buildout, even as lenders chased riskier exposure elsewhere in the region. Against that cautionary tale, Japan's buildout accelerated: Blackstone committed US$30 billion to Japanese AI data centers, AirTrunk closed a US$1.24 billion green loan for its Tokyo campus, and Digital Realty broke ground in Osaka. Singapore-based DayOne, by contrast, showed that public markets still have appetite, filing for a US listing at a potential US$20 billion valuation while exploring a bond offering. Elsewhere, SoftBank and Grab pushed into Sarawak, Singapore passed landmark digital infrastructure legislation, and analysts warned that Southeast Asia's boom remains exposed to US policy shifts, water constraints and insurance gaps.",
   "themes": [
     {
-      "heading": "Australia developments",
-      "narrative": "",
+      "heading": "Firmus IPO collapses under scrutiny",
+      "narrative": "Firmus's planned IPO, once set to anchor one of Australia's largest floats, unravelled within days as investors questioned the Nvidia-backed operator's valuation and fundamentals. Reports that the company missed its first rental payment and allocated half the offer to existing shareholders preceded the formal withdrawal, which cited market volatility. The fallout spread to contractor and investor Maas Group, whose shares fell and whose A$1.2 billion of AI-linked contracts are now in question.",
       "story_ids": [
-        "2026-10-09-fd586c",
-        "2026-10-08-e15b3d",
-        "2026-10-10-1f7803",
-        "2026-10-05-1525f7",
-        "2026-10-07-6fff97",
-        "2026-10-05-260f1a",
-        "2026-10-08-92f930",
         "2026-10-05-e879c7",
+        "2026-10-05-1525f7",
+        "2026-10-08-e15b3d",
+        "2026-10-08-92f930",
+        "2026-10-09-fd586c",
+        "2026-10-10-1f7803",
         "2026-10-09-b2ba83",
-        "2026-10-11-5545c8",
-        "2026-10-07-1525f7",
-        "2026-10-09-728b29",
-        "2026-10-09-fdd0b4",
-        "2026-10-10-1ba57c",
-        "2026-10-06-2f1158",
-        "2026-10-09-49056e",
-        "2026-10-06-d3ce01",
-        "2026-10-07-d3ce01",
-        "2026-10-06-74b433",
-        "2026-10-06-348cd1",
-        "2026-10-06-0e6988",
-        "2026-10-07-0e6988",
-        "2026-10-06-21d34d",
-        "2026-10-06-75e9ca",
-        "2026-10-10-128415",
-        "2026-10-06-e3cf5c",
-        "2026-10-12-7eb696"
-      ]
+        "2026-10-11-5545c8"
+      ],
+      "heading_zh": "Firmus IPO在审查压力下告吹",
+      "narrative_zh": "Firmus计划中的IPO一度被视为澳大利亚最大规模上市之一，但在短短数日内告吹，因为投资者对这家Nvidia支持的运营商的估值和基本面提出质疑。有报道称，该公司未支付首期租金，并将发行规模的一半分配给现有股东，随后公司正式撤回上市，理由是市场波动。风波波及承包商兼投资者Maas Group，其股价下跌，价值12亿澳元与AI相关的合同如今也面临不确定性。"
     },
     {
-      "heading": "Japan developments",
-      "narrative": "",
+      "heading": "Japan build-out gathers institutional momentum",
+      "narrative": "Japan consolidated its position as the region's preferred AI infrastructure destination with a wave of heavyweight commitments. Blackstone pledged US$30 billion to develop AI data centers over three to five years, the largest single investment of its kind in the country. AirTrunk closed a ¥191.6 billion green loan to refinance debt and expand its TOK1 campus in eastern Tokyo, Digital Realty began construction of KIX15 in Osaka, and Jera, Dell and Rhaelm teamed up on behind-the-meter AI infrastructure co-located with generation.",
       "story_ids": [
         "2026-10-07-48e2d3",
         "2026-10-08-1fc99f",
-        "2026-10-06-48e2d3",
         "2026-10-09-80234c",
-        "2026-10-10-80234c",
         "2026-10-09-910eba",
-        "2026-10-05-5e4094",
-        "2026-10-10-910eba",
-        "2026-10-10-35fc01",
-        "2026-10-06-0bd594",
-        "2026-10-08-7226b9",
-        "2026-10-09-03a440",
-        "2026-10-06-7595b7"
-      ]
+        "2026-10-05-5e4094"
+      ],
+      "heading_zh": "日本数据中心建设获机构资金持续加码",
+      "narrative_zh": "一系列重量级投资承诺巩固了日本作为该地区首选AI基础设施目的地的地位。Blackstone承诺投入300亿美元，在3至5年内开发AI数据中心，这是该国此类单笔投资中规模最大的一次。AirTrunk完成1,916亿日元绿色贷款，用于为债务再融资并扩建其位于东京东部的TOK1园区；Digital Realty在大阪启动KIX15的建设；Jera、Dell与Rhaelm则联手开发位于发电设施侧、与发电共址的AI基础设施。"
     },
     {
-      "heading": "Southeast Asia developments",
-      "narrative": "",
+      "heading": "Capital markets still open for operators",
+      "narrative": "Even as Firmus stumbled, other APAC operators found receptive capital markets. Singapore-based DayOne filed for a US IPO that could value it near US$20 billion and was separately in early talks for a US$500 million bond. In Australia, Dexus appointed banks to raise equity for its data centre platform, and a Warburg Pincus-backed developer agreed to pay A$300 million for a Melbourne asset, signalling that institutional demand for quality digital infrastructure remains intact.",
       "story_ids": [
         "2026-10-07-55012f",
+        "2026-10-09-62158d",
+        "2026-10-10-f9941c",
+        "2026-10-05-260f1a",
+        "2026-10-12-7eb696"
+      ],
+      "heading_zh": "资本市场仍对运营商敞开大门",
+      "narrative_zh": "即便Firmus遭遇挫折，亚太其他运营商仍获得了资本市场的积极响应。总部位于新加坡的DayOne申请赴美IPO，估值可能接近200亿美元，并另行就5亿美元债券进行了初步磋商。在澳大利亚，Dexus已委任银行为其数据中心平台募集股权，一家由Warburg Pincus支持的开发商同意以3亿澳元收购一项墨尔本资产，表明机构对优质数字基础设施的需求依然稳固。"
+    },
+    {
+      "heading": "China powers AI funding and remote buildout",
+      "narrative": "China's AI ambitions were underscored by DeepSeek's funding round of at least US$12 billion, backed by Tencent and positioning the model developer for a 2027 IPO. In parallel, construction of data centers in remote western and northern regions is accelerating at a pace that dwarfs previous programs, driven by national policy and AI compute demand and leaning on cheap land and renewable energy.",
+      "story_ids": [
+        "2026-10-07-cda6e2",
+        "2026-10-06-dc7989",
+        "2026-10-08-417edd"
+      ],
+      "heading_zh": "中国为AI funding与远程建设提供动力",
+      "narrative_zh": "DeepSeek完成一轮至少120亿美元的融资，由腾讯支持，为这家模型开发商2027年IPO铺平了道路，凸显了中国发展AI的雄心。与此同时，在中国西部和北部偏远地区，数据中心建设正在加速，其规模远超以往的项目，驱动力来自国家政策和AI算力需求，并依托廉价土地和可再生能源。"
+    },
+    {
+      "heading": "Southeast Asia boom strains under external risks",
+      "narrative": "Warnings multiplied that the region's data centre boom rests on fragile foundations. Jardine Matheson's chief cautioned that dependence on a handful of US technology giants leaves billions in planned investment exposed to Washington's shifting policies, while a research paper ranked Southeast Asia, Japan, South Korea and China as most exposed should the AI boom slow. Structural gaps are also emerging: a report flagged underinsurance across Apac's share of the US$7 trillion buildout, banks are underwriting riskier chip loans, and water headroom in Selangor could slow approvals from 2027.",
+      "story_ids": [
         "2026-10-09-f3a8bf",
         "2026-10-10-f3a8bf",
-        "2026-10-09-96d7fc",
+        "2026-10-07-04f7ba",
+        "2026-10-10-53c311",
+        "2026-10-10-b3ee6d",
         "2026-10-11-a38f85",
+        "2026-10-09-281170"
+      ],
+      "heading_zh": "东南亚建设热潮在外部风险下承压",
+      "narrative_zh": "越来越多的警告指出，该地区的数据中心热潮建立在脆弱的基础之上。Jardine Matheson的高管警告称，对少数美国科技巨头的依赖，使数十亿美元的计划投资暴露于华盛顿政策的变动之中；一篇研究论文将东南亚、日本、韩国和中国列为一旦AI热潮降温时受冲击最大的地区。结构性缺口也在显现：一份报告指出，在亚太所占的7万亿美元建设规模中普遍存在投保不足的问题；银行正在承做风险更高的芯片贷款；雪兰莪州的水资源余量可能从2027年起拖慢审批进度。"
+    },
+    {
+      "heading": "Malaysia draws new AI infrastructure alliances",
+      "narrative": "Malaysia continued to attract AI-linked investment, with SoftBank and Grab joining state energy firm PETROS in a framework agreement to explore an AI and digital infrastructure platform in Sarawak. Bitdeer AI signed an agreement covering 67MW of AI cloud capacity, and Unisem committed RM396 million to expand advanced packaging capacity in Perak, deepening the country's semiconductor supply chain role.",
+      "story_ids": [
         "2026-10-08-08f75e",
         "2026-10-09-f10ccf",
         "2026-10-10-f10ccf",
-        "2026-10-07-04f7ba",
-        "2026-10-09-62158d",
         "2026-10-09-a14243",
-        "2026-10-10-f9941c",
-        "2026-10-10-62158d",
-        "2026-10-10-96d7fc",
-        "2026-10-09-281170",
-        "2026-10-10-53c311",
-        "2026-10-07-1ced30",
-        "2026-10-06-55012f",
-        "2026-10-10-ef3001",
-        "2026-10-10-281170",
-        "2026-10-10-85c61b",
-        "2026-10-09-ef3001",
-        "2026-10-06-483a8c",
-        "2026-10-10-660091",
-        "2026-10-09-85c61b",
-        "2026-10-10-1be82d",
-        "2026-10-07-7024d8",
-        "2026-10-07-483a8c",
-        "2026-10-07-b509a9",
-        "2026-10-07-418d8b",
-        "2026-10-09-660091"
-      ]
-    },
-    {
-      "heading": "China developments",
-      "narrative": "",
-      "story_ids": [
-        "2026-10-07-cda6e2",
-        "2026-10-08-417edd",
-        "2026-10-06-dc7989",
-        "2026-10-06-80af13",
-        "2026-10-10-04ad77",
-        "2026-10-10-a85d20",
-        "2026-10-05-a93e75",
-        "2026-10-09-272d11",
-        "2026-10-09-a85d20"
-      ]
-    },
-    {
-      "heading": "Global developments",
-      "narrative": "",
-      "story_ids": [
-        "2026-10-06-04ce04",
-        "2026-10-10-b3ee6d",
-        "2026-10-10-27a5c7",
-        "2026-10-10-eb65f4",
-        "2026-10-06-054255",
-        "2026-10-07-0bd594",
-        "2026-10-09-9471a4",
-        "2026-10-10-40746d",
-        "2026-10-08-180065",
-        "2026-10-05-0eec90",
-        "2026-10-05-294927",
-        "2026-10-07-df12ea",
-        "2026-10-08-942b8a",
-        "2026-10-10-9471a4",
-        "2026-10-11-accddc",
-        "2026-10-10-36c7ab",
-        "2026-10-11-3e191f",
-        "2026-10-09-27a5c7",
-        "2026-10-12-fb92af",
-        "2026-10-12-8b0022",
-        "2026-10-12-15f85b",
-        "2026-10-12-ec31d4",
-        "2026-10-12-1505fa",
-        "2026-10-12-ea09dc"
-      ]
-    },
-    {
-      "heading": "Korea developments",
-      "narrative": "",
-      "story_ids": [
-        "2026-10-08-0000a2",
-        "2026-10-08-0ef688",
-        "2026-10-11-9ca530"
-      ]
+        "2026-10-10-ef3001"
+      ],
+      "heading_zh": "马来西亚吸引新的AI基础设施联盟",
+      "narrative_zh": "马来西亚继续吸引与AI相关的投资，SoftBank和Grab与国家能源企业PETROS签署框架协议，共同探索在砂拉越建设AI与数字基础设施平台。Bitdeer AI签署了一项涵盖67MW AI云容量的协议，Unisem则承诺投入3.96亿林吉特，扩建其位于霹雳州的先进封装产能，进一步巩固该国在半导体供应链中的地位。"
     }
   ],
   "project_milestones": [
@@ -209,5 +147,7 @@
       "change": "First tracked as under construction",
       "story_id": "2026-10-10-910eba"
     }
-  ]
+  ],
+  "title_zh": "Firmus IPO折戟考验亚太数据中心热潮",
+  "lede_zh": "本周最引人注目的新闻线是澳大利亚AI基础设施运营商Firmus原计划的大规模IPO宣告搁浅:有报道称该公司未按期支付租金、且预订需求转弱,投资者对其估值望而却步,最终导致IPO被搁置。该事件波及相关股票,并引发了对AI建设潮中承销标准的尖锐质疑,尽管与此同时,放贷机构仍在该地区其他领域追逐风险更高的敞口。与这则警示性事件形成对照的是,日本的AI基础设施建设明显加速:Blackstone承诺向日本AI数据中心投入300亿美元,AirTrunk为其东京园区完成了一笔12.4亿美元的绿色贷款,而Digital Realty则在大阪破土动工。相比之下,总部位于新加坡的DayOne表明公开市场仍有胃口,提交了赴美上市申请,潜在估值达200亿美元v"
 }
