@@ -1138,14 +1138,16 @@
       "phases": null,
       "anchor_tenants": [],
       "power": null,
-      "announced": null,
+      "announced": "2026-10",
       "construction_start": null,
       "rfs": "2026",
       "status_history": [],
-      "story_ids": [],
+      "story_ids": [
+        "2026-10-13-441be8"
+      ],
       "first_seen": "2026-08-14",
-      "last_updated": null,
-      "seed": true
+      "last_updated": "2026-10-13",
+      "seed": false
     },
     {
       "id": "softbank-sakai-ai-data-center-former-sharp-sakai-plant",
@@ -15968,8 +15970,8 @@
       "capacity_mw": 36,
       "status": "operational",
       "developer": null,
-      "investor": null,
-      "investment": null,
+      "investor": "CIMB, Credit Agricole CIB, DBS, Maybank, OCBC, Standard Chartered, UOB (lender consortium)",
+      "investment": "RM15 billion financing from seven lenders",
       "phases": null,
       "anchor_tenants": [],
       "power": null,
@@ -15983,10 +15985,12 @@
           "story_id": ""
         }
       ],
-      "story_ids": [],
+      "story_ids": [
+        "2026-10-13-d430b7"
+      ],
       "first_seen": "2026-08-17",
-      "last_updated": null,
-      "seed": true,
+      "last_updated": "2026-10-13",
+      "seed": false,
       "capacity_note": "total power per Baxtel",
       "source": "baxtel",
       "lat": 1.5626,
@@ -103264,7 +103268,50 @@
       "last_updated": "2026-10-09",
       "seed": false,
       "capacity_note": "AI cloud capacity under agreement"
+    },
+    {
+      "id": "ntt-data-osaka-data-center-anthropic",
+      "name": "NTT Data Osaka Data Center (Anthropic)",
+      "operator": "NTT Global Data Centers",
+      "region": "japan",
+      "country": "Japan",
+      "city": "Osaka",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": "¥1 trillion (US$6.3 billion) construction cost, plus further computing hardware investment",
+      "phases": null,
+      "anchor_tenants": [
+        "Anthropic"
+      ],
+      "power": null,
+      "announced": "2026-10",
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-10-13",
+          "story_id": "2026-10-13-dda738"
+        }
+      ],
+      "story_ids": [
+        "2026-10-13-dda738"
+      ],
+      "first_seen": "2026-10-13",
+      "last_updated": "2026-10-13",
+      "seed": false
     }
   ],
-  "updated_at": "2026-10-10T17:12:08Z"
+  "updated_at": "2026-10-13T08:02:34Z"
 }
