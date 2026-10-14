@@ -57,6 +57,24 @@ def rescore(path: Path) -> None:
 
     clusters = [story_as_cluster(s) for s in stories]
     process.llm_relevance(backend, clusters)
+
+    # Mirror process_items()'s filters: stories the LLM now judges
+    # irrelevant (heuristic leftovers from an LLM-down run) are dropped,
+    # not kept with a score of 0 and no topics.
+    def _dropped(c: dict) -> bool:
+        if not c.get("relevant"):
+            return True
+        return (c.get("regions") == ["global"]
+                and c.get("score") is not None and c["score"] < 50)
+
+    dropped_ids = {c["_story"]["id"] for c in clusters if _dropped(c)}
+    if dropped_ids:
+        stories = [s for s in stories if s["id"] not in dropped_ids]
+        data["stories"] = stories
+        log.info("%s: dropped %d stories now judged irrelevant",
+                 path.name, len(dropped_ids))
+    clusters = [c for c in clusters if c["_story"]["id"] not in dropped_ids]
+
     process.llm_enrich(backend, clusters)
 
     for cluster in clusters:

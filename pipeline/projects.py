@@ -336,14 +336,48 @@ def _name_match(a: str, b: str) -> bool:
     return jaccard >= 0.5 or ta <= tb or tb <= ta
 
 
+# Tokens that carry no locating power in a project name — a match resting
+# only on these ("SoftBank AI Data Center" vs "SoftBank Tomakomai AI Data
+# Center") must not tie two different cities together.
+_GENERIC_NAME_TOKENS = {
+    "data", "center", "centre", "dc", "ai", "campus", "project",
+    "hyperscale", "cloud", "facility", "site", "park",
+}
+
+
+def _distinctive_match(a: str, b: str, operator: str) -> bool:
+    """True only when the shared name tokens include something beyond the
+    operator name and generic words — i.e. a place or codename."""
+    shared = _name_tokens(a) & _name_tokens(b)
+    shared -= _GENERIC_NAME_TOKENS
+    shared -= _name_tokens(operator)
+    return bool(shared)
+
+
 def _candidates(projects: list[dict], update: dict) -> list[dict]:
-    """Same operator (canonical) AND (fuzzy name match OR same city+country)."""
+    """Same operator (canonical) AND (fuzzy name match OR same city+country).
+
+    Geography vetoes: a different country always rejects (a vague name like
+    "SoftBank AI Data Center" must not attach to the operator's campus in
+    another country); a different city rejects name-only matches that share
+    no distinctive token (place/codename)."""
     op = _canon(update.get("operator", ""))
+    up_country = _canon(canonical_country(update.get("country", "")))
+    up_city = _canon(update.get("city", ""))
     out = []
     for p in projects:
         if op and _canon(p.get("operator", "")) != op:
             continue
+        p_country = _canon(canonical_country(p.get("country", "")))
+        if up_country and p_country and up_country != p_country:
+            continue
         if _name_match(p.get("name", ""), update.get("name", "")):
+            p_city = _canon(p.get("city", ""))
+            if (up_city and p_city and up_city != p_city
+                    and not _distinctive_match(p.get("name", ""),
+                                               update.get("name", ""),
+                                               update.get("operator", ""))):
+                continue
             out.append(p)
             continue
         if (update.get("city") and update.get("country")

@@ -1129,25 +1129,23 @@
       "region": "japan",
       "country": "Japan",
       "city": "Tomakomai",
-      "capacity_mw": 150,
-      "capacity_note": "initial planned phase",
+      "capacity_mw": 300,
+      "capacity_note": "Phase 1: 50MW (2026); site scales to 300MW+",
       "status": "under_construction",
-      "developer": null,
+      "developer": "SoftBank / IDC Frontier",
       "investor": null,
-      "investment": null,
+      "investment": "US$455.8M (phase 1); up to half covered by METI subsidies",
       "phases": null,
       "anchor_tenants": [],
       "power": null,
-      "announced": "2026-10",
-      "construction_start": null,
+      "announced": "2023-11",
+      "construction_start": "2025-04",
       "rfs": "2026",
       "status_history": [],
-      "story_ids": [
-        "2026-10-13-441be8"
-      ],
+      "story_ids": [],
       "first_seen": "2026-08-14",
-      "last_updated": "2026-10-13",
-      "seed": false
+      "last_updated": null,
+      "seed": true
     },
     {
       "id": "softbank-sakai-ai-data-center-former-sharp-sakai-plant",
@@ -103307,6 +103305,47 @@
       ],
       "story_ids": [
         "2026-10-13-dda738"
+      ],
+      "first_seen": "2026-10-13",
+      "last_updated": "2026-10-13",
+      "seed": false
+    },
+    {
+      "id": "softbank-sarawak-borneo-ai-data-center",
+      "name": "SoftBank–Grab–Petros Sarawak AI Data Center (proposed)",
+      "operator": "SoftBank",
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "city": "Sarawak",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": "2026-10",
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": "Framework agreement between SoftBank, Grab and Petroleum Sarawak (Petros) to explore an AI and digital infrastructure platform in Sarawak, Borneo; no capacity or timeline disclosed.",
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-10-13",
+          "story_id": "2026-10-13-441be8"
+        }
+      ],
+      "story_ids": [
+        "2026-10-13-441be8"
       ],
       "first_seen": "2026-10-13",
       "last_updated": "2026-10-13",
