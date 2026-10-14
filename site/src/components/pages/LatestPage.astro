@@ -92,6 +92,9 @@ const storyWord = (n: number) =>
     <button class="tab saved-toggle" type="button" aria-pressed="false">
       <Icon name="bookmark" size={13} /> {zh ? '只看收藏' : 'Saved only'}
     </button>
+    <button class="tab featured-toggle" type="button" aria-pressed="false">
+      <Icon name="star" size={13} /> {zh ? '只看精选' : 'Featured only'}
+    </button>
     {railSources.length > 0 && (
       <details class="sources-menu">
         <summary>
@@ -128,7 +131,7 @@ const storyWord = (n: number) =>
     <p class="panel-note">{zh ? '按来源数量排序，其次按 AI 相关性评分' : 'Ranked by source count, then AI relevance score'}</p>
     <ol class="hot-list">
       {hotStories.map((story, i) => (
-        <li class="hot-item" data-id={story.id} data-regions={story.regions.join(' ')} data-search={searchText(story.title, story.title_zh, story.summary, story.summary_zh, (story.companies ?? []).join(' '))}>
+        <li class="hot-item" data-id={story.id} data-regions={story.regions.join(' ')} data-featured={story.featured ? '1' : ''} data-search={searchText(story.title, story.title_zh, story.summary, story.summary_zh, (story.companies ?? []).join(' '))}>
           <span class="hot-rank" class:list={[{ 'is-top': i < 3 }]}>{i + 1}</span>
           <a class="hot-title" href={`${base}${prefix}/news/${story.id}/`}>{zh && story.title_zh ? story.title_zh : story.title}</a>
           {story.companies && story.companies.length > 0 && (
@@ -198,7 +201,9 @@ const storyWord = (n: number) =>
   let activeRegion = 'all';
   let query = '';
   let savedOnly = false;
+  let featuredOnly = false;
   const savedToggle = document.querySelector<HTMLButtonElement>('.saved-toggle');
+  const featuredToggle = document.querySelector<HTMLButtonElement>('.featured-toggle');
 
   // Original day-group sub-lines ("Wednesday · 29 stories") for restore.
   const daySubs = dayGroups.map((g) => {
@@ -215,6 +220,7 @@ const storyWord = (n: number) =>
     if (activeRegion !== 'all') p.set('region', activeRegion);
     if (query) p.set('q', query);
     if (savedOnly) p.set('saved', '1');
+    if (featuredOnly) p.set('featured', '1');
     const qs = p.toString();
     history.replaceState(null, '', location.pathname + (qs ? `?${qs}` : ''));
   }
@@ -238,6 +244,11 @@ const storyWord = (n: number) =>
       savedToggle.classList.add('is-active');
       savedToggle.setAttribute('aria-pressed', 'true');
     }
+    if (params.get('featured') === '1' && featuredToggle) {
+      featuredOnly = true;
+      featuredToggle.classList.add('is-active');
+      featuredToggle.setAttribute('aria-pressed', 'true');
+    }
   }
 
   function favNewsIds(): Set<string> {
@@ -256,12 +267,13 @@ const storyWord = (n: number) =>
         activeRegion === 'all' || (el.dataset.regions ?? '').split(' ').includes(activeRegion);
       const queryOk = query === '' || (el.dataset.search ?? '').includes(query);
       const favOk = !favs || favs.has(el.dataset.id ?? '');
-      el.classList.toggle('is-hidden', !(regionOk && queryOk && favOk));
+      const featOk = !featuredOnly || el.dataset.featured === '1';
+      el.classList.toggle('is-hidden', !(regionOk && queryOk && favOk && featOk));
     });
     // Hide day groups / trending panel when nothing inside is visible.
     // While a filter is active, auto-open collapsed days that have matches;
     // when cleared, restore the default state (latest day open, rest closed).
-    const filtering = activeRegion !== 'all' || query !== '' || savedOnly;
+    const filtering = activeRegion !== 'all' || query !== '' || savedOnly || featuredOnly;
     dayGroups.forEach((group, i) => {
       const visible = group.querySelectorAll('.story-row:not(.is-hidden)').length;
       group.classList.toggle('is-hidden', visible === 0);
@@ -317,6 +329,13 @@ const storyWord = (n: number) =>
     applyFilters();
   });
 
+  featuredToggle?.addEventListener('click', () => {
+    featuredOnly = !featuredOnly;
+    featuredToggle.classList.toggle('is-active', featuredOnly);
+    featuredToggle.setAttribute('aria-pressed', String(featuredOnly));
+    applyFilters();
+  });
+
   document.addEventListener('dcfav:change', () => {
     if (savedOnly) applyFilters();
   });
@@ -336,7 +355,7 @@ const storyWord = (n: number) =>
   });
 
   // Restore filters coming in via URL on first paint.
-  if (activeRegion !== 'all' || query !== '' || savedOnly) applyFilters();
+  if (activeRegion !== 'all' || query !== '' || savedOnly || featuredOnly) applyFilters();
 
   // "Sources today" popover: close on Esc / click outside.
   const sourcesMenu = document.querySelector<HTMLDetailsElement>('details.sources-menu');
