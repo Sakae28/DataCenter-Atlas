@@ -10,40 +10,6 @@
   ],
   "stories": [
     {
-      "id": "2026-10-14-acfd82",
-      "title": "Singapore’s Princeton Digital Group seeks US$1.2 bil loan for Malaysia data centre — Bloomberg",
-      "summary": "Asian data centre operator Princeton Digital Group Ltd is seeking a syndicated loan of up to US$1.2 billion (RM4.9 billion) to fund its Malaysia buildout, according to a person familiar with the matter, as the debt binge to finance artificial intelligence (AI) infrastructure continues.",
-      "why_it_matters": "PDG's borrowing push shows the Malaysia land grab is shifting from equity-funded announcements to leveraged execution, raising the stakes on project delivery timelines. Bankers and rival operators should read this as evidence that syndicated debt markets — not just private capital — are becoming the primary funding channel for the region's AI capacity race.",
-      "score": 88,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "investment",
-        "financing",
-        "capacity",
-        "ai"
-      ],
-      "published_at": "2026-10-14T05:18:16Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/821794",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Princeton Digital Group"
-      ],
-      "content": "(Oct 14): Asian data centre operator Princeton Digital Group Ltd is seeking a syndicated loan of up to US$1.2 billion (RM4.9 billion) to fund its Malaysia buildout, according to a person familiar with the matter, as the debt binge to finance artificial intelligence (AI) infrastructure continues.\n\nHSBC Holdings plc Singapore branch, Maybank Investment Bank Bhd, OCBC Bank (Malaysia) Bhd, Standard Chartered Bank (Singapore) Ltd, and United Overseas Bank Ltd are the mandated lead arrangers and bookrunners for the three-year loan deal, said the person, asking not to be identified discussing private information.\n\nProceeds from the loan to be taken by the company’s subsidiary, Princeton Digital Group Labuan Alpha Ltd, will be used to fund a 198.8-megawatt data centre campus project in Johor, Malaysia, and to refinance existing debt, the person said.\n\nStandard Chartered declined to comment. Representatives for Princeton Digital Group, HSBC, Maybank, OCBC Malaysia and UOB didn’t immediately respond to requests for comment.\n\nData centre companies across the world have been taking on debt as they seek to raise capital to meet growing AI demand. Moody’s Ratings expects at least US$3 trillion to flow into data centre-related investments over the next five years, with much of the spending financed through debt.\n\nBut there are signs global investors are starting to push back against what they see are frothy AI valuations as evidenced by the collapse of Nvidia Corp-backed data centre operator Firmus Grid Ltd’s initial public offering last week.\n\nData centre firm AirTrunk, which counts Blackstone Inc as a key investor, was reported to delay its planned IPO of a real estate investment trust in Singapore until next year as higher interest rates and market volatility temper investor demand.\n\nHeadquartered in Singapore, Princeton Digital’s top shareholder is Warburg Pincus and other investors include Stonepeak Partners, Abu Dhabi sovereign fund Mubadala Investment Co and Ontario Teachers’ Pension Plan Board.\n\nThe firm, founded in 2018, operates more than 1.8 gigawatts of data centre capacity across Asia including China, Japan, South Korea, India, Singapore, Malaysia and Indonesia, according to its website.\n\nPDG has been on a borrowing spree as it seeks to expand across Asia. In May, the firm said it raised around US$856 million for its data centre buildout in Indonesia. Earlier in the year, the company said it was targeting to raise US$5 billion in debt to support regional expansion plans.\n\n*Uploaded by Chng Shear Lane*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/821794",
-      "title_zh": "新加坡Princeton Digital Group为马来西亚数据中心寻求12亿美元贷款——Bloomberg",
-      "summary_zh": "据知情人士透露，亚洲数据中心运营商 Princeton Digital Group Ltd 正寻求一笔高达12亿美元（49亿林吉特）的银团贷款，用于其在马来西亚的扩建，为人工智能（AI）基础设施融资的举债热潮仍在持续。",
-      "why_zh": "PDG的举债推进表明，马来西亚的土地争夺正从股权融资的公告阶段转向加杠杆的执行阶段，项目交付时间表的赌注随之抬高。银行家和竞争对手运营商应将此解读为：银团贷款市场——而不仅仅是私人资本——正在成为该地区AI算力竞赛的主要资金渠道。"
-    },
-    {
       "id": "2026-10-14-8f0183",
       "title": "CMC and Lotte Innovate partner to develop digital infrastructure in Vietnam",
       "summary": "CMC, the second-largest technology corporation in Vietnam, has entered into a Memorandum of Understanding (MoU) with Lotte Innovate, a South Korean ICT and digital transformation service provider, to develop a variety of digital infrastructure including cloud and data center projects. In a press release, CMC revealed that the agreement identifies five priority areas of cooperation: […]",
@@ -109,6 +75,41 @@
       "title_zh": "Bitdeer在马来西亚新增127MW容量，AI cloud扩张步伐加快",
       "summary_zh": "总部位于新加坡的 AI 新型云（neocloud）服务提供商 Bitdeer AI 近期在马来西亚获得了合计127MW的数据中心容量，其全球布局距离2028年初达到最高350MW的目标已完成约95%。目前其在马来西亚、挪威和美国的合计总容量已达到约333.5MW，[…]",
       "why_zh": "Bitdeer的扩张速度说明，从加密货币挖矿领域剥离出来的neocloud服务商，正把其电力采购能力比许多专门打造的竞争对手更快地转化为AI算力。马来西亚成为这一增长的核心，加剧了与已蜂拥进入柔佛的hyperscale开发商之间对电力和场地的竞争。"
+    },
+    {
+      "id": "2026-10-14-acfd82",
+      "title": "Singapore’s Princeton Digital Group seeks US$1.2 bil loan for Malaysia data centre — Bloomberg",
+      "summary": "Asian data centre operator Princeton Digital Group Ltd is seeking a syndicated loan of up to US$1.2 billion (RM4.9 billion) to fund its Malaysia buildout, according to a person familiar with the matter, as the debt binge to finance artificial intelligence (AI) infrastructure continues.",
+      "why_it_matters": "PDG's borrowing push shows the Malaysia land grab is shifting from equity-funded announcements to leveraged execution, raising the stakes on project delivery timelines. Bankers and rival operators should read this as evidence that syndicated debt markets — not just private capital — are becoming the primary funding channel for the region's AI capacity race.",
+      "score": 88,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "financing",
+        "capacity",
+        "ai"
+      ],
+      "published_at": "2026-10-14T05:18:16Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/821794",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Princeton Digital Group"
+      ],
+      "content": "(Oct 14): Asian data centre operator Princeton Digital Group Ltd is seeking a syndicated loan of up to US$1.2 billion (RM4.9 billion) to fund its Malaysia buildout, according to a person familiar with the matter, as the debt binge to finance artificial intelligence (AI) infrastructure continues.\n\nHSBC Holdings plc Singapore branch, Maybank Investment Bank Bhd, OCBC Bank (Malaysia) Bhd, Standard Chartered Bank (Singapore) Ltd, and United Overseas Bank Ltd are the mandated lead arrangers and bookrunners for the three-year loan deal, said the person, asking not to be identified discussing private information.\n\nProceeds from the loan to be taken by the company’s subsidiary, Princeton Digital Group Labuan Alpha Ltd, will be used to fund a 198.8-megawatt data centre campus project in Johor, Malaysia, and to refinance existing debt, the person said.\n\nStandard Chartered declined to comment. Representatives for Princeton Digital Group, HSBC, Maybank, OCBC Malaysia and UOB didn’t immediately respond to requests for comment.\n\nData centre companies across the world have been taking on debt as they seek to raise capital to meet growing AI demand. Moody’s Ratings expects at least US$3 trillion to flow into data centre-related investments over the next five years, with much of the spending financed through debt.\n\nBut there are signs global investors are starting to push back against what they see are frothy AI valuations as evidenced by the collapse of Nvidia Corp-backed data centre operator Firmus Grid Ltd’s initial public offering last week.\n\nData centre firm AirTrunk, which counts Blackstone Inc as a key investor, was reported to delay its planned IPO of a real estate investment trust in Singapore until next year as higher interest rates and market volatility temper investor demand.\n\nHeadquartered in Singapore, Princeton Digital’s top shareholder is Warburg Pincus and other investors include Stonepeak Partners, Abu Dhabi sovereign fund Mubadala Investment Co and Ontario Teachers’ Pension Plan Board.\n\nThe firm, founded in 2018, operates more than 1.8 gigawatts of data centre capacity across Asia including China, Japan, South Korea, India, Singapore, Malaysia and Indonesia, according to its website.\n\nPDG has been on a borrowing spree as it seeks to expand across Asia. In May, the firm said it raised around US$856 million for its data centre buildout in Indonesia. Earlier in the year, the company said it was targeting to raise US$5 billion in debt to support regional expansion plans.\n\n*Uploaded by Chng Shear Lane*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/821794",
+      "title_zh": "新加坡Princeton Digital Group为马来西亚数据中心寻求12亿美元贷款——Bloomberg",
+      "summary_zh": "据知情人士透露，亚洲数据中心运营商 Princeton Digital Group Ltd 正寻求一笔高达12亿美元（49亿林吉特）的银团贷款，用于其在马来西亚的扩建，为人工智能（AI）基础设施融资的举债热潮仍在持续。",
+      "why_zh": "PDG的举债推进表明，马来西亚的土地争夺正从股权融资的公告阶段转向加杠杆的执行阶段，项目交付时间表的赌注随之抬高。银行家和竞争对手运营商应将此解读为：银团贷款市场——而不仅仅是私人资本——正在成为该地区AI算力竞赛的主要资金渠道。",
+      "published_precision": "day"
     },
     {
       "id": "2026-10-14-ad7ee1",
