@@ -5,33 +5,10 @@
     "2026-10-16-f9081e",
     "2026-10-16-5ccb07",
     "2026-10-16-8ddc09",
-    "2026-10-16-7fbf1c",
-    "2026-10-16-b9c81e"
+    "2026-10-16-b9c81e",
+    "2026-10-16-f7830f"
   ],
   "stories": [
-    {
-      "id": "2026-10-16-7fbf1c",
-      "title": "Di Pilla’s landed a big fish for DigiCo’s Sydney data centre campus",
-      "summary": "Big data centre contracts are often shrouded in mystery, with the world’s biggest artificial intelligence developers and hyperscalers loath to help rivals by making this information easy to come by.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [],
-      "published_at": "2026-10-16T00:57:24Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/street-talk/di-pilla-s-landed-a-big-fish-for-digico-s-sydney-data-centre-campus-20261016-p6164i",
-          "type": "html-list"
-        }
-      ],
-      "content": "Big data centre contracts are often shrouded in mystery, with the world’s biggest artificial intelligence developers and hyperscalers loath to help rivals by making this information easy to come by.\n\nIt was a familiar story at DigiCo this week, when the HMC Capital-backed data centre play announced it had signed a significant 15-year contract for its SYD1 facility.\n\nLoading...",
-      "content_url": "https://www.afr.com/street-talk/di-pilla-s-landed-a-big-fish-for-digico-s-sydney-data-centre-campus-20261016-p6164i"
-    },
     {
       "id": "2026-10-16-b9c81e",
       "title": "Colt DCS and RMZ commence construction on third Mumbai data center",
@@ -244,6 +221,30 @@
       ],
       "content": "NITI Aayog has released a framework to help states evaluate data center projects based on infrastructure availability, resource needs, and economic benefits. The \"Data Centre Evaluation Framework to Help States Plan for Sustainable Growth\" calls on states to assess electricity, water, land, and supporting infrastructure. It aims to support informed decision-making by states.The government's think tank proposed five pillars for project evaluation. These include power and energy, water and cooling, site selection and environmental sustainability, economic and strategic value, and policy and implementation.States must assess if their electricity grids can meet data center demand, accounting for future expansion and needed upgrades. The report also asks states to evaluate long-term water availability, considering existing users like households and farmers. It recommends preparing a 20-30 year seasonal catchment water balance covering surface and groundwater.The framework suggests designating data-center-ready zones. This involves verifying land title, permitted use, zoning, and expansion headroom. It prioritises renewable-energy-rich zones with available connectivity and pre-assessed grid and water readiness.States are also urged to assess the net economic contribution of projects against public support offered to developers. This includes incentives for land, infrastructure, and electricity. The framework encourages linking incentives to measurable outcomes such as project commissioning, renewable energy use, and local procurement. It also calls for a time-bound digital single-window mechanism for project approvals. States should publish an approval matrix listing required clearances, authorities, processing times, and fees.\n\n- Policy, Land & Power\n- 1 min Read\n\n# NITI Aayog frames data center assessment for states\n\nNITI Aayog released a framework for states to assess data center projects, aiming to ensure sustainable growth. The framework evaluates resource needs such as electricity, water, and land.\n\n- Published On Oct 16, 2026 at 08:10 AM IST\n\n## Highlights\n\n- NITI Aayog released a framework for states to assess data center projects.\n- Framework evaluates electricity, water, land, and infrastructure needs for sustainable growth.\n- Five pillars include power, water, site selection, economic value, and policy.\n- States must verify resource availability and link incentives to measurable outcomes.\n\n## Comments\n\nWhat are your thoughts?",
       "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/niti-aayog-frames-data-center-assessment-for-states/134980797"
+    },
+    {
+      "id": "2026-10-16-7fbf1c",
+      "title": "Di Pilla’s landed a big fish for DigiCo’s Sydney data centre campus",
+      "summary": "Big data centre contracts are often shrouded in mystery, with the world’s biggest artificial intelligence developers and hyperscalers loath to help rivals by making this information easy to come by.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T00:57:24Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/street-talk/di-pilla-s-landed-a-big-fish-for-digico-s-sydney-data-centre-campus-20261016-p6164i",
+          "type": "html-list"
+        }
+      ],
+      "content": "Big data centre contracts are often shrouded in mystery, with the world’s biggest artificial intelligence developers and hyperscalers loath to help rivals by making this information easy to come by.\n\nIt was a familiar story at DigiCo this week, when the HMC Capital-backed data centre play announced it had signed a significant 15-year contract for its SYD1 facility.\n\nLoading...",
+      "content_url": "https://www.afr.com/street-talk/di-pilla-s-landed-a-big-fish-for-digico-s-sydney-data-centre-campus-20261016-p6164i",
+      "published_precision": "day"
     },
     {
       "id": "2026-10-16-d7aca1",
@@ -660,29 +661,6 @@
       "content_url": "https://www.afr.com/markets/debt-markets/coreweave-chief-says-failed-firmus-float-bleeding-into-the-narrative-20261015-p615pg"
     },
     {
-      "id": "2026-10-16-246f5f",
-      "title": "Data centre investors must bear necessary grid upgrade costs, says Johari Ghani",
-      "summary": "Malaysia wants data centre investors to bear the cost of transmission upgrades required by their projects rather than pass the investment to the local players.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [],
-      "published_at": "2026-10-15T06:40:50Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/821960",
-          "type": "html-list"
-        }
-      ],
-      "content": "KUALA LUMPUR (Oct 15): Malaysia wants data centre investors to bear the cost of transmission upgrades required by their projects rather than pass the investment to the local players.\n\nThe infrastructure costs should form part of investors’ project expenditure, with Tenaga Nasional Bhd (KL:TENAGA) advising on the upgrades needed, Minister of Investment, Trade and Industry Datuk Seri Johari Abdul Ghani told the Dewan Rakyat during question time on Thursday.\n\n“This is our strategy to ensure that economic activities that existed before the arrival of data centres are not adversely affected,” he said.\n\nJohari was responding to Ampang MP Rodziah Ismail (PH-PKR), who asked how the government measures data centres’ net economic contribution after accounting for their use of electricity, water, land and infrastructure, as well as incentives and the opportunity cost of national resources.\n\nA wave of energy-intensive data centres has been surging across Malaysia amid a global boom in artificial intelligence. Tenaga Nasional, the country’s national electric utility firm, is now supplying power to 36 data centres with dozens more in the pipeline.\n\nJohari also said data centre operators would be charged for electricity capacity committed to them even if they did not fully use it, to prevent capacity being tied up without compensation. He cited an operator securing 200 megawatts but using only half of the capacity once its facility was ready.\n\n“The other 100MW that you do not use, we assume you have used it,” he said. “We charge you. That is our policy now.” Tenaga Nasional could not freely reallocate the unused capacity because it remained committed to meeting the operator’s future requirements, Johari explained.\n\nAll electricity requirements for data centres should also be treated separately from those of households and other industries, without subsidies, and where generation relies on gas, its market price should be reflected in the cost of supplying the data centre, Johari said.\n\nThe aim is to protect the reserve capacity needed for other economic activities, he noted.\n\nFurther, the government now wants data centre investments to generate more opportunities for Malaysian suppliers, engineers, technicians and universities.\n\nA task force on data centres had agreed on a minimum 30% local content level, with greater domestic participation in construction, engineering services, cooling systems and electrical equipment.\n\nJohari also called for Malaysian companies and universities to have access to data centres’ computing capacity for research and development, rather than allowing their benefits to accrue primarily to overseas customers.\n\n“We want our people to be able to access the technology,” he said, adding that collaboration with universities could help Malaysia develop its own capabilities over time.\n\n*For more Parliament stories, click here.*\n\nEdited ByJason Ng\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/821960"
-    },
-    {
       "id": "2026-10-16-cca39d",
       "title": "Malaysia approves 27 data center projects worth US$55.4 billion",
       "summary": "Malaysia has approved 27 data center projects with an estimated investment of US$55.4 billion as of July 2026, the Digital Ministry informed Parliament. Most of these projects are still under construction, with one already operational.",
@@ -873,6 +851,29 @@
       ],
       "content": "Thu, 15th Oct 2026 (Yesterday)\nDayOne has increased its Malaysia financing to about USD $7.2 billion and said its billings have passed 1GW. The funding will support its data centre platform in Johor.\n\nThe Singapore-headquartered group said the enlarged senior secured multi-currency syndicated term financing was arranged by a seven-lender consortium. It follows roughly USD $3.5 billion of syndicated financing secured in May 2025 for the same Johor platform.\n\nAlongside the financing update, DayOne said bookings reached about 2.3GW, up from 1.25GW at the end of 2025. It also reported 1.1GW of reservations from customers under legally binding contracts.\n\nDayOne defines billings as income-generating IT power capacity under long-term customer contracts that remain in effect. On that basis, billed capacity has risen more than eightfold in less than two years, from 121MW at the end of 2024 to more than 1GW.\n\n### Johor expansion\n\nThe financing marks another major commitment to Johor, which has become one of Southeast Asia's main locations for data centre development. Operators have been drawn to the Malaysian state by available land, proximity to Singapore, and rising demand from cloud and artificial intelligence workloads.\n\nDayOne said it has raised more than USD $6 billion in equity since 2024 through several funding rounds. It also has project financing support from more than 30 local and international banking partners.\n\nThe company operates across 10 markets in Asia Pacific and Europe, including Singapore, several locations in Malaysia, Indonesia, Thailand, Japan, Hong Kong, Finland, and Spain.\n\nIts total resources, which include in-service capacity, capacity under construction, and secured powered land, stood at 4.6GW, compared with 2GW at the end of 2025.\n\n### Customer base\n\nGrowth in bookings has also come with a broader customer roster. Bookings came from 15 customers, compared with nine at the end of 2024.\n\nFour of its five largest customers are present with the company in more than one market. It also said three hyperscale customers each have multi-market deployments of around or above 200MW.\n\nDayOne recently secured additional orders from an existing US hyperscale customer. It did not name the customer or disclose the value of the latest order.\n\nData centre operators and investors have been racing to secure power, land, and financing as demand rises for facilities built to support AI training and cloud services. In that environment, contracted power capacity has become a closely watched indicator because it reflects both customer demand and an operator's ability to bring new sites into service.\n\nJohor has benefited from that trend as developers expand beyond Singapore, where land and power constraints have shaped growth. For operators with campuses on both sides of the border, the area offers a way to serve regional demand while staying close to Singapore's connectivity and customer base.\n\nJamie Khoo, Chief Executive Officer of DayOne, said: \"The confidence our banking partners and customers have placed in DayOne is reflected in these milestones and underpins our continued growth. Together, their support has enabled us to unlock strategic capacity for the next generation of AI and cloud infrastructure. Our focus remains on earning that trust through responsible execution and bringing capacity online at speed and scale in the markets our customers need.\"\n\nKhoo also set out the company's view on its expansion into new regions.\n\n\"By pioneering and scaling new markets, this conviction has shaped DayOne since inception, and it continues to guide how we grow,\" Khoo said. \"From Singapore, where DayOne was founded, we are driving the delivery of high-specification facilities across Asia Pacific and Europe.\"",
       "content_url": "https://datacenternews.asia/story/dayone-lifts-malaysia-financing-to-usd-7-2-billion"
+    },
+    {
+      "id": "2026-10-16-246f5f",
+      "title": "Data centre investors must bear necessary grid upgrade costs, says Johari Ghani",
+      "summary": "Malaysia wants data centre investors to bear the cost of transmission upgrades required by their projects rather than pass the investment to the local players.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-10-15T06:40:50Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/821960",
+          "type": "html-list"
+        }
+      ],
+      "content": "KUALA LUMPUR (Oct 15): Malaysia wants data centre investors to bear the cost of transmission upgrades required by their projects rather than pass the investment to the local players.\n\nThe infrastructure costs should form part of investors’ project expenditure, with Tenaga Nasional Bhd (KL:TENAGA) advising on the upgrades needed, Minister of Investment, Trade and Industry Datuk Seri Johari Abdul Ghani told the Dewan Rakyat during question time on Thursday.\n\n“This is our strategy to ensure that economic activities that existed before the arrival of data centres are not adversely affected,” he said.\n\nJohari was responding to Ampang MP Rodziah Ismail (PH-PKR), who asked how the government measures data centres’ net economic contribution after accounting for their use of electricity, water, land and infrastructure, as well as incentives and the opportunity cost of national resources.\n\nA wave of energy-intensive data centres has been surging across Malaysia amid a global boom in artificial intelligence. Tenaga Nasional, the country’s national electric utility firm, is now supplying power to 36 data centres with dozens more in the pipeline.\n\nJohari also said data centre operators would be charged for electricity capacity committed to them even if they did not fully use it, to prevent capacity being tied up without compensation. He cited an operator securing 200 megawatts but using only half of the capacity once its facility was ready.\n\n“The other 100MW that you do not use, we assume you have used it,” he said. “We charge you. That is our policy now.” Tenaga Nasional could not freely reallocate the unused capacity because it remained committed to meeting the operator’s future requirements, Johari explained.\n\nAll electricity requirements for data centres should also be treated separately from those of households and other industries, without subsidies, and where generation relies on gas, its market price should be reflected in the cost of supplying the data centre, Johari said.\n\nThe aim is to protect the reserve capacity needed for other economic activities, he noted.\n\nFurther, the government now wants data centre investments to generate more opportunities for Malaysian suppliers, engineers, technicians and universities.\n\nA task force on data centres had agreed on a minimum 30% local content level, with greater domestic participation in construction, engineering services, cooling systems and electrical equipment.\n\nJohari also called for Malaysian companies and universities to have access to data centres’ computing capacity for research and development, rather than allowing their benefits to accrue primarily to overseas customers.\n\n“We want our people to be able to access the technology,” he said, adding that collaboration with universities could help Malaysia develop its own capabilities over time.\n\n*For more Parliament stories, click here.*\n\nEdited ByJason Ng\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/821960"
     }
   ]
 }

@@ -1,0 +1,772 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T05:41:34Z",
+  "hot": [
+    "2026-10-17-365e22",
+    "2026-10-17-d4f14c",
+    "2026-10-17-869a8f",
+    "2026-10-17-70ec99",
+    "2026-10-17-740bf8"
+  ],
+  "stories": [
+    {
+      "id": "2026-10-17-d4f14c",
+      "title": "Policy may weigh data center workloads by societal value",
+      "summary": "Policymakers may begin evaluating the societal value of data center workloads to justify their power consumption. This shift could influence future data center policy and approval processes, moving beyond the current focus on physical footprint.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-17T05:05:24Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/policy-may-weigh-data-center-workloads-by-societal-value/135007715",
+          "type": "rss"
+        }
+      ],
+      "content": "Data centers are facing increasing scrutiny and regulation regarding their energy and resource usage.This pressure is leading to questions about the societal value of services data centers provide, particularly with the growth of AI-driven facilities. Discussions at Informa’s Data Center Europe event in Vienna, held from October 13-15, indicated that this distinction may become harder to maintain over time.Current scrutiny largely focuses on the physical footprint of data centers, including power demand, water use, land consumption, and grid impact. However, the debate is evolving to consider the digital services running inside these facilities.Sandvine’s 2024 Global Internet Phenomena Report shows that video streaming, social media, and related applications account for about 65 per cent of total internet volume. Goldman Sachs projects AI’s share of the overall data center market will double to 30 per cent over the next two years.AWS CEO Matt Garman highlighted that data centers enable essential services from banking to healthcare. Environmental groups like Greenpeace have questioned the ownership, profitability, and primary use of the AI boom.\n### Emerging Policy Questions\n\nBranko Jovanović, CTO for data centers at ADVANT d.o.o. and president of the IT infrastructure and data center section of the ICT Association of Slovenia, noted early signs of this shift. He cited recent amendments to grid connection rules in Finland that prioritise smaller data centers under 1 MW. This policy could favour enterprise-owned or research-oriented facilities over larger AI, colocation, or hyperscale cloud developments.Gabriele Favarò, senior policy manager at the Information Technology Industry Council, emphasised the need for greater transparency regarding the services data centers support. He stated that current European regulation does not differentiate by workload type or data center type. Rajiv Dalal, managing director at Strategic eServices, observed increased client interest in the relationship between workloads and physical facilities, particularly for data sovereignty and regulated sectors. ### Industry Concerns\n\nIndustry leaders have expressed discomfort with regulators categorising digital activity by social value. Damir Spoljaric, founder and managing partner of investment group Gi21, warned against such a direction, stating there is no ‘good’ or ‘bad’ workload. Michael Winterson, secretary general of the European Data Centre Association, questioned the right to regulate these activities in a liberal democracy. The idea of formally regulating data centers based on workload societal value remains speculative, but it is likely to become a more serious policy question as opposition to new development and AI-driven pressure on infrastructure grows.\n\n- Policy, Land & Power\n- 2 min Read\n\n# Policy may weigh data center workloads by societal value\n\nPolicymakers may begin evaluating the societal value of data center workloads to justify their power consumption. This shift could influence future data center policy and approval processes, moving beyond the current focus on physical footprint.\n\n- Published On Oct 17, 2026 at 10:35 AM IST\n\n## Highlights\n\n- Policymakers may start evaluating data center workloads for societal value, influencing approvals.\n- Current regulatory focus on physical footprint is shifting towards digital services provided.\n- Finland’s grid rules now prioritise smaller data centers, indicating an early policy shift.\n- Industry leaders warn against government attempts to categorise workloads by social value.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/policy-may-weigh-data-center-workloads-by-societal-value/135007715"
+    },
+    {
+      "id": "2026-10-17-869a8f",
+      "title": "Europe's digital infrastructure faces grid connection delays, permitting hurdles",
+      "summary": "Seventy per cent of infrastructure leaders at a London roundtable expect grid connections to take over 18 months, impacting data center development. Power, permitting, grid access, and community consent are now key factors for new hubs.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-17T03:23:52Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/europes-digital-infrastructure-faces-grid-connection-delays-permitting-hurdles/135006594",
+          "type": "rss"
+        }
+      ],
+      "content": "Seventy per cent of digital infrastructure leaders attending a closed-door roundtable in London expect grid connections for new projects to take more than 18 months. Senior executives at the Digital Infra Leaders roundtable, held on 12 October, noted that demand remains strong and capital is available for viable projects.However, delivering megawatts on a predictable date is the primary challenge. Power, permitting, grid access, and community consent now determine where Europe's next data center hubs will be built. Certainty of delivery has become the deciding factor for both customers and capital.Eighty-one per cent of attendees identified deliverable megawatts with clear amortisation milestones as crucial for a location's durability, followed by permitting and competitive power. Customers prioritise a predictable ready-for-service (RFS) date, checking if power, land, and contractors are secured before committing to a site.\n### Market Shifts and Constraints\n\nEighty-four per cent of participants anticipate growth extending beyond traditional FLAP-D markets (Frankfurt, London, Amsterdam, Paris, and Dublin). Power availability is shaping this new geography, with corridors previously less popular gaining traction. Locations cited for future growth include Warsaw, Madrid, wider Spain, Norway, and second- and third-tier German cities. Turkey was also raised as a wildcard.Participants ranked power price, permitting, grid connection time, and community acceptance as their biggest constraints, expecting all four to worsen. In the UK, speculative applications from data centers and battery storage are reportedly clogging connection queues, which grew from 41GW to 125GW between November 2024 and June 2025.Ofgem opened a consultation in July on clearing speculative data center projects from Britain's demand connections queue. The consultation, which referenced about 73GW of data center demand, proposed a commitment fee and new progress milestones.\n### Community Acceptance and Policy\n\nCommunity acceptance is increasingly seen as a strategic risk, with 74 per cent of attendees identifying it as such. Seventy per cent expect it to highly influence future investment decisions, yet the industry's current effectiveness in this area was rated around four out of ten.Local opposition often stems from concerns about electricity and water consumption, a perceived lack of local economic benefit, and poor communication. Proposals for better engagement include early interaction with public forums and local councillors, developing an industry playbook of shared principles, hiring locally, and budgeting for community benefits like scholarships.Several tables concluded that the industry needs to be more assertive with policymakers. A proposal was made to integrate grid connection, permitting, and energy procurement into a single national digital policy framework, creating a one-stop process for major projects. Governments are increasingly competing for this investment at the highest level.\n\n- Policy, Land & Power\n- 2 min Read\n\n# Europe's digital infrastructure faces grid connection delays, permitting hurdles\n\nSeventy per cent of infrastructure leaders at a London roundtable expect grid connections to take over 18 months, impacting data center development. Power, permitting, grid access, and community consent are now key factors for new hubs.\n\n- Published On Oct 17, 2026 at 08:53 AM IST\n\n## Highlights\n\n- Seventy per cent of leaders expect grid connections to exceed 18 months.\n- Power, permitting, and community consent now dictate new European data center hubs.\n- Growth is expanding beyond FLAP-D markets, driven by power availability.\n- Speculative applications are exacerbating grid connection queues in the UK.\n- Community acceptance is a strategic risk influencing future investment decisions.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/europes-digital-infrastructure-faces-grid-connection-delays-permitting-hurdles/135006594"
+    },
+    {
+      "id": "2026-10-17-70ec99",
+      "title": "Brightray signs LOI for 10 MW AI data center in Indiana",
+      "summary": "Brightray Science Inc. has signed a letter of intent for a 10 MW AI data center project in Indiana, United States. This marks Brightray's initial entry into the US data center market.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-17T03:23:39Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/construction-site-development/brightray-signs-loi-for-10-mw-ai-data-center-in-indiana/135006591",
+          "type": "rss"
+        }
+      ],
+      "content": "Brightray Science Inc., a subsidiary of BUUU Group Limited, has signed a letter of intent (LOI) with an unnamed US-based mission-critical infrastructure partner for a 10 MW AI data center project in Indiana, United States.This is Brightray's first project LOI in the US, representing an important step towards expanding into the US data center market, according to a press release. The company plans to deploy a prefabricated data center solution for the project.Implementation is subject to final agreement on technical specifications, commercial terms, project schedule, and definitive contract documentation. Brightray aims to deliver the 10 MW AI data center within one year, covering design finalization, permitting, international shipping, on-site works, installation, and commissioning.Bin Wang, Brightray founder, stated that the US market has substantial data center demand. He noted that customers face pressure to convert AI investments into usable computing power rapidly. Wang added that the prefabricated solution moves more work to the factory, running manufacturing parallel with on-site works to shorten delivery.The company seeks to bring efficiency advantages to the project, addressing power, cooling, and space requirements for next-generation AI equipment. This project could serve as a blueprint for Brightray's further expansion into the US market. The US data center market is projected to reach US$494.49 billion by 2031, according to Arizton Advisory & Intelligence.\n\n- Construction & Site Development\n- 1 min Read\n\n# Brightray signs LOI for 10 MW AI data center in Indiana\n\nBrightray Science Inc. has signed a letter of intent for a 10 MW AI data center project in Indiana, United States. This marks Brightray's initial entry into the US data center market.\n\n- Published On Oct 17, 2026 at 08:53 AM IST\n\n## Highlights\n\n- Brightray Science signed an LOI for a 10 MW AI data center in Indiana.\n- This marks Brightray's first project entry into the US data center market.\n- The company will deploy a prefabricated data center solution for accelerated delivery.\n- The project aims for delivery within one year, including design, permitting, and installation.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/construction-site-development/brightray-signs-loi-for-10-mw-ai-data-center-in-indiana/135006591"
+    },
+    {
+      "id": "2026-10-17-740bf8",
+      "title": "AI workloads demand new data centre cooling mindset",
+      "summary": "Artificial intelligence (AI) workloads generate substantial heat, driving higher rack densities in data centres. This necessitates a shift from traditional 'chip-forward' cooling designs to 'destination-forward' approaches, according to Carrier's Oliver Sanders.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-17T02:29:39Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/ai-workloads-demand-new-data-centre-cooling-mindset/135006210",
+          "type": "rss"
+        }
+      ],
+      "content": "Artificial intelligence (AI) workloads are increasing heat output in data centres, leading to higher rack densities of 100 to 200 kilowatts per rack. This densification aims to reduce latency and move data faster, rather than conserving floor space, said Oliver Sanders, Data Centre Commercial Director UK&I at Carrier.Traditional cooling methods, which treat the problem in separate 'slices'—with IT buying servers and contractors buying chillers—lead to compounded inefficiencies. Each hand-off in the heat flow chain from chip to the outside world introduces temperature differences and potential efficiency penalties.\n### Redefining Cooling Strategy\n\nA fundamental shift is required from a 'chip-forward' design mentality to a 'destination-forward' approach. This means designing cooling systems by working backward from where the heat will be expelled, rather than focusing solely on the chip.Heat can be managed through four primary routes: expulsion into the air (dry cooling), rejection through evaporation (evaporative cooling), recovery for reuse (district heating), or discharge into large bodies of water (direct water). Each method presents specific challenges; for instance, dry cooling for a 500-megawatt AI factory would require significantly larger buildings due to air's poor heat conductivity.Evaporative cooling is more thermally efficient but raises concerns about water usage. District heating, which reuses waste heat for homes, is ideal but limited by geographical proximity to population centres. Direct water cooling offers high thermal mass but faces issues such as thermal pollution, regulation, and corrosion.\n### Hybrid Cooling Solutions\n\nDirect-to-chip liquid cooling is thermodynamically superior and captures about 80 per cent of the heat directly from the source. However, pure liquid cooling is a misconception, as power supplies, memory, and networking gear in a rack still require air cooling for the remaining 20 per cent of heat.This leads to hybrid cooling systems, which are expensive as they involve building infrastructure for both air and liquid cooling capacity simultaneously. Despite the cost, hybrid solutions are currently essential for managing both legacy workloads and high-density AI within the same data centre environment.The biggest risk in data centre projects is the failure to connect the physics of the chip to the physics of the heat's ultimate destination. An integrated approach is needed to manage hybrid cooling loops and efficiently deliver heat to its destination, as data centres evolve into complex thermal power plants.\n\n- Energy, Cooling & Sustainability\n- 2 min Read\n\n# AI workloads demand new data centre cooling mindset\n\nArtificial intelligence (AI) workloads generate substantial heat, driving higher rack densities in data centres. This necessitates a shift from traditional 'chip-forward' cooling designs to 'destination-forward' approaches, according to Carrier's Oliver Sanders.\n\n- Published On Oct 17, 2026 at 07:59 AM IST\n\n## Highlights\n\n- AI workloads drive data centre rack densities to 100-200 kW, increasing heat output.\n- Traditional 'slice-by-slice' cooling designs lead to compounded inefficiencies.\n- New cooling mindset requires 'destination-forward' design, working from heat's exit.\n- Hybrid liquid-air cooling is essential for managing diverse workloads despite its cost.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/ai-workloads-demand-new-data-centre-cooling-mindset/135006210"
+    },
+    {
+      "id": "2026-10-17-070691",
+      "title": "Canadian government plans 60 MW Ottawa data centre",
+      "summary": "Defence Construction Canada has issued an advance procurement notice for a data centre facility in Ottawa, Ontario. The project is estimated to cost between CA$ 1.5 billion and CA$ 1.85 billion, targeting a 60 MW capacity.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-17T02:28:20Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/construction-site-development/canadian-government-plans-60-mw-ottawa-data-centre/135006200",
+          "type": "rss"
+        }
+      ],
+      "content": "Defence Construction Canada, a Canadian Crown corporation, has issued an advance procurement notice for a data centre facility in Ottawa, Ontario. The estimated cost for the facility is between CA$ 1.5 billion and CA$ 1.85 billion (US$ 1.06 billion and US$ 1.31 billion). The corporation is targeting a capacity of 60 MW for the facility.Procurement for the project is anticipated to begin in winter 2027. This timeline is conditional on approval from the Government of Canada.The Government of Canada is planning this facility to increase its capacity. This supports mid to long-term objectives related to operations, security, and technology modernisation. The 60 MW data centre will enable next-generation capabilities. It will feature tailored mechanical and electrical configurations for distinct technology requirements.The proposed data centre facility will also include a small office space. A shipping and receiving area will also be part of the complex. The Communications Security Establishment (CSE) stated that the facility would provide secure computing capacity. This capacity is necessary for current and future operational requirements.The CSE told CTV News Ottawa that the project is part of Canada’s broader defence investments. These include investments through CSE to modernise secure infrastructure. This supports national security and defence priorities. The project could still be cancelled, Defence Construction Canada noted.The advance procurement notice allows interested parties to obtain the necessary security clearances. Ontario has the largest provincial data centre footprint, according to Mordor Intelligence. This is due to its connectivity, renewable energy, and Toronto as Canada’s financial hub. Canada’s data centre market is projected to grow from US$ 11.46 billion in 2025 to US$ 25.09 billion by 2031.\n\n- Construction & Site Development\n- 1 min Read\n\n# Canadian government plans 60 MW Ottawa data centre\n\nDefence Construction Canada has issued an advance procurement notice for a data centre facility in Ottawa, Ontario. The project is estimated to cost between CA$ 1.5 billion and CA$ 1.85 billion, targeting a 60 MW capacity.\n\n- Published On Oct 17, 2026 at 07:58 AM IST\n\n## Highlights\n\n- Defence Construction Canada plans a 60 MW data centre in Ottawa, Ontario.\n- The facility's estimated cost is up to US$ 1.31 billion.\n- Procurement is set for winter 2027, pending government approval.\n- The project aims to boost government operations, security, and technology modernisation.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/construction-site-development/canadian-government-plans-60-mw-ottawa-data-centre/135006200"
+    },
+    {
+      "id": "2026-10-17-de21bc",
+      "title": "Global data centre opposition creates India opportunity, but risks loom",
+      "summary": "Growing opposition to data centres in the US and Europe could create opportunities for India, analysts said. However, high power and water consumption, limited job creation, and local resistance pose significant risks to India's data centre expansion.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-17T02:28:07Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/market-insights-analysis/global-data-centre-opposition-creates-india-opportunity-but-risks-loom/135006196",
+          "type": "rss"
+        }
+      ],
+      "content": "Growing opposition to data centres in the US and Europe may create opportunities for India, according to some data analysts.This potential relocation of projects from the First World, however, comes with significant risks for India, including strained power and water resources, limited local job creation, and potential public backlash.\n### Global Resistance to Data Centres\n\nData centres are becoming a contentious issue in the US and Europe due to their infrastructure footprint, analysts reported. Concerns include vast quantities of power and water consumption, pressure on local infrastructure, and potentially higher tariffs.The lack of local employment generation also contributes to a lack of rationale for tolerating local data centres. Opinion polls suggest that US voters dislike data centres regardless of political affiliations, turning it into a \"not in my back yard\" (NIMBY) issue.New York has a moratorium on data centres, and 14 other US states are considering bans or moratoriums. Around 70 data centre projects are delayed across Europe due to local NIMBY resistance, recent reportage suggests.\n### India's Potential and Challenges\n\nThis antipathy in the US and Europe could be presented as a great opportunity for digital India, with several Indian mega data centre projects already in various stages of planning and execution. More projects could relocate to India, analysts said.However, India faces its own set of challenges, including being more stretched than the US or the European Union when it comes to power and water resources. Data centres create few local benefits, which could make local resistance and issues like corruption more pronounced, the analysts noted.Indians have historically objected to large infrastructure projects like port projects, copper smelters, and nuclear plants, suggesting similar objections could arise for data centres. If the AI bubble were to burst, projects that abort early due to protests could mitigate financial losses.\n\n- Market Insights & Analysis\n- 1 min Read\n\n# Global data centre opposition creates India opportunity, but risks loom\n\nGrowing opposition to data centres in the US and Europe could create opportunities for India, analysts said. However, high power and water consumption, limited job creation, and local resistance pose significant risks to India's data centre expansion.\n\n- Published On Oct 17, 2026 at 07:58 AM IST\n\n## Highlights\n\n- US and European opposition to data centres is growing due to resource use.\n- New York has a moratorium, and 14 US states consider data centre bans.\n- Around 70 data centre projects are delayed across Europe due to local resistance.\n- India faces resource scarcity and potential public backlash for data centre expansion.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/market-insights-analysis/global-data-centre-opposition-creates-india-opportunity-but-risks-loom/135006196"
+    },
+    {
+      "id": "2026-10-17-7f7444",
+      "title": "APAC data centers pivot to AI, high-density capacity: JLL",
+      "summary": "Mikhael Jaura, JLL's Head of Data Center Research for Asia Pacific, stated that mature APAC data center hubs are reorienting around AI-ready, high-density capacity. New markets like Mumbai and Chennai are developing at hyperscale. The region's diverse landscape presents both opportunities and challenges for investors.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-17T02:26:52Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/market-insights-analysis/apac-data-centers-pivot-to-ai-high-density-capacity-jll/135006186",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "JLL"
+      ],
+      "content": "Mikhael Jaura, JLL's Head of Data Center Research for Asia Pacific, noted that the APAC data center market is no longer a single story.Mature hubs are reinventing themselves to support AI-ready, high-density capacity. Markets such as Mumbai, Chennai, Johor, Batam, and Seoul’s periphery are being developed at hyperscale.\n### Market Dynamics and Constraints\n\nDemand fundamentals in Japan remain resilient, driven by cloud and AI adoption. Supply is not keeping pace, however.Grid connection timelines in Greater Tokyo and Osaka are reaching ten years. Construction cost inflation and a squeezed labour market are lengthening delivery schedules, pushing development to secondary regions like Hokkaido and Kyushu.In Hong Kong, sentiment has improved due to demand from Mainland Chinese hyperscalers. The market positions itself as a connectivity gateway to the Greater Bay Area through the Northern Metropolis.Powered land is a binding constraint in Hong Kong. Absorption slowed in 2025 but rebounded, driven by AI demand from Mainland Chinese technology firms.China is building a self-contained AI stack, encompassing domestic accelerators and national compute programmes such as “East Data, West Computing.” This programme designates eight national computing hubs and ten data center clusters, moving new capacity to western provinces where land, renewable power, and cooling are cheaper.South Korea is transitioning from a Seoul-centric market to national AI infrastructure. Policy is pushing new capacity south due to grid capacity constraints in the capital region.The AIDC Special Act, effective in Q1 2027, will fast-track permitting outside Seoul. Regional electricity pricing proposed in August 2026 would offer discounts of up to 10 per cent in the south.Malaysia's Johor capacity has grown more than 50-fold since 2020, with 1,800 MW under construction. Greater Kuala Lumpur is becoming a cloud market, with Microsoft, AWS, and Google establishing regions there.Indonesia has a large digital economy, data localisation rules, and hyperscaler cloud regions in Greater Jakarta. Batam offers a cross-border option for demand from Singapore.\n### Enterprise Demand and Key Markets\n\nEnterprise demand is maturing towards hybrid and multi-cloud architectures. Regulated, latency-sensitive, and AI inference workloads are staying in colocation near cloud on-ramps.Data residency is a major driver in India, where vacancy fell to a record 2.8 per cent in H1 2026. Mumbai’s growth is driven mainly by domestic demand due to residency rules bringing workloads onshore.Mumbai is expected to take 35 per cent of India’s 4.4 GW pipeline by 2029. Chennai offers competitive colocation power costs at around 8.4 US cents per kWh compared to 18.1 cents in Singapore.\n### Operational Challenges\n\nAI accelerator refresh cycles have compressed sharply, to as little as 13 months. Older chips are still used for inference and fine-tuning, where cost per token matters more than peak speed.Facilities typically need major power or cooling upgrades within 18 to 36 months to host the next generation of chips. Designing flexible facilities is a priority to support several chip generations over their lifetime.Captive and dedicated power generation units are expected to become more common. Hybrid models will combine grid power with dedicated renewables, on-site generation, and storage.Water access has become a permitting criterion. Johor has enforced tighter controls, and Australia restricts potable water for cooling, requiring recycled or alternative sources. Thailand is reviewing water usage in its national standards for data centers.Hyperscale occupiers are asking detailed questions about cooling design, water usage effectiveness (WUE), and water sourcing during the Request for Proposal (RFP) stage. Direct-to-chip liquid cooling for AI generally helps on both power and water consumption, particularly in closed-loop systems.\n\n- Market Insights & Analysis\n- 3 min Read\n\n# APAC data centers pivot to AI, high-density capacity: JLL\n\nMikhael Jaura, JLL's Head of Data Center Research for Asia Pacific, stated that mature APAC data center hubs are reorienting around AI-ready, high-density capacity. New markets like Mumbai and Chennai are developing at hyperscale. The region's diverse landscape presents both opportunities and challenges for investors.\n\n- Published On Oct 17, 2026 at 07:56 AM IST\n\n## Highlights\n\n- Mature APAC hubs are reorienting for AI-ready, high-density data center capacity.\n- Mumbai and Chennai are developing as hyperscale markets within India's growing sector.\n- Japan and Hong Kong face constraints like grid connection delays and limited powered land.\n- Water access and accelerated chip refresh cycles are driving new design and power strategies.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/market-insights-analysis/apac-data-centers-pivot-to-ai-high-density-capacity-jll/135006186"
+    },
+    {
+      "id": "2026-10-17-4bedd7",
+      "title": "UP government to develop 1,000 acre data centre and IT hub",
+      "summary": "The Uttar Pradesh government is acquiring 1,000 acres for a data centre and IT hub in Bundelkhand. This project is part of the larger 56,662-acre Bundelkhand Industrial Development Authority (BIDA) to boost the state's economy.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-17T02:26:14Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/up-government-to-develop-1000-acre-data-centre-and-it-hub/135006175",
+          "type": "rss"
+        }
+      ],
+      "content": "The Uttar Pradesh government is acquiring 1,000 acres of land to develop a data centre and IT hub in the Bundelkhand region. This proposed hub will be integrated into the overarching Bundelkhand Industrial Development Authority (BIDA), which spans 56,662 acres.Officials confirmed that 810 acres of the targeted 1,000 acres for the data hub have been amassed so far. This project aims to generate integrated infrastructure for various industrial activities within BIDA.The development is expected to contribute to the state's goal of achieving a $1 trillion economy. Uttar Pradesh Chief Secretary S P Goyal has directed officials to accelerate the land acquisition process for BIDA and other major industrial projects.BIDA has already acquired 28,874 acres, exceeding 80 per cent of its first-phase target of 35,298 acres. A Detailed Project Report (DPR) has been submitted for the 1,000 acres proposed for development within BIDA.The draft sector plan for BIDA has also been prepared and awaits finalisation after the approval of the BIDA Master Plan 2045. BIDA is envisioned as a modern industrial hub, similar to Noida and Greater Noida.\n\n- Policy, Land & Power\n- 1 min Read\n\n# UP government to develop 1,000 acre data centre and IT hub\n\nThe Uttar Pradesh government is acquiring 1,000 acres for a data centre and IT hub in Bundelkhand. This project is part of the larger 56,662-acre Bundelkhand Industrial Development Authority (BIDA) to boost the state's economy.\n\n- Published On Oct 17, 2026 at 07:56 AM IST\n\n## Highlights\n\n- Uttar Pradesh government acquiring 1,000 acres for a data centre hub.\n- Project is part of the 56,662-acre Bundelkhand Industrial Development Authority.\n- 810 acres for the data hub have been acquired in Bundelkhand so far.\n- Initiative aims to boost Uttar Pradesh's $1 trillion economy goal.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/up-government-to-develop-1000-acre-data-centre-and-it-hub/135006175"
+    },
+    {
+      "id": "2026-10-17-d4073c",
+      "title": "SPECIAL FEATURE | Can America be at peace with the neighbourhood data center?",
+      "summary": "“Be at war with your vices, at peace with your neighbors,” advised Benjamin Franklin, one of the Founding Fathers of the United States of America. Now, two hundred years later, as data centers pop up across the country, can the common man be at peace with a neighbour that keeps demanding more and more of […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-17T02:04:47Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/special-feature-can-america-be-at-peace-with-the-neighbourhood-data-center/",
+          "type": "rss"
+        }
+      ],
+      "content": "### “*Be at war with your vices, at peace with your neighbors*,” advised Benjamin Franklin, one of the Founding Fathers of the United States of America. Now, two hundred years later, as data centers pop up across the country, can the common man be at peace with a neighbour that keeps demanding more and more of everything – land, electricity and water?\n\nThe US is the world’s largest data center market, with its size estimated at US$ 122.08 billion in 2026 by Mordor Intelligence<sup>\\[1\\]</sup>. It is projected to grow to US$ 168.34 billion by 2031, at a CAGR of 6.64 percent over 2026-2031. With growing investments into AI factories and mega projects, Goldman Sachs<sup>\\[2\\]</sup> estimates the power demand to surge from 31 GW in 2025 to 66 GW in 2027, doubling over a mere two-year period!\n\nThe pressure this is putting on resources, has led to protests, and legislation pausing or restricting data center development in some states. We have been covering these legislations on w.media, and at the time of writing this piece as many as 200 local governments, including New York, Seattle, and Baltimore, and nearly a dozen states, have passed a variety of laws and issued moratoriums to check the indiscriminate development of hyperscale and AI data centers.\n\n#### **Who is pressing pause?**\n\nFor example, New York State Senator Liz Krueger and Assemblymember Anna Kelles introduced legislation in February this year to impose a temporary, three-year moratorium on new data center construction across the state. The move came in response to growing public pressure since December 2025, when over 50 groups called for a moratorium, citing unsustainable resource use and rising utility costs.\n\nLiz Kruege, New York State Senator, said, “Massive data centers are gunning for New York, and right now we are completely unprepared. When one of these energy-guzzling facilities comes to town they drive up utility prices and have significant negative impacts on the environment and the community – and they have little to no positive impact on the local economy.”\n\nAnna Kelles, Assemblymember, said, “This legislation creates a responsible pause so the state can complete a comprehensive assessment and put clear, data-driven standards in place, ensuring that any future development is aligned with our climate goals and the long-term health and economic stability of New Yorkers.”\n\nBut, perhaps the most talked about among these moratoriums is the Artificial Intelligence (AI) Data Center Moratorium Act<sup>\\[3\\]</sup> which was jointly proposed by Sen. Bernie Sanders (I-Vt.) and Rep. Alexandria Ocasio-Cortez (D-N.Y.) in March this year. The legislation aims to create a temporary prohibition on the construction of new data centers and the expansion of existing data centers until Congress passes comprehensive legislation to address the economic, environmental, and safety impacts of artificial intelligence.\n\n“AI and robotics are creating the most sweeping technological revolution in the history of humanity. The scale, scope and speed of that change is unprecedented. Congress is way behind where it should be in understanding the nature of this revolution and its impacts,” said Sanders. “We need serious public debate and democratic oversight over this enormously consequential issue. The time for action is now. We need a federal moratorium on AI data centers.”\n\nThere are also growing concerns surrounding the unethical use of AI in surveillance and creating content harmful to women and children.\n\n“We have seen ICE partner with AI companies to surveil Americans, social media users employ AI bots to create sexually explicit deepfakes of women and children, and data center construction inflate electric bills in communities across the country. And all of this harm has occurred because of the absence of federal legislation to regulate AI,” said Ocasio-Cortez. “Congress has a moral obligation to stand with the American people and stop the expansion of these data centers until we have a framework to adequately address the existential harm AI poses to our society. We must choose humanity over profit.”\n\nIn fact, Ocasio-Cortez recently introduced it in the House with Sanders leading it in the Senate. The legislation is cosponsored<sup>\\[4\\]</sup> by Representatives André Carson (IN-07), Steve Cohen (TN-09), Jesús “Chuy” García (IL-04), Dan Goldman (NY-10), Adelita Grijalva (AZ-07), Jim McGovern (MA-02), Terri Sewell (AL-07), Rashida Tlaib (MI-12), and Bonnie Watson Coleman (NJ-12).\n\nOcasio-Cortez had also raised concerns over impact of data centers on water resources, famously holding up glass jars of red-brown water as she appealed to the Environmental Protection Agency (EPA) to investigate environmental complaints tied to the Stanton Springs industrial area in Georgia in May this year.\n\nActivists and environmental groups are demanding greater transparency in site selection and a stronger commitment to sustainability and responsible resource usage. Writing about the need for greater transparency on her blog, American paralegal, consumer advocate, and environmental activist Erin Brockovich asked, “If AI data centers are such a tremendous benefit to communities, why are so many of them being built without meaningful community input?”\n\nShe invited ordinary people to share their experiences and after receiving more than 3,000 responses launched a crowd-sourced map of data center related complaints on her website. Brockovich discovered, “The single most common concern—more than noise, more than water usage, more than rising utility bills—is the one word that keeps appearing in submission after submission: transparency. Residents are using words like *silenced*, *ignored*, *secretive*, and *not seen and not heard*.”\n\nBrockovich also highlighted issues pertaining to an increase in utility bills and long-term impact on health and property value.\n\n#### **Who is taking remedial measures?**\n\nOne of the things the industry agrees upon unanimously is that data centers do indeed consume a large amount of electricity. This has led to two types of measures being taken.\n\nAs a first step, data centers developers, owners and operators, are now increasingly sourcing power from renewable energy sources. For this they are either entering into power purchase agreements (PPAs) with solar and wind energy companies, or investing in developing their own solar and wind farms. For example, in February this year, Google signed two long-term PPAS with TotalEnergies to power its data centers in Texas with 1 GW of solar capacity over 15 years. The power will come from two solar projects under development in Texas: the 805 MWp Wichita site, and the 195 MWp Mustang Creek site.\n\nAlso in Texas, Meta, and Spanish renewable energy company, Zelestra, are expanding their clean energy collaboration with a new PPA for the 176 MWdc (136 MWac) Skull Creek Solar Plant in Anderson, Texas. The project is currently under development and is expected to reach operational status in May 2027, after which it will deliver power into the Electric Reliability Council of Texas (ERCOT) grid.\n\nThen in March this year, US President Donald Trump announced the Ratepayer Protection Pledge<sup>\\[5\\]</sup>, a voluntary agreement signed by major technology companies including  Amazon, Google, Meta, Microsoft, OpenAI, Oracle and xAI to prevent electricity costs tied to data center expansion from being passed to households. The companies agreed to “build, bring, or buy” new generation resources for data centers and cover costs of required transmission and distribution upgrades, even if they do not use all the electricity requested.\n\n“As that infrastructure grows and the related electricity demand increases, the American people should not be footing the bill for the benefit of private companies. Instead, the data center boom should be leveraged to address affordability and benefit all American households and businesses,” says the pledge. However, this pledge lacks teeth, as it lacks binding legal enforceability. Moreover, it only covers electricity use, and ignores concerns surrounding water use.\n\nAccording to the Environmental and Energy Study Institute (EESI)<sup>\\[6\\]</sup>, large data centers can consume up to 5 million gallons *per day*, equivalent to the water use of a town populated by 10,000 to 50,000 people. As per a study by the University of California, Riverside<sup>\\[7\\]</sup>, a data center’s water consumption is calculated by taking into account not only the on site water use, but also water use by power plant facilities that supply power to data centers, and water consumption during the manufacturing process of processor chips. This is a more comprehensive scope of analysis and evaluation.\n\nWhile switching to recycled or grey water seems like a better idea than tapping into groundwater or water from municipal sources, the most efficient way to reduce the water consumption of a data center is to switch to liquid cooling. Techniques like immersion cooling or direct to chip cooling using dielectric fluids, offer more effective and energy efficient thermal management compared to traditional evaporative cooling methods using water.\n\n#### **Conclusion**\n\nThis takes us back to Benjamin Franklin’s advice about waging war and making peace. Can American authorities and data center developers tell the difference between value and price? Will they, for once, look at the face of the man whose face appears on their currency notes, and take his advice to wage war against vices like greed? Or will the common man be forced to make peace with a difficult neighbour?\n\n*\\*\\*\\* This special feature first appeared in Issue 13 of w.media’s Cloud & Datacenters magazine and may be read on pages 46-47 here.*\n\n#### **References:**\n\n<sup>\\[1\\]</sup> https://www.mordorintelligence.com/industry-reports/united-states-data-center-market\n\n<sup>\\[2\\]</sup> https://www.goldmansachs.com/insights/articles/us-data-center-power-demand-projected-to-double-by-2027\n\n<sup>\\[3\\]</sup> https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-announce-ai-data-center-moratorium-act/\n\n<sup>\\[4\\]</sup> https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-introduces-house-version-ai-data-center-moratorium-act\n\n<sup>\\[5\\]</sup> https://www.whitehouse.gov/articles/2026/03/ratepayer-protection-pledge/\n\n<sup>\\[6\\]</sup> https://www.eesi.org/articles/view/data-centers-and-water-consumption\n\n<sup>\\[7\\]</sup> https://arxiv.org/pdf/2304.03271",
+      "content_url": "https://w.media/special-feature-can-america-be-at-peace-with-the-neighbourhood-data-center/"
+    },
+    {
+      "id": "2026-10-17-cc6502",
+      "title": "DCN Warsaw 2026: Poland deserves a greater share of global data center capacity",
+      "summary": "Poland’s changing energy story means its well placed to benefit from the global data center boom",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T16:19:59Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/analysis/dcn-warsaw-2026-poland-deserves-a-greater-share-of-global-data-center-capacity/",
+          "type": "rss"
+        }
+      ],
+      "content": "Amid a growing capacity crunch, is Poland a potential sleeping giant about to see a boom in new projects?\n\nAt DCN Warsaw, an event run by *DCD*’s sister company *Data Center Nation* held last week, executives at some of Poland’s largest data center companies sang from the same hymn sheet on the country’s potential as a new data center market.\n\nOn stage, Sylwia Pyśkiewicz, CEO at Equinix Polska, Wojciech Stramski, CEO of Beyond.pl, and Sławomir Koszołko, CEO of Atman, noted that Poland has some 140 data centers totaling around 200MW.\n\nThat equates, they said, to around one percent of global capacity. Poland, however, should have more than just 200MW of capacity, given the size of the country, its economy, its population, and location in Eastern Europe.\n\nDuring follow-on talks with *DCD*, the idea that Poland’s historically coal-reliant grid was off-putting for potential customers concerned about their carbon footprint was repeated by many that we spoke to. The country's energy sector, however, is undergoing a massive transformation, and is weaning itself off fossil fuels.\n\nPoland has added tens of gigawatts of renewable capacity in recent years. The country is targeting 51 percent of renewable electricity generation and 64GW of renewable capacity by 2030, reaching 69 percent renewables by 2040.\n\nProgress has been tangible. Renewable electricity generation actually exceeded coal-fired generation for the first time in June 2025. Natural gas capacity has also increased. Energy storage projects haven’t followed at the same pace as solar, but more and more projects are being developed, with gigawatts of storage capacity due to come online in the coming years.\n\nThe country is also developing its first nuclear power plant. Construction is due to start in 2028, and could come online sometime between 2036 and 2040. A second plant is also being planned, and the two sites could total 9GW.\n\nStramski said people had previously disregarded Poland as a potential destination because of its past grid issues, but are now becoming much more comfortable with the idea of investing in the country because of its new power story. Power prices are still higher than some competing markets, but there is hope they could come down further as the country continues its grid modernization efforts.\n\n“If you haven’t placed your bet on Poland yet, you should,” said Stramski.\n\nThe Polish transmission system operator, Polskie Sieci Elektroenergetyczne, is making major investments into the country’s energy grid, and has a dedicated data center strategy aiming to accommodate digital infrastructure and avoid the kinds of capacity issues (and occasional moratoriums) seen elsewhere.\n\nTime to market was also highlighted as a major benefit of siting in Poland, with projects potentially able to get permitted and connected to the grid in three or four years in some locations. Locations outside Warsaw especially were seen as having potential for gigawatt-scale developments.\n\nThere is at least another 600-800MW of data center capacity in development, though that number could be much higher if all the announced and planned projects come to fruition.\n\nAgnieszka Jankowska, a director at CBRE in Poland, told *DCD* that there are some 60 projects across Poland at various stages of development, ranging from tens of megawatts right up to more than 1GW. CBRE, however, is more cautious in its market predictions, as many of these are still in their very early phases of development.\n\nRecent months have seen companies such as Energa Obrót, Polcom, Twenty20 Energy, LVL Energy, Budimex, Cisco, DL Invest & Boosteroid, Switch Datacenters, and 1911 DC announce plans for new facilities across the country.\n\nPoland even has its own gigawatt-scale project in the pipeline. WBS Power, an offshoot of the Polish renewable energy firm PST Solartechnik, is targeting a 3.2GW project known as the Baltic Data Center Campus outside Gdańsk in Choczewo.\n\nIn interviews, *DCD* was told that Poland could not only continue to be a colocation hub serving the needs of both Poland and the surrounding countries, but also be a place where international cloud and AI firms could place training and inference clusters. Most the incumbent cloud hyperscalers are present in Warsaw, and there is the expectation that they will likely look at adding more AI capacity in the country as they continue their build-outs globally.\n\nPiotr Kowalski, head of innovation at Beyond.pl and MD of the Polish Data Center Association, went to far as to say he believes his company could grow to become a rare example of a Polish data center and cloud firm that could grow internationally into other markets.\n\nAs with many markets globally, however, not everything is quite as rosy at ground level. Some local governments have sought to block projects, and residents in some municipalities have looked to push back against developments in their area. Developers will need to tread carefully if Poland is to realize its potential as a major data center hub to rival the likes of Finland and Spain.\n\nOne way the industry could get people onside is by utilizing waste heat. Poland had one of the largest district heating networks in Europe, with thousands of miles of heating networks across the country serving millions of offtakers. Like its energy grid, however, much of the heat is still generated via fossil fuels, so data centers could well find ready customers for heat in the country. There have already been a few smaller examples of data centers in Poland connecting to local heating networks, but there is potential for more as new compute capacity is built out.\n\n## The Russian elephant in the room\n\nThe ongoing conflict in neighboring Ukraine saw little airtime at the sessions and talks *DCD* attended. Executives framed fears over Russia as in the past and largely calmed down.\n\nWhether international firms might in reality be put off by data centers in both Ukraine and Russia being repeatedly bombed in recent weeks, ground station sites in Poland and Bulgaria being set on fire, and a communications tower in Moldova struck by a wayward drone, however, is another matter.\n\n*Interviews from the DCN Warsaw video studio will be going live in the coming weeks. View them and many other interviews from our events here.*",
+      "content_url": "https://www.datacenterdynamics.com/en/analysis/dcn-warsaw-2026-poland-deserves-a-greater-share-of-global-data-center-capacity/"
+    },
+    {
+      "id": "2026-10-17-7146be",
+      "title": "India's clean energy firms prepare for AI data centre demand surge",
+      "summary": "India's renewable energy sector anticipates a significant demand surge from data centres, particularly those supporting artificial intelligence. This growth is driven by increasing data centre capacity in the country, requiring substantial green power.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T15:50:48Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/indias-clean-energy-firms-prepare-for-ai-data-centre-demand-surge/134998690",
+          "type": "rss"
+        }
+      ],
+      "content": "India's renewable energy suppliers are preparing for a significant increase in demand from data centres, according to industry experts.Kuldeep Jain, managing director and founder of CleanMax Enviro Energy Solutions Ltd., stated that the green energy required for artificial intelligence (AI) infrastructure is \"massively underappreciated.\" He estimated that even a conservative 5 gigawatts of data centre capacity in India would necessitate 30-40 gigawatts of renewable power, indicating a potential demand exceeding supply.India is actively attracting data centre companies through incentives like power tariff subsidies, tax breaks, and simplified land clearances. BloombergNEF ranks India as the top market for data centre development in Asia-Pacific, excluding China.Supporting this rapid expansion will require billions of dollars in investment for renewables and energy storage, Jain added. CleanMax is currently adding about 1.5 gigawatts of solar and wind capacity annually, with capital expenditure reaching up to ₹9,000 crore ($950 million).Powering a one-gigawatt AI data centre with 75 per cent renewables would demand approximately three gigawatts of solar, three gigawatts of wind, and three gigawatt-hours of energy storage capacity. This alone would incur about ₹40,000 crore ($4.8 billion) in capital expenditure for the renewables component.CleanMax, backed by Brookfield Asset Management, has secured supply agreements with several AI hyperscalers, including Meta Platforms Inc., Alphabet Inc.'s Google, Apple Inc., and Amazon.com Inc. These deals account for 1.8 gigawatts, roughly one-third of all such contracts in India over the past three years.Jain noted that AI hyperscalers are increasingly opting for flexible power contracts. These arrangements allow them to acquire only the environmental attributes of a renewable project to offset emissions, without requiring physical electricity delivery to their facilities.According to BNEF, data centres with 1.3 gigawatts of IT capacity are already under construction in India. An additional 3.2 gigawatts of projects have secured necessary land, power, and permits. Wood Mackenzie projects India's total data centre capacity to reach 12 gigawatts by 2030, with AI-specific capacity potentially increasing almost 24-fold to 6.5 gigawatts.\n\n- Energy, Cooling & Sustainability\n- 2 min Read\n\n# India's clean energy firms prepare for AI data centre demand surge\n\nIndia's renewable energy sector anticipates a significant demand surge from data centres, particularly those supporting artificial intelligence. This growth is driven by increasing data centre capacity in the country, requiring substantial green power.\n\n- Published On Oct 16, 2026 at 09:20 PM IST\n\n## Highlights\n\n- India's data centre sector anticipates a significant surge in demand for renewable energy.\n- CleanMax Enviro Energy Solutions projects 30-40 GW of green power needed for 5 GW of new data centres.\n- India offers incentives like power tariff subsidies and tax breaks for data centre development.\n- AI hyperscalers are favoring flexible power contracts for renewable energy procurement.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/indias-clean-energy-firms-prepare-for-ai-data-centre-demand-surge/134998690"
+    },
+    {
+      "id": "2026-10-17-080688",
+      "title": "Delta unveils AI modular data centre for NVIDIA Vera Rubin",
+      "summary": "Operators in Southeast Asia could speed AI capacity builds as Delta's modular system pairs liquid cooling with 800 VDC power for NVIDIA Vera Rubin.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T15:30:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/delta-unveils-ai-modular-data-centre-for-nvidia-vera-rubin",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "content": "Fri, 16th Oct 2026 (Yesterday)\nDelta Electronics has unveiled an AI modular data centre with an 800 VDC in-row power system built for NVIDIA Vera Rubin. It also presented a microgrid system for powering AI data centres in Southeast Asia.\n\nThe modular system combines prefabricated data centre infrastructure with liquid cooling and a direct current power architecture for high-density AI computing deployments.\n\nDelta said the AI Modular Data Centre integrates an 800 VDC in-row power design with liquid cooling to support installations based on NVIDIA Vera Rubin architecture. The system is intended to speed deployment and expansion as operators in the region face rising demand for computing capacity.\n\nDelta disclosed several technical details of the power setup. The 800 VDC in-row architecture delivers 660kW of output power, up to 98% AC-DC efficiency and 480kW of battery backup capacity. It also uses aluminium capacitors in a design intended to support GPU workloads in next-generation AI data centres.\n\nAlongside the modular data centre, Delta outlined its approach to energy supply for AI facilities through a separate microgrid offering. The system combines renewable energy, energy storage, solid oxide fuel cell systems and solid state transformers.\n\nAccording to the company, the solid state transformer is designed to convert medium-voltage electricity directly to 800 VDC. The microgrid system can coordinate multiple energy sources in real time to maintain uptime and power quality during grid connection delays or off-grid operation, while the fuel cell system provides around-the-clock on-site power.\n\nThe microgrid design uses a prefabricated DC-coupled architecture that combines solid state transformers, DC/DC converters and dynamic energy support. Delta said this reduces conversion stages and allows the system to respond to fluctuating AI loads while supporting larger deployments.\n\n### Regional demand\n\nThe launch comes as Singapore and the wider Southeast Asia market attract growing investment in AI infrastructure. Data centre operators across the region are under pressure to add capacity quickly and accommodate much higher rack densities than in previous deployment cycles.\n\nDelta is positioning its offering around that shift, combining electrical infrastructure, cooling systems and on-site power resources in a single package. The company also highlighted a prefabricated AI containerised data centre product that can deliver up to 60kW per rack of AI compute within the footprint of a single parking space.\n\nThe containerised design also includes an integrated liquid-to-air coolant distribution unit system. Delta said it can achieve a power usage effectiveness rating as low as 1.19.\n\nAt board level, the company also disclosed a thermal management product designed for NVIDIA Vera Rubin NVL72. It said the cold plate uses a microchannel and multi-impinging flow design.\n\nThe broader push reflects a change in how suppliers to the data centre sector are framing AI infrastructure projects. Rather than focusing only on servers and racks, vendors are increasingly presenting complete systems that combine power conversion, battery backup, thermal management and on-site generation.\n\nThat trend is particularly visible in AI deployments, where high-density clusters create heavier and less predictable electricity and cooling loads. In Southeast Asia, those pressures are colliding with grid constraints, land limits and rising scrutiny over the energy use of digital infrastructure.\n\nJason Yuan, President, Southeast Asia & ANZ, Delta Electronics, said the demands created by AI are forcing a rethink in infrastructure planning.\n\n\"AI workloads are scaling faster than most data centres were designed to handle, while their demands can be increasingly unpredictable. This means infrastructure planning must move from reactive to integrated and future-ready,\" said Jason Yuan, President, Southeast Asia & ANZ, Delta Electronics.\n\nHe added: \"Our AI Modular Data Centres and Microgrids, both part of our Grid-to-Chip Solutions portfolio, are ideal to help our clients across Southeast Asia deploy and power their future-ready AI data centers. Moreover, Delta's solutions are engineered for energy efficiency, reliability and performance, while providing the flexibility to adapt to changing workloads and infrastructure demands.\"",
+      "content_url": "https://datacenternews.asia/story/delta-unveils-ai-modular-data-centre-for-nvidia-vera-rubin"
+    },
+    {
+      "id": "2026-10-17-c42587",
+      "title": "CHINT unveils factory-built Power Pod for Asia data centres",
+      "summary": "Data centre developers in Asia-Pacific could cut installation times by up to 60% as CHINT's factory-built power pod targets AI-driven demand.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T15:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/chint-unveils-factory-built-power-pod-for-asia-data-centres",
+          "type": "rss"
+        }
+      ],
+      "content": "Fri, 16th Oct 2026 (Yesterday)\nCHINT has introduced its factory-built Power Pod for the Asian market and given an early preview of its Solid-State Transformer technology.\n\nThe launch comes as data centre operators in Asia-Pacific face growing pressure to secure electrical equipment for AI-led expansion.\n\nThe Power Pod is a containerised system that combines switchgear, transformer and circuit protection in one enclosed unit for outdoor installation. It also includes cooling, fire protection, lighting and security, and is assembled and tested before shipment.\n\nCHINT said the product can cut on-site installation time by up to 60% compared with field-built systems, with deployment taking as little as one week after the unit reaches a site.\n\nConfigurations range from 500kW to 4,000kW, which CHINT said is enough to support anything from a single high-density AI rack to roughly a full data hall.\n\nThe company is positioning the product as a response to a problem that has become more acute as AI workloads increase electricity demand in data centres. Operators are not only expanding computing capacity, but also trying to secure and integrate power infrastructure quickly enough to keep projects on schedule.\n\nCHINT said most of the Power Pod's core equipment is manufactured and tested in-house rather than sourced from several vendors and assembled on site. The equipment is validated at its 4MW in-house testing facility before shipment.\n\nThe approach is intended to reduce supplier handoffs and leave one manufacturer responsible for production, integration and testing. CHINT said this can shorten the gap between equipment delivery and energising a data hall.\n\nLead times for key components remain a challenge across the sector. Large power transformers, among the longest-lead items in a new data centre build, are taking roughly 128 weeks to deliver, according to CHINT.\n\nAccording to figures cited by the company from Cushman & Wakefield's Data Centre Advisory Group, Asia-Pacific data centre capacity is projected to increase 2.4 times, with 13.8GW of operational capacity and a further 19.4GW under construction or planned.\n\nPaul Lee, APAC Strategic Segment Director at CHINT, said the issue is no longer simply adding more servers.\n\n\"Power is now the hardest part of building AI infrastructure,\" said Paul Lee, APAC Strategic Segment Director at CHINT.\n\n\"Operators don't need another pile of components to integrate, wire and commission on site - they need a single, factory-validated power block they can install and switch on. That's the problem our Power Pod is built to solve,\" Lee said.\n\n### DC architecture\n\nAlongside the Power Pod, CHINT outlined its Solid-State Transformer, or SST, as part of a direct current architecture for data centres. The system uses power electronics and high-frequency components to convert medium-voltage alternating current from the grid directly into 800V direct current for AI data centre environments, according to the company.\n\nCHINT said the SST has a stated peak efficiency of up to 98.5% and a power factor of at least 0.99. It added that power can move in both directions through the system.\n\nThe company described the product as a building block for future high-voltage direct current data centre designs. The aim is to reduce the number of conversion stages between the grid and the IT rack, cutting associated energy losses.\n\nThe announcement reflects a broader shift in data centre design as operators seek to manage denser computing loads and the electricity systems that support them. Power distribution equipment, grid connection and final distribution at the rack are drawing more scrutiny as developers try to avoid delays in bringing facilities online.\n\nCHINT said its approach spans grid connection, medium-voltage distribution and final distribution at the IT load, rather than treating each stage as a separate product purchase. It combines electrical systems, engineering, manufacturing and testing within one delivery model.\n\nThat model is aimed at data centre developers seeking fewer supplier interfaces and less on-site assembly. In a market where power infrastructure schedules can determine when new computing capacity becomes available, the ability to pre-build and test systems off site is becoming more significant.",
+      "content_url": "https://datacenternews.asia/story/chint-unveils-factory-built-power-pod-for-asia-data-centres"
+    },
+    {
+      "id": "2026-10-17-b80182",
+      "title": "LightEdge eyes data center project outside Des Moines, Iowa",
+      "summary": "Company looks to buy ten acres in Boone for project in home state",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T14:40:41Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/lightedge-eyes-data-center-project-outside-des-moines-iowa/",
+          "type": "rss"
+        }
+      ],
+      "content": "US colocation firm LightEdge is looking to develop a new data center outside Des Moines, Iowa.\n\nThe Boone County Economic Growth Corporation (BCEGC) recently signed a Letter of Intent with LightEdge for the purchase of ten acres of land in the Boone Business Park for a colocation data center facility.\n\nLightEdge has submitted a site plan to the City of Boone. The city’s planning & zoning commission has reviewed and approved it for recommendation to the city council. The company will not be seeking any tax incentives from the city.\n\nBoone is a city in Des Moines Township and the county seat of Boone County, some 48 miles (77 km) northwest of Des Moines. Via Edge Boone LLC, LightEdge is looking to develop a facility at 1920 Lakewood Drive.\n\n“We believe this represents an outstanding economic development opportunity for Boone,” Brenda Dreyer, executive director of the BCEGC, said last month. “The project would be located on land that was developed for industrial purposes more than 20 years ago, would make use of existing infrastructure, and would provide new employment and tax-base opportunities for the community. BCEGC and LightEdge are committed to answering residents’ questions directly and openly throughout the process.”\n\nFull details of the project haven’t been shared. On its website, LightEdge said utility company Alliant has indicated that up to 46MW could ultimately be available.\n\nLightEdge said it would begin with a “much smaller power load” that could “gradually scale over many years or even decades,” depending on customer demand.\n\n“Whether the facility ever reaches 46MW, and how long that would take, has not been determined,” the company said.\n\nLightEdge has said the facility will use a closed-loop cooling system to reduce water use.\n\nFounded in 1996, Des Moines-based LightEdge was acquired by GI Partners from the Anschutz Corporation in September 2021. The company operates more than a dozen data centers across Iowa, Nebraska, Texas, Arizona, California, Minnesota, and North Carolina.\n\nThe company operates two data centers in the Altoona area of Des Moines, totaling 6.1MW of capacity across 40,000 sq ft (3,715 sqm) of white space.\n\nLightEdge acquired a 3MW data center in Kansas City, Missouri, in April. Full details haven’t been shared, but the site reportedly arrived fully pre-leased.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/lightedge-eyes-data-center-project-outside-des-moines-iowa/"
+    },
+    {
+      "id": "2026-10-17-c375bb",
+      "title": "India's Odisha gov't approves $18.62m data center project",
+      "summary": "Will serve as a disaster recovery data center",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T14:30:48Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/indias-odisha-govt-approves-1862m-data-center-project/",
+          "type": "rss"
+        }
+      ],
+      "content": "The Odisha Cabinet has greenlit a Rs 176.83 crore ($18.62m) government data center project in India.\n\nDubbed the Odisha State Data Centre (OSDC), the facility will be established on the south campus of Dharanidhar University in Keonjhar, reports Analytics India Mag.\n\nThe data center will be used as a disaster recovery data center for the primary facility located in Bhubaneswar, ensuring services can continue running in the event of outages or cyberattacks.\n\nBecause of this, the data center will have an independent power supply, cooling systems, network connectivity, and computing infrastructure.\n\nOf the Rs 176.83 crore ($18.62m) set aside for the project, $16.22m will be for capital expenditure-related costs, while $2.4m will go to operating expenses over a five-year period. More than $17m has been provided by the Fifth State Finance Commission as a grant, while the rest will come from the Electronics and Information Technology Department’s State Data Centre maintenance budget.\n\nThe data center is expected to take around nine months to set up, and Krystal Integrated Services has been contracted to assist with the project.\n\nThe primary Odisha data center has been operating in Bhubaneswar since 2011. The state is reportedly planning an upgrade of the site, according to OdishaTV. According to that report, the state data center is currently hosting more than 600 government applications.\n\nOdisha is an eastern state in India located on the Bay of Bengal. In 2025, the Indian government announced plans for a cable landing station in the state. CtrlS is said to be developing a data center in the state, as are Indian Financial Technologies and Allied Services.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/indias-odisha-govt-approves-1862m-data-center-project/"
+    },
+    {
+      "id": "2026-10-17-6386cd",
+      "title": "Nscale's Glomfjord data center delayed, site suffers leaks in cooling system and a fire",
+      "summary": "Company is shortly planning its IPO",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T14:18:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/nscales-glomfjord-data-center-delayed-site-suffers-leaks-in-cooling-system-and-a-fire/",
+          "type": "rss"
+        }
+      ],
+      "content": "Nscale's data center project in Glomfjord, Norway, is reportedly running six months behind schedule.\n\nAccording to a report from Bloomberg, citing people close to the project and public records, the data center has faced hurdles including construction delays, local regulations, leaks in the cooling system, and a transformer fire.\n\n*Update -* \n\nA source familiar with the project told *DCD* that the transformer fire happened in December 2025, and while switchgear was destroyed, temporary generators ran the cooling system, and no delay to the project was caused.\n\nSimilarly, the leak was resolved within weeks, and the cooling system was completed more than three months ago with no disruption to the customer. While the source agreed that there was an overall delay to the project, this was communicated to the customer, and no fines or penalties were imposed.\n\n*Original story resumes -*\n\nCurrently, 6.4MW of the planned 30MW is operational at the site.\n\nTo help speed up construction, Bloomberg reports that the company has towed in the Kalmar floating hotel to house construction workers nearby.\n\n*DCD* has contacted Nscale for comment and verification of Bloomberg's claims.\n\nNscale is currently preparing to launch its initial public offering, with reports suggesting it could be seeking a valuation of up to $35 billion.\n\nThe company published its IPO prospectus in September, which noted that Nscale has five active data centers offering a combined 55MW, with 12 in various stages of development.\n\nIn that IPO prospectus, among the risk factors listed are \"delays in construction\" as well as \"construction site accidents\" and \"delays or denials of entitlements or permits, including zoning and related permits, work permits, demolition permits, start permits, design permits, operational permits, and close-out permits, which in certain locations we depend on third parties to obtain or other delays resulting from requirements of public agencies and utility companies.\"\n\nWith this in mind, investors will be betting on the company's $103bn in total contracted value, largely thanks to contracts with Anthropic and Microsoft, for which it is currently building out capacity.\n\nThe company has seen its revenue grow rapidly, recording $140.6 million for the six months to the end of June 2026, which the company claims is up 1,252 percent Year-over-Year. However, losses also ballooned to $1.02bn, compared to $368.9m in the same period of 2025.\n\nEarlier this month, Aussie neocloud Firmus dropped its plans for an IPO, blaming \"volatile market conditions.\"\n\n“The board therefore concluded that proceeding with the offer was not in the best interests of the company and its shareholders,\" the Firmus statement said. \"Firmus will now pursue capital from the private markets and consider alternative public and private market options.”\n\nThis came after reports emerged that the company had pulled the plug on its collaboration with CDC Data Centres, dubbed Project Southgate, that could have seen 1.6GW of capacity built in Australia. Only 43MW was delivered under the agreement, though Firmus is seemingly still going ahead with the build-out, but without CDC.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/nscales-glomfjord-data-center-delayed-site-suffers-leaks-in-cooling-system-and-a-fire/"
+    },
+    {
+      "id": "2026-10-17-383d40",
+      "title": "Vietnam's CMC and Korea's Lotte partner to develop data centers",
+      "summary": "Companies sign MoU to collaborate on data center projects",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T14:00:48Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/vietnams-cmc-and-koreas-lotte-partner-to-develop-data-centers/",
+          "type": "rss"
+        }
+      ],
+      "content": "Vietnam’s CMC is set to partner with South Korea’s Lotte to develop data centers.\n\nCMC and Lotte Innovate this week officially entered into a strategic partnership, signing a Memorandum of Understanding (MoU) around infrastructure, software development, and other areas of mutual interest.\n\nAreas of cooperation under the MoU include data centers, EV charging, security, offshoring, and cloud.\n\nIn the data center segment, the companies said they aim to develop data center projects, combining CMC’s infrastructure and operations strengths in Vietnam with Lotte Innovate’s experience and customer ecosystem.\n\nDetails of any planned data centers haven’t been shared.\n\nMinh Tran Van, CEO of CMC Korea, said: “Our partnership with Lotte Innovate goes beyond a step in CMC’s global expansion strategy. It reflects the growing role of CMC Korea in connecting Vietnam’s technology capabilities with Korea’s leading corporations. We expect the two sides to not only deliver high-quality software development services together, but also co-create scalable digital solutions across Vietnam, Korea, and regional markets, as demand for digital transformation and AI adoption continues to accelerate across the region.”\n\nFounded in 1993, CMC Corp is one of Vietnam’s largest technology companies. It operates CMC Telecom, one of the major telecoms firms in the country, and offers cloud services through CMC Cloud. The company has data centers in Hanoi and Ho Chi Minh City.\n\nLotte Innovate is part of the South Korean Lotte Corporation conglomerate. Founded in 1967, Lotte’s businesses span food, hotels, retail, financial services, chemicals, IT, construction, publishing, and more.\n\nChoi Jong Pil, general director of Lotte Innovate Vietnam, said: “Vietnam is a key market in Lotte Innovate’s global strategy. Through this partnership agreement with CMC Corporation, we aim to combine the strengths of both sides and explore new opportunities in advanced technology areas, contributing to digital transformation and AI adoption for businesses in Vietnam and the region.”\n\nFounded in 1996 and formerly known as Lotte Data Communication, Lotte Innovate provides IT and cloud services. The firm operates four data centers in South Korea around Seoul, Daejeon, and Yongin, offering cloud services via L.Cloud.\n\nThe company is also set to take over the operation of Ansan GCC, a 40MW data center building built by Igis Asset Management in Ansan, Gyeonggi Province, that is due live next year.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/vietnams-cmc-and-koreas-lotte-partner-to-develop-data-centers/"
+    },
+    {
+      "id": "2026-10-17-53d218",
+      "title": "Carrier Connect leases 4MW data center in Alpharetta, Georgia",
+      "summary": "Colo firm leasing former GE facility from Mapletree",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T13:50:42Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/carrier-connect-leases-4mw-data-center-in-alpharetta-georgia/",
+          "type": "rss"
+        }
+      ],
+      "content": "US data center firm Carrier Connect Data Solutions is leasing a data center around Atlanta, Georgia.\n\nThe TSXV-listed firm announced this week that it has signed a long-term lease on a 4MW data center in Alpharetta, Georgia.\n\nLocated on 20 acres at 1001 Windward Concourse, the facility totals 184,555 sq ft (17,145 sqm) of rentable space. The data center is described as “fully built out and customer move-in ready.”\n\nThe lease was signed through Carrier's wholly owned subsidiary, Purecolo, and increases the company's total capacity under management to 11.7MW. The 15.5-year contract includes two five-year renewal options.\n\nBuilt in 1989 and now owned by Mapletree Industrial Trust, the two-story 1001 Windward Concourse was previously leased to General Electric (GE) and operated by GE Digital, the company’s software and services division that is now part of GE Vernova.\n\nCarrier said the facility has historically received 10MW of utility power, providing a potential pathway to expand its capacity further, subject to Georgia Power's approval and customer demand.\n\nMark Binns, Carrier Connect CEO, called the deal a “major milestone” for the company and “one of the most significant steps forward” in the execution of its growth strategy.\n\n\"In a single transaction, we have expanded our power capacity under management by more than 50 percent, secured a substantial, fully built-out data center in the Atlanta metropolitan market, and established a pathway to potentially grow this facility from 4MW to 10MW,” he said. \"What makes this opportunity particularly compelling is that we are not starting with undeveloped land or embarking on a lengthy ground-up construction process. We are adding an existing, customer-ready facility to our platform, with meaningful infrastructure already in place.”\n\nLaunched in 2019, Carrier initially operated a small presence for a handful of clients in Canada within the Spencer Building carrier hotel at Harbour Centre in Vancouver, before moving to a larger space at 200 Burrard in 2022 and closing the Spencer Building operation.\n\nThe operator now describes itself as a “data center company on a mission to roll up Tier II/III data centers internationally that specialize in delivering colocation,” and has been acquiring a number of assets in the last year.\n\nCarrier Connect acquired PureColo in December 2025 and operates data centers across Vancouver, Ottawa, and St. John in Canada; Perth, Australia; and Rochester, New York.\n\nEarlier this year, Carrier Connect acquired Vancouver-based network connectivity firm Morewave.\n\n1001 Windward was originally built as a corporate data facility for Continental Telephone (aka ConTel, later bought by GTE and now part of Verizon). GE bought the property in 1991 to house its North American operations, with the site described as being GE’s largest data center at one point.\n\nCarter Validus acquired the facility from GE for $50 million in a 2014 sale-leaseback deal. Carter Validus then sold its entire data center portfolio to Mapletree in 2021 as part of a pivot to focus on healthcare real estate. Mapletree had previously said GE was set to lease the facility until September 2025.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/carrier-connect-leases-4mw-data-center-in-alpharetta-georgia/"
+    },
+    {
+      "id": "2026-10-17-59c410",
+      "title": "Digital Realty eyes gigawatt-scale data center site outside Indianapolis, Indiana",
+      "summary": "Company looks to develop in Kokomo",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T13:30:32Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/digital-realty-eyes-gigawatt-scale-data-center-site-outside-indianapolis-indiana/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Digital Realty"
+      ],
+      "content": "Digital Realty is looking to build a gigawatt-scale data center campus outside Indianapolis, Indiana.\n\nThe company has announced it is looking to develop three single-story data centers on 476 acres in Kokomo.\n\nKokomo is a city and the county seat of Howard County, some 50 miles north of Indianapolis.\n\nLocated on greenfield land in the city’s Industrial Park North near US 31 and County Road 400 North, the campus could total around 1GW of IT capacity across some three million sq ft (278,710 sqm) of data center space. The campus could be fully built out by 2033.\n\nDigital Realty doesn’t currently operate any data centers in Indiana.\n\nThe city of Kokomo first announced Digital’s interest in developing in the city earlier this month. The city has said the site will use a closed-loop cooling system to reduce water use.\n\nThe city has also said there will be no tax abatements agreed with any company that develops the site.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/digital-realty-eyes-gigawatt-scale-data-center-site-outside-indianapolis-indiana/"
+    },
+    {
+      "id": "2026-10-17-70a2ed",
+      "title": "Canadian government eyes up to US$ 1.3 billion for 60 MW data center",
+      "summary": "Defence Construction Canada, a Canadian Crown corporation that provides infrastructure, environmental, and contracting services, has issued an advance procurement notice for a data center facility in Ottawa, Ontario at an estimated cost of between CA$ 1.5 billion and CA$ 1.85 billion (US$ 1.06 billion and US$ 1.31 billion). As outlined in the notice, Defence Construction […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T12:44:21Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/canadian-government-eyes-up-to-us-1-3-billion-for-60-mw-data-center/",
+          "type": "rss"
+        }
+      ],
+      "content": "Defence Construction Canada, a Canadian Crown corporation that provides infrastructure, environmental, and contracting services, has issued an advance procurement notice for a data center facility in Ottawa, Ontario at an estimated cost of between CA$ 1.5 billion and CA$ 1.85 billion (US$ 1.06 billion and US$ 1.31 billion).\n\nAs outlined in the notice, Defence Construction Canada is targeting a capacity of 60 MW for the facility. The corporation anticipates that procurement will begin in winter 2027, conditional on approval to proceed being granted by the Government of Canada.\n\n“To increase its capacity in supporting the mid to long-term objectives related to operations, security, and technology modernization, the Government of Canada is planning to design and construction (sic) a data center facility within the National Capital Region,” the notice reads.\n\n“This Data center of 60 MW will enable the onboarding of next-generation capabilities with tailored mechanical and electrical configurations to meet distinct technology requirements throughout the facility. The proposed data centre facility will also include a small office space and a shipping and receiving area,” it continues.\n\nThe Communications Security Establishment (CSE) told CTV News Ottawa that the proposed data center would provide much-needed secure computing capacity necessary to support its current and future operational requirements.\n\n“It is part of the Government of Canada’s broader defence investments, including investments through CSE to modernize the secure infrastructure and capabilities needed to respond to evolving threats and support Canada’s national security and defence priorities,” CSE said in a statement to CTV News Ottawa.\n\nThe project could fall apart at any time and Defence Construction Canada says that this notice is to allow interest parties to obtain the security clearances required to participate in the process.\n\nOntario has the largest provincial data center footprint due to its ample connectivity, renewable energy and Canada’s financial hub, Toronto, in the province, according to Mordor Intelligence. Canada’s data center market is set to grow from US$ 11.46 billion in 2025 to US$ 25.09 billion by 2031.",
+      "content_url": "https://w.media/canadian-government-eyes-up-to-us-1-3-billion-for-60-mw-data-center/"
+    },
+    {
+      "id": "2026-10-17-d733f2",
+      "title": "Rostelecom: Russia needs “doomsday” data center to combat Ukrainian strikes",
+      "summary": "Comments made by Rostelecom VP reveal centralization issue",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T12:00:22Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/rostelecom-russia-needs-doomsday-data-center-to-combat-ukrainian-strikes/",
+          "type": "rss"
+        }
+      ],
+      "content": "Russia needs a “doomsday” data center as repeated Ukrainian attacks weaken its digital infrastructure, Rostelecom vice president Valeriy Ermakov has said.\n\nSpeaking at the RBC Tech forum, as reported by the Russian news organization RBC, Ermakov said the concept of a “doomsday” data center was once “unimaginable,” but is now a real necessity.\n\nSpeaking in light of recent drone threats from Ukraine, and specifically citing multiple strikes on data centers owned by Yandex, Ermakov said that the current situation has become characterized by a “threat and disruption model,” where infrastructure built in a centralized way for economic efficiency has become a vulnerability.\n\n“A so-called ‘doomsday’ data center is a must-have, because backup is what allows any service provider to recover quickly,” Ermakov said.\n\nAccording to Ermakov, Russian customers are being forced to re-evaluate threat models and distribute services across multiple sites.\n\nIn recent weeks, Russian officials have been making plans to deploy data centers in friendly neighboring countries. While no official reason has been given for this, speculation points to low grid capacity in Russian cities and knock-on effects from the Ukraine war.\n\nErmakov said Russia was “returning to the point where we distribute our services as widely as possible.”\n\nIn further comments, Ermakov said Russia’s telecommunications infrastructure is “heavily congested” and would require upgrades due to the deterioration of old fiber optic cables.\n\nCompounding these challenges are significant resource shortages in Russia, which Ermakov said will become an obstacle to future technology transitions.\n\nUkraine has stepped up attacks on Russian digital infrastructure in recent weeks. The latest attacks on Russian data centers have cut traffic from bot HTTP requests originating in Russia.\n\nConflict between Ukraine and Russia has been ongoing since 2014, with significant escalation in 2022. Throughout the conflict, Russia has attacked multiple Ukrainian data centers.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/rostelecom-russia-needs-doomsday-data-center-to-combat-ukrainian-strikes/"
+    },
+    {
+      "id": "2026-10-17-53aac4",
+      "title": "US clean energy set to reach new highs as tax-credit cliff looms",
+      "summary": "The US is on track to install record amounts of clean energy this year and next as developers race to claim expiring federal tax credits and as soaring data-centre electricity demand stimulates growth.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T14:22:55Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/822187",
+          "type": "html-list"
+        }
+      ],
+      "content": "(Oct 16): The US is on track to install record amounts of clean energy this year and next as developers race to claim expiring federal tax credits and as soaring data-centre electricity demand stimulates growth.\n\nBut the same data-centre boom is also driving a major expansion of natural gas, undercutting the climate benefits of the renewables buildout.\n\nThe findings are part of BloombergNEF’s latest US Clean Energy Market Outlook, released on Friday.\n\n“When we look at the picture holistically, we still see data center growth as a tailwind to renewable energy, but it is tainted by the growing gas pipeline,” said Hall Welborn, an author of the report.\n\nBNEF expects the US to add a record 89 gigawatts (GW) of clean energy this year and to surpass that level in 2027. The surge is coming even as developers contend with more expensive financing, trade barriers and uncertainty over equipment costs and availability.\n\nAt the same time, 67.8GW of new gas-fired power could be added through 2030, according to BNEF. With just 14.3GW of gas generation slated to close over that period, the pipeline would amount to a substantial net increase.\n\nThe rapid growth of artificial intelligence (AI) and data centres is increasingly shaping US energy forecasts. BNEF now expects installed data-centre capacity to reach 118GW in 2030, which is 52% higher than its projections made only last December. Average data-centre power demand could reach 120GW by 2035, roughly five times current levels, with AI-related computing responsible for nearly half.\n\nA significant portion of new data centres will be powered by on-site natural gas systems. While the US is the world’s largest supplier of the fossil fuel, all that demand is going to tax domestic supply, and BNEF expects the industry to swing from surplus production to a deficit as soon as 2028.\n\nYet the boom is also improving the outlook for clean-energy projects. BNEF revised up by 15% its forecast through 2036 for onshore wind additions, to 99.7 gigawatts, partly in light of data-centre demand.\n\nThe outlook for batteries has improved even more. BNEF now projects that 383GW of storage will be installed through 2036, 35% more than it expected earlier this year. Federal incentives for storage remain in place even as support for some renewable projects winds down.\n\nSolar will continue to account for the biggest share of new clean generation. The analysts expect 48.9GW to be installed in 2026 alone as developers push ahead with projects that secured eligibility for expiring tax incentives. However, the utility-scale solar forecast for the period 2026 to 2036 has been revised down by 7.5%, to 430GW, due to new tariffs and the tax-credit phaseout.\n\nTechnology companies are themselves underwriting a large portion of the clean-energy expansion. More than 15GW of corporate clean-power contracts were announced through August, according to BNEF. Meta Platforms Inc and Alphabet Inc’s Google represented nearly three-quarters of that total.\n\nRising electricity needs are also renewing interest in nuclear power, although new reactors remain expensive and can take years to develop. More immediate gains can come from restarting closed reactors and increasing output from existing plants. Those projects, along with a limited number of new plants, are expected to add 13.7GW of nuclear capacity by 2036.\n\n*Uploaded by Felyx Teoh*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/822187"
+    },
+    {
+      "id": "2026-10-17-8f7603",
+      "title": "Malaysia's data centre market projected to grow 33% CAGR from 2025-2030 — S&P Global Ratings",
+      "summary": "Malaysia’s data centre market is projected to grow at a compound annual growth rate (CAGR) of 33%t from 2025 to 2030, according to S&P Global Ratings.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T05:57:40Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/822094",
+          "type": "html-list"
+        }
+      ],
+      "content": "KUALA LUMPUR (Oct 16): Malaysia’s data centre market is projected to grow at a compound annual growth rate (CAGR) of 33%t from 2025 to 2030, according to S&P Global Ratings.\n\nS&P Global Ratings director of corporate ratings Ng Yi Jing said Malaysia has been a fast-growing data centre market in the region, benefiting from both strong underlying demand and spillover demand from Singapore, which has limited land and utilities.\n\n“Now, after several years of strong growth, Malaysia's data centre growth has hit a reset mode because of tighter regulations,” Ng said in a webinar “Digital Infrastructure: Global Financing Trends and the Asia-Pacific Outlook” on Friday.\n\nShe said several years of rapid data centre growth also strained Malaysia’s power and water sectors.\n\n“Indonesia and Thailand will benefit from this spillover demand from Singapore, and increasingly Malaysia,” Ng said.\n\nMeanwhile, S&P Global Ratings managing director and head of global infrastructure and project finance Pablo Lutereau said global artificial intelligence (AI) capital expenditure spending will exceed US$1.3 trillion in 2027 versus US$870 billion in 2026 and US$470 billion in 2025.\n\nHe said companies’ internal workloads, including Microsoft CoPilot, and multiyear contracts with AI labs such as OpenAI and Anthropic, AI-native companies and enterprises, have supported AI demand.\n\nLutereau said global data centre demand is expected to grow significantly through 2030, with AI inference projected to record the fastest growth at a 35% CAGR from 2025 to 2030, followed by AI training at 22% and non-AI workloads at 11%.\n\nHe said hyperscalers’ off-balance-sheet debt is rising as major technology companies expand their data centre and AI infrastructure investments.\n\nAccording to S&P Global Ratings, Microsoft recorded the highest future lease obligations at US$329.1 billion (RM1.34 trillion) as of June 30, 2026, followed by Meta at US$279 billion, Oracle at US$260 billion and Amazon at US$137.2 billion.\n\nAs of June 30, 2026, Microsoft recorded the highest debt capacity at US$161.5 billion, followed by Alphabet at US$200.6 billion, Meta at US$109.2 billion, Amazon at US$80.7 billion, SpaceX at US$78.5 billion and Oracle at US$32.4 billion.\n\n*Uploaded by Evelyn Chan*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/822094"
+    },
+    {
+      "id": "2026-10-17-485354",
+      "title": "US AI growth faces hurdles from data center moratoriums",
+      "summary": "Local opposition and moratoriums on data center approvals are creating challenges for America's AI industry expansion. Communities are raising concerns about electricity and water consumption, along with the economic contribution versus resource use. This is leading to regulatory delays and legal challenges.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T11:51:37Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/us-ai-growth-faces-hurdles-from-data-center-moratoriums/134994075",
+          "type": "rss"
+        }
+      ],
+      "content": "The growth of America's AI sector is facing hurdles from local opposition to large-scale data centers, Forbes reported.Community concerns include the electricity and water required by these facilities and their economic contribution versus resource consumption.Local authorities are responding to these issues with temporary suspensions of new facilities. They are also developing regulations for the rapidly developing industry.Raleigh, North Carolina, approved a six-month moratorium on large data center approvals on October 6 by a 7-to-1 vote.This temporary measure allows officials time to evaluate impacts on adjacent properties and local resources, without banning the business outright.The National Conference of State Legislatures found that 16 state legislatures were contemplating a data center moratorium or ban in September.Extensive data centers require considerable electricity, cooling solutions, backup power, fiber optic connections, and infrastructure upgrades. These components often involve different governmental or utility organisations.Ilissa Miller, CEO of iMiller Public Relations, claims local communities need an enhanced approach to analysing these projects.Miller also chairs the Digital Infrastructure Framework Committee of the OIX Association. This committee works on guidelines to help local communities understand data center technology and evaluate projects.Lawsuits on environmental issues are also creating uncertainty for corporations constructing AI infrastructure. A potential Google data center project in Pine Island, Minnesota, faced a lawsuit from the Minnesota Centre for Environmental Advocacy.The court imposed a temporary restraining order against construction work until the city's environmental assessment is questioned. In Mississippi, the NAACP filed a lawsuit against xAI for using gas turbines to operate its Colossus data centers.The NAACP claimed a violation of federal laws regarding clean air. Delays from such issues can increase costs and cast doubt on site viability.Fragmentation within the regulatory environment further complicates planning. Various rules in different states and municipalities create additional hurdles.Amazon Web Services chief executive Matt Garman stated the firm no longer uses non-disclosure clauses with government bodies for its projects.Amazon has also promised several-year investments in education, job training, and water and energy conservation in communities with its data centers.The Raleigh moratorium aims to create permanent regulations regarding power, water, environment, and public engagement. This is intended before its expiry on April 6, 2027.\n\n- Policy, Land & Power\n- 2 min Read\n\n# US AI growth faces hurdles from data center moratoriums\n\nLocal opposition and moratoriums on data center approvals are creating challenges for America's AI industry expansion. Communities are raising concerns about electricity and water consumption, along with the economic contribution versus resource use. This is leading to regulatory delays and legal challenges.\n\n- Published On Oct 16, 2026 at 05:21 PM IST\n\n## Highlights\n\n- Local opposition and moratoriums are hindering AI industry growth in the US.\n- Raleigh, North Carolina, approved a six-month moratorium on data center approvals.\n- Sixteen state legislatures were considering data center moratoriums or bans in September.\n- Environmental lawsuits and regulatory fragmentation add to project development challenges.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/us-ai-growth-faces-hurdles-from-data-center-moratoriums/134994075"
+    },
+    {
+      "id": "2026-10-17-a22e4b",
+      "title": "Schneider Electric raises 2026 targets on AI data centre demand",
+      "summary": "Schneider Electric has increased its 2026 revenue and profit targets for the second time this year, citing strong demand from AI data centres. The company now forecasts higher organic growth for both adjusted earnings and revenue.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T11:51:08Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/schneider-electric-raises-2026-targets-on-ai-data-centre-demand/134994058",
+          "type": "rss"
+        }
+      ],
+      "content": "Schneider Electric has raised its 2026 core profit and revenue targets for the second time this year, the company announced on Friday.The French industrial group now expects its adjusted earnings before interest, taxes, depreciation and amortisation to grow between 18 per cent and 21 per cent organically in 2026. This is an increase from its earlier forecast of 14 per cent to 19 per cent.Organic revenue growth estimations have also been revised to range from 12 per cent to 14 per cent, up from the previous range of 10 per cent to 13 per cent. This growth is primarily fuelled by a surge in demand from major cloud corporations building AI data centres.Schneider Electric, known for its industrial electrical equipment, has become a significant beneficiary of the AI boom. It supplies critical infrastructure for data centres, including cooling units, server racks, and power distribution equipment.CEO Olivier Blum stated that \"Data Centres remained a key growth driver as we continue to execute on our backlog while seeing triple-digit demand growth in the quarter.\" The company's revenue reached a record high of 11.46 billion euros ($12.87 billion) in the third quarter, surpassing analysts' average forecasts.Demand remained healthy across all four end-markets, supporting another record backlog, Blum added. Orders for data centre power, cooling, and automation equipment are sustained by strong demand from US hyperscalers. However, third-quarter growth was led by China and East Asia.The data centre business drove growth in these regions, stemming from direct sales to large customers in social media, technology, and digital infrastructure. It also came from domestic and regional co-location customers.\n\n- Energy, Cooling & Sustainability\n- 1 min Read\n\n# Schneider Electric raises 2026 targets on AI data centre demand\n\nSchneider Electric has increased its 2026 revenue and profit targets for the second time this year, citing strong demand from AI data centres. The company now forecasts higher organic growth for both adjusted earnings and revenue.\n\n- Published On Oct 16, 2026 at 05:21 PM IST\n\n## Highlights\n\n- Schneider Electric raised 2026 profit and revenue targets for the second time this year.\n- Adjusted earnings are forecast to grow 18-21 per cent organically, revenue 12-14 per cent.\n- Demand from AI data centres and major cloud corporations is driving this growth.\n- China and East Asia led third-quarter growth for data centre equipment sales.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/schneider-electric-raises-2026-targets-on-ai-data-centre-demand/134994058"
+    },
+    {
+      "id": "2026-10-17-53f539",
+      "title": "India's data centre capacity to grow to 24-26 GW by 2036",
+      "summary": "India's data centre capacity is projected to increase to 24-26 GW from less than 2 GW, according to Central Electricity Authority (CEA) Chairperson Ghanshyam Prasad. This growth will have minimal impact on overall electricity demand, with renewable energy capacity targeting 800 GW by 2035-36.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T11:50:45Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/indias-data-centre-capacity-to-grow-to-24-26-gw-by-2036/134994030",
+          "type": "rss"
+        }
+      ],
+      "content": "India's data centre capacity is projected to reach 24-26 GW from its current level of less than 2 GW, stated Central Electricity Authority (CEA) Chairperson Ghanshyam Prasad. He indicated that this expansion's share of overall electricity demand would likely remain limited.Prasad further explained that the anticipated growth in data centre capacity has already been incorporated into the country's future power demand forecasts. Generation capacity is being expanded to meet these projections, he added.Addressing the 'Making the Indian Power Sector AI Enabled' event, Prasad highlighted that India's installed renewable energy capacity has surpassed 300 GW, reaching 308 GW. The country aims for approximately 500 GW of renewable energy by 2030, with a further target of 800 GW by 2035-36.Prasad also expressed optimism regarding the development of energy storage infrastructure, noting its increasing momentum. He emphasised the necessity of accelerating smart meter adoption to enhance visibility of electricity consumption and generation across the power network.\n\n- Energy, Cooling & Sustainability\n- 1 min Read\n\n# India's data centre capacity to grow to 24-26 GW by 2036\n\nIndia's data centre capacity is projected to increase to 24-26 GW from less than 2 GW, according to Central Electricity Authority (CEA) Chairperson Ghanshyam Prasad. This growth will have minimal impact on overall electricity demand, with renewable energy capacity targeting 800 GW by 2035-36.\n\n- Published On Oct 16, 2026 at 05:20 PM IST\n\n## Highlights\n\n- India's data centre capacity is set to grow from under 2 GW to 24-26 GW.\n- Central Electricity Authority factored this data centre growth into power demand forecasts.\n- India targets 800 GW of renewable energy capacity by 2035-36.\n- Energy storage infrastructure and smart meter adoption are gaining momentum.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/indias-data-centre-capacity-to-grow-to-24-26-gw-by-2036/134994030"
+    },
+    {
+      "id": "2026-10-17-ce31cc",
+      "title": "CapitaLand Investments unveils new data center in Chennai",
+      "summary": "CapitaLand Investment Limited (CLI), a global real asset manager,has unveiled CapitaLand Data Center Chennai 01, the first data center development in Tamil Nadu by CLI’s listed fund platform, CapitaLand India Trust (CLINT), a Singapore-listed business trust focused on India. The new data center will deliver 53 MW of gross power capacity upon completion by the […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T11:24:24Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/capitaland-investments-unveils-new-data-center-in-chennai/",
+          "type": "rss"
+        }
+      ],
+      "content": "CapitaLand Investment Limited (CLI), a global real asset manager,has unveiled CapitaLand Data Center Chennai 01, the first data center development in Tamil Nadu by CLI’s listed fund platform, CapitaLand India Trust (CLINT), a Singapore-listed business trust focused on India. The new data center will deliver 53 MW of gross power capacity upon completion by the end of 2026.\n\nCapitaLand Data Center Chennai 01 is jointly held by CLINT and CapitaLand India Data Centre Fund. Located in Ambattur, an established data center corridor in Chennai, the data center will have 34 MW of IT power capacity across 13 data halls, supported by a dedicated 110 kV substation. The facility builds on CLI’s 22-year presence in Tamil Nadu, where it has invested more than INR 6,000 crore across seven operational assets.\n\nThe data center was unveiled by Gan Kim Yong, Singapore’s Deputy Prime Minister and Minister for Energy, Trade and Industry (Trade), and C. Joseph Vijay, Chief Minister of Tamil Nadu. The new Chennai data center reflects the growing collaboration between Singapore and Tamil Nadu, supported by agencies such as Enterprise Singapore and Guidance Tamil Nadu.\n\nIn a press release, Quaiser Parvez, CEO, India, CLI, said, “By combining our deep local investment, development and operational capabilities with the strength of our listed and private fund platforms, CLI is well-positioned to support Tamil Nadu’s growth as a technology, manufacturing and digital economy hub.”\n\nGauri Shankar Nagabhushanam, CEO, CLINT, said, “The unveiling of CapitaLand Data Center Chennai 01 marks another important milestone in CLINT’s diversification into digital infrastructure. With a total planned investment of approximately INR 1,940 crore, the development reflects our conviction in the long-term growth of India’s data center sector and is designed to meet the evolving requirements of hyperscale and enterprise customers.”\n\nChennai 01 is designed to support high-density and liquid-cooled deployments and carrier-neutral connectivity. Targeting LEED Gold certification, the data center’s sustainability features will include high-efficiency chillers, water economisation, intelligent energy and infrastructure management and solar panels.\n\nThe event was also attended by Simon Wong, Singapore High Commissioner to India; Mr Gauri Shankar Nagabhushanam, CEO, CLINT; Mr Dev Gupta, CLI’s Managing Director, Private Funds (Data Center); and senior government dignitaries.",
+      "content_url": "https://w.media/capitaland-investments-unveils-new-data-center-in-chennai/"
+    },
+    {
+      "id": "2026-10-17-365e22",
+      "title": "Digital Realty completes structural milestone at South Korean data center",
+      "summary": "Digital Realty has marked the topping-out of ICN11, its latest data center development in South Korea, with the facility scheduled to become operational in the second half of 2027. ICN11 is intended to address growing demand for data center capacity in South Korea, driven by increased adoption of cloud services, connectivity and artificial intelligence infrastructure. […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T09:27:47Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/digital-realty-completes-structural-milestone-at-south-korean-data-center/",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/construction-site-development/digital-realty-completes-south-korea-data-center-structural-milestone/134994065",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Digital Realty"
+      ],
+      "content": "Digital Realty has marked the topping-out of ICN11, its latest data center development in South Korea, with the facility scheduled to become operational in the second half of 2027. ICN11 is intended to address growing demand for data center capacity in South Korea, driven by increased adoption of cloud services, connectivity and artificial intelligence infrastructure.\n\nOnce operational, the facility will expand Digital Realty’s infrastructure capacity in the country and support customers’ computing and connectivity requirements. The project is being developed with construction partners DPR Construction, DL E&C, Turner & Townsend, and Heerim Architects & Planners.\n\nIn a LinkedIn post, Digital Realty described the occasion as “The topping out isn’t just a construction milestone; it’s a powerful symbol of what happens when incredible teams come together to build something bigger than any one of us could achieve alone.”\n\nReaders will recall that during Q2 2021, Digital Realty acquired a five-acre land parcel in Seoul, South Korea for US$ 66 million.\n\nThe parcel is located at Gurae-dong, Gimpo City in northwest Seoul, 14 miles from Digital Seoul 1 (ICN10), which was Digital Realty’s first facility in South Korea. Digital Realty’s new land parcel supported the development of the ICN11 facility which has 64 MW of critical IT capacity across 970k sq ft.\n\nAccording to a Mordor Intelligence report, the South Korea data center market is projected to grow from US$ 1.96 billion in 2025, and US$ 1.99 billion in 2026, to US$ 5.02 billion by 2031, representing a Compound Annual Growth Rate (CAGR) of 20.38 percent between 2026 and 2031. The market is expected to expand from 3.25 thousand MW in 2025 and 3.51 thousand MW in 2026 to 15.88 thousand MW by 2031, registering a CAGR of 35.21 percent over the forecast period.",
+      "content_url": "https://w.media/digital-realty-completes-structural-milestone-at-south-korean-data-center/"
+    },
+    {
+      "id": "2026-10-17-5ccb9c",
+      "title": "PLDT defers Vitro REIT IPO to 2027 amid market volatility",
+      "summary": "Philippines telco PLDT Inc. has postponed the public listing of its data center unit Vitro REIT Inc. to 2027. The deferral is due to unfavorable market conditions and rising interest rates, the firm said in an exchange filing. This would have been the country's first digital infrastructure real estate investment trust listing.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T08:20:46Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/pldt-defers-vitro-reit-ipo-to-2027-amid-market-volatility/134987716",
+          "type": "rss"
+        }
+      ],
+      "content": "Philippines telco PLDT Inc. has deferred the public listing of its data center unit Vitro REIT Inc. to 2027. The company cited unfavorable market conditions and rising interest rates for the postponement, according to an exchange filing.The initial public offering (IPO) was originally targeted for the fourth quarter of 2026. It would have marked the Philippines' first digital infrastructure real estate investment trust (REIT) listing.PLDT stated its continued commitment to the proposed Vitro REIT IPO. The company views it as a key part of its asset monetization and deleveraging plans. The IPO is also intended to support the expansion of the REIT portfolio and the growth of PLDT's data center business.The proposed listing was expected to raise up to US$400 million. It would include Vitro REIT's portfolio of eight Tier 2 and Tier 3 data center assets, totaling 24MW of capacity. The Philippines central bank has raised interest rates three times this year, and headline inflation reached 7.2 per cent in September.\n\n- Investments & Deals\n- 1 min Read\n\n# PLDT defers Vitro REIT IPO to 2027 amid market volatility\n\nPhilippines telco PLDT Inc. has postponed the public listing of its data center unit Vitro REIT Inc. to 2027. The deferral is due to unfavorable market conditions and rising interest rates, the firm said in an exchange filing. This would have been the country's first digital infrastructure real estate investment trust listing.\n\n- Published On Oct 16, 2026 at 01:50 PM IST\n\n## Highlights\n\n- PLDT Inc. postponed its Vitro REIT data center IPO until 2027.\n- The deferral is due to current market conditions and rising interest rates.\n- The IPO would have been the Philippines' first digital infrastructure REIT.\n- Vitro REIT's portfolio includes eight data centers with 24MW capacity.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/pldt-defers-vitro-reit-ipo-to-2027-amid-market-volatility/134987716"
+    },
+    {
+      "id": "2026-10-17-8b22a3",
+      "title": "Mitsubishi Heavy, Ingeteam partner for US data center power",
+      "summary": "Mitsubishi Heavy Industries (MHI) and Ingeteam S.A. have formed a strategic partnership to develop and distribute energy infrastructure solutions for US data centers. The collaboration aims to address the rising power demands and quality concerns associated with AI workloads.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T08:20:37Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/mitsubishi-heavy-ingeteam-partner-for-us-data-center-power/134987707",
+          "type": "rss"
+        }
+      ],
+      "content": "Mitsubishi Heavy Industries (MHI), a Japanese engineering firm, and Spain's Ingeteam S.A., an electrical equipment specialist, have signed a memorandum of understanding (MoU). This partnership focuses on distributing, integrating, and jointly developing energy infrastructure solutions for data centers in the United States.The collaboration will bring Ingeteam’s power conversion solutions and related software to the US data center market through MHI. The companies will also explore integrating select technologies into advanced energy infrastructure architectures developed by MHI.Shin Gomi, Senior General Manager of Data Center & Energy Management Department at MHI, noted that the challenge is now delivering high-quality, reliable power for AI workloads. Adolfo Rebollo, Chief Executive Officer at Ingeteam, stated the alliance allows Ingeteam to bring its power electronics and grid expertise to US data centers.The partnership aims to bridge the electric grid and next-generation AI infrastructure. This will enable customers to scale computing capacity while maintaining reliability and efficiency, according to Rebollo.The collaboration may also extend to next-generation energy infrastructure architecture solutions. These include advanced medium-voltage distribution technologies and energy management systems for high-density computing environments. This work is subject to technical and commercial evaluation.MHI highlighted that dynamic load profiles from AI workloads are creating new vulnerabilities related to power quality. Harmonic distortion and voltage imbalance negatively affect operational reliability and equipment lifetimes. These issues, combined with protracted grid interconnection timelines, are making power architecture a major concern for data center operators.\n\n- Energy, Cooling & Sustainability\n- 1 min Read\n\n# Mitsubishi Heavy, Ingeteam partner for US data center power\n\nMitsubishi Heavy Industries (MHI) and Ingeteam S.A. have formed a strategic partnership to develop and distribute energy infrastructure solutions for US data centers. The collaboration aims to address the rising power demands and quality concerns associated with AI workloads.\n\n- Published On Oct 16, 2026 at 01:50 PM IST\n\n## Highlights\n\n- Mitsubishi Heavy Industries and Ingeteam partner for US data center power solutions.\n- The collaboration targets high-quality, reliable power for AI workloads.\n- They will distribute Ingeteam’s power conversion solutions through MHI.\n- The partnership explores advanced energy infrastructure architectures for high-density computing.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/mitsubishi-heavy-ingeteam-partner-for-us-data-center-power/134987707"
+    },
+    {
+      "id": "2026-10-17-e95e62",
+      "title": "AirTrunk nears deal to sell its Johor data centers for US$1 billion: Report",
+      "summary": "Blackstone-backed hyperscale data center operator AirTrunk is about to seal a deal to sell its Johor data centers to a group of investors including Malaysian pension fund KWAP at a valuation of about US$ 1 billion, according to Reuters yesterday citing people familiar with the matter. AirTrunk has recently postponed its planned Singapore REIT listing to possibly […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T07:14:06Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/airtrunk-nears-deal-to-sell-its-johor-data-centers-for-us1-billion-report/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "AirTrunk"
+      ],
+      "content": "Blackstone-backed hyperscale data center operator AirTrunk is about to seal a deal to sell its Johor data centers to a group of investors including Malaysian pension fund KWAP at a valuation of about US$ 1 billion, according to Reuters yesterday citing people familiar with the matter.\n\n<u>AirTrunk</u> has recently postponed its planned Singapore REIT listing to possibly early next year citing market volatility and uncertainty over US interest rates. The IPO which could raise US$1.5 billion, was originally planned for launch in September or October.\n\nBlackstone and KWAP declined to comment, as per Reuters.\n\nBlackstone is a US alternative asset manager which owns QTS, a US data center operator, and has investments in Digital Realty and CoreWeave. It manages US$ 1.3 trillion as of June 2026 making it the largest alternative asset manager in the world.",
+      "content_url": "https://w.media/airtrunk-nears-deal-to-sell-its-johor-data-centers-for-us1-billion-report/"
+    },
+    {
+      "id": "2026-10-17-0ee7b8",
+      "title": "Q&A | APAC’s mature hubs are reinventing themselves around AI-ready, high-density capacity: Mikhail Jaura, JLL",
+      "summary": "APAC’s data center landscape is diverse, with each economy showcasing unique opportunities and strengths. To better understand what lies ahead for the region’s digital infrastructure industry, we caught up with Mikhail Jaura, JLL’s newly appointed Head of Data Center Research for Asia Pacific. Q-1) In your opinion, what is the single most exciting aspect of […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-16T06:57:29Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/qa-apacs-mature-hubs-are-reinventing-themselves-around-ai-ready-high-density-capacity-mikhail-jaura-jll/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "JLL"
+      ],
+      "content": "APAC’s data center landscape is diverse, with each economy showcasing unique opportunities and strengths. To better understand what lies ahead for the region’s digital infrastructure industry, we caught up with Mikhail Jaura, JLL’s newly appointed Head of Data Center Research for Asia Pacific.\n\n##### Q-1) In your opinion, what is the single most exciting aspect of APAC’s cloud and data center market?\n\nMikhail Jaura: What excites me most is that APAC is no longer one story. Five years ago the regional narrative was essentially Singapore, Tokyo and Hong Kong. Today we have a genuinely multi-speed region. Mature hubs are reinventing themselves around AI-ready, high-density capacity. Markets like Johor, Batam, Mumbai, Chennai and Seoul’s periphery are being built at hyperscale. A further tier of countries is putting in its first serious cloud infrastructure. Each market has a different mix of power, land, policy and demand. For investors and occupiers, that diversity is both an opportunity and a challenge.\n\n##### Q-2) Despite exorbitant costs, Japan and Hong Kong remain strong digital infrastructure markets. But do you foresee a slowdown or a correction in the next few years due to other factors like labour shortages, difficulty in acquiring powered land, sustainability concerns etc.?\n\nMikhail Jaura: Demand fundamentals in both markets remain resilient. In Japan, demand is strong, driven by cloud and AI adoption across a large domestic enterprise base, and supply is not keeping pace. In Hong Kong, sentiment has improved this year on the back of demand from Mainland Chinese hyperscalers, as the market positions itself, through the Northern Metropolis, as the connectivity gateway to the Greater Bay Area.\n\nThe constraints are real, though. In Japan, grid connection timelines reaching ten years in Greater Tokyo and Osaka, construction cost inflation, and a construction labour market squeezed by overtime caps since 2024 and a shrinking workforce are lengthening delivery schedules. That is pushing development toward secondary regions such as Hokkaido and Kyushu, supported by government efforts to co-locate power and digital infrastructure.\n\nIn Hong Kong, powered land is the binding constraint, which makes government land allocation in the Northern Metropolis important. Absorption slowed in 2025 but has since rebounded, driven by AI demand from Mainland Chinese technology firms. Little new supply arrives before Sandy Ridge, which is over 200 MW, and targeting phased operations from mid-2027, and Goodman’s HKG10 in early 2028. The bigger risks are execution and concentration: projects slipping on power, demand sitting with a few large tenants, and exposure to changes in chip trade rules.\n\n##### Q-3) China has always marched to the beat of its own drum. How do you see the AI story unfolding in China, and how will it impact the wider Asian data center landscape?\n\nMikhail Jaura: China is building a largely self-contained AI stack. That stack spans domestic accelerators, its own models, and national compute programmes such as “East Data, West Computing”. Launched in 2022, that programme designates eight national computing hubs and ten data center clusters, moving new capacity toward western provinces where land, renewable power and cooling are cheaper.\n\nChinese labs now produce many of the most widely used open-weight models. Alibaba’s Qwen family recorded more than three billion downloads on Hugging Face, and many large Chinese releases carry permissive licences that allow commercial use.\n\nFurther afield, Chinese cloud and internet platforms are among the groups expanding in Southeast Asia, alongside US and regional operators, particularly in Malaysia and Thailand. Chinese cloud providers are also building out regional capacity. For host markets, this investment sits alongside large commitments from US hyperscalers. Governments are welcoming both while working within global trade rules; last year, for example, Malaysia introduced permits for the export and transshipment of US-made AI chips.\n\n##### Q-4) How do you see the hyperscale ecosystem evolving over the next few years in different APAC markets, especially South Korea, Malaysia, and Indonesia?\n\nMikhail Jaura: South Korea is moving from a Seoul-centric market to national AI infrastructure. Grid capacity in the capital region is increasingly constrained, and new transmission lines and local approvals are taking longer to secure. Policy is pushing new capacity south. The AIDC Special Act, passed in May 2026 and scheduled to take effect in Q1 2027, will fast-track permitting outside Seoul, and regional electricity pricing proposed in August 2026 would offer discounts of up to about 10% in the south.\n\nMalaysia’s Johor capacity has grown more than 50-fold since 2020, with a further 1,800 MW under construction. The next phase is about quality and location. Greater Kuala Lumpur is becoming a cloud market in its own right: Microsoft’s Malaysia West region went live there in 2025, AWS operates a region, and Google is building its first Malaysian data center at Elmina. Malaysia approved over RM 30 billion of data center and cloud investment across dozens of projects in Q1 2026 alone. Power is the gating factor.\n\nIndonesia has a large digital economy, data localisation rules and hyperscaler cloud regions in Greater Jakarta, and Batam offers a cross-border option alongside Johor for demand spilling over from Singapore. Grid reliability, renewable availability and regulatory clarity will decide how fast it scales. Earlier this year, CoreWeave entered the APAC market by announcing three new data center facilities in Indonesia, delivering 360 megawatts of contracted IT power.\n\n##### Q-5) What exciting development trends have you observed regarding enterprise demand in APAC? What are some secondary and emerging markets you are watching keenly?\n\nMikhail Jaura: Enterprise demand is maturing toward hybrid and multi-cloud architectures. Regulated, latency-sensitive and AI inference workloads are staying in colocation near cloud on-ramps. Data residency is a major driver.\n\nIn India, vacancy fell to a record 2.8% in H1 2026, with Mumbai’s growth driven mainly by domestic demand, as residency rules bring workloads onshore. In Australia, sovereign hosting requirements keep government and regulated workloads in the country.\n\nThe markets I’m watching most closely include Mumbai, which is expected to take 35 percent of India’s 4.4 GW pipeline by 2029. Also, Chennai where colocation power costs are around 8.4 US cents per kWh, against 18.1 cents in Singapore. In Australia, I’m watching Western Sydney, Melbourne and Australia’s regional markets keenly. Brisbane, Perth, South Australia and Tasmania are attracting AI campuses where power is easier to secure.\n\nI also have my eye on Greater Kuala Lumpur which is maturing into a cloud region as Johor takes the large-scale AI build. Then there are Japan’s GX regions: Hokkaido, Kyushu and Toyama. And let’s not forget Hong Kong, which is an established market that appears on the cusp of a rebound, as it repositions as the connectivity gateway to the Greater Bay Area, whilst still holding a strategic position by servicing enterprise demand from multinational corporations.\n\n##### Q-6) While operators are focusing on acquiring AI chips, do you think they are also planning for their entire lifecycle? What happens after their accounting life ends?\n\nRefresh cycles have compressed sharply. AI accelerators that used to be refreshed roughly every seven years are now refreshed in as little as 13 months. That doesn’t mean older chips are stranded. The newest chips go to frontier model training, and older generations shift to inference and fine-tuning, where cost per token matters more than peak speed.\n\nInference demand is growing fast enough to keep them booked. Earlier-generation accelerators are still in active service years after launch, which suggests their useful life can run longer than headline refresh cycles imply. For real estate, the pressure point is the building. A facility typically has 18 to 36 months before it needs a major power or cooling upgrade to host the next generation, so the priority is designing facilities flexible enough to support several chip generations over their lifetime.\n\n##### Q-7) The “power struggle” is real! In your opinion, are captive power generation units going to become more common? If so, will we see more on-site generation and dedicated direct supply from such units, or will grid offsets become more popular?\n\nMikhail Jaura: I think captive and dedicated power will become more common, but policy is already setting the model market by market. For example, in Australia, new national and state frameworks may require hyperscale and AI operators to underwrite new renewable generation and storage at least equal to their added load, and to pay for the associated network upgrades. Meanwhile, in Japan, GX subsidies covering up to 50 percent of capex are available only to projects running entirely on decarbonised local power, effectively tying data centers to nearby generation.\n\nIn South Korea, regional tariffs and grid-impact assessments are steering large loads to where generation already sits. While in Singapore, the 700 MW low-carbon data center park on Jurong Island links new capacity allocations to low-carbon energy pathways. Then there’s India, where group captive and open-access renewable models are already well established.\n\nThe dominant model will be hybrid. The grid stays the backbone, supplemented by dedicated renewables, on-site generation for speed, and storage. Grid offsets still matter for ESG reporting, but they don’t solve physical power availability, and speed-to-power is now the deciding site selection factor.\n\n##### Q-8) How is water access impacting leasing choices, given protests over data center water consumption in water-stressed markets?\n\nMikhail Jaura: Water has moved from an ESG footnote to a permitting criterion. For example, Johor has enforced tighter controls that restrict development of Tier 1 and Tier 2 facilities. In Australia, new frameworks restrict the use of potable water for cooling and require recycled or alternative sources. Developers are expected to fund the dedicated water infrastructure their projects need. Meanwhile in Thailand, water is one of the areas being reviewed by the subcommittees drafting national standards during the nation’s temporary pause on data center projects.\n\nFor leasing, hyperscale occupiers now ask detailed questions about cooling design, water usage effectiveness (WUE) and water sourcing at the RFP stage. There is a trade-off: moving away from evaporative cooling saves water but can increase power use. The shift to direct-to-chip liquid cooling for AI generally helps on both counts, particularly in closed-loop systems that recirculate the same coolant and need little or no make-up water. That is still not widely understood outside the industry. Sites that depend on contested municipal water will face longer approvals, while those with access to recycled or industrial water are better placed.\n\nWater is also part of a wider question of social licence. Community pushback on data centers has become a contentious issue in the US, and that scrutiny is now reaching APAC.",
+      "content_url": "https://w.media/qa-apacs-mature-hubs-are-reinventing-themselves-around-ai-ready-high-density-capacity-mikhail-jaura-jll/"
+    }
+  ]
+}
