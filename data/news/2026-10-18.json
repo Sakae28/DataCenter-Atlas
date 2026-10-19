@@ -2,26 +2,30 @@
   "date": "2026-10-18",
   "generated_at": "2026-10-18T06:03:24Z",
   "hot": [
+    "2026-10-18-b9965d",
     "2026-10-18-925721",
-    "2026-10-18-1c6cfa",
-    "2026-10-18-35ec89",
-    "2026-10-18-c25503",
-    "2026-10-18-b9965d"
+    "2026-10-18-03ac29",
+    "2026-10-18-1c6cfa"
   ],
   "stories": [
     {
       "id": "2026-10-18-925721",
       "title": "Digital Realty tops out second Seoul data center",
       "summary": "Digital Realty has topped out ICN11, its second data center in Seoul, South Korea. The 64MW facility in Gimpo City is now expected to become operational in the second half of 2027.",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "The topping-out locks in new capacity in a metro where power and land constraints have limited supply, giving cloud and AI tenants a clearer runway for Korean deployments from 2027 onward. It also intensifies competition among colocation providers racing to secure sites and utility commitments in the Seoul region.",
+      "score": 72,
       "heat": 1,
       "regions": [
-        "global"
+        "korea"
       ],
-      "topics": [],
+      "topics": [
+        "capacity",
+        "hyperscale",
+        "construction",
+        "colocation"
+      ],
       "published_at": "2026-10-18T03:20:34Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "ET Datacenters",
@@ -33,19 +37,27 @@
         "Digital Realty"
       ],
       "content": "Digital Realty has topped out ICN11, its second data center in Seoul, South Korea. This 64MW facility is located in Gimpo City, northwest of Seoul, and is expected to become operational in the second half of 2027.The ICN11 project, first announced in 2021, spans nearly 1 million sq ft (92,903 sqm). DPR Construction, DL E&C, Turner & Townsend, and Heerim Architects & Planners are working on its development.Digital Realty's existing ICN10 facility in Seoul, operational since 2022, provides up to 12MW of IT capacity across 132,000 sq ft (12,265 sqm). ICN11 was originally scheduled to open in the first half of 2023.\n\n- Construction & Site Development\n- 1 min Read\n\n# Digital Realty tops out second Seoul data center\n\nDigital Realty has topped out ICN11, its second data center in Seoul, South Korea. The 64MW facility in Gimpo City is now expected to become operational in the second half of 2027.\n\n- Published On Oct 18, 2026 at 08:50 AM IST\n\n## Highlights\n\n- Digital Realty tops out ICN11, its second data center in Seoul, South Korea.\n- The 64MW facility in Gimpo City is expected to open in the second half of 2027.\n- ICN11 spans nearly 1 million sq ft, expanding Digital Realty's Korean footprint.\n- Multiple firms, including DPR Construction, are involved in the ICN11 project.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/construction-site-development/digital-realty-tops-out-second-seoul-data-center/135023264"
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/construction-site-development/digital-realty-tops-out-second-seoul-data-center/135023264",
+      "title_zh": "Digital Realty首尔第二座数据中心封顶",
+      "summary_zh": "Digital Realty已为其位于韩国首尔的第二座数据中心ICN11完成封顶。这座位于金浦市、容量为64MW的设施预计将于2027年下半年投入运营。",
+      "why_zh": "此次封顶在一个电力和土地受限、供应紧张的大都市区锁定了新增产能，让云计算和AI租户自2027年起在韩国部署业务有了更清晰的路径。这也加剧了各colocation服务商之间的竞争——它们正争相在首尔地区锁定场地和电力供应承诺。"
     },
     {
       "id": "2026-10-18-1c6cfa",
       "title": "AI race hinges on power, infrastructure over chips: Morgan Stanley",
       "summary": "The global competition for artificial intelligence (AI) capabilities will increasingly depend on access to electricity, financing, and data-centre infrastructure, rather than solely on chip supply, a Morgan Stanley report states. This assessment comes as rapid AI infrastructure investment threatens to outpace electricity availability.",
       "why_it_matters": "",
-      "score": null,
+      "score": 58,
       "heat": 1,
       "regions": [
         "global"
       ],
-      "topics": [],
+      "topics": [
+        "ai",
+        "power",
+        "infrastructure",
+        "chips"
+      ],
       "published_at": "2026-10-18T03:20:23Z",
       "featured": false,
       "sources": [
@@ -56,67 +68,31 @@
         }
       ],
       "content": "The global race to expand artificial intelligence (AI) capabilities could increasingly be determined by access to electricity, financing, and data-centre infrastructure, rather than just the ability to acquire advanced chips, according to a Morgan Stanley research report.The report, titled \"What Does the Power Shortfall Mean for Semis?\", estimates that US data-centre developers could face a 32-gigawatt (GW) power shortfall through 2028. This represents approximately 34 per cent of projected power requirements, even after accounting for additional generation solutions.Morgan Stanley said that access to electricity increasingly favours large companies with strong financial backing and predictable revenues. The report stated that data centre energization is being concentrated across a handful of large, credit-worthy players.Major technology companies and specialist cloud providers could account for about 94 per cent of global data-centre capacity additions in 2026. This figure is projected to be 64 per cent in 2027 and 57 per cent in 2028.The constraints could also affect semiconductor manufacturers if data centres are unable to install ordered chips. The report warned that customers might push out delivery or cancel orders if chip capacity cannot be deployed.The infrastructure challenge may extend beyond 2028, with the cumulative US data-centre power shortfall potentially widening to 68 GW by 2029. This shortage could encourage technology companies to expand computing infrastructure outside the United States, including in Asian markets such as India.Morgan Stanley's Asia data-centre team estimates that 14 GW of demand from US hyperscalers could shift to Asia through 2030. The report does not specify India's exact share of this potential shift.\n\n- AI & Compute Infrastructure\n- 1 min Read\n\n# AI race hinges on power, infrastructure over chips: Morgan Stanley\n\nThe global competition for artificial intelligence (AI) capabilities will increasingly depend on access to electricity, financing, and data-centre infrastructure, rather than solely on chip supply, a Morgan Stanley report states. This assessment comes as rapid AI infrastructure investment threatens to outpace electricity availability.\n\n- Published On Oct 18, 2026 at 08:50 AM IST\n\n## Highlights\n\n- Global AI expansion depends more on power, infrastructure than chip supply, Morgan Stanley reports.\n- US data centres face a 32 GW power shortfall through 2028, representing 34 per cent of requirements.\n- Access to electricity for data centres increasingly favours large companies with strong financial backing.\n- 14 GW of US hyperscaler demand could shift to Asia, including India, by 2030 due to power shortages.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/ai-race-hinges-on-power-infrastructure-over-chips-morgan-stanley/135023262"
-    },
-    {
-      "id": "2026-10-18-35ec89",
-      "title": "US data centers face policy, community pushback over resource use",
-      "summary": "The US data center market, projected to reach US$168.34 billion by 2031, faces growing legislative and community opposition. This pushback is primarily due to concerns over high electricity and water consumption.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/ai-race-hinges-on-power-infrastructure-over-chips-morgan-stanley/135023262",
+      "companies": [
+        "Morgan Stanley"
       ],
-      "topics": [],
-      "published_at": "2026-10-17T15:45:26Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/us-data-centers-face-policy-community-pushback-over-resource-use/135016608",
-          "type": "rss"
-        }
-      ],
-      "content": "The US data center market, estimated at US$122.08 billion in 2026, is projected to expand to US$168.34 billion by 2031, according to Mordor Intelligence. Goldman Sachs estimates that the power demand for US data centers will double from 31 GW in 2025 to 66 GW in 2027. This rapid growth has led to increased pressure on resources.Over 200 local governments and nearly a dozen US states have implemented laws or moratoriums to regulate data center development. These measures aim to address concerns regarding indiscriminate expansion of hyperscale and artificial intelligence (AI) data centers.New York State Senator Liz Krueger and Assemblymember Anna Kelles introduced legislation in February to impose a temporary three-year moratorium on new data center construction across New York. Senator Krueger stated that massive data centers drive up utility prices and negatively impact the environment and community. Assemblymember Kelles noted that the legislation provides a pause for a comprehensive assessment and the establishment of data-driven standards.Separately, Senator Bernie Sanders and Representative Alexandria Ocasio-Cortez proposed the Artificial Intelligence (AI) Data Center Moratorium Act in March. This legislation seeks a temporary prohibition on new data center construction and expansion until Congress passes comprehensive AI legislation. Senator Sanders highlighted the unprecedented scale and speed of the AI revolution, advocating for public debate and democratic oversight.Concerns also extend to water consumption, with large data centers potentially using up to 5 million gallons per day, equivalent to a town of 10,000 to 50,000 people, as per the Environmental and Energy Study Institute (EESI). The University of California, Riverside, includes off-site power generation and chip manufacturing in its water consumption calculations for data centers. Liquid cooling technologies, such as immersion and direct-to-chip cooling, are highlighted as the most efficient methods to reduce water use.In response to electricity concerns, major technology companies including Amazon, Google, Meta, Microsoft, OpenAI, Oracle, and xAI signed the Ratepayer Protection Pledge in March. This voluntary agreement commits companies to build, bring, or buy new generation resources for data centers and cover related transmission and distribution upgrade costs. For instance, Google signed two long-term power purchase agreements (PPAs) with TotalEnergies in February, securing 1 GW of solar capacity for its Texas data centers over 15 years. Meta and Zelestra are also expanding their clean energy collaboration with a PPA for the 176 MWdc Skull Creek Solar Plant in Texas, expected to be operational in May 2027.\n\n- Policy, Land & Power\n- 2 min Read\n\n# US data centers face policy, community pushback over resource use\n\nThe US data center market, projected to reach US$168.34 billion by 2031, faces growing legislative and community opposition. This pushback is primarily due to concerns over high electricity and water consumption.\n\n- Published On Oct 17, 2026 at 09:15 PM IST\n\n## Highlights\n\n- US data center market to reach US$168.34 billion by 2031, according to Mordor Intelligence.\n- Goldman Sachs forecasts US data center power demand to double to 66 GW by 2027.\n- Over 200 local governments and states have imposed moratoriums on data center development.\n- Major tech companies pledged to source new power and cover grid upgrade costs.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/us-data-centers-face-policy-community-pushback-over-resource-use/135016608"
-    },
-    {
-      "id": "2026-10-18-c25503",
-      "title": "Sponsored: The hidden costs: Why data center sustainability fails without operational discipline",
-      "summary": "How prioritizing the small things with sustained investment and follow-through can help to pave the way to achieving true data center sustainability goals",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-17T15:00:00Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "Data Center Dynamics",
-          "url": "https://www.datacenterdynamics.com/en/opinions/the-hidden-costs-why-data-center-sustainability-fails-without-operational-discipline/",
-          "type": "rss"
-        }
-      ],
-      "content": "Even the most efficiently designed modern facilities experience energy loss in small, often invisible ways. Individually, these losses are insignificant and rarely worth writing in a sustainability report. Headline initiatives may be about the major strategic shifts, but the uncomfortable truth is that data center sustainability is not about the big transformation; it is about the follow-through.\n\nFor boards overseeing data center investments, sustainability conversations tend to gravitate to the initiatives that are easier to present and promote: capital projects with clear before-and-after metrics, declarations and commitments to renewable energy, and efficiency targets. But they are not where most of the avoidable costs lie.\n\nThe bigger financial exposure is often in the less glamorous, less visible details: the ongoing operational discipline required to keep a data center efficient after it's been built. Without it, even a well-designed, well-capitalized facility will bleed money, unevidenced as a single line item that anyone can point a finger at.\n\nThis is a different kind of risk than a cost overrun or an outage. It doesn't announce itself. It accumulates.\n\n## Risk profiles\n\n**Capital initiatives**: Replacing aging cooling infrastructure and redesigning airflow containment are conspicuous, fundable, and accountable initiatives. These go through a capital approval process, have a defined ROI case, and produce a measurable result. Organization is generally good at executing this kind of work because it fits existing governance structures.\n\n**Operational discipline**: The continuous, dull work of maintaining what's already been built does not have an approval gate. There often isn’t an obvious accountable owner, and, without a dramatic failure that forces it onto the agenda, it is most likely to be underfunded and under-governed. But it can represent a comparable share of total energy waste.\n\n## Where the losses lie\n\n**Physical waste:** While small gaps around rails, floor tiles, and rack openings may not cause immediate problems, over time they add up to significant wasted energy.\n\nThere’s no failing equipment, so no incident report gets filed. However, left unmanaged, this energy waste can compound, forcing cooling systems to work harder for the same output. This is easy to deprioritize, but expensive to ignore.\n\n**Strategic waste:** Strategic inefficiencies exacerbate the physical ones. Zombie servers draw power without delivering value, and outdated hardware continues to run well past the point where consolidation or replacement would be cheaper. But to avoid these inefficiencies means the component candidates need to be identified and the resources committed – projects often deprioritized amid daily operations.\n\n## Sustained investment\n\nIn both cases, the financial exposure isn't caused by a bad decision. It's caused by the absence of a decision. A gap that nobody is responsible for closing.\n\nCapital expenditure gets one moment of intense scrutiny, and then it's done. Operational discipline doesn't work that way. It's a continuous process with no single sign-off, no individual decision, and no moment where someone needs to ask, \"Is this still efficient?\"\n\nOne large, visible cost is easy to capture. What’s not easy is to catch a hundred small ones, none of which individually justifies an investigation. The result is a facility that looks the same on paper as the day it was commissioned while performing materially worse in practice.\n\n## The big issues\n\n### 1. PUE decay\n\nA facility commissioned at a PUE of 1.3 rarely stays there. Modern hyperscale facilities are routinely engineered toward a PUE near 1.1–1.2. In 2026, enterprise data centers typically operate between PUE 1.6–2.0 (higher for legacy sites), while modern colocation facilities generally achieve PUE in the 1.4–1.6 range and that gap often isn't a design flaw; it's accumulated drift. Common contributors are:\n\n- **Containment breaches**. Missing blanking panels, gaps around cable cutouts, and unsealed floor tiles that let hot and cold air mix. Each individual gap is tiny. Dozens of them, collected over years of moves, adds and changes, are not.\n- **Cooling systems**. Reduced airflow and heat transfer efficiency creep in gradually, and the cooling system compensates by working harder rather than failing outright, so there's no alarm, just a slowly rising kWh.\n- **Sensor drift**. Miscalibrated temperature and humidity sensors cause CRAC/CRAH units to overcool, undercool, or fight each other across zones.\n- **Orphaned adjustments**. Changes made during an incident (a hot spot, a vendor visit, a one-off load event) that are never reverted once the original condition resolves.\n\nNone of these triggers a ticket on its own. They show up as anomalies that are easy to attribute to \"weather\" or \"load” or \"just how the building runs.\"\n\n### 2. Stranded capacity\n\nOperators frequently overprovision power and cooling per rack to be safe, then never revisit allocations as the real draw becomes clear. The result is that the facility reads as fully allocated, i.e., power and cooling spoken for, while the actual utilization sits at 40–60 percent of that allocation.\n\nEvery additional kW of usable capacity therefore ends up costing far more than the original design model assumed. It can also distort expansion decisions, with operators concluding more space might need to be found when the real problem is that existing capacity has never been reclaimed.\n\n### 3. Keeping the lights on\n\nIndustry surveys have repeatedly found large shares of physical servers are \"comatose” – drawing power while doing little or no useful work. An asset goes idle when a project ends or a migration completes, and nobody formally retires it. This results in both wasted power draw and wasted rack space that could otherwise be reclaimed as usable capacity. This is a tracking and decommissioning process problem.\n\n### 4. Deferred maintenance masquerading as savings\n\nSkipping or stretching maintenance cycles can produce a visible short-term lower maintenance spend but can become an invisible long-term liability. At best, nothing bad happens for years. The deferral looks like a good decision, until a single failure event such as an unplanned outage or an emergency vendor callout presents a loss that dwarfs every dollar saved.\n\nThe dangerous part of this pattern is that it's self-reinforcing. Because the early years look fine, deferred maintenance gets read as evidence the schedule was conservative to begin with, rather than as a risk that hasn't come due yet.\n\n### 5. Vendor/contract creep\n\nService contracts, licensing, and managed-service agreements go unreviewed. Costs can escalate via auto-renewals, by increased pricing that hasn't been renegotiated against market rates, or because the subscription is just not needed anymore.\n\nOnce again, no single renewal is the problem. It's the absence of a periodic audit.\n\n## The common thread\n\nAll these issues share the same consequences: small, individually defensible decisions or omissions that are repeated or left unaddressed over time. They amalgamate into a real and substantial cost. This is not a failure of engineering. It is a failure, or absence, of an ongoing process designed to catch drift before it compounds.\n\nThis is also why it's organizationally hard to fix. Capital projects have natural owners and natural review cycles built into how they're funded. Operational discipline doesn't. These are metrics that don't show up until something has already gone quietly wrong for a long time.\n\n## The bottom line for the board\n\nSustainability commitments are typically judged by the visible initiatives a company announces. The actual cost discipline that ascertains whether those commitments translate into real savings is determined by something much quieter: whether routine operational maintenance is treated as a governed business function or an informal activity.\n\nThe most effective oversight the board can provide here isn't by approving the next capital project. It's ensuring the organization has clear and durable ownership of the unexciting operational diligence so that any efficiency gains achieved through capital investment aren't eroded by the absence of follow-through.\n\nThe one big question any data center needs to ask itself: is there a named owner for ongoing efficiency, with a recurring review, independent of incident response?\n\nIf the answer is no, drift isn't a risk. It's the default state.",
-      "content_url": "https://www.datacenterdynamics.com/en/opinions/the-hidden-costs-why-data-center-sustainability-fails-without-operational-discipline/"
+      "title_zh": "摩根士丹利：AI竞赛的胜负关键在于电力与基础设施，而非芯片",
+      "summary_zh": "摩根士丹利（Morgan Stanley）的一份报告指出，全球对人工智能（AI）能力的竞争将越来越取决于电力供应、融资和数据中心基础设施的获取，而不仅仅依赖芯片供应。这一评估出台之际，AI基础设施投资的快速增长正面临超出电力供应能力的风险。"
     },
     {
       "id": "2026-10-18-b9965d",
       "title": "AirTrunk nears US$1 billion Johor data centre sale",
       "summary": "Blackstone-backed AirTrunk is reportedly close to selling its Johor data centres for approximately US$1 billion. A group of investors, including Malaysian pension fund KWAP, is said to be acquiring the assets, according to Reuters.",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "A sale of this size would signal institutional capital treating Malaysian data centres as mature, tradeable infrastructure rather than speculative builds, and would give KWAP direct exposure to AI-driven demand. For operators and investors across Southeast Asia, it sets a valuation benchmark that could reshape pricing and deal-making in the Johor-Singapore corridor.",
+      "score": 88,
       "heat": 1,
       "regions": [
-        "global"
+        "southeast-asia"
       ],
-      "topics": [],
+      "topics": [
+        "investment",
+        "m&a",
+        "hyperscale",
+        "capacity"
+      ],
       "published_at": "2026-10-17T11:45:31Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "ET Datacenters",
@@ -125,45 +101,32 @@
         }
       ],
       "companies": [
-        "AirTrunk"
+        "AirTrunk",
+        "Blackstone",
+        "KWAP"
       ],
       "content": "Blackstone-backed hyperscale data centre operator AirTrunk is reportedly nearing a deal to sell its Johor data centres.The transaction is valued at about US$1 billion, Reuters reported, citing people familiar with the matter.A group of investors, including Malaysian pension fund KWAP, is involved in the acquisition.AirTrunk recently postponed its planned Singapore REIT listing to early next year due to market volatility and uncertainty over US interest rates.The initial public offering (IPO), which aimed to raise US$1.5 billion, was originally scheduled for launch in September or October.Blackstone and KWAP declined to comment on the matter, Reuters noted.\n\n- Investments & Deals\n- 1 min Read\n\n# AirTrunk nears US$1 billion Johor data centre sale\n\nBlackstone-backed AirTrunk is reportedly close to selling its Johor data centres for approximately US$1 billion. A group of investors, including Malaysian pension fund KWAP, is said to be acquiring the assets, according to Reuters.\n\n- Published On Oct 17, 2026 at 05:15 PM IST\n\n## Highlights\n\n- AirTrunk is reportedly selling its Johor data centres for US$1 billion.\n- Malaysian pension fund KWAP is part of the acquiring investor group.\n- AirTrunk postponed its Singapore REIT listing due to market volatility.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/airtrunk-nears-us1-billion-johor-data-centre-sale/135013507"
-    },
-    {
-      "id": "2026-10-18-09eacc",
-      "title": "Plans for data center in Moncalieri, Italy, put on hold by town mayor",
-      "summary": "Before its application was halted, the project was billed as Italy’s ‘largest’ data center",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-17T09:00:36Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "Data Center Dynamics",
-          "url": "https://www.datacenterdynamics.com/en/news/plans-for-data-center-in-moncalieri-italy-put-on-hold-by-town-mayor/",
-          "type": "rss"
-        }
-      ],
-      "content": "An application by real estate developer Moncalieri Logistics and prompted by real estate fund Logistics Capital Partners (LCP) to build a data center in Moncalieri, northern Italy, has been halted by its municipal authorities.\n\nBilled as Italy’s largest data center application, the project will now not advance through the municipality’s planning process, said local mayor Lorenzo Mauro, so long as several factors related to its construction and operation remain unaddressed. *DCD* has approached the municipality of Moncalieri and LCP for comment.\n\n“Several responses related to environmental factors, energy consumption, and jobs are lacking,” said Mauro, in comments reported by la Repubblica. “Significant concerns about the project have emerged: I will discuss this with my majority and then send a communication to the proponents.”\n\nThe land planned for the data center in Moncalieri’s former industrial complex of Industria Libraria Tipografica Editrice (ILTE) was acquired by real estate developer LCP in 2022 for €9 million ($10.1m), originally to develop a warehouse on the site for the German ecommerce firm Zalando. The proposed data center would have an electrical capacity of 576MW, occupy 2.9 million sq ft (270,000 sqm) of floor space, and create 320 permanent jobs upon opening.\n\nThe project, however, has been opposed by councillors within Mayor Laura’s governing coalition in Moncalieri, because the developer has failed to mitigate issues relating to the project’s impact on the local environment and public health. Though the development’s progress through the planning process has been halted, the application could still move ahead if the municipality receives assurances that changes will be made to the project by the developer.\n\nThere are 13 operational data centers in Piedmont concentrated around Turin, according to DataCenterMap. La Repubblica reported in September 2026, however, that the national transmission system operator Terna had received 64 grid connection requests for a total of 13.13GW, placing Piedmont second only to Lombardy in volume of power requests. In response, the former’s regional government has proposed a law designed to regulate new data center planning applications, designed to be more stringent than neighboring Lombardy’s equivalent Regional Law No. 11/2026.\n\n*Learn more about the data center market in Italy and Southern Europe, and meet with other executives and experts from the region at the DCN Milan event next year*",
-      "content_url": "https://www.datacenterdynamics.com/en/news/plans-for-data-center-in-moncalieri-italy-put-on-hold-by-town-mayor/"
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/airtrunk-nears-us1-billion-johor-data-centre-sale/135013507",
+      "title_zh": "AirTrunk接近达成柔佛数据中心10亿美元出售交易",
+      "summary_zh": "据路透社报道，由Blackstone支持的AirTrunk据传即将以约10亿美元的价格出售其位于柔佛的数据中心。据悉，包括马来西亚养老基金KWAP在内的一组投资者正在收购这些资产。",
+      "why_zh": "如此规模的出售将表明机构资本正把马来西亚数据中心视为成熟、可交易的基础设施资产，而非投机性建设项目，同时也将使KWAP直接获得AI驱动需求的敞口。对于东南亚各地的运营商和投资者而言，这笔交易将树立一个估值基准，可能重塑柔佛—新加坡走廊的定价和交易格局。"
     },
     {
       "id": "2026-10-18-03ac29",
       "title": "CoreWeave debt raises concerns for AI data centre financing",
       "summary": "CoreWeave's mounting debt is raising concerns about the AI boom, with investors questioning if demand can justify the billions borrowed for data centre builds. Its shares and bonds have fallen despite CEO assurances of a strong contract backlog.",
       "why_it_matters": "",
-      "score": null,
+      "score": 62,
       "heat": 1,
       "regions": [
         "global"
       ],
-      "topics": [],
+      "topics": [
+        "ai",
+        "financing",
+        "investment",
+        "capacity"
+      ],
       "published_at": "2026-10-17T06:15:32Z",
       "featured": false,
       "sources": [
@@ -177,7 +140,9 @@
         "CoreWeave"
       ],
       "content": "CoreWeave's mounting debt is raising fresh concerns about the artificial intelligence (AI) boom, as investors question whether demand can justify the billions being borrowed to build data centres. Shares and bonds of the Nvidia-backed company have tumbled despite its CEO's assurances of a strong contract backlog, fuelling a broader selloff in technology stocks.CoreWeave, a leading \"neocloud\" provider, rents computing power from Nvidia processors to companies developing and running AI, including Microsoft and OpenAI. Supplying such capacity requires heavy upfront investment in chips and infrastructure, often financed with debt. The company, which has never turned a profit, has about $50 billion in debt, according to data compiled by LSEG.It raised its annual capital spending forecast by $4 billion in August to between $35 billion and $39 billion. Analysts expect nearly $13 billion in revenue this year and a loss of $2.13 billion. The yields on its bonds due in 2031, which are rated junk, have spiked to about 16 per cent, while the cost of insuring its debt against default has climbed to about 1,000 basis points.This reflects growing concern among creditors. CoreWeave CEO Mike Intrator told employees in an internal memo that its deal backlog more than covers its debt obligations. The company had a $104.2 billion revenue backlog at the end of the second quarter, followed by more than $25 billion in new commitments early in the third quarter.Nvidia CEO Jensen Huang also downplayed concerns, saying CoreWeave's financial strength is improving. Nvidia has agreed to buy unsold CoreWeave capacity through April 2032. CoreWeave's business depends on demand for AI computing and lenders' willingness to finance the infrastructure supplying it.A selloff in its shares suggests a lack of confidence among investors in the latter, even as the company cites strong demand. The concern is not that AI demand will collapse, but that higher borrowing costs could make the business harder to sustain if demand were to weaken sharply. IG Group chief technical analyst Axel Rudolph said it looks more like investors are questioning how the build-out is being funded than a sudden collapse in appetite for AI computing.XTB research director Kathleen Brooks said CoreWeave is quickly becoming the AI trade's canary in the coal mine. Investors are questioning whether AI revenue can grow fast enough to cover the cost of building and financing the infrastructure. CoreWeave has to spend heavily upfront before it can collect revenue from its contracts.Higher interest rates could drive up financing costs and further squeeze returns. The hardware itself poses another risk, as chips lose value when newer generations arrive, pushing providers to spend even more to replace them. Gartner estimates about 80 per cent of neoclouds could shut down by 2030, warning that expected AI revenue will not support profitable returns on all planned infrastructure spending.Neocloud rivals Nebius, Applied Digital, and Iren have also fallen in the recent selloff. Spreads for Amazon, Alphabet, Meta, and Nvidia have also reached records, although they have risen much more slowly than CoreWeave's. These companies also have larger cash flows and stronger balance sheets.\n\n- AI & Compute Infrastructure\n- 3 min Read\n\n# CoreWeave debt raises concerns for AI data centre financing\n\nCoreWeave's mounting debt is raising concerns about the AI boom, with investors questioning if demand can justify the billions borrowed for data centre builds. Its shares and bonds have fallen despite CEO assurances of a strong contract backlog.\n\n- Published On Oct 17, 2026 at 11:45 AM IST\n\n## Highlights\n\n- CoreWeave, an AI neocloud provider, has accumulated approximately $50 billion in debt.\n- The company raised its annual capital spending forecast to $35 billion-$39 billion in August.\n- Yields on CoreWeave's junk-rated bonds have spiked to 16 per cent, reflecting creditor concern.\n- Gartner estimates 80 per cent of neoclouds may fail by 2030 due to unsupportive AI revenue.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/coreweave-debt-raises-concerns-for-ai-data-centre-financing/135008756"
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/coreweave-debt-raises-concerns-for-ai-data-centre-financing/135008756",
+      "title_zh": "CoreWeave债务引发对AI数据中心融资的担忧",
+      "summary_zh": "CoreWeave不断攀升的债务正引发对AI热潮的担忧，投资者质疑需求是否足以支撑其用于数据中心建设的数十亿美元借款。尽管CEO保证公司拥有强劲的合同积压，其股票和债券仍双双下跌。"
     }
   ]
 }

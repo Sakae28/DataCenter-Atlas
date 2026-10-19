@@ -3,69 +3,28 @@
   "generated_at": "2026-10-16T05:56:37Z",
   "hot": [
     "2026-10-16-f9081e",
-    "2026-10-16-5ccb07",
-    "2026-10-16-8ddc09",
-    "2026-10-16-b9c81e",
-    "2026-10-16-f7830f"
+    "2026-10-16-fc7da7",
+    "2026-10-16-cca39d",
+    "2026-10-16-8dba54",
+    "2026-10-16-246f5f"
   ],
   "stories": [
-    {
-      "id": "2026-10-16-b9c81e",
-      "title": "Colt DCS and RMZ commence construction on third Mumbai data center",
-      "summary": "Colt Data Centre Services (Colt DCS), a global provider of AI-ready, hyperscale and large enterprise data centers, and RMZ, one of India’s largest privately owned real assets platform, have announced the commencement of construction of Mumbai 3, the third data center of Colt DCS in the city. This will be an AI-ready facility located at […]",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-16T05:33:46Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "W.Media",
-          "url": "https://w.media/colt-dcs-and-rmz-commence-construction-on-third-mumbai-data-center/",
-          "type": "rss"
-        }
-      ],
-      "content": "Colt Data Centre Services (Colt DCS), a global provider of AI-ready, hyperscale and large enterprise data centers, and RMZ, one of India’s largest privately owned real assets platform, have announced the commencement of construction of Mumbai 3, the third data center of Colt DCS in the city. This will be an AI-ready facility located at the operator’s Navi Mumbai Campus that will deliver 64 MW upon completion.\n\nIn a press release, Colt DCS said that Mumbai 3 is being developed as part of Colt DCS and RMZ’s joint venture announced in 2024, to invest US$ 1.7 billion in the Indian data center market. Ground preparation began in December 2025, and construction is now underway following the signing of the facility’s first hyperscale customer.\n\n“The nature of data center demand is evolving rapidly, with customers requiring larger deployments, higher rack densities and infrastructure capable of supporting increasingly intensive AI workloads. Mumbai 3 is designed to address these needs, further strengthening our Navi Mumbai Campus as a scalable and future-ready digital infrastructure platform,” said Pratap Mane, Country Head, India, Colt DCS.\n\n“The next wave of digital growth will be driven by infrastructure that brings together scale, resilience, and speed to market. At Mumbai 3, we are developing a future-ready campus designed to enable hyperscalers and neo-cloud providers to scale seamlessly as their capacity and computing needs evolve,” said Deepak Chhabria, President, RMZ Infrastructure.\n\nMumbai 3 will join existing data centers Mumbai 1 and Mumbai 2 at the Navi Mumbai Campus, which currently supports large enterprise and cloud workloads. The campus has the potential to deliver up to 148 MW of capacity at full development and, upon completion, Mumbai 3 will increase the site’s operational capacity to 86 MW.\n\nMumbai 3 has been designed to support AI workloads and high-density compute deployments, delivering 64 MW of secured contracted power, supported by a hybrid cooling architecture that combines traditional air cooling with direct liquid-to-chip cooling. The facility will also benefit from a 220kV GIS substation located on campus, providing high levels of resilience and scalability, alongside carrier-neutral connectivity with access to high-capacity fiber routes.\n\nSustainability and long-term community impact have been central considerations in the development of Mumbai 3. The facility will operate using 100% renewable energy and has been designed with a closed-loop cooling system, enabling near-zero wastewater from the cooling process.",
-      "content_url": "https://w.media/colt-dcs-and-rmz-commence-construction-on-third-mumbai-data-center/"
-    },
-    {
-      "id": "2026-10-16-f7830f",
-      "title": "Greece proposes new rules for data center electricity connections",
-      "summary": "Greece’s Ministry of Environment and Energy has opened a public consultation on legislation introducing new rules for electricity market operations and data center connections. Under the proposed framework data center investors would be required to cover the full cost of connecting their facilities to the electricity grid, including any necessary upgrades to the power system […]",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-16T05:28:59Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "W.Media",
-          "url": "https://w.media/greece-proposes-new-rules-for-data-center-electricity-connections/",
-          "type": "rss"
-        }
-      ],
-      "content": "Greece’s Ministry of Environment and Energy has opened a public consultation on legislation introducing new rules for electricity market operations and data center connections. Under the proposed framework data center investors would be required to cover the full cost of connecting their facilities to the electricity grid, including any necessary upgrades to the power system resulting directly from their connection.\n\nAccording to a press release, new data centers would also have to source at least 60 percent of their annual electricity consumption from renewable energy sources. The draft bill introduces a financial guarantee of € 200,000 (US$ 244,000) per MW of requested capacity. The measure is intended to discourage applications from investors whose projects are not sufficiently developed but could otherwise reserve available grid capacity.\n\nInvestors seeking to connect projects to the transmission system operated by the Independent Power Transmission Operator (IPTO) would also face financial viability checks based on specific turnover requirements.\n\nThe legislation would tighten the investment and environmental criteria applicants must meet before receiving a Definitive Connection Offer. It also proposes establishing a data center register under the Regulatory Authority for Waste, Energy and Water (RAAEY) to monitor sector development and improve transparency.\n\nSeparately, the draft legislation sets out rules for the operation, maintenance and monitoring of privately owned renewable energy networks, including requirements concerning infrastructure security and environmental protection.\n\nThe proposed measures come as authorities seek to manage growing electricity demand from data centers while addressing constraints on available grid capacity and the costs associated with connecting new large-scale consumers.\n\nThe consultation runs from October 10 to October 24, 2026, and the proposed legislation incorporates EU Directive 2024/1711, which amends Directives 2018/2001 and 2019/944, and includes additional provisions on the development of energy infrastructure.",
-      "content_url": "https://w.media/greece-proposes-new-rules-for-data-center-electricity-connections/"
-    },
     {
       "id": "2026-10-16-aa4b26",
       "title": "TSMC assesses US data center readiness for chipmaking expansion",
       "summary": "TSMC is sending personnel to evaluate US data center construction progress and power availability. This assessment supports the company's planned multi-billion dollar expansion of chipmaking capacity.",
       "why_it_matters": "",
-      "score": null,
+      "score": 55,
       "heat": 1,
       "regions": [
         "global"
       ],
-      "topics": [],
+      "topics": [
+        "chips",
+        "capacity",
+        "investment",
+        "ai"
+      ],
       "published_at": "2026-10-16T03:50:29Z",
       "featured": false,
       "sources": [
@@ -79,19 +38,26 @@
         "TSMC"
       ],
       "content": "TSMC is dispatching personnel to check US data center construction and power availability, the company said. This assessment is crucial for its plans to invest billions of dollars in additional chipmaking capacity.The Taiwanese chipmaking giant expects capital expenditure of $60 billion to $64 billion this year. Spending across 2026-2028 is projected to exceed the total for 2023-2025 as it expands capacity for customers.TSMC is planning approximately 20 leading-edge manufacturing and advanced-packaging facilities globally over the next several years. Chairman and CEO C.C. Wei noted that AI demand continues to outstrip supply, driving the need for more silicon.The company factors power shortages, data center construction delays, and high-bandwidth memory (HBM) supply limits into its capacity planning. Wei stated that TSMC believes demand is higher than supply and is actively working to narrow this gap.Preparations for A14, TSMC's next-generation process marketed as 1.4 nm, are underway. Risk production for A14 is scheduled for 2027, with volume production expected in 2028.\n\n- AI & Compute Infrastructure\n- 1 min Read\n\n# TSMC assesses US data center readiness for chipmaking expansion\n\nTSMC is sending personnel to evaluate US data center construction progress and power availability. This assessment supports the company's planned multi-billion dollar expansion of chipmaking capacity.\n\n- Published On Oct 16, 2026 at 09:20 AM IST\n\n## Highlights\n\n- TSMC is evaluating US data center construction and power availability.\n- The chipmaker plans $60 billion to $64 billion in capital expenditure this year.\n- AI demand continues to surpass supply, driving TSMC's expansion efforts.\n- TSMC is planning about 20 new manufacturing and advanced-packaging facilities globally.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/tsmc-assesses-us-data-center-readiness-for-chipmaking-expansion/134981743"
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/tsmc-assesses-us-data-center-readiness-for-chipmaking-expansion/134981743",
+      "title_zh": "台积电评估美国数据中心建设就绪度，以支持芯片制造扩张",
+      "summary_zh": "TSMC正派遣人员评估美国数据中心建设进度及电力供应情况。此次评估旨在支持该公司计划投资数十亿美元扩大芯片制造产能。"
     },
     {
       "id": "2026-10-16-5cb0a1",
       "title": "Data centre builders pre-order generators two years ahead",
       "summary": "Data centre builders are ordering generators two years in advance, committing to suppliers before designs are final. This prioritises speed of delivery over cost due to shortages of power equipment and skilled labour for AI-era projects.",
       "why_it_matters": "",
-      "score": null,
+      "score": 50,
       "heat": 1,
       "regions": [
         "global"
       ],
-      "topics": [],
+      "topics": [
+        "power",
+        "supply chain",
+        "construction",
+        "ai"
+      ],
       "published_at": "2026-10-16T03:40:43Z",
       "featured": false,
       "sources": [
@@ -102,139 +68,28 @@
         }
       ],
       "content": "Data centre builders are now ordering generators two years ahead and committing to suppliers before final designs are complete, according to speakers at Capacity Europe 2026. This shift places speed of delivery above cost, driven by shortages of power equipment and skilled labour.The \"Scaling Under Scarcity: Delivering Projects Amid Shortages\" panel on 14 October highlighted that the industry's traditional focus on negotiating the lowest price has changed to securing manufacturing slots.Miriam van Kooperen, senior director, supply chain at Greenscale, noted that high-voltage transformers, gas-insulated switchgear, and generator engines are currently in short supply. She warned that the gap between rapid AI development and available manufacturing capacity is widening.Ozgur Duzgunoglu, head of engineering and design at Telehouse, confirmed that generators can take two years to arrive, with high-voltage transformers requiring 12 to 18 months. He described a situation where his team faced a Friday deadline to order generators for a two-year delivery.Nelson Pinto de Magalhaes, director, PMO and procurement at Start Campus, stated that long-lead equipment can be managed through early commitments. However, he added that coordinating equipment, installers, and commissioning teams for simultaneous arrival remains challenging.Panellists described a fundamental change in contracting with suppliers. Van Kooperen explained that operators now secure capacity without knowing exact specifications, agreeing on preferred vendors and broad design freeze dates.Start Campus has integrated procurement and design teams, with Pinto de Magalhaes stating, \"Procure first, design around it\" is a company mantra. He reframed procurement around time rather than money, noting that customers judge operators on meeting the ready-for-service (RFS) date.Duzgunoglu agreed that designers and contractors are scarce, alongside the difficulty of bringing grid power to sites on time. He noted that cost sometimes becomes secondary to hitting the RFS date.Prefabrication, such as off-site manufactured coolant distribution units, is now common for time savings, Duzgunoglu said. Justin Ryburn, field CTO and VP of global solutions engineering at Kentik, cited a US data centre customer running generators continuously until grid power arrives.Oracle has issued a force majeure notice for Project Jupiter, its Stargate campus in New Mexico, due to potential power supply delays for its 2028 start. Panellists anticipate power and skilled labour shortages, particularly in mechanical, electrical, and plumbing (MEP) trades, to remain bottlenecks for the foreseeable future.\n\n- Construction & Site Development\n- 2 min Read\n\n# Data centre builders pre-order generators two years ahead\n\nData centre builders are ordering generators two years in advance, committing to suppliers before designs are final. This prioritises speed of delivery over cost due to shortages of power equipment and skilled labour for AI-era projects.\n\n- Published On Oct 16, 2026 at 09:10 AM IST\n\n## Highlights\n\n- Data centre builders now order generators two years ahead of final designs.\n- Manufacturing capacity, not price, dictates timely delivery for AI projects.\n- Power equipment like transformers and generators face significant shortages.\n- Operators are prioritising securing supplier slots over negotiating lowest costs.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/construction-site-development/data-centre-builders-pre-order-generators-two-years-ahead/134981562"
-    },
-    {
-      "id": "2026-10-16-9dfe1f",
-      "title": "Canterbury approves landfill-powered AI data centre for Era4",
-      "summary": "Canterbury City Council has approved plans for a new AI data centre in Kent. The facility, proposed by Era4, will use electricity generated from landfill gas.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-16T03:40:35Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/canterbury-approves-landfill-powered-ai-data-centre-for-era4/134981556",
-          "type": "rss"
-        }
-      ],
-      "content": "Canterbury City Council has approved plans for an AI data centre that will use electricity generated from landfill gas.Era4 proposed the facility in November 2025. It will draw power through a private-wire connection to the neighbouring Valencia Energy Centre, which generates electricity using methane captured from landfill.Planning documents indicate the facility could consume approximately 140MWh of electricity daily. This is equivalent to an average continuous demand of around 5.8MW.The data centre will also incorporate rooftop solar panels and a closed-loop liquid cooling system. Adiabatic cooling will supplement the system.Era4, previously known as Carbon3.AI, announced a partnership with Valencia Waste Management in October 2025. This partnership aims to develop landfill gas-powered data centres at eight locations across the UK.The Canterbury project represents one of several alternative electricity supply models. These are being explored by developers as grid capacity constraints complicate new data centre projects.However, the long-term reliability of landfill gas supply remains a consideration. Landfill gas production can decline as organic waste decomposes.\n\n- Energy, Cooling & Sustainability\n- 1 min Read\n\n# Canterbury approves landfill-powered AI data centre for Era4\n\nCanterbury City Council has approved plans for a new AI data centre in Kent. The facility, proposed by Era4, will use electricity generated from landfill gas.\n\n- Published On Oct 16, 2026 at 09:10 AM IST\n\n## Highlights\n\n- Canterbury City Council approved Era4's AI data centre in Kent.\n- The facility will be powered by landfill gas from Valencia Energy Centre.\n- It could consume 140MWh daily, equal to about 5.8MW continuous demand.\n- Era4 plans rooftop solar and closed-loop liquid cooling for the site.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/canterbury-approves-landfill-powered-ai-data-centre-for-era4/134981556"
-    },
-    {
-      "id": "2026-10-16-320025",
-      "title": "Riverway, Offshore Data Center partner on floating data centers",
-      "summary": "Riverway Group LLC and Offshore Data Center LLC are collaborating to develop offshore platforms for data centers. These platforms will convert stranded natural gas into electricity to power the facilities.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-16T03:40:28Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/construction-site-development/riverway-offshore-data-center-partner-on-floating-data-centers/134981549",
-          "type": "rss"
-        }
-      ],
-      "content": "Riverway Group LLC, a Houston-based project development and consulting firm, and Offshore Data Center LLC, an energy and technology development company, have partnered to develop offshore data centers.The collaboration focuses on creating platforms that convert stranded natural gas into electricity for data centers located near offshore gas resources. This initiative aims to provide oil and gas producers with an alternative method to monetise uneconomical gas reserves, according to a press release.The platforms are designed to support data centers, ammonia and methanol production units, and conventional offshore production facilities. They will also feature closed-loop deep ocean cooling systems, which are expected to reduce the data centers energy consumption by 40 per cent.Art J. Schroeder, Jr., CEO of Offshore Data Center, stated that placing data centers next to the gas eliminates the need for pipelines to shore and transmission lines. He added that this approach significantly cuts cooling expenses. The partnership combines Offshore Data Centers industry collaborations and HORTON DO BRASIL TECNOLOGIA OFFSHORE LTDA.s patented semi-submersible hull designs with Riverways automated welding and advanced fabrication methods.The collaboration is expected to support U.S. maritime manufacturing, domestic energy development, and the expansion of the nations computing capacity. The resulting hulls could be 50 per cent lighter than conventional designs while maintaining stability.\n\n- Construction & Site Development\n- 1 min Read\n\n# Riverway, Offshore Data Center partner on floating data centers\n\nRiverway Group LLC and Offshore Data Center LLC are collaborating to develop offshore platforms for data centers. These platforms will convert stranded natural gas into electricity to power the facilities.\n\n- Published On Oct 16, 2026 at 09:10 AM IST\n\n## Highlights\n\n- Riverway Group and Offshore Data Center partnered for offshore data centers.\n- Platforms will convert stranded natural gas into electricity for power.\n- Deep ocean cooling systems aim to cut energy consumption by 40 per cent.\n- Collaboration supports U.S. manufacturing and computing capacity expansion.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/construction-site-development/riverway-offshore-data-center-partner-on-floating-data-centers/134981549"
-    },
-    {
-      "id": "2026-10-16-6448c6",
-      "title": "Construction inflation pressures data center project viability",
-      "summary": "Rising construction costs, now 3 per cent to 6 per cent annually, are challenging data center project viability, according to JLL. Projects require secured power access and committed anchor tenants to absorb these higher expenses.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-16T03:30:50Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/construction-site-development/construction-inflation-pressures-data-center-project-viability/134981436",
-          "type": "rss"
-        }
-      ],
-      "companies": [
-        "JLL"
-      ],
-      "content": "Annual data center construction cost escalation has reached 3 per cent to 6 per cent, up from 2 per cent to 3 per cent before 2020, JLL reported in its Global Construction Costs Index 2026.The real estate services firm forecasts another 3.1 per cent to 4.2 per cent increase in global tender prices in 2027. These forecasts apply broadly to construction, not solely the data center sector.Data center developers can pass higher construction costs to tenants only when projects have secured power access, committed customers, and a credible path to delivery, JLL stated.Matthew Giddings, executive director of technical services with JLL’s Data Centers and Critical Environments team, noted that stronger market fundamentals do not automatically protect individual projects.“The economics break down when costs outpace contracted revenue or power delays postpone income while financing costs continue to accumulate,” Giddings told Data Center Knowledge.He added that higher asset values alone cannot close that gap. This risk is most acute for speculative campuses without anchor tenants, projects with uncertain power delivery, and developments tied to fixed-rent agreements.Older facilities being repositioned for AI workloads may also face difficult economics if upgrades become too extensive.“Strong demand supports the market, but it does not make every project viable,” Giddings said. Developers should reassess projects when rising capital costs erode expected returns, utility schedules slip, or tenant demand no longer supports planned capacity, he explained.Reduced power availability and delays in anchor-tenant commitments are also signs that a project may need to be reworked.One way to manage this risk is through phased construction. This aligns spending with confirmed electricity supply and customer demand, limiting capital commitment before fundamentals are in place.\n### Labor and Procurement Challenges\n\nSkilled electrical and mechanical trades are creating the greatest cost and schedule challenges, Giddings said. This includes electricians, high-voltage specialists, pipefitters, and advanced cooling technicians.“Controls, commissioning, and startup teams have also become critical bottlenecks, as their availability often determines when a completed facility can be placed into service,” he noted.Competition for utility and substation construction crews is also intensifying, adding risks beyond the data center site. Giddings recommended bringing in trade partners early and testing project schedules against real workforce availability.Standardized designs, off-site prefabrication, and phased construction can reduce peak labor requirements. In remote markets, developers may need to offer housing, transportation, and travel incentives to attract workers.Long lead times for critical equipment have pushed many developers to place orders earlier. However, this can create problems if tenant requirements shift, especially as AI infrastructure evolves.“The key is to secure manufacturing capacity early without freezing every design decision,” Giddings said.Developers should reserve production slots for transformers, switchgear, generators, and cooling equipment. They need flexibility to modify specifications before fabrication begins, advancing orders with validated tenant requirements and clear decision deadlines.This approach is crucial as operators account for shifting rack densities and growing interest in liquid cooling. Modular power and cooling systems, built-in expansion capacity, and design provisions for liquid cooling help facilities adapt.“Early procurement protects the schedule, while flexible design protects the long-term value of the asset,” Giddings stated.Retrofitting older facilities can offer faster delivery and lower upfront costs, especially with available power, structural capacity, and reusable infrastructure. These advantages can disappear if major mechanical upgrades, higher electrical distribution capacity, heavier floor loading, or large-scale liquid-cooling retrofits are needed.“The economics ultimately depend on how much existing infrastructure can be retained while still meeting current and future performance requirements,” Giddings concluded.\n\n- Construction & Site Development\n- 3 min Read\n\n# Construction inflation pressures data center project viability\n\nRising construction costs, now 3 per cent to 6 per cent annually, are challenging data center project viability, according to JLL. Projects require secured power access and committed anchor tenants to absorb these higher expenses.\n\n- Published On Oct 16, 2026 at 09:00 AM IST\n\n## Highlights\n\n- Annual data center construction costs now rise 3 per cent to 6 per cent, up from 2 per cent to 3 per cent before 2020.\n- JLL forecasts global construction tender prices to increase by another 3.1 per cent to 4.2 per cent in 2027.\n- Project viability requires secured power access, committed anchor tenants, and a clear delivery path to absorb higher costs.\n- Skilled labor shortages in electrical and mechanical trades create significant cost and schedule challenges for projects.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/construction-site-development/construction-inflation-pressures-data-center-project-viability/134981436"
-    },
-    {
-      "id": "2026-10-16-fe50dc",
-      "title": "Colt DCS, RMZ begin construction of 64 MW Mumbai data centre",
-      "summary": "Colt Data Centre Services and RMZ have started building their third data centre, Mumbai 3, in Navi Mumbai. This facility will add 64 MW of AI-ready capacity to their campus, increasing its operational capacity to 86 MW.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-16T03:30:40Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/colt-dcs-rmz-begin-construction-of-64-mw-mumbai-data-centre/134981430",
-          "type": "rss"
-        }
-      ],
-      "content": "Colt Data Centre Services (Colt DCS) and Bengaluru-based RMZ have begun constructing their third data centre in Navi Mumbai. The Mumbai 3 facility will deliver 64 MW of AI-ready data centre capacity upon completion, the companies announced on Thursday.This development will increase the Navi Mumbai campus's operational capacity to 86 MW. The campus has the potential to deliver up to 148 MW of capacity at full development, the companies said.Colt DCS and RMZ operate as a joint venture, which announced plans in 2024 to invest $1.7 billion in the Indian data centre market. They aim to develop 250 MW of data centre capacity across Mumbai and Chennai.Construction for Mumbai 3 is now underway following the signing of the facility’s first hyperscale customer, the companies said. Ground preparation for the facility began in December 2025.Pratap Mane, country head, DCS, India, stated that data centre demand is evolving rapidly. Customers require larger deployments, higher rack densities, and infrastructure to support intensive AI workloads.The Mumbai 3 facility incorporates advanced cooling capabilities, including liquid cooling. It also features enhanced power infrastructure to support high-density deployments, Mane added. This design enables customers to scale AI and high-performance computing workloads efficiently while maintaining operational resilience.Deepak Chhabria, president at RMZ Digital Infrastructure, said the campus is designed for hyperscalers and neo-cloud providers. It will enable them to scale seamlessly as their capacity and computing needs evolve.The companies also stated that the facility will operate using 100 per cent renewable energy. It has been designed with a closed-loop cooling system, enabling near-zero wastewater from the cooling process. The project is expected to create more than 700 jobs across construction and operations.\n\n- Investments & Deals\n- 1 min Read\n\n# Colt DCS, RMZ begin construction of 64 MW Mumbai data centre\n\nColt Data Centre Services and RMZ have started building their third data centre, Mumbai 3, in Navi Mumbai. This facility will add 64 MW of AI-ready capacity to their campus, increasing its operational capacity to 86 MW.\n\n- Published On Oct 16, 2026 at 09:00 AM IST\n\n## Highlights\n\n- Colt DCS and RMZ commenced construction of Mumbai 3 data centre in Navi Mumbai.\n- The facility will add 64 MW of AI-ready capacity, boosting campus total to 86 MW.\n- The joint venture plans to invest $1.7 billion for 250 MW across India.\n- Mumbai 3 will support hyperscale customers with liquid cooling and renewable energy.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/colt-dcs-rmz-begin-construction-of-64-mw-mumbai-data-centre/134981430"
-    },
-    {
-      "id": "2026-10-16-a684c8",
-      "title": "NITI Aayog frames data center assessment for states",
-      "summary": "NITI Aayog released a framework for states to assess data center projects, aiming to ensure sustainable growth. The framework evaluates resource needs such as electricity, water, and land.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-16T02:40:29Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/niti-aayog-frames-data-center-assessment-for-states/134980797",
-          "type": "rss"
-        }
-      ],
-      "content": "NITI Aayog has released a framework to help states evaluate data center projects based on infrastructure availability, resource needs, and economic benefits. The \"Data Centre Evaluation Framework to Help States Plan for Sustainable Growth\" calls on states to assess electricity, water, land, and supporting infrastructure. It aims to support informed decision-making by states.The government's think tank proposed five pillars for project evaluation. These include power and energy, water and cooling, site selection and environmental sustainability, economic and strategic value, and policy and implementation.States must assess if their electricity grids can meet data center demand, accounting for future expansion and needed upgrades. The report also asks states to evaluate long-term water availability, considering existing users like households and farmers. It recommends preparing a 20-30 year seasonal catchment water balance covering surface and groundwater.The framework suggests designating data-center-ready zones. This involves verifying land title, permitted use, zoning, and expansion headroom. It prioritises renewable-energy-rich zones with available connectivity and pre-assessed grid and water readiness.States are also urged to assess the net economic contribution of projects against public support offered to developers. This includes incentives for land, infrastructure, and electricity. The framework encourages linking incentives to measurable outcomes such as project commissioning, renewable energy use, and local procurement. It also calls for a time-bound digital single-window mechanism for project approvals. States should publish an approval matrix listing required clearances, authorities, processing times, and fees.\n\n- Policy, Land & Power\n- 1 min Read\n\n# NITI Aayog frames data center assessment for states\n\nNITI Aayog released a framework for states to assess data center projects, aiming to ensure sustainable growth. The framework evaluates resource needs such as electricity, water, and land.\n\n- Published On Oct 16, 2026 at 08:10 AM IST\n\n## Highlights\n\n- NITI Aayog released a framework for states to assess data center projects.\n- Framework evaluates electricity, water, land, and infrastructure needs for sustainable growth.\n- Five pillars include power, water, site selection, economic value, and policy.\n- States must verify resource availability and link incentives to measurable outcomes.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/niti-aayog-frames-data-center-assessment-for-states/134980797"
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/construction-site-development/data-centre-builders-pre-order-generators-two-years-ahead/134981562",
+      "title_zh": "数据中心承建商提前两年预订发电机",
+      "summary_zh": "数据中心建造商正提前两年订购发电机，在设计尚未最终确定之前便向供应商做出采购承诺。由于AI时代项目面临电力设备和技术劳动力短缺，这一做法将交付速度置于成本之上。"
     },
     {
       "id": "2026-10-16-7fbf1c",
       "title": "Di Pilla’s landed a big fish for DigiCo’s Sydney data centre campus",
       "summary": "Big data centre contracts are often shrouded in mystery, with the world’s biggest artificial intelligence developers and hyperscalers loath to help rivals by making this information easy to come by.",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "Landing an anchor tenant de-risks DigiCo's Sydney campus and improves its ability to finance further phases, but the secrecy surrounding such deals leaves investors and analysts valuing assets with incomplete information. The growing gap between disclosed contract values and tenant identities is becoming a governance challenge for listed data centre operators.",
+      "score": 72,
       "heat": 1,
       "regions": [
         "australia"
       ],
-      "topics": [],
+      "topics": [
+        "hyperscale",
+        "leasing",
+        "ai",
+        "investment"
+      ],
       "published_at": "2026-10-16T00:57:24Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "AFR — Data Centres topic",
@@ -244,19 +99,30 @@
       ],
       "content": "Big data centre contracts are often shrouded in mystery, with the world’s biggest artificial intelligence developers and hyperscalers loath to help rivals by making this information easy to come by.\n\nIt was a familiar story at DigiCo this week, when the HMC Capital-backed data centre play announced it had signed a significant 15-year contract for its SYD1 facility.\n\nLoading...",
       "content_url": "https://www.afr.com/street-talk/di-pilla-s-landed-a-big-fish-for-digico-s-sydney-data-centre-campus-20261016-p6164i",
-      "published_precision": "day"
+      "published_precision": "day",
+      "companies": [
+        "DigiCo"
+      ],
+      "title_zh": "Di Pilla为DigiCo悉尼数据中心园区拿下重量级客户",
+      "summary_zh": "大型数据中心合同往往笼罩在神秘面纱之下，因为全球最大的AI开发者和hyperscaler不愿让竞争对手轻易获取这些信息而从中受益。",
+      "why_zh": "签下一个主力租户（anchor tenant）降低了DigiCo悉尼园区的风险，也增强了其为后续阶段融资的能力，但此类交易的保密性让投资者和分析师不得不在信息不完整的情况下对资产进行估值。已披露合同金额与租户身份之间日益扩大的差距，正在成为上市数据中心运营商面临的治理挑战。"
     },
     {
       "id": "2026-10-16-d7aca1",
       "title": "Mitsubishi Heavy & Ingeteam team up on US data centres",
       "summary": "Rising AI electricity demand is pushing US data centre operators to seek more reliable power systems as the firms plan broader integration work.",
       "why_it_matters": "",
-      "score": null,
+      "score": 40,
       "heat": 1,
       "regions": [
+        "japan",
         "global"
       ],
-      "topics": [],
+      "topics": [
+        "power",
+        "ai",
+        "energy"
+      ],
       "published_at": "2026-10-16T00:15:00Z",
       "featured": false,
       "sources": [
@@ -267,19 +133,31 @@
         }
       ],
       "content": "Fri, 16th Oct 2026 (Today)\nMitsubishi Heavy Industries and Ingeteam have formed a strategic partnership focused on power solutions for US data centres, covering distribution, integration and joint development.\n\nThe agreement targets energy infrastructure for facilities handling AI computing workloads, where operators face rising electricity demand and more complex power quality issues.\n\nUnder a memorandum of understanding, Mitsubishi Heavy Industries plans to expand the availability of Ingeteam's power conversion systems and related software in the US data centre market. The companies will also examine how those technologies can be integrated into Mitsubishi Heavy Industries' broader energy infrastructure offering.\n\nThe partnership will also assess potential collaboration in medium-voltage distribution technology, energy management systems and other equipment for high-density computing environments.\n\n### Rising demand\n\nAI computing has increased power requirements across data centres as operators deploy denser racks and larger hardware clusters. That has intensified scrutiny of how electricity is supplied and managed within facilities, particularly where fluctuating AI workloads can affect power quality.\n\nOperators are looking for ways to improve the efficiency, reliability and scalability of distribution systems. Harmonic distortion, voltage imbalance and longer waits for grid interconnection have also increased interest in architectures designed to work more closely with the grid.\n\nMitsubishi Heavy Industries will bring experience in integrated power, cooling and energy management to the partnership. Ingeteam's contribution centres on power electronics, power conversion, control and automation systems, and digital tools.\n\nMitsubishi Heavy Industries also highlighted its North American service footprint through Concentric, which supports its work on large industrial and infrastructure projects. Ingeteam's portfolio includes electrical generators, battery energy storage systems, power quality and grid stability technologies, and EMS/SCADA platforms.\n\n### US focus\n\nThe alliance will initially focus on the United States, where data centre development has accelerated alongside investment in AI infrastructure. The companies described the move as a first step and said they would continue working with other technology partners as they develop products and systems for the market.\n\nShin Gomi, Senior General Manager, Data Centre & Energy Management Department at Mitsubishi Heavy Industries, said the issue for operators has moved beyond access to electricity alone.\n\n\"The challenge is no longer just securing power. It is delivering high-quality, reliable power to support AI workloads,\" said Shin Gomi, Senior General Manager, Data Centre & Energy Management Department at MHI.\n\n\"Ingeteam's depth in power electronics and power conversion strengthens our ability to deliver complete, reliable solutions for our U.S. data center customers developing AI Data Centres,\" Gomi said.\n\nFor Ingeteam, the partnership offers a route into a fast-growing segment of US infrastructure spending tied to AI-related data centre expansion.\n\n\"This alliance lets Ingeteam bring our power electronics and grid expertise to U.S. data centers alongside a partner with deep systems-engineering capability. Together, we can provide a bridge between the electric grid and next-generation AI infrastructure, enabling customers to scale computing capacity while maintaining reliability and efficiency,\" said Adolfo Rebollo, Chief Executive Officer at Ingeteam.\n\nThe agreement reflects a broader push by equipment suppliers and industrial groups to position themselves around the build-out of AI data centres, where demand for electricity, cooling and control systems is rising alongside computing density. Potential future areas of work include advanced medium-voltage distribution and energy management systems for sites with large, variable power loads.\n\nIngeteam employs more than 4,000 people across 15 countries, while Mitsubishi Heavy Industries operates in sectors including energy, infrastructure, industrial machinery, aerospace and defence.",
-      "content_url": "https://datacenternews.asia/story/mitsubishi-heavy-ingeteam-team-up-on-us-data-centres"
+      "content_url": "https://datacenternews.asia/story/mitsubishi-heavy-ingeteam-team-up-on-us-data-centres",
+      "companies": [
+        "Mitsubishi Heavy Industries",
+        "Ingeteam"
+      ],
+      "title_zh": "三菱重工与Ingeteam联手布局美国数据中心",
+      "summary_zh": "不断攀升的AI电力需求正促使美国数据中心运营商寻求更可靠的电力系统，同时这些公司正在规划更广泛的整合工作。"
     },
     {
       "id": "2026-10-16-f9081e",
       "title": "Market sell-off, rising rates test AI data centre deal boom",
       "summary": "Pulled listings signal tougher funding conditions; investors question valuations as borrowing costs rise",
       "why_it_matters": "",
-      "score": null,
+      "score": 55,
       "heat": 2,
       "regions": [
+        "global",
         "southeast-asia"
       ],
-      "topics": [],
+      "topics": [
+        "investment",
+        "financing",
+        "ai",
+        "markets"
+      ],
       "published_at": "2026-10-15T22:00:00Z",
       "featured": false,
       "sources": [
@@ -295,21 +173,28 @@
         }
       ],
       "content": "Pulled listings signal tougher funding conditions; investors question valuations as borrowing costs rise\n\n\\[HONG KONG\\] A market sell-off is forcing companies driving the global artificial intelligence boom to delay fundraising plans or pay more for capital as investors demand proof that they can absorb rising interest rates and computing-power costs.\n\nThe shift comes as investors reassess whether the companies racing to build the infrastructure underpinning AI can generate returns that justify soaring spending on computing power, land and energy.\n\nIn the past week alone, as AI-related stocks have weakened and the debt of data-centre operator CoreWeave has slumped towards distressed prices, listings for a Blackstone-backed AirTrunk Reit, Nvidia-backed Firmus and SoftBank-backed SB Energy have either been pulled or paused.\n\nThe increased scrutiny is not derailing investment in the sector, analysts said, but it is forcing investors to distinguish more sharply between business models and levels of execution risk.\n\n“The conversation has shifted from growth at any cost to a much sharper focus on quality,” said Harry Evans, a partner at law firm Freshfields.\n\nHe added that deal activity could hold up through next year, thanks to a strong pipeline.\n\nRecent listing setbacks, however, show investors are becoming more discerning about valuations, leverage and business models.\n\nMergers and acquisitions involving Asian data centres is still on track for a record year, reaching US$21.3 billion on Tuesday (Oct 13), Dealogic data showed. This is more than double the US$10 billion recorded in all of 2025.\n\nDebt financing has also remained strong, with syndicated loans and bond issuance totalling US$22.3 billion so far this year.\n\nEquity capital market fundraising for the sector, however, is down, at US$5.4 billion so far this year, a 4.6 per cent drop from the same period in 2025.\n\n“General thoughts with IPOs (initial public offerings) are that they often seek ‘hype’, as they’re largely looking for oversubscription,” said Nicholas Tuan, director of Asia-Pacific advisory services at real estate services firm Savills.\n\n“There may not be fundamental asset value when you peel it all back.”\n\nFirmus, which had aimed to raise US$5 billion in what would have been Australia’s second-largest stock market listing, struggled to convince investors that it could deliver on ambitious revenue projections while carrying about US$30 billion of debt.\n\nNuclear services company Holtec cited a “perfect storm”, driven mainly by uncertainty around data-centre demand, when it pulled its US listing last month.\n\n## Higher rates test valuations\n\nHigher borrowing costs are at the heart of the new scrutiny.\n\nBenchmark 10-year US Treasury yields posted their sharpest quarterly rise this century in September, prompting investors to take a closer look at whether projected revenues can support growing debt burdens, bankers said.\n\nGary Goh, CEO of Sprint DC Consulting, an Asia-Pacific data centre consultancy firm based in Kuala Lumpur, warned that higher financing costs could lead to sharp valuation corrections.\n\nValuations can vary widely depending on whether they are based on existing customer contracts or future projections, and whether capital expenditure requirements are fully reflected, said a banker who advises data centre investors.\n\n“There is not remotely enough data centres built for the demand,” said the banker, who was not authorised to speak publicly. “Investors are still going in but the question is at what valuation.”\n\nInvestors are also paying closer attention to execution risks.\n\nBeyond higher power and water costs, developers face growing opposition in some markets over electricity use, noise and environmental concerns, adding to regulatory uncertainty around new projects.\n\nSecuring suitable land and power supplies is becoming more difficult in some jurisdictions, said a person at a US-based firm that invests in Asian data centre platforms, adding that the company had tightened its underwriting criteria because of geopolitical and policy risks.\n\nTo be sure, major transactions are still moving ahead.\n\nSingapore-based DayOne is expected to go public as soon as November, seeking to raise up to US$5 billion, Reuters reported in September. DayOne did not immediately respond to a request for comment.\n\nAirTrunk, despite postponing a planned real estate investment trust listing, is nearing a deal to sell its Johor data centre in Malaysia to a group of investors including local pension fund Kwap at a valuation of about US$1 billion, according to two people familiar with the matter.\n\nBain Capital has also received final bids for at least 40 per cent of its pan-Asian platform Bridge Data Centres in a deal that could value the business at around US$5 billion, two sources said.\n\nAirTrunk’s backer Blackstone and Bain Capital declined to comment. Kwap said it was not in a position to comment.\n\nStill, investors are likely to differentiate between established wholesale operators with long-term customer commitments and stable revenue, and higher-risk “neoclouds” and “AI-campus builders”, said John Dinsdale, chief analyst at TechInsights.\n\n“The question for investors is less whether demand will expand than which business models and companies will be best placed to capture that growth sustainably.” REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
-      "content_url": "https://www.businesstimes.com.sg/startups-tech/technology/market-sell-rising-rates-test-ai-data-centre-deal-boom"
+      "content_url": "https://www.businesstimes.com.sg/startups-tech/technology/market-sell-rising-rates-test-ai-data-centre-deal-boom",
+      "title_zh": "股市抛售与利率上升考验AI数据中心交易热潮",
+      "summary_zh": "撤回上市申请预示着融资环境趋紧；随着借贷成本上升，投资者对估值提出质疑"
     },
     {
       "id": "2026-10-16-8dba54",
       "title": "DigiCo signs 71MW lease for Sydney data center with unnamed tech firm",
       "summary": "Deal includes reallocation of 20MW of existing contracted capacity",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "A lease of this size confirms that AI and cloud demand in Sydney remains strong enough to absorb major blocks of capacity, and the 20MW reallocation shows operators are actively reshuffling existing commitments to accommodate anchor tenants. The unnamed customer's identity will be closely watched, as it may signal which hyperscaler or AI developer is expanding in Australia.",
+      "score": 80,
       "heat": 1,
       "regions": [
-        "global"
+        "australia"
       ],
-      "topics": [],
+      "topics": [
+        "leasing",
+        "hyperscale",
+        "capacity",
+        "ai"
+      ],
       "published_at": "2026-10-15T16:20:29Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "Data Center Dynamics",
@@ -318,139 +203,31 @@
         }
       ],
       "content": "DigiCo Infrastructure REIT has secured a major customer for its Sydney data center in Australia.\n\nThe ASX-listed firm announced this week that it has signed a 15-year contract for 71MW of capacity at its SYD1 facility in Sydney with an unnamed global technology firm, backed by \"investment-grade credit support.\"\n\nThe facility, which is set to reach 88MW once current upgrades and expansions are complete, is now 100 percent leased.\n\nThe contract includes the reallocation of 20MW of existing contracted capacity to the new customer. The remaining 17MW of SYD1 capacity is leased to co-location customers.\n\nDigiCo is in the midst of expanding the SYD site, set to nearly double its capacity. The company said the first 10MW of the SYD1 Expansion is expected to be energized and income-producing in late Q4 FY27, with the balance delivered progressively over FY28, aligned to customer requirements.\n\nSimon Mitchell, co-head and CFO of DGT, said: “Execution of the 71MW contract at SYD1 is a key milestone for DGT, taking the site to 100 percent contracted across 88MW of total capacity. The 15-year agreement with a global technology firm provides long -term earnings visibility, supported by investment-grade credit backing. It validates the quality of our infrastructure and strengthens the quality of cash flows from our portfolio.\"\n\nInvestment manager HMC Capital acquired Global Switch’s Australian business, comprising a two-building facility in the Ultimo area of Sydney, in 2024. The company then launched and floated DigiCo Real Estate Investment Trust, a new company to hold its data center assets, including the Sydney facility.\n\n“When we acquired SYD1, our business plan was to fully lease and develop the site to 88MW over five years, and we now expect to reach that milestone well ahead of our original plan,\" Mitchell added.",
-      "content_url": "https://www.datacenterdynamics.com/en/news/digico-signs-71mw-lease-for-sydney-data-center-with-unnamed-tech-firm/"
-    },
-    {
-      "id": "2026-10-16-796f44",
-      "title": "Eurofiber launches WDM data center connectivity in six German cities",
-      "summary": "Eurofiber launched Wavelength Division Multiplexing (WDM) connectivity services between data centers in six German cities. The services support data-intensive operations like cloud computing and AI applications.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-15T16:20:28Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/eurofiber-launches-wdm-data-center-connectivity-in-six-german-cities/134971858",
-          "type": "rss"
-        }
-      ],
-      "content": "Eurofiber, a European digital infrastructure provider, has launched Wavelength Division Multiplexing (WDM) connectivity services between data centers in six German cities.The connections are available in Berlin, Düsseldorf, Frankfurt, Hamburg, Munich, and Stuttgart. Eurofiber will primarily use the infrastructure of NGN Fiber Network, where it holds a stake, for these services, according to a press release.These services are designed to support data-intensive operations, including cloud computing, AI applications, data replication, backup, and business continuity across multiple locations.WDM technology enables multiple data signals to be transmitted over a single optical fiber, facilitating high-capacity connections. Arian de Korte, International Program Director at Eurofiber, said enterprises, cloud service providers, and international network providers are increasingly using regional data centers to bring data and applications closer to their operations and users, and to maintain greater control over their data.Andrea Kraus, CCO of Eurofiber Group, noted that the value of regional data centers for customers depends on their connectivity. Customers require flexibility to scale capacity, move data quickly, and build resilience across their digital infrastructure. Eurofiber operates fiber networks in the Netherlands, Belgium, France, Germany, and Luxembourg.\n\n- Cloud, Colocation & Connectivity\n- 1 min Read\n\n# Eurofiber launches WDM data center connectivity in six German cities\n\nEurofiber launched Wavelength Division Multiplexing (WDM) connectivity services between data centers in six German cities. The services support data-intensive operations like cloud computing and AI applications.\n\n- Published On Oct 15, 2026 at 09:50 PM IST\n\n## Highlights\n\n- Eurofiber launched WDM connectivity services across six German cities.\n- Services connect data centers in Berlin, Düsseldorf, Frankfurt, Hamburg, Munich, and Stuttgart.\n- The offering supports data-intensive operations like cloud computing and AI applications.\n- Eurofiber will utilise NGN Fiber Network infrastructure for these connections.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/eurofiber-launches-wdm-data-center-connectivity-in-six-german-cities/134971858"
-    },
-    {
-      "id": "2026-10-16-43bd33",
-      "title": "NTT deploys Nvidia GPU test cluster at Munich 2 data center",
-      "summary": "Allows customers to test AI applications on Nvidia Blackwell hardware",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-15T16:17:14Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "Data Center Dynamics",
-          "url": "https://www.datacenterdynamics.com/en/news/ntt-deploys-nvidia-gpu-test-cluster-at-munich-2-data-center/",
-          "type": "rss"
-        }
-      ],
+      "content_url": "https://www.datacenterdynamics.com/en/news/digico-signs-71mw-lease-for-sydney-data-center-with-unnamed-tech-firm/",
       "companies": [
-        "NTT"
+        "DigiCo"
       ],
-      "content": "NTT Global Data Centres has deployed an Nvidia GPU cluster at its Munich 2 data center.\n\nAccording to the company, the cluster provides clients with a “real-world environment” where they can test how their AI applications will perform at scale before investing in broad deployments themselves.\n\nUnlike a traditional AI demonstration or innovation lab, the cluster – which NTT has dubbed AI Factory Munich – allows customers to evaluate AI workloads against the infrastructure, security, data, governance and operational requirements they will face in production.\n\nIn a post on LinkedIn, Anne-Sophie Lotgering, CEO Europe, NTT, said that Nvidia and Dell provided the infrastructure whilst Red Hat and Mistral AI worked with the company on the platform and the model. The cluster is comprised of Nvidia Blackwell GPUs interconnected via Nvidia Spectrum-X Ethernet technology, with servers and storage provided by Dell’s AI Factory, with Nvidia offering.\n\n“Every leader I speak to wants AI they own, control and trust. At NTT Data's AI factory Munich, they can run their own applications and data in a production data center, on their terms, before they commit to deployment. It‘s the difference between a slide and a decision,” said Graham Clarke, managing director, global private and sovereign AI, NTT Data.\n\nLocated in the German town of Unterschleißheim outside Munich, Bavaria, NTT’s 6,300 sqm (67,813 sq ft) Munich 2 campus consists of two buildings offering 14MW of critical IT load.",
-      "content_url": "https://www.datacenterdynamics.com/en/news/ntt-deploys-nvidia-gpu-test-cluster-at-munich-2-data-center/"
-    },
-    {
-      "id": "2026-10-16-43deeb",
-      "title": "Ensuring uptime, insuring downtime",
-      "summary": "Can the insurance industry keep up with data center growth?",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-15T16:00:37Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "Data Center Dynamics",
-          "url": "https://www.datacenterdynamics.com/en/analysis/ensuring-uptime-insuring-downtime/",
-          "type": "rss"
-        }
-      ],
-      "content": "Imagine there’s a real estate sector growing globally at a CAGR of 14 percent, with the promise of near-guaranteed returns, stable rent-based cash flows, and enough demand that supply can barely keep up. Investing in such a fertile field would be a no-brainer. In reality, you don’t need to imagine. That fertile land and its promise exists in today’s data center market.\n\nWhile, in some cases, data centers are already delivering on this dream, no investment is without risk. And, from the pressure of high uptime standards, to uncertainty around AI returns, or even the threat of destruction from enemies and saboteurs, data centers are facing increasing and varied risks across the globe.\n\nThe obvious and traditional choice to mitigate that risk is insurance. But with data center hype reaching a fever pitch, and alchemical growth following, the slow-moving insurance markets are struggling to keep up.\n\nIn their reticence to miss out on a sure thing, those involved in data center construction and operation are leaving themselves somewhat exposed to new avenues of loss and risk, as an insurance protection gap emerges in the industry shield wall, leaving investors exposed to a hail of jeopardy.\n\n## As above, so below\n\nThe huge investments in AI infrastructure over the past few years have given all sectors serving the data center industry a significant boost. Insurance is no slouch here, seeing significant growth in global re/insurance for data centers.\n\nDemand for this infrastructure is nowhere near slowing yet, and there are still further opportunities for insurers to carve an even bigger parcel of land in the data center market.\n\nCharles-Marie Delpuech, insurance analyst at S&P Global Ratings, estimates a total insurable asset base of over $2 trillion in the data center sector.\n\n“Based on our projection and average annual investments of $300 billion, this asset base could double in six to seven years,” he adds.\n\nIn a recent report on insurable risks for data centers, S&P Global Ratings says that demand for data center insurance coverage could generate $10bn in new premiums in 2026. The research firm contextualizes this against another large insurance market, global aviation, which has annual premiums of around $5 billion.\n\nHyperscale data centers today are significantly larger and more complex than the more traditional deployments that pre-dated the emergence of generative AI and machine learning. This presents a wealth of opportunities for insurers, who will be able to offer services to the entire ecosystem that goes into the construction of such a data center. Developers, builders, utilities providers, investors, and lenders will all have insurance needs going into a project.\n\nAs hyperscalers continue to increase their capex, which is forecast to reach $700bn in 2026, they are looking to external funding sources. Delpuech says these investors may require high insured limits, and will likely continue to drive demand for insurance, both to protect assets or cash flows, such as rental income.\n\nHowever, with such a high level of demand, some insurers are facing more supply than they can handle. One example of this is insurance firm Parametrix, which provides a range of insurance products, including service-level agreement insurance for data centers. Jonathan Hatzor, co-founder and CEO of Parametrix, argues that the insurance market has been slow to adapt.\n\n“You have a risk that is growing, and usually when you have that, the insurance market is there to try to minimize this risk,” he explains. “But in data centers, we still see a lot of demand but not enough supply of insurance, which is also increasing the entire risk factor.”\n\nHatzor uses the example of investors offering a loan to purchase GPUs for a data center project: “Think about a debt provider or investors that provide a $10bn loan or equity to buy GPUs. The insurance market can not provide a $10bn property coverage for GPUs.\n\n“There is no historical example of insuring properties with equipment worth $10bn inside of it,” he says. “It’s not just the risk that investors are concerned about; it’s also the fact that the insurance market is slow to adapt.”\n\nHe jokes: “It’s not just because we’re dinosaurs or because insurance companies are very old, there’s just no historical records of how resilient those GPUs are.”\n\nHatzor adds that the insurance market needs to catch up and offer a proper insurance ecosystem in order to really “unleash the potential” of the data center sector.\n\nDespite its slowness, the insurance market is rising to meet growing demand on multiple fronts. Delpuech says insurers are increasing available capacity or adapting their insurance products to match.\n\n“Nonetheless, as we may expect from the insurance industry, before taking additional risks we expect underwriting standards and discipline to remain the focus,” he explains.\n\nMany data center companies today are covered by existing general business insurance, but data center-specific exposures are necessitating more defined coverage. When it comes to these specialized coverages, insurers will remain cautious about their offerings, Delpuech says, and in the meantime, hyperscalers may need to look to self-insure uncovered risks.\n\nOne way of doing this, for example, is with captive insurance – a form of self-insurance whereby a company creates its own licensed insurance subsidiary, allowing them to better manage hard-to-place risks and their associated costs.\n\nCorroborating Hatzor’s earlier point, Delpuech states that data center projects now have coverage limits that go “beyond historical larger infrastructure projects like bridges and tunnels, which could have required a maximum $5-$10bn in coverage.”\n\n“Some commercial insurers are now offering per-risk limits in the low single-digit billions for data center exposures, still short of the exposure that is coming to the market.”\n\nBut he adds: “Collaboration will be key. Given the size and complexity of these projects, insurers are increasingly working together to share risks, and we have seen many broker-led facilities increasing their aggregate capacity in recent months.”\n\n## Always on, sometimes covered\n\nAnother growing avenue for data center insurance is SLA insurance. Downtime risk is a direct threat to operational incomes and returns because of the various financial penalties that are built into tenancy agreements.\n\nSLA insurance is a solution to this, turning the volatility of an SLA into an insurable risk. Parametrix says solutions such as this are providing the predictability that will attract the capital required to build out the data center sector.\n\nHatzor says that, in the past, operators were simply trying to convince investors that downtime is extremely rare, especially in a Tier III or Tier IV data center. But with growing interest in the sector from investors, those coming from more predictable asset classes, wanted something more stable.\n\nInstitutional buyers are therefore increasingly requiring SLA insurance as part of M&A and refinancing deals.\n\nThese sorts of risks and exposures – downtime, power dependency, or operational disruption – are increasingly becoming a focus for insurers as opportunities to provide more coverage. These risks are becoming as challenging, or in some cases more challenging, than risks associated with physical assets.\n\nHowever, when it comes to AI infrastructure, SLA insurance is still an emerging service. Delpuech predicts that this type of insurance will become an even bigger topic in the coming years, as the facilities being built today start operation.\n\n“Insurers already have a strong presence in the typical data centers property insurance space,” he explains, “what we are seeing is the new complexity and scale of the hyperscale data centers where we expect insurers will expand for risk and limits they are comfortable with.”\n\n“The reality is that the demand for insurance that has not been historically provided is only starting to come.”\n\nDowntime is tricky to insure, especially when you consider interconnectedness with other data centers. Some specialized insurers will likely look to increase their capacity to meet these insurance demands. But, in some cases, it is likely that larger data center operators will look to cover these exposures with captive insurance systems.\n\nIn any case, no single insurer will be able to absorb all of the risks associated with data centers, which are in and of themselves collaborative structures. It is likely that insurers will look to partner to share the risk associated with data centers. S&P Global Ratings says it expects collaborative structures to “play an increasingly central role in scaling up the insurance market’s response,” and that alternative capital will start providing capacity as the market develops.”\n\n## Exposures and risks\n\nCommon concentration risks can often simply come from the geographical footprint of the data center, which can often mean exposure to natural disasters, especially if there are many high-value assets concentrated in a single location.\n\nFor example, a recent report from MS Amlin found that half of planned US data centers, which are now increasingly being built in the south of the country, are at risk from severe convective storms, hurricanes, winterstorms, and earthquakes.\n\nDelpuech says it is “pretty standard” for the industry to be able to locate and accumulate property exposure as they would do across all of their insured properties, not just data centers.\n\nHowever, building a data center requires integration of multiple stakeholders: the end-user, developers, builders, utilities providers, and investors. With so many affected parties in the same space, and as this complexity increases with more complex data centers, providing multiple insurance products to participants in the same data center can cause concentration. Insurers will need to be careful to avoid concentration and aggregation risk.\n\nDelpuech says data quality and tracking will be important in avoiding and dealing with these exposures.\n\nIn order to deal with more specialized risks, specialized commercial insurers generally take the lead on data center projects, Delpuech says, with “great expertise” in engineering and construction risk.\n\n“The traditional property risk where most capacity is deployed is well understood by the industry,” Delpuech notes, “where it becomes more complex is everything related to business interruption or cyber. This is where we could expect growing demand over the coming years.”\n\n“These are not new risks for the industry, but the interconnectedness of data centers across the economy means that the financial exposure can be significant. We understand that coverage is provided, but we would expect limits to be relatively modest, with exclusion regarding non-physical damage like power outage being standard. Also, the waiting period for business interruptions means that hyperscalers should be ready to cover the losses in the first hours or days.”\n\nOperators will also need to consider less forgiving exposures when it comes to data centers. For example, as data centers increasingly become military targets as war infrastructure, as seen in the recent US-Iran war, operators may find themselves adrift with no coverage. For example, some reporting has suggested that Amazon Web Services data centers in Bahrain and the UAE that have been hit by drone strikes linked to Iran will not be able to claim insurance on their losses, as existing policies typically don’t cover war.\n\nStandard property and cyber insurance policies generally contain war exclusions, with the insurer note required to pay out. This is obviously more of a problem in high-exposure zones, such as Ukraine and Eastern Europe, or Israel and the broader Middle East. And as these conflicts have become more of a problem for data centers, re/insurers have generally tightened war exclusion language and required explicit carve-outs.\n\n## Cautious expansion\n\nWhile the data center market continues to rapidly grow, insurers are cautiously expanding to match demand, creating a gap in insurance protection. Rapid construction timelines and large asset values will continue to be a mismatch with how the insurance sector operates, and S&P Global Ratings says insurers will maintain “strong underwriting discipline as they assess increasingly large and complex risks,” in the face of the pace of the industry.\n\nDelpuech explains: “Because of this shortage of capacity, third-party capital outside of the insurance industry may be interested in covering the gap but this will require new innovative structures that make economic sense for all parties.”\n\nThe data center market is offering an immense opportunity for both investors and insurers, but where insurers are lagging, investors may follow suit. There already exist fears of an AI bubble. If it were to burst, it has the potential to be catastrophic to global markets, bigger than even the dot com bubble. The data center insurance industry is yet another example of an adjacent sector struggling under the pressure of the industry’s growth, as it builds the superstructure before the foundations are set.\n\nIf this insurance protection gap persists, investors in the industry might be less likely to throw all their eggs in one AI-shaped basket. And, given the magnitude of investment required to fund this industry, with some predicting around $3trn of required investment over the next five years, wavering now could spell disaster. Equally, as Delpuech argues, third-party capital may look to cover this gap and help to solve this issue, but as of yet those new and innovative structures are yet to be formed, and data center construction shows no signs of slowing.",
-      "content_url": "https://www.datacenterdynamics.com/en/analysis/ensuring-uptime-insuring-downtime/"
-    },
-    {
-      "id": "2026-10-16-984183",
-      "title": "DCD Studio: A year of data center development with Matthew Baynes, Schneider Electric",
-      "summary": "Seb Moss speaks with Matthew Baynes of Schneider Electric about adapting to AI-driven GPU growth through modular construction, liquid cooling, future-proof designs, and sustainable grid innovations.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-15T15:57:26Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "Data Center Dynamics",
-          "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-a-year-of-data-center-development-with-matthew-baynes-schneider-electric/",
-          "type": "rss"
-        }
-      ],
-      "content": "DCD Studio: A year of data center development with Matthew Baynes, Schneider Electric October 15, 2026 By DCD Have your say Seb Moss speaks with Matthew Baynes of Schneider Electric about adapting to AI-driven GPU growth through modular construction, liquid cooling, future-proof designs, and sustainable grid innovations. Tags Liquid Cooling Rack Density Schneider Electric Sustainability future-proof design grid innovation power limitations",
-      "content_url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-a-year-of-data-center-development-with-matthew-baynes-schneider-electric/"
-    },
-    {
-      "id": "2026-10-16-6beac3",
-      "title": "DCD Studio: Filtering diesel generators for cleaner air with Senna Nijs, Multronic",
-      "summary": "Seb Moss joins Senna Nijs of Multronic to discuss advanced emissions after-treatment for data center diesel generators, including SCR, DPF and DOC technologies that reduce pollutants and support regulatory compliance",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-15T15:42:29Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "Data Center Dynamics",
-          "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-filtering-diesel-generators-for-cleaner-air-with-senna-nijs-multronic/",
-          "type": "rss"
-        }
-      ],
-      "content": "DCD Studio: Filtering diesel generators for cleaner air with Senna Nijs, Multronic October 15, 2026 By DCD Have your say Seb Moss joins Senna Nijs of Multronic to discuss advanced emissions after-treatment for data center diesel generators, including SCR, DPF and DOC technologies that reduce pollutants and support regulatory compliance Tags Multronic Power Senna Nijs Sustainability diesel generators",
-      "content_url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-filtering-diesel-generators-for-cleaner-air-with-senna-nijs-multronic/"
+      "title_zh": "DigiCo与一家未具名科技公司签署71MW悉尼数据中心租约",
+      "summary_zh": "该交易包括对20MW现有已签约容量的重新分配",
+      "why_zh": "如此规模的租约证实，悉尼的AI和云计算需求依然强劲，足以消化大规模的容量，而20MW的重新分配表明运营商正在积极调整现有承诺以容纳主力租户。这家未具名客户的身份将受到密切关注，因为它可能预示哪家hyperscaler或AI开发商正在澳大利亚扩张。"
     },
     {
       "id": "2026-10-16-3ae4fc",
       "title": "Digital Realty tops out second data center in Seoul, South Korea",
       "summary": "Facility was first announced in 2021",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "The milestone shows Digital Realty is delivering on its Korean expansion despite a five-year timeline, adding new supply to one of Asia's most land- and power-constrained data center markets. Enterprises and cloud providers seeking Seoul capacity will gain another option, while the long build time underscores the permitting and construction challenges facing operators in Korea.",
+      "score": 70,
       "heat": 1,
       "regions": [
-        "global"
+        "korea"
       ],
-      "topics": [],
+      "topics": [
+        "capacity",
+        "hyperscale",
+        "construction"
+      ],
       "published_at": "2026-10-15T15:19:16Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "Data Center Dynamics",
@@ -462,19 +239,27 @@
         "Digital Realty"
       ],
       "content": "The company this week announced the topping out of ICN11, its newest data center development in South Korea.\n\nThe facility is due to be operational by the second half of 2027.\n\n“The topping out isn't just a construction milestone; it's a powerful symbol of what happens when incredible teams come together to build something bigger than any one of us could achieve alone,” the company said.\n\nPlans for ICN11 (aka Digital Seoul 2) were first announced back in 2021, buying a land parcel in Gurae-dong, Gimpo City, in northwest Seoul. The 64MW facility is set to span almost 1 million sq ft (92,903 sqm). It was originally due to come online by the first half of 2023.\n\nDigital currently operates its ICN10 (aka Digital Seoul 1) facility in Seoul. Announced in 2019 and live in 2022, the ten-story facility offers up to 12MW of IT capacity across 132,000 sq ft (12,265 sqm) of floorspace.\n\nDigital is working with DPR Construction, DL E&C Co., Turner & Townsend, and Heerim Architects & Planners on the project.",
-      "content_url": "https://www.datacenterdynamics.com/en/news/digital-realty-tops-out-second-data-center-in-seoul-south-korea/"
+      "content_url": "https://www.datacenterdynamics.com/en/news/digital-realty-tops-out-second-data-center-in-seoul-south-korea/",
+      "title_zh": "Digital Realty韩国首尔第二座数据中心封顶",
+      "summary_zh": "该设施最初于2021年公布",
+      "why_zh": "这一里程碑表明，尽管历时五年，Digital Realty仍在兑现其在韩国的扩张计划，为亚洲土地和电力最紧张的数据中心市场之一增加了新的供给。寻求首尔容量的企业和云服务提供商将获得另一个选择，而漫长的建设周期也凸显了韩国运营商在许可审批和施工方面面临的挑战。"
     },
     {
       "id": "2026-10-16-95912b",
       "title": "Pause in US data center construction could lead to recession, BlackRock CEO warns",
       "summary": "Slowed buildout could turn massive investment into a massive crash",
       "why_it_matters": "",
-      "score": null,
+      "score": 50,
       "heat": 1,
       "regions": [
         "global"
       ],
-      "topics": [],
+      "topics": [
+        "investment",
+        "ai",
+        "markets",
+        "construction"
+      ],
       "published_at": "2026-10-15T15:16:00Z",
       "featured": false,
       "sources": [
@@ -485,70 +270,30 @@
         }
       ],
       "content": "A pause in US data center construction could lead to a recession, the CEO of investment firm BlackRock has suggested.\n\nIn comments to CNBC, BlackRock CEO Larry Fink warned that a countrywide moratorium in the US will lead to a recession, with so much of the economy based on the buildout of the massive investments over the past few years in AI infrastructure.\n\nReal estate services firm JLL said that forecasted data center capacity through 2030 will require $3 trillion in total investment. Demand remains high, with 97 percent global occupancy and 77 percent of the construction pipeline pre-committed to tenants, according to JLL.\n\nIn the US alone, competition for data center capacity is fierce, with demand now five times what it was two years ago and vacancy rates at one percent for three years in a row.\n\nJLL says there remains clear investor confidence in the industry, with development accelerating to meet demand growth.\n\nHowever, the US is also seeing significant opposition to data centers from local communities, government officials, and media. Multiple data center moratoriums are being considered or implemented up and down the country. Of those implemented, the shortest lasted just a week, and the longest will stretch up to a year and a half.\n\nEven traditionally data center-friendly jurisdictions, such as Virginia, are looking into the effects of data centers on the local area, with Virginia's data center corridor, Loudoun County, voting to block new applications for facilities last month.\n\nDuring the interview with CNBC, BlackRock’s Fink said that increasing opposition to data centers is mostly “misinformation,” arguing that data centers are creating “more new jobs than ever before.”\n\nMoratoriums are just one log on the fire, however. There are significant issues that could lead to a delayed buildout of data centers in the US. Discussions around energy costs and grid upgrades, for example, have dominated discourse in the US and are far from finished.\n\nThe industry’s explosive growth has also led to shortages in the supply of equipment, raw materials, and labor, which are leading to delays in project delivery globally.",
-      "content_url": "https://www.datacenterdynamics.com/en/news/pause-in-us-data-center-construction-could-lead-to-recession-blackrock-ceo-warns/"
-    },
-    {
-      "id": "2026-10-16-d8d7c9",
-      "title": "Meta named as company behind 3,000 acre data center project in Mason County, Kentucky",
-      "summary": "Will receive a 40-year tax break on property taxes",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-15T15:02:00Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "Data Center Dynamics",
-          "url": "https://www.datacenterdynamics.com/en/news/meta-named-as-company-behind-3000-acre-data-center-project-in-mason-county-kentucky/",
-          "type": "rss"
-        }
-      ],
+      "content_url": "https://www.datacenterdynamics.com/en/news/pause-in-us-data-center-construction-could-lead-to-recession-blackrock-ceo-warns/",
       "companies": [
-        "Meta"
+        "BlackRock"
       ],
-      "content": "Meta has been named as the company looking to develop almost 3,000 acres into a data center campus in Mason County.\n\nAs per a report from the Ledger Independent, Meta was identified during an October 13 Mason County Fiscal Court meeting, in which a community benefits agreement was passed by county commissioners.\n\nUnder that agreement, Meta will invest $10 billion in the project, with the potential for this to grow in future phases, and will generate more than 4,000 construction jobs and 300 long-term roles once operational. Meta will also contribute $115 million to infrastructure improvements on roads, water treatment plants, and pipelines and will see annual payments to the county in the millions of dollars per development phase.\n\nIn return, Meta has been awarded a 40-year tax break on local property taxes - there will be $800bn in Industrial Revenue Bonds (IRBs) for this project, with an estimated $10 billion per phase.\n\nThat a massive data center campus was coming to the area was first revealed in November 2025, with an anonymous developer at the time evaluating 5,000 acres of land near the Big Pond and Tuckahoe roads.\n\nIn May of this year, a 2,080-acre parcel in the area was rezoned for data center use, with documents suggesting six 718,740 sq ft (66,773 sqm) data center buildings and three substations would be built at the site. Power capacity has been said to possibly reach up to 2.2GW.\n\nThe local community has voiced concerns regarding the project, with a petition against the project having 1,429 signatures at the time of writing.\n\nMeta said: “We’re grateful to the Mason County fiscal court for its careful review. With this potential project, we’ll not only pay the full cost of the power we use, but we’ll invest directly in Mason County — in schools, workforce training and local infrastructure — guided by what local leaders and residents tell us they need. We take seriously the diversity of opinions in the county, and we intend to keep showing up and listening, not just during the approval process but in the long run.”\n\nMason County Judge Executive Owen McNeill added: “This agreement with Meta represents the hard work of many dedicated individuals and organizations that envisioned a brighter future for Mason County and all of our residents. Meta represents the pinnacle of technology companies that only a few short years ago, we would have never dreamt would invest here. For our community, closer to the rural end of the spectrum than urban, their investments positively address just about every issue our communities are facing today and will greatly bolster them well into the future.”",
-      "content_url": "https://www.datacenterdynamics.com/en/news/meta-named-as-company-behind-3000-acre-data-center-project-in-mason-county-kentucky/"
-    },
-    {
-      "id": "2026-10-16-693c4f",
-      "title": "Greece drafts legislation requiring data centers source 60% of power from renewables",
-      "summary": "Also proposes the creation of a data center registry",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-15T14:39:20Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "Data Center Dynamics",
-          "url": "https://www.datacenterdynamics.com/en/news/greece-drafts-legislation-requiring-data-centers-source-60-of-power-from-renewables/",
-          "type": "rss"
-        }
-      ],
-      "content": "The Greek government has proposed new legislation that could require data centers to source at least 60 percent of their power from renewable sources.\n\nThe Ministry of Environment and Energy proposed the draft legislation, which also includes several other provisions seeking to set stricter requirements for data centers.\n\nThese include requiring data center investors to reserve grid capacity only when they can prove sufficient financial backing and investment readiness, and requiring them to cover grid connection and related grid reinforcement costs.\n\nThe rules would also render data centers subject to financial capacity checks, including turnover criteria for projects connecting to the transmission system. In addition, data centers seeking a connection would have to provide a €200,000 ($224,089) per MW bank guarantee to prevent speculative applications from entering the grid connection queue.\n\nIn addition, the draft legislation proposed that the Regulatory Authority for Waste, Energy and Water (RAAEY) create a data center registry to track developments in the sector and improve transparency.\n\nThe draft legislation also includes the introduction of flexible grid connection agreements in locations with insufficient capacity, which will permit grid operators to limit the amount of power a facility can draw from the grid within set limits. In addition, the legislation proposes that transmission and distribution operators publish information every three months on available connection capacity by region.\n\nFinally, the proposals set out the establishment of a €2.3 billion ($2.57bn) Island Decarbonization Fund to finance projects that would reduce reliance on oil-fired generation in favor of renewable energy and storage facilities.\n\nThe consultation will last until October 24, 2026.\n\nThe draft legislation follows Spain, which proposed new legislation in August that would require data centers to source at least 80 percent of their electricity consumption from new renewable generation on an hourly basis.\n\nGreece is a relatively small data center market compared to the rest of Europe, but has seen significant expansion over recent years. According to Data Center Map, the country currently has 29 operational facilities across 19 operators. Digital Realty launched its first data center in the country in April of last year on the island of Crete.",
-      "content_url": "https://www.datacenterdynamics.com/en/news/greece-drafts-legislation-requiring-data-centers-source-60-of-power-from-renewables/"
+      "title_zh": "贝莱德CEO警告：美国数据中心建设停滞或引发经济衰退",
+      "summary_zh": "建设放缓可能将巨额投资演变为一场巨大的崩盘"
     },
     {
       "id": "2026-10-16-817c20",
       "title": "PLDT postpones Philippines’ first data center REIT IPO citing market volatility",
       "summary": "Philippines telco PLDT Inc. has postponed the public listing of its data center unit Vitro REIT Inc. to 2027 citing unfavourable market conditions amid rising interest rates, the firm said in an exchange filing recently. This would have been the country’s first digital infrastructure real estate investment trust (REIT) listing if offerred in 4Q 2026, its original […]",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "The postponement deprives Philippine capital markets of a landmark digital infrastructure listing and signals that rising rates are chilling REIT issuance across the region. For PLDT, it delays plans to monetize its data center assets and recycle capital into network and AI investments, while rival operators may reassess their own listing timetables.",
+      "score": 72,
       "heat": 1,
       "regions": [
-        "global"
+        "southeast-asia"
       ],
-      "topics": [],
+      "topics": [
+        "investment",
+        "reit",
+        "capital-markets"
+      ],
       "published_at": "2026-10-15T14:03:09Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "W.Media",
@@ -557,98 +302,33 @@
         }
       ],
       "content": "Philippines telco PLDT Inc. has postponed the public listing of its data center unit Vitro REIT Inc. to 2027 citing unfavourable market conditions amid rising interest rates, the firm said in an exchange filing recently. This would have been the country’s first digital infrastructure real estate investment trust (REIT) listing if offerred in 4Q 2026, its original target period.\n\n“In light of current market conditions and rising interest rates, Vitro REIT has decided to defer the IPO to 2027. PLDT remains committed to the proposed VITRO REIT IPO as an important part of the Group’s asset monetization and deleveraging plans, while supporting expansion of the REIT portfolio and continued growth of the Group’s data center business,” it said. No further details of the next possible target date was given.\n\nIn June, <u>w.media</u> reported on the proposed listing which was expected to raise as much as US$ 400 million. The IPO would include VITRO REIT’s portfolio of eight Tier 2 and Tier 3 data center assets totaling 24MW.\n\nThe Philippines central bank has raised interest rates three times this year while headline inflation has risen to 7.2 per cent in September from 6.1 per cent in August, the fastest in three years. The Philippines stock market has seen a sea of red with foreign investors being net sellers. This comes on the back of high oil prices, a weak peso and high Treasury yields.",
-      "content_url": "https://w.media/pldt-postpones-philippines-first-data-center-reit-ipo-citing-market-volatility/"
-    },
-    {
-      "id": "2026-10-16-c0bcfc",
-      "title": "Oracle renews attempts to secure natural gas pipeline approval for Project Jupiter data center - report",
-      "summary": "Seeks approval from FERC to expedite approval of the 17.8-mile pipeline",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-15T13:50:26Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "Data Center Dynamics",
-          "url": "https://www.datacenterdynamics.com/en/news/oracle-renews-attempts-to-secure-natural-gas-pipeline-approval-for-project-jupiter-data-center-report/",
-          "type": "rss"
-        }
-      ],
+      "content_url": "https://w.media/pldt-postpones-philippines-first-data-center-reit-ipo-citing-market-volatility/",
       "companies": [
-        "Oracle"
+        "PLDT",
+        "Vitro REIT"
       ],
-      "content": "Oracle has revived attempts to secure approval for a natural gas pipeline extension needed to feed its 2.5GW Project Jupiter data center campus in Doña Ana County, New Mexico.\n\nAccording to Bloomberg, the cloud computing firm asked the Federal Energy Regulatory Commission (FERC) to expedite approval of the 17.8-mile (28.6km) Green Chile pipeline, which would transport about 400 million cubic feet of natural gas daily to on-site fuel cells that will power the facility. Bloom Energy is supplying the fuel cells and has signed several offtake deals with other data center firms.\n\nIn a letter to FERC, the company said that the development is projected to support nearly 5,800 peak construction jobs and generate up to $1.1 billion in annual economic output for the local county.\n\nIn July, Energy Transfer, a midstream gas firm, saw its application to build a new natural gas pipeline to feed the site rejected by state regulators. State officials cited large-scale water use, increased CO2 emissions, and a lack of state revenue generation as major factors in their decision.\n\nDespite the rejection, Oracle said the project remained on schedule. However, in September, it was reported that the company had sent a force majeure notice to Blue Owl Capital in an effort to shield itself from potential increased costs should the facility fail to come online in 2028 as planned, which would allow the firm to delay the payments it would have to make, rather than forfeit its tenancy.\n\nWith the pipeline's operational timeline now set for February 2027, well past its August target, there is growing trepidation that the data center could also face significant delays.\n\nIn response to the renewed push for approval, environmental groups and the state's attorney general, Raúl Torrez, have sought to pressure FERC to broaden its environmental review, asking the agency to evaluate the combined footprint of the data center and the pipeline before granting approval.\n\nAs a workaround for its gas supply issues, recent reports revealed that the company has been trucking in compressed natural gas to its Salt Lake City and Texas data centers for the past year. According to the reports, the company is now considering the same model for the Project Jupiter data center.",
-      "content_url": "https://www.datacenterdynamics.com/en/news/oracle-renews-attempts-to-secure-natural-gas-pipeline-approval-for-project-jupiter-data-center-report/"
-    },
-    {
-      "id": "2026-10-16-374aba",
-      "title": "Odisha Cabinet greenlights US$ 18.62 million backup data center",
-      "summary": "The Odisha Cabinet in India has approved a Rs 176.83 crore (US$ 18.62 million) disaster recovery data center, set to be built on the south campus of Dharanidhar University in Keonjhar district. According to ET Datacenters, the disaster recovery data center will function as a geographically separate backup and recovery center for the state’s primary […]",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-15T12:30:40Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "W.Media",
-          "url": "https://w.media/odisha-cabinet-greenlights-us-18-62-million-backup-data-center/",
-          "type": "rss"
-        }
-      ],
-      "content": "The Odisha Cabinet in India has approved a Rs 176.83 crore (US$ 18.62 million) disaster recovery data center, set to be built on the south campus of Dharanidhar University in Keonjhar district.\n\nAccording to ET Datacenters, the disaster recovery data center will function as a geographically separate backup and recovery center for the state’s primary data center in Bhubaneswar. In the event of major technical failures, cyberattacks, or natural disasters, the new facility would be able to restore essential government digital services.\n\nThe facility will have its own independent power supply, cooling systems, connectivity, and computing infrastructure. The goal is to allow the facility to operate as a recovery site with no reliance on the primary data center’s infrastructure.\n\nOf the total cost, Rs 154 crore (US$ 16.22 million) has been allocated for capital expenditure, with the remaining Rs 22.83 crore (US$ 2.4 million) reserved for operational expenditure over a five-year period. The Fifth State Finance Commission has provided a grant-in-aid of Rs 162.83 crore (US$ 17.15 million) for the project. The balance will be covered by the Odisha Computer Application Centre, which will draw from the Electronics and Information Technology Department’s State Data Centre maintenance budget.\n\nThe state has set a nine-month implementation period, followed by five years of operations and maintenance. Krystal Integrated Services Limited has been selected to assist with the project.\n\nThe Odisha State Data Centre (OSDC), in Bhubaneswar has been operational since 2011 and hosts applications essential to the state and its departments. In July, Odisha TV reported that as demand for digital infrastructure rose, an upgrade was necessary. The state government has approved the establishment of Odisha State Data Centre 2.0 with a total approved cost of Rs 268.44 crore (US$ 28.29 million).",
-      "content_url": "https://w.media/odisha-cabinet-greenlights-us-18-62-million-backup-data-center/"
-    },
-    {
-      "id": "2026-10-16-5ccb07",
-      "title": "Ukrainian drones strike Sberbank data center under construction in Russia",
-      "summary": "Ukrainian drones have struck a data center under construction for Russian state lender Sberbank in Balakovo, Saratov region, overnight on October 14, killing one woman and damaging several residential buildings. Alexander Vedyakhin, First Deputy CEO, Sberbank, confirmed the attack, saying the bank’s systems and online services continued to operate normally. The bank also said no […]",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 2,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-15T12:02:03Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "W.Media",
-          "url": "https://w.media/ukrainian-drones-strike-sberbank-data-center-under-construction-in-russia/",
-          "type": "rss"
-        },
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/operations-resilience/ukrainian-drones-strike-sberbank-data-center-under-construction/134979248",
-          "type": "rss"
-        }
-      ],
-      "content": "Ukrainian drones have struck a data center under construction for Russian state lender Sberbank in Balakovo, Saratov region, overnight on October 14, killing one woman and damaging several residential buildings.\n\nAlexander Vedyakhin, First Deputy CEO, Sberbank, confirmed the attack, saying the bank’s systems and online services continued to operate normally. The bank also said no employees were injured as reported by The Moscow Times.\n\nHowever, users across Russia reported disruptions to Sberbank’s services such as its GigaChat AI platform and other major online services, according to outage tracker Detector404. No link between the reported disruptions and the drone attack was established.\n\nRoman Busargin, Governor, Saratov region, told Meduza all infrastructure facilities in the city were “operating normally” without specifically identifying the data center as a target.\n\nReaders will recall that the strike follows Ukrainian drone attacks last week on data centers belonging to Russian technology company Yandex in the Ryazan, Vladimir and Kaluga regions.\n\nUkraine claims the attacks were retaliations to Russian attacks on Kyiv data centers in September which damaged data centers used by internet providers UTELS and Pavutyna, disrupting internet services for about 100,000 households in Kyiv and the surrounding region. In mid September Russian drone strikes targeted BeMobile and UCloud data centers whose services were both affected.\n\nSberbank began construction of the Balakovo facility in 2021 after announcing the project in 2020. The center is expected to cover approximately 55,000 to 60,000 square meters and is scheduled for completion in 2030. One of the bank’s supercomputers is also being built at the site.",
-      "content_url": "https://w.media/ukrainian-drones-strike-sberbank-data-center-under-construction-in-russia/"
+      "title_zh": "PLDT以市场波动为由推迟菲律宾首个数据中心REIT的IPO",
+      "summary_zh": "菲律宾电信运营商PLDT Inc.近日在交易所备案文件中表示，鉴于利率上升背景下市场环境不利，公司已将其数据中心子公司Vitro REIT Inc.的公开上市推迟至2027年。若按原计划在2026年第四季度发行，这原本将成为该国首个数字基础设施房地产投资信托（REIT）上市项目 […]",
+      "why_zh": "此次推迟使菲律宾资本市场失去了一个具有里程碑意义的数字基础设施上市项目，也表明利率上升正在给整个地区的REIT发行降温。对PLDT而言，这推迟了其将数据中心资产变现并将资金回笼投入网络和AI投资的计划，而竞争对手运营商可能会重新评估自己的上市时间表。"
     },
     {
       "id": "2026-10-16-a0a954",
       "title": "Unbridled AI optimism turns to debt-powered data centre anxiety",
       "summary": "Unbridled optimism about the growth of artificial intelligence has given way to worries about enormous debts and fears that Firmus’ failure to land a $44 billion listing on the ASX will hurt investor…",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "The shift in mood matters because debt markets have been the primary engine of the data centre boom; if lenders and equity investors grow cautious, financing costs will rise and speculative projects could stall. Firmus' failed listing serves as an early stress test of how much AI-linked infrastructure risk public markets are willing to absorb.",
+      "score": 78,
       "heat": 1,
       "regions": [
         "australia"
       ],
-      "topics": [],
+      "topics": [
+        "ai",
+        "investment",
+        "capital-markets",
+        "debt"
+      ],
       "published_at": "2026-10-15T12:00:00Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "AFR — Data Centres topic",
@@ -658,21 +338,32 @@
       ],
       "published_precision": "day",
       "content": "Unbridled optimism about the growth of artificial intelligence has given way to worries about enormous debts and fears that Firmus’ failure to land a $44 billion listing on the ASX will hurt investor confidence across the sector.\n\nWhat started as the end of Firmus’ plans to list on the Australian sharemarket last week has turned into a market rout for its peers, including CoreWeave, the Nasdaq-listed infrastructure business described as the original neocloud that has found its bonds trading in junk territory.\n\nLoading...",
-      "content_url": "https://www.afr.com/markets/debt-markets/coreweave-chief-says-failed-firmus-float-bleeding-into-the-narrative-20261015-p615pg"
+      "content_url": "https://www.afr.com/markets/debt-markets/coreweave-chief-says-failed-firmus-float-bleeding-into-the-narrative-20261015-p615pg",
+      "companies": [
+        "Firmus"
+      ],
+      "title_zh": "对AI的狂热乐观正演变为债务驱动的数据中心焦虑",
+      "summary_zh": "对AI增长的盲目乐观已让位于对巨额债务的担忧，人们担心Firmus未能在ASX完成440亿美元的上市将损害投资者……",
+      "why_zh": "市场情绪的变化之所以重要，是因为债务市场一直是数据中心繁荣的主要引擎；如果贷款机构和股权投资者变得谨慎，融资成本将上升，投机性项目可能停滞。Firmus上市失败成为一次早期压力测试，检验公开市场愿意承受多大程度的AI相关基础设施风险。"
     },
     {
       "id": "2026-10-16-cca39d",
       "title": "Malaysia approves 27 data center projects worth US$55.4 billion",
       "summary": "Malaysia has approved 27 data center projects with an estimated investment of US$55.4 billion as of July 2026, the Digital Ministry informed Parliament. Most of these projects are still under construction, with one already operational.",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "The disclosure gives investors and policymakers the clearest official picture yet of Malaysia's data center pipeline, while highlighting how much of the announced capital is still unrealized. Grid planners, construction firms, and local communities will feel the impact as these projects move from approval to delivery over the coming years.",
+      "score": 85,
       "heat": 1,
       "regions": [
-        "global"
+        "southeast-asia"
       ],
-      "topics": [],
+      "topics": [
+        "investment",
+        "capacity",
+        "regulation",
+        "hyperscale"
+      ],
       "published_at": "2026-10-15T11:50:28Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "ET Datacenters",
@@ -681,164 +372,29 @@
         }
       ],
       "content": "Malaysia has approved 27 data center projects with an estimated investment of RM225.97 billion (US$55.4 billion) as of July 2026, the Digital Ministry informed Parliament yesterday. All approved projects are under construction, except for one that has commenced operations. More than half of these data centers, specifically 16, are located in Johor.Selangor accounts for 10 approved projects, and Negeri Sembilan has one. These developments are projected to create 4,053 jobs, including 3,523 high-skilled positions in engineering, networking, and cybersecurity. Approximately 90 per cent of these high-skilled roles are expected to be filled by Malaysians.The Digital Ministry also stated that these projects are subject to a minimum local content requirement of 30 per cent. The Malaysian Investment Development Authority (Mida) monitors implementation and compliance through bi-annual reports. Talent Corporation Malaysia is developing a data center facilities management programme to train local talent.In a separate parliamentary session, it was revealed that as of August, 45 operational facilities had a combined maximum load of 6 gigawatts (GW) but consumed about 1.37 GW. Deputy Minister Abdul Rahman Mohamad suggested that operators consider developing their own power generation and water supply. A planned 1 GW hybrid energy project by UEM Lestra could enhance Johor’s electricity supply and reduce inter-state dependence.\n\n- Investments & Deals\n- 1 min Read\n\n# Malaysia approves 27 data center projects worth US$55.4 billion\n\nMalaysia has approved 27 data center projects with an estimated investment of US$55.4 billion as of July 2026, the Digital Ministry informed Parliament. Most of these projects are still under construction, with one already operational.\n\n- Published On Oct 15, 2026 at 05:20 PM IST\n\n## Highlights\n\n- Malaysia approved 27 data center projects with US$55.4 billion investment by July 2026.\n- Sixteen of the approved data centers are located in Johor, 10 in Selangor, and one in Negeri Sembilan.\n- Projects are expected to create 4,053 jobs, with 90 per cent of high-skilled roles for Malaysians.\n- New projects require 30 per cent local content, monitored by Malaysian Investment Development Authority.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/malaysia-approves-27-data-center-projects-worth-us55-4-billion/134967164"
-    },
-    {
-      "id": "2026-10-16-8ddc09",
-      "title": "CapitaLand India Trust unveils US$203.2 million Chennai data centre",
-      "summary": "The 53 MW facility is due for completion by end-2026",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 2,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [],
-      "published_at": "2026-10-15T11:07:02Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Business Times",
-          "url": "https://www.businesstimes.com.sg/international/capitaland-india-trust-unveils-us203-2-million-chennai-data-centre",
-          "type": "rss"
-        },
-        {
-          "name": "The Business Times — Data Centres topic",
-          "url": "https://www.businesstimes.com.sg/international/capitaland-india-trust-unveils-us203-2-million-chennai-data-centre",
-          "type": "html-list"
-        }
-      ],
-      "content": "The 53 MW facility is due for completion by end-2026\n\n\\[SINGAPORE\\] has launched a new data centre in Chennai entailing an investment of about 19.4 billion rupees (US$203.2 million), even as its sponsor and manager expands its digital infrastructure footprint in India.\n\nCapitaLand Data Centre Chennai 01, Clint’s first data-centre development in the state of Tamil Nadu, will have a gross power capacity of 53 megawatts (MW) when completed by the end of 2026.\n\nThe project was launched on Thursday (Oct 15) by Singapore Deputy Prime Minister and Minister for Energy, Trade and Industry (Trade) Gan Kim Yong and the chief minister of Tamil Nadu, C Joseph Vijay.\n\nLocated in Ambattur, an established data-centre corridor in Chennai, the development is jointly held by Clint and CapitaLand India Data Centre Fund.\n\nThe facility will have 34 MW of power capacity for information technology equipment across 13 data halls. It is designed to support high-density computing systems, including those using liquid cooling, and offer customers a choice of network providers.\n\nThe CEO of Clint’s manager, Gauri Shankar Nagabhushanam, said: “The development reflects our conviction in the long-term growth of India’s data-centre sector, and is designed to meet the evolving requirements of hyperscale and enterprise customers.”\n\nThe Chennai project follows Clint’s data-centre development in Navi Mumbai, which has been fully leased to a leading global hyperscaler.\n\nCLI said it intends to continue expanding its data centre, logistics and industrial portfolio in Tamil Nadu through its listed and private fund platforms.\n\nThe group has operated in the state for 22 years and has invested more than 60 billion rupees in seven operational assets.\n\nIts Tamil Nadu portfolio encompasses business parks, industrial and logistics facilities, lodging and digital infrastructure. CLI first entered the state through International Tech Park Chennai in 2004.\n\nCLI India chief executive Quaiser Parvez said the group is positioned to support Tamil Nadu’s growth as a technology, manufacturing and digital economy hub through its investment, development and fund-management capabilities.\n\nIndia is a core market for CLI. Its funds under management in the country exceeded S$8 billion as at Jun 30.\n\nIts India portfolio comprises nine business parks, 14 industrial and logistics properties, four data centres under development and three co-working spaces.\n\nIts lodging arm, , manages about 6,300 units in 24 operating and pipeline hotels and serviced residences in India.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.",
-      "content_url": "https://www.businesstimes.com.sg/international/capitaland-india-trust-unveils-us203-2-million-chennai-data-centre"
-    },
-    {
-      "id": "2026-10-16-6e97f5",
-      "title": "CapitaLand Investment unveils 53 MW Chennai data centre",
-      "summary": "CapitaLand Investment (CLI) reaffirmed its commitment to expand its data centre portfolio in Tamil Nadu with the unveiling of CapitaLand Data Centre Chennai 01. This facility is the first data centre development in Tamil Nadu by CapitaLand India Trust (CLINT). It will deliver 53 MW of gross power capacity upon completion by the end of 2026.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-15T09:50:24Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/capitaland-investment-unveils-53-mw-chennai-data-centre/134963804",
-          "type": "rss"
-        }
-      ],
-      "content": "NEW DELHI: CapitaLand Investment (CLI) has reaffirmed its long-term commitment to expand its data centre, logistics, and industrial portfolio in Tamil Nadu.The company unveiled CapitaLand Data Centre Chennai 01, the first data centre development in Tamil Nadu by CLI’s listed fund platform, CapitaLand India Trust (CLINT). The new facility, located in Ambattur, Chennai, is expected to deliver 53 MW of gross power capacity upon completion by the end of 2026.The data centre was unveiled on 15 October 2026 by Singapore's Deputy Prime Minister Gan Kim Yong and Tamil Nadu's Chief Minister C. Joseph Vijay. This marks another milestone in CLINT’s growing data centre portfolio in India.CLINT completed its first data centre development in Navi Mumbai in 2025, a 108 MW facility. This Navi Mumbai facility has been fully leased to a global hyperscaler.CapitaLand Data Centre Chennai 01 is jointly held by CLINT and CapitaLand India Data Centre Fund. It will feature 34 MW of IT power capacity across 13 data halls, supported by a dedicated 110 kV substation.The development is designed to support high-density and liquid-cooled deployments. It aims for LEED Gold certification, incorporating high-efficiency chillers and intelligent energy management.CLI has invested over ₹6,000 crore across seven operational assets in Tamil Nadu over 22 years. Its India portfolio includes four data centres under development, with funds under management exceeding S$8 billion as of 30 June 2026.\n### Expansion in Tamil Nadu\n\n“By combining our deep local investment, development and operational capabilities with the strength of our listed and private fund platforms, CLI is well-positioned to support Tamil Nadu's growth as a technology, manufacturing and digital economy hub,” said Quaiser Parvez, CEO, India, CLI.Gauri Shankar Nagabhushanam, CEO, CLINT, stated, “The unveiling of CapitaLand Data Centre Chennai 01 marks another important milestone in CLINT’s diversification into digital infrastructure.” He added that the development reflects conviction in India’s data centre sector, with a planned investment of approximately ₹1,940 crore.\n\n- Investments & Deals\n- 2 min Read\n\n# CapitaLand Investment unveils 53 MW Chennai data centre\n\nCapitaLand Investment (CLI) reaffirmed its commitment to expand its data centre portfolio in Tamil Nadu with the unveiling of CapitaLand Data Centre Chennai 01. This facility is the first data centre development in Tamil Nadu by CapitaLand India Trust (CLINT). It will deliver 53 MW of gross power capacity upon completion by the end of 2026.\n\n- Updated On Oct 15, 2026 at 03:58 PM IST\n\n## Highlights\n\n- CapitaLand Investment unveiled its first Tamil Nadu data centre in Chennai.\n- The new facility will provide 53 MW gross power capacity by late 2026.\n- CapitaLand India Trust's Navi Mumbai 108 MW data centre is fully leased.\n- The Chennai data centre will have 34 MW IT power across 13 data halls.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/capitaland-investment-unveils-53-mw-chennai-data-centre/134963804"
-    },
-    {
-      "id": "2026-10-16-8a0e8a",
-      "title": "Brightray enters US with LOI for 10 MW AI data center in Indiana",
-      "summary": "Brightray Science Inc, a majority-owned subsidiary of BUUU Group Limited, has announced that its wholly owned subsidiary Brightray Veridian Pte. Ltd. has signed a letter of intent (LOI) with an unnamed US-based mission-critical infrastructure partner for a planned 10 MW AI data center project in Indiana, United States. This is, according to a press release, […]",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-15T09:26:05Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "W.Media",
-          "url": "https://w.media/brightray-enters-us-with-loi-for-10-mw-ai-data-center-in-indiana/",
-          "type": "rss"
-        }
-      ],
-      "content": "Brightray Science Inc, a majority-owned subsidiary of BUUU Group Limited, has announced that its wholly owned subsidiary Brightray Veridian Pte. Ltd. has signed a letter of intent (LOI) with an unnamed US-based mission-critical infrastructure partner for a planned 10 MW AI data center project in Indiana, United States.\n\nThis is, according to a press release, Brightray’s first project LOI signed in the US and an important step toward expanding into the world’s largest data center market. Under the LOI, Brightray will deploy a prefabricated data center solution. The implementation is subject to final agreement on technical specifications, commercial terms, the project schedule, and definitive contract documentation.\n\n“Entering the US market is an important step in Brightray’s international development. The US has enormous data center demand, and customers face real pressure to turn their AI investments into usable computing power as quickly as possible. Our entry point is delivery: with Brightray prefabricated data center solution, we move more of the work into the factory and run manufacturing in parallel with on-site works, with the aim of shortening the delivery period for this project to within one year,” said Bin Wang, Brightray founder.\n\nBy taking this approach, Brightray says it can deliver the 10 MW AI data center within a year. That timeline covers the entire schedule, including design finalization, permitting, international shipping, on-site foundation and ancillary works, installation, and commissioning.\n\n“We look forward to working further with our partner on the technical solution and implementation arrangements and to building delivery experience in the US market through this 10MW project. Addressing the power, cooling and space requirements of next-generation AI equipment, we aim to bring the efficiency advantages of our prefabricated data center solution to the project and lay the foundation for the further expansion of our US business,” said Wang.\n\nIf this agreement is finalized and the project delivered, it could serve as a blueprint for Brightray’s expansion into the US market.\n\nGrid capacity constraints, community opposition, and infrastructure bottlenecks can significantly delay data center buildouts in the US market, a problem Brightray looks to want to solve. Despite the constraints, US data center investments have nearly doubled since 2024, according to Arizton Advisory & Intelligence, and demand for AI will only push that growth higher with the US data center market expected to be worth US$ 494.49 billion by 2031.",
-      "content_url": "https://w.media/brightray-enters-us-with-loi-for-10-mw-ai-data-center-in-indiana/"
-    },
-    {
-      "id": "2026-10-16-6f3c61",
-      "title": "Uruguay signs US$5.7 billion deal for 500 MW data center park",
-      "summary": "Uruguay has signed a US$5.7 billion agreement with Spanish company Solaria Energía y Medio Ambiente to develop a 500 MW data center technology park. The project will be partly powered by its own solar generation and is described as the largest investment in the country's history.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-15T07:50:33Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/uruguay-signs-us5-7-billion-deal-for-500-mw-data-center-park/134961445",
-          "type": "rss"
-        }
-      ],
-      "content": "Uruguay has signed a US$5.7 billion agreement with Spanish company Solaria Energía y Medio Ambiente (Solaria) to develop a 500 MW data center technology park, the government announced.President Yamandú Orsi signed the agreement on Wednesday, October 14. The project will operate under Uruguay’s free zone regime, allocating US$5.5 billion for data center infrastructure and US$200 million for solar energy facilities.The development will take place in two phases across Canelones, San José, and Florida. The first phase includes 200 MW of data center capacity and 350 MW of solar generation. The second phase will add another 300 MW of data center capacity, with potential for expanding solar production.Fernanda Cardona, Minister of Industry Energy and Mining (MIEM), Uruguay, described the agreement as a “historic investment.” She noted it transcends governments, ensuring deployment in future administrations. Cardona also credited inter-ministerial coordination and diplomatic representatives in Spain for securing the agreement.The project is expected to benefit information technology, data center operations and maintenance, solar power generation, and electricity grid services. It will support existing facilities like Antel’s data center in Pando and Google’s data center.Uruguay's electricity infrastructure, submarine cables, renewable energy capacity, and political stability are factors attracting investment. Solaria has operated in Uruguay for nearly a decade, supplying electricity to state-owned utility UTE from its solar plants in Young and Mercedes.\n\n- Investments & Deals\n- 1 min Read\n\n# Uruguay signs US$5.7 billion deal for 500 MW data center park\n\nUruguay has signed a US$5.7 billion agreement with Spanish company Solaria Energía y Medio Ambiente to develop a 500 MW data center technology park. The project will be partly powered by its own solar generation and is described as the largest investment in the country's history.\n\n- Published On Oct 15, 2026 at 01:20 PM IST\n\n## Highlights\n\n- Uruguay signed a US$5.7 billion deal with Solaria for a 500 MW data center park.\n- The project includes US$5.5 billion for data center infrastructure and US$200 million for solar.\n- Development will occur in two phases across Canelones, San José, and Florida.\n- The initiative aims to establish Uruguay as a digital hub in South America.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/uruguay-signs-us5-7-billion-deal-for-500-mw-data-center-park/134961445"
-    },
-    {
-      "id": "2026-10-16-174e22",
-      "title": "Submer India, BTCL to explore AI data center infrastructure",
-      "summary": "Submer India and BSNL Tower Corporation Limited (BTCL) signed an MoU to explore sovereign, AI-ready data center infrastructure across India. This collaboration will assess opportunities for GPU-as-a-Service and large-scale data centers up to 20 MW.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-15T07:40:42Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/submer-india-btcl-to-explore-ai-data-center-infrastructure/134961274",
-          "type": "rss"
-        }
-      ],
-      "content": "Submer India Private Limited, part of the Submer Group, has signed a Memorandum of Understanding (MoU) with BSNL Tower Corporation Limited (BTCL). BTCL is a wholly owned subsidiary of Bharat Sanchar Nigam Limited (BSNL), India’s public sector telecommunications provider.The MoU explores developing sovereign, AI-ready data center infrastructure across India, according to a press release. The collaboration will focus on infrastructure designed for the growing requirements of artificial intelligence (AI) and high-performance computing.\n### Key Areas of Assessment\n\nThe parties will jointly assess opportunities for GPU-as-a-Service, Sovereign AI cloud infrastructure, and edge and micro-edge data centers. They will also evaluate large-scale data center projects of up to 20 MW.BSNL premises and data center facilities will be assessed for transformation into distributed edge infrastructure. These assessments will consider technical and commercial feasibility, connectivity, scalability, and energy efficiency.The requirements of government, public sector undertaking (PSU), enterprise, research, and institutional workloads will also be evaluated. Shri Robert Jerard Ravi, Chairman and Managing Director of BSNL, stated that the MoU is an important step in evaluating how BSNL’s nationwide infrastructure can support sovereign AI capabilities.Anupam Shrivastava, Submer India Head, noted that India has the talent, demand, and digital reach to become a global AI infrastructure leader. He added that the next step is to build the physical capacity to turn that ambition into deployable compute.Submer will apply its expertise in integrated data center architecture, liquid cooling, thermal management, and high-density computing. Cooling, power, facilities, and IT infrastructure will be considered as one system from the outset.This approach will help the parties assess infrastructure designed for the density and efficiency requirements of modern AI. BTCL will coordinate access to relevant BSNL premises and data center facilities for feasibility studies.It will also support connectivity, regulatory alignment, and engagement with government and enterprise stakeholders. A key area of assessment will be a sovereign AI cloud model using BSNL’s network footprint and indigenous 4G and 5G core.This model is intended to support scalable, low-latency GPU-as-a-Service. The proposed model aims to give government bodies and enterprises access to AI computing capacity while aligning with national requirements.\n\n- AI & Compute Infrastructure\n- 2 min Read\n\n# Submer India, BTCL to explore AI data center infrastructure\n\nSubmer India and BSNL Tower Corporation Limited (BTCL) signed an MoU to explore sovereign, AI-ready data center infrastructure across India. This collaboration will assess opportunities for GPU-as-a-Service and large-scale data centers up to 20 MW.\n\n- Published On Oct 15, 2026 at 01:10 PM IST\n\n## Highlights\n\n- Submer India and BTCL signed an MoU for AI-ready data center infrastructure.\n- Collaboration to assess GPU-as-a-Service and sovereign AI cloud opportunities.\n- Plans include edge and large-scale data centers up to 20 MW across India.\n- BSNL's network and Submer's liquid cooling expertise will be leveraged.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/submer-india-btcl-to-explore-ai-data-center-infrastructure/134961274"
-    },
-    {
-      "id": "2026-10-16-4c53fa",
-      "title": "Hillhouse-backed TeraNova DC appoints Sanjay Bhutani as CEO; plans up to $12 bn investment in India",
-      "summary": "Bhutani brings nearly 30 years of experience across IT, telecom and digital infrastructure. He has led data centre strategies for multinational organisations, contributed to the development of some of Asia’s largest data centres and internet exchanges, and played a leading role in the formation and growth of AdaniConneX, the joint venture between Adani Enterprises and EdgeConneX.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-15T07:15:32Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/hillhouse-backed-teranova-dc-appoints-sanjay-bhutani-as-ceo-plans-up-to-12-bn-investment-in-india/134960614",
-          "type": "rss"
-        }
-      ],
-      "content": "NEW DELHI: Hillhouse Investment-backed data center platform, TeraNova DC, on Thursday said it has appointed Sanjay Bhutani as its chief executive officer (CEO).Bhutani brings nearly 30 years of experience across IT, telecom and digital infrastructure. He has led data centre strategies for multinational organisations, contributed to the development of some of Asia’s largest data centres and internet exchanges, and played a leading role in the formation and growth of AdaniConneX, the joint venture between Adani Enterprises and EdgeConneX.TeraNova DC is focused on developing and operating hyperscale, AI-ready and sustainable data centre campuses. The platform plans to invest approximately $12–15 billion and develop over 2 GW of capacity across key Indian markets, including Maharashtra, Telangana, Andhra Pradesh, Delhi NCR and Gujarat, by 2032.Bhutani said, “India’s digitisation vision is entering a defining phase. As hyperscalers, enterprises and a new generation of AI start-ups scale their ambitions, the country will require gigawatt-scale data centre campuses that provide compute-ready infrastructure and deployment certainty.”TeraNova DC said its development strategy will centre on strategically located land banks, power-ready sites and scalable campus infrastructure.The company plans to build gigawatt-scale campuses designed for hyperscale cloud, enterprise and high-density AI workloads, with the flexibility to expand as customer requirements evolve.The company has Design for Manufacture and Assembly (DFMA), modular construction and prefabricated power and cooling systems to improve quality, consistency and deployment timelines.\n\n- AI & Compute Infrastructure\n- 1 min Read\n\n# Hillhouse-backed TeraNova DC appoints Sanjay Bhutani as CEO; plans up to $12 bn investment in India\n\nBhutani brings nearly 30 years of experience across IT, telecom and digital infrastructure. He has led data centre strategies for multinational organisations, contributed to the development of some of Asia’s largest data centres and internet exchanges, and played a leading role in the formation and growth of AdaniConneX, the joint venture between Adani Enterprises and EdgeConneX.\n\n- Published On Oct 15, 2026 at 12:45 PM IST\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/hillhouse-backed-teranova-dc-appoints-sanjay-bhutani-as-ceo-plans-up-to-12-bn-investment-in-india/134960614"
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/malaysia-approves-27-data-center-projects-worth-us55-4-billion/134967164",
+      "title_zh": "马来西亚批准27个数据中心项目，总投资达554亿美元",
+      "summary_zh": "马来西亚数字部向国会通报，截至2026年7月，该国已批准27个数据中心项目，预计投资额达554亿美元。其中大部分项目仍在建设中，已有一个投入运营。",
+      "why_zh": "该披露为投资者和政策制定者提供了迄今为止最清晰的马来西亚数据中心项目储备官方图景，同时也凸显出已宣布的资本中有多大比例尚未落地。随着这些项目在未来几年从获批走向交付，电网规划者、建筑企业和当地社区都将感受到其影响。"
     },
     {
       "id": "2026-10-16-fc7da7",
       "title": "DayOne lifts Malaysia financing to USD $7.2 billion",
       "summary": "The enlarged package will fund Johor data centre expansion as billed capacity passes 1GW and bookings climb to 2.3GW.",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "The upsized financing signals that lenders remain willing to back large-scale data centre buildouts in Johor despite growing market caution, and it strengthens DayOne's position as one of Southeast Asia's largest capacity providers. Developers, contractors, and power utilities in Malaysia stand to benefit, while competitors will face pressure to match its pace of delivery.",
+      "score": 88,
       "heat": 1,
       "regions": [
-        "global"
+        "southeast-asia"
       ],
-      "topics": [],
+      "topics": [
+        "investment",
+        "capacity",
+        "hyperscale",
+        "financing"
+      ],
       "published_at": "2026-10-15T07:00:00Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "DataCenterNews Asia",
@@ -850,21 +406,29 @@
         "DayOne"
       ],
       "content": "Thu, 15th Oct 2026 (Yesterday)\nDayOne has increased its Malaysia financing to about USD $7.2 billion and said its billings have passed 1GW. The funding will support its data centre platform in Johor.\n\nThe Singapore-headquartered group said the enlarged senior secured multi-currency syndicated term financing was arranged by a seven-lender consortium. It follows roughly USD $3.5 billion of syndicated financing secured in May 2025 for the same Johor platform.\n\nAlongside the financing update, DayOne said bookings reached about 2.3GW, up from 1.25GW at the end of 2025. It also reported 1.1GW of reservations from customers under legally binding contracts.\n\nDayOne defines billings as income-generating IT power capacity under long-term customer contracts that remain in effect. On that basis, billed capacity has risen more than eightfold in less than two years, from 121MW at the end of 2024 to more than 1GW.\n\n### Johor expansion\n\nThe financing marks another major commitment to Johor, which has become one of Southeast Asia's main locations for data centre development. Operators have been drawn to the Malaysian state by available land, proximity to Singapore, and rising demand from cloud and artificial intelligence workloads.\n\nDayOne said it has raised more than USD $6 billion in equity since 2024 through several funding rounds. It also has project financing support from more than 30 local and international banking partners.\n\nThe company operates across 10 markets in Asia Pacific and Europe, including Singapore, several locations in Malaysia, Indonesia, Thailand, Japan, Hong Kong, Finland, and Spain.\n\nIts total resources, which include in-service capacity, capacity under construction, and secured powered land, stood at 4.6GW, compared with 2GW at the end of 2025.\n\n### Customer base\n\nGrowth in bookings has also come with a broader customer roster. Bookings came from 15 customers, compared with nine at the end of 2024.\n\nFour of its five largest customers are present with the company in more than one market. It also said three hyperscale customers each have multi-market deployments of around or above 200MW.\n\nDayOne recently secured additional orders from an existing US hyperscale customer. It did not name the customer or disclose the value of the latest order.\n\nData centre operators and investors have been racing to secure power, land, and financing as demand rises for facilities built to support AI training and cloud services. In that environment, contracted power capacity has become a closely watched indicator because it reflects both customer demand and an operator's ability to bring new sites into service.\n\nJohor has benefited from that trend as developers expand beyond Singapore, where land and power constraints have shaped growth. For operators with campuses on both sides of the border, the area offers a way to serve regional demand while staying close to Singapore's connectivity and customer base.\n\nJamie Khoo, Chief Executive Officer of DayOne, said: \"The confidence our banking partners and customers have placed in DayOne is reflected in these milestones and underpins our continued growth. Together, their support has enabled us to unlock strategic capacity for the next generation of AI and cloud infrastructure. Our focus remains on earning that trust through responsible execution and bringing capacity online at speed and scale in the markets our customers need.\"\n\nKhoo also set out the company's view on its expansion into new regions.\n\n\"By pioneering and scaling new markets, this conviction has shaped DayOne since inception, and it continues to guide how we grow,\" Khoo said. \"From Singapore, where DayOne was founded, we are driving the delivery of high-specification facilities across Asia Pacific and Europe.\"",
-      "content_url": "https://datacenternews.asia/story/dayone-lifts-malaysia-financing-to-usd-7-2-billion"
+      "content_url": "https://datacenternews.asia/story/dayone-lifts-malaysia-financing-to-usd-7-2-billion",
+      "title_zh": "DayOne将马来西亚融资规模提升至72亿美元",
+      "summary_zh": "扩大的融资方案将为柔佛数据中心扩建提供资金，其签约容量已突破1GW，预订量攀升至2.3GW。",
+      "why_zh": "规模扩大的融资表明，尽管市场谨慎情绪升温，贷款机构仍愿意支持柔佛的大规模数据中心建设，并巩固了DayOne作为东南亚最大容量提供商之一的地位。马来西亚的开发商、承包商和电力公用事业公司将从中受益，而竞争对手将面临匹配其交付速度的压力。"
     },
     {
       "id": "2026-10-16-246f5f",
       "title": "Data centre investors must bear necessary grid upgrade costs, says Johari Ghani",
       "summary": "Malaysia wants data centre investors to bear the cost of transmission upgrades required by their projects rather than pass the investment to the local players.",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "If enforced, the policy would raise the cost of entry for data centre developers in Malaysia and could redirect some investment toward markets with more accommodating grid arrangements. Local ratepayers and utilities would be shielded from subsidizing hyperscale growth, but developers may need to reprice projects already in the pipeline.",
+      "score": 80,
       "heat": 1,
       "regions": [
         "southeast-asia"
       ],
-      "topics": [],
+      "topics": [
+        "power",
+        "regulation",
+        "grid",
+        "policy"
+      ],
       "published_at": "2026-10-15T06:40:50Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "The Edge Malaysia — data centre search",
@@ -873,7 +437,10 @@
         }
       ],
       "content": "KUALA LUMPUR (Oct 15): Malaysia wants data centre investors to bear the cost of transmission upgrades required by their projects rather than pass the investment to the local players.\n\nThe infrastructure costs should form part of investors’ project expenditure, with Tenaga Nasional Bhd (KL:TENAGA) advising on the upgrades needed, Minister of Investment, Trade and Industry Datuk Seri Johari Abdul Ghani told the Dewan Rakyat during question time on Thursday.\n\n“This is our strategy to ensure that economic activities that existed before the arrival of data centres are not adversely affected,” he said.\n\nJohari was responding to Ampang MP Rodziah Ismail (PH-PKR), who asked how the government measures data centres’ net economic contribution after accounting for their use of electricity, water, land and infrastructure, as well as incentives and the opportunity cost of national resources.\n\nA wave of energy-intensive data centres has been surging across Malaysia amid a global boom in artificial intelligence. Tenaga Nasional, the country’s national electric utility firm, is now supplying power to 36 data centres with dozens more in the pipeline.\n\nJohari also said data centre operators would be charged for electricity capacity committed to them even if they did not fully use it, to prevent capacity being tied up without compensation. He cited an operator securing 200 megawatts but using only half of the capacity once its facility was ready.\n\n“The other 100MW that you do not use, we assume you have used it,” he said. “We charge you. That is our policy now.” Tenaga Nasional could not freely reallocate the unused capacity because it remained committed to meeting the operator’s future requirements, Johari explained.\n\nAll electricity requirements for data centres should also be treated separately from those of households and other industries, without subsidies, and where generation relies on gas, its market price should be reflected in the cost of supplying the data centre, Johari said.\n\nThe aim is to protect the reserve capacity needed for other economic activities, he noted.\n\nFurther, the government now wants data centre investments to generate more opportunities for Malaysian suppliers, engineers, technicians and universities.\n\nA task force on data centres had agreed on a minimum 30% local content level, with greater domestic participation in construction, engineering services, cooling systems and electrical equipment.\n\nJohari also called for Malaysian companies and universities to have access to data centres’ computing capacity for research and development, rather than allowing their benefits to accrue primarily to overseas customers.\n\n“We want our people to be able to access the technology,” he said, adding that collaboration with universities could help Malaysia develop its own capabilities over time.\n\n*For more Parliament stories, click here.*\n\nEdited ByJason Ng\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/821960"
+      "content_url": "https://theedgemalaysia.com/node/821960",
+      "title_zh": "Johari Ghani：数据中心投资者必须承担必要的电网升级成本",
+      "summary_zh": "马来西亚希望数据中心投资者自行承担其项目所需的输电升级成本，而不是将这笔投资转嫁给本地企业。",
+      "why_zh": "如果该政策得以执行，将提高数据中心开发商进入马来西亚市场的成本，并可能将部分投资引向电网安排更为宽松的市场。当地纳税人和公用事业公司将免于为hyperscale增长提供补贴，但开发商可能需要对已在管线中的项目重新定价。"
     }
   ]
 }
