@@ -3,52 +3,19 @@
   "generated_at": "2026-10-19T06:19:05Z",
   "hot": [
     "2026-10-19-67c2a7",
-    "2026-10-19-8b7720",
+    "2026-10-19-1012f3",
     "2026-10-19-9b9391",
-    "2026-10-19-2ce60e",
-    "2026-10-19-1012f3"
+    "2026-10-19-8b7720",
+    "2026-10-19-2ce60e"
   ],
   "stories": [
-    {
-      "id": "2026-10-19-8b7720",
-      "title": "NextDC warns of data centre delay amid power supply crunch",
-      "summary": "Power supplies to NextDC’s controversial M3 data centre expansion in Melbourne had been delayed, the developer said on Monday, as trading in its shares was halted pending an update on the potential…",
-      "why_it_matters": "A power supply delay at a flagship NextDC facility signals that grid constraints are now directly hitting project timelines for Australia's largest independent data centre operator. Investors face earnings uncertainty, hyperscale and colocation customers planning capacity in Melbourne may need to reassess delivery dates, and utilities and regulators come under renewed pressure to accelerate power infrastructure for the sector.",
-      "score": 78,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "power",
-        "capacity",
-        "investment"
-      ],
-      "published_at": "2026-10-19T00:03:24Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/companies/infrastructure/nextdc-warns-of-melbourne-data-centre-delay-amid-power-supply-crunch-20261019-p616mr",
-          "type": "html-list"
-        }
-      ],
-      "content": "Power supplies to NextDC’s controversial M3 data centre expansion in Melbourne had been delayed, the developer said on Monday, as trading in its shares was halted pending an update on the potential hit to its balance sheet.\n\nThe company’s M3 data centre in West Footscray, used to process artificial intelligence services, is located just 15 metres away from some homes and has drawn complaints from local residents about noise levels, emissions and new electricity infrastructure.\n\nLoading...",
-      "content_url": "https://www.afr.com/companies/infrastructure/nextdc-warns-of-melbourne-data-centre-delay-amid-power-supply-crunch-20261019-p616mr",
-      "companies": [
-        "NEXTDC"
-      ],
-      "title_zh": "电力供应紧张，NextDC 警告数据中心建设将延期",
-      "summary_zh": "开发商NextDC周一表示，其位于墨尔本、备受争议的M3数据中心扩建项目的供电已被推迟。与此同时，该公司股票已停牌，等待其就潜在影响发布更新……",
-      "why_zh": "NextDC旗下一座旗舰设施的供电延迟表明，电网约束如今已直接影响澳大利亚最大独立数据中心运营商的项目工期。投资者面临盈利不确定性，正在墨尔本规划容量的hyperscale和colocation客户可能需要重新评估交付日期，公用事业公司和监管机构也将面临更大压力，需加快为该行业建设电力基础设施。"
-    },
     {
       "id": "2026-10-19-1012f3",
       "title": "Aussie founder’s $50b float at risk as Microsoft axes data centre deal",
       "summary": "Microsoft has pulled out of a major data centre deal in a blow to Australian entrepreneur Joshua Payne’s plans for a multibillion-dollar listing with his UK data centre developer Nscale.",
       "why_it_matters": "",
       "score": 55,
-      "heat": 1,
+      "heat": 2,
       "regions": [
         "australia"
       ],
@@ -64,11 +31,17 @@
           "name": "AFR — Data Centres topic",
           "url": "https://www.afr.com/technology/microsoft-axes-major-nscale-deal-in-blow-to-australian-ai-entrepreneur-20261019-p616jh",
           "type": "html-list"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/microsoft-abandons-uk-ai-supercomputer-project-over-grid-delays/135060480",
+          "type": "rss"
         }
       ],
       "companies": [
         "Microsoft",
-        "Nscale"
+        "Nscale",
+        "Firmus"
       ],
       "published_precision": "day",
       "content": "Microsoft has pulled out of a major data centre deal in a blow to Australian entrepreneur Joshua Payne’s plans for a multibillion-dollar listing with his UK data centre developer Nscale.\n\nThe US tech giant, one of Nscale’s two largest customers, recently informed the company that it was pulling the plug on its agreement, which was announced last year.\n\nLoading...\n\nThe Telegraph London",
@@ -176,6 +149,41 @@
       ],
       "title_zh": "GreenSquare SYD1 完成 1995 年数据中心适应性改造，一期正式启用",
       "summary_zh": "澳大利亚数据中心运营商GreenSquare今日宣布，其位于西悉尼Norwest Business Park的SYD1数据中心园区一期已投入运营。该园区由一座1995年启用的数据中心经适应性改造而成。这座AI就绪的数据中心仅用八个月便完成建设并具备服务能力，由澳大利亚neocloud企业Sharon AI[……]"
+    },
+    {
+      "id": "2026-10-19-8b7720",
+      "title": "NextDC warns of data centre delay amid power supply crunch",
+      "summary": "Power supplies to NextDC’s controversial M3 data centre expansion in Melbourne had been delayed, the developer said on Monday, as trading in its shares was halted pending an update on the potential…",
+      "why_it_matters": "A power supply delay at a flagship NextDC facility signals that grid constraints are now directly hitting project timelines for Australia's largest independent data centre operator. Investors face earnings uncertainty, hyperscale and colocation customers planning capacity in Melbourne may need to reassess delivery dates, and utilities and regulators come under renewed pressure to accelerate power infrastructure for the sector.",
+      "score": 78,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "power",
+        "capacity",
+        "investment"
+      ],
+      "published_at": "2026-10-19T00:03:24Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/infrastructure/nextdc-warns-of-melbourne-data-centre-delay-amid-power-supply-crunch-20261019-p616mr",
+          "type": "html-list"
+        }
+      ],
+      "content": "Power supplies to NextDC’s controversial M3 data centre expansion in Melbourne had been delayed, the developer said on Monday, as trading in its shares was halted pending an update on the potential hit to its balance sheet.\n\nThe company’s M3 data centre in West Footscray, used to process artificial intelligence services, is located just 15 metres away from some homes and has drawn complaints from local residents about noise levels, emissions and new electricity infrastructure.\n\nLoading...",
+      "content_url": "https://www.afr.com/companies/infrastructure/nextdc-warns-of-melbourne-data-centre-delay-amid-power-supply-crunch-20261019-p616mr",
+      "companies": [
+        "NEXTDC",
+        "NextDC"
+      ],
+      "title_zh": "电力供应紧张，NextDC 警告数据中心建设将延期",
+      "summary_zh": "开发商NextDC周一表示，其位于墨尔本、备受争议的M3数据中心扩建项目的供电已被推迟。与此同时，该公司股票已停牌，等待其就潜在影响发布更新……",
+      "why_zh": "NextDC旗下一座旗舰设施的供电延迟表明，电网约束如今已直接影响澳大利亚最大独立数据中心运营商的项目工期。投资者面临盈利不确定性，正在墨尔本规划容量的hyperscale和colocation客户可能需要重新评估交付日期，公用事业公司和监管机构也将面临更大压力，需加快为该行业建设电力基础设施。",
+      "published_precision": "day"
     }
   ]
 }

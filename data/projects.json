@@ -72455,8 +72455,8 @@
       "city": "Pohang",
       "capacity_mw": 300,
       "status": "operational",
-      "developer": null,
-      "investor": null,
+      "developer": "SC Capital Partners",
+      "investor": "SC Capital Partners; government-backed capital",
       "investment": null,
       "phases": null,
       "anchor_tenants": [],
@@ -72465,10 +72465,12 @@
       "construction_start": null,
       "rfs": "2027",
       "status_history": [],
-      "story_ids": [],
+      "story_ids": [
+        "2026-10-20-f0ba44"
+      ],
       "first_seen": "2026-08-17",
-      "last_updated": null,
-      "seed": true,
+      "last_updated": "2026-10-20",
+      "seed": false,
       "source": "datacentermap",
       "capacity_note": "built-out capacity per DataCenterMap",
       "lat": 35.94168,
@@ -103352,5 +103354,5 @@
       "seed": false
     }
   ],
-  "updated_at": "2026-10-18T06:43:03Z"
+  "updated_at": "2026-10-20T06:19:20Z"
 }

@@ -1,0 +1,1110 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T06:08:09Z",
+  "hot": [
+    "2026-10-20-d8e666",
+    "2026-10-20-e33950",
+    "2026-10-20-9547ae",
+    "2026-10-20-105f69",
+    "2026-10-20-f0ba44"
+  ],
+  "stories": [
+    {
+      "id": "2026-10-20-cda0a9",
+      "title": "Data centre giants sound alarm as building backlash, headwinds grow",
+      "summary": "Microsoft and NextDC have warned the NSW government in closed-door meetings that they could abandon the country’s most populous state and back data centre developments in Victoria or South-East Asia…",
+      "why_it_matters": "",
+      "score": 68,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "regulation",
+        "capacity",
+        "community",
+        "power"
+      ],
+      "published_at": "2026-10-20T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/infrastructure/data-centre-giants-sound-alarm-as-building-backlash-headwinds-grow-20261020-p616od",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "建设反对声浪与逆风加剧，数据中心巨头发出警告",
+      "published_precision": "day",
+      "content": "Microsoft and NextDC have warned the NSW government in closed-door meetings that they could abandon the country’s most populous state and back data centre developments in Victoria or South-East Asia, saying that locking in power supply and the speed of construction were crucial.\n\nThose comments, contained in briefing documents prepared for officials after confidential industry discussions earlier this year, come amid growing pushback against data centres, the development of which has become one of the biggest drivers of the economy over the past year.\n\nLoading...",
+      "content_url": "https://www.afr.com/companies/infrastructure/data-centre-giants-sound-alarm-as-building-backlash-headwinds-grow-20261020-p616od"
+    },
+    {
+      "id": "2026-10-20-560757",
+      "title": "THMY scales up for next generation of AI testing",
+      "summary": "THMY Holdings Bhd (KL:THMY), which made its ACE Market debut on Oct 23 last year at an initial public offering (IPO) price of 31 sen, has seen its shares surge nearly 7.5-fold in slightly less than a year to RM2.32 last Wednesday (Oct 7), giving the automated test solutions provider a market valu...",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "testing"
+      ],
+      "published_at": "2026-10-20T06:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/821609",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "THMY Holdings"
+      ],
+      "title_zh": "THMY扩产布局下一代AI芯片测试",
+      "content": "This article first appeared in The Edge Malaysia Weekly on October 12, 2026 - October 18, 2026\n\nTHMY Holdings Bhd (KL:THMY), which made its ACE Market debut on Oct 23 last year at an initial public offering (IPO) price of 31 sen, has seen its shares surge nearly 7.5-fold in slightly less than a year to RM2.32 last Wednesday (Oct 7), giving the automated test solutions provider a market value of RM2.06 billion.\n\nAt that price, THMY trades at a trailing price-earnings ratio (PER) of about 123 times. Based on analyst forecasts, the stock is valued at 81 times the company’s earnings for the financial year ended March 31, 2027 (FY2027) and 59 times FY2028 earnings.\n\nSo, what is enabling the company to command such a lofty valuation?\n\nThe answer, according to CEO Ooi Can Nix, lies in THMY’s growing involvement in the development of increasingly complex products for the artificial intelligence (AI) and data centre industries. This includes working directly with a major US-based hyperscaler that designs its own specialised silicon chips.\n\n“We are in their frontier products. Even \\[for products that have not been launched\\], we already work very closely with their design team,” Ooi tells The Edge.\n\nFounded in 2008, THMY provides automated test solutions for electrical and electronic products, including in-circuit and functional circuit testing, as well as turnkey solutions covering design, fabrication, software development and assembly.\n\nBut its role is increasingly extending beyond simply supplying test equipment after a product has been developed. THMY is being brought into the development process earlier, working with customers to determine how their next-generation products should be tested and validating the engineering concepts before they enter commercial production.\n\n“Before they come to the real product, we need to prove our design concept validation,” says Ooi. “We \\[must\\] have the solution, the engineering capabilities, the data to deploy into the complete test equipment system.”\n\nThis is becoming increasingly important as AI chips grow more powerful and generate significantly more heat. THMY can simulate a chip’s size, power requirements and heat generation, and work on solutions such as cold plates to manage the thermal load before the actual product reaches production.\n\nTHMY now has about 200 employees, including a sizeable pool of engineers, giving the company the technical capabilities to work alongside customers on increasingly sophisticated products.\n\nFor instance, THMY has developed modular systems that allow wear-and-tear components to be replaced more quickly, reducing downtime for customers. The need is becoming more pronounced as higher-power products put greater stress on testing equipment and accelerate component wear.\n\nIt is also benefiting from geopolitical shifts, particularly the China-plus-one strategy. Ooi says restrictions surrounding the development and deployment of certain data centre and AI products make Southeast Asia increasingly relevant as an alternative manufacturing and testing base.\n\n“In Southeast Asia, not many companies are in this field. Compared to Western firms, we are better in terms of cost, in terms of efficiency. So that’s why we are in a pretty good position right now to grow,” he says.\n\nAs AI chips become more powerful, the infrastructure needed to test them is evolving just as quickly.\n\nOoi says earlier-generation products consumed less than 300W and could be tested using conventional air cooling. About two years ago, power requirements had risen to around 500W, making liquid cooling necessary. THMY is now working with products requiring about 1,500W, while the next generation could reach as much as 2,500W.\n\nThe jump in power density means THMY needs to invest not only in more sophisticated testing systems, but also in the power, cooling and other infrastructure needed to support them.\n\nThat rising infrastructure requirement is one reason THMY has substantially increased the scale of its second factory.\n\nInitially planned at 88,000 sq ft, the facility has been expanded to about 300,800 sq ft, comprising 222,000 sq ft of factory space, 44,000 sq ft of office space and 34,000 sq ft of utilities.\n\nThe facility is designed to accommodate an initial 20 advanced automated test solution assembly lines, primarily for data centre and cloud computing AI products. Construction began in July and is targeted for completion by the second quarter of 2028.\n\nThe upsized project carries an estimated cost of about RM172.6 million, nearly six times the roughly RM30 million factory expansion outlined in THMY’s IPO prospectus.\n\nMore importantly, the facility is being designed with future product generations in mind, rather than simply to meet current demand.\n\n“When we plan for the facility, we embed the upcoming requirements and long-term growth plans … as such, the floor space and infrastructure for high-capacity power supply,” says Ooi.\n\nHe expects the upgraded infrastructure to support at least the next five-year technology cycle.\n\nThe investment comes as THMY’s existing operations are already running at full capacity, despite the addition of mezzanine space and machinery.\n\nRather than turn away orders, however, the company is looking to stretch its capacity through automation, outsourcing, contract workers and Penang’s wider supply chain ecosystem.\n\n“We won’t turn away our customers. In Penang, we’ve got a very strong ecosystem. We can utilise our networks, the supply chain system here, to help scale up \\[business\\],” says Ooi.\n\nAutomation is also helping THMY reduce its reliance on manual processes, with machines increasingly taking over inspection and other tasks that were previously performed manually.\n\nTHMY’s strategy is not simply to maximise production volume. Instead, it wants to use its engineering capabilities to capture more complex and higher-value projects.\n\nIts technology, media and telecommunications segment — comprising data centre, AI-computing and telecommunications products — accounts for about 52% of group revenue, according to Ooi. Electrical and electronics and electronics manufacturing services contribute about 19% and 17% respectively.\n\nOoi says the group deliberately prioritises complex products because lower-value orders can consume substantial production capacity. “If we continue to focus on industrial products, consumer products, yes, the order is big, but the value is low,” he remarks. “That’s why we need to align \\[business\\] with our engineering competency and drive advancements on our capability. Then we can capture high-value products.”\n\nThat does not mean THMY is walking away from its legacy customers. Instead, it is increasingly outsourcing less complex processes and modularising assembly, allowing the group to preserve those relationships while freeing up internal capacity for more sophisticated work.\n\n“For legacy products, we won’t turn down the customer. So, what we are doing is like in parallel, we outsource,” says Ooi. “For non-complex product assembly, we make it more modular and speed up the process.”\n\nThe strategy appears to be translating into higher margins. THMY’s net profit margin has risen steadily over the past five financial years, from 5.13% in FY2022 to 10.57% in FY2023, before rising to about 21% from FY2024 to FY2026.\n\nThe momentum has continued into FY2027. In 1QFY2027, revenue rose 42.5% year on year to a record RM20.2 million, while net profit more than doubled to a record RM6.2 million. Net profit margin widened further to a new high of 30.7%.\n\nOoi believes the shift towards higher-value projects should provide further room for margin expansion. “We look forward to the high-value projects and also selling our engineering competencies.”\n\nWhile data centres and AI are the immediate growth drivers, THMY is already looking at the next technology wave.\n\nOoi identifies physical AI, particularly humanoid robots, as a potential new business segment.\n\nTHMY is already working with customers on new product introduction and conducting some testing on humanoid-robot components. Volumes are currently small, but Ooi sees potential for significant demand if humanoid robots move into commercial production.\n\n“This is another area we are looking forward \\[to\\], how to expand our business sectors,” he says.\n\nThe group has historically positioned itself around successive technology cycles, having gained experience in consumer, industrial, networking and cloud computing products before the current AI boom. “We always keep ourselves in pace with the technology,” Ooi says.\n\nThe bigger factory will require funding beyond THMY’s remaining IPO proceeds.\n\nAs at June 30, 2026, the group had RM54.7 million in cash and bank balances, including other investments, with gearing at 0.35 times. It had RM28.78 million of IPO proceeds yet to be utilised, including RM22.9 million earmarked for the new factory.\n\nOoi says the remaining proceeds will not be sufficient for the projected capital expenditure. The company is working with several banks on financing facilities and is considering a combination of bank borrowings and equity funding.\n\nTHMY nevertheless remains mindful of maintaining a healthy balance sheet as it scales up, including the potential dilution from any equity fundraising.\n\n“We are always mindful of the balance sheet and cash flow and not to stretch ourselves too much. We want to have healthy growth,” Ooi says.\n\nOn its market debut last year, THMY’s share price surged nearly three times from its IPO price to close at 91 sen. It then climbed a further 155% to its Oct 7 close of RM2.32.\n\nOoi says the management is keeping its focus on building the company’s technology capabilities and strengthening its operations, rather than on the share price.\n\n“\\[We are thankful\\] to the capital market for believing in the company’s performance and the numbers we deliver,” he says. “For us, we are more looking forward to \\[growing\\] the technology-driven business.”\n\nAffin Hwang Investment Bank, the sole research house with coverage of the stock, has a “buy” recommendation and RM3 target price. It forecasts THMY’s net profit to rise 88% from RM13.5 million in FY2026 to RM25.4 million in FY2027, before increasing another 36% to RM34.5 million in FY2028.\n\nThe target price is based on a PER of 83 times FY2027 earnings and 77 times FY2028 earnings.\n\nFor investors, the key question is whether THMY can deliver earnings growth fast enough to justify a valuation that has already moved far ahead of its IPO price.\n\nAs for Ooi, the focus is on staying ahead of the technology curve and preparing for the next generation of products.\n\nOoi remains THMY’s largest shareholder with a 67.2% stake, while the Employees Provident Fund and AIA Bhd hold 6.2% and 3.7% respectively.\n\nSave by subscribing to us for your print and/or digital copy.\n\n**P/S: The Edge is also available on\n      Apple's App Store and \n      Android's Google Play.**\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/821609"
+    },
+    {
+      "id": "2026-10-20-98c5bc",
+      "title": "Data centre industry's peak electricity demand to hit 8.39GW by 2030 — ministry",
+      "summary": "Malaysia's Ministry of Energy Transition and Water Transformation (Petra) projects that peak electricity demand from the data centre industry in Peninsular Malaysia will reach 8.39GW by 2030, based on current supply planning estimates. The figure reflects the scale of grid reinforcement needed to support the sector's expansion.",
+      "why_it_matters": "The official demand forecast gives utilities and regulators a planning baseline and signals to developers that power allocation will be managed centrally, potentially tightening approvals for new capacity.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "capacity",
+        "regulation",
+        "energy"
+      ],
+      "published_at": "2026-10-20T03:17:19Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/822443",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "马来西亚能源部：到2030年数据中心行业峰值电力需求将达8.39GW",
+      "summary_zh": "马来西亚能源转型及水务转型部（Petra）预计，根据当前电力供应规划，到 2030 年马来半岛数据中心行业的峰值电力需求将达到 8.39GW。该数字反映了支撑该行业扩张所需的电网加固规模。",
+      "why_zh": "官方需求预测为公用事业和监管机构提供了规划基准，并向开发商表明电力分配将受到集中管理，新产能审批可能收紧。",
+      "content": "KUALA LUMPUR (Oct 19): Peak electricity demand from the data centre industry in Peninsular Malaysia is projected to reach 8.39 gigawatts (GW) by 2030, based on the current electricity supply planning estimates, according to the Ministry of Energy Transition and Water Transformation (Petra).\n\nOf the total amount, Johor is expected to record the highest demand for electricity at 4.42GW, and Selangor at 1.48GW.\n\n“Both states are major hubs for data centre development and will therefore require proper electricity supply infrastructure planning that takes into account the anticipated growth in demand,” it said.\n\nThe ministry was responding to a question from Onn Abu Bakar (Pakatan Harapan-Batu Pahat) on the projected electricity and water demand by the data centre industry up to 2030, particularly in Johor and Selangor, as well as the number of data centres that have been completed.\n\nPetra said 45 data centres had been completed and were operational in Peninsular Malaysia as of August, with a combined electricity supply capacity of 6.04GW.\n\nThis capacity refers to the electricity supply provided by Tenaga Nasional Bhd (KL:TENAGA) through the national grid to support the operation of the data centres.\n\nMeanwhile, the projected water demand from data centres in Selangor and Johor is expected to reach 389.04 million litres per day (MLD) by 2030.\n\n“However, actual water consumption by data centres currently reported to the National Water Services Commission stands at 63.90 MLD,” Petra said.\n\n*For more Parliament stories, click here.*\n\n*Uploaded by Tham Yek Lee*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/822443"
+    },
+    {
+      "id": "2026-10-20-1c3255",
+      "title": "Why CoreWeave's troubles are rattling the AI boom",
+      "summary": "(Oct 19): CoreWeave's mounting debt is raising fresh concerns about the AI boom, as investors question whether demand can justify the billions being borrowed to build data centres.",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "hyperscale",
+        "financing"
+      ],
+      "published_at": "2026-10-20T01:10:29Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/822426",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "CoreWeave"
+      ],
+      "title_zh": "CoreWeave的困境为何震动AI热潮",
+      "content": "(Oct 19): CoreWeave's mounting debt is raising fresh concerns about the AI boom, as investors question whether demand can justify the billions being borrowed to build data centres.\n\nShares and bonds of the Nvidia-backed company have tumbled despite its CEO's assurances of a strong contract backlog, fueling a broader selloff in technology stocks.\n\nHere is why investors are worried and what its troubles could mean for the industry.\n\nCoreWeave rents out computing power from Nvidia processors to companies developing and running AI, including Microsoft and OpenAI.\n\nIt is one of the leading \"neocloud\" providers, a group of newer cloud companies that are growing rapidly to meet demand for scarce and expensive AI chips.\n\nThese neocloud companies give customers access to computing power without requiring them to build their own data centers. However, supplying such capacity requires heavy upfront investment in chips and infrastructure, often financed with debt.\n\nThe company, which has never turned a profit, has about US$50 billion in debt, according to data compiled by LSEG.\n\nIt raised its annual capital spending forecast by US$4 billion in August to between US$35 billion and US$39 billion. Analysts expect revenue of nearly US$13 billion this year and a loss of US$2.13 billion.\n\nThe yields on its bonds due in 2031, which are rated junk, have spiked to about 16%, while the cost of insuring its debt against default has climbed to about 1,000 basis points, reflecting growing concern among creditors.\n\nCEO Mike Intrator told employees in an internal memo seen by *Reuters* that its deal backlog more than covers its debt obligations. The company had a US$104.2 billion revenue backlog at the end of the second quarter, followed by more than US$25 billion in new commitments early in the third quarter.\n\nNvidia CEO Jensen Huang has also downplayed the concerns, saying CoreWeave's financial strength is improving and he sees no need to backstop it. The chip giant has agreed to buy unsold CoreWeave capacity through April 2032.\n\nthe S&P 500 up four tenths and the Nasdaq rising more than one percent.\n\nCoreWeave's business depends on two things: demand for AI computing and lenders' willingness to finance the infrastructure supplying it. But a selloff in its shares suggests a lack of confidence among investors in the latter, even as the company cites strong demand.\n\nThe concern is not that AI demand will collapse, but that higher borrowing costs could make the business harder to sustain if demand were to weaken sharply.\n\n\"It looks more like investors questioning how the build-out is being funded than a sudden collapse in appetite for AI computing,\" said Axel Rudolph, chief technical analyst at IG Group.\n\n\"CoreWeave is quickly becoming the AI trade's canary in the coal mine,\" said Kathleen Brooks, research director at XTB.\n\nInvestors are questioning whether AI revenue can grow fast enough to cover the cost of building and financing the infrastructure.\n\nCoreWeave has to spend heavily upfront before it can collect the revenue from its contracts. Higher interest rates could drive up financing costs and further squeeze returns.\n\nThe hardware itself poses another risk. Chips lose value as newer generations arrive, pushing providers to spend even more to replace them.\n\nThe concerns, however, go beyond CoreWeave. US technology giants are expected to spend more than US$700 billion on AI infrastructure this year.\n\nOne potential consequence would be a broader financing squeeze, with lenders demanding higher returns or becoming less willing to fund other AI projects.\n\nThat could force providers to scale back expansion, curbing equipment purchases and affecting the computing capacity customers expect.\n\nA setback could also deepen doubts that the AI investment frenzy is outpacing returns, piling further pressure on technology stocks.\n\nThe impact of the fallout would depend on how the business is reorganized, and CoreWeave's ties to major technology companies do not, by themselves, mean its failure would trigger a wider financial crisis.\n\nGartner estimates about 80% of neoclouds could shut down by 2030, warning that expected AI revenue will not support profitable returns on all planned infrastructure spending.\n\nNeocloud rivals Nebius, Applied Digital and Iren have fallen in the recent selloff. The cost of default protection has risen for SoftBank, which is betting heavily on OpenAI.\n\nMeanwhile, spreads for Amazon, Alphabet, Meta and Nvidia have also reached records, although they have risen much more slowly than CoreWeave's. However, these companies also have larger cash flows and stronger balance sheets.\n\n*Uploaded by Siow Chen Ming*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/822426"
+    },
+    {
+      "id": "2026-10-20-054cfa",
+      "title": "How SoftBank plans to power its AI ambitions",
+      "summary": "SoftBank is assembling an energy strategy to support its aggressive AI infrastructure buildout, combining investments in power generation with its data centre ambitions in Japan and abroad. The plan reflects the conglomerate's view that securing electricity is as critical as securing chips for its AI bets.",
+      "why_it_matters": "A major investor vertically integrating into power supply could reshape how large AI campuses are financed and sited in Japan, and raises competitive pressure on utilities and independent power producers.",
+      "score": 82,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "power",
+        "investment",
+        "data-centers"
+      ],
+      "published_at": "2026-10-20T06:08:09Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/how-softbank-plans-to-power-its-ai-ambitions",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "SoftBank"
+      ],
+      "title_zh": "SoftBank计划如何为其AI雄心提供能源支撑",
+      "summary_zh": "软银（SoftBank）正在构建一项能源战略，以支撑其激进的 AI 基础设施建设，将发电投资与其在日本国内外的数据中心布局相结合。该计划反映出这家集团认为保障电力与保障芯片对 AI 布局同等关键。",
+      "why_zh": "大型投资者纵向整合电力供应可能重塑日本大型 AI 园区的融资与选址方式，并加剧对公用事业及独立发电商的竞争压力。",
+      "content": "#### Find us on Apple Podcasts | Spotify | YouTube | YouTube Music | Amazon Music | Voicy\n\nWelcome to the Tech Latest podcast. Every Tuesday, we deliver the hottest trends and news from the tech sector.\n\nIn this episode, host Brian Chapman speaks with Japan tech correspondent Tsubasa Suruga about SoftBank's high-stakes push into AI infrastructure. They discuss SB Energy's shift to renewable power for massive data center projects, its \"power first\" strategy, the enormous capital required and the risks facing Masayoshi Son's latest AI bet.",
+      "content_url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/how-softbank-plans-to-power-its-ai-ambitions"
+    },
+    {
+      "id": "2026-10-20-105f69",
+      "title": "Japan Plans Certifications for Data Centers, Cloud Services to Curb China Risk",
+      "summary": "Japan is preparing a certification framework for data centres and cloud services aimed at reducing dependence on Chinese-linked infrastructure and supply chains. The scheme would allow the government to vet operators and steer sensitive workloads toward trusted providers.",
+      "why_it_matters": "Certification requirements would raise compliance hurdles for foreign-linked operators while creating an advantage for domestic and allied-market providers competing for Japanese government and enterprise cloud contracts.",
+      "score": 88,
+      "heat": 2,
+      "regions": [
+        "japan",
+        "china"
+      ],
+      "topics": [
+        "regulation",
+        "cloud",
+        "security",
+        "investment"
+      ],
+      "published_at": "2026-10-20T06:08:09Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-plans-certifications-for-data-centers-cloud-services-to-curb-china-risk",
+          "type": "rss"
+        },
+        {
+          "name": "Nikkei Asia — data center search",
+          "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-plans-certifications-for-data-centers-cloud-services-to-curb-china-risk",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "日本计划对data center和云服务实施认证以防范中国风险",
+      "summary_zh": "日本正准备推出针对数据中心与云服务的认证框架，以降低对中国相关基础设施和供应链的依赖。该制度将允许政府审查运营商，并引导敏感工作负载流向可信服务商。",
+      "why_zh": "认证要求将提高外资背景运营商的合规门槛，同时为争夺日本政府及企业云服务合同的本土与盟国市场服务商创造优势。",
+      "content": "Cybersecurity\n# Japan plans certifications for data centers, cloud services to curb China risk\n\nTokyo to urge finance, other key sectors to use secure infrastructure\n\nA Fujitsu data center in Japan. Such facilities will be assessed on their risk management, equipment procurement sources and other factors. (Fujitsu)\n\nRYUTO IMAO\n\nOctober 20, 2026 00:51 JST\n\nTOKYO -- Japan will establish a system to certify the security of data centers and cloud services, aiming to encourage the use of secure technology in such fields as finance and healthcare while blocking the risk posed by China, Russia and other countries of concern, Nikkei has learned.",
+      "content_url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-plans-certifications-for-data-centers-cloud-services-to-curb-china-risk"
+    },
+    {
+      "id": "2026-10-20-6ab6ef",
+      "title": "China's DeepSeek Debuts Improved Low-Cost AI as Tech Doubts Swirl",
+      "summary": "China's DeepSeek has released an improved version of its low-cost AI model amid growing scepticism about the country's technology claims. The update continues the startup's strategy of delivering competitive performance at a fraction of rivals' training and inference costs.",
+      "why_it_matters": "Sustained progress on low-cost models pressures global AI economics, affecting GPU demand forecasts and the pricing power of Western model providers serving enterprise customers.",
+      "score": 72,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "compute",
+        "investment"
+      ],
+      "published_at": "2026-10-20T06:08:09Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-debuts-improved-low-cost-ai-as-tech-doubts-swirl",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "DeepSeek"
+      ],
+      "title_zh": "中国DeepSeek发布改进版低成本AI模型，技术质疑声不断",
+      "summary_zh": "在中国技术能力面临日益增多质疑之际，中国 DeepSeek 发布了其低成本 AI 模型的改进版本。此次更新延续了这家初创公司以远低于竞争对手的训练与推理成本提供有竞争力性能的策略。",
+      "why_zh": "低成本模型的持续进展对全球 AI 经济性构成压力，影响 GPU 需求预测以及面向企业客户的西方模型服务商的定价能力。",
+      "content": "GUANGZHOU -- DeepSeek has begun offering an updated artificial intelligence model that the Chinese startup says surpasses American AI tools despite its lower cost.\n\nArtificial intelligence\n# China's DeepSeek debuts improved low-cost AI as tech doubts swirl\n\nNew version said to outperform OpenAI, Anthropic models by some measures\n\nDeepSeek says it has improved an AI model released in September. © Kyodo",
+      "content_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-debuts-improved-low-cost-ai-as-tech-doubts-swirl"
+    },
+    {
+      "id": "2026-10-20-f638cd",
+      "title": "Cracks emerge in AI borrowing boom as CoreWeave, Oracle and SoftBank debt worries grow",
+      "summary": "Another worry: the increasing number of data centres that are being delayed by permitting issues",
+      "why_it_matters": "",
+      "score": 62,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "hyperscale",
+        "financing"
+      ],
+      "published_at": "2026-10-20T06:08:09Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/cracks-emerge-ai-borrowing-boom-coreweave-oracle-and-softbank-debt-worries-grow",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "CoreWeave",
+        "Oracle",
+        "SoftBank"
+      ],
+      "title_zh": "AI借贷热潮现裂痕：CoreWeave、Oracle与SoftBank债务担忧加剧",
+      "content": "Another worry: the increasing number of data centres that are being delayed by permitting issues\n\nTRILLIONS of dollars in borrowed money have powered the artificial intelligence boom. But now there is growing uncertainty around just how easily more money can be obtained – and how much of it will be paid back.\n\nThose questions burst into the forefront this past week when investors rapidly lost confidence in one debt-laden data centre company, CoreWeave. Prices of its bonds – the company has accrued US$72 billion in liabilities to operate 51 data centres – crashed, and investors placed a more than 60 per cent likelihood that CoreWeave would fail to meet its obligations.\n\nInvestors have sold off bonds for other AI giants as well, including Larry Ellison’s company, Oracle, though the price declines are not as steep as CoreWeave’s.\n\nAt the same time, Wall Street investors have been bidding up the price of some complicated financial instruments that insure corporate debt against default, like those insuring SoftBank, the Japanese technology colossus that has borrowed heavily to bet its future on a partnership with OpenAI.\n\nThe recent market moves could spell losses for investors that own the companies’ existing bonds and could mean the companies will be forced to pay higher interest rates when they borrow again, raising the costs of their already wildly expensive AI projects.\n\nThe broader question is whether companies facing debt trouble like CoreWeave, Oracle and SoftBank are the industry’s weak links or are harbingers of deeper problems in the AI build-out.\n\nThe spread, or extra premium that investors demand to put their money into risky AI debt investments, has shot up more than 50 per cent over the past six months, according to Barclays, the investment bank.\n\n“The market is on a knife’s edge everywhere,” said Alexandra Coleman, founder of Azraq, a data centre risk researcher.\n\nA lot is riding on the continuation of the borrowing binge. Every week lately, economists, banks and private equity firms project higher and higher amounts of debt that they say will be needed to finance the AI systems that their boosters assert will run the world in a few years.\n\nVirtually every major mutual fund company, insurer and private equity firm has been buying up the AI debt, to say nothing of the scores of individual investors who have poured money into skyrocketing AI companies.\n\nNot every data centre developer worries bond investors equally. The larger so-called hyperscalers, such as Meta and Alphabet, which continue to borrow heavily, have been forced by investors to pay only modestly more in interest in recent debt deals. Investors have also sold out of some these companies’ existing debt, though the drop in bond prices has been less steep than for CoreWeave.\n\nCoreWeave’s business model defies easy description. Its financial arrangements have been compared by some investors and analysts with those of the troubled office-space provider WeWork.\n\nFirst, CoreWeave buys Nvidia and other AI chips. Then, as with WeWork, which leases space inside office buildings owned by others, CoreWeave contracts with data centre owners to use the structures for AI computing for 15 years or more. CoreWeave then sub-leases the space to customers, including Meta, Microsoft and OpenAI, for a shorter time frame.\n\nThe rub is that CoreWeave is on the hook for costs on both ends: It must pay to assemble and operate the facilities before any tenant is in place, and it is committed to the space for longer than its customers may stick around.\n\nSeveral investors said they worried about whether hyperscalers like Meta and Microsoft would even need to lease space from CoreWeave in the future. Alternately, they are wary of whether the data centres could become dated or even obsolete as their existing contracts expire.\n\nA CoreWeave spokesperson, Lia Davis, said the company disagreed with the WeWork comparison. “The complexity of our financing reflects discipline, which is a point of pride for us,” she said in a statement.\n\nAnother worry is the growing number of US data-centre projects being delayed by permitting issues or, in some cases, falling through.\n\nOracle has faced slowdowns on multiple projects. In 2025, the company easily borrowed US$38 billion from a group of banks to build, with the help of project developers, a pair of data centres, one in Texas and another on about 809 hectares of farmland in Port Washington, Wisconsin.\n\nOracle planned to pay back the borrowed money on the Texas facility helped by profits from the latter complex, called Project Lighthouse, which it expected to be operational by 2028.\n\nSince then, Project Lighthouse has run into local hurdles, including from state power regulators who have pushed back their time horizon to approve the construction of a power grid critical for the data centre to operate.\n\nAterio, a data centre researcher, said it was looking less likely that Project Lighthouse’s four data centres would start operating before 2029.\n\nThat is just a year before Oracle’s debt comes due. Some of the debt has traded around US$0.90 on the US dollar or below that, according to two traders, a steep drop for a relatively new loan.\n\nAn Oracle spokesperson declined to comment.\n\nOracle faces similar permitting issues at a data centre project in New Mexico. The project’s developer, investment firm Blue Owl, has started construction on the facility, but Oracle is struggling to get state permits to provide enough power.\n\nSome of the US$18 billion in debt tied to the project has recently sold at steep discounts, roughly US$0.80 on the US dollar, according to two people familiar with the trades.\n\nSoftBank has borrowed heavily to make one of the biggest bets – by dollar value – on OpenAI. The Japanese conglomerate, led by Masayoshi Son, wrote its first US$500 million check in 2024 and a year later invested US$30 billion more.\n\nTo get that money, Son sold off most of SoftBank’s holdings of Nvidia and T-Mobile and took out loans against his stake in chip designer Arm Holdings.\n\nIn 2026, Son invested again. On Oct 1, SoftBank completed another US$30 billion investment in OpenAI. Before doing so, in late September the company raised a record US$11 billion in debt at interest rates of nearly 10 per cent.\n\nIn response to questions about SoftBank’s increasing debt, Alex Clavel, CEO of the SoftBank Vision Funds, said the amount of debt as a percentage of SoftBank Group’s assets had not changed.\n\n“The assets we’ve owned have increased significantly,” Clavel said in an interview.\n\nThe cost of insuring against losses on SoftBank’s debt has spiked. It now costs more than US$40,000 to insure against US$1 million of SoftBank debt. At the beginning of 2026, the cost was less than US$27,000.\n\nSome investors see a potential silver lining to the troubles. John Lloyd, the global head of multisector and corporate credit at asset manager Janus Henderson, said slowing down the financing for projects “makes existing projects and existing AI infrastructure even more valuable.” NYTIMES\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/cracks-emerge-ai-borrowing-boom-coreweave-oracle-and-softbank-debt-worries-grow"
+    },
+    {
+      "id": "2026-10-20-e33950",
+      "title": "Data Centre Infrastructure Firm Elice's 33% Plunge in 'Ugly Debut' Rekindles AI Spending Doubts",
+      "summary": "Seoul-based data centre infrastructure firm Elice fell 33% on its first trading day despite an IPO that raised 201 billion won with a retail tranche 400 times subscribed. The weak debut has revived questions about the sustainability of the AI infrastructure spending boom.",
+      "why_it_matters": "The gap between retail demand and aftermarket performance suggests public-market investors are growing more discerning about AI infrastructure valuations, potentially cooling the IPO pipeline for the sector.",
+      "score": 75,
+      "heat": 3,
+      "regions": [
+        "korea"
+      ],
+      "topics": [
+        "ipo",
+        "investment",
+        "ai",
+        "finance"
+      ],
+      "published_at": "2026-10-20T05:27:05Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/data-centre-infrastructure-firm-elices-33-plunge-ugly-debut-rekindles-ai-spending-doubts",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/data-centre-infrastructure-firm-elices-33-plunge-ugly-debut-rekindles-ai-spending-doubts",
+          "type": "html-list"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/822435",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Elice"
+      ],
+      "title_zh": "数据中心基础设施公司Elice上市首日暴跌33%，'惨淡首秀'重燃AI支出疑虑",
+      "summary_zh": "首尔数据中心基础设施公司 Elice 上市首日下跌 33%，尽管其 IPO 募资 2,010 亿韩元，散户认购倍数高达 400 倍。疲软的上市表现重新引发了对 AI 基础设施支出热潮可持续性的质疑。",
+      "why_zh": "散户需求与上市后表现之间的落差表明公开市场投资者对 AI 基础设施估值正变得更加审慎，可能给该行业的 IPO 管线降温。",
+      "content": "The Seoul-based firm’s IPO raised 201 billion won, with the retail tranche 400 times subscribed\n\n\\[SEOUL\\] Shares of data centre infrastructure company Elice plunged in their trading debut, underscoring lingering concerns about whether the artificial intelligence boom can justify the billions of dollars being poured into the industry.\n\nThe Seoul-based neocloud service provider’s shares fell as much as 33 per cent in early trading, before paring the losses slightly.\n\nThat was an abrupt downturn after the company raised 201 billion won (US$151 million) in an initial public offering priced at the top of the marketed range, with the retail tranche 400 times subscribed.\n\nThe sell-off threatened to undermine a tentative recovery in Asian stocks, which had been buoyed by a rebound in US chipmakers as sentiment towards the AI investment boom improved.\n\nRather than reinforcing confidence, the quick plunge rekindled swirling concerns that have particularly impacted data centre companies, with some high-profile recent setbacks around the world.\n\nFirmus Grid cancelled its Sydney IPO in October after investors balked at its valuation.\n\n“It’s not a good sign, especially after Firmus pulled its IPO,” said Josh Gilbert, lead analyst for Asia Pacific and Middle East at eToro. The “ugly debut” of Elice “hasn’t helped the dynamic in Asia today”.\n\nConcerns over borrowing costs, fierce competition and long-term returns from massive AI-related spending have soured investor appetite for the sector.\n\nCoreweave’s shares have more than halved since their May peak, AirTrunk is delaying a planned IPO of a real estate investment trust, people familiar with the matter have said, while Nscale is facing pushback over its target IPO valuation, Bloomberg News reported.\n\n“Elice’s roughly 30 per cent drop at its IPO also hurts sentiment, signalling the environment surrounding neocloud companies has yet to fully improve,” said Kazuyuki Muramatsu, head of investment management at Nagomi Capital.\n\nFounded in 2015 by three students in the doctorate program of Kaist, one of the country’s top technology universities, Elice began as a coding education platform before pivoting to AI cloud infrastructure, supplying products including servers, liquid-cooled chips, cloud and networking equipment and software.\n\nThe company has since developed a modular data centre platform with high-density power systems and advanced liquid cooling designed for high-performance AI chip clusters.\n\nElice sold its shares in the IPO at 90,500 won apiece, for a post-listing market capitalisation exceeding 1 trillion won. The shares sank to 61,000 won in early Tuesday (Oct 20) trading on the tech-heavy Kosdaq market, before rebounding to about 64,000 won.\n\n## South Korea tightens scrutiny of new listings\n\nThe pressure on investor sentiment is against the backdrop of South Korea also weighing tighter scrutiny of new listings.\n\nAuthorities are examining whether a proposed US IPO of SK Hynix’s unit Solidigm would constitute a “duplicate listing”, a structure in which a company already owned by a plublicly traded parent lists its shares separately.\n\nCritics argue that such deals can disavantage existing shareholders by allowing a subsidiary’s value to be unlocked separately. The debate adds another layer of uncertainty for companies seeking to tap public markets.\n\n“Elice’s debut comes at a time when sentiment toward AI infrastructure companies has weakened, particularly in the US,” said Albert Yong, managing partner and chief investment officer at Petra Capital Management.\n\n“Sentiment toward AI infrastructure has been highly volatile and often disconnected from underlying fundamentals.”\n\nElice was able to generate demand among South Korean retail investors, who poured roughly 10.3 trillion won into subscription deposits in hopes of buying shares.\n\nBut if the 33 per cent drop holds, it would become the worst-ever debut after a Korea IPO that raised at least US$100 million, surpassing the 30 per cent plunge by W-Scope Chungju Plant in 2022.\n\nThe stock’s plunge sent shockwaves across South Korea’s retail investment community, known as ants.\n\nOn Toss Securities’ popular mobile app, one poster shared an illustration of Alice – spelled similar to Elice in Korean – in Wonderland, smashing ants with a large hammer. “All ants are dying,” the post said above the illustration.\n\nA user on X posted a screenshot of a 68,255 won position, down 24.75 per cent, on the day, saying: “This is the first time I’ve lost money on an IPO.”\n\nAnother investor wrote that the stock “ruined Korean stocks and crypto”, to which a comment said “I just want Elice to go away to Wonderland”.\n\n“Retail investors may have blindly believed that IPO stocks would always go up,” said Jo Hyunik, an investment division manager at Seoul-based Iroom Investment Advisors.\n\nTo win over investors, Elice touted a 200 per cent surge in first-half revenue to 34.4 billion won, according to its prospectus.\n\nThe company swung to an operating profit of 10.3 billion won, while earnings before interest, taxes, depreciation and amortisation jumped more than 11 times to 23.2 billion won.\n\nThe company is expected to record an 83 per cent sales jump in 2026 and an operating margin of about 33 per cent, analyst Douglas Kim wrote in a note on Smartkarma.\n\nElice’s financial structure is different from CoreWeave’s, and investors do not need to view the company as “particularly risky”, said Kim Dojoon, chief executive officer at Zian Investment Management. But, he added, “It remains to be seen whether the company can maintain its current profitability”.\n\nA successful offering could have helped break an IPO drought in South Korea, where the primary market has been in the doldrums as fundraising surged across Asia.\n\nFirst-time listings in Seoul have raised US$1.4 billion in 2026, compared with more than US$3 billion in each of the previous three years, according to Bloomberg-compiled data. Meanwhile, SK Hynix completed the biggest-ever US share sale by a foreign company.\n\nElice’s IPO was the biggest on the Kosdaq in 2026 and surpassed in Korea only by the US$337 million offering of K Bank in March.\n\nBacked by venture capital firms including Vertex Ventures and Altos Ventures, Elice plans to use its IPO proceeds to build more AI data centres around South Korea and abroad, according to chief executive officer Jae Won-kim. Mirae Asset Securities and Samsung Securities served as lead underwriters.\n\n“We’re going all-in on becoming a full-stack AI infrastructure leader globally,” Kim said in an interview. “This IPO is about giving ourselves the financial firepower to execute.” BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/data-centre-infrastructure-firm-elices-33-plunge-ugly-debut-rekindles-ai-spending-doubts"
+    },
+    {
+      "id": "2026-10-20-5854c5",
+      "title": "China Proposes AI Export Controls Affecting Open-Weight Models and Computing Clusters",
+      "summary": "China's Ministry of Commerce and Ministry of Science and Technology have proposed revisions to the technology export catalogue covering 23 AI-related technologies, including large models and computing clusters. The draft rules could restrict global developers' and Indian enterprises' access to Chinese open-weight models.",
+      "why_it_matters": "Export controls on open-weight models would extend the US-China tech decoupling into the open-source AI ecosystem, forcing overseas developers and enterprises to reassess reliance on Chinese foundation models.",
+      "score": 72,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "regulation",
+        "chips",
+        "export-controls"
+      ],
+      "published_at": "2026-10-20T04:20:26Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/china-proposes-ai-export-controls-affecting-open-weight-models/135061308",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "China Ministry of Commerce",
+        "China Ministry of Science and Technology"
+      ],
+      "title_zh": "中国拟实施AI出口管制,影响open-weight模型与computing clusters",
+      "summary_zh": "中国商务部与科技部提议修订技术出口目录，涵盖 23 项 AI 相关技术，包括大模型和算力集群。该草案可能限制全球开发者及印度企业获取中国 open-weight 模型。",
+      "why_zh": "对 open-weight 模型的出口管制将把中美科技脱钩延伸至开源 AI 生态，迫使海外开发者与企业重新评估对中国基础模型的依赖。",
+      "content": "China’s Ministry of Commerce and Ministry of Science and Technology proposed revisions to the country's technology export catalogue.The draft rules cover 23 AI-related technologies, including advanced large models, AI agents, chip designs, and computing clusters. This proposal raises questions about the future availability of Chinese open-weight models outside the country, according to the Associated Press.For Indian businesses using models from Chinese companies such as DeepSeek and Alibaba, the controls could introduce uncertainty over future releases. They may also affect overseas deployment and commercial use.The proposed restrictions cover core AI models trained using important Chinese data. These models must meet computing requirements of 10-to-the-power-26 floating-point operations (FLOPs) or have two trillion parameters or more. They also include models ranking among the world's top 10 on relevant leaderboards, as reported by the South China Morning Post (SCMP).The draft also covers AI agents designed for sensitive environments, including national defence and critical information infrastructure. Chip designs and computing clusters are also included.China's Ministry of Commerce stated the controls are targeted and limited in scope. Access to certain AI services through application programming interfaces (APIs), websites, mobile applications, and software-as-a-service platforms would remain outside the proposed restrictions, Reuters reported. Most AI technologies would continue to be eligible for export.The public consultation on the draft runs until November 15, 2026. The final rules will determine which technologies require approval and how licensing requirements apply to overseas transfers.\n### Impact on Open-Weight AI Ecosystem\n\nOpen-weight AI models make their trained parameters, or weights, available for others to download and run. Developers can use these models on their own infrastructure, fine-tune them, and integrate them into applications.Chinese developers have become important suppliers of open-weight models. DeepSeek, Alibaba's Qwen, and models from Moonshot AI and Z.ai are among the options for developers. The proposed controls could complicate overseas access to some of these models if transferring their weights from China requires regulatory approval.Alex Colville, an analyst at the Australian Strategic Policy Institute, told the SCMP that new compliance requirements could delay or prevent Chinese AI companies from partnering with global cloud providers. This could affect the deployment of their most capable open-weight models overseas.A spokesperson for China's Ministry of Commerce told the SCMP that licensing for open-source AI technologies would be expedited with immediate clearance upon filing. However, Colville noted that the practical meaning of this process remained unclear.The proposed rules do not automatically mean developers must stop using Chinese models they have already downloaded. Developers Digest reported that weights already made publicly available would be exempt under the draft's provisions. Access through hosted APIs, websites, and applications would also remain outside the controls.This distinction matters for enterprises that have already integrated models such as DeepSeek or Qwen into their applications. The proposal does not, by itself, establish that these deployments must be discontinued.The position could be different for future models that meet the proposed thresholds. Overseas transfers of restricted technologies may require registration or licensing. Access to new model weights could therefore become subject to additional checks.\n\n- AI & Compute Infrastructure\n- 3 min Read\n\n# China proposes AI export controls, affecting open-weight models\n\nChina's Ministry of Commerce and Ministry of Science and Technology proposed revisions to its technology export catalogue. The draft rules cover 23 AI-related technologies, including large models and computing clusters. This could affect access to Chinese open-weight models for global developers and Indian enterprises.\n\n- Published On Oct 20, 2026 at 09:50 AM IST\n\n## Highlights\n\n- China proposed export controls on 23 AI-related technologies, including large models.\n- This could affect access to Chinese open-weight AI models for global and Indian developers.\n- Existing downloaded models are likely exempt, but future releases may require licensing.\n- Rules target models with high computing power or two trillion parameters, affecting top 10 models.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/china-proposes-ai-export-controls-affecting-open-weight-models/135061308"
+    },
+    {
+      "id": "2026-10-20-c0ca8b",
+      "title": "Small but mighty: micro data centres as the foundation of security and disaster recovery",
+      "summary": "Resilience-minded organisations are turning to compact edge systems to keep critical services running if cyberattacks, outages or floods hit.",
+      "why_it_matters": "",
+      "score": 40,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "edge",
+        "resilience",
+        "security"
+      ],
+      "published_at": "2026-10-20T00:49:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/small-but-mighty-micro-data-centres-are-the-foundation-of-security-and-disaster-recovery",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "小而强大：微型数据中心成为安全与灾难恢复的基石",
+      "content": "Tue, 20th Oct 2026 (Today)\nDigital services now underpin almost every aspect of modern society. Banks process millions of transactions every minute, insurers rely on their IT systems to manage policies and claims, while governments deliver essential public services online. Any disruption to business continuity can have serious economic, social and reputational consequences, so as digital dependency increases, resilience must extend beyond cybersecurity software to include the physical infrastructure that supports these systems.\n\n### A safety first approach\n\nWhile hyperscale facilities and large colocation campuses continue to expand to support cloud adoption, artificial intelligence (AI) and data intensive applications, organisations are also recognising that not every workload belongs in a centralised data centre. The growth of edge computing, distributed applications and the requirement for faster, more resilient digital services is driving demand for smaller and highly available infrastructure platforms.\n\nA key part of this evolution is the micro data centre. Typically housed within one standard 19-inch rack, they include power protection, cooling, fire suppression, security, access control and remote management in a compact format. Supporting critical loads starting from 3kW and going up to 100-150kW and providing enough power for localised computing without the overhead of larger facilities, micro data centres are redefining how businesses deploy network infrastructure at the edge. They excel in distributed, remote or harsh environments and can be deployed in offices, operational sites, remote locations, government buildings, financial branches and industrial facilities.\n\nGrowth in the adoption of micro data centres is also being driven by their ability to address the evolving challenges of modern IT management. Their purpose is not simply to house technology but to create a secure physical layer for effective cybersecurity and disaster recovery strategies – therefore keeping essential IT systems operational.\n\n### Let's get physical\n\nCybersecurity is commonly associated with technologies such as firewalls, threat detection, encryption and access management. However, these measures rely on any underlying physical IT infrastructure remaining secure and operational. If servers are damaged, power is interrupted, equipment overheats or a facility becomes inaccessible, even the most advanced cyber defences cannot ensure service availability. For this reason, physical resilience is a critical component of a comprehensive cybersecurity strategy.\n\nThe importance of physical resilience is highlighted by the financial impact of cyber incidents. IBM's Cost of a Data Breach Report 2025 estimates that the global average cost of a data breach is $4.44m. Micro data centres help reduce this risk by combining physical security, environmental protection and infrastructure resilience in a single solution. As well as safeguarding critical IT systems against cyberattacks, they also protect against a wide range of other threats including vandalism, accidental damage, equipment failure and environmental hazards, helping organisations maintain business continuity and minimise downtime.\n\n### Road to recovery\n\nAlongside cybersecurity, another advantage of micro data centres is their role in disaster recovery planning. Traditional disaster recovery strategies often depend on large secondary data centres that can be very expensive to build and difficult to locate. Micro data centres provide organisations with greater choice because they can be deployed in a wide range of environments. They can be positioned away from primary facilities, creating physical separation that reduces the risk of a single incident affecting both operational and recovery infrastructure.\n\nGeographical diversity is an important element of resilience. If a primary site and recovery site are located too close together, they may both be affected by the same event, such as flooding, fire, power failure or regional disruption. Micro data centres enable organisations to establish recovery locations that are physically separate while still providing secure and reliable access to essential systems. This approach supports modern disaster recovery strategies that prioritise rapid restoration and operational continuity.\n\nThe Europe, Middle East and Africa (EMEA) region faces a range of infrastructure challenges that make this distributed approach increasingly relevant. The European Environment Agency has highlighted the growing risks associated with climate related events, including extreme weather and flooding, which can affect critical infrastructure. Micro data centres help address these challenges by providing adaptable infrastructure that can be deployed where it is needed most.\n\n### Rules and regulations\n\nFor financial institutions, this approach supports regulatory expectations around operational resilience. Banks and insurers must demonstrate that critical services can withstand disruption and recover within acceptable timeframes. Distributed infrastructure using micro data centres provides an additional layer of protection by reducing dependence on a single physical location.\n\nInsurance companies also depend heavily on continuous access to data and digital platforms. Claims processing, customer services, risk analysis and policy management all rely on available IT systems. Any service disruption, no matter how small, can delay services for customers during already challenging situations. Micro data centres help insurers maintain local processing capability and provide additional recovery options when central systems are down.\n\nThe public sector faces similar challenges. Local and regional governments increasingly utilise digital platforms for taxation, healthcare administration, public safety, transport and a whole range of public services. The expectation is that these systems should remain available regardless of unexpected events. Micro data centres provide a practical method of strengthening digital infrastructure across multiple locations and enable organisations to design recovery strategies based on risk rather than convenience.\n\n### Features and benefits\n\nWhen selecting a micro data centre, a range of factors must be considered to ensure the infrastructure meets both current and future requirements. Getting this right first time helps create a resilient, scalable solution that delivers long-term value and reduces the risk of costly upgrades or premature replacement.\n\nPhysical security is one of the most important considerations. Secure cabinets, reinforced enclosures, access control mechanisms and monitoring capabilities prevent unauthorised access. For banks and insurance organisations managing sensitive customer data, this protects critical systems from tampering, theft or accidental interference. Government departments and public sector organisations also benefit from this capability. A local authority, emergency service provider or government agency may need secure computing infrastructure in regional offices, operational facilities or remote locations.\n\nAnother important feature is integrated fire detection and suppression. Fire remains one of the most significant physical threats to IT infrastructure and conventional fire protection systems are not always sufficient for protecting sensitive electronic equipment. Micro data centres can incorporate dedicated fire detection technologies that identify threats quickly and fire suppression systems minimise damage while protecting equipment and personnel.\n\n### Support structure\n\nInfrastructure resilience is further enhanced through advanced power continuity systems. Power resilience is particularly important across EMEA, where data centre capacity is expanding rapidly but constraints around power, land and grid availability are influencing where organisations deploy infrastructure.\n\nMicro data centres incorporate the latest uninterruptible power supply (UPS) technology, which provides immediate protection against power interruptions. A UPS ensures critical IT equipment remains operational while allowing sufficient time for controlled shutdown procedures or for back-up power systems, such as generators, to take over during prolonged disruptions. In addition, cutting edge power distribution units (PDUs) enable real-time power monitoring, remote management and load balancing, helping to optimise energy usage, prevent circuit overloads and improve overall resilience.\n\nRemote management and monitoring further enhance the value of micro data centres. Pre-installed sensors and software provide centralised oversight, with visibility down to individual outlets. This allows administrators to track temperature, humidity, power usage, security alerts and equipment performance without needing personnel on-site.\n\nStandardisation also delivers significant benefits for those managing decentralised infrastructure assets. Adopting standard off the shelf components enables faster identification and resolution of defects or operational issues. This ensures assets can be restored to full functionality quickly, thereby minimising downtime.\n\n### More than meets the eye\n\nA micro data centre should be viewed as more than a compact IT enclosure. It is a strategic resilience platform that combines physical protection, infrastructure availability and disaster recovery capability. By securing the physical foundation that supports cybersecurity, organisations can improve their ability to withstand attacks, recover from failures and continue delivering essential services.",
+      "content_url": "https://datacenternews.asia/story/small-but-mighty-micro-data-centres-are-the-foundation-of-security-and-disaster-recovery"
+    },
+    {
+      "id": "2026-10-20-292546",
+      "title": "Nvidia-backed Nscale, Anthropic in talks for new US$45 billion AI cloud deal, source says",
+      "summary": "Nvidia-backed data centre developer Nscale is in talks to sell AI computing capacity to Anthropic in a potential deal valued at US$45 billion, according to a source. The agreement would supply the Claude maker with large-scale AI cloud resources.",
+      "why_it_matters": "A deal of this magnitude would rank among the largest AI compute commitments ever, further entrenching the circular financing model linking chipmakers, neoclouds, and model developers that regulators are watching closely.",
+      "score": 72,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "cloud",
+        "capacity",
+        "investment"
+      ],
+      "published_at": "2026-10-19T22:54:48Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/nvidia-backed-nscale-anthropic-talks-new-us45-billion-ai-cloud-deal-source-says",
+          "type": "rss"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/822448",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA",
+        "Nscale",
+        "Anthropic"
+      ],
+      "title_zh": "消息称NVIDIA支持的Nscale与Anthropic洽谈450亿美元AI云计算新交易",
+      "summary_zh": "据知情人士透露，英伟达（Nvidia）支持的数据中心开发商 Nscale 正与 Anthropic 洽谈一项潜在价值 450 亿美元的交易，向其出售 AI 算力。该协议将为 Claude 的开发方提供大规模 AI 云资源。",
+      "why_zh": "如此规模的交易将跻身史上最大 AI 算力承诺之列，进一步固化连接芯片厂商、neocloud 与模型开发商的循环融资模式，监管机构正对此密切关注。",
+      "content": "The data centre developer is in talks to sell AI computing power to the Claude maker\n\n\\[SAN FRANCISCO\\] Nscale is in talks to sell artificial intelligence computing power to Claude maker Anthropic in a new deal that could be worth about US$45 billion, a person familiar with the matter told Reuters on Monday (Oct 19).\n\nThe data centre developer is seeking another major deal with the AI lab for a second facility at its Monarch data centre campus in West Virginia, the person said.\n\nIn August, Anthropic struck a deal to spend US$45 billion to rent AI cloud computing power from Nscale’s West Virginia data centre campus. A second Monarch building would deliver 460 megawatts of computing power using Nvidia’s advanced Vera Rubin AI chips, according to the source.\n\nAnthropic did not immediately respond to a Reuters request for comment.\n\nAnthropic also has the right of first refusal on Monarch’s expected third building, the person said, adding discussions were ongoing and details of the plan could change.\n\nBloomberg, which first reported the news, also said a cohort of investors had urged Anthropic to lower its initial public offering valuation target after a series of market setbacks for AI companies.\n\nInvestors have sharpened scrutiny of companies that are increasingly turning to debt-driven AI infrastructure expansion. Last week, Nscale rival CoreWeave’s shares slumped amid concerns over its US$50 billion debt load, fuelling a global sell-off in AI stocks.\n\nThe news of a potential tie-up comes after Microsoft pulled out of a deal to anchor a flagship data centre for Nscale following power connection delays that pushed its expected supply date into the 2030s.\n\nNscale has grown rapidly since launch, increasing its total contracted value from US$100 million to more than US$103 billion in two-and-a-half years and competing with Nebius , Crusoe and Lambda.\n\nAccording to the Nscale prospectus, Microsoft and Anthropic are expected to be the company’s major customers in the future. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/nvidia-backed-nscale-anthropic-talks-new-us45-billion-ai-cloud-deal-source-says"
+    },
+    {
+      "id": "2026-10-20-f83ce2",
+      "title": "CMTG cuts CPU use 70% with Lenovo AMD server refresh",
+      "summary": "The private cloud refresh gave Australian business customers faster SQL reporting and more headroom for AI workloads without disrupting service.",
+      "why_it_matters": "",
+      "score": 35,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "servers",
+        "chips",
+        "cloud",
+        "efficiency"
+      ],
+      "published_at": "2026-10-19T22:30:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/cmtg-cuts-cpu-use-70-with-lenovo-amd-server-refresh",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "CMTG",
+        "Lenovo",
+        "AMD"
+      ],
+      "title_zh": "CMTG通过Lenovo AMD服务器更新将CPU使用率降低70%",
+      "content": "Tue, 20th Oct 2026 (Today)\nCMTG has upgraded its private cloud platform with Lenovo ThinkSystem SR675 V3 servers using AMD EPYC 9475F processors, a move it says cut CPU utilisation by 70%.\n\nThe infrastructure refresh also reduced RAM usage by 10%, while customers reported faster application performance, including SQL reports running up to three times faster.\n\nThe Perth-based managed service provider, which offers private cloud, virtual desktop infrastructure, data storage and application hosting services to Australian small and medium-sized businesses, replaced server hardware nearing the end of its service life. It aimed to improve customer experience and create room for more demanding workloads, including artificial intelligence applications.\n\nThe updated platform remains based on Lenovo servers with VMware and Citrix virtualisation layers. CMTG said the new configuration improved virtual desktop performance while lowering the compute resources needed to support them.\n\nFor customers using computer-aided design applications through the company's virtual desktop infrastructure, the faster processor clock speeds improved responsiveness, even on endpoint devices not usually suited to graphics-heavy tasks. In Citrix Windows 11 VDI benchmarks, CMTG achieved 60 frames per second, which it described as the platform limit.\n\nManagement said the switchover was completed overnight without disrupting customers. CMTG used Lenovo XClarity Pro software to automate parts of the deployment and migration.\n\n\"Moving to Lenovo ThinkSystem SR675 V3 servers powered by AMD EPYC processors is night and day as far as performance is concerned, both for us and our customers,\" said Carl Filpo, Managing Director, CMTG. \"By upgrading our infrastructure, we can provision virtual desktops with superior end-user experience and at lower cost, improving customer retention and growth.\"\n\nCMTG said the upgrade comes as cloud and managed service providers face pressure to support larger and more varied workloads without expanding infrastructure at the same rate. It has also been competing with Microsoft Azure Virtual Desktop and was looking for a way to strengthen its private cloud offering.\n\n### Customer response\n\nCustomers noticed the difference quickly after the new servers went live, with users reporting faster performance across applications, particularly in SQL-based reporting workloads.\n\n\"Moving to Lenovo ThinkSystem SR675 V3 servers powered by AMD EPYC processors is night and day as far as performance is concerned, both for us and our customers,\" said Filpo. \"The morning after we completed the switch over, we had customers calling us to ask: 'what did you do? Our applications are so fast!' with one customer saying that one particular report has gone from taking several minutes to a few seconds.\"\n\nCMTG also said the lower CPU load has created additional headroom in its environment. Nick Hughes, Technical Sales Manager at CMTG, said the business saw no performance impact even with 2:1 contention while the environment was being stood up.\n\n### AI planning\n\nCMTG said the refreshed platform provides a foundation for AI-related services customers may want to run in a locally hosted environment. It sees demand for secure, Australia-based infrastructure that can support AI workloads while remaining under managed control.\n\nAMD linked the deployment to a broader shift in infrastructure planning as more organisations move from testing AI tools to using them in production systems.\n\n\"As enterprises bring AI into production, the conversation is shifting from simply adding more compute to building infrastructure that delivers the right balance of performance, efficiency and operational control,\" said Alexey Navolokin, General Manager, Sales, APAC, AMD. \"CMTG's deployment of AMD EPYC Server CPUs illustrates that the same infrastructure investments improving virtual desktop performance today can also provide the compute foundation needed for future AI services.\"\n\nCMTG said it reviewed several processor vendors during the refresh and chose AMD after examining market options and receiving a reference from Citrix, which it said uses AMD in its own platform. It also cited its long-standing relationship with Lenovo and past experience with the vendor's hardware and support services.\n\nFounded in 1998, CMTG is headquartered in Perth and focuses on managed private cloud systems, backups, virtual machines and hosted applications for business customers across Australia.",
+      "content_url": "https://datacenternews.asia/story/cmtg-cuts-cpu-use-70-with-lenovo-amd-server-refresh"
+    },
+    {
+      "id": "2026-10-20-d6141c",
+      "title": "Top hyperscalers likely to have more AI-linked debt than now known, S&P Global warns",
+      "summary": "S&P Global has warned that top hyperscalers likely carry more AI-related debt than is publicly visible, pointing to financing structures that keep obligations off balance sheets. The rating agency flags potential transparency gaps as AI infrastructure spending accelerates.",
+      "why_it_matters": "Hidden leverage raises credit-risk questions for investors and lenders exposed to AI infrastructure, and could prompt rating pressure or disclosure scrutiny if spending outpaces cash flows.",
+      "score": 78,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "hyperscale",
+        "ai",
+        "investment",
+        "debt"
+      ],
+      "published_at": "2026-10-19T20:29:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "iTnews",
+          "url": "https://www.itnews.com.au/news/top-hyperscalers-likely-to-have-more-ai-linked-debt-than-now-known-629761?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "S&P Global"
+      ],
+      "title_zh": "S&P Global警告：头部hyperscaler的AI相关债务可能超出已知规模",
+      "summary_zh": "标普全球（S&P Global）警告称，头部 hyperscaler 实际承担的 AI 相关债务可能高于公开披露的水平，指出存在将义务置于表外的融资结构。随着 AI 基础设施支出加速，该评级机构提示了潜在的透明度缺口。",
+      "why_zh": "隐性杠杆为涉足 AI 基础设施的投资者与贷款方带来信用风险疑问，若支出超过现金流，还可能引发评级压力或披露审查。",
+      "content": "S&P Global estimates the world's biggest tech firms are likely to have more AI-linked liabilities than currently known, although its top analyst for the sector sees no need to change any ratings at present.\n\nDebt issued by AI infrastructure providers and so-called 'neocloud' firms such as Nvidia-backed CoreWeave has sunk to increasingly stressed levels in recent weeks amid concerns about the aggressive scale of their borrowing.\n\nS&P's Global Head for Digital Infrastructure Mark Habib said the biggest risk to hyperscalers' ratings remained whether expected profits fail to materialise.\n\nBut he also highlighted so-called 'interconnected financing structures', where hyperscalers effectively guarantee huge data centre builds, or smaller AI companies.\n\n\"It is safe to assume that there is more (debt) out there that we are not seeing,\" Habib said during a roundtable in London.\n\n\"If it's not reported, then it's not part of the disclosure by the hyperscalers. Also, if we are not rating the transactions where this liability may accrue, then the fact of the matter is that we might not have the visibility.\"\n\nS&P expects the top six US hyperscalers — Amazon, Microsoft, Alphabet, Oracle, Meta, and SpaceX — to spend more than US$7 trillion ($10 trillion) on data centres and other AI-related capex between 2025 and 2030, and have negative free cash flow until at least next year.\n\nHabib said there wasn't an estimate of how much additional debt the circular financing might add to firms' balance sheets, although he said S&P was trying to take a \"holistic\" view overall.\n\nBack in July, it downgraded Oracle to BBB-, the lowest rung of 'investment grade', on concerns about its AI spending and what it called \"an uncertain path to profitability\".\n\nHabib was also asked whether the recent market selloff of bonds linked to the aggressive AI buildout was a sign that investors see them as riskier than ratings indicate.\n\n\"For now, we don't have the view that there is a major disconnect that needs to force our ratings to change at this point,\" he said, saying S&P's scores were designed to take a longer-term view.\n\nHe said what could change that view was if it became clear the amount of money being spent was no longer sustainable.\n\n\"And that could come from a variety of drivers,\" Habib said. \"Further increases in the investments (by AI firms), or a view that the revenue rate of competition is getting too intense.\"",
+      "content_url": "https://www.itnews.com.au/news/top-hyperscalers-likely-to-have-more-ai-linked-debt-than-now-known-629761"
+    },
+    {
+      "id": "2026-10-20-24c08e",
+      "title": "SUBCO brings in joint CIO and CISO",
+      "summary": "Preparing IT and security functions for the \"next phase of growth\".",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "subsea-cables",
+        "digital-infrastructure"
+      ],
+      "published_at": "2026-10-19T20:23:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "iTnews",
+          "url": "https://www.itnews.com.au/news/subco-brings-in-joint-cio-and-ciso-629759?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "SUBCO"
+      ],
+      "title_zh": "海底电缆运营商SUBCO任命兼任CIO与CISO的高管",
+      "content": "## Key points\n\n- SUBCO has appointed Andrew Bacon as its joint chief information officer and chief information security officer.\n- Bacon joined SUBCO from Macquarie Group, where he spent almost seven years as a divisional director in the cyber security domain.\n- SUBCO says Bacon will lead its technology and cyber security strategy as it scales to deliver the largest subsea infrastructure build in the Indo-Pacific.\n\nSUBCO has appointed Andrew Bacon as its joint chief information officer and chief information security officer.\n\nThe submarine cable operator made the announcement in a brief LinkedIn post on its corporate account.\n\n“As we scale to deliver the largest subsea infrastructure build in the Indo-Pacific, Andrew will lead our technology and cyber security strategy through this next phase of growth,” SUBCO wrote.\n\n*iTnews* was unable to reach a media spokesperson to confirm additional information, such as how IT and security responsibilities were previously handled, by the time of publication.\n\nBacon joined SUBCO from Macquarie Group, where he was a divisional director in the cyber security domain for almost seven years.\n\nIn this role, he “delivered enterprise-wide programs to uplift cyber security controls across 500-plus critical systems and drove material improvement in security operations and service management practices,” SUBCO wrote in an executive profile.\n\nHe also previously held roles at ING Australia and at Commonwealth Bank.\n\nBacon acknowledged his appointment in a brief LinkedIn post of his own.",
+      "content_url": "https://www.itnews.com.au/news/subco-brings-in-joint-cio-and-ciso-629759"
+    },
+    {
+      "id": "2026-10-20-e15154",
+      "title": "'Sky glow': Data centres could threaten Mackenzie's dark sky status",
+      "summary": "Residents fear fast-track data centres could flood Twizel with light pollution, putting Mackenzie's dark sky reserve status and tourism at risk.",
+      "why_it_matters": "",
+      "score": 35,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "regulation",
+        "environment",
+        "new-zealand"
+      ],
+      "published_at": "2026-10-19T19:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/sky-glow-data-centres-could-threaten-mackenzie-s-dark-sky-status",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "“天空辉光”：数据中心或威胁新西兰Mackenzie暗夜保护区地位",
+      "content": "Fears are mounting the Mackenzie could become home to large-scale data centres, with one expert warning the district's dark sky reserve status was at risk.\n\nTwizel residents demanded action from the Mackenzie District Council after raising concerns about data centres, fast-track consenting, and the Government's new Natural Environment Act and Planning Bill at a public forum earlier this month.\n\nTwizel Community Board member Zoe White warned the new laws, which replace the Resource Management Act, allowed ministers to set aside environmental limits without consulting affected communities – if they deemed the public benefit outweighed local harm and the \"needs and aspirations of the community\".\n\nWhite pointed to the Datagrid project near Invercargill, where resource consent was not notified after the Southland District Council deemed the environmental impacts were \"less than minor\".\n\nStargazing guide and NASA astronomer Daniel Gaussen told councillors data centres created light pollution, utilising LED lighting and operating around the clock.\n\n\"Our atmosphere is very good at scattering blue light, which means basically what we're going to see if we have a big data centre in Twizel is a huge sky glow.\"\n\nHe warned the sky glow could destroy the Aoraki/Mackenzie International Dark Sky Reserve's gold-standard status and impact his astronomical research for NASA.\n\n\"It's a big selling point for this region, it can be lost. If we continue to increase light pollution, … we will reach a sky glow limit which if we pass it, we lose the dark sky reserve status.\"\n\nMt Cook Lakeside Retreat owner Kaye Paardekooper said the district was facing a \"perfect storm\" for non-notified development.\n\n\"You've got the data centre push, the resource management reform, you've got the local government reform,\" Paardekooper said.\n\n\"You've got fast-track, and I believe it's coming as a perfect storm.\"\n\nAs one of 28 New Zealand accommodation providers to receive a Michelin Key, Paardekooper said industrial developments would put employment, tourism, and that status at risk.\n\n\"It's not just vacant land waiting to be developed. It's open space, it's natural, quiet, its dark skies, its mountain and lake views … Mackenzie feels different because of what's not here.\"\n\nShe said the Mackenzie's location within a basin meant the effects of industrial development would be felt across the district.\n\n\"It's like a big reverberating, echoing basin.\"\n\nGeospatial analyst Jana Kaeppler raised concerns about potential noise caused by data centres, saying the question was not simply how loud they were, but how the noise would affect the district.\n\n\"Twizel is very different from the city or an established industrial area, we have a very quiet night time environment and weather conditions can affect how sound travels.\"\n\nLarge data centres produced noise from cooling systems, transformers, backup generators and equipment handling, along with periods of low-frequency sound, Kaeppler said.\n\nAccommodation providers, tourism, and resident satisfaction would be impacted, Kaeppler said as she called for enforceable site monitoring of any future development.\n\nTwizel fishing guides Brad Snow and Ben Booth addressed councillors together, warning that data centres produced overflow that would impact the district's fishing and recreation.\n\n\"The overflow goes into the canal or the lake,\" Snow said.\n\n\"Fish will start dying as soon as that water starts going over 18 degrees.\"\n\nData centres used between 600,000 and one million litres of water a day, he said, which would create huge impacts on water levels over summer.\n\nBut that was just the start, he said, with chemicals, anti-scaling agents and chlorine used by data centres entering waterways, such as Benmore where families had gathered for decades.\n\n\"If this goes ahead you can say goodbye to a lot of that, and the both of us would probably leave … We're not going to be having people paying us to take them out to water I'm too scared to put my kids in.\"\n\nSnow said their businesses contributed about $500,000 annually to the local economy, something that would be lost if data centres were built.\n\nGeneral manager of Inflite Tourism at Pukaki Airport, Gemma Parton, urged councillors to consider the visual impact of developments on tourism operations, saying it was important to remember why people came to the district.\n\n\"Visitors come here for the vast number of unique experiences we offer ... They're not just paying for a skydive, they're actually paying for a memory. When people jump out they cherish the memory.\"\n\nMackenzie District mayor Scott Aronsen acknowledged the concerns, saying while recent legislation restricted council interference, he was in regular contact with the Waitaki District Council and Government officials who were \"looking at some changes\".\n\nClosing the public forum, Aronsen told Twizel Community Board chair Mary Murdoch she would need to lobby the Government directly over the community's concerns.\n\n\"You guys are going to have to do some lobbying … we'll do as much as we can but at the end of the day, they'll listen to people on the ground.\"\n\nMurdoch had worked to educate the community on potential industrial developments in the district, forming a Twizel working group and holding a meeting in August to educate residents.\n\nAt the time, several applications for solar projects in the Mackenzie were progressing through fast-track, with the Haldon Station Solar Farm receiving approval in August.\n\nOther projects included the Twizel Solar Project, which received resource consent in August, the Balmoral Station Solar Array and the Grampians Solar Project.\n\nRMA Reform Minister Chris Bishop said the reforms aimed to make consenting faster, simpler, and more predictable, with fewer applications requiring public notification.\n\n\"This means communities can help shape the bigger decisions about growth and development, without unnecessarily revisiting those decisions through every individual consent application.\"\n\nBishop said where a consent application is not publicly notified, the legislation provides mechanisms to review notification decisions through the Planning Tribunal.\n\nHe said the Natural Environment Act provided the Minister flexibility to enable activity through national standards, considering the cost and benefits, potential human and environmental harm, implications, and mitigating conditions.\n\n\"The new system establishes enforceable environmental limits to protect human health and ecosystems ... This ensures decisions can account for wider public benefits while maintaining appropriate environmental protections,\" Bishop said.\n\nHowever, Bishop said that neither the bill or act contained specific provisions protecting dark skies.\n\nWhile councils would continue to manage light spill through local plans, Bishop said, reserve protections would require a council justification report subject to public submissions, appeals, and set standards.",
+      "content_url": "https://datacenternews.asia/story/sky-glow-data-centres-could-threaten-mackenzie-s-dark-sky-status"
+    },
+    {
+      "id": "2026-10-20-4c36e7",
+      "title": "China AI Data Centre Boom Faces ROI Test",
+      "summary": "A Goldman Sachs report finds China's AI data centre sector under growing pressure to demonstrate profitable returns as financing costs climb. The industry's focus is shifting away from rapid capacity buildout toward capital efficiency and strategies to improve investment returns.",
+      "why_it_matters": "A pivot from expansion to returns discipline could slow new project approvals and reshape financing terms, affecting developers, lenders, and local governments that have counted on data centre construction as a growth engine.",
+      "score": 90,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "capacity",
+        "finance"
+      ],
+      "published_at": "2026-10-19T16:10:25Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/china-ai-data-centre-boom-faces-roi-test/135052078",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Goldman Sachs"
+      ],
+      "title_zh": "中国AI数据中心热潮面临投资回报考验",
+      "summary_zh": "高盛（Goldman Sachs）报告显示，随着融资成本上升，中国 AI 数据中心行业正面临越来越大的投资回报证明压力。行业重心正从快速扩张产能转向资本效率及提升回报率的策略。",
+      "why_zh": "从扩张转向回报纪律可能放缓新项目审批并重塑融资条件，影响那些将数据中心建设视为增长引擎的开发商、贷款方及地方政府。",
+      "content": "China's rapidly expanding artificial intelligence (AI) data centre sector faces growing pressure to demonstrate profitable returns on investment.This is due to rising financing costs and investor concerns, shifting attention from capacity expansion to capital efficiency, a Goldman Sachs research report said.Stronger-than-expected demand for AI infrastructure has improved the medium-term growth outlook for Chinese data centre operators, the report noted. However, as new orders translate into long-term contracted capacity, the sector is increasingly being judged on its ability to generate returns that exceed the cost of capital.Goldman Sachs examined three business models in China's data centre sector. These include traditional powered-shell facilities, integrated AI data centres that provide graphics processing unit (GPU) computing services under long-term contracts, and AI token factories that generate revenue by processing AI workloads.Traditional powered-shell data centres offer relatively stable infrastructure revenues but may generate limited returns without favourable financing or asset-sale opportunities. The report estimated gross return on invested capital (ROIC) at around 5 per cent under its base-case assumptions.Integrated AI data centres could generate higher returns by providing GPU-as-a-service under three-to-five-year contracts. Profitability depends on GPU procurement costs, rental prices, financing and the risk of hardware becoming obsolete. Goldman Sachs estimated that certain configurations involving Nvidia B300-equivalent servers could support a 15 per cent annual ROIC under specific pricing and capital-cost assumptions.AI token factories could offer still higher returns by monetising computing capacity through AI inference and token production. The report modelled an ROIC of around 21 per cent for an asset-light token factory and around 43 per cent for one owning its GPU infrastructure. These are model-based estimates, not actual returns achieved by companies.The report also highlighted potential opportunities for operators to improve capital efficiency through asset recycling, lower-cost debt and overseas expansion. Goldman Sachs' analysis suggests that investment returns, financing costs and the ability to monetise computing capacity will become increasingly important.\n\n- AI & Compute Infrastructure\n- 2 min Read\n\n# China AI data centre boom faces ROI test\n\nChina's AI data centre industry is under pressure to prove profitable returns on investment as financing costs rise, according to a Goldman Sachs report. The sector's focus is shifting from capacity expansion to capital efficiency and potential strategies for improving returns.\n\n- Published On Oct 19, 2026 at 09:40 PM IST\n\n## Highlights\n\n- China's AI data centre sector faces pressure to demonstrate profitable returns on investment.\n- Rising financing costs are shifting focus from capacity expansion to capital efficiency.\n- Goldman Sachs examined three models: powered-shell, integrated AI, and AI token factories.\n- AI token factories show higher estimated ROIC compared to traditional data centres.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/china-ai-data-centre-boom-faces-roi-test/135052078"
+    },
+    {
+      "id": "2026-10-20-17fbb3",
+      "title": "Optical PCIe Extends AI Rack Design Flexibility",
+      "summary": "A demonstration by Lumentum, Astera Labs, and Corning shows how optical PCIe could offer more flexible rack designs for AI data centers. This approach aims to relax constraints on reach, signal integrity, power, thermal management, and cable density.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "interconnect",
+        "hardware"
+      ],
+      "published_at": "2026-10-19T16:00:42Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/optical-pcie-extends-ai-rack-design-flexibility/135052001",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Lumentum",
+        "Astera Labs",
+        "Corning"
+      ],
+      "title_zh": "Optical PCIe为AI机架设计带来更大灵活性",
+      "content": "Optical Peripheral Component Interconnect Express (PCIe) is emerging as a method to ease some pressures in AI rack designs, according to a demonstration by Lumentum, Astera Labs, and Corning. Traditional electrical interconnects face limitations in reach, signal integrity, power, thermal management, and cable density as AI racks become denser and PCIe data rates increase.The companies presented a rack-level demonstration at the 2026 OCP Global Summit in San Jose. The setup combined Astera Labs' Scorpio Smart Fabric Switch, Lumentum's optical interconnect, and Corning multimode fiber. These links used vertical-cavity surface-emitting lasers (VCSELs). Lumentum described the system as a proof of concept, not a product announcement.Christian Urricariet, senior director of product and strategic marketing at Lumentum, noted that optical PCIe can relax several system constraints. It moves data over lightweight, low-loss optical links across longer distances. Joshua Fennimore, commercial technology manager at Corning Optical Communications, stated that optical connections can span tens to hundreds of meters within a data center. This compares to passive copper connections, which are generally limited to a few meters.Higher PCIe data rates make electrical links more sensitive to loss, crosstalk, and equalization requirements, Urricariet said. Designers may need to add retimers or place connected devices closer together. High-speed copper cables can also become bulky and difficult to route and manage.\n### Reshaping Rack and Row Design\n\nFiber gives designers more room to separate systems while maintaining high-speed connectivity, Fennimore explained. This allows systems to be separated across racks or rows inside a data center. Operators gain greater flexibility to optimise rack layouts around compute density, power, cooling, serviceability, and cable management.Jignesh Shah, senior director of product marketing for the Signal Connectivity Group at Astera Labs, indicated that optical PCIe could enable scale-up designs across multiple racks. This includes disaggregated architectures with dedicated racks for GPUs, switches, and memory. Optical PCIe also enables high-density solutions required for high-radix switches and GPU applications.Urricariet added that optical PCIe could make it easier to build more modular and composable rack-scale designs. This is particularly relevant in AI environments where power delivery, thermal limits, and serviceability are critical.\n### Copper's Continued Role\n\nCopper remains the more established and cost-effective choice for short distances, according to Shah. He noted that once designs exceed about 3 meters of reach, evaluating both copper and optical options becomes sensible. Shah stated that copper currently offers the best total cost of ownership (TCO) for anything within a few meters due to its maturity.Urricariet clarified that the goal is not to eliminate copper PCIe connections. Instead, it is to expand the practical system architectures as AI racks grow in scale and complexity. Moving from a demonstration to broad deployment requires further work across system integration, reliability, manufacturing, and customer qualification.\n\n- AI & Compute Infrastructure\n- 2 min Read\n\n# Optical PCIe extends AI rack design flexibility\n\nA demonstration by Lumentum, Astera Labs, and Corning shows how optical PCIe could offer more flexible rack designs for AI data centers. This approach aims to relax constraints on reach, signal integrity, power, thermal management, and cable density.\n\n- Published On Oct 19, 2026 at 09:30 PM IST\n\n## Highlights\n\n- Optical PCIe extends data transmission reach for AI rack designs.\n- Lumentum, Astera Labs, and Corning demonstrated the technology at OCP Global Summit.\n- Optical links can span tens to hundreds of meters, unlike copper's few meters.\n- The technology could enable more flexible and disaggregated AI rack architectures.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/optical-pcie-extends-ai-rack-design-flexibility/135052001"
+    },
+    {
+      "id": "2026-10-20-7d065a",
+      "title": "AI chip startup Tenstorrent raises $1.5bn at $6.2bn valuation",
+      "summary": "AI chip startup Tenstorrent has raised US$1.5 billion at a US$6.2 billion valuation. The fresh capital will support continued development of the company's Galaxy server line as it competes in the market for alternatives to dominant GPU platforms.",
+      "why_it_matters": "The raise signals investors still see room for challengers to incumbent AI silicon, and fresh funding for alternative architectures could broaden hardware options for data centre operators wary of supply concentration.",
+      "score": 72,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "investment"
+      ],
+      "published_at": "2026-10-19T13:10:43Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/ai-chip-startup-tenstorrent-raises-15bn-at-62bn-valuation/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Tenstorrent"
+      ],
+      "title_zh": "AI芯片初创公司Tenstorrent以62亿美元估值融资15亿美元",
+      "summary_zh": "AI 芯片初创公司 Tenstorrent 以 62 亿美元估值完成 15 亿美元融资。新资金将支持其 Galaxy 服务器产品线的持续开发，以在主流 GPU 平台替代品市场中展开竞争。",
+      "why_zh": "此轮融资表明投资者仍认为挑战现有 AI 芯片厂商存在空间，替代架构获得的新资金可为担忧供应集中的数据中心运营商拓宽硬件选择。",
+      "content": "AI chip startup Tenstorrent has raised $1.5 billion in a Series E round, valuing the company at $6.2bn.\n\nThe round, which more than doubles the company’s previous valuation, was led by Trace Capital and Innovation X, with participation from ARK Invest, Cadence Ventures, Fidelity Management & Research Company, Maverick Silicon, Morgan Stanley, SanDisk, and T. Rowe Price, among others.\n\nIn a statement, Tenstorrent said it would use the funding to scale manufacturing and introduce new generations of its Galaxy servers, whilst also increasing its global workforce.\n\nThe servers, which began shipping in April of this year, comprise 32 of the company’s RISC-V Blackhole processors with Tensix AI cores, offering 23 petaflops of FP8 compute performance.\n\n“We built one architecture and sell it at every size,” said Jim Keller, CEO of Tenstorrent. “The future of compute is open, scalable, and owned by the people building on it. Our investors believe in that model too, and we appreciate their support.”\n\nFounded in 2016, Tenstorrent builds scalable artificial intelligence accelerators for both the cloud and Edge in order to compete with Nvidia’s GPUs. The company is also developing a RISC-V CPU and licenses its designs to other organizations.\n\nIn October 2022, Tenstorrent founder Ljubisa Bajic job-swapped with Keller, the company’s then CTO, before stepping down from the company entirely in March of the following year to found Taalas, a separate AI chip startup.\n\nTenstorrent completed a Series D funding round in December 2024, which saw the company valued at more than $2.6 billion. Raising $693 million, investors included Jeff Bezos' Bezos Expeditions, Samsung Securities, and AFW Partners.\n\nIn June 2026, it was reported that Qualcomm was exploring an acquisition of the chip startup.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/ai-chip-startup-tenstorrent-raises-15bn-at-62bn-valuation/"
+    },
+    {
+      "id": "2026-10-20-9547ae",
+      "title": "Data Vault lines up 11 partners for new Auckland data centre",
+      "summary": "New Zealand-owned data centre operator Data Vault plans to build a 3MW facility on Auckland’s North Shore, with 11 connectivity and service partners confirmed ahead of its planned opening in the second half of 2027. The development forms part of a wider expansion programme targeting approximately 6MW of additional capacity across Auckland, Hamilton and Wellington […]",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 3,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "capacity",
+        "colocation",
+        "investment",
+        "new-zealand"
+      ],
+      "published_at": "2026-10-19T12:55:21Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/data-vault-lines-up-11-partners-for-new-auckland-data-centre/",
+          "type": "rss"
+        },
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/data-vault-plans-new-north-shore-data-centre-in-auckland",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/construction-site-development/data-vault-plans-3mw-auckland-data-centre-11-partners/135052082",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Data Vault"
+      ],
+      "title_zh": "Data Vault为奥克兰新数据中心敲定11家合作伙伴",
+      "content": "New Zealand-owned data centre operator Data Vault plans to build a 3MW facility on Auckland’s North Shore, with 11 connectivity and service partners confirmed ahead of its planned opening in the second half of 2027.\n\nThe development forms part of a wider expansion programme targeting approximately 6MW of additional capacity across Auckland, Hamilton and Wellington over the coming years. Data Vault said the building for the North Shore facility has already been acquired, with fitout scheduled to begin in 2027 and capacity to be brought online in stages as customer demand grows.\n\nThe company has identified 5.3MW of additional capacity across four projects: the new North Shore facility, a further 1MW at its existing Grafton data centre in Auckland, another 1MW at its Te Rapa facility in Hamilton, and approximately 300kW in Wellington. Further opportunities are under consideration to meet its broader 6MW expansion target.\n\nThe announcement follows continued growth at Grafton, where Data Vault said Data Hall 3 is fully contracted. Data Hall 4, backed by an international anchor tenant, is scheduled to become operational in the first quarter of 2027, followed by Data Hall 5 in the third quarter.\n\n“We’ve seen significant demand from network operators, cloud providers and international technology companies looking for high-quality colocation in New Zealand,” said Peter White, general manager at Data Vault. “The North Shore development is the next logical step. We’ve secured the building and expect to start bringing capacity online next year, giving our customers another Auckland location and greater geographic diversity.”\n\nData Vault has operated in New Zealand since 2004, with facilities in Auckland and Hamilton. It expanded into Wellington through an operations and management agreement with service provider Vital, announced in 2025, extending its reach across the country’s three major data centre markets. The arrangement was intended to bring the Wellington facility into Data Vault’s operations, with modernisation planned to align it with the company’s existing standards.\n\n### Connectivity partners lined up for launch\n\nThe North Shore facility will open with 11 confirmed connectivity and service partners: Eon Fibre, Devoli, EdgeIX, Verge Infrastructure, WaveSquared, Hostpearl, Vetta Group, Mercury, Purelink, Vital and Megaport. Data Vault expects to announce additional partners before the facility opens.\n\nThe partners will provide access to fibre networks, internet services, internet exchanges, cloud connectivity and other network solutions. The operator said it would maintain a carrier-neutral model, allowing customers to choose their preferred providers.\n\n“We’re not building a facility and then hoping the network providers turn up,” White said. “We’ve already confirmed 11 launch partners, with more to come. Customers will have access to a wide range of services and providers from day one.”\n\nData Vault said its Grafton facility is approaching 70 autonomous system numbers (ASNs) across its network ecosystem, with access to internet exchanges including EdgeIX, NZIX and MegaIX.\n\nConnectivity is a central part of the company’s positioning. Its existing Auckland facility offers access to more than 50 network providers, according to its website, alongside carrier-neutral colocation and connections to major network and peering services.\n\n### Efficiency and mid-density colocation\n\nData Vault said energy efficiency would be a focus across its expansion programme, with modern cooling systems, aisle containment and efficient power infrastructure intended to increase the proportion of available power that can be used by customer IT equipment.\n\nThe company already operates rooftop solar installations at its Grafton and Hamilton facilities and plans further installations, including at North Shore. Its website reports a power usage effectiveness (PUE) of 1.14 for its existing operations. The company has not provided a target PUE for the new facility.\n\n“Power efficiency is becoming increasingly important for our customers,” White said. “We’re investing in modern cooling technology and better facility design to maximise the amount of power available for customer IT equipment.”\n\nWhile much of the data centre market’s attention is on hyperscale and AI infrastructure, Data Vault said it sees demand for mid-density colocation from network operators, cloud providers, managed service providers and enterprises. “There’s a significant market for reliable, well-connected mid-density rack space, and that’s where we see a real opportunity,” White said.\n\n“We want to provide flexible infrastructure that works for customers of all sizes, whether they need a single rack or a larger dedicated environment.”\n\nThe operator said it was also nearing completion of a SOC 2 readiness programme, with enhanced physical security, monitoring, operational procedures and governance controls planned for rollout across its facilities alongside the North Shore development. The programme is intended to support progression towards independent SOC 2 attestation.\n\nData Vault said it would continue to focus on carrier-neutral connectivity, energy efficiency and flexible colocation as it expands its footprint. “We’re not trying to be the biggest data centre operator in New Zealand,” White said. “Our focus is on building highly connected, efficient and reliable facilities, providing good service and making sure we have capacity available as our customers grow.”",
+      "content_url": "https://w.media/data-vault-lines-up-11-partners-for-new-auckland-data-centre/"
+    },
+    {
+      "id": "2026-10-20-d8e666",
+      "title": "Malaysia plans Digital Infrastructure (Data Centre) Bill for Cabinet consideration in 2027",
+      "summary": "Malaysia's government plans to draft a Digital Infrastructure (Data Centre) Bill for Cabinet submission in 2027, following agreement at a National Economic Action Council meeting chaired by Prime Minister Anwar Ibrahim. The bill aims to steer the data centre industry toward more sustainable growth.",
+      "why_it_matters": "A dedicated law would formalise rules on energy, water, and land use for data centres, giving operators regulatory certainty while likely imposing stricter sustainability conditions on new builds.",
+      "score": 80,
+      "heat": 3,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "regulation",
+        "policy",
+        "malaysia",
+        "investment"
+      ],
+      "published_at": "2026-10-19T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/malaysia-plans-digital-infrastructure-data-centre-bill-for-cabinet-consideration-in-2027/",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/malaysia-plans-digital-infrastructure-bill-by-2027/135062151",
+          "type": "rss"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/822347",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Ministry of Digital Malaysia"
+      ],
+      "title_zh": "马来西亚计划出台数字基础设施（数据中心）法案，拟于2027年提交内阁审议",
+      "summary_zh": "马来西亚政府计划起草《数字基础设施（数据中心）法案》，并于 2027 年提交内阁审议，此前由总理安瓦尔·易卜拉欣主持的国家经济行动理事会会议已就此达成一致。该法案旨在引导数据中心行业实现更可持续的增长。",
+      "why_zh": "专门立法将把数据中心的能源、水资源和土地使用规则正式化，为运营商提供监管确定性，同时可能对新建项目施加更严格的可持续条件。",
+      "published_precision": "day",
+      "content": "The Malaysian government plans to draft the Digital Infrastructure (Data Centre) Bill for submission to the Cabinet in 2027 to regulate the data center industry towards more sustainable growth. The proposed bill was agreed at the National Economic Action Council (NEAC) meeting chaired by Prime Minister Datuk Seri Anwar Ibrahim yesterday. The decision was made following a proposal on the National Strategic Direction Towards Sustainable Data Centre Development by the Ministry of Digital.\n\nEssentially, the bill aims to ensure investments add value to the domestic economy, address water and electricity constraints while minimizing environmental impact, said Economy Minister Akmal Nasrullah Mohd Nasir in a statement.\n\nThe lead ministries, namely the Ministry of Housing and Local Government, the Ministry of Investment, Trade and Industry, the Ministry of Science, Technology and Innovation, and the Ministry of Human Resources, along with the implementing agencies, should adopt the Circular Economy Framework (CEF) presented by the Ministry of Economy, Akmal added. The CEF proposes an integrated governance, monitoring, and coordination structure,\n\nThis could be Malaysia’s most important regulatory development for data centers so far, according to observers. Data center developers may eventually face more formal statutory requirements beyond existing task-force approvals and utility arrangements, they added.",
+      "content_url": "https://w.media/malaysia-plans-digital-infrastructure-data-centre-bill-for-cabinet-consideration-in-2027/"
+    },
+    {
+      "id": "2026-10-20-f5ad05",
+      "title": "UniSuper CIO warns investors off financing 'crappy' AI business models",
+      "summary": "UniSuper chief investment officer John Pearce has urged bond investors to take a harder line on financing the artificial intelligence boom, even as he dismissed fears of a broader tech-fuelled bubble…",
+      "why_it_matters": "",
+      "score": 48,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "financing"
+      ],
+      "published_at": "2026-10-19T05:07:14Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/markets/debt-markets/unisuper-cio-warns-investors-off-financing-crappy-ai-business-models-20261019-p616pr",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "UniSuper"
+      ],
+      "title_zh": "UniSuper首席投资官警告投资者勿为“糟糕的”AI商业模式融资",
+      "content": "UniSuper chief investment officer John Pearce has urged bond investors to take a harder line on financing the artificial intelligence boom, even as he dismissed fears of a broader tech-fuelled bubble in equity markets.\n\nPearce, who oversees $175 billion in assets for Australia’s fourth-largest superannuation fund, said a string of recent high-profile setbacks in AI capital raisings suggested investors were becoming more discerning about which company to back.\n\nLoading...",
+      "content_url": "https://www.afr.com/markets/debt-markets/unisuper-cio-warns-investors-off-financing-crappy-ai-business-models-20261019-p616pr"
+    },
+    {
+      "id": "2026-10-20-2c8efc",
+      "title": "Forget Firmus, these Australians have big plans to build data centres across Europe",
+      "summary": "A string of high-profile Australian dealmakers and wealthy families have raised more than $300 million to fund an ambitious plan to build data centres in Europe, despite investor uncertainty about…",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "hyperscale",
+        "expansion"
+      ],
+      "published_at": "2026-10-19T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/technology/forget-firmus-these-australians-have-big-plans-to-build-data-centres-across-europe-20261019-p6165a",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Firmus"
+      ],
+      "title_zh": "不止Firmus：这些澳大利亚企业计划在欧洲大规模建设数据中心",
+      "published_precision": "day",
+      "content": "A string of high-profile Australian dealmakers and wealthy families have raised more than $300 million to fund an ambitious plan to build data centres in Europe, despite investor uncertainty about the growth of artificial intelligence that has led to the failure of several big floats this month.\n\nThe business, known as Astor, is backed by an initial investment of €200 million ($323 million) and has been led by a new private markets investment firm, Margaux Platforms, which is run from London by former Stonepeak and Blackstone operator Conrad Lucas, the son of restaurateur Chris Lucas.\n\nLoading...",
+      "content_url": "https://www.afr.com/technology/forget-firmus-these-australians-have-big-plans-to-build-data-centres-across-europe-20261019-p6165a"
+    },
+    {
+      "id": "2026-10-20-6f0d59",
+      "title": "Jati Tinggi bags RM30 mil data centre power job in Johor",
+      "summary": "Jati Tinggi Group Bhd (KL:JTGROUP) said the electrical engineering group has secured a RM30.1 million contract to build power infrastructure for a data centre in Kulai, Johor.",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "construction",
+        "investment"
+      ],
+      "published_at": "2026-10-19T12:27:27Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/822395",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Jati Tinggi Group"
+      ],
+      "title_zh": "Jati Tinggi斩获柔佛州3010万林吉特数据中心电力工程合同",
+      "content": "KUALA LUMPUR (Oct 19): Jati Tinggi Group Bhd (KL:JTGROUP) said the electrical engineering group has secured a RM30.1 million contract to build power infrastructure for a data centre in Kulai, Johor.\n\nThe contract, awarded to its wholly-owned subsidiary Jati Tinggi Holding Sdn Bhd, involves the construction of two circuits of 275kV underground cable ducting works and 11kV temporary power cable works, including engineering, procurement, construction and commissioning.\n\nJati Tinggi did not name the customer in its filing with Bursa Malaysia on Monday, saying only that it is a Malaysian company involved in providing infrastructure for hosting, data processing services and related activities.\n\nThe contract runs until July 25, 2027, and is expected to contribute positively to the group’s earnings and net assets per share, Jati Tinggi said.\n\nEarlier this month, the group secured two contracts from Tenaga Nasional Bhd (KL:TENAGA) worth a combined RM15.7 million for underground cable works in Selangor and a submarine power cable monitoring system in Perlis.\n\nJati Tinggi’s share price closed one sen or 0.84% higher at RM1.20 on Monday, giving the group a market capitalisation of RM531.51 million.\n\nEdited ByS Kanagaraju\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/822395"
+    },
+    {
+      "id": "2026-10-20-a58c7f",
+      "title": "Govt Drafting Law to Regulate Data Centre Growth — Economy Ministry",
+      "summary": "The government is drafting legislation to regulate data centre development as part of a strategic direction toward sustainable industry growth and a circular economy, according to the Economy Ministry. The law would establish formal oversight of the sector's expansion.",
+      "why_it_matters": "Formal regulation ties future data centre approvals to sustainability criteria, meaning developers will need to plan for resource-efficiency requirements rather than treating capacity growth as unconstrained.",
+      "score": 72,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "regulation",
+        "sustainability",
+        "policy",
+        "capacity"
+      ],
+      "published_at": "2026-10-19T10:54:15Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/822373",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "马来西亚经济部：政府正在起草法律以规范数据中心增长",
+      "summary_zh": "据经济部称，政府正在起草监管数据中心开发的法律，作为实现行业可持续增长和向循环经济转型的战略方向的一部分。该法将为该行业的扩张建立正式监管框架。",
+      "why_zh": "正式监管将使未来的数据中心审批与可持续标准挂钩，开发商需将资源效率要求纳入规划，而不能再将产能扩张视为不受约束。",
+      "content": "KUALA LUMPUR (Oct 19): The government is drafting a law to regulate the development of date centres as part of a \"strategic direction\" to sustainably grow the industry and shift towards a circular economy.\n\nThe Digital Infrastructure (Data Centre) Bill is expected to be presented to the cabinet next year to tackle concerns about energy and water resources, and ensure investments benefit Malaysia's digital ecosystem, the Economy Ministry said in a statement on Monday.\n\nThe plan also aims to support Malaysia’s artificial intelligence (AI) ambitions and address environmental imbalances resulting from the industry.\n\nThe statement follows Prime Minister Datuk Seri Anwar Ibrahim’s call for Malaysia to plan the growth of the data centre industry to attract quality investments, strengthen the digital economy and ensure the sustainable use of energy and water while protecting the environment.\n\nIn a social media post earlier on Monday, Anwar said infrastructure readiness, energy supply and resource-use efficiency required closer scrutiny as the country pursued sustainable development of the sector.\n\nData centres now make up a tenth of Malaysia's energy consumption and this is expected go as high as one-third by 2035.\n\nThe government intends to make data centre investors to pay for the electricity grid upgrades they need.\n\nMinister of Investment, Trade and Industry Datuk Seri Johari Abdul Ghani told Parliament last week that power for data centres would be unsubsidised and separated from the energy infrastructure for domestic homes and other industries.\n\nThis was to protect power generation capacity needed for other economic sectors.\n\nA government task force on data centres had set that at least 30% of a data centre's components must be locally sourced, with greater participation in construction, engineering services, cooling systems and electrical equipment.\n\nUp to July, the government has approved 27 data centre projects valued at an estimated RM225.97 billion, with 89.21% of the high-skilled positions to be filled by Malaysians.\n\nSustainable data centre development was among three strategic priorities reviewed by MTEN, alongside the circular economy and national economic resilience, as the government seeks to strengthen the economy amid structural challenges and global uncertainties.\n\nThe Economy Ministry also said the Housing and Local Government; Investment, Trade and Industry; Science, Technology and Innovation; and Human Resources Ministries would be the lead agencies adopting the Circular Economy Framework.\n\nThe framework seeks to steer Malaysia away from the traditional “take-make-dispose” economic model towards one that extends the useful life of materials, reduces waste and preserves resource value.\n\nIt also aims to address fragmented implementation across ministries, prevent economic losses from the wastage of valuable resources and support the country’s ambition of achieving net-zero emissions by 2050.\n\nThe Economy Ministry said MTEN also reviewed the National Economic Resilience Framework (NERF), which is meant to strengthen the country’s ability to withstand external economic shocks, and agreed that further deliberations are needed.\n\nEdited BySyed Azahedi\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/822373"
+    },
+    {
+      "id": "2026-10-20-f0ba44",
+      "title": "SC Capital and NeoAI Cloud partner on 40MW South Korea AI data center project",
+      "summary": "Singapore-based SC Capital Partners and South Korean AI cloud provider NeoAI Cloud have jointly invested in a 40MW AI data centre project in Pohang, South Korea. The project has also attracted government-backed capital, giving it public-sector support alongside private funding.",
+      "why_it_matters": "Government co-investment signals South Korea is actively courting private capital for regional AI infrastructure beyond Seoul, opening a secondary market for developers and giving investors a de-risked entry point.",
+      "score": 85,
+      "heat": 2,
+      "regions": [
+        "korea",
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "capacity",
+        "hyperscale"
+      ],
+      "published_at": "2026-10-19T10:39:42Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/sc-capital-and-neoai-cloud-partner-on-south-korea-ai-data-center-project/",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/sc-capital-neoai-cloud-invest-in-south-korea-ai-data-center/135051995",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "SC Capital Partners",
+        "NeoAI Cloud"
+      ],
+      "title_zh": "SC Capital与NeoAI Cloud合作投资韩国浦项40MW AI数据中心项目",
+      "summary_zh": "新加坡 SC Capital Partners 与韩国 AI 云服务商 NeoAI Cloud 共同投资了位于韩国浦项的 40MW AI 数据中心项目。该项目还获得了政府背景资本的支持，在私人资金之外获得公共部门助力。",
+      "why_zh": "政府共同投资表明韩国正积极吸引私人资本建设首尔以外地区的 AI 基础设施，为开发商打开二级市场，也为投资者提供了风险较低的切入点。",
+      "content": "SC Capital Partners, a Singaporean private equity and real estate investment company, in partnership with NeoAI Cloud, a South Korean AI-focused cloud infrastructure provider, has invested in a 40 MW artificial intelligence data center project in Pohang, South Korea. The project has also secured investment from government backed capital, providing public sector support for the regional AI infrastructure development.\n\nAccording to a press release, the purpose-built facility is designed to handle high-density AI workloads and will feature liquid cooling technology to support graphics processing units (GPUs), including NVIDIA Vera Rubin. The data center has secured 40 MW of gross power capacity and is expected to be completed by the end of 2027. The facility would also combine high-density data center infrastructure with GPU-as-a-Service (GPUaaS) and AI platform capabilities to support global companies developing AI models and operating AI services.\n\n“We are excited to complete this investment, which represents our continued expansion into digital infrastructure in Asia Pacific. The development benefits from strong underlying fundamentals and is well positioned to serve the evolving requirements of the digital economy,” said, Suchad Chiaranussati, Chairman and Founder, SC Capital Partners. “We remain focused on identifying high-quality opportunities, particularly in South Korea, where strong policy support for AI and digital infrastructure is contributing to a favourable environment for the sector, and working with experienced local partners to deliver investments that create long-term value for our investors.”\n\nJonathan Yongwan Jo, CEO of NeoAI Cloud, said, “The Pohang AI data center is envisioned to go beyond traditional colocation by leveraging high-density infrastructure space integrated with GPUaaS and AI platform capabilities to provide a high-performance foundation for global enterprises to develop AI models and operate services. Building on the successful delivery of this initial 40 MW phase, we plan to advance a second phase expansion of 260 MW and look forward to a continued partnership with SC Capital Partners.”\n\nThe project has received power approval and building permits, and construction is underway. It has also secured an anchor tenant, with additional interest in the remaining IT capacity. The investment expands SC Capital Partners’ presence in South Korea’s digital infrastructure sector, as demand for computing capacity grows alongside the adoption of AI technologies.\n\nNeoAI Cloud plans to develop a second phase with an additional 260 MW of capacity, bringing the project’s planned total capacity to 300 MW.",
+      "content_url": "https://w.media/sc-capital-and-neoai-cloud-partner-on-south-korea-ai-data-center-project/"
+    },
+    {
+      "id": "2026-10-20-6308e5",
+      "title": "With Ecosystem and Supply Secured, 'China's Broadcom' Faces the 100,000-GPU Cluster Test",
+      "summary": "当AI大模型从万卡集群向十万卡级规模演进，算力的瓶颈早已不再是单卡的计算能力，而是节点之间高速、稳定、低延时的互连能力。作为算力网络的“交通骨架”，高性能互连芯片正从幕后走向产业舞台中央。",
+      "why_it_matters": "",
+      "score": 68,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "networking",
+        "gpu"
+      ],
+      "published_at": "2026-10-19T09:17:07Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "中国IDC圈",
+          "url": "https://news.idcquan.com/news/208355.shtml",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Broadcom"
+      ],
+      "title_zh": "生态成局供货稳，\"中国博通\"直面十万卡集群大考",
+      "content": "当AI大模型从万卡集群向十万卡级规模演进，算力的瓶颈早已不再是单卡的计算能力，而是节点之间高速、稳定、低延时的互连能力。作为算力网络的“交通骨架”，高性能互连芯片正从幕后走向产业舞台中央。\n\n10月15日，在无锡举行的“数涌智现·互连未来”众星微品牌及全栈产品发布会上，发布了12款量产产品与系统核心IP，同时重磅发布了 PCIe 6.0 Switch 、800G多协议AI NIC、多模RAID芯片三款新产品。\n\n会议期间，无锡众星微系统技术有限公司总经理郭二辉、众星微副总经理兼总工程师宁佐林、众星微副总经理兼产品市场部总经理于颢三位高管，从技术、市场、生态多个维度，拆解了AI时代互连芯片的产业逻辑，也勾勒出国产互连芯片从追赶到并跑的突围路径。\n\n### 一、范式重构：面向十万卡AI集群\n\n800G多协议AI NIC是本次发布的核心产品，在宁佐林看来，这款产品早已超越了单纯的速率升级，而是针对AI集群场景完成了范式级的重构。\n\n相比上一代400G产品，800G带宽实现翻倍，更关键的是两大定制化突破：其一针对AI集群的通信特性，在芯片中硬化了拥塞控制、多路径调度、选择性重传等功能，解决大规模节点互算时的突发性高带宽数据通路需求，甚至针对国内头部大客户的专属协议完成了定制化开发。\n\n其二是原生集成PCIe 6.0 Switch，这也是众星微在国内最具差异化的技术优势。集成化设计不仅减少了一颗独立芯片，优化了整板级BOM成本，更显著降低了链路插损、提升了信号质量，同时提高了系统集成度、缩短了传输延时。\n\n作为硬件系统的“交通十字路口”，PCIe Switch是CPU、GPU、硬盘、网卡等部件之间通信的核心枢纽。随着AI服务器架构演进，单台8卡通用服务器通常需要4颗PCIe Switch，而进入超节点时代后，单个超节点的用量可达几十甚至上百颗，市场需求呈指数级增长。\n\n众星微本次发布的PCIe 6.0 Switch，性能指标已达到国际先进水准，填补了国内高端PCIe交换芯片的空白，也为国产AI算力基建提供了核心支撑。\n\n### 二、国产替代加速：从“可用”到“好用”的平替跃迁\n\n国产互连芯片的崛起，始于客户真实痛点的倒逼。郭二辉分享了一个典型案例：某互联网头部客户的存储机柜长期依赖国外厂商的定制化HBA卡与Expander芯片，但海外厂商响应慢、定制化能力不足，合作过程始终磕磕绊绊。\n\n众星微原本没有对应产品线，但基于客户需求快速启动定制开发，依托自有Expander技术协助客户完成扩展板设计，最终产品在性能、稳定性上完全实现进口替代，更凭借本地化服务能力实现了海外厂商无法比拟的响应速度。\n\n这一案例正是国产互连芯片替代进程的缩影。郭二辉透露，截至目前，众星微互连芯片累计出货量已突破80万颗，2024年出货约5万颗，2025年增长至40万颗，2026年预计突破100万颗。这些数字背后，是一次次设计、流片、验证和产品迭代，也是客户与产业伙伴给予我们的信任。\n\n政策层面，去年相关部委发布国产RAID芯片与RAID卡支持政策，国央企层面率先启动国产化替代；商业端则出于供应链安全考虑，主动将国产芯片纳入供应链体系，已有两家重要客户将众星微RAID卡列为首选。\n\n在郭二辉看来，当前国产互连芯片正处于替代加速的初期阶段，未来将呈现幂律式增长而非线性提升。这种加速一方面来自政策支持的持续加码，另一方面则源于国产产品自身能力的不断突破。\n\n当产品从“能用”走向“好用”，从单点替代走向全场景覆盖，客户的接受度会快速提升，进而推动整个产业的国产化率进入陡峭的上升通道。\n\n### 三、算力释放的瓶颈：互连效率成核心竞争指标\n\n当AI集群规模从万卡迈向十万卡级，互连技术的挑战早已不只是速率。宁佐林认为，下一代互连的核心目标，是降低每Token的经济成本，真正让算力得到充分释放。\n\n他用高速公路网络类比：5个城市的高速路网与10个城市相比，复杂度并非线性提升而是指数级增长，单点拥塞就可能引发全域拥堵。大规模AI集群同样如此，拥塞控制与路由调度，是决定整个网络效率的核心难题。\n\n除此之外，工程实现层面的挑战同样严峻。宁佐林透露，下一代交换芯片的功耗将达到2000瓦左右，相当于一台家用电磁炉的功率，在方寸芯片上解决散热问题是极大的工程考验。\n\n事实上，当前大规模AI集群的实际算力释放率普遍不足50%，表现较好的也仅能达到60%-70%，剩余的算力都损耗在互连环节的延迟、拥塞与调度低效中，这正是互连技术需要突破的核心空间。\n\n客户选型指标的变化，也印证了互连价值重心的转移。宁佐林指出，当前客户选择互连产品时，核心关注三大指标：面效比、延时与功耗。\n\n面效比决定了单平面可承载的算力卡数量，网络层数增加会导致成本指数级上升；延时则直接影响计算效率，若路径延时超过计算延时，就会出现计算节点空等的情况；而功耗的核心是局部过热风险，芯片局部温度可达90-100℃，是工程设计的致命挑战。 不同行业客户的需求侧重点也存在显著分化。\n\n于颢介绍，运营商作为第二大应用市场，对功耗要求很高，因为每一点功耗增量最终都会转化为运营成本；金融客户对数据安全要求极高，对产品质量、测试验证与落地案例的审核极为严苛；互联网厂商则系统能力最强，会从硬件到软件层定义细分场景，比如PD分离架构、存算一体等，对互连芯片的场景适配能力提出了更高要求。\n\n### 四、全栈与生态：构建长期竞争力的底层逻辑\n\n在行业普遍选择单点突破的背景下，众星微选择了全栈多品类的布局路线。郭二辉解释，这一策略首先是为客户创造价值：全场景产品可以省去跨厂商适配的时间，避免不同品牌产品对接时的兼容性问题，帮助客户大幅缩短系统部署与开发周期；同时，单一厂商负责全链路产品，也能避免跨厂商排障时的责任推诿，从底层解决技术对接难题，为客户提供一站式的问题解决方案。\n\n全栈布局在内部也形成了显著的协同效应。郭二辉表示，多产品线共享底层IP，比如PCIe Switch控制器同时应用于RAID卡、PCIe Switch与网卡产品，一次充分验证后即可跨产品复用，不仅节省了研发人力、成本与时间，更保障了技术一致性与产品质量。尽管多项目并行对人力资源提出了更高要求，但整体研发效益反而高于单点布局，这也是众星微坚持全栈路线的核心原因。\n\n生态建设则是互连芯片企业的必修课。郭二辉形容互连芯片厂商是“一家托两头”，一头连着CPU、GPU，一头连着硬盘、网卡等外设，两端都要完成适配才能正常工作。海外厂商凭借数十年的产业积累，新产品推出后上下游会主动适配；而国产厂商则需要主动去适配生态。\n\n众星微摸索出了协议分析、抓包排错的自主适配方法，随着80万颗产品的落地验证，越来越多国产上下游伙伴主动加入生态，“破壁无界，协同演进”的生态格局正在形成。\n\n支撑全栈布局与生态建设的，是众星微分布式的研发体系。郭二辉介绍，公司在全国布局8个研发中心，各中心人数从60余人到200余人不等，采用跨地域拉通的项目组织模式，比如一个前端设计项目会同时集结无锡、西安、深圳三地的工程师。依托“星云”研发管理体系，团队覆盖了从网络仿真、架构设计、软硬件开发到工程量产的全链条技术，形成了完整的技术闭环。\n\n### 五、长期主义：穿越周期的技术布局与产业判断\n\n面向未来，光互连是行业公认的下一代技术方向，众星微也已提前布局。郭二辉表示，公司当前重点推进电芯片层面的研发，同时以多元化合作模式联动上下游伙伴，覆盖驱动、解调、光芯片、电芯片等环节，既有能量产的合作伙伴，也有研究型机构，共同推进112G到224G、448G的技术演进。\n\n量产节奏上，112G已实现落地，224G处于突破阶段，448G将是未来大规模应用的节点。宁佐林进一步补充，众星微坚持有所为有所不为，核心电芯片由自己研发，光模块环节则与业界伙伴合作，不会涉足薄膜铌酸锂、硅基微环等光芯片技术路线的选择。\n\n面向未来算力硬件多元化格局，众星微在互连产品形态上同步兼容 CPU 与 NPU 两类算力载体，从国内产业现状来看，适配 NPU 集群的互连方案落地节奏相对更快、更具现实性。这种开放协作的思路，也与公司“不做一家独大”的生态理念一脉相承。\n\n针对近期市场热议的“算力泡沫论”，三位专家也给出了理性判断。郭二辉认为，这一轮AI浪潮对千行百业的变革是真实且正在发生的，从芯片设计、飞机汽车研发到农业、工业，AI都在实实在在地赋能产业，资本市场的短期波动不代表产业基本面。\n\n于颢也表示，国内大模型厂商普遍存在算力缺口，AI基建仍有很大发展空间，所谓泡沫更多是二级市场概念股的结构性波动，与实体产业的真实需求并不匹配。 对于未来的战略重心，郭二辉明确表示，智算互连是下一阶段的核心投入方向，覆盖下一代网卡以及Scale in、Scale up、Scale out全场景交换机。\n\n市场层面，国内市场的国产替代率将持续提升；同时随着中国算力产业出海，众星微也在推进互连芯片的海外布局，跟随整机与系统厂商共同出海，从部件层面参与全球市场竞争，让国产互连芯片走向更广阔的全球市场。\n\n从800G网卡的范式突破，到全栈产品的体系化布局，再到生态共建与出海布局，众星微的成长路径，正是中国高性能互连芯片产业崛起的缩影。在AI算力重构全球产业格局的当下，互连芯片作为算力网络的核心骨架，其重要性愈发凸显。\n\n凭借技术深耕、本地化服务与全栈生态的协同优势，国产互连芯片正在从“替代者”向“共建者”转变，不仅支撑国内AI产业的自主可控，更有望在全球算力产业中占据一席之地。这场关于算力效率的竞赛才刚刚开始，坚持长期主义的技术深耕者，终将穿越周期，收获产业增长的红利。",
+      "content_url": "https://news.idcquan.com/news/208355.shtml"
+    },
+    {
+      "id": "2026-10-20-a1ba99",
+      "title": "Batam outage not linked to data center testing: PLN Batam",
+      "summary": "Batam and Bintan’s widespread outage last Monday was not due to the operational testing of a data center, according to President Director of PT PLN Batam Kwin Fo as quoted by a local daily. “The widespread blackout that occurred on Monday (12/10) on Batam and Bintan islands had nothing to do with a data center. The […]",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 2,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "outage",
+        "indonesia"
+      ],
+      "published_at": "2026-10-19T08:32:10Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/batam-outage-not-linked-to-data-center-testing-pln-batam/",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/batam-power-outage-not-linked-to-data-center-testing-pln-batam/135047965",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "PLN Batam"
+      ],
+      "title_zh": "PLN Batam：巴淡岛大范围停电与数据中心测试无关",
+      "content": "Batam and Bintan’s widespread outage last Monday was not due to the operational testing of a data center, according to President Director of PT PLN Batam Kwin Fo as quoted by a local daily.\n\n“The widespread blackout that occurred on Monday (12/10) on Batam and Bintan islands had nothing to do with a data center. The information that there is testing or commissioning for data center operations, and it requires a lot of power, is not true at all,” Kwin reportedly told reporters in Batam yesterday, after news that the outage was linked to a data center testing was widely circulated in the community.\n\nHe added that the data center in question is still under development and is not expected to be fully operational in the near future. And if it does start operating, the operational capacity would not exceed 10 per cent of the total capacity of the data center, Kwin said. The data center was not named.\n\nPLN Batam is Batam’s electricity utility, a subsidiary of Indonesia’s state-owned electricity company, PT PLN (Persero). Its full name is PT Pelayanan Listrik Nasional Batam; and it supplies electricity in Batam and surrounding areas.\n\nKwin Fo emphasized that Batam’s long-term electricity supply for data centers has been catered for in PLN Batam’s planning.\n\n“We do not have a deficit or a shortage of supply. Our power reserves are still around almost 20 percent. Batam’s electricity load is targeted to increase from around 930 MW to more than 1,000 MW. Therefore, we estimate that by the end of 2027, the supply capacity will reach 1,200 to 1,300 MW,” he said.\n\nCurrently, Batam’s electricity system has a supply capacity of 930MW, with a load of around 780 MW. Thus, the power reserve is still around 20 percent.\n\nThe growth of electricity demand in Batam has exceeded 15 per cent, much higher than the 3-4 per cent growth of national electricity consumption. “We estimate that in the 2027-2032 range, the load will increase by around 300-400 MW. There is a growth of about 30 percent. To meet the demand, PLN Batam is taking steps to add additional power such as building a new Gas Power Plant (PLTG) and a new Solar Power Plant (PLTS),” he said.\n\nAdditionally, PLN Batam plans to use a Battery Energy Storage System (BESS) or a battery-based energy storage system to support Batam-Bintan electricity. It takes only nnoseconds or milliseconds for the battery to release power which is much faster than a conventional plant such as coal-fired steam power plants (PLTU), Kwin Fo added.",
+      "content_url": "https://w.media/batam-outage-not-linked-to-data-center-testing-pln-batam/"
+    },
+    {
+      "id": "2026-10-20-d761ba",
+      "title": "AI Infrastructure Boom Faces Data Center Financing Risks",
+      "summary": "Goldman Sachs highlights growing financing risks in the expanding artificial intelligence (AI) infrastructure sector, particularly concerning data centre bonds. Investors should assess individual projects for potential risks before investing, amidst rising demand for computing capacity.",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "finance",
+        "risk"
+      ],
+      "published_at": "2026-10-19T07:40:24Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/ai-infra-boom-faces-data-center-financing-risks/135043229",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Goldman Sachs"
+      ],
+      "title_zh": "AI基础设施热潮面临数据中心融资风险",
+      "content": "Goldman Sachs research indicates increasing concerns about financing artificial intelligence (AI) infrastructure, questioning whether credit markets can sustain the massive investments required for data centres.High-yield bonds issued by data centre companies are facing pressure as investors evaluate the risks of rapid AI infrastructure expansion, the report stated.Amanda Lynam from Goldman Sachs' credit research team emphasised that investors must examine construction risks, loan repayment ability, refinancing requirements, and claims against tenants when assessing data centre projects.She also cited power availability, regulatory approvals, and insurance as crucial factors affecting project viability.The report stressed that financial risks need individual project-level assessment, rather than assuming all AI infrastructure investments carry similar risks.This individual assessment approach is also vital for equity investors as companies across sectors increase their exposure to data centres, potentially taking on higher investment risks.The report mentioned Spanish renewable energy company Solaria's data centre deal in Uruguay as an example of the link between energy firms and data centre infrastructure.Goldman Sachs analyst Alberto Gandolfi believes the risks associated with the Solaria deal are skewed to the upside, with further announcements possible at its capital markets day in November.\n\n- Investments & Deals\n- 1 min Read\n\n# AI infra boom faces data center financing risks\n\nGoldman Sachs highlights growing financing risks in the expanding artificial intelligence (AI) infrastructure sector, particularly concerning data centre bonds. Investors should assess individual projects for potential risks before investing, amidst rising demand for computing capacity.\n\n- Published On Oct 19, 2026 at 01:10 PM IST\n\n## Highlights\n\n- Goldman Sachs highlights financing risks in AI infrastructure and data centre bonds.\n- High-yield data centre bonds face pressure as investors assess expansion risks.\n- Investors must evaluate individual projects for construction, repayment, and regulatory risks.\n- Power availability and insurance are critical factors for project viability.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/ai-infra-boom-faces-data-center-financing-risks/135043229"
+    },
+    {
+      "id": "2026-10-20-497328",
+      "title": "AMD unveils open Helion rack for agentic AI workloads",
+      "summary": "AMD has introduced Helion, an open rack blueprint designed for agentic AI workloads, featuring flexible CPU and GPU configurations and open software. The design targets hyperscalers and enterprises seeking lower-cost infrastructure for autonomous AI agents.",
+      "why_it_matters": "An open rack standard challenges proprietary AI infrastructure designs and could lower entry costs for operators building agentic AI capacity, intensifying competition in the data centre hardware layer.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "hyperscale",
+        "hardware"
+      ],
+      "published_at": "2026-10-19T04:03:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/amd-unveils-open-helion-rack-for-agentic-ai-workloads",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "AMD"
+      ],
+      "title_zh": "AMD发布面向agentic AI负载的开放式Helion机架",
+      "summary_zh": "AMD 发布了面向 agentic AI 工作负载的开放式机架蓝图 Helion，采用灵活的 CPU 与 GPU 配置及开放软件。该设计面向寻求以更低成本运行自主 AI 智能体基础设施的 hyperscaler 与企业。",
+      "why_zh": "开放机架标准对专有 AI 基础设施设计构成挑战，可降低运营商建设 agentic AI 产能的准入成本，加剧数据中心硬件层的竞争。",
+      "content": "Mon, 19th Oct 2026 (Yesterday)\nAMD has introduced the Helion agentic AI rack, describing it as an open blueprint for rack-scale AI infrastructure based on an Open Compute Project design.\n\nThe launch extends AMD's rack-scale AI strategy beyond its existing Helios platform and targets workloads tied to so-called agentic AI, in which software agents carry out tasks such as code execution, workflow management and enterprise automation.\n\nHelion is designed to let customers choose between CPU-only systems and mixed CPU-GPU systems, depending on the AI work being run. The blueprint supports both liquid-cooled and air-cooled configurations and is intended to work with open software.\n\nOne version of the rack uses 6th Gen AMD EPYC processors and supports up to 32,768 CPU cores. That setup is aimed at hyperscale users seeking dedicated capacity for agent execution while linking to separate model inference systems.\n\nAnother version combines EPYC CPU nodes, Instinct MI350P GPU nodes and general-purpose compute in a single rack. AMD said the design is intended for enterprise users who want one platform for different agentic AI tasks.\n\nAt the centre of the pitch is AMD's argument that agentic AI will not run as a single standard workload. Instead, the company is positioning Helion as infrastructure that can be tuned for different mixes of processing, power use and cost, while fitting into existing IT environments.\n\nDan McNamara, Senior Vice President and General Manager, Compute and Enterprise AI, AMD, said the company sees a need for a broader set of infrastructure choices as AI deployments become more varied.\n\n\"Agentic AI is not a single workload. It spans personal agents, enterprise applications, code execution and complex workflows, each with different compute requirements,\" said Dan McNamara, Senior Vice President and General Manager, Compute and Enterprise AI, AMD.\n\n\"To do that takes optimized compute and infrastructure that can adapt to different workloads. With AMD Helion, we are bringing AMD EPYC performance, open software and flexible rack designs together so our partners can build systems around customer needs and make efficient use of available power,\" McNamara said.\n\n### Open design\n\nAMD plans to contribute the Helion specification to the Open Compute Project, placing the architecture into a wider industry effort around shared data centre hardware designs. That mirrors its message that AI infrastructure should be developed through a more open hardware and software ecosystem rather than tightly controlled proprietary stacks.\n\nHelion also includes an integrated token router intended to direct model calls from agents across frontier and open-source models. This points to a model in which customers may not rely on a single provider, but instead route workloads according to task, cost or other operational requirements.\n\nSupport statements from server makers and infrastructure suppliers suggest AMD is trying to build a broad manufacturing and integration network around the design. Comments came from Cisco, Dell, Hon Hai Technology Group, HPE, Lenovo, QCT, Supermicro and Wiwynn.\n\nJeremy Foster, Senior Vice President and General Manager, Cisco Compute, said: \"Agentic AI is changing what customers need from their infrastructure. It's not just about compute performance, but how the entire system is connected, managed and secured. Architectures like AMD Helion, combined with Cisco's full-stack infrastructure capabilities, can give customers greater flexibility to deploy, operate and scale agentic workloads into their environments as their needs evolve.\"\n\nDell also framed the launch around customer choice and validation. \"Dell PowerRack gives customers choice without compromise, and our support for AMD Helion Agentic Rack Reference Design extends that promise to the next generation of agentic AI. By combining AMD's rack-scale architecture with Dell's proven engineering expertise, along with the flexibility to extend deployments with Dell PowerRack for Networking and Storage, we're giving customers a complete, validated path to deploy agentic compute at scale with the manageability and reliability they expect from Dell,\" said Arun Narayanan, Senior Vice President, Compute and Networking, Dell Technologies.\n\n### Broader push\n\nThe announcement comes as AMD seeks to widen its role in AI infrastructure beyond selling individual processors and accelerators. In related remarks on its rack-scale portfolio, AMD said Helios is moving into production, with customer deliveries, deployments and workload validation under way, and early systems running at OpenAI, Meta, Microsoft and Oracle.\n\nThat matters because it shows AMD trying to compete at the level of complete systems design as AI buyers increasingly focus on power, cooling, integration and model orchestration alongside chip performance.\n\nFor hardware partners, Helion offers a reference design that can be adapted for different customer environments. For enterprise and hyperscale users, AMD is presenting it as a way to deploy agentic AI using existing infrastructure investments while adjusting the mix of CPUs and GPUs to suit particular tasks.\n\n\"AMD Helion provides an open, flexible foundation for agentic AI infrastructure. Wiwynn is excited to collaborate with AMD, bringing our expertise in rack-level integration and advanced cooling to help hyperscaler customers tailor systems that meet the demanding workloads, power requirements, and data center environments of the agentic AI era,\" said William Lin, President and CEO, Wiwynn.",
+      "content_url": "https://datacenternews.asia/story/amd-unveils-open-helion-rack-for-agentic-ai-workloads"
+    },
+    {
+      "id": "2026-10-20-631ccb",
+      "title": "AirTrunk Recognised as a GRESB Sector Leader",
+      "summary": "AirTrunk has achieved a score of 100 out of 100 in the 2026 GRESB Infrastructure Asset Assessment. We also received Sector Leader status as Infrastructure Asset Class Leader and Infrastructure Asset Super Class Leaders. The post AirTrunk recognised as a GRESB Sector Leader appeared first on AirTrunk .",
+      "why_it_matters": "",
+      "score": 48,
+      "heat": 1,
+      "regions": [
+        "australia",
+        "japan",
+        "southeast-asia"
+      ],
+      "topics": [
+        "sustainability",
+        "esg",
+        "hyperscale",
+        "colocation"
+      ],
+      "published_at": "2026-10-19T03:10:11Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AirTrunk (official)",
+          "url": "https://airtrunk.com/airtrunk-recognised-as-a-gresb-sector-leader/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "AirTrunk"
+      ],
+      "title_zh": "AirTrunk获评GRESB行业领导者",
+      "content": "AirTrunk has achieved a score of 100 out of 100 in the 2026 GRESB Infrastructure Asset Assessment.\n\nWe also received Sector Leader status as Infrastructure Asset Class Leader and Infrastructure Asset Super Class Leaders.\n\nGRESB is a global benchmark that assesses and compares the sustainability performance of infrastructure assets. Its assessment gives investors and operators a consistent framework for understanding performance and benchmarking it against peers.\n\nThe result recognises the progress we’re making to integrate sustainability across our business, from the way we design and operate our data centres to how we manage climate and nature-related impacts.\n\n“We’re pleased to have achieved a score of 100 out of 100 in the GRESB Infrastructure Asset Assessment,” Carly Wishart, Managing Director, Corporate and International said.\n\n“This achievement recognises the work of our teams and the progress we’re making against our sustainability commitments. We’ll continue working with our customers, communities and other stakeholders to continuously improve our substantiality and climate outcomes.”\n\nWe know there is always more work to do, and we are grateful to our teams across the business whose hard work has contributed to this result.",
+      "content_url": "https://airtrunk.com/airtrunk-recognised-as-a-gresb-sector-leader/"
+    },
+    {
+      "id": "2026-10-20-83d2f0",
+      "title": "Samsung to use TSMC tech for Nvidia's next-generation memory chips, says Seoul newspaper",
+      "summary": "Samsung will use TSMC manufacturing technology for Nvidia's next-generation memory chips, according to a Seoul newspaper report. The arrangement marks the first time Samsung and TSMC have collaborated at the manufacturing stage.",
+      "why_it_matters": "Cross-foundry cooperation between the two largest contract chipmakers signals how Nvidia's supply demands are reshaping industry rivalries, with implications for memory pricing and advanced packaging capacity across the AI supply chain.",
+      "score": 72,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "semiconductors"
+      ],
+      "published_at": "2026-10-18T13:32:02Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/samsung-use-tsmc-tech-nvidias-next-generation-memory-chips-says-seoul-newspaper",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Samsung",
+        "TSMC",
+        "NVIDIA"
+      ],
+      "title_zh": "首尔报纸称三星将采用TSMC技术为Nvidia生产下一代内存芯片",
+      "summary_zh": "据首尔一家报纸报道，三星（Samsung）将采用台积电（TSMC）的制造技术为英伟达（Nvidia）生产下一代存储芯片。这是两家公司在制造环节的首次合作。",
+      "why_zh": "两大代工厂之间的跨界合作表明英伟达的供应需求正在重塑行业竞争格局，对整个 AI 供应链的存储芯片定价和先进封装产能均有影响。",
+      "content": "The move marks the first time the two companies have worked together at the manufacturing stage\n\n\\[SEOUL\\] Samsung Electronics will use TSMC’s 3-nanometre process to produce base dies for Nvidia’s next-generation custom high-bandwidth memory (HBM) chips, the *Seoul Economic Daily* reported on Sunday (Oct 18).\n\nThe move would mark the first time Samsung has worked with the Taiwanese contract chipmaker at the HBM manufacturing stage, according to the report.\n\nNvidia has asked Samsung, SK Hynix and Micron Technology to use TSMC’s process for Nvidia HBM (NVHBM) base dies, and sixth-generation Dram technology for its core dies, the newspaper said, citing industry sources.\n\nNVHBM, unveiled in August, integrates Nvidia’s custom memory controller into the base die and is aimed at standardising implementation across multiple memory suppliers, said the company.\n\nSamsung accepted Nvidia’s requirements after an internal review, but plans to retain its in-house production model for standard HBM and custom products for other customers, *Seoul Economic Daily* said.\n\nIt is also assessing whether its foundry could produce NVHBM base dies if demand exceeds TSMC’s capacity, the newspaper quoted an unnamed source as saying. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/international/samsung-use-tsmc-tech-nvidias-next-generation-memory-chips-says-seoul-newspaper"
+    }
+  ]
+}
