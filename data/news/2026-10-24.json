@@ -1,0 +1,627 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T06:00:31Z",
+  "hot": [
+    "2026-10-24-2ffb17",
+    "2026-10-24-3c1481",
+    "2026-10-24-70dbb0",
+    "2026-10-24-b676f3",
+    "2026-10-24-16ad7b"
+  ],
+  "stories": [
+    {
+      "id": "2026-10-24-70dbb0",
+      "title": "AI workloads reshape data centre power efficiency",
+      "summary": "Artificial intelligence (AI) workloads are driving a re-evaluation of data centre power design, shifting focus from peak efficiency to flat-load performance. Traditional low-voltage architectures struggle with the dynamic and high-density demands of GPU clusters.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-24T02:26:17Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/ai-workloads-reshape-data-centre-power-efficiency/135160066",
+          "type": "rss"
+        }
+      ],
+      "content": "Artificial intelligence (AI) workloads are forcing data centres to reconsider long-standing assumptions about power delivery and efficiency. The deployment of large GPU clusters, such as NVIDIA’s 72-GPU Vera Rubin model, is increasing rack power densities from tens to hundreds of kilowatts, with some designs projected to exceed one megawatt per rack.These AI workloads behave differently from conventional applications, causing rapid utilization fluctuations from approximately 30 per cent to full in milliseconds during training cycles. This dynamic behaviour challenges traditional power architectures optimized for stable workloads.\n### Rethinking Power Efficiency\n\nHistorically, power conversion systems focused on peak efficiency, or the maximum efficiency achieved at a specific operating point. However, AI workloads rarely operate in a steady-state, spending more time at partial loads where efficiency often declines.Even a one- or two-percentage-point drop in efficiency can lead to substantial energy losses across hundreds or thousands of GPU racks. This inefficiency increases heat generation, cooling requirements, and operational costs.\n### High-Voltage Distribution and Flat-Load Efficiency\n\nTraditional 48-54V DC busbar architectures struggle to scale with increasing rack power requirements. Lower voltages demand higher currents for the same power, leading to resistive losses, larger cabling needs, and increased material costs, such as 200 kilograms of copper for a 1MW rack.Data centre operators are now considering two strategies: adopting higher-voltage power distribution architectures, such as ±400V or 800V DC models, and maintaining flatter efficiency profiles across the full operating range. Higher voltages reduce current, copper requirements, and resistive losses, supporting greater rack densities.Flat-load efficiency ensures consistently high performance across the fluctuating load ranges typical of AI workloads. This approach helps reduce energy losses, lower heat generation, and improve the predictability and scalability of power systems. Philip Zuk, senior vice president and general manager, AI and Datacenter, with OmniOn Power, states that these combined approaches help design power systems for how AI actually behaves.\n\n- AI & Compute Infrastructure\n- 2 min Read\n\n# AI workloads reshape data centre power efficiency\n\nArtificial intelligence (AI) workloads are driving a re-evaluation of data centre power design, shifting focus from peak efficiency to flat-load performance. Traditional low-voltage architectures struggle with the dynamic and high-density demands of GPU clusters.\n\n- Published On Oct 24, 2026 at 07:56 AM IST\n\n## Highlights\n\n- AI workloads cause rapid power fluctuations, challenging traditional data centre designs.\n- Rack power densities are increasing to hundreds of kilowatts, exceeding traditional infrastructure limits.\n- Peak efficiency metrics are misleading for AI, which operates more often at partial, less efficient loads.\n- Data centres are adopting 800V DC distribution and flat-load efficiency for AI power delivery.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/ai-workloads-reshape-data-centre-power-efficiency/135160066"
+    },
+    {
+      "id": "2026-10-24-b676f3",
+      "title": "NextDC faces A$140m revenue cut from M3 power delays",
+      "summary": "NextDC revised its FY27 guidance, removing A$140 million in net revenue and underlying EBITDA, due to power supply suspension at its M3 data centre in West Footscray. Electricity distributor Jemena halted works on the 66kV network, not expecting restart before February 2027.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-24T02:26:08Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/construction-site-development/nextdc-faces-a140m-revenue-cut-from-m3-power-delays/135160062",
+          "type": "rss"
+        }
+      ],
+      "content": "Shares in NextDC closed down 41.7 per cent at A$5.35 after the company informed the ASX about power supply issues at its M3 data centre in West Footscray.Electricity distributor Jemena suspended parts of the 66kV network works required to increase grid supply to the facility. Jemena does not anticipate restarting these works before February 2027, pushing the next supply increase into FY28.NextDC Chief Executive Craig Scroggie stated that Jemena had \"suspended parts of the network works\" for the next step up in M3's supply. Consequently, NextDC removed affected M3 customer contracts, valued at approximately A$140 million in both net revenue and underlying EBITDA, from its FY27 guidance.Underlying EBITDA guidance fell by around 36 per cent to A$245 million to A$265 million, from a previous A$385 million to A$410 million. Net revenue guidance was reduced to A$475 million to A$500 million, from A$615 million to A$640 million.The company also trimmed capital expenditure guidance to A$4.5 billion to A$5 billion, down from A$5.25 billion to A$5.75 billion. All new development projects and land acquisitions have been put on hold. The revised capex range includes approximately A$230 million of capitalised interest not in the prior guidance.Jemena attributed the suspension to safety concerns and a lack of access to work sites, according to NextDC. This was caused by community and stakeholder opposition, with the local council, as road authority, withholding consent for further consultation.The works involved replacing power poles in Yarraville and West Footscray with larger poles to carry 66kV lines. In September, residents reportedly blocked Jemena crews by obstructing access with cars and bins. M3, which has operated since 2022, is located about 15 metres from homes and has faced local opposition over diesel and noise pollution.This incident shifts community opposition to data centres from a planning or permitting issue to a balance-sheet risk. NextDC indicated that affected contracts include provisions for service-level credits for late or unpowered capacity, and in some cases, customer termination rights.The company is reviewing whether force majeure or other contractual provisions offer relief. Its revised guidance even excludes capacity already billing, as existing grid supply cannot reliably support the full contracted power ramp. NextDC also warned that a material change to expected customer billing could impact its ability to draw down its A$6.7 billion of undrawn senior debt while adhering to covenants. It reported A$8.68 billion in liquidity at 30 September and confirmed compliance with financial covenants.Reuters Breakingviews highlighted delay clauses in data centre contracts that can allow customer cancellation if completion exceeds 12 months. Oracle has already issued a force majeure notice for power delays at its Project Jupiter campus in New Mexico, deferring rent if the site misses its 2028 start.Community opposition to data centres, previously seen as a US phenomenon, is spreading to other markets. Europe faces similar challenges, with Finland ordering Google to halt construction at two data centres due to forest clearing. At a Capacity Europe roundtable, 70 per cent of infrastructure leaders anticipate grid connections taking over 18 months.In Canada, EverWind proposes a data centre at Point Tupper, Nova Scotia, for Anthropic, with a 95MW first phase. A petition against it garnered over 18,000 signatures within a week. Oakville, Ontario, has imposed the province's first data centre moratorium, focusing on who bears the cost of grid upgrades. The NextDC episode prompts developers to secure social licence for grid works as carefully as power capacity itself.\n\n- Construction & Site Development\n- 3 min Read\n\n# NextDC faces A$140m revenue cut from M3 power delays\n\nNextDC revised its FY27 guidance, removing A$140 million in net revenue and underlying EBITDA, due to power supply suspension at its M3 data centre in West Footscray. Electricity distributor Jemena halted works on the 66kV network, not expecting restart before February 2027.\n\n- Published On Oct 24, 2026 at 07:56 AM IST\n\n## Highlights\n\n- NextDC cut FY27 revenue guidance by A$140m due to power supply suspension at its M3 data centre.\n- Electricity distributor Jemena halted 66kV network works until February 2027 amid community opposition.\n- The company trimmed capex guidance to A$4.5bn-A$5bn and paused new development projects.\n- Community opposition is turning data centre planning risks into balance-sheet risks globally.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/construction-site-development/nextdc-faces-a140m-revenue-cut-from-m3-power-delays/135160062"
+    },
+    {
+      "id": "2026-10-24-16ad7b",
+      "title": "Investors prioritise stable returns in data centre development",
+      "summary": "Institutional investors are increasingly selective in digital infrastructure, prioritising reliable and risk-adjusted returns over pure demand, according to a panel at Capacity Europe 2026. This shift comes amid higher borrowing costs and evolving AI infrastructure financing.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-24T02:26:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/investors-prioritise-stable-returns-in-data-centre-development/135160057",
+          "type": "rss"
+        }
+      ],
+      "content": "Institutional investors are becoming more selective in data centre development, prioritising reliable and risk-adjusted returns over simple demand, a panel at Capacity Europe 2026 highlighted.Cengiz Oztelcan, a TMT investor at Qatar Investment Authority (QIA), stated that demand is necessary but not sufficient for investment decisions. James Harraway, head of value creation, infrastructure at GLIL Infrastructure, emphasised a focus on \"stabilised assets\" in tier-one locations. GLIL Infrastructure avoids development and short-term commercial risks in its investments.Higher borrowing costs are increasing equity return expectations, favouring facilities with contracted revenues and established tenant demand. Power availability, land access, and tenant quality have become critical factors in underwriting decisions.Andriy Gostik from EBRD noted that opportunities are emerging in less mature digital infrastructure markets, particularly for data centre development. However, investors taking risks remain cautious about speculative projects, willing to take development risk without commercialisation risk.Gostik also observed an increase in colocation opportunities, but fewer hyperscale ones, except for AI-focused data centres. Data sovereignty is another structural demand driver, with governments and banks seeking local data storage, creating regional data centre opportunities. Both Gostik and Oztelcan warned that local demand alone may not justify significant capital expenditure for large-scale facilities.The financing landscape for data centres, neoclouds, and semiconductors is evolving, Oztelcan said. AI deployments often involve shorter terms and higher risk profiles compared to traditional hyperscale cloud contracts, Harraway added. This uncertainty demands a higher cost of capital and greater scrutiny of underlying customers from long-term infrastructure investors.\n\n- Investments & Deals\n- 1 min Read\n\n# Investors prioritise stable returns in data centre development\n\nInstitutional investors are increasingly selective in digital infrastructure, prioritising reliable and risk-adjusted returns over pure demand, according to a panel at Capacity Europe 2026. This shift comes amid higher borrowing costs and evolving AI infrastructure financing.\n\n- Published On Oct 24, 2026 at 07:56 AM IST\n\n## Highlights\n\n- Institutional investors prioritise reliable, risk-adjusted returns over pure demand.\n- Underwriting decisions now hinge on power availability, land access, and tenant quality.\n- Opportunities emerge in less mature markets, but speculative projects face caution.\n- AI deployments bring shorter contract terms and higher risk profiles for investors.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/investors-prioritise-stable-returns-in-data-centre-development/135160057"
+    },
+    {
+      "id": "2026-10-24-71f5ba",
+      "title": "Ireland grid rules to reshape data center power response",
+      "summary": "Ireland's proposed MPID345 grid code modification could require data centres to actively support grid stability. These new rules would fundamentally shift how large demand facilities interact with the national grid.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-24T02:25:53Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/ireland-grid-rules-to-reshape-data-center-power-response/135160053",
+          "type": "rss"
+        }
+      ],
+      "content": "Ireland's EirGrid has proposed the MPID345 grid code modification, which could require data centres to transition from passive consumers to active participants in grid stability, according to ABB's Lee Todd.This regulatory shift responds to data centres consuming approximately 24 per cent of Ireland's total electrical energy in 2024, a share projected to reach 30 per cent by 2032.\n### Key Requirements for Data Centres\n\nThe proposed MPID345 introduces three interlocking requirements for large demand facilities:\n- **Fault ride-through (FRT):** Facilities must remain electrically connected during voltage disturbances.\n- **Active power recovery (APR):** Requires restoration of at least 90 per cent of pre-fault demand within 500 milliseconds of voltage recovery to 0.9 per unit.\n- **Rate of change of frequency (RoCoF) robustness:** Facilities must withstand frequency changes up to ±1 Hz/s without disconnecting.\n\nHistorically, comparable requirements applied primarily to generators and other grid-connected assets, such as wind farms and battery storage systems. The adoption of MPID345 would extend generator-class grid code requirements to large demand facilities, fundamentally altering their expected interaction with the grid.Compliance will be assessed at the complete facility level, as seen at the regulated grid connection point. This means IT load, UPS systems, cooling, generators, and protection systems must all contribute to the active and reactive power trajectory during disturbances.APR is the most stringent requirement, demanding a level of coordination and responsiveness that exceeds conventional systems. This involves managing the aggregate recovery trajectory of all simultaneous processes, including UPS system recovery, battery recharging, and generator transfers.\n### Broader Regulatory Context\n\nMPID345 is part of Ireland’s wider Large Energy User Action Plan (LEAP), where new data centres must demonstrate how at least 80 per cent of their annual energy demand will be met by additional renewable electricity projects generating in Ireland. Grid access is increasingly conditional on active contributions to energy system resilience, not merely capacity availability.\n\n- Energy, Cooling & Sustainability\n- 2 min Read\n\n# Ireland grid rules to reshape data center power response\n\nIreland's proposed MPID345 grid code modification could require data centres to actively support grid stability. These new rules would fundamentally shift how large demand facilities interact with the national grid.\n\n- Published On Oct 24, 2026 at 07:55 AM IST\n\n## Highlights\n\n- Ireland's proposed MPID345 grid code requires data centres to actively support grid stability.\n- Data centres consumed 24 per cent of Ireland's power in 2024, projected to reach 30 per cent by 2032.\n- New rules mandate fault ride-through, active power recovery, and frequency robustness.\n- Compliance requires coordinated system-level behaviour, not just isolated component upgrades.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/ireland-grid-rules-to-reshape-data-center-power-response/135160053"
+    },
+    {
+      "id": "2026-10-24-a79c31",
+      "title": "Malaysia tightens data centre power, transmission requirements",
+      "summary": "Malaysia is increasing its requirements for data centres, particularly concerning power consumption, which operators have flagged as a major concern. Government ministers have proposed that data centre developers bear transmission upgrade costs and pay for unused committed electricity capacity.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-24T02:25:44Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/malaysia-tightens-data-centre-power-transmission-requirements/135160051",
+          "type": "rss"
+        }
+      ],
+      "content": "Data centre operators in Malaysia are facing stricter requirements, especially regarding power consumption, a seminar in Kuala Lumpur heard yesterday. Amid recent announcements, many operators have highlighted this as a primary concern for their operations.Government ministers recently proposed in Parliament that data centre developers should bear transmission upgrade costs and be charged for committed electricity capacity they do not use. Developers were also encouraged to generate their own electricity.Ir. Ts. Maxx Wong, Chief Technology Officer at YTL Data Centers, stated that power availability dictates site viability above all other metrics. He added that high-density AI data centres cannot operate without a highly reliable and scalable baseload power supply. Wong made these comments during a panel discussion at the Malaysia Cloud & Datacenter Convention 2026.National grids are experiencing severe bottlenecks due to unprecedented demand from rapid digital infrastructure developments. Wong suggested that the industry must invest in off-grid power infrastructure, captive power generation, and localised microgrid solutions to sustain data centre growth.He also highlighted that raw compute power is irrelevant without seamless data distribution. Wong noted that comprehensive fibre routing and base station networks are critical to bridging the gap between hyperscale campuses and end-user devices.Malaysia aims to become the largest data centre hub in Asia, excluding China, by 2030, driven by cloud and artificial intelligence (AI) adoption. Mehdi Paryavi, Chairman and Chief Executive Officer of the International Data Center Authority (IDCA), noted Malaysia's AI Readiness Index score of 73 against a global average of 57.Kevin Stevens, Head of Industry Practices at Chubb Asia Pacific, highlighted increasing concerns over contractual and liability aspects. These include physical security and cybersecurity risks for data centres, especially with growing reports of unauthorised AI agents in bank accounts. Stevens questioned the adequacy of liability insurance for data centres housing billions of dollars worth of third-party equipment.\n\n- Policy, Land & Power\n- 2 min Read\n\n# Malaysia tightens data centre power, transmission requirements\n\nMalaysia is increasing its requirements for data centres, particularly concerning power consumption, which operators have flagged as a major concern. Government ministers have proposed that data centre developers bear transmission upgrade costs and pay for unused committed electricity capacity.\n\n- Published On Oct 24, 2026 at 07:55 AM IST\n\n## Highlights\n\n- Malaysia tightens data centre power and transmission requirements.\n- Operators face proposals for transmission costs and charges on unused capacity.\n- Power availability is critical for AI data centres, says YTL Data Centers CTO.\n- Cybersecurity and liability risks are growing concerns for data centre insurance.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/malaysia-tightens-data-centre-power-transmission-requirements/135160051"
+    },
+    {
+      "id": "2026-10-24-1ae1ce",
+      "title": "Australia's AI data center boom faces power, local opposition hurdles",
+      "summary": "Over three-quarters of planned data centers in Sydney and Melbourne, representing A$100 billion in projected investment, are at risk from stretched power grids and local opposition. Only 23 per cent of these projects have publicly confirmed securing electricity supply or grid connections, indicating potential delays.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-24T02:25:36Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/australias-ai-data-center-boom-faces-power-local-opposition-hurdles/135160048",
+          "type": "rss"
+        }
+      ],
+      "content": "Australia’s ambition to become an artificial intelligence (AI) hub for the Asia Pacific region faces threats from stretched power grids and local opposition, according to a Bloomberg review. More than three-quarters of the 40-plus large data centers planned or under construction in Sydney and Melbourne face risks.These projects represent more than A$100 billion ($70 billion) of projected investment. However, only 23 per cent of these projects have publicly confirmed securing electricity supply or grid connections, Bloomberg reported.\n### Project Delays and Cancellations\n\nThe consequences of friction and delays are already apparent. Nextdc Ltd. cut its profit forecast after Melbourne residents blocked transmission line installations, almost halving the value of its shares. In Sydney, Goodman Group abandoned its A$1.2 billion Project Mars development last month. This proposed 90-megawatt facility would have been built near homes and a public school, prompting hundreds of objections.Official data also shows a gap between announced and built projects. Over a third of proposed data centers that would tap Australia’s main grid were cancelled last year, according to the Australian Energy Market Operator (AEMO). Australia has more than 20 gigawatts of capacity in announced and early-stage data center projects, compared to an operational fleet of just 1.5 gigawatts, BloombergNEF noted.\n### Grid Strain and Water Access\n\nSydney’s electricity grid is already struggling to accommodate the scale of the boom. Transgrid, which operates the statewide power network, stated in August that the city lacks transmission capacity to connect any of the 20 gigawatts of inquiries it has received from large new power users. Half of this proposed demand has emerged within a 12-kilometer radius of its Sydney West substation.AEMO projects Australia's data center electricity consumption could rise by a quarter each year to roughly 6 per cent by 2030, and 13 per cent by 2036. Access to water is another hurdle. Industry-commissioned analysis estimates Australian data centers use about 5.5 gigalitres of water annually for cooling. Local impacts could be far greater when projects are clustered together, including in growth corridors already facing drought stress.Residents near Nextdc’s facility in Melbourne complained about noise, pollution, and potential fire risks during a parliamentary inquiry last month. Bronwyn Cumbo, a researcher at the University of Technology Sydney, noted rising public resistance to AI data centers planned near homes and schools.\n\n- Energy, Cooling & Sustainability\n- 2 min Read\n\n# Australia's AI data center boom faces power, local opposition hurdles\n\nOver three-quarters of planned data centers in Sydney and Melbourne, representing A$100 billion in projected investment, are at risk from stretched power grids and local opposition. Only 23 per cent of these projects have publicly confirmed securing electricity supply or grid connections, indicating potential delays.\n\n- Published On Oct 24, 2026 at 07:55 AM IST\n\n## Highlights\n\n- Over 75 per cent of 40+ planned data centers in Sydney and Melbourne face grid and local opposition risks.\n- Only 23 per cent of these A$100 billion projects have confirmed power supply or grid connections.\n- Nextdc Ltd. slashed its profit forecast after residents blocked transmission lines for its Melbourne facility.\n- Goodman Group abandoned its A$1.2 billion Project Mars in Sydney due to local objections.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/australias-ai-data-center-boom-faces-power-local-opposition-hurdles/135160048"
+    },
+    {
+      "id": "2026-10-24-8f13c6",
+      "title": "Welspun Corp secures ₹5,500 crore US pipeline order for data centres",
+      "summary": "Welspun Corp has secured an order worth approximately ₹5,500 crore from a major US midstream company. This order involves supplying coated line pipes for a natural gas pipeline serving a data centre complex.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-24T02:25:29Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/welspun-corp-secures-5500-crore-us-pipeline-order-for-data-centres/135160043",
+          "type": "rss"
+        }
+      ],
+      "content": "Welspun Corp has secured an order worth approximately ₹5,500 crore from a major US midstream company, the company said in an exchange filing on Friday. This contract is for supplying coated line pipes for a natural gas pipeline project in the Permian region of the United States.The pipeline will supply gas to a data centre complex operated by one of the world's top-tier hyperscalers, according to the filing. Welspun Tubular LLC, the company's US subsidiary, won this order and will execute it from its US facility.Execution of the order is scheduled for the financial year 2028-29 (FY29). This development links Welspun's pipeline business to the growing demand for energy infrastructure supporting AI-led data centre expansion. The company did not disclose the customer's identity or the pipeline's capacity.This order takes Welspun Corp's global order book to a record $5.25 billion, which is around ₹50,000 crore. This marks the company's highest-ever order book.\n\n- Energy, Cooling & Sustainability\n- 1 min Read\n\n# Welspun Corp secures ₹5,500 crore US pipeline order for data centres\n\nWelspun Corp has secured an order worth approximately ₹5,500 crore from a major US midstream company. This order involves supplying coated line pipes for a natural gas pipeline serving a data centre complex.\n\n- Published On Oct 24, 2026 at 07:55 AM IST\n\n## Highlights\n\n- Welspun Corp secured a ₹5,500 crore order for US natural gas pipeline pipes.\n- The pipeline will supply gas to a data centre complex operated by a hyperscaler.\n- The order will be executed by Welspun Tubular LLC from its US facility in FY29.\n- This contract boosts Welspun's global order book to a record $5.25 billion.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/welspun-corp-secures-5500-crore-us-pipeline-order-for-data-centres/135160043"
+    },
+    {
+      "id": "2026-10-24-53e631",
+      "title": "New Libyan telecom firm to launch data center in 2027",
+      "summary": "Installation of the Medusa subsea cable also progresses in Benghazi",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-23T16:10:43Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/new-libyan-telecom-firm-to-launch-data-center-in-2027/",
+          "type": "rss"
+        }
+      ],
+      "content": "A new private telecom firm in Libya has unveiled plans for a new data center and 5G rollout in the country.\n\nOzone Telecommunications and Technology Group, also known as the O3 Group, officially launched operations in Benghazi this week (19 October) as Libya aims to establish itself as a regional digital hub connecting Europe and Africa.\n\nThe company expects that its new Tier III data center currently under construction will be operational in March 2027. Once completed, the facility will provide local hosting, cloud services, and business applications to telecommunications operators, financial institutions, government organizations, and corporate clients.\n\nThe Data Center Map lists eight data centers in Libya.\n\nO3 also said it wants to establish a new 5G mobile operator supported by infrastructure for international connectivity, a fiber-optic network and a data center. A pilot launch of 5G services is scheduled for Benghazi by the end of 2026, with the commercial launch set for the second quarter of 2027.\n\nFaisal Gergab, chairman of the O3 board, said: \"We aim to provide Libya with advanced digital infrastructure and to create conditions that enable institutions and young people to participate fully in a modern and inclusive digital economy - one capable of driving prosperity within Libya and extending its impact to neighboring countries.\"\n\nMeanwhile, the Medusa Submarine Cable System has reportedly completed the pre-laid shore end installation in Benghazi, which is the section of cable laid in advance between the land site and the offshore connection point.\n\nThe Medusa subsea cable is an open-access underwater fiber-optic communications network stretching approximately 8,760 km (with core routes around 7,100 km) across the Mediterranean Sea.\n\nIt is the longest submarine cable project in the Mediterranean, designed to link Southern Europe, North Africa and the Middle East. Libya has 13 cable landing stations along the country's north coast, but only four subsea cables connect them.\n\nO3 will focus on developing international connectivity via the Medusa submarine cable.\n\nNorman Albi, CEO of Medusa Submarine Cable System, said: \"The cable landing in Benghazi marks another significant step in the development of the Medusa Mediterranean network, strengthening connectivity between North Africa, Europe, and the Middle East. This reflects our ongoing commitment to expanding high-capacity international connectivity in the region.\"\n\n*Learn more about the data center market in Saudi Arabia and the wider MENA region and meet with other executives and experts in the region at the DCN Riyadh event next year.*",
+      "content_url": "https://www.datacenterdynamics.com/en/news/new-libyan-telecom-firm-to-launch-data-center-in-2027/"
+    },
+    {
+      "id": "2026-10-24-f0aea9",
+      "title": "Short seller bets against Csquare, says data center firm's shares are worthless",
+      "summary": "Concerns over portfolio and capital structure",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-23T16:00:37Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/short-seller-bets-against-csquare-says-data-center-firms-shares-are-worthless/",
+          "type": "rss"
+        }
+      ],
+      "content": "A short seller is betting against data center firm Csquare (CSQR), claiming that its stock has no value.\n\nKeith Dalrymple, CEO of New Hampshire financial research firm Dalrymple Finance, said much of the NYSE-listed company’s data center portfolio is comprised of assets sourced from failed businesses, and that its financial structure will stop shareholders from making a strong return on their investment.\n\nIn a report published this week, Dalyrymple wrote: “We believe that the sales pitch is disconnected from fundamental realities and the capital structure relegates shareholders to a deeply subordinate position where value is more likely to be extracted via financing than created via returns.”\n\nHe added: “We believe the long-term value of CSQR shares is $0.”\n\nFormerly known as Centersquare, Csquare was formed in April 2024 via a merger between Cyxtera and Evoque, both of which were owned by investment manager Brookfield.\n\nBrookfield formed Evoque in 2019 from the purchase of AT&T's data center and colocation assets. It later acquired Cyxtera, itself formed from former Level3 and CenturyLink assets, following the colocation provider's bankruptcy proceedings.\n\nCsquare’s portfolio totals more than 80 facilities and 3.5 million sq ft (325,160 sqm) with 400MW of capacity. It went public on the New York Stock Exchange in July, raising more than $1 billion but missing its IPO target of $1.35 billion.\n\nIts stock debuted at $21 per share, below the $23-$27 Brookfield had marketed. At the time of writing, shares are trading at $14.90.\n\nIn his research note, Darymple said: “CSQR’s prospectus does not disclose that the assets have a long, documented history of financial failure. More than half of the assets came from Cyxtera, which we wrote on before the stock crashed and the company filed for bankruptcy; the remainder were Brookfield-owned facilities, one group of which de facto defaulted on its debt.”\n\nHe said Csquare is selling investors a “business transformation” pitch, and continued: “This growth story is centered on making \\~$4 billion of investments with over 20 percent returns to almost triple sellable megawatts (MW) of power offered by these legacy colocation facilities. However, we estimate returns on all-in costs will be below the cost of capital, making each new deployment ultimately value-destructive.”\n\nDarymple added that many of Csquare’s best data centers have been purchased through asset-backed securities (ABS), where loans are guaranteed on the future performance of an asset, in this case the data center. This, he argues, means the lenders will benefit from the company’s growth, rather than shareholders.\n\nHe said: “Our analysis shows that most of CSQR’s higher-quality assets including \\~95 percent of easily upgradable vacant space, is pledged to ABSs; CSQR shareholders have primary claims on the lowest-quality space, in our analysis. We expect nearly all capex to be funded by CSQR (debt and equity), but shareholders will have only a residual claim on the financial benefits created in ABS-pledged facilities.”\n\nDarymple believes Csquare will need to raise equity to fund its plans, and added: “With capital deployment generating returns below the cost of capital, and ABS holders likely having primary claim on those returns, we believe that CSQR shares are worth nothing.”\n\n*DCD* has contacted Csquare for comment on the report. We spoke to Csquare CEO Spencer Mullee last year, who said the company’s portfolio was strong, and that it had a plethora of long-term clients, many of whom had run workloads in former Cyxtera data centers since before the bankruptcy. He said his firm was targeting AI companies alongside its traditional enterprise colo customers.\n\n“Even through Cyxtera’s bankruptcy, their customer churn was very low,” Mullee said. “Data centers are a very sticky business. We still do significant enterprise business in that 1-5MW range - that hasn’t changed - but now there are the AI guys, and we do some of that business too.”",
+      "content_url": "https://www.datacenterdynamics.com/en/news/short-seller-bets-against-csquare-says-data-center-firms-shares-are-worthless/"
+    },
+    {
+      "id": "2026-10-24-b1e9a8",
+      "title": "Meta details Ohio Prometheus data center campus, with first phase live",
+      "summary": "Has already been used to train Muse",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-23T15:55:54Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/meta-details-ohio-prometheus-data-center-campus-with-first-phase-live/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "content": "Meta has detailed its progress on its Prometheus data center campus in New Albany, Ohio, which it plans to scale to a gigawatt.\n\nThe site was originally used as a traditional Facebook data center, but the company said that it had now converted the facility into the first phase of its AI-focused supercluster.\n\nIn a blog post, Meta said that this deployment had already been used to train its Muse foundation models. It is currently home to hundreds of thousands of GPUs across multiple interconnected buildings, with traditional and AI-optimized data center buildings and rapid deployment structures all connected.\n\nAt full scale, Prometheus is planned to comprise roughly one million distributed GPUs.\n\nThe data center houses Nvidia GB200 and GB300 chips, with Vera Rubin \"arriving soon.\"\n\nThe GB200 is supported by its Catalina rack architecture, with the company deploying \"the Ariel variant, a two-rack configuration in which 36 GPUs per rack are interconnected via NVLink to form a unified 72-GPU domain,\" Meta's engineers said.\n\nThe Ariel variant of GB200 NVL72 pairs each Nvidia Blackwell GPU with a Grace CPU and 2x ConnectX-7 400G NICs at a 1:1 CPU-to-GPU ratio, supporting 800G of I/O per GPU.\n\nFor the GB300 deployment, Meta uses the Clemente platform. Clemente can use Meta's modular Air-Assisted Liquid Cooling (AALC) or use Facility Liquid Cooling (FLC).\n\n\"GB300 raises HBM capacity per GPU by 1.5x, from 192GB to 288GB, and dense FP4 throughput by a similar factor, while roughly doubling attention (softmax) acceleration,\" Meta said.\n\n\"At the platform level, scale-out is no longer the constraint it was on the GB200 NVL72: Nvidia ConnectX-8 SuperNICs deliver 800G per GPU natively, so the capability we deployed early on Ariel becomes the baseline.\n\nAt the building level, each Ethernet-based fabric interconnects up to 20,736 GPUs through a high-bandwidth, low-latency multi-layer topology. Building-level fabrics are then connected by the Backend Aggregation (BAG) network, spanning 2km to over 100km.\n\n\"It is built with Arista 7800-series chassis running deep-buffered Broadcom Jericho3 silicon, delivering multiple Pbps of bandwidth per region pair,\" Meta said.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/meta-details-ohio-prometheus-data-center-campus-with-first-phase-live/"
+    },
+    {
+      "id": "2026-10-24-3eebe8",
+      "title": "ZTE unveils data center module designed for AI workloads",
+      "summary": "Rack power within the module will range from 20kW to 60kW",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-23T15:53:43Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/zte-unveils-data-center-module-designed-for-ai-workloads/",
+          "type": "rss"
+        }
+      ],
+      "content": "Chinese tech firm ZTE has launched an integrated data center module designed for AI workloads.\n\nThe company unveiled the new product, dubbed the ZXEDC M8000 Intelligent Computing Micro-Module, at Data Center World Asia.\n\nThe Chinese company said that the M8000 combines an enclosed cold aisle, liquid-cooled racks, network racks, a coldplate liquid-cooling CDU, secondary-side piping, high-voltage DC power, intelligent busbars, air walls, monitoring, lighting, cabling, and fire linkage in one package. It also said the module can support both general-purpose and AI hybrid deployments.\n\nZTE said that rack power within the module will range from 20kW to 60kW, with a peak of 250kW per rack. Racks are decoupled from the frame, and operators can retrofit on-site from air to liquid cooling later. ZTE also claims the cooling architecture uses a shared air-and-liquid source, letting operators adjust the ratio between the two.\n\nZTE said that the system can reach a PUE as low as 1.15 in all regions through free cooling and that the 800V HVDC system, paired with intelligent busbars for in-row power distribution, is rated at up to 98 percent power supply efficiency.\n\nThe company says the M8000 is the first liquid cooling solution to receive UL system-level leak-proof certification. ZTE also claims one architecture can support three generations of IT hardware upgrades, reducing the need for large-scale retrofits as capacity grows.\n\nThe company launched a similar modular unit last year dubbed the AIDC Prefabricated Container Solution. According to ZTE, the containerized offering can operate with a PUE of 1.15 by incorporating a chilled water wind wall, cold and hot aisle separation, and cold plate liquid cooling with free cooling.\n\nZTE is typically known for its telecoms offerings, including 5G. The company has partnered with U Mobile, Italy's EOLO, and SLT-Mobitel in recent months for 5G network upgrades in various locations.\n\nLast month, the Chinese vendor also successfully completed a proof-of-concept (POC) of a portable, full off-grid 5G network site powered entirely by 100 percent green energy in Malaysia.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/zte-unveils-data-center-module-designed-for-ai-workloads/"
+    },
+    {
+      "id": "2026-10-24-76183e",
+      "title": "Evaporative cooling still viable for data centers, say experts",
+      "summary": "Evaporative cooling systems, despite high water consumption, offer lower upfront costs and better energy efficiency under specific conditions. Data center operators must evaluate power profiles, capital budgets, and local climates before choosing a cooling architecture. This approach balances water conservation against operational benefits.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-23T15:45:33Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/evaporative-cooling-still-viable-for-data-centers-say-experts/135149969",
+          "type": "rss"
+        }
+      ],
+      "content": "Water consumption has emerged as a significant community concern for new data center developments, often rivaling power demand. A 1 MW IT load facility using evaporative cooling can consume 20,000 to 50,000 gallons of water daily, according to Media Analytics Ltd.Despite this, evaporative cooling remains a viable option due to its advantages in cost and energy performance. Matt Green, CEO of HVAC firm Brucker, noted that open-loop evaporative systems offer a 60 per cent to 70 per cent lower upfront cost compared to closed-loop alternatives.Brendan Mark, CEO of Capture H2O, highlighted the energy efficiency of water-cooled systems, which are 25 per cent to 40 per cent more efficient than closed-loop air-cooled systems. This creates a trade-off between water use and energy consumption.Ashlesa Mohapatra, quality manager at ServerLIFT LLC, advised operators to consider the facility's power profile, capital budget, climate, and long-term operational impacts. Evaporative cooling can use 10 per cent to 35 per cent less electricity during peak summer conditions, depending on climate and system design.Climate and geography play a major role in system effectiveness. Evaporative systems perform better in hot, dry environments where evaporation occurs more readily. In humid climates, more energy is required for evaporation, making the system less efficient.Experts offer varied outlooks on future cooling strategies. Green anticipates a shift towards exclusively closed-loop systems due to hotter chipsets, while Mark believes water-cooled approaches will remain relevant. Mohapatra foresees a hybrid future, combining evaporative cooling for peak demand with liquid cooling for daily thermal loads.\n\n- Energy, Cooling & Sustainability\n- 1 min Read\n\n# Evaporative cooling still viable for data centers, say experts\n\nEvaporative cooling systems, despite high water consumption, offer lower upfront costs and better energy efficiency under specific conditions. Data center operators must evaluate power profiles, capital budgets, and local climates before choosing a cooling architecture. This approach balances water conservation against operational benefits.\n\n- Published On Oct 23, 2026 at 09:15 PM IST\n\n## Highlights\n\n- Evaporative cooling offers 60-70% lower upfront costs than closed-loop systems, per Brucker's CEO.\n- Water-cooled systems are 25-40% more energy-efficient than air-cooled, according to Capture H2O.\n- Climate significantly impacts performance, with evaporative cooling better in hot, dry regions.\n- Future cooling strategies may involve hybrid systems for varied thermal demands.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/evaporative-cooling-still-viable-for-data-centers-say-experts/135149969"
+    },
+    {
+      "id": "2026-10-24-7da049",
+      "title": "Oregon city declares state of emergency over lost data center revenue amid state-wide ban",
+      "summary": "City of Umatilla was relying on tax revenues due to come in from Sabey and Amazon",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-23T15:33:22Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/oregon-city-declares-state-of-emergency-over-lost-data-center-revenue-amid-state-wide-ban/",
+          "type": "rss"
+        }
+      ],
+      "content": "A city in Oregon has declared a state of emergency over the potential impact of lost data center revenues, after the state’s governor introduced a de facto moratorium on new developments.\n\nA Umatilla city official this week declared a Local State of Emergency in response to the “threat of widespread financial loss” stemming from Governor Tina Kotek's October directive to block new data center permits.\n\n“Delays in anticipated revenues would necessarily delay the city's ability to implement these initiatives on their currently projected schedules,” Umatilla city manager Dave Stockdale said in a statement.\n\n“More concerning, prolonged permitting uncertainty could result in the postponement, relocation, or cancellation of planned private investments, potentially delaying anticipated revenues and employment opportunities by two years or more, or eliminating some of those opportunities altogether.”\n\n\"This is about far more than data centers. It is about the families whose livelihoods depend on these jobs, the local businesses that rely on a strong and stable economy, and the residents who trust us to make responsible, long-term decisions for our community's future,\" he added.\n\nThe state of emergency was declared at a Umatilla city council meeting this week, where the council voted to approve a resolution to be reviewed in 90 days. The move follows Governor Kotek's recent directive to block new data center environmental permits being issued, introducing a de facto moratorium on new developments in Oregon.\n\nLocated in northwest Oregon, the city said it has four operating facilities, one additional facility under construction, and two additional facilities planned in the area. Sabey and Amazon Web Services are present in the area.\n\nThe resolution said the block on data centers in the area could delay (potentially permanently) more than $5 billion in anticipated private investment within the Umatilla area, cause delays of more than two years on projects going live, and threaten at least 1,000 construction employment opportunities as well as hundreds of permanent and related employment opportunities.\n\nThe request for a state of emergency was made by city manager Stockdale, who said in a letter to the Umatilla mayor and city council that the call was “not made lightly.”\n\n“I believe the Governor's directive creates precisely the type of human-created circumstance involving threatened widespread financial loss that Oregon law expressly recognizes as a potential emergency,” he said. “For Umatilla, the consequences are not theoretical. The directive threatens significant private investment, employment opportunities, anticipated municipal revenues, and the city's ability to responsibly plan and finance essential public services and infrastructure.”\n\nAs well as some $6 million in direct financial losses, the resolution noted that a new police station set to be funded via data center-related funding could now be under threat, as well as millions of dollars in water infrastructure improvements.\n\n“These consequences extend far beyond the interests of individual businesses. They threaten the broader economic and financial well-being of the Umatilla community,\" Stockdale said.\n\nThe resolution is set to lead to an economic impact assessment of the forecasted losses and see the council request an “immediate reconsideration” by Governor Kotek.\n\nGovernor Kotek ordered the state’s environmental regulators to temporarily stop issuing pollution permits to data centers earlier this month, effectively pausing data center development in the Beaver State until July 2027.\n\nKotek had already directed state agencies to pause land transactions for data center projects on government land. She issued the order last month, pausing any such deals until July 2027 in order to enable a statewide evaluation of long-term impacts associated with large-scale data center projects.\n\nIn August, Kotek blocked the land sale of 32 acres at the Mill Creek Corporate Center in southeast Salem for a proposed data center project by Verrus.\n\nSome cities in Oregon have opted to put in place temporary moratoriums on data center projects, with Hillsboro putting a 120-day moratorium in place at the end of July 2026.\n\nDespite the emergency declaration, the city is not at threat of immediate bankruptcy and the city's General Fund reserves “are at historically high levels.”\n\n\"To be unequivocally clear, the City of Umatilla has not spent, obligated, or appropriated any of the anticipated future revenues potentially affected by the Governor's directive,\" Stockdale said in a statement. \"These revenues are incorporated into the city's financial planning and forecasts, and strategic planning, but no current City services, operations, or financial commitments rely upon these funds that have not yet been received.\"\n\n\"The concern is not an immediate budget shortfall, but rather the substantial disruption to carefully developed plans for near-future infrastructure investments, community improvements, and public services,\" he added. “The city's declaration of emergency is a proactive measure intended to protect Umatilla's current and long-term economic and financial stability, not a response to funds already spent or a current financial crisis.\"",
+      "content_url": "https://www.datacenterdynamics.com/en/news/oregon-city-declares-state-of-emergency-over-lost-data-center-revenue-amid-state-wide-ban/"
+    },
+    {
+      "id": "2026-10-24-673c13",
+      "title": "Sponsored: Data center optionality: Why day one decisions determine day two success",
+      "summary": "Speed to market is a phase, not a strategy",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-23T15:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/opinions/data-center-optionality-why-day-one-decisions-determine-day-two-success/",
+          "type": "rss"
+        }
+      ],
+      "content": "Data center developers face intense pressure to secure power, accelerate construction and bring capacity online. For hyperscalers, colocators and neocloud providers, delays can mean lost revenue, unmet customer demand and a weakened competitive position.\n\nThat urgency makes speed-to-market decisions necessary, but it can also create a blind spot.\n\nA solution that gets a campus to Day One faster can quietly limit the choices available on Day Two. What appears to be the quickest path forward today may reduce a developer's flexibility to expand, adapt, optimize costs or respond to changing market conditions in the future.\n\nThe objective is not to slow development - it is to ensure that today's infrastructure decisions preserve as many viable options as possible for tomorrow.\n\n## The race does not end at day one\n\nImagine a racing team focused entirely on reaching the first turn ahead of the competition. The engineers optimize everything for acceleration, the car launches into first place, but the race does not end at the first turn.\n\nAs conditions change, the team discovers they sacrificed durability, flexibility and long-term performance in exchange for early speed. The same dynamic can occur in data center development. The decisions made to achieve Day One success often determine the options available on Day Two. A campus optimized for a single expected future may struggle if that future unfolds differently than planned.\n\nAnd in today's market, uncertainty is everywhere.\n\nInterconnection schedules change. Power markets evolve. Customer requirements shift. AI workloads grow. Cooling technologies advance. No developer can predict exactly what comes next.\n\nThat is why optionality matters.\n\n## Optionality is the ability to preserve future choices\n\nOptionality is not unlimited flexibility. It is the ability to make decisions today that preserve valuable choices tomorrow. A campus with optionality can adapt as conditions change. A campus without optionality becomes dependent on assumptions made years earlier. This distinction becomes critical when developers must make major infrastructure investments before key uncertainties are resolved.\n\nFor example:\n\n- What if utility interconnection arrives earlier than expected?\n- What if it arrives several years later?\n- What if power market economics change?\n- What if future customers require different cooling or density requirements?\n- What if expansion occurs in phases rather than all at once?\n\nThe goal is not to predict which future will occur, but rather to avoid becoming locked into a future that may never arrive.\n\n## What lost optionality looks like\n\nLost optionality rarely announces itself during development. In fact, the original decision may appear perfectly rational at the time.\n\nConsider a developer that installs behind-the-meter generation to begin operations while awaiting utility service. The solution successfully achieves its Day One objective. Operations begin. Capacity comes online.\n\nLater, however, utility service becomes available and market conditions change. The campus discovers it cannot economically export power, provide grid services or optimize generation against evolving market opportunities because the original design never preserved those options.\n\nThe initial decision was not necessarily wrong. The problem is that valuable choices disappeared. Restoring those capabilities later may require additional capital, studies, permitting activities or equipment modifications.\n\nThis is what lost optionality looks like. Not project failure. A lost opportunity.\n\n## Optionality reduces exposure to uncertainty\n\nMany infrastructure decisions are based on assumptions. Optionality acknowledges that some of those assumptions will eventually prove incomplete.\n\nRather than optimize for a single expected future, developers can evaluate how different infrastructure strategies perform across multiple plausible futures.\n\n### The question is not\n\nWhich configuration performs best if everything goes according to plan?\n\n### The question is\n\nWhich configuration preserves the greatest ability to adapt if conditions change?\n\nFor instance, the value of a capability such as export flexibility can change as interconnection timing and market conditions evolve in different scenarios (see the table below). A design optimal in one future but badly exposed in several others is rarely the right choice.\n\n## Optionality has financial value\n\nOptionality is not just an engineering consideration. It is increasingly a financial one.\n\nInvestors, lenders and stakeholders are evaluating more than construction schedules and near-term costs. They are also considering how well assets can adapt as market conditions evolve.\n\nA facility that preserves future choices may be better positioned to:\n\n- accommodate changing customer demands\n- respond to energy market shifts\n- support phased expansion\n- manage future operating costs\n- adapt as technology evolves\n\nBy contrast, infrastructure designed around overly narrow assumptions can require expensive modifications as conditions change. What initially appears to be a lower-cost decision can ultimately constrain future growth and reduce long-term asset value.\n\n## Ask the questions while they can still influence the project\n\nNo one knows exactly what Day Two will look like. Power markets will change. Customer requirements will evolve. New constraints and opportunities will emerge.\n\nThe objective is not to predict the future perfectly. It is to avoid making Day One decisions that depend on the future unfolding exactly as expected.\n\nSpeed may determine who reaches Day One first, but optionality determines who remains positioned to succeed on Day Two.\n\n*Dive deeper into how to test that you’ve preserved optionality.*\n\n## More from Black & Veatch\n\n- # Sponsored Modular data centers: Where speed, scale, and strategy converge Modular data centers represent more than a construction technique – they are a delivery model designed for the realities of modern digital infrastructure\n- # Why data centers must rethink their water footprint A lot of water will be needed to cool data centers, but where is it going to come from?\n- # Sponsored Modular data centers: Where speed, scale, and strategy converge Modular data centers represent more than a construction technique – they are a delivery model designed for the realities of modern digital infrastructure",
+      "content_url": "https://www.datacenterdynamics.com/en/opinions/data-center-optionality-why-day-one-decisions-determine-day-two-success/"
+    },
+    {
+      "id": "2026-10-24-6741c1",
+      "title": "Russian finance ministry data center struck by Ukrainian forces",
+      "summary": "Another data center damaged in conflict",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-23T14:49:52Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/russian-tax-dc-0-gorodets/",
+          "type": "rss"
+        }
+      ],
+      "content": "A government data center operated by Russia’s Ministry of Finance and its tax department has been damaged by Ukrainian drone strikes.\n\nMedia outlets Exilenova+ and Astra report that the data center of the Federal Tax Service and the Ministry of Finance of the Russian Federation in Gorodets, Nizhny Novgorod Oblast, was struck overnight.\n\n“The facility is one of two key data processing centers of the Federal Tax Service of Russia operating in a geo-distributed mode,” ExileNova+ said. “The damage to this facility could potentially affect the operation of state information systems of the Russian Federation.”\n\nGleb Nikitin, governor of the Nizhny Novgorod Oblast, reported three injuries after a series of drone strikes that damaged \"several residential buildings, one educational facility, and one infrastructure facility.\"\n\nThe Federal Taxation Service (FNS) is the revenue service for the Russian government responsible for overseeing tax compliance.\n\nGorodets (Городе́ц) is a town and the administrative center of Gorodetsky District in Nizhny Novgorod Oblast, some 425km (264 miles) east of Moscow and more than 900km (559 miles) from the country’s border with Ukraine.\n\nIn development since 2012, the data center in Gorodets reportedly officially opened in December 2015. The site is where data from state registries is stored and processed, including tax databases.\n\nThe finance ministry is said to also operate out of the Federal Data Processing Center in Dubna in Moscow Region and a facility in Yerzovka, Volgograd Region.\n\nThe conflict between Ukraine and Russia has been ongoing since 2014, with significant escalation in 2022 after Russian forces conducted a large-scale invasion of Ukraine.\n\nThe Gorodets facility is the latest in an ongoing campaign by both forces targeting data center facilities in both Ukraine and Russia.\n\nFacilities around Kyiv operated by Parkovyi Data Center, UTELS, MiroHost, Datagroup, Vodafone Ukraine, De Novo, Cosmonova, Omega Telecom, Ukrsibbank, GigaCenter, and Ukrtelecom have been hit by Russian forces in recent weeks. Outside Kyiv, facilities operated by Tenet in Odesa and the RX-Name data center in the Nikolaev/Mykolaiv area of southern Ukraine have also been hit.\n\nUkraine has struck back with multiple attacks on Russian-owned digital infrastructure, including strikes on several data centers owned by Yandex and Sberbank.\n\nEarlier this year, Ukrainian forces struck a data center in Russian-occupied Ukraine in Prymorsk. Ukraine also recently targeted two telecoms facilities operated by Russian firms in the occupied cities of Donetsk and Luhansk.\n\nRussian officials have been discussing mitigating measures for attacks on its data centers, ranging from building “doomsday” data centers to siting facilities in disused coal mines or friendly neighboring territories.\n\nFurther afield, several Starlink ground station sites across Europe, including in Poland, Bulgaria, and Lithuania, have been targets of arson attacks in recent weeks, with officials linking the incidents to Russia. This comes as Elon Musk has been accused of reducing Starlink's available satellite communications capacity in Ukraine.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/russian-tax-dc-0-gorodets/"
+    },
+    {
+      "id": "2026-10-24-c9cdc7",
+      "title": "O-Green plans data center campus in Zaragoza, Spain",
+      "summary": "The fund, which is linked to Oman, plans to invest €7.4 billion in a data center campus in San Mateo de Gállego, Zaragoza",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-23T14:40:32Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/o-green-plans-data-center-campus-in-zaragoza-spain/",
+          "type": "rss"
+        }
+      ],
+      "content": "Omani renewable energy firm O-Green is planning a data center project in Zaragoza, Spain, that is reportedly set to replace Vantage's previously announced project in the area.\n\nIn September 2025, the multinational company Vantage Data Center announced a €3.2 billion ($3.6bn) investment in Zaragoza. A year later, the project reportedly has a new financial partner and a new location.\n\nEl Economista reports that the Omani fund O-Green, together with the Aragonese group Desarrollos Ecoindustriales La Cartuja, will instead develop a campus in San Mateo de Gállego with a projected investment of €7.4 billion ($8.3bn) and a target capacity of 570MW.\n\nThe original initiative was planned in Villanueva de Gállego in partnership with Vantage Data Centers, but the developers are said to have dissolved that alliance and moved the project to San Mateo.\n\n*DCD* has reached out to Vantage for comment.\n\nThe new campus, called CDC San Mateo, is being developed by Copiapo – which is linked to Atalaya Generación Eólica and Posidonia Inversiones – and is financed by O-Green, a fund affiliated with the Sultanate of Oman. O-Green's website lists a planned facility in Aragón.\n\nThe complex will occupy approximately 122 hectares south of the Río Gállego 1 industrial park. The plan calls for seven buildings spread across four phases, designed to host hyperscale workloads and high-density artificial intelligence applications and totaling some 1.22 million sqm (13 million sq ft).\n\nThe campus is set to offer 90MW in the first phase and could go live in 2029. According to the project documentation, it has permits for access to the distribution grid for 80MW at the Peñaflor substation and 10MW at the Villanueva de Gállego substation.\n\nThe developers have also requested additional capacity, but these requests are still pending. Even if the requests mentioned in the documentation were granted, the available power would not cover the total target of 570MW. The timeline for subsequent phases will therefore depend on the allocation of new capacity and demand from future customers.\n\nCooling and water are two other issues that need to be resolved. The document considers alternatives for dry, hybrid, or evaporative cooling, depending on customer needs. It also plans to draw water from the Gállego River, but does not quantify the consumption for the entire campus: the figure published for the first phase is 225 cubic meters per day.\n\nThe project has begun preliminary consultations to determine the scope of its strategic environmental assessment. The procedure covers both the campus and the planned electrical and fiber-optic connections in several municipalities in the area. The developers are also awaiting the Government of Aragon’s declaration that the investment is of regional interest.\n\nPrimarily a renewable energy developer, O-Green Power's project portfolio spans 12 countries and exceeds 11GW. Its secured portfolio tops 3.3GW of wind and solar plus more than 2.3GWh of battery energy storage systems (BESS) in Oman and Botswana, the firm said. O-Green is targeting more than 200MW to be ready for service by 2028, across Oman, Spain, and Europe.\n\n*This piece was translated from DCD's Spanish site and edited by a member of DCD staff.*",
+      "content_url": "https://www.datacenterdynamics.com/en/news/o-green-plans-data-center-campus-in-zaragoza-spain/"
+    },
+    {
+      "id": "2026-10-24-dc9a30",
+      "title": "Data center outage leaves Portugal's National Health Service without prescriptions",
+      "summary": "Affected services included National User Registry and the Electronic Medical Prescription (PEM), as well as access to Electronic Health Record",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-23T13:40:41Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/a-data-center-outage-leaves-portugals-sns-without-prescriptions/",
+          "type": "rss"
+        }
+      ],
+      "content": "Portugal's National Health Service (SNS) experienced a disruption this week when a power outage at a data center took several computer systems offline.\n\nThe incident, on the morning of October 19, disrupted operations at health centers and hospitals, where staff were unable to access patient records or issue electronic prescriptions as usual.\n\nThe problems began around 10am local time and were nationwide in scope, according to reports gathered by Portuguese media. The National Federation of Physicians (FNAM) reported incidents at various local health facilities, including those in São João, Matosinhos, and Médio Ave.\n\nSPMS, the entity responsible for the Ministry of Health’s shared technology systems, attributed the incident to a power outage at its data center in the north. As explained in a statement, there were two successive outages: the first was quickly resolved, but the second caused the information systems to become unavailable.\n\nAmong the affected services were the National User Registry and the Electronic Medical Prescription (PEM) system, as well as access to the Electronic Health Record. The outage prevented healthcare professionals from accessing clinical data and issuing prescriptions as usual, while some patients experienced delays or were unable to receive their scheduled care.\n\nThe SPMS reported that by 3pm, technical teams had restored virtually all services and systems, including the National User Registry and electronic prescribing. The resolution of the incident was subsequently confirmed later that same afternoon.\n\nThe agency also announced that it expects to have a new infrastructure in place by the end of 2026, financed with funds from the Recovery and Resilience Plan (PRR). According to the SPMS, this will enable real-time redundancy for the main systems of the National Health System (SNS) and strengthen the security and performance of digital platforms. In addition, it plans to overhaul the power architecture of the existing data center.\n\nIn a statement published today (October 23), FNAM demanded greater clarity over the incident, saying it considers it \"essential\" that the Ministry of Health \"clarifies the causes and extent of the failure and what mechanisms are planned to correct the observed limitations.\"\n\nThe group said: \"The fact that the systems are being partially restored does not eliminate the harm caused to users, nor the lost clinical work time and the additional burden of updating records and clinical processes. Constraints are still being reported in some Local Health Units, particularly in issuing prescriptions or accessing clinical information.\"\n\n\"The National Health Service (SNS) cannot continue to fail those who need it and those who work within it. FNAM demands structural solutions, investment, and accountability. Users deserve timely and safe healthcare. Doctors deserve the conditions to practice their profession.\"\n\n*This piece was translated from DCD's Spanish site and edited by a member of DCD staff.*",
+      "content_url": "https://www.datacenterdynamics.com/en/news/a-data-center-outage-leaves-portugals-sns-without-prescriptions/"
+    },
+    {
+      "id": "2026-10-24-9529c5",
+      "title": "Krolmap plans a 225MW off-grid data center in Zaragoza, Spain",
+      "summary": "Project offers alternative to standard model for connecting large digital loads to power grid",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-23T13:21:02Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/krolmap-plans-a-225mw-off-grid-data-center-in-zaragoza-spain/",
+          "type": "rss"
+        }
+      ],
+      "content": "A Spanish engineering firm is planning a large-scale off-grid data center facility in Zaragoza.\n\nAragón-based Krolmap is planning a 225MW data center campus in Belchite that will reportedly feature a self-consumption energy model to reduce its dependence on the power grid.\n\nThe initiative, valued at €1.5 billion ($1.68bn), aims to integrate renewable generation, storage, and cogeneration to meet continuous demand.\n\nThe complex would be located in the La Legua industrial park in Belchite and would occupy an area of 25 hectares. According to information published by Heraldo de Aragón, the design includes six independent buildings and an on-site energy system to power the facilities.\n\nThe initiative is currently in the planning phase, so not all the details needed to assess its final architecture or development timeline have been released yet.\n\nThis project runs parallel to another project in Aragón that the company is currently planning in Villanueva de Gaállego.\n\nThe proposal addresses one of the main constraints on the development of large data centers in Spain: the availability of electrical power. In areas with limited access to the grid, having on-site generation could offer an alternative solution, although it would shift the responsibility to the developer to size and operate an energy system capable of sustaining critical loads.\n\nRenewable generation and battery storage would provide electricity for the campus, although the published information does not specify the technologies installed or their capacity.\n\n*This piece was translated from DCD's Spanish site and edited by a member of DCD staff.*",
+      "content_url": "https://www.datacenterdynamics.com/en/news/krolmap-plans-a-225mw-off-grid-data-center-in-zaragoza-spain/"
+    },
+    {
+      "id": "2026-10-24-0b8597",
+      "title": "Debt bomb threatens booming AI trade, $155b data centre roll-out",
+      "summary": "NextDC has been forced to reassure bondholders it has enough funding to get its data centre developments back on track, as jittery global funding markets threaten to stall a $155 billion pipeline in…",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [],
+      "published_at": "2026-10-23T09:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/infrastructure/debt-bomb-threatens-booming-ai-trade-155b-data-centre-roll-out-20261023-p61810",
+          "type": "html-list"
+        }
+      ],
+      "content": "NextDC has been forced to reassure bondholders it has enough funding to get its data centre developments back on track, as jittery global funding markets threaten to stall a $155 billion pipeline in Australia and put at risk billions of dollars invested in the booming artificial intelligence industry.\n\nBorrowing costs for the country’s largest data centre operator and its smaller rivals like CDC Data Centres, which is part-owned by the Future Fund, have soared over the last two weeks amid growing concerns about the cost of heavy spending on AI infrastructure and who will finance it.\n\nLoading...",
+      "content_url": "https://www.afr.com/companies/infrastructure/debt-bomb-threatens-booming-ai-trade-155b-data-centre-roll-out-20261023-p61810"
+    },
+    {
+      "id": "2026-10-24-a36be9",
+      "title": "Data centre spending to more than double to US$2.1 tril by 2028",
+      "summary": "Global data centre spending is expected to hit US$1 trillion (RM4.1 trillion) in 2026 and more than double to US$2.1 trillion by 2028, BofA Global Research estimated in a note on Friday, driven by growing demand for and development of AI services.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-10-23T15:11:35Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/823090",
+          "type": "html-list"
+        }
+      ],
+      "content": "(Oct 23): Global data centre spending is expected to hit US$1 trillion (RM4.1 trillion) in 2026 and more than double to US$2.1 trillion by 2028, BofA Global Research estimated in a note on Friday, driven by growing demand for and development of AI services.\n\nData centre spending has been a fast-growing source of revenue for industrial firms that make generators, construction equipment, switchgears and chillers.\n\nThe data centre market, worth US$275 billion in 2022, could reach US$2.93 trillion by 2030, BofA said.\n\nAI is seen driving the expansion, which the brokerage says will fuel a 37% market-wide CAGR from 2025 to 2030, the brokerage said.\n\nChipmakers and server developers have been among the biggest beneficiaries of the AI-driven data centre buildout, particularly in the US.\n\nBofA put data centre construction costs at US$49 million per megawatt, with IT-related expenses making up 78% of total spend.\n\nNeoclouds, or AI-focused data centres, cost about US$57 million per megawatt but benefit from lower space requirements than traditional counterparts.\n\nThe brokerage estimates servers are the costliest component at US$31.4 million per megawatt, and networking the second-largest at US$4.8 million per megawatt.\n\nMost other functions — switchgear, power distribution, generators, backup power, chillers and cooling — cost between US$100,000 to US$1.1 million per megawatt.\n\n*Uploaded by Magessan Varatharaja*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/823090"
+    },
+    {
+      "id": "2026-10-24-1b967e",
+      "title": "Egypt targets mega data center buildout as part of Digital Egypt 2030 roadmap",
+      "summary": "Egyptian Minister of Communications and Information Technology Raafat Hendy presented a review on the nation’s progress in its Digital Egypt strategy and the roadmap to its 2030 targets and announced that the country would build five to seven mega data centers over the next four to five years as part of its digital sovereignty objectives. […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-23T11:47:37Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/egypt-targets-mega-data-center-buildout-as-part-of-digital-egypt-2030-roadmap/",
+          "type": "rss"
+        }
+      ],
+      "content": "Egyptian Minister of Communications and Information Technology Raafat Hendy presented a review on the nation’s progress in its Digital Egypt strategy and the roadmap to its 2030 targets and announced that the country would build five to seven mega data centers over the next four to five years as part of its digital sovereignty objectives.\n\nAs outlined in a press release, Hendy noted that digital sovereignty in Egypt hinges on key pillars including sovereign infrastructure, cybersecurity, AI, and data protection, alongside qualifying specialized national talent for operation, security, and development, while expanding technology industries and diversifying supply chains.\n\nHendy added that digital sovereignty does not imply decoupling from the global ecosystem but relies on international engagement guided by established frameworks, regulations, and standards. Given the varying degrees of technological interdependence worldwide, he said, absolute digital sovereignty remains an unrealistic benchmark for any nation.\n\nHendy said some of the data centers are expected to be operational and exporting services in 2030, while work continues on the remaining facilities. The minister also said that the digital sovereignty plan includes preparing national talent to work on advanced technologies and quantum computing.\n\nOn connectivity, the minister reports that around 20,000 government buildings have been connected to the national fiber network, which now sits at about 5.5 million lines with a target of adding one million more each year. Egypt also aims to extend fiber to more than 55 percent of households by 2030. To further improve connectivity, Hendy said that 10 new subsea cables have been installed over the last decade.\n\nThe Egyptian minister met with Intro Group in September to discuss plans to build the 80 MW Kemet Data Center in the Suez Canal Economic Zone, with Intro Group putting nearly US$ 270 million behind the first phase of the project. Earlier that same month Vodafone Business, Elsewedy Electric Group, and Cassava Technologies announced they would collaborate to build out data centers in Egypt. The partnership aims to deliver an initial capacity of 20 MW, scaling to 200 MW and attracting as much as US$ 1 billion in investment by the time the buildout is complete.",
+      "content_url": "https://w.media/egypt-targets-mega-data-center-buildout-as-part-of-digital-egypt-2030-roadmap/"
+    },
+    {
+      "id": "2026-10-24-c48720",
+      "title": "Data center operators feeling the heat: MYCDC",
+      "summary": "Data center operators are feeling the heat as Malaysia tightens its requirements for data centers, a seminar in Kuala Lumpur heard yesterday. Amid several recent announcements of stricter requirements for data centers particularly with regards to power consumption, many operators have flagged this as the biggest concern to their operations. In the last few days, […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-23T11:07:19Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/data-center-operators-feeling-the-heat-seminar/",
+          "type": "rss"
+        }
+      ],
+      "content": "Data center operators are feeling the heat as Malaysia tightens its requirements for data centers, a seminar in Kuala Lumpur heard yesterday. Amid several recent announcements of stricter requirements for data centers particularly with regards to power consumption, many operators have flagged this as the biggest concern to their operations.\n\nIn the last few days, government ministers have proposed in Parliament that data center developers should bear transmission upgrade costs, be charged for committed electricity capacity they did not use, and were encouraged to generate their own electricity.\n\nAs panellist Ir. Ts. Maxx Wong said: “Power is the ultimate prerequisite because power availability dictates site viability above all other metrics.”\n\n“Without a highly reliable, scalable baseload power supply, high-density AI data centers fundamentally cannot operate,” he said during a panel discussion on “Planning AI Data Center Campuses: Land, Power, Water and Connectivity” held at the Malaysia Cloud & Datacenter Convention 2026 yesterday.\n\nAmid the unprecedented demand from rapid digital infrastructure developments, national grids are facing severe bottlenecks that if not addressed soon could delay or impede the momentum of data center growth. To sustain this momentum, Wong said the industry must actively invest in off-grid power infrastructure, captive power generation, and localized microgrid solutions.\n\nThe Chief Technology Officer at YTL Data Centers also said raw compute power is irrelevant without seamless data distribution. “Comprehensive fiber routing and base station networks are critical to bridging the gap between hyperscale campuses and the end-user devices relying on them,” he said.\n\nMalaysia is sitting at a critical juncture en route to becoming the biggest data center hub in Asia (ex-China) by 2030. It is in the middle of a data center boom driven by cloud and AI adoption.\n\nMalaysia has already surpassed other ASEAN countries in the AI Readiness Index, scoring 73 against a global average of 57. France and Nordic countries in comparison, scored 85 and between 93-95 respectively, said Mehdi Paryavi, Chairman & CEO of the International Data Center Authority (IDCA). Mehdi when delivering the Opening Keynote at the convention.\n\nThe keynote explored Malaysia’s strategic position in the digital economy and the opportunities emerging from the rapid expansion of AI and digital infrastructure. It discussed Malaysia’s regional digital ambitions, sovereignty, investment and economic resilience.\n\n#### **Beyond technology**\n\nA participant, Kevin Stevens, Head of Industry Practices at Chubb Asia Pacific, found many of the discussions very useful, saying, “The more I learn about data centres, the more questions I have.” Stevens was looking beyond the technology to contractual and liability aspects especially those relating to physical security and cybersecurity risks.\n\nWith cybersecurity concerns now top of mind especially with increasing reports of unauthorised AI agents being discovered in bank customers’ accounts, banks are now warning that this could trigger unwanted transfers and call-center contacts. Increasing cyberattacks were also reported while critical vulnerabilities in the PHP programming language used in most websites were being patched yesterday.\n\nThe insurance expert wondered how much liability insurance would be enough for data centers that house billions of dollars worth of third party GPUs and other expensive equipment in the event it caught fire.\n\n“Physical security, cyber resilience, business interruption, contractual obligations, professional indemnity and third party liability are increasingly interconnected. From an insurance perspective, understanding these exposures requires more than assessing the physical assets, it means understanding how the entire ecosystem operates when things go wrong.”\n\nThe Malaysia Cloud & Datacenter Convention 2026 is an annual event organized by w.media. Yesterday’s event drew more than 1,200 attendees, many of whom are C-suite decision-makers.",
+      "content_url": "https://w.media/data-center-operators-feeling-the-heat-seminar/"
+    },
+    {
+      "id": "2026-10-24-2ffb17",
+      "title": "Soluna and Applied Digital to develop 50 MW AI data center at a Texas wind farm",
+      "summary": "Soluna Holdings, Inc., a green artificial intelligence (AI) data center developer, has entered into a definitive agreement with Applied Digital Corporation, a developer and operator of digital infrastructure, high-performance computing (HPC), and AI cloud services, to establish a jointly owned company to develop a planned 50 MW critical IT data center for AI and HPC […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-23T09:37:42Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/soluna-and-applied-digital-to-develop-50-mw-ai-data-center-at-a-texas-wind-farm/",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/soluna-and-applied-digital-to-build-50-mw-ai-data-center/135144550",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Applied Digital"
+      ],
+      "content": "Soluna Holdings, Inc., a green artificial intelligence (AI) data center developer, has entered into a definitive agreement with Applied Digital Corporation, a developer and operator of digital infrastructure, high-performance computing (HPC), and AI cloud services, to establish a jointly owned company to develop a planned 50 MW critical IT data center for AI and HPC workloads at Project Dorothy 3 in Texas.\n\nProject Dorothy 3 is a planned data center co-located with Briscoe Wind, a 150 MW wind farm in Briscoe County. According to a press release, Dorothy 3 will draw power from both the wind farm and the grid.\n\n“We have said for a long time that the constraint in AI is energy access, not chips,” said John Belizaire, Soluna Chief Executive Officer. “We built Soluna to bring load to the generation, so the power would be ready when the demand arrived. Partnering with Applied at Dorothy 3 puts that strategy to work: our site and wind power, combined with a proven builder and operator of AI data centers. We look forward to completing the remaining steps, including the tax abatement process in Briscoe County, and to bringing this project forward with the local community.”\n\nUnder the transaction agreement, Soluna will contribute a portion of the Dorothy 3 site, including land and power-related project assets, to the joint venture, with Applied Digital expected to provide capital to support development. Once the transactions outlined in the agreement are closed, Applied Digital will have a 51 percent interest in the joint venture, with Soluna holding the remaining 49 percent.\n\nIt was also announced that Applied Digital’s ChronoScale Holdings Corporation, an accelerated compute platform supporting AI workloads, has signed a non-binding letter of intent to lease the facility. However, the companies stated that there can be no assurance that a definitive lease will be entered into on the terms set out in the letter of intent. The lease is also subject to the negotiation and execution of definitive documentation.\n\nIn August, w.media reported that Texas Governor, Greg Abbott, directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to conduct a verification audit of all data center projects moving through ERCOT’s interconnection process. While Soluna and Applied Digital intend to power Dorothy 3 with a mix of wind and grid power, the companies didn’t share what that mix looks like or how much power will need to be sourced from the grid. ERCOT’s Batch Zero approval process applies only to projects requesting 75 MW or more from the grid, so it’s possible this project could bypass that process.",
+      "content_url": "https://w.media/soluna-and-applied-digital-to-develop-50-mw-ai-data-center-at-a-texas-wind-farm/"
+    },
+    {
+      "id": "2026-10-24-15a082",
+      "title": "Cable capacity bottlenecks AI data center expansion",
+      "summary": "Cable production capacity is emerging as a bottleneck for AI-driven data centre construction, with demand rising faster than manufacturing can expand. Building new cross-linked polyethylene cable lines takes approximately three years, limiting supply response.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-23T07:45:22Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/construction-site-development/cable-capacity-bottlenecks-ai-data-center-expansion/135139385",
+          "type": "rss"
+        }
+      ],
+      "content": "Cable production capacity is emerging as a bottleneck for artificial intelligence (AI)-driven data centre construction, according to Nexans' finance chief. Demand for cables is rising faster than the industry's ability to expand manufacturing capacity.Building a new cross-linked polyethylene (XLPE) cable production line, known as a CV line, takes around three years. This limits how quickly suppliers like Nexans can respond to increasing demand.Data centres require large amounts of low- and medium-voltage cable to connect power infrastructure. Larger facilities consume proportionately more medium-voltage cable.The strain on power infrastructure is also delaying some projects. Oracle issued a force majeure notice to a Blue Owl unit developing a large data centre in New Mexico due to potential difficulties securing sufficient power.Nexans CFO Vincent Piquet noted that grid constraints, while slowing some projects, also support demand for Nexans' products. This allows the company to be more selective when allocating capacity.French distribution network operator Enedis has shifted from annual procurement agreements to contracts lasting six or seven years. This move aims to secure cable supply for its operations.While Europe generally faces fewer grid-connection challenges than the United States, lengthy regulatory processes are delaying certain projects. Europe's data centre expansion for AI is expected to be less pronounced than in the US, due to smaller private investment capacity.\n\n- Construction & Site Development\n- 1 min Read\n\n# Cable capacity bottlenecks AI data center expansion\n\nCable production capacity is emerging as a bottleneck for AI-driven data centre construction, with demand rising faster than manufacturing can expand. Building new cross-linked polyethylene cable lines takes approximately three years, limiting supply response.\n\n- Published On Oct 23, 2026 at 01:15 PM IST\n\n## Highlights\n\n- Cable production capacity limits AI data centre construction growth.\n- New XLPE cable production lines require approximately three years to establish.\n- Power infrastructure strain is delaying some data centre projects globally.\n- Companies like Enedis are securing cable supply with longer-term contracts.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/construction-site-development/cable-capacity-bottlenecks-ai-data-center-expansion/135139385"
+    },
+    {
+      "id": "2026-10-24-3c1481",
+      "title": "Gingerah seeks anchor tenant for up to 1GW data centre in Western Australia",
+      "summary": "Gingerah Energy is seeking an anchor tenant and strategic investment partner for a proposed up to 1GW data centre and renewable energy hub about 100km south of Broome, with a final investment decision on the initial 240MW phase targeted for 2029. The proposed Meridien project would combine 5.2GW of solar generation, 1.5GW of wind generation […]",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-23T07:18:03Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/gingerah-seeks-anchor-tenant-for-up-to-1gw-data-centre-in-western-australia/",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/construction-site-development/gingerah-seeks-anchor-tenant-for-1gw-western-australia-data-centre/135144553",
+          "type": "rss"
+        }
+      ],
+      "content": "Gingerah Energy is seeking an anchor tenant and strategic investment partner for a proposed up to 1GW data centre and renewable energy hub about 100km south of Broome, with a final investment decision on the initial 240MW phase targeted for 2029.\n\nThe proposed Meridien project would combine 5.2GW of solar generation, 1.5GW of wind generation and 5GWh of battery storage with dispatchable power generation to support a data centre campus on Karajarri Country in Western Australia’s Kimberley region.\n\nGingerah Energy chief executive Jop van Hattum told W.Media the company’s current indicative programme envisages construction of the initial phase beginning in 2029, with capacity commissioned progressively between 2030 and 2032. The overall project remains subject to environmental and other approvals, financing, customer commitments and infrastructure delivery.\n\n“Our objective is to secure an anchor tenant prior to commencing FEED, so that detailed development is aligned with customer requirements,” van Hattum said.\n\nThe company is also seeking a strategic investment partner to support the project through to a final investment decision. Discussions with prospective customers, infrastructure partners and investors remain exploratory, according to van Hattum.\n\n### Gas-fired generation in the proposed energy mix\n\nAlthough renewable generation would provide the principal source of electricity, the proposed system also includes up to 1.5GW of dispatchable generation capacity.\n\nVan Hattum confirmed that Gingerah Energy currently envisages gas-fired generation to provide firming during extended periods of low renewable output and support operational resilience.\n\n“The figures describe an indicative energy configuration for the ultimate campus of up to 1GW of IT capacity,” van Hattum said. “They are not the infrastructure we would build on day one. The energy system would expand alongside contracted data centre demand.”\n\nSolar generation would provide daytime output, while wind would contribute a different generation profile. Batteries would shift renewable energy into other periods and provide rapid response, with gas-fired generation intended to cover longer periods of insufficient renewable supply.\n\nThe referral describes the firming facility as primarily a reliability and backup asset rather than the project’s principal source of electricity, with firming generation decreasing as the project scales up. It names open-cycle gas turbines as the current reference technology.\n\nVan Hattum said the technology, fuel supply arrangements and operating profile of the dispatchable plant would be refined through further engineering and customer engagement. The referral keeps the fuel question open, referring to gas and/or diesel handling infrastructure and noting that about 1,000m³ of additional diesel storage may be necessary.\n\nIt says the final fuel source will be determined through further technical, commercial and environmental assessment.\n\nThe proposed renewable generation capacity is substantially larger than the data centre’s IT load because wind and solar do not operate at full output continuously. The system would also need to accommodate cooling and other facility loads, storage losses and operating reserves.\n\nGingerah Energy said its objective was to optimise reliability, delivered electricity cost and the renewable energy contribution across the system.",
+      "content_url": "https://w.media/gingerah-seeks-anchor-tenant-for-up-to-1gw-data-centre-in-western-australia/"
+    },
+    {
+      "id": "2026-10-24-d3f609",
+      "title": "Can seawater become the next big data centre innovation?",
+      "summary": "\"Further, investment in India’s data centre sector is projected to increase from ₹0.36 trillion in FY26 to ₹1.31 trillion by FY32, reflecting its growing importance in India's digital infrastructure ecosystem, with a 20-year tax horizon extending to 2047.\"",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [],
+      "published_at": "2026-10-23T06:26:49Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/can-seawater-become-the-next-big-data-centre-innovation/135137271",
+          "type": "rss"
+        }
+      ],
+      "content": "With growing adoption of artificial intelligence (AI), machine learning (ML), and generative AI applications driving demand for high-performance data centres, India's data centre capacity has grown rapidly from 375 MW in CY20 to 1,575 MW in CY26. Capacity is further projected to reach 8,000 MW by CY30, highlighting the sector's robust growth outlook.The data centre capacity pipeline growth is driven by increasing demand from cloud services, AI workloads, and digital transformation initiatives, as investments by hyperscalers and data centre operators continue to strengthen India's position as a key data centre market in the Asia-Pacific region.Further, investment in India’s data centre sector is projected to increase from ₹0.36 trillion in FY26 to ₹1.31 trillion by FY32, reflecting its growing importance in India's digital infrastructure ecosystem, with a 20-year tax horizon extending to 2047.**Accelerating Cost Efficiency Remains Key Concern**As the Digital India infrastructure adds another disruptor to its plan: mega Data Centres across the national landscape, making technology sustainable and cost-effective, command the long game.The demand for power to run these current and projected facilities, and for water to cool the heat produced by data centres, currently makes headlines as economies weigh cooling technologies, cost-effectiveness, and future outlook regarding optimal usability of AI.The expected electricity demand from the growth of AI and other large-scale data centres, as per the Ministry of Power, is estimated to reach 17 GW by 2031–32, with the current capacity being about 1575 MW. However, water requirements for cooling data centres of this scale are subject to the capacity of data centres and the cooling system technology.In this regard, as per International Energy Agency (IEA) estimates, individual hyperscale data centres with a 100MW facility could require 2.5 billion litres of water annually, equivalent to the needs of approximately 80,000 people. Thus, freshwater dependence and the volume of water used under various cooling technologies become the key to making data centres cost-efficient for the future.Moreover, as cooling choice drives both power and water consumption, traditional systems like HVAC and chiller-based air-cooling systems are increasingly replaced by more efficient and relatively lower-cost alternatives such as direct-to-chip liquid cooling, adiabatic cooling, and immersion cooling.More importantly, seawater-based cooling (deep seawater cooling) is emerging as a potentially cheaper long-term solution by using naturally cold ocean water, significantly reducing energy consumption, although high initial infrastructure costs remain a constraint.**Sustained Seawater Cooling Adoption Remains Key**Recently, frameworks to assess the feasibility of Deep Seawater Cooling (DSWC) systems as an alternative to energy-intensive cooling methods are under evaluation. The methodology integrates precise thermocline profiling to identify optimal cold-water depths, corrosion-resistant HDPE pipeline design calibrated for flow efficiency, and segmented insulation to minimise heat gain during transit.Further, by leveraging naturally cold ocean layers, DSWC systems could ease grid pressure, reduce operational costs, and significantly cut emissions. Thus, seawater cooling coupled with a scalable roadmap for coastal and island regions, policy support, technology transfer, and green financing, could play a critical role in building India’s sustainable digital infrastructure.***(DISCLAIMER: Views expressed are the author's personal.)***\n\n- AI & Compute Infrastructure\n- 3 min Read\n\n# Can seawater become the next big data centre innovation?\n\n\"Further, investment in India’s data centre sector is projected to increase from ₹0.36 trillion in FY26 to ₹1.31 trillion by FY32, reflecting its growing importance in India's digital infrastructure ecosystem, with a 20-year tax horizon extending to 2047.\"\n\n- Published On Oct 23, 2026 at 11:56 AM IST\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/can-seawater-become-the-next-big-data-centre-innovation/135137271"
+    }
+  ]
+}
