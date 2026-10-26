@@ -2,80 +2,27 @@
   "date": "2026-10-25",
   "generated_at": "2026-10-25T06:16:25Z",
   "hot": [
-    "2026-10-25-7b6bb1",
-    "2026-10-25-12c342",
-    "2026-10-25-3573e1",
-    "2026-10-25-0575ee",
-    "2026-10-25-4622f1"
+    "2026-10-25-3573e1"
   ],
   "stories": [
-    {
-      "id": "2026-10-25-12c342",
-      "title": "Ukrainian drone strike damages Russian tax service data center",
-      "summary": "Ukrainian strike drones damaged a data center operated for Russia's Federal Tax Service in Gorodets, Nizhny Novgorod Oblast, on October 23. This facility is one of two key Federal Tax Service data centers operating in a geo-distributed mode.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-25T02:25:57Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/operations-resilience/ukrainian-drone-strike-damages-russian-tax-service-data-center/135181840",
-          "type": "rss"
-        }
-      ],
-      "content": "Ukrainian strike drones damaged a data center operated for Russia's Federal Tax Service in Gorodets, Nizhny Novgorod Oblast, overnight on October 23, according to reports from Exilenova+ and Astra, and covered by Data Center Dynamics.The Gorodets building is one of two key Federal Tax Service data centers, which operate in a geographically distributed mode, Militarnyi reported. The other primary facility is the Federal Data Center in Dubna, outside Moscow.The centers store and process state registers, including centralised tax databases, civil registry records, and the register of legal entities. Damage to the Gorodets facility could potentially affect the operation of state information systems, Exilenova+ said.This strike is part of a widening campaign against data centers on both sides of the conflict. Ukraine has reportedly hit Yandex data centers three times since mid-October, while Russian strikes have damaged Ukrainian sites, Meduza reported.Baxtel counts 58 data center facilities in Russia, operated by 18 providers. The impact and extent of damage to the Gorodets facility are still being assessed, Militarnyi reported.\n\n- Operations & Resilience\n- 1 min Read\n\n# Ukrainian drone strike damages Russian tax service data center\n\nUkrainian strike drones damaged a data center operated for Russia's Federal Tax Service in Gorodets, Nizhny Novgorod Oblast, on October 23. This facility is one of two key Federal Tax Service data centers operating in a geo-distributed mode.\n\n- Published On Oct 25, 2026 at 07:55 AM IST\n\n## Highlights\n\n- Ukrainian drones damaged a Russian Federal Tax Service data center in Gorodets, Nizhny Novgorod Oblast, on October 23.\n- The Gorodets facility is one of two key geo-distributed data centers for the Federal Tax Service.\n- Damage could potentially affect Russian state information systems, including tax and civil registry records.\n- The strike is part of a broader campaign targeting data centers in conflict zones by both sides.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/operations-resilience/ukrainian-drone-strike-damages-russian-tax-service-data-center/135181840"
-    },
-    {
-      "id": "2026-10-25-7b6bb1",
-      "title": "Neysa to deploy 9,000 GPUs at STT GDC Noida 2 data center",
-      "summary": "Neysa will deploy GPU infrastructure supporting up to 9,000 GPUs at STT Noida 2, an STT GDC data center in Uttar Pradesh, India. This first phase of a multi-year partnership is designed for high-density AI training and inference, set to go live in the first quarter of 2027.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 2,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-25T02:25:21Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/neysa-to-deploy-9000-gpus-at-stt-gdc-noida-2-data-center/135181830",
-          "type": "rss"
-        },
-        {
-          "name": "W.Media",
-          "url": "https://w.media/neysa-to-deploy-9000-gpus-at-sttgdcs-noida-data-center/",
-          "type": "rss"
-        }
-      ],
-      "companies": [
-        "STT GDC"
-      ],
-      "content": "Neysa will deploy GPU infrastructure to support up to 9,000 GPUs at STT Noida 2, an STT GDC data center in Uttar Pradesh, India. ST Telemedia Global Data Centres (STT GDC) announced the deployment on Oct. 21, marking the first phase of a multi-year working relationship with Neysa.Neysa installs and operates the GPU hardware and its Velocis AI cloud platform within the facility. It sells this capacity to enterprises and startups for production AI workloads in India. The companies did not disclose the contract value, contracted power capacity, or the term of the agreement.The initial phase is designed for high-density AI training and inference, according to STT GDC. It is scheduled to go live in the first quarter of 2027. The companies stated that this setup will keep AI workloads close to users and data, supporting predictable latency and data residency.Bimal Khandelwal, Chief Executive Officer for India at STT GDC, commented that India's AI ambitions rely on access to compute. They also depend on the digital infrastructure needed to support complex and compute-intensive workloads at scale. Neysa, founded in 2023, is backed by Blackstone. Blackstone led over $1 billion in funding for a planned deployment of more than 20,000 GPUs in India.Sharad Sanghi, co-founder and Chief Executive Officer of Neysa, stated that customers require capacity they can plan around. They also need reliable operations and room to scale as workloads evolve. STT GDC India manages over 613MW of critical IT load across 34 facilities, including those under development, in 10 cities. Baxtel lists STT Noida 2 with 17.5 MW of operational capacity and a 2024 build date.\n\n- AI & Compute Infrastructure\n- 1 min Read\n\n# Neysa to deploy 9,000 GPUs at STT GDC Noida 2 data center\n\nNeysa will deploy GPU infrastructure supporting up to 9,000 GPUs at STT Noida 2, an STT GDC data center in Uttar Pradesh, India. This first phase of a multi-year partnership is designed for high-density AI training and inference, set to go live in the first quarter of 2027.\n\n- Published On Oct 25, 2026 at 07:55 AM IST\n\n## Highlights\n\n- Neysa will deploy 9,000 GPUs at STT GDC's Noida 2 data center.\n- The first phase is for high-density AI training and inference.\n- Deployment is part of a multi-year partnership, going live Q1 2027.\n- The setup aims to ensure predictable latency and data residency for users.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/neysa-to-deploy-9000-gpus-at-stt-gdc-noida-2-data-center/135181830"
-    },
     {
       "id": "2026-10-25-3573e1",
       "title": "Anwar says a global investor plans US$50b tech investment in Malaysia",
       "summary": "Prime Minister Datuk Seri Anwar Ibrahim on Saturday disclosed that a global investor plans to invest US$50 billion (RM204 billion) in the artificial intelligence (AI), new technology and data centre sectors in Sarawak and Peninsular Malaysia.",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "If this commitment materialises, it would significantly accelerate Malaysia's emergence as a hyperscale and AI data centre hub, adding to the wave of capacity announced across Johor and the Klang Valley. Sarawak's inclusion signals that data centre development is spreading beyond the traditional southern corridor, with implications for power demand, land pricing and competition for renewable energy across both regions. The lack of a named investor, however, means the announcement should be treated as aspirational until contracts are signed.",
+      "score": 75,
       "heat": 1,
       "regions": [
         "southeast-asia"
       ],
-      "topics": [],
+      "topics": [
+        "investment",
+        "ai",
+        "data-center",
+        "hyperscale"
+      ],
       "published_at": "2026-10-24T13:40:03Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "The Edge Malaysia — data centre search",
@@ -85,53 +32,10 @@
       ],
       "content": "MELAKA (Oct 24): Prime Minister Datuk Seri Anwar Ibrahim on Saturday disclosed that a global investor plans to invest US$50 billion (RM204 billion) in the artificial intelligence (AI), new technology and data centre sectors in Sarawak and Peninsular Malaysia.\n\nHe said the investor conveyed the intention during a recent video conference with him, describing the proposed investment as one of the largest in the region.\n\nAnwar said this technology sector investment can create new and better job opportunities for Malaysians, particularly the younger generation, including students in schools and institutions of higher learning.\n\n“Last Tuesday, one of the world’s largest investors held a video conference with me. The investor said he had chosen Kuching, Sarawak, and Peninsular Malaysia for an investment worth US$50 billion, one of the largest investments in the region.\n\n“In which sectors? AI, new technology and data centres. This means that young people currently studying at universities and in schools must recognise that there will be new opportunities waiting, including better employment opportunities,” he said.\n\nAnwar was speaking at the Sentuhan Kasih Madani Programme and launch of the National Cost of Living Action Plan 2030, held at the Hang Jebat Sports Complex here on Saturday. Also at the event was Domestic Trade and Cost of Living Minister Datuk Armizan Mohd Ali.\n\nThe prime minister said international investors’ confidence in Malaysia must be maintained through the country’s political stability and leadership, as well as by ensuring a conducive environment for investment.\n\nAnwar cited peace and harmony among Malaysia’s multiracial and multireligious communities as being one of the country’s strengths, saying it should be leveraged to attract more foreign investment.\n\n“If people don’t have confidence in this government, and if the leadership is constantly quarrelling, investors will not be interested in coming here,” he said.\n\nMeanwhile, Anwar said, Malaysia must continue strengthening its capabilities in emerging technologies, particularly AI, digitalisation and semiconductors, to ensure sustainable economic growth.\n\nHe said efforts to enhance workforce training and skills development are also crucial to enable Malaysia to move beyond back-end technology activities into the middle- and front-end segments, which offer higher added value.\n\nHowever, Anwar stressed that the success in attracting investments and drive economic growth needs to be translated into real benefits for the people, including better job opportunities and higher standard of living.\n\n*Uploaded by Tham Yek Lee*\n\nPrint\n\nText Size\n\nShare",
       "content_url": "https://theedgemalaysia.com/node/823124",
-      "published_precision": "day"
-    },
-    {
-      "id": "2026-10-25-0575ee",
-      "title": "San Francisco Bay Area data center market overview",
-      "summary": "The San Francisco Bay Area data center market is concentrated in South Bay, also known as Silicon Valley. This region faces earthquake risks, but providers invest in mitigation measures. Local municipalities offer tax incentives, despite the absence of state-level abatements.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-24T11:20:42Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/market-insights-analysis/san-francisco-bay-area-data-center-market-overview/135169381",
-          "type": "rss"
-        }
-      ],
-      "content": "The San Francisco Bay Area (SFBA) data center market includes three sub-markets: San Francisco East Bay, Oakland, and South Bay, which is also known as Silicon Valley.The South Bay holds the highest concentration of data centers, according to Baxtel. The entire Bay Area faces an ongoing risk of earthquakes, prompting data center providers to invest capital in mitigating potential building damage. However, a major seismic event could still hinder access to facilities and disrupt power or fiber connections.\n### Power and connectivity advantages\n\nThe State of California does not provide tax abatement incentives for data centers. Local municipalities, such as Santa Clara, offer incentives like the absence of a city user tax, which can save 5 per cent.Industrial power rates in the Bay Area generally range from 9 to 16 cents per kilowatt-hour. Santa Clara stands out with lower power rates, fostering a data center building boom. Silicon Valley Power, a not-for-profit municipal utility owned by the City of Santa Clara, provides industrial electricity at rates 20 to 40 per cent lower than areas served by Pacific Gas and Electric (PG&E).The Silicon Valley metro area benefits from strong network connectivity. This is due to numerous Internet Exchange Points (IXPs) and interconnection hubs. Equinix operates the two largest IXPs: the Equinix Exchange and the Palo Alto Internet Exchange (PAIX), which it acquired with Switch and Data in 2010. Non-profit IXPs like SFMIX and AMS-IX BA also contribute to market competition.Major colocation providers with multiple sites in the region include Equinix, Internap, Digital Realty, CoreSite, and CenturyLink. Companies like EdgeconneX, H5, Hurricane Electric, and vXchnge each operate a single data center in the Bay Area.\n\n- Market Insights & Analysis\n- 1 min Read\n\n# San Francisco Bay Area data center market overview\n\nThe San Francisco Bay Area data center market is concentrated in South Bay, also known as Silicon Valley. This region faces earthquake risks, but providers invest in mitigation measures. Local municipalities offer tax incentives, despite the absence of state-level abatements.\n\n- Published On Oct 24, 2026 at 04:50 PM IST\n\n## Highlights\n\n- South Bay, or Silicon Valley, hosts the largest concentration of Bay Area data centers.\n- Data center providers invest in earthquake risk mitigation in the seismically active region.\n- Santa Clara offers industrial power rates 20-40 per cent lower than PG&E service areas.\n- The Silicon Valley metro area features robust network connectivity with multiple IXPs.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/market-insights-analysis/san-francisco-bay-area-data-center-market-overview/135169381"
-    },
-    {
-      "id": "2026-10-25-4622f1",
-      "title": "AI demand shifts Europe's data center footprint beyond FLAP",
-      "summary": "AI demand is driving changes in Europe's data center footprint, moving beyond traditional FLAP markets. This shift requires a more distributed model, with compute resources closer to end users.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-24T11:20:24Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/ai-demand-shifts-europes-data-center-footprint-beyond-flap/135169361",
-          "type": "rss"
-        }
-      ],
-      "content": "AI demand is reshaping infrastructure investment across Europe, pushing the industry beyond established FLAP (Frankfurt, London, Amsterdam, Paris) hubs. Emerging AI applications, such as agentic AI and physical AI, require compute resources closer to end users, demanding single-digit millisecond latency.Industry leaders debated this shift at a Capacity Europe 2026 panel, noting that latency, sovereignty concerns, AI inference needs, and limited power availability in markets like Frankfurt are accelerating the trend. However, panellists agreed that major hubs will continue to aggregate content and compute, while edge facilities support localised services.\n### Sovereignty and regulatory hurdles\n\nSovereignty emerged as a key topic, with experts defining it as having technology and know-how at a competitive level. Governments and enterprises are increasingly concerned about data storage, processing, and model training for sensitive sectors like healthcare and public administration.However, Europe's regulatory environment, including overlapping rules, long approval timelines, and complex permitting processes, poses a significant barrier. Amar Khan, Meta's head of network site investments, noted that European developments often take several years, unlike other markets. Falk Weinreich, CEO of Portus Data Centres, described German permitting as a \"nightmare\", reflecting broader European challenges.The panel concluded that Europe's challenge is not a lack of capital or investment appetite. Policymakers should focus on stimulating demand and confidence in European digital services, rather than solely announcing more infrastructure projects.\n\n- Cloud, Colocation & Connectivity\n- 1 min Read\n\n# AI demand shifts Europe's data center footprint beyond FLAP\n\nAI demand is driving changes in Europe's data center footprint, moving beyond traditional FLAP markets. This shift requires a more distributed model, with compute resources closer to end users.\n\n- Published On Oct 24, 2026 at 04:50 PM IST\n\n## Highlights\n\n- Europe's data center footprint is shifting from FLAP to distributed edge locations due to AI demand.\n- Latency, sovereignty, and power constraints in major hubs drive the need for compute closer to users.\n- Major hubs like London and Frankfurt will remain, while edge facilities support localised AI services.\n- Europe's complex regulatory approvals and permitting processes hinder data center investment.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/ai-demand-shifts-europes-data-center-footprint-beyond-flap/135169361"
+      "published_precision": "day",
+      "title_zh": "Anwar：一家全球投资者计划在马来西亚投资500亿美元用于科技领域",
+      "summary_zh": "首相拿督斯里安华·依布拉欣（Datuk Seri Anwar Ibrahim）周六透露，一家全球投资者计划在马来西亚砂拉越和半岛地区的人工智能（AI）、新技术和数据中心领域投资500亿美元（2040亿令吉）。",
+      "why_zh": "如果这一承诺得以落实，将显著加速马来西亚成为 hyperscale 和 AI 数据中心枢纽的进程，为柔佛和巴生谷地区已宣布的一波容量建设再添助力。沙捞越的加入表明数据中心开发正在向传统南部走廊以外扩展，这对两个地区的电力需求、土地定价以及可再生能源竞争都将产生影响。然而，由于尚未公布投资者名称，在该公告落实为正式合同之前，应将其视为一种愿景性表态。"
     }
   ]
 }

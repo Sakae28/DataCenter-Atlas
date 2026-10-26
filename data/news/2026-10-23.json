@@ -4,24 +4,29 @@
   "hot": [
     "2026-10-23-83009b",
     "2026-10-23-f662cf",
-    "2026-10-23-3728c5",
+    "2026-10-23-b6e031",
     "2026-10-23-408a97",
-    "2026-10-23-32f33b"
+    "2026-10-23-29a585"
   ],
   "stories": [
     {
       "id": "2026-10-23-f662cf",
       "title": "Asia's AI data center boom faces 'reality check' from public markets",
       "summary": "TOKYO/CANBERRA -- Data center companies across Asia are facing growing investor scrutiny as a series of stalled initial public offerings and volatile stock market debuts raises questions about…",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "Private capital had been underwriting Asia's data center buildout on the assumption of easy exits via IPO; the current reality check forces developers to rely more on debt and strategic partners. Investors become more selective, while operators without secured power and anchor tenants may have to delay or scale back projects.",
+      "score": 85,
       "heat": 1,
       "regions": [
         "global"
       ],
-      "topics": [],
+      "topics": [
+        "investment",
+        "ai",
+        "colocation",
+        "markets"
+      ],
       "published_at": "2026-10-23T06:06:16Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "Nikkei Asia",
@@ -30,19 +35,26 @@
         }
       ],
       "content": "TOKYO/CANBERRA -- Data center companies across Asia are facing growing investor scrutiny as a series of stalled initial public offerings and volatile stock market debuts raises questions about valuations in the booming infrastructure business.\n\nArtificial intelligence\n# Asia's AI data center boom faces 'reality check' from public markets\n\nSetbacks in Australian and South Korean IPOs show growing investor concerns\n\nAsian data center providers such as Singapore's DayOne and Australia's NextDC are suffering as investors grow skeptical of the AI infrastructure buildout. (Nikkei montage/Source photos by Getty images and DayOne's website)",
-      "content_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/asia-s-ai-data-center-boom-faces-reality-check-from-public-markets"
+      "content_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/asia-s-ai-data-center-boom-faces-reality-check-from-public-markets",
+      "title_zh": "亚洲AI数据中心热潮面临公开市场“现实检验”",
+      "summary_zh": "东京/堪培拉 -- 随着一系列停滞的首次公开募股（IPO）和动荡的股市首秀引发质疑，亚洲各地的数据中心公司正面临投资者日益严格的审视……",
+      "why_zh": "私人资本一直基于可通过IPO轻松退出的假设，为亚洲数据中心的建设提供资金；当前的现实检验迫使开发商更多依赖债务和战略伙伴。投资者变得更加挑剔，而没有锁定电力和锚定租户(anchor tenant)的运营商可能不得不推迟或缩减项目。"
     },
     {
       "id": "2026-10-23-3728c5",
       "title": "What it takes to build a sustainable data centre for the AI era",
       "summary": "From factory-built modules to on-site water treatment, Bridge Data Centres is building sustainability into every stage of a data centre’s life",
       "why_it_matters": "",
-      "score": null,
+      "score": 60,
       "heat": 1,
       "regions": [
         "southeast-asia"
       ],
-      "topics": [],
+      "topics": [
+        "sustainability",
+        "design",
+        "colocation"
+      ],
       "published_at": "2026-10-23T06:06:16Z",
       "featured": false,
       "sources": [
@@ -53,21 +65,29 @@
         }
       ],
       "content": "From factory-built modules to on-site water treatment, Bridge Data Centres is building sustainability into every stage of a data centre’s life\n\nAS ARTIFICIAL intelligence and cloud computing reshape how economies grow, data centres have become essential infrastructure. They enable economies to connect, businesses to innovate and communities to take part in a more digital future.\n\nFor Bridge Data Centres (BDC), this means building data centres to provide the digital infrastructure that supports growth across Asia-Pacific and beyond. Chief executive officer Eric Fan says the company aims to meet rising demand while helping define what responsible digital infrastructure should become.\n\nThat makes sustainability a core part of BDC’s growth strategy, he adds. Sustainability shapes every stage of a data centre’s life, from site selection and design to construction, energy and water sourcing, and daily operations.\n\nThe company’s latest Sustainability Report shows what this looks like in practice. For instance, at BDC’s MY06 campus in Johor, Malaysia, a large part of the data centre was built off-site before it reached the site.\n\nBDC utilised Prefabricated Prefinished Volumetric Construction (PPVC), where data centre modules were made and tested in factories, then installed on the campus. MY06 was completed 40 per cent faster than with traditional methods, with less waste and noise produced on site. BDC was the first data centre developer in South-east Asia to adopt PPVC.\n\nWhen the campus was running, BDC’s operations team lowered fan speeds and raised the temperature set point by one degree on air-conditioning units in an electrical equipment room. Energy used to cool that room fell by nearly a quarter. MY06 now runs at an annualised Power Usage Effectiveness (PUE\\*) below 1.2.\n\nThe MY06 campus also made BDC the first data centre operator to receive the BCA Green Mark Platinum award for a facility outside Singapore. BDC has since signed a Memorandum of Understanding with BCA International to support the adoption of Singapore’s Green Mark standards in global data centre developments.\n\nAI adds pressure. Each rack holds more computing power and produces more heat. BDC designs cooling – from air to liquid cooling – to suit each site’s climate and water supply.\n\nBDC has put numbers against these ambitions. Its near-term emissions targets, validated by the Science Based Targets initiative, call for it to cut absolute Scope 1 and Scope 2 emissions by 42 per cent by 2030, from a 2024 base year. It is also committed to 100 per cent renewable electricity by 2040 under RE100.\n\nThese targets, along with projects such as MY06, are set out in BDC’s 2025 Sustainability Report, which is prepared with reference to the GRI Standards and IFRS S2 Climate-related Disclosures.\n\nFan says the next generation of data centres “must deliver scale and reliability, but they must also be more efficient in energy use, more thoughtful in water management, more resilient to climate and operational risks”.\n\n## Renewable energy and water treatment for greener data centres\n\nSeveral of BDC’s projects focus on the two areas Fan highlights: energy and water.\n\nIn Malaysia, BDC was the first data centre operator to sign a 400 MW agreement with the national utility under the Corporate Renewable Energy Supply Scheme. The agreement is for its MY07 campus in Johor, Malaysia.\n\nBDC completed its inaugural hydrotreated vegetable oil (HVO)-powered backup fuel pilot in Asia-Pacific at one of the company’s data centre campuses. The pilot demonstrated that HVO can be used as a cleaner alternative to conventional diesel for critical data centre backup power systems. Produced from waste-based feedstock, HVO requires no equipment changes and can cut greenhouse-gas emissions by up to 90 per cent.\n\nAt MY07, BDC built Malaysia’s first water treatment plant within a data centre site. Using membrane bioreactor and reverse osmosis technologies, the plant treats effluent into high-grade water for cooling. Running since 2025, it reduces the campus’s reliance on potable water by up to 40 per cent.\n\nBDC has also endorsed the UN Global Compact’s CEO Water Mandate.\n\n## Training and talent development in data centre operations\n\nData centres depend on specialised skills. BDC brings together an international team with expertise in engineering, critical operations, safety management and customer delivery.\n\nThe company invests in building those skills. Training reaches every BDC employee, from leadership development and technical certifications to education sponsorships for staff pursuing degrees. Total training hours more than doubled year-on-year.\n\nIn Malaysia, BDC works with institutes of higher learning to grow local talent. Its Management Trainee Programme prepares engineering graduates for roles in critical operations.\n\nDiversity is part of that strength. Women hold a third of C-suite leadership roles and close to a third of senior management positions. BDC is a signatory to the Women’s Empowerment Principles, established by UN Women and the UN Global Compact, and sees diverse leadership as a driver of balanced decision-making.\n\n“BDC will continue to build with purpose and discipline,” says Fan. “We will invest in technologies that improve reliability and efficiency, strengthen our climate and resource management, enhance transparency and work with partners to scale practical solutions.”\n\nFind out more about BDC’s sustainability efforts in its 2025 Sustainability Report.\n\n*\\*PUE measures how much total power a facility uses for each unit that reaches its IT equipment. The closer to 1.0, the more energy efficient. PUE is the standard industry metric used to measure data centre energy efficiency, defined by ISO 30134-2.*\n\nShare with us your feedback on BT's products and services",
-      "content_url": "https://www.businesstimes.com.sg/companies-markets/what-it-takes-to-build-a-sustainable-data-centre-for-the-ai-era-bridge-data-centres"
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/what-it-takes-to-build-a-sustainable-data-centre-for-the-ai-era-bridge-data-centres",
+      "companies": [
+        "Bridge Data Centres"
+      ],
+      "title_zh": "AI时代，如何打造一座可持续的数据中心",
+      "summary_zh": "从工厂预制的模块到现场水处理，Bridge Data Centres 正在将可持续性融入数据中心生命周期的每个阶段"
     },
     {
       "id": "2026-10-23-408a97",
       "title": "Johor data centres could consume over 90% of peninsula's additional power generation by 2031 — BMI",
       "summary": "Johor's booming data centre industry could consume more than 90% of the additional electricity generated in Peninsular Malaysia in the next five years, raising concerns over power supply and grid infrastructure constraints, according to a report by BMI, a Fitch Solutions company.",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "Malaysian policymakers face a choice between capping data centre connections to protect manufacturing competitiveness or accelerating generation and transmission investment. Developers relying on Johor's land and fibre advantages now face real curtailment risk, while secondary Malaysian markets like Penang could absorb overflow demand.",
+      "score": 78,
       "heat": 1,
       "regions": [
         "southeast-asia"
       ],
-      "topics": [],
+      "topics": [
+        "power",
+        "capacity"
+      ],
       "published_at": "2026-10-23T04:56:19Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "The Edge Malaysia — data centre search",
@@ -77,44 +97,33 @@
       ],
       "content": "KUALA LUMPUR (Oct 23): Johor's booming data centre industry could consume more than 90% of the additional electricity generated in Peninsular Malaysia in the next five years, raising concerns over power supply and grid infrastructure constraints, according to a report by BMI, a Fitch Solutions company.\n\nBMI estimated that Johor’s data centres would require about 30 terawatt-hours (TWh) of electricity annually by 2031, accounting for 18% of Peninsular Malaysia’s total electricity supply, up from 6% in 2026.\n\nBMI warned that Johor could face the tightest electricity supply constraints among the data centre hubs it researched in the region, including Sydney and Melbourne in Australia, and Batam in Indonesia.\n\nJohor currently has about 825 megawatts (MW) of operational data centre capacity, with another 3.9 gigawatts (GW) expected to be added over the next three to five years, due to growing demand for cloud computing and artificial intelligence (AI).\n\nMajor projects include YTL Power International Bhd’s (KL:YTLPOWR) 1.2GW data centre campus, which is expected to have its first 300MW operational by the first quarter of 2027, and a 300MW facility in Sedenak owned by Vantage Data Centers — backed by US alternative asset manager DigitalBridge Group Inc.\n\nBMI expects some planned data centres to face delays, particularly those that have yet to secure electricity connections, even as demand for AI computing continues to grow.\n\nIt said the bigger challenge lies in connecting new data centres to the electricity grid, rather than generating enough power.\n\n“Grid infrastructure takes considerably longer to develop than data centres, meaning headline generation capacity can overstate how much power is actually accessible to new projects,” said the macroeconomics research firm.\n\nAlthough Peninsular Malaysia's grid is operating at an estimated 30% of its overall capacity, data centre developments are concentrated in areas such as Sedenak and Nusajaya, where local electricity infrastructure is becoming strained.\n\nBMI noted that Tenaga Nasional Bhd (KL:TENAGA) plans to invest RM43 billion in grid upgrades, but major infrastructure projects typically take five to 10 years to complete, potentially delaying new data centre developments.\n\nThe research unit also expects Malaysia to increase its gas-fired electricity generation to meet growing demand, with some scheduled power plant closures potentially postponed to ensure sufficient supply.\n\nWhile electricity generation is expected to meet demand under BMI's base-case projections, higher-than-expected data centre activity could strain supply.\n\nEdited BySyed Azahedi\n\nPrint\n\nText Size\n\nShare",
       "content_url": "https://theedgemalaysia.com/node/822977",
-      "published_precision": "day"
-    },
-    {
-      "id": "2026-10-23-32f33b",
-      "title": "Europe's digital infrastructure faces power, connectivity challenges",
-      "summary": "Europe's AI sector faces a new challenge in delivering power, connectivity, and capacity for development, despite abundant demand. Data centre construction is often the easiest part, with external dependencies posing significant hurdles.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
+      "published_precision": "day",
+      "companies": [
+        "BMI",
+        "Fitch Solutions"
       ],
-      "topics": [],
-      "published_at": "2026-10-23T04:20:24Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/europes-digital-infrastructure-faces-power-connectivity-challenges/135134182",
-          "type": "rss"
-        }
-      ],
-      "content": "Delivering adequate power, connectivity, and capacity to support Europe’s growing artificial intelligence (AI) sector remains a key challenge, despite high demand, according to panellists at Capacity Europe 2026.Paula Cogan, managing director, EMEA at Digital Realty, stated that building a facility is often the easiest part of the process. She noted that the primary challenge lies in external dependencies, including power availability, grid connections, permitting, and increasing public scrutiny.AI workloads are driving rapid demand for capacity, making access to electricity the industry’s main constraint. Brenden Rawle of Equinix highlighted the uncertainty surrounding utility connection timelines, which impacts effective planning for large-scale deployments.AI training workloads are increasingly drawn to regions such as the Nordics, which offer access to large blocks of affordable power. Cogan also observed a convergence, with customers seeking to run both AI use cases and cloud deployments on the same platform.\n### Collaboration and Connectivity\n\nConnectivity is becoming increasingly important in digital infrastructure planning. Cogan emphasised that a data centre requires a deep connectivity ecosystem to function effectively.Joe Scattareggia, executive vice president at Colt Technology Services, stressed the value of involving connectivity providers early in data centre development. He stated that early involvement simplifies integration into global network planning, budgets, and forecasts.Rawle confirmed that Equinix collaborated with connectivity partners years before opening a major London development. Panellists collectively argued that no single organisation can resolve Europe’s infrastructure challenges alone, making collaboration vital.Scattareggia urged early and open collaboration, acknowledging the competitive nature of sites but highlighting the necessity of trust. Cogan echoed this, advocating for greater transparency on demand forecasts and infrastructure needs across the ecosystem, including grid providers and communities.Despite challenges related to energy use and sustainability, demand for digital infrastructure and investment levels continue to rise. Scattareggia concluded that the sector is experiencing a unique opportunity with unprecedented investment.\n\n- Cloud, Colocation & Connectivity\n- 2 min Read\n\n# Europe's digital infrastructure faces power, connectivity challenges\n\nEurope's AI sector faces a new challenge in delivering power, connectivity, and capacity for development, despite abundant demand. Data centre construction is often the easiest part, with external dependencies posing significant hurdles.\n\n- Published On Oct 23, 2026 at 09:50 AM IST\n\n## Highlights\n\n- Europe's AI sector faces a major challenge in securing power, connectivity, and capacity.\n- Digital Realty's Paula Cogan noted external dependencies like power and permitting are harder than construction.\n- Equinix's Brenden Rawle highlighted uncertain utility connection timelines as a key planning hurdle.\n- Panellists at Capacity Europe 2026 urged early, open collaboration among all infrastructure ecosystem players.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/europes-digital-infrastructure-faces-power-connectivity-challenges/135134182"
+      "title_zh": "BMI：到2031年，柔佛数据中心或消耗半岛新增发电量的90%以上",
+      "summary_zh": "根据 Fitch Solutions 旗下 BMI 的一份报告，柔佛蓬勃发展的数据中心行业可能在未来五年消耗马来西亚半岛新增发电量的 90% 以上，引发对电力供应和电网基础设施限制的担忧。",
+      "why_zh": "马来西亚政策制定者面临抉择：要么限制数据中心接入以保护制造业竞争力，要么加快发电和输电投资。依赖柔佛土地和光纤优势的开发商如今面临真实的限电(cur-tailment)风险，而槟城等马来西亚二线市场可能承接外溢需求。"
     },
     {
       "id": "2026-10-23-8f38ff",
       "title": "Nebius Group secures multi billion loan to fund AI infrastructure expansion",
       "summary": "Nebius Group (Nebius), an AI cloud company, has entered into a US$ 3.5 billion senior secured credit facility provided by Citi, an American multinational investment bank and financial services corporation, to help finance its data center expansion and GPU procurement to increase its global infrastructure capacity. According to a press release, the 364 day facility […]",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "The deal marks a milestone in lenders' willingness to finance GPU-heavy balance sheets with conventional bank debt rather than equity or vendor financing, potentially lowering capital costs across the neocloud sector. Competitors like CoreWeave and regional AI cloud providers gain a replicable funding template, though rollover risk looms given the facility's sub-one-year tenor.",
+      "score": 70,
       "heat": 1,
       "regions": [
         "global"
       ],
-      "topics": [],
+      "topics": [
+        "investment",
+        "ai",
+        "capacity",
+        "financing"
+      ],
       "published_at": "2026-10-23T04:02:37Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "W.Media",
@@ -123,24 +132,33 @@
         }
       ],
       "companies": [
-        "Nebius"
+        "Nebius Group",
+        "Citi"
       ],
       "content": "Nebius Group (Nebius), an AI cloud company, has entered into a US$ 3.5 billion senior secured credit facility provided by Citi, an American multinational investment bank and financial services corporation, to help finance its data center expansion and GPU procurement to increase its global infrastructure capacity.\n\nAccording to a press release, the 364 day facility carries an initial interest rate of Term SOFR plus 2.75 percent per year, rising to a maximum of 3.5 percent, subject to other adjustments. The proceeds will also be available for general corporate purposes.\n\nThe loan forms part of Nebius’s broader funding strategy, which combines customer prepayments and operating cash flow with external financing. By securing capital through different sources and at different stages of its expansion, the company aims to manage its borrowing costs while retaining flexibility over when and how it raises additional funds.\n\n“We continue to execute our funding strategy as planned, and are pleased to have secured this financing from a leading global financial institution,” said Ophir Nave, Chief Operating Officer, Nebius. “This facility provides additional financing to support our near-term capacity build-out. We still have a range of capital sources available to us to finance the next phase of growth, including asset-backed financing based on investment-grade customer commitments of more than US$ 40 billion of long-term contracts.”\n\nThe Citi facility would support the company’s near-term infrastructure investments while leaving other financing options available for future growth. Citi acted as mandated lead arranger, agent and security agent for the facility and Nebius also pointed to asset backed financing as a potential source of funding.",
-      "content_url": "https://w.media/nebius-group-secures-multi-billion-loan-to-fund-ai-infrastructure-expansion/"
+      "content_url": "https://w.media/nebius-group-secures-multi-billion-loan-to-fund-ai-infrastructure-expansion/",
+      "title_zh": "Nebius Group获得数十亿美元贷款，助力AI基础设施扩张",
+      "summary_zh": "AI 云计算公司 Nebius Group（Nebius）已获得由美国跨国投资银行及金融服务公司花旗（Citi）提供的 35 亿美元高级担保信贷额度，以资助其数据中心扩张和 GPU 采购，从而提升其全球基础设施容量。据新闻稿称，该 364 天期限的信贷额度 [……]",
+      "why_zh": "这笔交易标志着贷款方愿意以传统银行贷款而非股权或厂商融资为GPU密集型资产负债表提供资金，可能降低整个neocloud行业的资本成本。CoreWeave等竞争对手及区域性AI云服务商获得了一套可复制的融资模板，但鉴于该融资工具的期限不足一年，展期(rollover)风险依然存在。"
     },
     {
       "id": "2026-10-23-83009b",
       "title": "SK Group’s data centre arm in talks to fund US$350 billion AI buildout",
       "summary": "This involves a plan to develop 15GW of capacity in South Korea by 2030",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "If structured as project-level or off-balance-sheet financing, the deal could shift how Korea funds its AI buildout without overloading SK Group's credit metrics. It also intensifies competition with KT, LG and Korean REIT-backed players for a finite pool of grid connections, and signals to suppliers that Korean demand will be sustained through 2030.",
+      "score": 80,
       "heat": 3,
       "regions": [
-        "southeast-asia"
+        "korea"
       ],
-      "topics": [],
+      "topics": [
+        "investment",
+        "ai",
+        "capacity",
+        "hyperscale"
+      ],
       "published_at": "2026-10-23T03:49:52Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "The Business Times",
@@ -160,21 +178,32 @@
       ],
       "content": "This involves a plan to develop 15GW of capacity in South Korea by 2030\n\nSK HYPER is in talks with big tech firms and financial investors to secure funding for an envisioned US$350 billion data centre buildout, joining a global rush to roll out artificial intelligence infrastructure despite concerns about future demand.\n\nThe SK Group’s fledgling data centre arm has begun discussions with potential partners to help finance a plan to build 15 gigawatts (GW) of data centre capacity in South Korea by 2035, said Chung Suk-geun, SK Hyper’s chief executive officer.\n\nThe first 5 GW phase alone would require US$350 billion including equipment, he told Bloomberg Television.\n\nThe company aims to secure its first round of external capital by the end of 2026 or early 2027, followed by further fundraising over the next three to four years. SK plans to share the overall cost with data centre tenants and outside investors, he added.\n\n“We are under discussions with many strategic and financial partners,” Chung said in an interview. “We want to be prepared for meeting the market demand by making data centres in Korea.”\n\nSK is pursuing an ambitious blueprint at a time markets are gyrating on fears of an AI bubble. Investors funding data centre projects are getting nervous that spending on future AI services will not be enough to justify the trillions of dollars flowing into a global computing buildout.\n\nChung said his company would adjust the pace of investment according to actual demand, rather than commit to the entire plan upfront. “We are going to manage our risk appropriately, meeting with market demand,” he added.\n\nEstablished in July as a unit of SK Telecom, SK Hyper is seeking to attract global technology companies to South Korea as a base for AI training and operations, serving Asian markets such as Japan and Taiwan rather than relying solely on domestic demand.\n\nSK Group has plenty of affiliates – with expertise in chips, energy and telecommunications – that should help offset relatively high electricity costs by improving computing efficiency, Chung said. SK Telecom itself plans to invest 750 billion won (US$567 million) in SK Hyper by 2030.\n\nSK Hyper is developing a 900 megawatt (MW) project in the southern industrial city of Ulsan, alongside a previously announced 100 MW project for Amazon Web Services. It is in talks with the government to secure additional sites, Chung said.\n\nIt is also exploring opportunities to serve governments in Asia and the Middle East, offering computing capacity and AI models as an integrated package. Chung said SK Hyper could begin generating revenue as early as 2027, ahead of the planned completion of its initial data centres in 2029. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
       "content_url": "https://www.businesstimes.com.sg/companies-markets/sk-groups-data-centre-arm-talks-fund-us350-billion-ai-buildout",
-      "published_precision": "day"
+      "published_precision": "day",
+      "companies": [
+        "SK Group"
+      ],
+      "title_zh": "SK集团数据中心业务洽谈融资，支持3500亿美元AI建设计划",
+      "summary_zh": "这涉及一项到 2030 年在韩国开发 15GW 容量的计划",
+      "why_zh": "如果以项目层面或表外融资的方式构建，这笔交易可能改变韩国为AI建设融资的模式，同时避免加重SK集团的信用指标。它还加剧了与KT、LG及韩国REIT支持型企业之间对有限电网接入资源的竞争，并向供应商发出信号：韩国需求将持续到2030年。"
     },
     {
       "id": "2026-10-23-b6e031",
       "title": "AI data centre backlash threatens Australia’s US$70 bil dream",
       "summary": "More than three-quarters of data centres set to be built around Australia’s biggest cities are at risk from stretched power grids and local opposition, threatening the country’s ambition to become an artificial intelligence (AI) hub for the Asia Pacific region.",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "Australia's AI hub ambitions now hinge on transmission upgrades and planning reform rather than land or capital. International hyperscalers may redirect workloads to markets with faster grid access, while local developers with secured power allocations gain a durable competitive advantage.",
+      "score": 82,
       "heat": 1,
       "regions": [
-        "southeast-asia"
+        "australia"
       ],
-      "topics": [],
+      "topics": [
+        "power",
+        "ai",
+        "capacity",
+        "regulation"
+      ],
       "published_at": "2026-10-23T03:22:37Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "The Edge Malaysia — data centre search",
@@ -184,44 +213,28 @@
       ],
       "content": "(Oct 23): More than three-quarters of data centres set to be built around Australia’s biggest cities are at risk from stretched power grids and local opposition, threatening the country’s ambition to become an artificial intelligence (AI) hub for the Asia Pacific region.\n\nOf the 40-plus large centres planned or under construction in Sydney and Melbourne — representing more than A$100 billion (US$70 billion or RM286 billion) of projected investment — just 23% have confirmed publicly that they have secured electricity supply or grid connections, according to a *Bloomberg* review of company disclosure. Those agreements, a gauge of whether or not a project is advancing, suggest significant setbacks and potential delays.\n\nAustralia has bet heavily on a data-centre boom that is intended to capitalise on its vast open spaces as well as clean-energy potential. To date, though, most of the project pipeline is clustered around Sydney and Melbourne — where almost two in five of its inhabitants live — in order to harness existing fiber networks and reliable power. Those operations put more strain on already stretched infrastructure, and leave developers on a collision course with residents.\n\nIn Sydney, seven of 28 active projects have confirmed power, according to *Bloomberg*’s analysis. In Melbourne, the figure drops to three out of 15.\n\n*Bloomberg* contacted 25 developers to verify public disclosure on power supply and the status of more than 40 projects. Operator GreenSquare declined to comment on its power arrangements but said it was “working closely with relevant authorities and infrastructure partners to support long-term operational performance”. CDC Data Centres said it had “robust delivery plans in place for all sites currently under construction” with power delivery timelines as anticipated.\n\nNine others declined to comment or didn’t directly answer queries on future projects. The rest did not respond.\n\nThe consequences of friction and delays are already apparent. Operator Nextdc Ltd slashed its profit forecast this week after Melbourne residents blocked the installation of towering transmission lines, almost halving the value of its shares.\n\nIn Sydney, Goodman Group abandoned its A$1.2 billion Project Mars development last month. The proposed 90-megawatt facility would have been built about 20 metres from the nearest home and 160 metres from a public school, prompting hundreds of objections to be submitted during the planning process.\n\n“The social licence for Australian data centres is becoming an increasingly significant headwind,” Morgans Financial Ltd analyst Nick Harris wrote this week. “Investors are becoming concerned more delays could occur and question what the knock-on effect might be.”\n\nThe gulf between announced projects and those that will be built is also beginning to emerge in official data. Over a third of proposed data centres that would tap Australia’s main grid were cancelled last year, according to the Australian Energy Market Operator.\n\nPart of the issue is the sheer scale of the build out. The country has more than 20 gigawatts of capacity in announced and early-stage data centre projects compared to an operational fleet of just 1.5 gigawatts, according to *BloombergNEF.*\n\n“Access to energy is already a major issue,” said *BNEF* analyst Tushna Mehta. “Data centre capacity is being built much faster than the new generation needed to supply it.”\n\nThese hurdles are raising questions about the government’s push to make Australia a hub for the wider region, courting investors and seeking to streamline approvals even as practical constraints remain. Land may be plentiful, but data centres need access to high-voltage electricity lines and other infrastructure. Building further from the major cities can have advantages, but also means hefty investment in new transmission lines and telecommunications.\n\nSydney’s electricity grid is already struggling to accommodate the scale of the boom. Transgrid, which operates the statewide power network, said in August the city doesn’t have enough transmission capacity to connect any of the 20 gigawatts of inquiries it’s received from large new power users.\n\nHalf of that proposed demand has emerged within a 12km radius of its Sydney West substation, Transgrid said — equivalent to the peak winter electricity load of the entire state of New South Wales, in one small area.\n\nThat strain is expected to intensify, and quickly. Australia already has more than 160 operating data centres, concentrated mainly in Sydney and Melbourne, which consume about 2% of electricity supplied by the country’s grids. AEMO has projected this could rise by a quarter each year to roughly 6% by 2030, and 13% by 2036.\n\nAnother hurdle is access to water. Industry-commissioned analysis estimates Australian data centres use about 5.5 gigalitres of water each year, largely for cooling — equivalent to roughly 0.04% of national consumption. But the local impact could be far greater when projects are clustered together, including in growth corridors already facing stress from drought.\n\nResidents living near Nextdc’s facility in Melbourne’s West Footscray — about 15 metres from it, in some cases — told a parliamentary inquiry last month they wanted compensation for noise, pollution and potential fire risks.\n\n“What we are seeing is rising public resistance to AI, particularly generative AI,” said Bronwyn Cumbo, who researches data centres at the University of Technology Sydney. “Many are planned to be built near homes, schools, farmland and natural areas, and alter the experience and livability of these places.”\n\n*Uploaded by Tham Yek Lee*\n\nPrint\n\nText Size\n\nShare",
       "content_url": "https://theedgemalaysia.com/node/822964",
-      "published_precision": "day"
-    },
-    {
-      "id": "2026-10-23-d0a8de",
-      "title": "Reconfigured UPS systems can stabilise data center power fluctuations",
-      "summary": "Data centers are exploring reconfigured uninterruptible power supply (UPS) systems to enhance power stability and prevent fluctuations during grid disturbances. This approach aims to reduce stress on the broader power system and meet emerging ride-through requirements.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-23T03:10:53Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/reconfigured-ups-systems-can-stabilise-data-center-power-fluctuations/135132894",
-          "type": "rss"
-        }
-      ],
-      "content": "Data centers typically switch to emergency power during grid outages, which can cause instability across the broader power grid. A proposed solution involves reconfiguring UPS systems to support stability on both the grid-side and load-side.This reconfiguration uses a double conversion UPS with grid-side, load-side, and battery DC/DC converters, paired with a continuously running battery. The battery acts as a buffer, supplying or absorbing excess power to balance grid and data center demands.The grid-side converter helps smooth demand changes and supports grid stability, while the load-side converter ensures steady power to IT equipment. The system could also be modified for grid-support functions, managing voltage, reactive power, frequency response, and ride-through during faults.A test system with an AI data center training load profile of 100 MW peak demonstrated the UPS absorbing major load fluctuations. The test showed the reconfigured UPS maintained stable power during a 100-millisecond, three-phase-to-ground fault with no significant interruption on the load side.Regulators such as the Federal Energy Regulatory Commission (FERC) are considering broader reforms for large-load interconnections. The North American Electric Reliability Corporation (NERC) is developing mandatory reliability standards for computational loads.Texas, through the Electric Reliability Council of Texas (ERCOT), is furthest along with specific requirements. ERCOT's framework applies to facilities of 75 MW or more and proposes rules requiring qualifying data centers to remain connected through defined disturbances rather than immediately dropping from the grid. Dr. Chandana Karawita, a senior technical manager at Ramboll, noted this practical, converter-based configuration offers a pathway to keep critical digital infrastructure online while reducing stress on the broader power system.\n\n- Energy, Cooling & Sustainability\n- 1 min Read\n\n# Reconfigured UPS systems can stabilise data center power fluctuations\n\nData centers are exploring reconfigured uninterruptible power supply (UPS) systems to enhance power stability and prevent fluctuations during grid disturbances. This approach aims to reduce stress on the broader power system and meet emerging ride-through requirements.\n\n- Published On Oct 23, 2026 at 08:40 AM IST\n\n## Highlights\n\n- Reconfigured UPS systems can stabilise power for data centers and the grid.\n- The system uses a continuously running battery to buffer grid and load power demands.\n- Tests showed the reconfigured UPS maintained stable power during a 100 MW AI load and grid faults.\n- Regulators like FERC, NERC, and ERCOT are developing new large-load interconnection standards.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/reconfigured-ups-systems-can-stabilise-data-center-power-fluctuations/135132894"
+      "published_precision": "day",
+      "title_zh": "数据中心反弹恐威胁澳大利亚700亿美元产业愿景",
+      "summary_zh": "澳大利亚最大城市周边计划建设的数据中心中，超过四分之三面临电网紧张和地方反对的风险，威胁着该国成为亚太地区人工智能（AI）枢纽的雄心。",
+      "why_zh": "澳大利亚的AI枢纽雄心如今取决于输电升级和规划改革，而非土地或资本。国际hyperscale企业可能将工作负载转移至电网接入更快的其他市场，而获得电力配额保障的本地开发商将获得持久的竞争优势。"
     },
     {
       "id": "2026-10-23-c1b86e",
       "title": "Liquid cooling stretches AI data centre grid capacity",
       "summary": "Liquid cooling can help Australian AI data centres maximise their use of capped grid connections. It reduces cooling overhead, freeing up power for IT equipment. This approach is crucial given the growing demand for high-density compute.",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "Where grid connections are capped and new approvals take years, cooling efficiency becomes a direct competitive lever: operators with liquid cooling can sell more compute from the same connection. This favors incumbents with secured power allocations and raises the bar for air-cooled newcomers in Sydney and Melbourne markets.",
+      "score": 65,
       "heat": 1,
       "regions": [
-        "global"
+        "australia"
       ],
-      "topics": [],
+      "topics": [
+        "liquid-cooling",
+        "power",
+        "ai"
+      ],
       "published_at": "2026-10-23T03:10:40Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "ET Datacenters",
@@ -230,21 +243,29 @@
         }
       ],
       "content": "AI data centres in Australia are facing grid capacity constraints, particularly in New South Wales and Victoria, according to the Schneider Electric Blog. Cooling efficiency directly influences the amount of power available for IT equipment within a fixed grid connection.Lowering Power Usage Effectiveness (PUE) can significantly increase theoretical IT capacity. For instance, a 100 MW connection with a PUE of 1.20 yields 83.3 MW of IT capacity, compared to 64.5 MW at a PUE of 1.55.Liquid cooling can reduce the power consumed by fans, air movement, and mechanical cooling, thereby freeing up capacity for compute loads. The potential gains depend on the specific architecture implemented across the thermal system.\n### Cooling architectures and deployment\n\nRear-door heat exchangers (RDHx) capture hot exhaust air at the rack, transferring heat to liquid. This method can reduce room-cooling demand and support higher-density racks, especially in existing colocation halls.Direct-to-chip (DTC) cooling uses cold plates on high-power components like CPUs and GPUs. Heat Dissipation Units (HDUs) can transfer heat from the liquid loop into data-hall air where facility water is unavailable. This architecture allows direct-to-chip cooling without extending a facility-water loop to each deployment.Coolant Distribution Units (CDUs) transfer heat from the technology cooling loop into the facility-water system, keeping the two loops hydraulically separated. This can reduce demand on fans and air handlers by allowing more heat to bypass room-air infrastructure.Cooling and electrical designs must be planned together. Reducing mechanical load creates usable IT headroom only when the electrical architecture can deliver that released capacity to the compute load. Hyperscalers, colocation operators, neocloud providers, and developers each have distinct cooling priorities and architectural needs.\n\n- Energy, Cooling & Sustainability\n- 1 min Read\n\n# Liquid cooling stretches AI data centre grid capacity\n\nLiquid cooling can help Australian AI data centres maximise their use of capped grid connections. It reduces cooling overhead, freeing up power for IT equipment. This approach is crucial given the growing demand for high-density compute.\n\n- Published On Oct 23, 2026 at 08:40 AM IST\n\n## Highlights\n\n- Australian AI data centres face grid capacity constraints, notably in NSW and Victoria.\n- Liquid cooling reduces power for fans and mechanical systems, freeing IT capacity.\n- Lower PUE significantly increases theoretical IT capacity within fixed grid connections.\n- Cooling and electrical designs must integrate to deliver released capacity to compute.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/liquid-cooling-stretches-ai-data-centre-grid-capacity/135132887"
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/liquid-cooling-stretches-ai-data-centre-grid-capacity/135132887",
+      "title_zh": "液冷技术拓展AI数据中心电网容量",
+      "summary_zh": "液冷可以帮助澳大利亚的 AI 数据中心最大限度地利用受限的电网接入容量。它能降低冷却开销，将电力释放给 IT 设备。鉴于高密度计算需求不断增长，这种方法至关重要。",
+      "why_zh": "在电网接入容量受限、新项目审批动辄耗时数年的环境下，冷却效率成为直接的竞争杠杆：采用液冷的运营商可以在同等接入容量下销售更多算力。这有利于已获得电力配额的既有厂商，同时也抬高了在悉尼和墨尔本市场采用风冷的新进入者的门槛。"
     },
     {
       "id": "2026-10-23-9a0a29",
       "title": "Nvidia CEO links neocloud demand to UK grid stall",
       "summary": "Nvidia CEO Jensen Huang stated that strong demand for AI compute capacity supports neocloud providers despite rising financing pressure. His comments followed Microsoft's withdrawal from Nscale's Essex data center project due to UK grid delays.",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "The Essex cancellation shows grid queues, not demand, are now the main execution risk for European AI infrastructure — a cautionary parallel for Asian markets facing similar transmission backlogs. Huang's defense of neocloud economics signals Nvidia will keep steering capacity toward these buyers, sustaining GPU leasing models even where hyperscaler commitments falter.",
+      "score": 72,
       "heat": 1,
       "regions": [
         "global"
       ],
-      "topics": [],
+      "topics": [
+        "ai",
+        "chips",
+        "power",
+        "hyperscale"
+      ],
       "published_at": "2026-10-23T03:10:24Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "ET Datacenters",
@@ -253,22 +274,31 @@
         }
       ],
       "companies": [
-        "Microsoft"
+        "NVIDIA",
+        "Microsoft",
+        "Nscale"
       ],
       "content": "Nvidia CEO Jensen Huang said demand for AI compute will support neocloud providers despite increasing financing pressure. Speaking to press at GTC Berlin, Huang noted that Nvidia had \"invested enough\" in neocloud providers. He described their capacity demand as \"incredible,\" with operators \"completely sold out.\"Huang argued that the need for capital stems from strong demand, not structural weakness. Nvidia's support includes guaranteeing utilisation floors for partners such as Sharon AI, agreeing to rent idle capacity if customer demand falls short.His remarks came days after Microsoft withdrew from its agreement to anchor Nscale's planned data center in Loughton, Essex. The site faces potential grid power delays until the early to mid-2030s. Loughton was initially announced in January 2025 as a 50MW site scheduled for Q4 2026 activation.Nscale told Reuters that its relationship with Microsoft remained strong and that the grid issue did not impact other contracts. Nscale affirmed its commitment to the Loughton project and is exploring alternative power sources. Huang acknowledged that faster manufacturing does not eliminate the need for more energy, describing AI's power demand as a significant opportunity for market-driven investment in sustainable energy.\n### Infrastructure Challenges\n\nThe Loughton delay highlights the gap between AI demand and the necessary infrastructure. A recent Capacity roundtable in London revealed that 70 per cent of infrastructure leaders expect grid connections to exceed 18 months.Neoclouds typically have high capital costs, concentrated customer bases, and hardware plans tied to specific sites. This makes them more vulnerable to grid connection delays. For Nvidia, a delayed site can mean supply redirection. For a neocloud, a missed grid date can result in a lost customer.The Loughton setback follows an earlier pause in April for Nscale's UK Stargate project with OpenAI and Nvidia, which cited high energy costs. Nscale is pursuing alternative power for the Essex site, but on-site generation also faces lead times, with speakers at Capacity Europe noting generator lead times of up to two years.\n\n- Energy, Cooling & Sustainability\n- 2 min Read\n\n# Nvidia CEO links neocloud demand to UK grid stall\n\nNvidia CEO Jensen Huang stated that strong demand for AI compute capacity supports neocloud providers despite rising financing pressure. His comments followed Microsoft's withdrawal from Nscale's Essex data center project due to UK grid delays.\n\n- Published On Oct 23, 2026 at 08:40 AM IST\n\n## Highlights\n\n- Nvidia CEO Jensen Huang affirmed strong AI compute demand supports neoclouds despite financing pressure.\n- Microsoft withdrew from Nscale's 50MW Essex data center due to UK grid power delays until 2030s.\n- Nscale explores alternative power for its Loughton project, remaining committed to the site.\n- Nvidia guarantees utilisation floors for neocloud partners like Sharon AI, renting idle capacity.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/nvidia-ceo-links-neocloud-demand-to-uk-grid-stall/135132873"
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/nvidia-ceo-links-neocloud-demand-to-uk-grid-stall/135132873",
+      "title_zh": "Nvidia CEO将neocloud需求受阻与英国电网停滞相关联",
+      "summary_zh": "英伟达（Nvidia）首席执行官黄仁勋表示，对 AI 计算能力的强劲需求支撑着 neocloud 提供商，尽管融资压力不断上升。他的言论是在微软因英国电网延误退出 Nscale 位于埃塞克斯（Essex）的数据中心项目之后发表的。",
+      "why_zh": "Essex项目的取消表明，电网排队（而非需求）已成为欧洲AI基础设施当前的主要执行风险——这对面临类似输电瓶颈的亚洲市场是一个警示性的对照。黄仁勋为neocloud经济学辩护，释放出英伟达将继续引导产能流向这类买家的信号，即便在hyperscaler承诺动摇的市场，GPU租赁模式也能得以维持。"
     },
     {
       "id": "2026-10-23-cfbcc9",
       "title": "CBRE to acquire Onnec Group for up to £760 million",
       "summary": "CBRE has agreed to acquire London-based Onnec Group, a data center infrastructure specialist, for up to £760 million. The deal will extend CBRE’s technical services across Europe and Asia-Pacific. This builds on previous acquisitions in the US market.",
       "why_it_matters": "",
-      "score": null,
+      "score": 55,
       "heat": 1,
       "regions": [
         "global"
       ],
-      "topics": [],
+      "topics": [
+        "investment",
+        "colocation",
+        "mna"
+      ],
       "published_at": "2026-10-23T02:21:02Z",
       "featured": false,
       "sources": [
@@ -279,70 +309,31 @@
         }
       ],
       "content": "CBRE, a US property services group, has agreed to acquire London-based data center infrastructure specialist Onnec Group for up to £760 million.The acquisition will extend CBRE’s technical services business across Europe and Asia-Pacific. CBRE will pay £460 million upfront, with an additional £300 million potentially payable over several years if Onnec meets specified growth targets.The deal adds Onnec’s networking and connectivity expertise to CBRE’s existing data center facilities management capabilities. This allows CBRE to offer a broader range of infrastructure services across multiple regions.\n### Global Infrastructure Strategy\n\nCBRE has been expanding its technical capabilities through acquisitions in recent years. In 2024, the company acquired Direct Line Global, a US-based specialist in infrastructure design, installation, and maintenance for data center operators.This was followed in November 2025 by the $1.2 billion acquisition of Pearce Services. That deal expanded CBRE’s expertise across critical power and cooling, renewable energy infrastructure, and telecommunications networks.Onnec will extend this strategy across Europe and Asia-Pacific, complementing CBRE’s existing data center infrastructure services in the US. Vikram Kohli, Chief Operating Officer at CBRE, stated that the company is pursuing a strategy to build a global infrastructure services business.CBRE expects Onnec to generate approximately £370 million in revenue and more than £50 million in core EBITDA in 2027. The company forecasts its Critical Infrastructure Services business, which will include Onnec, to generate nearly $4.5 billion in revenue that year.Across its wider infrastructure services activities, CBRE expects revenue to reach nearly $7 billion in 2027.\n\n- Investments & Deals\n- 1 min Read\n\n# CBRE to acquire Onnec Group for up to £760 million\n\nCBRE has agreed to acquire London-based Onnec Group, a data center infrastructure specialist, for up to £760 million. The deal will extend CBRE’s technical services across Europe and Asia-Pacific. This builds on previous acquisitions in the US market.\n\n- Published On Oct 23, 2026 at 07:51 AM IST\n\n## Highlights\n\n- CBRE to acquire London-based Onnec Group for up to £760 million.\n- The deal extends CBRE’s data center services across Europe and Asia-Pacific.\n- Onnec adds networking and connectivity expertise to CBRE's capabilities.\n- CBRE projects its critical infrastructure services to reach $4.5 billion revenue by 2027.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/cbre-to-acquire-onnec-group-for-up-to-760-million/135131885"
-    },
-    {
-      "id": "2026-10-23-f8be0b",
-      "title": "AI drives hybrid liquid cooling adoption in data centres",
-      "summary": "Artificial intelligence workloads are pushing data centre thermal management beyond air-only systems. Hybrid cooling architectures, combining air and direct liquid cooling, are becoming essential. This approach helps operators balance high-density demands with existing infrastructure.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-23T02:20:55Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/ai-drives-hybrid-liquid-cooling-adoption-in-data-centres/135131881",
-          "type": "rss"
-        }
-      ],
-      "content": "AI workloads, which are significantly more power-dense and less predictable than traditional operations, require advanced thermal management. Liquid cooling has become essential for handling these AI and high-performance computing (HPC) demands.Air cooling remains viable up to 20 to 40 kilowatts (kW) per rack. However, GPU-accelerated AI racks commonly operate between 40 kW and over 100 kW, with next-generation systems projected to exceed 200 kW.Liquid cooling is up to 3,000 times more effective at transferring heat than air. This efficiency prevents thermal throttling and protects infrastructure return on investment (ROI). Most facilities are adopting hybrid cooling models, integrating traditional air architectures with direct-to-chip systems.\n### Hybrid Cooling Dominance\n\nThrough 2027 and 2028, hybrid thermal strategies are expected to dominate transitions. Data centres must accommodate both legacy IT equipment and next-generation AI accelerators within the same facility. Brownfield retrofits in existing air-cooled facilities mean air cooling will remain crucial for ancillary systems and lower-density zones.Operators can deploy mixed architectures, such as direct-to-chip cold plates and Coolant Distribution Units (CDUs) for dense AI clusters. They can manage residual heat with Computer Room Air Handlers (CRAHs) or fan-assisted Rear-Door Heat Exchangers (RDHx).\n### Operational Challenges and Benefits\n\nNavigating the operational complexity of a hybrid cooling environment presents a significant challenge. Cooling now requires the convergence of IT, mechanical engineering, and software management. Facilities must manage fluid chemistry, leak detection, risk mitigation, and sophisticated maintenance workflows.The industry also faces a talent gap, with Uptime Institute reporting that nearly two-thirds of operators struggle to hire and retain qualified staff. This shortage highlights the need for expertise across liquid cooling systems and integrated infrastructure. Addressing this will require new training models, deeper vendor collaboration, and greater reliance on managed services.While liquid infrastructure demands higher upfront capital expenditure (CapEx), it delivers better Total Cost of Ownership (TCO) over time. This improvement is due to enhanced efficiency and density. Advanced liquid cooling solutions can reduce total facility energy consumption by up to 40 per cent and cut water use by 20 to 90 per cent. It also unlocks opportunities for heat reuse, allowing operators to redirect waste heat to adjacent buildings or district heating systems.\n\n- Energy, Cooling & Sustainability\n- 2 min Read\n\n# AI drives hybrid liquid cooling adoption in data centres\n\nArtificial intelligence workloads are pushing data centre thermal management beyond air-only systems. Hybrid cooling architectures, combining air and direct liquid cooling, are becoming essential. This approach helps operators balance high-density demands with existing infrastructure.\n\n- Published On Oct 23, 2026 at 07:50 AM IST\n\n## Highlights\n\n- AI workloads push data centre rack densities beyond 40 kW, making traditional air cooling impractical.\n- Hybrid cooling, combining air and direct liquid systems, will dominate transitions through 2028.\n- Liquid cooling offers up to 3,000 times greater heat transfer efficiency than air.\n- Operational complexity and a talent gap pose challenges for hybrid cooling adoption.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/ai-drives-hybrid-liquid-cooling-adoption-in-data-centres/135131881"
-    },
-    {
-      "id": "2026-10-23-5390cd",
-      "title": "Microsoft files for data center campus in Floyd County, Georgia",
-      "summary": "Will feature three data center buildings",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-22T16:30:25Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "Data Center Dynamics",
-          "url": "https://www.datacenterdynamics.com/en/news/microsoft-files-for-data-center-campus-in-floyd-county-georgia/",
-          "type": "rss"
-        }
-      ],
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/cbre-to-acquire-onnec-group-for-up-to-760-million/135131885",
       "companies": [
-        "Microsoft"
+        "CBRE",
+        "Onnec Group"
       ],
-      "content": "In a Development of Regional Impact application submitted on October 20, the company reveals it is seeking to build a three-building data center campus on 349 acres of land at 0 Huffaker Road in Rome. Microsoft acquired the property in 2023, at the time calling it \"Project Firecracker.\"\n\nDubbed ATL80, all three buildings will total up to 1,659,000 sq ft (154,126 sqm) of floor space. Microsoft estimates the project will be valued at $360 million once built out and will provide $35m in annual local tax revenue.\n\nThe company estimates that the project will be completed by 2032 and will employ 150 people once operational.\n\nTotal power capacity will be 422MW and provided by Georgia Power, and Microsoft estimates that the maximum water supply required will be 13,500 gallons (51,103 liters) per day.\n\nRome is located Northwest of Atlanta, Georgia's main data center hub.\n\nThe filing comes just one month after Microsoft submitted a Developments of Regional Impact application with the Georgia Department of Community Affairs for ATL50, a two-building campus in Union City totaling 910,000 sq ft (84,540 sqm) on an 88-acre parcel west of Stonewall Tell Road and north of Koweta Road. The site is set to launch in 2032.\n\nThe company has a number of data center projects across Georgia, both operating and under development, including in Fairburn, Douglasville, Palmetto, Rome, East Point, Tyrone, and more. Atlanta is home to one of Microsoft's major \"Fairwater\" data centers, launching in November 2025.\n\nMicrosoft announced plans for a cloud region in 2021, revealing in December last year that the Fairwater site would be incorporated, as would developments in Fulton County, outside of Atlanta, having broken ground in July 2024, and two other projects on the outskirts of Atlanta; in East Point, Fulton County; and Douglasville, Douglas County.",
-      "content_url": "https://www.datacenterdynamics.com/en/news/microsoft-files-for-data-center-campus-in-floyd-county-georgia/"
+      "title_zh": "CBRE拟以最高7.6亿英镑收购Onnec Group",
+      "summary_zh": "CBRE 已同意以最高 7.6 亿英镑收购总部位于伦敦的数据中心基础设施专业公司 Onnec Group。该交易将把 CBRE 的技术服务扩展到欧洲和亚太地区。这建立在其此前在美国市场收购的基础上。"
     },
     {
       "id": "2026-10-23-8196a7",
       "title": "Nebius secures $3.5 billion Citi facility for data center growth",
       "summary": "AI cloud services firm Nebius has secured a $3.5 billion financing facility from Citi. The funding will support the company's data center development and GPU purchases.",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "Access to large unsecured-of-collateral bank facilities signals that major lenders now treat AI infrastructure as a mainstream credit category, not a speculative niche. That normalization compresses financing costs for scaled players, while smaller regional neoclouds without investment-grade pathways risk being priced out of the GPU procurement race.",
+      "score": 65,
       "heat": 1,
       "regions": [
         "global"
       ],
-      "topics": [],
+      "topics": [
+        "investment",
+        "ai",
+        "financing"
+      ],
       "published_at": "2026-10-22T16:10:28Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "ET Datacenters",
@@ -351,91 +342,31 @@
         }
       ],
       "companies": [
-        "Nebius"
+        "Nebius",
+        "Citi"
       ],
       "content": "AI cloud services firm Nebius announced on Thursday it had secured a $3.5 billion financing facility from Citi.The funding will support the continued development of its data centres and GPU purchases, as the Amsterdam-based company races to expand capacity.The new facility matures in 364 days and carries an initial interest rate of 2.75 per cent over the term SOFR benchmark rate.Nebius Chief Operating Officer Ophir Nave said the company has other financing options available. These include borrowing against more than $40 billion in long-term contracts with investment-grade customers such as Microsoft and Meta.Mr Nave stated that this facility provides additional financing to support their near-term capacity build-out.The financing will give Nebius greater flexibility over the timing and structure of further fundraising. This aims to support growth in 2027 and beyond, with funding sources also including customer prepayments and operating cash flow.The company has around $10 billion in convertible bond debt outstanding, following a $5.75 billion issue in August.\n\n- AI & Compute Infrastructure\n- 1 min Read\n\n# Nebius secures $3.5 billion Citi facility for data center growth\n\nAI cloud services firm Nebius has secured a $3.5 billion financing facility from Citi. The funding will support the company's data center development and GPU purchases.\n\n- Published On Oct 22, 2026 at 09:40 PM IST\n\n## Highlights\n\n- Nebius secured a $3.5 billion financing facility from Citi for capacity expansion.\n- Funding targets data center development and Graphics Processing Unit (GPU) purchases.\n- Facility matures in 364 days with an initial interest rate of 2.75 per cent over SOFR.\n- Additional financing options include $40 billion in contracts with Microsoft and Meta.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/nebius-secures-3-5-billion-citi-facility-for-data-center-growth/135122681"
-    },
-    {
-      "id": "2026-10-23-4ba197",
-      "title": "Arbol launches moratorium risk insurance coverage",
-      "summary": "First-of-its-kind cover will pay out on suspension of data center construction",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-22T15:54:03Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "Data Center Dynamics",
-          "url": "https://www.datacenterdynamics.com/en/news/arbol-launches-moratorium-risk-insurance-coverage/",
-          "type": "rss"
-        }
-      ],
-      "content": "Insurance provider Arbol has launched a product line covering data center moratorium risk.\n\nThe cover, which Arbol said is first-of-its-kind, pays out when a covered government action takes effect, resulting in the suspension of data center construction, and remains in force beyond a defined waiting period.\n\nThe company said this type of risk was previously considered “uninsurable.”\n\n“As government action does not result in physical loss and falls outside the scope of standard insurance, developers have traditionally been left to lobby it, litigate it or absorb it. Arbol has made the exposure transferable by applying the specialist underwriting and alternative capital capabilities it uses across other classes that the market finds difficult to write,” the company added.\n\nAccording to *DCD’s* analysis, there have been nearly 500 individual moratoriums proposed across the US since January, with 340 of these now authorized.\n\nPublic opposition to data center development has grown, with concerns over energy prices, water usage, and environmental impact causing the most concern.\n\nSome moratoriums have been introduced specifically to curb the construction of in-progress projects.\n\nOne developer whose project was halted due to a moratorium has challenged the stay in court, arguing that a pause impacted the company’s property rights.\n\n*DCD* analysis found that these issues have transcended being county- and city-level concerns and are now reaching the upper echelons of government. In the US, specifically, 80 percent of gubernatorial candidates have expressed a stance on data centers, with many discussing statewide moratoriums on their construction.\n\nIn July, New York became the first US state to impose a moratorium on new large-scale data centers.",
-      "content_url": "https://www.datacenterdynamics.com/en/news/arbol-launches-moratorium-risk-insurance-coverage/"
-    },
-    {
-      "id": "2026-10-23-785dc7",
-      "title": "Canada's Uniserve to launch 1MW data center in Vancouver",
-      "summary": "Company developing facility next door to existing data center",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-22T15:15:22Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "Data Center Dynamics",
-          "url": "https://www.datacenterdynamics.com/en/news/canadas-uniserve-to-launch-1mw-data-center-in-vancouver/",
-          "type": "rss"
-        }
-      ],
-      "content": "Canadian IT solutions provider Uniserve Communications Corporation is developing a new data center in Vancouver adjacent to its existing facility. The firm has also secured a new customer set to host GPU hardware in its facilities.\n\nFounded in 1988, Uniserve offers IT services, including data center solutions, colocation, cloud, and business Internet.\n\nThe company said this year that its data center expansion plans are part of a multi-year strategy to “evolve from a traditional service provider into a vertically integrated digital infrastructure platform purpose-built for Canadian businesses.”\n\nIts existing VAN-1 site is located at 333 Terminal Avenue in Vancouver. Each floor of the eight-story multi-tenant office building spans 20,000 sq ft (1,858 sqm), though only a portion of the building is data center space.\n\nThe company first announced plans to expand its existing data center footprint in September 2025. At the time, Uniserve said it aims to establish a 2MW data center in Vancouver to \"further service its existing customer base and increase its ability to service a growing AI market.\"\n\nIt then subsequently announced it has entered into a lease with 369 Terminal Holdings Ltd. to develop a data center next door.\n\nLocated at 369 Terminal Avenue in Vancouver, the neighboring VAN-2 is set to span approximately 10,000 square feet (929 sqm) and be designed to support enterprise computing, cloud infrastructure, colocation and AI-related workloads. The eight-story multi-tenant office building totals around 160,000 sq ft (14,864 sqm).\n\nThe company is targeting an initial operating capacity of 1MW in Q4 2026, with an additional megawatt available for future expansion. The site will be able to support up to 30kW per rack.\n\nUniserve has also previously announced that BC Hydro has committed to upgrade the facility’s distribution infrastructure to provide up to 3MW of utility power by 2028\n\nGautam Lohia, Uniserve CEO, said: \"VAN-2 represents another important step in building Uniserve's Canadian sovereign digital infrastructure platform. Our focus is on executing a disciplined expansion strategy that combines infrastructure, technical expertise, and integrated services to meet evolving enterprise and AI computing requirements. We believe this approach positions Uniserve to build long-term customer relationships, grow recurring revenue, and create sustainable shareholder value.\"\n\nUniserve is now pitching itself as a sovereign Canadian digital infrastructure platform providing managed IT services, cybersecurity, AI services, cloud solutions, and data center infrastructure to customers across Canada.\n\nThe company last month announced an enterprise client for AI compute services using two Nvidia B300 GPU-based servers to be deployed at Uniserve's Vancouver data center. The five-year agreement is set to total US$3.15m. Equipment delivery, installation, and service activation are expected to occur before year-end.",
-      "content_url": "https://www.datacenterdynamics.com/en/news/canadas-uniserve-to-launch-1mw-data-center-in-vancouver/"
-    },
-    {
-      "id": "2026-10-23-541637",
-      "title": "DCD Studio: How to build data centers with community involvement, with Chris Crosby of Compass Datacenters",
-      "summary": "Seb Moss speaks with Chris Crosby of Compass Datacenters about data center siting, community engagement, AI's impact, public perception, and focusing on long-term business strategy over a build-to-exit mentality.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-22T14:48:53Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "Data Center Dynamics",
-          "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-how-to-build-data-centers-with-community-involvement-with-chris-crosby-of-compass-datacenters/",
-          "type": "rss"
-        }
-      ],
-      "content": "DCD Studio: How to build data centers with community involvement, with Chris Crosby of Compass Datacenters October 22, 2026 By DCD Have your say Seb Moss speaks with Chris Crosby of Compass Datacenters about data center siting, community engagement, AI's impact, public perception, and focusing on long-term business strategy over a build-to-exit mentality. Tags AI Community Engagement Data center siting Public perception Site Selection Yotta 2026",
-      "content_url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-how-to-build-data-centers-with-community-involvement-with-chris-crosby-of-compass-datacenters/"
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/nebius-secures-3-5-billion-citi-facility-for-data-center-growth/135122681",
+      "title_zh": "Nebius获得花旗35亿美元融资额度，支持数据中心扩张",
+      "summary_zh": "AI 云服务公司 Nebius 已从花旗（Citi）获得 35 亿美元融资额度。这笔资金将支持该公司的数据中心建设和 GPU 采购。",
+      "why_zh": "获得大规模无抵押银行贷款额度，表明主要贷款机构如今已将AI基础设施视为主流信贷类别，而非投机性利基市场。这种常态化降低了规模化企业的融资成本，而缺乏投资级信用路径的中小型区域性neocloud则可能被迫退出GPU采购竞争。"
     },
     {
       "id": "2026-10-23-becccd",
       "title": "DCD Studio: Operating AI infrastructure at scale with Matt Hull, Google",
       "summary": "DCD’s Kat Sullivan speaks with Google’s Matt Hull about AI infrastructure, hypercomputers and TPUs, and how data center design must evolve to support AI training and inference",
       "why_it_matters": "",
-      "score": null,
+      "score": 60,
       "heat": 1,
       "regions": [
         "global"
       ],
-      "topics": [],
+      "topics": [
+        "ai",
+        "hyperscale",
+        "chips",
+        "design"
+      ],
       "published_at": "2026-10-22T14:08:03Z",
       "featured": false,
       "sources": [
@@ -449,21 +380,27 @@
         "Google"
       ],
       "content": "DCD Studio: Operating AI infrastructure at scale with Matt Hull, Google October 22, 2026 By DCD Have your say DCD’s Kat Sullivan speaks with Google’s Matt Hull about AI infrastructure, hypercomputers and TPUs, and how data center design must evolve to support AI training and inference Tags AI Cloud Cloud Compute Compute Google Hypercomputer Matt Hull TPU",
-      "content_url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-operating-ai-infrastructure-at-scale-with-matt-hull-google/"
+      "content_url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-operating-ai-infrastructure-at-scale-with-matt-hull-google/",
+      "title_zh": "DCD Studio：与Google的Matt Hull探讨规模化运营AI基础设施",
+      "summary_zh": "DCD 的 Kat Sullivan 与 Google 的 Matt Hull 探讨了 AI 基础设施、超算级计算机（hypercomputer）和 TPU，以及数据中心设计必须如何演进以支持 AI 训练和推理"
     },
     {
       "id": "2026-10-23-29a585",
       "title": "Infineon and Nvidia to develop gallium nitride power conversion tech for 800VDC data center racks",
       "summary": "Latest agreement in support of the move to 800VDC",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "Standardizing on 800VDC with GaN components would reshape the power-chain supply chain, advantaging early co-designers like Infineon over incumbent silicon suppliers. For operators, higher conversion efficiency directly converts into more usable IT power per megawatt of grid connection — a decisive edge in power-constrained markets across Asia.",
+      "score": 78,
       "heat": 1,
       "regions": [
         "global"
       ],
-      "topics": [],
+      "topics": [
+        "chips",
+        "power",
+        "ai"
+      ],
       "published_at": "2026-10-22T12:30:55Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "Data Center Dynamics",
@@ -472,42 +409,31 @@
         }
       ],
       "content": "Infineon has partnered with Nvidia to develop gallium nitride (GaN) power conversion technology for 800 VDC data center architectures.\n\nThe German chipmaker announced the tie-up at Nvidia’s GTC Berlin developer conference, building on a May 2025 agreement detailed in October 2025 that focused on serviceable, hot-swappable 800 VDC server racks.\n\nThe latest agreement will focus on developing high-voltage intermediate bus converters (IBCs). IBCs step down the main bus voltage feeding accelerator cards to a lower-voltage rail, allowing downstream stages to generate the core and point-of-load rails AI processors need.\n\nInfineon said the multi-stage approach reduces distribution losses while meeting limits on board area, thermals, and uptime. It added that 800 VDC is being introduced alongside existing AC and lower-voltage DC architectures as an additional option for higher-density compute.\n\nInfineon claims GaN switches faster than silicon and with lower losses, enabling switching frequencies up to 1MHz at the IBC stage. The company asserts this lets magnetics and passives shrink, increasing power density and reducing board height. The company said this matters as rack power levels approach the megawatt range.\n\nInfineon's GaN portfolio covers 800V-to-50V, 800V-to-12V, and 800V-to-6V conversion. Infineon pairs the devices with its PSoC Control C3 and EiceDRIVER product families to offer full IBC system solutions. It also offers IBC solutions in silicon and silicon carbide.\n\n“AI is fundamentally reshaping the demands we place on power infrastructure, and semiconductors are at the heart of solving that challenge,” said Jochen Hanebeck, CEO, Infineon Technologies AG. “Our collaboration with Nvidia on 800V power architectures shows what is possible when deep semiconductor expertise meets the pace of innovation required by AI. Gallium nitride-based system solutions are a key enabler of this next generation of data centers, and Infineon is proud to help power the AI era from grid to core.”\n\nThe agreement follows a deal with Estonian power and storage systems supplier Skeleton Technologies last month, which will see the companies jointly explore and develop advanced architectures for the entire AI data center power chain, from the grid to the facility itself. This will include Solid State Transformers for medium-voltage AC-to-high-voltage DC conversion.\n\nInfineon is one of Europe's largest semiconductor manufacturers. Spun out of Siemens in 1999, the company specializes in power electronics, automotive microcontrollers, sensors, and security chips. Recently, it increased its research and development in power infrastructure for the data center sector, partnering with Korean electrical equipment manufacturer LS Electric to develop direct current power infrastructure for the AI data center market earlier this year.",
-      "content_url": "https://www.datacenterdynamics.com/en/news/infineon-and-nvidia-to-develop-gallium-nitride-power-conversion-tech-for-800vdc-data-center-racks/"
-    },
-    {
-      "id": "2026-10-23-e52748",
-      "title": "Data centers face power crunch from AI growth",
-      "summary": "Data center operators can delay, but not avoid, the need for new electricity infrastructure to support AI computing, an Infosys analysis concludes. Demand-side measures like efficiency gains and flexible workloads can provide usable capacity sooner than grid upgrades.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
+      "content_url": "https://www.datacenterdynamics.com/en/news/infineon-and-nvidia-to-develop-gallium-nitride-power-conversion-tech-for-800vdc-data-center-racks/",
+      "companies": [
+        "Infineon",
+        "NVIDIA"
       ],
-      "topics": [],
-      "published_at": "2026-10-22T12:01:08Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/data-centers-face-power-crunch-from-ai-growth/135118409",
-          "type": "rss"
-        }
-      ],
-      "content": "Data center operators grappling with power constraints can accommodate more AI computing by improving efficiency and shifting flexible workloads, according to a new Infosys analysis. These measures, however, are unlikely to eliminate the need for new electricity infrastructure.The report, which examines AI energy demand through 2030, suggests that demand-side solutions can deliver usable capacity faster than new generation, transmission, and grid upgrades. Mit Majumdar, executive vice president and global head of services, utilities, resources, and energy at Infosys, told Data Center Knowledge that AI-driven energy management, advanced cooling, and peak-load optimisation can create meaningful near-term headroom.Majumdar emphasised a dual-track strategy: maximise existing capacity while accelerating investment in generation, transmission, and grid modernisation. He stated that flexible workloads such as model training and batch processing can be scheduled around grid conditions. Real-time inference and customer-facing applications generally cannot.Broader flexibility will require new commercial models, including workload-aware service-level agreements (SLAs), demand-response incentives, and pricing structures. These measures would reward customers for shifting non-urgent computing.The Infosys analysis also recommends staged construction rather than locking in every project phase based on current assumptions. This modular approach allows capacity to scale as demand evolves and preserves flexibility to benefit from advances in AI models, chips, and cooling technologies. Majumdar said the goal is to avoid both overbuilding and underestimating long-term demand.For utilities, projections of demand-side savings are insufficient for supporting new data center connections. Majumdar advised that utilities should require measurable and verifiable proof of load reductions. This includes historical performance, real-time monitoring, and contractual commitments to reduce load when needed.Risk for promised flexibility should be shared between operators and utilities. Operators should back performance claims with guarantees, while utilities establish clear qualification and verification standards to ensure reliability, Majumdar added.\n\n- Energy, Cooling & Sustainability\n- 1 min Read\n\n# Data centers face power crunch from AI growth\n\nData center operators can delay, but not avoid, the need for new electricity infrastructure to support AI computing, an Infosys analysis concludes. Demand-side measures like efficiency gains and flexible workloads can provide usable capacity sooner than grid upgrades.\n\n- Published On Oct 22, 2026 at 05:31 PM IST\n\n## Highlights\n\n- Infosys analysis finds data centers can delay, but not eliminate, AI-driven power crunch.\n- Efficiency and flexible workloads offer near-term capacity gains, per the report.\n- Dual-track strategy combines capacity maximisation with accelerated grid investment.\n- Utilities need verifiable proof of load reductions and shared risk for flexibility claims.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/data-centers-face-power-crunch-from-ai-growth/135118409"
+      "title_zh": "Infineon与Nvidia合作开发面向800VDC数据中心机架的氮化镓电源转换技术",
+      "summary_zh": "支持向 800VDC 转型的最新协议",
+      "why_zh": "采用GaN器件统一800VDC标准将重塑电源供应链格局，使英飞凌等早期协同设计者相对既有的硅基供应商占据优势。对运营商而言，更高的转换效率可直接转化为每兆瓦电网接入容量下更多的可用IT电力——在电力受限的亚洲各市场，这是决定性的优势。"
     },
     {
       "id": "2026-10-23-6fad21",
       "title": "Flexible grid access cuts AI data center power wait times",
       "summary": "AI data centers can reduce electricity connection waiting times from 5-10 years to 2-4 years by accepting flexible grid connections. This approach, outlined in a Boston Consulting Group (BCG) report, involves using on-site power generation and storage.",
       "why_it_matters": "",
-      "score": null,
+      "score": 55,
       "heat": 1,
       "regions": [
         "global"
       ],
-      "topics": [],
+      "topics": [
+        "power",
+        "grid",
+        "ai",
+        "energy"
+      ],
       "published_at": "2026-10-22T12:01:00Z",
       "featured": false,
       "sources": [
@@ -518,88 +444,29 @@
         }
       ],
       "content": "Data centers supporting artificial intelligence (AI) could reduce their electricity connection waiting time from 5-10 years to 2-4 years, according to a report by Boston Consulting Group (BCG). This reduction is achievable by accepting flexible grid connections and using their own power generation and storage systems.“Flexible access can reduce time to power from 5-10+ years to 2-4 years by lowering the need for (major) grid reinforcement,” the report stated. This approach enables data centers to become operational earlier while reducing pressure on electricity grids and limiting additional costs for other power consumers.The analysis focused on five Northwest European markets—the UK, Germany, France, Belgium, and the Netherlands—over the 2030-2035 investment period. BCG noted that power availability has become a major constraint on data center expansion, with connection queues in several markets stretching for years.Global data center power demand is projected to reach around 210 gigawatts by 2030, compared with 84 gigawatts in 2025, according to the report’s estimates. Under the proposed approach, data centers could accept non-firm electricity connections, where power supply may be reduced during periods of grid congestion.They could use on-site generation, batteries, and flexible computing workloads to maintain operations during such periods. Connecting earlier could unlock significant financial benefits, BCG said.For a modelled 150-megawatt AI inference data center in Northwest Europe, connecting three years earlier could generate an estimated $1.28 billion in additional profits before accounting for on-site power asset costs. However, an off-grid setup could increase annual power supply costs by 70-230 per cent compared with a firm grid connection, depending on how power asset costs are accounted for.BCG also suggested that grid-positive data centers could help spread fixed electricity network costs across a larger consumption base. This would reduce the need for additional power generation and grid infrastructure. “Whether a data center burdens or strengthens the system depends on how and where it connects, and how it runs once it is online,” the report concluded.The report called for governments to develop national data center strategies, guide projects towards locations with available grid capacity, and speed up approvals for on-site power assets. It also recommended that grid operators make flexible connections a standard option rather than an exception.\n\n- Energy, Cooling & Sustainability\n- 2 min Read\n\n# Flexible grid access cuts AI data center power wait times\n\nAI data centers can reduce electricity connection waiting times from 5-10 years to 2-4 years by accepting flexible grid connections. This approach, outlined in a Boston Consulting Group (BCG) report, involves using on-site power generation and storage.\n\n- Published On Oct 22, 2026 at 05:31 PM IST\n\n## Highlights\n\n- AI data centers can cut power connection waits from 5-10 years to 2-4 years.\n- This is achieved through flexible grid connections and on-site power systems.\n- Earlier connection for a 150MW AI data center could yield $1.28 billion additional profits.\n- Global data center power demand is projected to reach 210 gigawatts by 2030.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/flexible-grid-access-cuts-ai-data-center-power-wait-times/135118406"
-    },
-    {
-      "id": "2026-10-23-7d9a08",
-      "title": "AI data center builds face supply chain, design hurdles",
-      "summary": "Building artificial intelligence (AI) data centers has become a complex undertaking due to the reliance on power-intensive GPUs and increased rack density. These projects face challenges from land acquisition to managing intricate supply chains, risking significant delays.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/flexible-grid-access-cuts-ai-data-center-power-wait-times/135118406",
+      "companies": [
+        "Boston Consulting Group"
       ],
-      "topics": [],
-      "published_at": "2026-10-22T12:00:43Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/ai-data-center-builds-face-supply-chain-design-hurdles/135118390",
-          "type": "rss"
-        }
-      ],
-      "content": "Building artificial intelligence (AI) infrastructure without supply chain bottlenecks has become a complex project, with one slipped deadline risking an entire project halt.AI data centers, which are typically GPU-centric, push rack power draws to 100 kW and beyond, with facilities now requiring anywhere from 100 MW to 1 GW.Demand for AI computing is estimated to increase 25-fold by 2033, but this demand is hampered by project complexity. Securing land and power can take upwards of three years, leading to thin margins for buildout timelines.A single logistics delay, a mismatched component, or an understaffed construction team can halt a buildout, jeopardising plans. Energy density within AI data centers has more than tripled compared to traditional data centers in some regions.This increased density adds complexity to power procurement and changes pre-development conversations for the facility itself. Considerations must be made for power delivery throughout the facility and how backup power will factor into operations.Each of these thousands of components must be sourced and scheduled to arrive as needed. Wesco Anixter, a trusted partner, offers a global network of integrators, contractors, and installers to manage these complexities.Wesco Anixter coordinates every aspect of a buildout from design to orchestration to project management. The company manages the projectsupply chain and accounts for eventualities, helping mitigate risks from geopolitical upsets or unfamiliar territories.Wesco Anixter provides comprehensive lifecycle services spanning pre-construction, deployment, and ongoing operations. Its expertise includes design and planning, site selection, power infrastructure support, long-lead procurement, end-to-end rack services, managed services, and post-installation operational support.The company manages gaps between design and construction through end-to-end coordination and visibility across all partners and phases. Wesco Anixter also accounts for the complexity and risk introduced through interdependent systems via lifecycle planning.This approach provides greater resilience as data center requirements evolve. Engaging with Wesco Anixter from the outset allows developers to make better-informed choices early on, reducing rework later.More than 130,000 customers, including AI data center developers and operators, have accessed a portfolio of product and service vendors through Wesco Anixter. Services such as offsite configuration are available for developers and operators managing multiple projects in different geographies.Its global network gives Wesco Anixter leverage to secure better terms from vendors, which directly impacts capital expenditure figures for developers. Wesco Anixter has a physical presence in over 50 countries, offering local awareness that helps mitigate global supply chain management risks.\n\n- AI & Compute Infrastructure\n- 2 min Read\n\n# AI data center builds face supply chain, design hurdles\n\nBuilding artificial intelligence (AI) data centers has become a complex undertaking due to the reliance on power-intensive GPUs and increased rack density. These projects face challenges from land acquisition to managing intricate supply chains, risking significant delays.\n\n- Published On Oct 22, 2026 at 05:30 PM IST\n\n## Highlights\n\n- AI data centers require high power and advanced cooling solutions.\n- Securing land and power can take over three years, impacting timelines.\n- Supply chain delays and component mismatches can halt entire projects.\n- Wesco Anixter offers end-to-end project management and supply chain coordination.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/ai-data-center-builds-face-supply-chain-design-hurdles/135118390"
-    },
-    {
-      "id": "2026-10-23-8ce440",
-      "title": "Cortex DC to develop 2 GW of AI-ready data centre capacity in India",
-      "summary": "Cortex DC, a subsidiary of The Chatterjee Group, plans to develop 2 GW of AI-ready data centre capacity across India. This initiative aims to meet the increasing demand for high-performance computing driven by AI and cloud adoption.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-22T12:00:25Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/cortex-dc-to-develop-2-gw-of-ai-ready-data-centre-capacity-in-india/135118378",
-          "type": "rss"
-        }
-      ],
-      "content": "Cortex DC, a subsidiary of The Chatterjee Group (TCG), announced plans to develop 2 GW of AI-ready data centre capacity across India on Thursday.The company aims to meet the increasing demand for high-performance computing driven by AI and cloud adoption. Cortex DC targets operational readiness for its first data centre within 18 months of breaking ground.The platform prioritises speed, scale, and sustainable power, intending to source 51 per cent of its energy from green sources. Purnendu Chatterjee, founder and chairman of TCG, said Cortex DC extends TCG's philosophy of building knowledge-based businesses to the digital backbone of the Intelligence Age.Rahul Sharma, CEO of Cortex DC, noted the company is building infrastructure in India for global and local customers. He aims for India to become a premier destination for demanding compute workloads.TCG is a New York-headquartered private equity and industrial holding group with over $4 billion in deployed capital. Its portfolio spans petrochemicals, life sciences, technology, financial services, and real estate.With the planned capacity, accelerated development approach, established team, and focus on green energy, Cortex DC said it is well placed to establish a significant presence in India's emerging AI infrastructure market. This supports the next phase of growth in cloud computing, AI adoption, and digital services in India.\n\n- Investments & Deals\n- 1 min Read\n\n# Cortex DC to develop 2 GW of AI-ready data centre capacity in India\n\nCortex DC, a subsidiary of The Chatterjee Group, plans to develop 2 GW of AI-ready data centre capacity across India. This initiative aims to meet the increasing demand for high-performance computing driven by AI and cloud adoption.\n\n- Published On Oct 22, 2026 at 05:30 PM IST\n\n## Highlights\n\n- Cortex DC plans 2 GW of AI-ready data centre capacity across India.\n- First data centre targets operational readiness within 18 months.\n- The company commits to sourcing 51 per cent of energy from green sources.\n- TCG founder Purnendu Chatterjee highlighted focus on value creation.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/cortex-dc-to-develop-2-gw-of-ai-ready-data-centre-capacity-in-india/135118378"
-    },
-    {
-      "id": "2026-10-23-5636c8",
-      "title": "US considering 35 data center-related developments on public land, land records say",
-      "summary": "17 relate to campuses, 13 to broader AI infrastructure",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-22T11:49:43Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "Data Center Dynamics",
-          "url": "https://www.datacenterdynamics.com/en/news/us-considering-35-data-center-related-developments-on-public-land-land-records-say/",
-          "type": "rss"
-        }
-      ],
-      "content": "The US Bureau of Land Management is considering 35 data center-related applications for developments on public land in the western US, according to a tracker published by the Center for Western Priorities.\n\nOf these 35 applications, the tracker, which is based on the Bureau of Land Management’s land records, identified 17 applications to build data center campuses and 13 applications for supporting infrastructure for AI data centers.\n\nThe remaining five applications could not be classified into either category based on the information available.\n\nAccording to the Center for Western Priorities, some of the proposals “dwarf” typical data center constructions, with one cited project in eastern Utah covering more than 9,000 acres and being powered by small modular nuclear reactors.\n\nThe Center for Western Priorities’ tracker and map has further details on individual sites.\n\nThe organization says it is a non-partisan conservation group, aiming to provide a source of accurate information and promote responsible policies, practices, and accountability in the American West.\n\nIn a statement accompanying the release of the tracker, the group said the Trump administration should be forced to solicit feedback on putting data centers on public land.\n\n“Data centers are not like oil, gas, or minerals, which are extracted from public lands because that’s where they exist,” said Lauren Bogard, deputy director of the Center for Western Priorities. “Unlike mining or drilling, there are no natural resources that make it necessary to develop data centers on public lands, and there is no reason to assume data centers belong on them.\n\n“Before even considering putting data centers on public lands, the Trump administration should be obligated to solicit public feedback on this idea. None of these projects should move forward without a permitting framework that lets communities decide where, how, or if data centers get built. That process must include robust, site-specific environmental review and public input opportunities, as well as meaningful, negotiated community benefits that ensure the public is compensated when private companies profit from public lands.”\n\n## Public benefits for public consent\n\nData center development is increasingly becoming an issue of public consent.\n\nEarlier this week, the US Chamber of Commerce released a report detailing the economic impacts of data centers on local areas.\n\nThe organization claimed that data centers are “economic engines powering America’s future” and deliver sustained economic growth for decades.\n\nAccording to the report, during a typical two-year construction phase, a single data center development can support an average of 5,200 jobs in a state, add $680 million to the state economy, and generate $400 million in state personal income annually.\n\nCiting several major developments across four major counties, Dallas County, Texas; Prince William County, Virginia; Fulton County, Georgia; and Franklin County, Ohio, the report said the average five-year impact on tax revenue can range from $96 million to $174m.\n\nA typical 50MW data center could provide 750 additional workers to the workforce, 740 permanent jobs per year statewide, and generate $125m in tax income annually.\n\nDespite the purported benefits, there remain significant concerns about the impact of data centers on local communities. The issue continues to be a hot topic in the US government, especially as mid-term elections approach.\n\nJust yesterday, US President Donald Trump suggested data center developers should pay a “dividend” to local communities in order to assuage concerns.",
-      "content_url": "https://www.datacenterdynamics.com/en/news/us-considering-35-data-center-related-developments-on-public-land-land-records-say/"
+      "title_zh": "灵活的电网接入缩短AI数据中心供电等待时间",
+      "summary_zh": "AI 数据中心可以通过接受灵活的电网接入，将电力接入等待时间从 5-10 年缩短至 2-4 年。波士顿咨询公司（BCG）的一份报告中概述了这种方法，涉及使用现场发电和储能。"
     },
     {
       "id": "2026-10-23-b2ba5a",
       "title": "Full-stack cooling from chip to chiller for the evolving needs of modern data centers",
       "summary": "Rack densities are climbing across Asia as operators build for AI and high-performance computing, and the cooling systems that have diligently served conventional facilities are no longer suitable to support such workloads. Sustainability is now a mainstream commitment for data center operators, with service level agreements penalizing poor-performance, and government mandating future-ready efficiency. By […]",
       "why_it_matters": "",
-      "score": null,
+      "score": 50,
       "heat": 1,
       "regions": [
         "global"
       ],
-      "topics": [],
+      "topics": [
+        "cooling",
+        "ai",
+        "sustainability",
+        "rack density"
+      ],
       "published_at": "2026-10-22T08:43:16Z",
       "featured": false,
       "sources": [
@@ -610,44 +477,28 @@
         }
       ],
       "content": "### **Rack densities are climbing across Asia as operators build for AI and high-performance computing, and the cooling systems that have diligently served conventional facilities are no longer suitable to support such workloads.**\n\nSustainability is now a mainstream commitment for data center operators, with service level agreements penalizing poor-performance, and government mandating future-ready efficiency. By introducing innovation and following strict environmental standards, companies can build for a greener digital future.\n\nAs data centers increasingly adopt hybrid air and liquid cooling technologies, operational success depends on seamless integration across the entire cooling infrastructure. STULZ delivers a complete cooling solution from chip to chiller, taking a trusted advisor approach that covers system design, integration, performance, and lifecycle support. This unified approach eliminates interface complexity, accelerates problem resolution, simplifies maintenance, and ensures every component operates cohesively, enabling greater reliability, efficiency, and peace of mind for operators.\n\n#### **Asia technology hub**\n\nAt the heart of STULZ Asia Hub is a dedicated team of experienced data center specialists who provide Rack densities are climbing across Asia as operators build for AI and high-performance computing, and the cooling systems that have diligently served conventional facilities are no longer suitable to support such workloads. comprehensive support to an extensive network of subsidiaries, partners, and production facilities across the region. Leveraging deep technical knowledge, the team delivers optimized cooling solutions tailored to the evolving needs of mission-critical environments.\n\nFrom initial design and engineering through to deployment and commissioning, STULZ ensures consistent, seamless project execution while maintaining the highest standards of quality, reliability, and customer support. STULZ is a global provider of innovative, mission-critical cooling solutions. Founded in 1947 and with its headquarters in Hamburg, Germany, it is represented by 35 subsidiaries, a network of more than 150 partners and 12 production sites worldwide.\n\nBuilding on decades of experience in mission critical cooling, STULZ has established itself as a recognized industry leader in the design, development, and application of precision climate control technologies for data centers and other critical environments. Serving hyperscale, colocation, enterprise, telecommunications, and industrial facilities worldwide, STULZ applies proven engineering principles and operational experience to deliver energy efficiency, sustainability and resilience, to meet the evolving thermal management challenges of modern digital infrastructure.\n\nSTULZ is a global provider of innovative, mission-critical cooling solutions.\n\n“As your cooling solutions partner, we’re here to support you in navigating the complexities that arise when introducing liquids into data centers. Whether you’re building liquid cooled data centers or integrating Liquid Cooling into existing aircooled infrastructure, we’re ready to provide the answers and guidance,” said- Valeria Mercante, Liquid Cooling Solutions, Global Product Management.\n\nSTULZ has established production sites in China, Germany, India, Italy, and Spain supporting its Asia Hub operations, while STULZ Test Centers ensure reliability by validating every unit under real-world and extreme conditions.\n\n#### **From air to liquid** \n\nMost existing data center facilities are designed for traditional workloads that utilize air to cool IT equipment. However with the introduction of artificial intelligence (AI) and high performance computing (HPC), Data centre operators are increasingly seeking guidance to make the transformation to liquid cooling or hybrid cooling infrastructure.\n\nFor mission-critical digital environments, cooling is not simply a building service. It is a critical operational safeguard that directly impacts system availability, business continuity, and asset protection. Data centers, telecommunications networks, industrial facilities, and enterprise environments rely on highly resilient cooling infrastructure to maintain uninterrupted operation of essential digital services. As workloads become increasingly demanding, facilities require cooling solutions that support traditional room cooling, high-density rack deployments, liquid cooling technologies.\n\nThese technologies must operate seamlessly within existing environments while providing a clear pathway for future capacity growth and technology evolution. The challenge lies in modernizing live operational environments. Unlike conventional facilities, mission critical data centers cannot tolerate unplanned downtime or loss of cooling capacity.\n\nEven minor modifications can introduce risks to thermal stability, equipment reliability, and service continuity. A cooling system failure can rapidly impact critical IT infrastructure, leading to operational disruption, financial loss, regulatory exposure, and reputational damage. For this reason, infrastructure changes must be carefully engineered, rigorously validated, and implemented through controlled, phased deployment strategies. New cooling technologies must integrate seamlessly with existing systems, ensuring that operational resilience is maintained at every stage of the transition. Success depends on proven solutions, comprehensive risk management, and an architectural approach that prioritizes continuous availability, fault tolerance, and operational resilience above all else.\n\n#### **Speed of deployment** \n\nModern cooling infrastructure is increasingly designed around modular architecture that supports rapid deployment, simplified integration, and operational flexibility across a wide range of mission-critical applications. The use of digital twin, pre-engineered and scalable system designs enable facilities to accelerate deployment schedules while adapting to evolving capacity and performance requirements. This modular approach reduces implementation complexity, minimizes site disruption, supports future expansion, and delivers the reliability required for long-term operational excellence.\n\nA cooling system failure can rapidly impact critical IT infrastructure, leading to operational disruption, financial loss, regulatory exposure, and reputational damage.\n\nAs data center requirements continue to evolve, operators need infrastructure solutions that can be deployed quickly, standardized across multiple sites, and expanded without compromising availability. The adoption of factory-tested, modular cooling systems enables faster commissioning, predictable project execution, and reduced deployment risk, allowing organizations to respond rapidly to increasing demand while maintaining operational resilience.\n\n#### **From chip to chiller** \n\nSTULZ, as an integrated cooling solutions provider, delivers a unified approach to mission-critical thermal management that reduces complexity while enhancing resilience, deployment speed, and long-term operational performance. By combining room cooling, highdensity air cooling, liquid cooling technologies, air handling systems, chiller units, intelligent controls, and monitoring platforms within a single ecosystem, STULZ enables data center operators to deploy standardized and repeatable solutions across diverse facility requirements. This integrated approach simplifies engineering, procurement, installation, and commissioning, accelerating deployment timelines while reducing project risk and operational disruption",
-      "content_url": "https://w.media/full-stack-cooling-from-chip-to-chiller-for-the-evolving-needs-of-modern-data-centers/"
-    },
-    {
-      "id": "2026-10-23-7fa0be",
-      "title": "Building AI infrastructure without the supply chain bottlenecks",
-      "summary": "Data center buildouts have become complex projects from the proposal to buildout. One slipped deadline risks bringing the entire project to a halt but an experienced partner can manage that complexity with ease. The unending appetite for AI has brought about a change within the very facilities that power the technology. Where data centers […]",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-22T08:11:30Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "W.Media",
-          "url": "https://w.media/building-ai-infrastructure-without-the-supply-chain-bottlenecks/",
-          "type": "rss"
-        }
-      ],
-      "content": "### **Data center buildouts have become complex projects from the proposal to buildout. One slipped deadline risks bringing the entire project to a halt but an experienced partner can manage that complexity with ease.**\n\nThe unending appetite for AI has brought about a change within the very facilities that power the technology. Where data centers have generally been CPU-centric, AI data centers rely on power-guzzling GPUs which are pushing rack power draws to 100 kW and beyond, with facilities now pulling anywhere from 100 MW to 1 GW.\n\nDemand for AI computing isn’t slowing down, with estimates suggesting that the value of the AI market is set to increase 25-fold by 2033. That demand is hamstrung by complexity. Securing land and power can take upwards of three years leading to paper-thin margins for buildout timelines.\n\nWith margins so thin, a single logistics delay, a mismatched component, or a construction team that isn’t properly staffed can bring an entire buildout to a screeching halt, jeopardizing even the most well considered plans.\n\n#### **Density is only the beginning**\n\nStalwarts of the sector will remember when a data center was no more than a few server racks in an air-conditioned room. Today AI facilities span hundreds of acres and require cooling technology older facilities can’t support, higher voltage and amperage than before, and networking that can’t lag by so much as a millisecond.\n\nIn some parts of the world, energy density within AI data centers has more than tripled compared to traditional data centers. This not only adds complexity to the power procurement process, it changes the pre-development conversation for the facility itself.\n\nThis density creates other considerations that must be made including how power is delivered throughout the facility and how backup power will factor into the operations. Each of these thousands of components must be sourced and scheduled to arrive as it is needed.\n\n#### **Where buildouts actually break**\n\nAs with any chain, one weak link in a supply chain can bring a project to its knees.\n\nBy partnering with Wesco Anixter, you are bringing a trusted partner onboard that has a global network of integrators, contractors and installers. Through this network, every aspect of a buildout is accounted for from design to orchestration to project management. Not only is Wesco Anixter managing the project’s supply chain, it’s accounting for every eventuality.\n\nWith margins being so thin, a project can be delayed for months because of one missed delivery. This delay cascades down the chain and suddenly the construction teams and technicians who were only meant to be on site for a week are there for another two. With Wesco Anixter coming in early, it is able to effectively manage these risks because it identifies every aspect of a buildout and coordinates it from procurement to installation.\n\nWhether it’s geopolitical upsets or a new project in unfamiliar territory, the location can make managing a buildout just that much more complicated. This problem becomes exponentially worse as buildouts lean on more vendors from around the world, especially if the site of the project is located in a country that restricts imports from the country a vendor is located in. With its global reach, Wesco Anixter is able to effectively navigate these pitfalls before they even become a problem.\n\nThis complexity is manageable, but managing it effectively demands a partner that coordinates the work across the entire timeline. From planning and specification through procurement and execution. If a trusted partner is brought on as soon as possible, problems can be headed off at the pass.\n\n#### **Fewer hand offs, fewer delays**\n\nCoordinating complex projects and managing them is what Wesco Anixter excels in. The company’s experience in the sector means it isn’t just a partner, but a single point of coordination across the entire buildout from beginning to end and even long after.\n\nWesco Anixter provides comprehensive lifecycle services spanning pre-construction, deployment, and ongoing operations. Our expertise includes design and planning, site selection, power infrastructure support, long-lead procurement, end-to-end rack services, managed services, and post-installation operational support, ensuring seamless execution from concept to steady-state operations.\n\nGaps between design and construction are managed through end-to-end coordination and visibility across all partners and phases. Wesco Anixter also accounts for the complexity and risk introduced through interdependent systems through lifecycle planning that accounts for dependencies, providing greater resilience, even as the data center’s requirements evolve.\n\nBy engaging with Wesco Anixter from the outset, developers can make better informed choices early on, requiring less rework later.\n\nThrough Wesco Anixter, more than 130,000 customers including AI data center developers and operators have gained access to a deep portfolio of product and service vendors at every step of the buildout. Services such as offsite configuration are also made available for developers and operators juggling multiple projects in different geographies and require consistency. Its global network also gives Wesco Anixter the leverage to secure better terms from vendors, which developers feel directly in those all important capex figures.\n\nWesco Anixter offers global availability with a physical presence in over 50 countries. Most important is the company’s local awareness that is so often missing from projects of this caliber. That local touch helps mitigate the risks associated with global supply chain management whether you’re building a hyperscale data centre, a neocloud, or just trying to get cabling through customs.\n\nWith Wesco Anixter your buildout isn’t just another project, it’s the start of a long relationship with a partner that has spent over 100 years building the modern world alongside businesses just like yours.\n\n*Learn how Wesco Anixter can help accelerate your data centre strategy with scalable, resilient and future-ready infrastructure solutions – https://www.wesco.com/us/en/solutions/data-center.html*",
-      "content_url": "https://w.media/building-ai-infrastructure-without-the-supply-chain-bottlenecks/"
+      "content_url": "https://w.media/full-stack-cooling-from-chip-to-chiller-for-the-evolving-needs-of-modern-data-centers/",
+      "title_zh": "从芯片到冷水机组的全栈冷却方案，满足现代数据中心不断演进的需求",
+      "summary_zh": "随着运营商为 AI 和高性能计算（HPC）建设，亚洲各地的机架密度正在攀升，而一直勤勤恳恳服务于传统设施的冷却系统已不再适合支持此类工作负载。可持续性现在已成为数据中心运营商的主流承诺，服务水平协议（SLA）会对性能不佳进行处罚，政府也要求面向未来的能效。[……]"
     },
     {
       "id": "2026-10-23-b67f35",
       "title": "Could market volatility affect DayOne’s IPO?",
       "summary": "DayOne Data Centers (DayOne), a Singapore based data center operator, is reportedly considering delaying its planned US initial public offering (IPO) or reducing the size of the share sale amid growing volatility in the data center sector. The company was previously considering raising US$ 5 billion through the IPO, potentially in the fourth quarter, with […]",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "A US$5 billion listing would have been a benchmark for Asian data center valuations in US markets; shelving it removes a key pricing signal and narrows the exit runway for regional developers. DayOne's backers may pivot to private credit or strategic investors, a pattern other APAC operators preparing listings will likely have to follow.",
+      "score": 78,
       "heat": 1,
       "regions": [
-        "global"
+        "southeast-asia"
       ],
-      "topics": [],
+      "topics": [
+        "investment",
+        "ipo",
+        "capital markets",
+        "hyperscale"
+      ],
       "published_at": "2026-10-22T05:01:40Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "W.Media",
@@ -656,10 +507,13 @@
         }
       ],
       "companies": [
-        "DayOne"
+        "DayOne Data Centers"
       ],
       "content": "DayOne Data Centers (DayOne), a Singapore based data center operator, is reportedly considering delaying its planned US initial public offering (IPO) or reducing the size of the share sale amid growing volatility in the data center sector. The company was previously considering raising US$ 5 billion through the IPO, potentially in the fourth quarter, with a targeted valuation of approximately US$ 20 billion.\n\nAccording to a report from Bloomberg, the company has been assessing market conditions while waiting for an opportune window to launch the listing. One option under consideration is to postpone the IPO until market sentiment improves.\n\nAlternatively, DayOne could proceed with a smaller offering targeting between US$ 2.5 billion and US$ 3 billion, approximately half its original fundraising target. Backed by investors including Coatue and Hillhouse, DayOne continues to engage with prospective investors and remains keen to proceed with the listing as soon as market conditions permit, the people said.\n\nDayOne had filed a Form F-1 registration statement with the U.S. Securities and Exchange Commission for its proposed IPO of ADSs on Nasdaq under the ticker “DODC” in early October. Morgan Stanley, J.P. Morgan, BofA Securities and Citigroup were appointed as underwriters, while the offering size and price range had yet to be determined.\n\nSo far, Day One itself has not made any official statement about any postponement. Discussions are still ongoing and DayOne could still proceed with the offering in the coming weeks, depending on market conditions. The latest considerations highlight the challenges facing data center operators seeking to tap public markets amid heightened volatility and shifting investor sentiment towards the sector.",
-      "content_url": "https://w.media/could-market-volatility-affect-dayones-ipo/"
+      "content_url": "https://w.media/could-market-volatility-affect-dayones-ipo/",
+      "title_zh": "市场波动会影响DayOne的IPO吗？",
+      "summary_zh": "据报道，总部位于新加坡的数据中心运营商 DayOne Data Centers（DayOne）正在考虑推迟其计划中的美国首次公开募股（IPO）或缩减此次股票发行的规模，原因是数据中心行业波动日益加剧。该公司此前曾考虑通过此次 IPO 募集 50 亿美元，时间可能在第四季度，[……]",
+      "why_zh": "50亿美元的上市本可成为亚洲数据中心企业在美国市场估值的基准；此次搁置消除了一个关键定价信号，并收窄了区域性开发商的退出通道。DayOne的支持方可能转向私募信贷或战略投资者，其他正准备上市的亚太运营商很可能也不得不效仿这一路径。"
     }
   ]
 }

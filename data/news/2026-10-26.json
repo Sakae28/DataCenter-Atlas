@@ -3,25 +3,30 @@
   "generated_at": "2026-10-26T06:25:12Z",
   "hot": [
     "2026-10-26-78ca1a",
-    "2026-10-26-9866f7",
     "2026-10-26-a20297",
-    "2026-10-26-e40849",
-    "2026-10-26-294891"
+    "2026-10-26-9866f7",
+    "2026-10-26-f96430",
+    "2026-10-26-c147e4"
   ],
   "stories": [
     {
       "id": "2026-10-26-9866f7",
       "title": "Nextdc CEO to forgo bonus after Australia data centre delay",
       "summary": "(Oct 26): Nextdc Ltd’s chief executive officer will give up his short-term and long-term bonuses for the 2027 financial year after the Australia data centre developer warned delayed power supply at one of its major projects in Melbourne would hit profits.",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "Power delays are now hitting developers' profit forecasts hard enough to trigger executive-level accountability, signaling how exposed the sector is to grid constraints. For customers and investors, the episode underscores that delivery timelines in Australia increasingly depend on utility-side infrastructure rather than developer capability.",
+      "score": 82,
       "heat": 1,
       "regions": [
-        "southeast-asia"
+        "australia"
       ],
-      "topics": [],
+      "topics": [
+        "data center",
+        "power",
+        "investment",
+        "earnings"
+      ],
       "published_at": "2026-10-26T03:02:57Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "The Edge Malaysia — data centre search",
@@ -30,21 +35,32 @@
         }
       ],
       "content": "“The board and management are focused on two priorities: working with our customer and the electricity distributor to minimise the impact of the M3 power delay, as well as earning back the confidence of our investors and other stakeholders,” chairman Douglas Flynn said in a statement ahead of the company’s annual general meeting next month.\n\nFlynn and the company’s non-executive directors agreed to a 10% reduction in their fees, the statement said, adding that the board had also withdrawn a resolution to seek shareholder approval to increase the maximum annual remuneration of non-executive directors to A$2.5 million, from A$2.2 million\n\nCEO Craig Scroggie will not receive any cash or other award in place of his relinquished incentives.\n\nLast week’s news of the delay at the company’s M3 data centre in the Western suburbs of Melbourne prompted the biggest drop in its share price since the company listed in 2010.\n\nFlynn reaffirmed his intention to retire from the board once a new chairman is in place, after a short handover period.\n\nGlobal search and board advisory firm Spencer Stuart has been hired to find an independent non-executive director and a new chair, according to the statement. The new board members will ideally have data centre, energy or infrastructure development and capital management experience, Nextdc said.\n\n*Uploaded by Liza Shireen Koshy*",
-      "content_url": "https://theedgemalaysia.com/node/823198"
+      "content_url": "https://theedgemalaysia.com/node/823198",
+      "companies": [
+        "NEXTDC"
+      ],
+      "title_zh": "Nextdc CEO因澳大利亚数据中心项目延期放弃奖金",
+      "summary_zh": "（10月26日）：在澳大利亚数据中心开发商 Nextdc Ltd 警告称其在墨尔本一个主要项目的电力供应延迟将冲击利润后，该公司首席执行官将放弃2027财年短期和长期奖金。",
+      "why_zh": "电力交付延迟如今已严重冲击开发商的利润预测，甚至引发高管层面的问责，凸显出该行业对电网瓶颈的暴露程度之深。对客户和投资者而言，这一事件表明，澳大利亚的项目交付时间表日益取决于公用事业侧的基础设施，而非开发商自身的能力。"
     },
     {
       "id": "2026-10-26-78ca1a",
       "title": "Singapore-linked data center projects face growing rejection in Indonesia",
       "summary": "PURWAKARTA/MEDAN, Indonesia -- Juniadi Adinda has lived in a village on Batam, an Indonesian island a roughly one-hour ferry ride away from Singapore, for 26 years, during which he never had any…",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "Social license is emerging as a real bottleneck for Indonesia's data center ambitions, potentially slowing project pipelines that Singapore-linked operators had counted on. Developers will need credible local benefit-sharing, water management, and community engagement strategies, or risk Indonesia becoming a higher-friction market than neighboring Malaysia and Thailand.",
+      "score": 72,
       "heat": 2,
       "regions": [
-        "global"
+        "southeast-asia"
       ],
-      "topics": [],
+      "topics": [
+        "regulation",
+        "colocation",
+        "data center",
+        "community opposition"
+      ],
       "published_at": "2026-10-26T06:25:12Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "Nikkei Asia",
@@ -58,21 +74,29 @@
         }
       ],
       "content": "PURWAKARTA/MEDAN, Indonesia -- Juniadi Adinda has lived in a village on Batam, an Indonesian island a roughly one-hour ferry ride away from Singapore, for 26 years, during which he never had any problem with water supply.\n\nTechnology\n# Singapore-linked data center projects face growing rejection in Indonesia\n\nBatam Island suffers water problem, power outage amid AI-driven boom\n\nA data center project under construction at Nongsa Digital Park, Batam Island, Indonesia, pictured on June 16. Owing to its proximity to Singapore, Batam is emerging as a new Southeast Asia hub for data center investment © Antara",
-      "content_url": "https://asia.nikkei.com/business/technology/singapore-linked-data-center-projects-face-growing-rejection-in-indonesia"
+      "content_url": "https://asia.nikkei.com/business/technology/singapore-linked-data-center-projects-face-growing-rejection-in-indonesia",
+      "title_zh": "与新加坡有关联的数据中心项目在印尼遭拒情况日益增多",
+      "summary_zh": "印尼普尔瓦卡尔塔/棉兰讯——Juniadi Adinda 在巴淡岛的村庄生活了26年。巴淡岛是印尼一座岛屿，距新加坡约一小时渡轮航程，在此期间他从未有过任何…",
+      "why_zh": "社会许可正成为印尼数据中心雄心的真实瓶颈，可能拖累那些新加坡关联运营商原本寄予厚望的项目管线。开发商需要拿出可信的本地利益共享、水资源管理和社区参与策略，否则印尼可能沦为比邻国马来西亚和泰国摩擦更大的市场。"
     },
     {
       "id": "2026-10-26-a20297",
       "title": "SoftBank plans US$50 billion data center investment in Malaysia: Report",
       "summary": "SoftBank Group plans to invest US$ 50 billion in Malaysia targetting artificial intelligence and data centers, Bloomberg reports quoting Malaysia’s Prime Minister Anwar Ibrahim. Anwar said last Saturday he had a video conference with Masayoshi Son, Founder, Chairman and CEO of SoftBank on Tuesday, where the latter had indicated that he was eyeing certain regions […]",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "If confirmed, a US$50 billion commitment would instantly make Malaysia one of the region's largest data center battlegrounds, intensifying competition with Singapore, Johor's neighboring corridor, and Indonesia for hyperscale and AI workloads. Power availability and grid readiness in the targeted regions will determine whether the capital can translate into operational capacity.",
+      "score": 88,
       "heat": 1,
       "regions": [
-        "global"
+        "southeast-asia"
       ],
-      "topics": [],
+      "topics": [
+        "investment",
+        "ai",
+        "hyperscale",
+        "data center"
+      ],
       "published_at": "2026-10-26T05:45:40Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "W.Media",
@@ -84,90 +108,29 @@
         "SoftBank"
       ],
       "content": "SoftBank Group plans to invest US$ 50 billion in Malaysia targetting artificial intelligence and data centers, Bloomberg reports quoting Malaysia’s Prime Minister Anwar Ibrahim. Anwar said last Saturday he had a video conference with Masayoshi Son, Founder, Chairman and CEO of SoftBank on Tuesday, where the latter had indicated that he was eyeing certain regions in Malaysia including Kuching, Sarawak for digital projects including data centers.\n\n“He said he had chosen Sarawak – Kuching – and peninsular Malaysia to expand investment in what would be among the largest investments in the region, worth US$50 billion,” Anwar said in a speech in Melaka.\n\nMalaysia continues to attract investments – from 2021 till 1H 2026, the country has recorded RM 385.7 billion (US$94 billion) of data center-related investment, according to the Malaysian Investment Development Authority (MIDA).\n\nThe tech investor already has a lot on its plate – the US$ 500 billion Stargate project in the US, a US$ 84 billion project in France, and ongoing data center projects in Hokkaido and Osaka, Japan.\n\nSoftbank had earlier this month signed framework agreements with partners including Grab and Sarawak’s government agencies to explore AI infrastructure and ecosystem development in Sarawak.\n\nSoftBank’s representatives did not immediately respond to a request for comment.",
-      "content_url": "https://w.media/softbank-plans-us50-billion-data-center-investment-in-malaysia-report/"
-    },
-    {
-      "id": "2026-10-26-e40849",
-      "title": "India's AI builders face GPU, memory, power bottlenecks",
-      "summary": "Indian AI builders are struggling to secure graphics processing units (GPUs), high-bandwidth memory (HBM), and data center power. Deliveries for GPUs can take three to four months, impacting engineering timelines.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-26T02:11:00Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/indias-ai-builders-face-gpu-memory-power-bottlenecks/135200791",
-          "type": "rss"
-        }
-      ],
-      "content": "Indian artificial intelligence (AI) builders face significant bottlenecks in securing graphics processing units (GPUs), memory, and data center power and space, according to investors and founders. Deliveries for specialised chips used to train and run AI models can extend to three or four months.The challenge for AI compute in India has shifted from affordability to access, with demand outstripping supply. Early-stage startups often receive Cloud credits, making compute affordability less of an issue in the first year, said Rahul Agarwalla, managing partner at SenseAI Ventures.Companies like Juspay, a Bengaluru-based financial technology firm, face the same procurement queues for GPUs despite being able to front-load investments. Sheetal Lalwani, Cofounder and Chief Operating Officer at Juspay, stated during a media briefing that the company is bottlenecked by the difficulty in getting GPUs allocated, with commitments taking three to six months.Ashish Taneja, founding partner and Chief Executive Officer (CEO) of growX ventures, noted that a three to four-month delay for a GPU card can cause an entire engineering team to lose a quarter. This impact on development time is often more detrimental than using a slightly older generation chip.Beyond GPUs, the bottlenecks extend to high-bandwidth memory (HBM), which feeds data to advanced AI chips. Only three companies—SK hynix, Samsung, and Micron—produce HBM at scale. Micron committed its entire 2026 HBM supply by December 2025, while SK hynix secured demand for all its 2026 memory chips by October 2025.Data center capacity and continuous power supply also pose constraints, as GPUs require facilities with stable power and cooling unlike ordinary servers. Lalwani warned that larger players in India could monopolise data center capacity and power in the future, even if chip procurement improves.The government’s IndiaAI Mission has onboarded over 38,000 GPUs for startups and researchers at subsidised rates. However, some companies, like robotics firm CynLr and defence technology firm Armory, require dedicated or local compute for security or real-time operational reasons, which the public pool does not fully address.Gokul N A, founder of CynLr, explained that compute for robotics must be physically wired next to the robot, forcing live training and local compute. A spokesperson for Armory noted that dedicated rack space as metal-as-a-service would better suit their security and diverse workload needs.\n\n- AI & Compute Infrastructure\n- 2 min Read\n\n# India's AI builders face GPU, memory, power bottlenecks\n\nIndian AI builders are struggling to secure graphics processing units (GPUs), high-bandwidth memory (HBM), and data center power. Deliveries for GPUs can take three to four months, impacting engineering timelines.\n\n- Published On Oct 26, 2026 at 07:41 AM IST\n\n## Highlights\n\n- Indian AI builders face 3-4 month delays in securing GPUs and high-bandwidth memory.\n- The primary challenge has shifted from AI compute affordability to access and supply.\n- Data center capacity and continuous power supply are critical bottlenecks for GPU deployment.\n- Government's IndiaAI Mission provides subsidised GPUs, but dedicated compute needs remain.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/indias-ai-builders-face-gpu-memory-power-bottlenecks/135200791"
-    },
-    {
-      "id": "2026-10-26-294891",
-      "title": "PM Modi inaugurates RBI's ₹169-crore data centre in Odisha",
-      "summary": "Prime Minister Narendra Modi inaugurated the Reserve Bank of India's (RBI) ₹169-crore data centre and Cybersecurity Training Institute in Jatni, Odisha. This facility aims to strengthen digital finance and cybersecurity infrastructure in India.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-26T02:10:52Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/operations-resilience/pm-modi-inaugurates-rbis-169-crore-data-centre-in-odisha/135200786",
-          "type": "rss"
-        }
-      ],
-      "content": "Prime Minister Narendra Modi on Sunday inaugurated the Reserve Bank of India's (RBI) ₹169-crore data centre and Cybersecurity Training Institute in Bhubaneswar, officials said.The RBI facility spans 18.55 acres at Info Valley-II in Jatni. It is designed to host mission-critical payment and settlement systems, along with other flagship initiatives, the government stated.This data centre will contribute to expanding the reach, efficiency, and reliability of digital financial services. It will also form a secure digital foundation for India's technology-driven financial economy.The Cybersecurity Training Institute will enhance capability building in cybersecurity and enterprise-technology training, research, and sector-wide development.Officials noted the site was chosen for its geographical stability. It is located away from seismically active zones and high-risk international border areas, reducing exposure to natural disasters and geopolitical vulnerabilities.The Jatni data centre is the second of its kind, following one in Navi Mumbai. Both facilities aim to provide a secure, resilient, scalable, and future-ready computing ecosystem for the RBI and the broader financial sector.\n\n- Operations & Resilience\n- 1 min Read\n\n# PM Modi inaugurates RBI's ₹169-crore data centre in Odisha\n\nPrime Minister Narendra Modi inaugurated the Reserve Bank of India's (RBI) ₹169-crore data centre and Cybersecurity Training Institute in Jatni, Odisha. This facility aims to strengthen digital finance and cybersecurity infrastructure in India.\n\n- Published On Oct 26, 2026 at 07:40 AM IST\n\n## Highlights\n\n- PM Modi inaugurated RBI's ₹169-crore data centre and Cybersecurity Training Institute in Odisha.\n- The facility spans 18.55 acres in Jatni, designed for mission-critical payment systems.\n- It aims to enhance digital financial services and India's technology-driven financial economy.\n- The site was chosen for geographical stability, reducing natural disaster and geopolitical risks.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/operations-resilience/pm-modi-inaugurates-rbis-169-crore-data-centre-in-odisha/135200786"
-    },
-    {
-      "id": "2026-10-26-0ef671",
-      "title": "RBI opens Tier-IV data center in Bhubaneswar",
-      "summary": "The Reserve Bank of India (RBI) has inaugurated a new ₹169 crore data center complex in Bhubaneswar. This Tier-IV facility aims to enhance the resilience of the country's financial system and improve the uptime of critical services.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [],
-      "published_at": "2026-10-26T02:10:43Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/operations-resilience/rbi-opens-tier-iv-data-center-in-bhubaneswar/135200784",
-          "type": "rss"
-        }
-      ],
-      "content": "The Reserve Bank of India (RBI) has inaugurated a new ₹169 crore data center complex in Bhubaneswar, according to Governor Sanjay Malhotra. The facility, which received its highest Tier-IV accreditation from the Uptime Institute, will operate independently of third-party cloud service providers.Malhotra stated that the new data center will strengthen the resilience of India's financial system. It will also improve the uptime of critical services, including payment systems and government banking operations.\n### Operational Resilience and Cybersecurity\n\nThe complex will support the RBI’s payment systems, such as the National Electronic Funds Transfer (NEFT) and Real Time Gross Settlement (RTGS), which operate continuously. While the Unified Payments Interface (UPI) is managed by the National Payments Corporation of India (NPCI), its final settlements occur through the RBI’s data centers.Other vital applications, including the e-Kuber platform used by the Centre, state governments, and banks, will also run on this infrastructure. The facility will host applications related to licenses and approvals sought by central bank-regulated entities.The complex includes four independent data centers. The RBI has applied for a platinum rating from the Indian Green Building Council, acknowledging its energy and water efficiency standards.The project also features a cybersecurity training institute. This institute occupies two-thirds of the land and will train RBI personnel, bank employees, and other financial sector staff. Its curriculum covers emerging technologies and cybersecurity, including artificial intelligence (AI), big data analytics, quantum technology, and blockchain. Malhotra noted that the institute will also conduct research to enhance the security and efficiency of financial systems, especially with the rise of AI.\n### Strategic Location Choice\n\nBhubaneswar was selected for its geographical separation from the RBI’s three existing data centers in Maharashtra, Malhotra explained. This location provides an additional layer of resilience, as it is situated in a different seismic zone. The availability of local talent also influenced the choice of location.\n\n- Operations & Resilience\n- 2 min Read\n\n# RBI opens Tier-IV data center in Bhubaneswar\n\nThe Reserve Bank of India (RBI) has inaugurated a new ₹169 crore data center complex in Bhubaneswar. This Tier-IV facility aims to enhance the resilience of the country's financial system and improve the uptime of critical services.\n\n- Published On Oct 26, 2026 at 07:40 AM IST\n\n## Highlights\n\n- RBI inaugurated a ₹169 crore Tier-IV data center complex in Bhubaneswar.\n- The facility will operate independently, enhancing financial system resilience and critical service uptime.\n- It houses four independent data centers and a cybersecurity training institute.\n- Bhubaneswar offers geographical separation and a different seismic zone for added resilience.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/operations-resilience/rbi-opens-tier-iv-data-center-in-bhubaneswar/135200784"
+      "content_url": "https://w.media/softbank-plans-us50-billion-data-center-investment-in-malaysia-report/",
+      "title_zh": "报道称软银计划在马来西亚投资500亿美元建设数据中心",
+      "summary_zh": "彭博社援引马来西亚首相安瓦尔·易卜拉欣的话报道称，SoftBank Group 计划在马来西亚投资500亿美元，瞄准人工智能和数据中心领域。安瓦尔上周六表示，他于周二与 SoftBank 创始人、董事长兼CEO孙正义进行了视频会议，后者表示正在关注某些地区[…]",
+      "why_zh": "如果得到证实，500亿美元的承诺将立即使马来西亚成为该地区最大的数据中心战场之一，加剧其与新加坡、柔佛毗邻走廊以及印尼之间对 hyperscale 和 AI 工作负载的竞争。目标地区的电力供应能力和电网就绪程度，将决定这笔资本能否转化为实际运营容量。"
     },
     {
       "id": "2026-10-26-f96430",
       "title": "KT Cloud begins 50MW Ansan AI data center construction",
       "summary": "KT Cloud has started construction on a 50MW AI data center in Ansan, Gyeonggi Province, South Korea, targeting completion in 2029. The facility is designed for high-density AI servers, including features like liquid cooling and reinforced floors for GPUs.",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "KT Cloud's entry into purpose-built AI capacity adds a powerful domestic competitor to South Korea's cloud and colocation market, where demand for GPU-ready infrastructure is outstripping supply. The 2029 completion date also signals how far ahead operators must plan to secure power and construction slots for large-scale AI facilities.",
+      "score": 80,
       "heat": 1,
       "regions": [
-        "global"
+        "korea"
       ],
-      "topics": [],
+      "topics": [
+        "ai",
+        "capacity",
+        "construction",
+        "liquid cooling"
+      ],
       "published_at": "2026-10-26T02:10:36Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "ET Datacenters",
@@ -176,21 +139,32 @@
         }
       ],
       "content": "KT Cloud has commenced construction on a 50MW AI data center in Ansan, Gyeonggi Province, South Korea, with completion targeted for 2029. The company announced the Ansan AI Data Center project on October 22, according to Baxtel.CJ Logistics' construction division secured the contract to build the data center. The facility is located within the Banwol National Industrial Complex in Ansan and will encompass approximately 36,878 square metres of gross floor area across two basement levels and nine above-ground floors, The Elec reported.The data center is designed to take in 50MW of power, with 32MW allocated for IT load to actual equipment. Each server room will support liquid cooling, and the building's structure and server room floors are reinforced for high-performance accelerators such as Nvidia Vera Rubin GPUs.A free-cooling system will integrate cooling coils on the building's upper exterior walls, connecting them to closed-circuit cooling towers. This system aims to reduce chiller and cooling tower fan power during cooler months.Kim Bong-kyun, CEO of KT Cloud, stated the Ansan AI Data Center incorporates next-generation design technology and power and cooling infrastructure optimised for high-density AI servers, Chosun Biz reported. He added that the company will leverage its experience to deliver stable and efficient AI infrastructure.This Ansan project is part of KT Cloud's broader strategy to deliver 1GW of AI data center capacity by 2031. The company is also developing a 50MW facility in the Cheongna district of Incheon, with construction due to start in late 2026 and completion by early 2030, RCR Wireless News reported. Additionally, work has begun on a 60MW data center in Gunsan with SGC Energy, expected online in early 2028 and scalable to 300MW. KT Cloud previously opened its 26MW Gasan AI Data Center in November 2025.\n\n- AI & Compute Infrastructure\n- 1 min Read\n\n# KT Cloud begins 50MW Ansan AI data center construction\n\nKT Cloud has started construction on a 50MW AI data center in Ansan, Gyeonggi Province, South Korea, targeting completion in 2029. The facility is designed for high-density AI servers, including features like liquid cooling and reinforced floors for GPUs.\n\n- Published On Oct 26, 2026 at 07:40 AM IST\n\n## Highlights\n\n- KT Cloud starts construction on 50MW Ansan AI data center in South Korea.\n- Facility targets 2029 completion, featuring 32MW IT load and liquid cooling.\n- Design supports high-density AI servers and Nvidia Vera Rubin GPUs.\n- CJ Logistics secured the construction contract for the Banwol Industrial Complex site.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/kt-cloud-begins-50mw-ansan-ai-data-center-construction/135200778"
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/kt-cloud-begins-50mw-ansan-ai-data-center-construction/135200778",
+      "companies": [
+        "KT Cloud"
+      ],
+      "title_zh": "KT Cloud动工建设50MW安山AI数据中心",
+      "summary_zh": "KT Cloud 已在韩国京畿道安山市启动一座50MW AI数据中心建设，目标于2029年完工。该设施专为高密度AI服务器设计，配备液冷和加固地板以承载GPU等功能。",
+      "why_zh": "KT Cloud 进军专用 AI 容量领域，为韩国的云和 colocation 市场增添了一个强劲的本土竞争者，而该地区对 GPU-ready 基础设施的需求正超过供给。2029年的竣工日期也表明，运营商必须提前多久规划，才能为大规模 AI 设施锁定电力和建设档期。"
     },
     {
       "id": "2026-10-26-c147e4",
       "title": "Johor eyes additional 5GW of solar energy by 2031 to meet data centre demand",
       "summary": "ISKANDAR PUTERI (Oct 25): The Johor government is targeting the generation of about five gigawatts (GW) of solar energy over the next four to five years as a long-term solution to meet the surge in electricity demand driven by the rapid growth of the state’s data centre sector.",
-      "why_it_matters": "",
-      "score": null,
+      "why_it_matters": "Johor is moving to fix its power supply before grid constraints choke off the data center boom it has attracted, particularly from Singapore-based demand spillover. A credible 5GW solar buildout would give the state a durable competitive edge over regional rivals still struggling with energy approvals, though execution speed remains the key question.",
+      "score": 78,
       "heat": 1,
       "regions": [
         "southeast-asia"
       ],
-      "topics": [],
+      "topics": [
+        "power",
+        "renewable energy",
+        "data center",
+        "solar"
+      ],
       "published_at": "2026-10-25T07:50:22Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "The Edge Malaysia — data centre search",
@@ -199,7 +173,10 @@
         }
       ],
       "content": "ISKANDAR PUTERI (Oct 25): The Johor government is targeting the generation of about five gigawatts (GW) of solar energy over the next four to five years as a long-term solution to meet the surge in electricity demand driven by the rapid growth of the state’s data centre sector.\n\nState Investment, Trade, Consumer Affairs and Human Resources Committee chairman Lee Ting Han said the strategic move is to ensure the national grid capacity remains robust and capable of balancing industrial and public utility supply requirements following concerns raised in a report by research firm BMI.\n\nBMI, a Fitch Solutions company, estimated that Johor’s data centres would require about 30 terawatt-hours (TWh) of electricity annually by 2031, accounting for 18% of Peninsular Malaysia’s total electricity supply— up from 6% this year.\n\nOn the investment status to date, Lee said the Johor government has approved 65 data centre projects based on land plots.\n\n“Of these, 21 data centres have started operations and they are expected to consume nearly 1.1 GW of electricity, while projects that are still under construction or in the planning stage will require an additional 4GW to 5GW,” he told the media prior to the closing ceremony of the JTDC Mega Job Fair at the Tunku Mahkota Ismail Youth Centre in Iskandar Puteri on Sunday.\n\nLee said that to ensure the large-scale electricity consumption does not disrupt public utility supply, the state government has established the Johor State Data Centre Development Coordination Committee (JPPPDNJ), which is chaired by Johor Housing and Local Government Committee chairman Datuk Mohd Jafni Md Shukor, with Lee serving as deputy chairman.\n\n“All proposed data centre developments must first obtain approval from this committee before applying to the local authorities for planning permission.\n\n“The committee also evaluates the power usage effectiveness (PUE) to ensure that electricity is used efficiently and in compliance with the prescribed regulations,” he said.\n\nAccording to Lee, the state government has taken note of the BMI report, and plans to increase electricity generation capacity are being implemented comprehensively at both state and federal levels.\n\nHe said the Energy Commission, under the Ministry of Energy Transition and Water Transformation, has called for new tenders to increase power capacity by 8GW across Peninsular Malaysia, with a significant portion of the additional capacity expected to be channelled to Johor.\n\n“At the state level, Johor is intensifying large-scale solar energy projects to diversify electricity supply sources in the Kota Tinggi, Mersing and Segamat areas.\n\n“Overall, these projects are expected to raise Johor’s solar generation capacity by about an additional 5GW by 2030 or 2031 for channeling to data centres and large-scale industries,” he said.\n\nThe initiative comprises solar projects totalling 4GW in Kota Tinggi and Mersing, which are expected to start in phases from mid-2029, as well as a 1GW solar project in Segamat.\n\nLee also welcomed the federal government’s policy allowing operators of large-scale data centres to explore alternative solutions, including off-grid solutions to generate their own electricity, subject to the stipulated regulations.\n\n“These are long-term plans because developing new electricity generation capacity takes a long time. Efforts to increase electricity generation through solar projects, off-grid solutions and new tenders issued by the Energy Commission are being actively pursued by both the Johor government and the federal government.\n\n“We are confident that this careful planning will ensure an adequate electricity supply to support the growth of the data centre industry and other industrial developments in Johor,” he added.\n\n*Read also: Johor data centres could consume over 90% of peninsula's additional power generation by 2031 — BMI*\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/823158"
+      "content_url": "https://theedgemalaysia.com/node/823158",
+      "title_zh": "柔佛计划到2031年新增5GW太阳能发电以满足数据中心需求",
+      "summary_zh": "依斯干达公主城（10月25日）：柔佛州政府计划在未来四到五年内实现约5吉瓦（GW）的太阳能发电，作为长期解决方案，以满足该州数据中心行业快速增长所驱动的电力需求激增。",
+      "why_zh": "柔佛正着手解决其电力供应问题，以免电网瓶颈扼杀它所吸引的数据中心热潮——尤其是来自新加坡的需求外溢。一个可信的5GW太阳能建设计划，将使该州相对于仍在为能源审批苦苦挣扎的区域竞争对手获得持久的竞争优势，不过执行速度仍是关键问题。"
     }
   ]
 }
