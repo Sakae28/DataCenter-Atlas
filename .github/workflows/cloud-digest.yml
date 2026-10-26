@@ -1,16 +1,13 @@
 # Cloud daily digest — fetches + processes today's news on GitHub's
 # infrastructure and commits data/ back to main. Exists for the days the
-# local machine (Task Scheduler + accelerator + kimi CLI login) is off:
-# the local run is still the primary path; this workflow skips itself
-# whenever today's digest file already exists in the repo.
+# local machine (Task Scheduler + accelerator) is off: the local run is
+# still the primary path; this workflow skips itself whenever today's
+# digest file already exists in the repo.
 #
-# LLM backend: the kimi CLI, restored from repository secrets so the run
-# uses the owner's Kimi Code subscription — no paid API key needed.
-# Secrets hold BASE64 of the files (paste-proof: no BOM/whitespace issues):
-#   KIMI_CONFIG_TOML_B64       base64 -w0 ~/.kimi-code/config.toml
-#   KIMI_CREDENTIALS_JSON_B64  base64 -w0 ~/.kimi-code/credentials/kimi-code.json
-# Note on OAuth rotation: once the cloud run refreshes the token, the copy
-# on the local machine is stale — run `/login` locally once when back.
+# LLM backend: the Moonshot OpenAI-compatible API via the MOONSHOT_API_KEY
+# repo secret (pipeline's `api` backend). This is deliberately decoupled
+# from the local kimi CLI OAuth credentials — those rotate on every local
+# CLI use and kept breaking the cloud runs.
 #
 # The data push is made with GITHUB_TOKEN, which does NOT trigger other
 # workflows, so the final step explicitly dispatches the Deploy site
@@ -68,41 +65,25 @@ jobs:
         if: steps.guard.outputs.skip == 'no'
         run: pip install -r pipeline/requirements.txt
 
-      - name: Install kimi CLI
+      - name: Check LLM secret
         if: steps.guard.outputs.skip == 'no'
+        env:
+          KEY: ${{ secrets.MOONSHOT_API_KEY }}
         run: |
-          curl -fsSL https://code.kimi.com/kimi-code/install.sh | bash
-          echo "$HOME/.kimi-code/bin" >> "$GITHUB_PATH"
-          "$HOME/.kimi-code/bin/kimi" --version
-
-      - name: Restore kimi credentials
-        if: steps.guard.outputs.skip == 'no'
-        run: |
-          mkdir -p "$HOME/.kimi-code/credentials"
-          printf '%s' "${{ secrets.KIMI_CONFIG_TOML_B64 }}" | tr -d '[:space:]' | base64 -d > "$HOME/.kimi-code/config.toml"
-          printf '%s' "${{ secrets.KIMI_CREDENTIALS_JSON_B64 }}" | tr -d '[:space:]' | base64 -d > "$HOME/.kimi-code/credentials/kimi-code.json"
-          chmod 600 "$HOME/.kimi-code/credentials/kimi-code.json"
-
-      - name: Verify restored kimi config (no secrets printed)
-        if: steps.guard.outputs.skip == 'no'
-        run: |
-          cfg="$HOME/.kimi-code/config.toml"
-          cred="$HOME/.kimi-code/credentials/kimi-code.json"
-          echo "config.toml: $(wc -c < "$cfg") bytes, $(wc -l < "$cfg") lines"
-          echo "credentials json: $(wc -c < "$cred") bytes"
-          echo "config.toml keys: $(grep -oE '^[A-Za-z_.]+' "$cfg" | tr '\n' ' ')"
-          if [ ! -s "$cfg" ]; then
-            echo "::error::config.toml is EMPTY — the KIMI_CONFIG_TOML secret is unset or empty"
+          if [ -z "$KEY" ]; then
+            echo "::error::MOONSHOT_API_KEY secret is unset — add it at Settings > Secrets and variables > Actions"
             exit 1
           fi
-          grep -q 'default_model' "$cfg" || { echo "::error::default_model MISSING in config.toml — re-paste the KIMI_CONFIG_TOML secret with the FULL contents of ~/.kimi-code/config.toml"; exit 1; }
-          [ -s "$cred" ] || { echo "::error::credentials json is EMPTY — the KIMI_CREDENTIALS_JSON secret is unset or empty"; exit 1; }
-          python -c "import json;d=json.load(open('$cred'));print('credentials keys:', ','.join(sorted(d.keys())))" || { echo "::error::credentials json INVALID — re-paste the KIMI_CREDENTIALS_JSON secret with the FULL contents of ~/.kimi-code/credentials/kimi-code.json"; exit 1; }
+          echo "MOONSHOT_API_KEY present ($(echo -n "$KEY" | wc -c) chars)"
 
       - name: Fetch + process today's digest
         if: steps.guard.outputs.skip == 'no'
         env:
           PYTHONIOENCODING: utf-8
+          LLM_BACKEND: api
+          LLM_API_KEY: ${{ secrets.MOONSHOT_API_KEY }}
+          LLM_BASE_URL: https://api.moonshot.cn/v1
+          LLM_MODEL: kimi-k2-0905-preview
         run: python pipeline/run.py
 
       - name: Commit and push data

@@ -22,6 +22,12 @@ relevance scoring, clustering and enrichment are enabled by either of two
 backends; copy `.env.example` to `.env` (or set variables in the
 environment / CI secrets):
 
+> The GitHub Actions cloud-digest workflow uses the `api` backend with the
+> `MOONSHOT_API_KEY` repo secret (Moonshot China platform,
+> `https://api.moonshot.cn/v1`, model `kimi-k2-0905-preview`) — a static
+> API key, deliberately decoupled from the kimi-cli OAuth credentials,
+> which rotate on every local CLI use.
+
 | Var           | Default                     | Purpose                                   |
 | ------------- | --------------------------- | ----------------------------------------- |
 | `LLM_BACKEND` | `auto`                      | `api` \| `kimi-cli` \| `auto` (see below)  |
