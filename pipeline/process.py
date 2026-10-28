@@ -277,15 +277,22 @@ def select_backend():
 
 def _api_chat_json(client, system: str, user: str):
     model = os.environ.get("LLM_MODEL", "gpt-4o-mini")
-    resp = client.chat.completions.create(
-        model=model,
-        messages=[
+    kwargs = {
+        "model": model,
+        "messages": [
             {"role": "system", "content": system},
             {"role": "user", "content": user},
         ],
-        temperature=0.2,
-        response_format={"type": "json_object"},
-    )
+        "response_format": {"type": "json_object"},
+    }
+    if model == "kimi-k2.6":
+        # K2.6 rejects custom temperatures; disable thinking for fast,
+        # deterministic structured extraction (reasoning is returned apart
+        # from message.content and is unnecessary for these pipeline tasks).
+        kwargs["extra_body"] = {"thinking": {"type": "disabled"}}
+    else:
+        kwargs["temperature"] = 0.2
+    resp = client.chat.completions.create(**kwargs)
     return parse_json(resp.choices[0].message.content or "")
 
 
