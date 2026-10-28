@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T14:26:58Z",
+  "generated_at": "2026-10-28T15:09:51Z",
   "hot": [
     "2026-10-28-d32cc7",
     "2026-10-28-f0b234",
@@ -9,6 +9,134 @@
     "2026-10-28-bd8b2c"
   ],
   "stories": [
+    {
+      "id": "2026-10-28-568955",
+      "title": "As AI revives magnetic tape, Fujifilm plans biggest buildup in two decades",
+      "summary": "TOKYO -- Fujifilm will raise production capacity for magnetic tape fivefold to meet artificial-intelligence-driven demand, marking the company's largest investment to make the data storage medium in…",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "storage",
+        "tape",
+        "capacity"
+      ],
+      "published_at": "2026-10-28T15:09:51Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/as-ai-revives-magnetic-tape-fujifilm-plans-biggest-buildup-in-two-decades",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Fujifilm"
+      ],
+      "title_zh": "随着AI复兴磁带存储，Fujifilm计划二十年来最大规模扩建",
+      "content": "TOKYO -- Fujifilm will raise production capacity for magnetic tape fivefold to meet artificial-intelligence-driven demand, marking the company's largest investment to make the data storage medium in roughly 20 years, Nikkei has learned.\n\nArtificial intelligence\n# As AI revives magnetic tape, Fujifilm plans biggest buildup in two decades\n\nJapanese company to quintuple output of offline storage medium for critical data\n\nMagnetic tape is widely used by data center operators, financial institutions and research organizations for data backup. (Photo by Yuki Nakao)",
+      "content_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/as-ai-revives-magnetic-tape-fujifilm-plans-biggest-buildup-in-two-decades"
+    },
+    {
+      "id": "2026-10-28-f845f0",
+      "title": "South Korea's economy grows 1.0% in 3rd quarter on chip boom",
+      "summary": "SEOUL -- South Korea's economy grew 1.0% in the July-September period from the previous quarter as the artificial intelligence-led boom in tech products continued to lift output.",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 1,
+      "regions": [
+        "korea",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "economy",
+        "semiconductor",
+        "investment"
+      ],
+      "published_at": "2026-10-28T15:09:51Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/economy/south-korea-s-economy-grows-1.0-in-3rd-quarter-on-chip-boom",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "South Korea's economy grows 1.0% in 3rd quarter on chip boom",
+      "content": "SEOUL -- South Korea's economy grew 1.0% in the July-September period from the previous quarter as the artificial intelligence-led boom in tech products continued to lift output.\n\nEconomy\n# South Korea's economy grows 1.0% in 3rd quarter on chip boom\n\nAI-led expansion continues to drive economy while private consumption dips\n\nPeople walk in a shopping area in Seoul on Oct. 1, 2025. (AP Photo/Ahn Young-joon) © AP",
+      "content_url": "https://asia.nikkei.com/economy/south-korea-s-economy-grows-1.0-in-3rd-quarter-on-chip-boom"
+    },
+    {
+      "id": "2026-10-28-3c5093",
+      "title": "Microsoft offers buyouts to 60,000 employees as AI spending mounts",
+      "summary": "(Reuters) -- Microsoft said on Monday it is offering voluntary buyouts to about 60,000 employees, or more than a quarter of its global workforce, as the technology giant looks to contain costs and…",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "hyperscale",
+        "workforce",
+        "investment"
+      ],
+      "published_at": "2026-10-28T15:09:51Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/microsoft-offers-buyouts-to-60-000-employees-as-ai-spending-mounts",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "title_zh": "Microsoft offers buyouts to 60,000 employees as AI spending mounts",
+      "content": "(Reuters) -- Microsoft said on Monday it is offering voluntary buyouts to about 60,000 employees, or more than a quarter of its global workforce, as the technology giant looks to contain costs and help fund its massive AI investments.\n\nArtificial intelligence\n# Microsoft offers buyouts to 60,000 employees as AI spending mounts\n\nTech giant looks to cut a quarter of its global workforce to contain costs\n\nLike other tech giants, Microsoft is spending hundreds of billions of dollars on AI data centers and chips, drawing scrutiny from investors over whether the returns will justify the staggering cost. © Reuters",
+      "content_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/microsoft-offers-buyouts-to-60-000-employees-as-ai-spending-mounts"
+    },
+    {
+      "id": "2026-10-28-de1143",
+      "title": "Enphase and Infineon deploy 900V GaN switches in solid-state transformers designed for AI data centers",
+      "summary": "Claim the deployment is a \"world's first\"",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "power",
+        "ai",
+        "innovation"
+      ],
+      "published_at": "2026-10-28T15:05:52Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/enphase-and-infineon-deploy-900v-gan-switches-in-solid-state-transformers-designed-for-ai-data-centers/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Enphase",
+        "Infineon"
+      ],
+      "title_zh": "Enphase和Infineon在专为AI数据中心设计的固态变压器中部署900V GaN开关",
+      "content": "Electrical equipment manufacturer Enphase Energy has partnered with German semiconductor firm Infineon Technologies to deploy what it calls “the world’s first” 900 Volt gallium nitride (GaN) monolithic bidirectional switch (BDS) devices within Enphase's solid-state transformer power modules.\n\nThe partners claim the deployment will play a crucial role in scaling Enphase’s IQ Solid-State Transformer (IQ SST), designed for the AI data center sector.\n\nAccording to Enphase, the BDS devices will allow Enphase to continue using components rated below 1kV, expanding design options for high-performance power conversion that typically rely on silicon carbide (SiC) technology. The company also claims that, within an SST, the switches will reduce switching losses and require fewer components in the power path.\n\nThe company said that on the DC side, higher-voltage unidirectional switch (UDS) devices would enable unipolar 800V power generation rather than split +/-400V buses, and support future 1,500VDC bus architectures through split +/-750V generation with fewer switches and lower bridge losses.\n\n\"Enphase asks more of our technology than almost anyone, and medium-voltage solid-state transformers are exactly where high-voltage GaN proves its value,\" said Johannes Schoiswohl, senior vice president and head of GaN Systems Business Line at Infineon. \"Moving past 650V lets system designers strip cost and loss out of the architecture rather than optimizing around it.\"\n\n\"GaN is not new to us. It has been running in Enphase IQ9 Microinverters in the field, and that field data is why we trust it in a megawatt-class system,\" said Hans van Antwerpen, senior vice president and chief technology officer at Enphase Energy.\n\n\"Moving to 900V gives us more voltage headroom without giving up high-frequency switching, and it allows us to stay with components rated below 1kV while reducing the number of converters in the system. Fewer parts in the power path means higher efficiency and fewer things that can fail.\"\n\nThe 900V GaN BDS devices have been successfully tested and are now being integrated into IQ SST development builds, with production qualification expected to follow.\n\nSSTs are growing in popularity across the data center sector, with several major firms signing deals with providers over recent months. Earlier this month, Vantage inked a deal with SST manufacturer Heron Power to secure more than 1GW of the company’s SST’s to deploy across its hyperscale data center portfolio. Heron has also partnered with Crusoe.\n\nInfineon has also partnered with other manufacturers on the technology. Last month, the firm signed a deal with Eaton to provide the company with silicon carbide (SiC) power devices for deployment in the power management firm’s medium-voltage SST platform.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/enphase-and-infineon-deploy-900v-gan-switches-in-solid-state-transformers-designed-for-ai-data-centers/"
+    },
     {
       "id": "2026-10-28-bd683c",
       "title": "US voters turning against data centers raises risks for Asian suppliers",
@@ -39,39 +167,6 @@
       "why_zh": "如果美国扩张面临监管和社区阻力，亚洲 data center 市场可能会看到投资加速，但它们也面临引入类似政治动态的风险。为美国 boom 而扩大规模的电力设备、冷却系统和建筑材料供应商可能面临订单取消或库存过剩。这种转变还加剧了 APAC 有限容量的竞争，可能推高新加坡、日本和澳大利亚的土地和电力成本。",
       "content": "U.S. midterm elections\n# US voters turning against data centers raises risks for Asian suppliers\n\n'Friction' delaying big projects would have knock-on effects for chip, server makers\n\nPeople participate in a protest of the CoreWeave AI data center outside the municipal building in Kenilworth, New Jersey on Oct. 21. © Getty Images\n\nPAK YIU, KATHERINE CREEL and YIFAN YU\n\nOctober 28, 2026 11:19 JST\n\nJACKSON COUNTY, Ohio / WASHINGTON / SAN FRANCISCO -- When Kasey Hoover Hall's father called her and her sister to the family farmhouse in Jackson County, Ohio, one March evening, she didn't know what to expect. What she did know was the rule they had grown up with: You never sell the land.",
       "content_url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/us-voters-turning-against-data-centers-raises-risks-for-asian-suppliers"
-    },
-    {
-      "id": "2026-10-28-568955",
-      "title": "As AI revives magnetic tape, Fujifilm plans biggest buildup in two decades",
-      "summary": "TOKYO -- Fujifilm will raise production capacity for magnetic tape fivefold to meet artificial-intelligence-driven demand, marking the company's largest investment to make the data storage medium in…",
-      "why_it_matters": "",
-      "score": 60,
-      "heat": 1,
-      "regions": [
-        "japan",
-        "global"
-      ],
-      "topics": [
-        "ai",
-        "storage",
-        "supply chain",
-        "chips"
-      ],
-      "published_at": "2026-10-28T14:26:58Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/as-ai-revives-magnetic-tape-fujifilm-plans-biggest-buildup-in-two-decades",
-          "type": "rss"
-        }
-      ],
-      "companies": [
-        "Fujifilm"
-      ],
-      "title_zh": "AI复兴magnetic tape，Fujifilm计划二十年来最大规模扩产",
-      "content": "TOKYO -- Fujifilm will raise production capacity for magnetic tape fivefold to meet artificial-intelligence-driven demand, marking the company's largest investment to make the data storage medium in roughly 20 years, Nikkei has learned.\n\nArtificial intelligence\n# As AI revives magnetic tape, Fujifilm plans biggest buildup in two decades\n\nJapanese company to quintuple output of offline storage medium for critical data\n\nMagnetic tape is widely used by data center operators, financial institutions and research organizations for data backup. (Photo by Yuki Nakao)",
-      "content_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/as-ai-revives-magnetic-tape-fujifilm-plans-biggest-buildup-in-two-decades"
     },
     {
       "id": "2026-10-28-80242f",
@@ -176,7 +271,7 @@
       "title": "Jati Tinggi 3Q net profit more than doubles on stronger data centre project contributions",
       "summary": "Jati Tinggi Group Bhd (KL:JTGROUP) on Wednesday reported a more than two-fold increase in quarterly net profit from a year earlier, driven by higher revenue from power infrastructure and underground cable projects, particularly those linked to data centres.",
       "why_it_matters": "",
-      "score": 55,
+      "score": 65,
       "heat": 1,
       "regions": [
         "southeast-asia"
@@ -185,10 +280,10 @@
         "data center",
         "power",
         "infrastructure",
-        "investment"
+        "earnings"
       ],
       "published_at": "2026-10-28T13:09:52Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "The Edge Malaysia — data centre search",
@@ -199,7 +294,7 @@
       "companies": [
         "Jati Tinggi Group"
       ],
-      "title_zh": "Jati Tinggi第三季度净利润翻倍以上，得益于数据中心项目贡献增强",
+      "title_zh": "Jati Tinggi第三季度净利润翻倍以上，因数据中心项目贡献增强",
       "content": "KUALA LUMPUR (Oct 28): Jati Tinggi Group Bhd (KL:JTGROUP) on Wednesday reported a more than two-fold increase in quarterly net profit from a year earlier, driven by higher revenue from power infrastructure and underground cable projects, particularly those linked to data centres.\n\nNet profit for the third financial quarter ended Aug 31, 2026 (3QFY2026) rose to RM8.01 million from RM3.18 million, while revenue nearly tripled to RM156.05 million from RM52.96 million, according to the group's filing with Bursa Malaysia.\n\nJati Tinggi attributed the stronger performance to higher contributions from its substation engineering, procurement, construction and commissioning (EPCC) business, as well as underground utilities engineering services.\n\nMajor revenue contributors included a 275kV bulk power supply connection for a data centre in Johor, underground cable relocation works at Bandar Sri Pinang, and power infrastructure projects in Cyberjaya and Pasir Gudang.\n\nOn a quarter-on-quarter basis, revenue jumped 77.74% from RM87.8 million in 2QFY2026, mainly due to increased project activities and progress.\n\nHowever, net profit declined from RM9.85 million in the preceding quarter as the group undertook more projects with lower profit margins. The previous quarter also benefitted from a RM2.31 million gain arising from its acquisition of a controlling stake in Roflex Pipe Sdn Bhd.\n\nNo dividend was declared for the quarter.\n\nFor the first nine months of FY2026, net profit more than tripled to RM18.96 million from RM5.86 million, while revenue surged to RM318.29 million from RM110.15 million.\n\nLooking ahead, Jati Tinggi said it remains optimistic about its prospects, supported by continued demand for power infrastructure and data centre-related projects.\n\nThe group secured RM907.13 million worth of projects, including joint venture contracts, between December 2025 and Oct 22, 2026.\n\nIts outstanding order book stood at RM1.4 billion as at Oct 22, providing earnings visibility for the next two to three financial years, said Jati Tinggi.\n\nAmong its recent wins was a RM30.1 million contract secured earlier this month to build power infrastructure for a data centre in Kulai, Johor.\n\nSeparately, Jati Tinggi said its wholly owned subsidiary, Jati Tinggi Holding Sdn Bhd, received two additional letters of award worth RM2.25 million from Public Bank Bhd (KL:PBBANK) for solar panel installation works, bringing the total contract value awarded under the project to RM10.06 million.\n\nJati Tinggi shares closed one sen or 0.78% higher at RM1.29 on Wednesday, valuing the group at RM571.4 million.\n\nEdited ByS Kanagaraju\n\nPrint\n\nText Size\n\nShare",
       "content_url": "https://theedgemalaysia.com/node/823688"
     },
@@ -415,7 +510,7 @@
       "title": "States without sufficient water supply cannot host data centres, says Johari Ghani",
       "summary": "States without sufficient water supply will not be allowed to host data centres, even if land is available, as Malaysia tightens its approval process for new projects, Investment, Trade and Industry Minister Datuk Seri Johari Abdul Ghani said.",
       "why_it_matters": "",
-      "score": 70,
+      "score": 75,
       "heat": 1,
       "regions": [
         "southeast-asia"
@@ -435,16 +530,16 @@
           "type": "html-list"
         }
       ],
-      "title_zh": "Johari Ghani称，供水不足的州不允许建设数据中心",
+      "title_zh": "Johari Ghani表示，供水不足的州不允许建设数据中心",
       "content": "KUALA LUMPUR (Oct 28): States without sufficient water supply will not be allowed to host data centres, even if land is available, as Malaysia tightens its approval process for new projects, Investment, Trade and Industry Minister Datuk Seri Johari Abdul Ghani said.\n\nMalaysia has no plans to impose a blanket moratorium on new data centres but will assess applications based on water availability, electricity supply and investors’ financial strength before granting approval.\n\nJohari told the Dewan Rakyat during the winding-up debate on Budget 2027 on Wednesday that the Malaysian Investment Development Authority (Mida) will work with state governments to assess water requirements, while electricity availability will be evaluated in consultation with Tenaga Nasional Bhd (KL:TENAGA).\n\nThe government has approved 117 data centres nationwide, of which 55 are operational, 19 are under construction and 16 have received approval but have yet to begin construction. The remaining 27 are at various stages of development, with their electricity needs expected to be met through off-grid arrangements.\n\nTo protect Tenaga Nasional’s reserve margin and ensure sufficient electricity for other industries, the government has separated data centres’ electricity requirements from those of other industrial users.\n\nData centres supplied with electricity through Tenaga Nasional will be charged market rates without subsidies, Johari said. Operators must also pay for their contracted electricity capacity even if their actual consumption is lower.\n\nFor example, an operator that contracts for 300 megawatts (MW) but uses only 100MW must still pay for the remaining 200MW.\n\nData centre operators will also be required to meet a minimum local content requirement of 30% for data centre-related development.\n\nJohari said the measures aim to ensure that data centre investments benefit Malaysia while taking into account the country’s water and electricity resources.\n\n*For more Parliament stories, click here.*\n\nEdited ByPresenna Nambiar\n\nPrint\n\nText Size\n\nShare",
       "content_url": "https://theedgemalaysia.com/node/823645"
     },
     {
       "id": "2026-10-28-97b173",
       "title": "DE-CIX & IGC launch Bangkok internet exchange",
-      "summary": "Thailand's networks will gain direct regional peering, with the new exchange due to open in 2027 and link Bangkok to ASEAN hubs.",
-      "why_it_matters": "",
-      "score": 65,
+      "summary": "DE-CIX and IGC are establishing a new internet exchange in Bangkok, scheduled to launch in 2027 with connectivity to ASEAN regional hubs. The exchange will enable Thai networks to peer directly rather than routing traffic through Singapore or Hong Kong.",
+      "why_it_matters": "Currently, most Thai internet traffic transits through Singapore exchanges, adding 30-50 milliseconds latency and significant transit costs. A local Bangkok IX reduces dependency on Singapore's infrastructure while positioning Thailand as a regional interconnection point—critical as content providers and cloud operators seek to serve growing Southeast Asian user bases from distributed edge locations rather than centralized hubs.",
+      "score": 75,
       "heat": 1,
       "regions": [
         "southeast-asia"
@@ -453,7 +548,7 @@
         "internet-exchange",
         "connectivity",
         "peering",
-        "asean"
+        "bangkok"
       ],
       "published_at": "2026-10-28T09:08:00Z",
       "featured": true,
@@ -468,43 +563,11 @@
         "DE-CIX",
         "IGC"
       ],
-      "title_zh": "DE-CIX与IGC推出曼谷互联网交换中心",
+      "title_zh": "DE-CIX与IGC启动Bangkok internet exchange",
+      "summary_zh": "DE-CIX 和 IGC 正在曼谷建立新的互联网交换中心，计划于 2027 年启动，并连接至东盟区域枢纽。该交换中心将使泰国网络能够直接对等互联，而非通过新加坡或香港路由流量。",
+      "why_zh": "目前，大多数泰国互联网流量通过新加坡交换中心中转，增加了 30-50 毫秒的延迟和显著的传输成本。本地曼谷 IX 减少了对新加坡基础设施的依赖，同时将泰国定位为区域互联点——这对于内容提供商和 cloud 运营商寻求从分布式 edge 位置而非集中式枢纽服务不断增长的东南亚用户群至关重要。",
       "content": "DE-CIX and International Gateway Co have formed a joint venture to launch DE-CIX Bangkok, an internet exchange due to be ready for service in 2027.\n\nThe venture will establish DE-CIX Thailand in Bangkok, building and operating the exchange as part of DE-CIX's Southeast Asian network.\n\nThe project will be the first internet exchange in Thailand to be directly interconnected with DE-CIX exchanges elsewhere in the ASEAN region. Networks connected in Bangkok will be able to peer directly with networks in Singapore, Johor Bahru, Kuala Lumpur, Penang and Jakarta through a single regional platform.\n\nThe launch will extend DE-CIX's Southeast Asian platform to a seventh metropolitan market. The countries of mainland Southeast Asia - Thailand, Vietnam, Cambodia, Laos and Myanmar - account for about half of all end users in the ASEAN region, according to the operator.\n\nIGC will provide connectivity to the Bangkok exchange and act as a reseller for customers across mainland Southeast Asia. The exchange will also connect to DE-CIX's global backbone, linking more than 4,600 networks across the Americas, Africa, Europe, the Middle East and Asia.\n\n### Regional reach\n\nBangkok is one of Southeast Asia's faster-growing digital infrastructure markets, with submarine connectivity into the Pacific and Indian Oceans and a growing data centre sector. Its location also makes it a gateway to mainland Southeast Asia, DE-CIX said.\n\nDE-CIX already operates exchanges in Singapore, Malaysia, Brunei and Indonesia through its distributed ASEAN platform. Close to 150 networks are connected, or in the process of connecting, across that regional interconnection fabric, it said.\n\n\"Thailand is the next logical step in our Southeast Asian growth strategy,\" said Ivo Ivanov, Chief Executive Officer of DE-CIX. \"The country has all the ingredients to become the gateway to mainland Southeast Asia and one of the region's leading digital connectivity hubs, serving millions of people. Together with IGC, we are creating an environment where networks in Thailand can interconnect locally while gaining seamless access to one of Southeast Asia's richest digital ecosystems. Customers will benefit from lower latency, greater resilience, and direct access to cloud, AI, content, and network providers across the DE-CIX platform.\"\n\nDE-CIX operates internet exchanges in 60 locations worldwide and says its services are accessible from data centres in more than 600 cities. Founded in 1995, it is one of the largest operators in the sector, with DE-CIX Frankfurt alone handling more than 48 exabytes of data traffic a year as of 2025.\n\nIGC, a subsidiary of ALT Telecom, provides wholesale bandwidth, IP transit and network services for domestic and international traffic in Thailand. It operates more than 12,000 kilometres of optical fibre nationwide and has network-to-network interfaces across 12 active border crossings, linking 42 operators in neighbouring countries and Thailand.\n\nIts infrastructure also includes connectivity to more than 10 data centres in Thailand and licences covering five cable landing stations. DE-CIX plans to use that domestic and cross-border footprint to extend access to the new exchange beyond Bangkok.\n\n\"The establishment of DE-CIX Bangkok will create new opportunities for customers to exchange traffic not only locally but regionally, while reducing latency, improving network performance, and providing access to one of the most interconnected ecosystems in Southeast Asia,\" said Supat Eamwiwat, Chief Executive Officer of IGC. \"We are excited to partner with DE-CIX to support the next phase of Thailand's digital growth.\"",
       "content_url": "https://datacenternews.asia/story/de-cix-igc-launch-bangkok-internet-exchange"
-    },
-    {
-      "id": "2026-10-28-798264",
-      "title": "NextDC cash crunch threatens $2b Melbourne technology hub",
-      "summary": "Australian data center operator NextDC is facing a significant liquidity squeeze that jeopardizes its planned A$2 billion Melbourne technology hub, one of the country's largest proposed digital infrastructure developments. The cash crunch raises questions about the company's ability to fund expansion amid rising capital costs and competitive pressure.",
-      "why_it_matters": "NextDC's predicament exposes broader vulnerability in the APAC data center sector: aggressive expansion commitments are colliding with tightened debt markets and investor risk aversion. For Melbourne's digital economy aspirations, a stalled or scaled-back hub would delay critical capacity additions just as AI demand accelerates. Competitors like AirTrunk may seize market share, while the episode could trigger repricing of data center development risk across Australian capital markets.",
-      "score": 85,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "capacity",
-        "investment",
-        "power",
-        "finance"
-      ],
-      "published_at": "2026-10-28T09:00:00Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/companies/infrastructure/nextdc-cash-crunch-threatens-2b-melbourne-technology-hub-20261028-p618um",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "NextDC"
-      ],
-      "title_zh": "NextDC现金紧缩威胁20亿澳元墨尔本技术中心",
-      "summary_zh": "澳大利亚data center运营商NextDC正面临严重的liquidity squeeze，危及其计划中的A$2 billion Melbourne technology hub——该国最大的proposed digital infrastructure开发项目之一。该cash crunch引发了关于该公司在rising capital costs和竞争压力下是否有能力为扩张提供资金的疑问。",
-      "why_zh": "NextDC的困境暴露了APAC data center行业更广泛的脆弱性：aggressive expansion commitments正在与收紧的debt markets和投资者风险厌恶发生碰撞。对于Melbourne的digital economy抱负而言，在AI需求加速之际，hub的停滞或缩减将延迟关键capacity additions。像AirTrunk这样的竞争对手可能夺取market share，而该事件可能触发Australian capital markets对data center development risk的重新定价。",
-      "content": "NextDC chief executive Craig Scroggie’s grand plan to create thousands of jobs at a digital technology hub in Melbourne is evaporating as his company’s financial woes force it to put new data centres on hold.\n\nFormer Victorian premier Jacinta Allan in June 2025 had said a $2 billion investment by NextDC in a data centre in Fishermans Bend, near the Port of Melbourne, would cement Victoria’s reputation as “the centre for innovation”.\n\nLoading...",
-      "content_url": "https://www.afr.com/companies/infrastructure/nextdc-cash-crunch-threatens-2b-melbourne-technology-hub-20261028-p618um"
     },
     {
       "id": "2026-10-28-dd1a23",
@@ -532,9 +595,9 @@
     {
       "id": "2026-10-28-4f7e58",
       "title": "Rule-breaking data centres to have power switched off",
-      "summary": "Authorities in an unspecified jurisdiction plan to cut electricity supply to data centers found operating in violation of regulations. The enforcement measure targets facilities that have bypassed permitting requirements, exceeded approved power capacity, or failed to meet environmental and safety standards.",
-      "why_it_matters": "Hard enforcement through power disconnection raises the compliance stakes dramatically for operators across APAC, where rapid buildouts have sometimes outpaced regulatory oversight. The move could force a reckoning for gray-market or speculative projects in markets like Indonesia, Vietnam, and parts of China where permitting has been inconsistent. Established operators with clean regulatory track records stand to benefit from reduced competition and potential consolidation opportunities.",
-      "score": 75,
+      "summary": "Authorities in an unspecified jurisdiction are threatening to cut electricity supply to data centers found operating in violation of regulations. The enforcement measure targets facilities that may have bypassed permitting, environmental, or safety requirements.",
+      "why_it_matters": "Power cut threats represent an escalation from fines to operational shutdown, creating existential risk for non-compliant operators. In markets like Vietnam, Indonesia, and parts of China where informal data center construction has proliferated, this enforcement approach could trigger consolidation as smaller players sell to larger developers with regulatory expertise, while tightening supply in secondary markets.",
+      "score": 85,
       "heat": 1,
       "regions": [
         "australia"
@@ -542,7 +605,7 @@
       "topics": [
         "regulation",
         "power",
-        "enforcement"
+        "compliance"
       ],
       "published_at": "2026-10-28T06:31:30Z",
       "featured": true,
@@ -553,18 +616,18 @@
           "type": "html-list"
         }
       ],
-      "title_zh": "违规数据中心将被切断电力供应",
-      "summary_zh": "某未指明司法管辖区的当局计划对被发现违规运营的 data center 切断电力供应。这一执法措施针对绕过许可要求、超过批准电力容量或未能达到环境和安全标准的设施。",
-      "why_zh": "通过断电进行强硬执法，大幅提高了 APAC 各地运营商的合规风险，那里的快速建设有时超出了监管监督的步伐。这一举措可能迫使印度尼西亚、越南和中国部分地区等许可不一致的市场上的灰色市场或投机项目面临清算。具有 clean regulatory track records 的 established operators 将受益于竞争减少和潜在的整合机会。",
+      "title_zh": "违规数据中心将被切断电力",
+      "summary_zh": "某未指明地区的当局威胁要切断违规运营数据中心的电力供应。该执法措施针对可能绕过许可、环境或安全要求的设施。",
+      "why_zh": "断电威胁代表了从罚款到运营关闭的升级，为不合规运营商创造了生存风险。在越南、印度尼西亚和中国部分地区等非正式数据中心建设激增的市场，这种执法方式可能引发整合，因为小型玩家将出售给具有监管专业知识的大型开发商，同时收紧二级市场的供应。",
       "content": "Data centres that fail to comply with a federal government mandate to use green electricity sources could have their power switched off under strict new rules designed to limit their impact on the grid and avoid price spikes.\n\nThe new requirements, which Energy Minister Chris Bowen formally submitted to the grid rulemaker on Wednesday, would force data centres to source round-the-clock power from entirely new renewable sources located in the same state.\n\nLoading...",
       "content_url": "https://www.afr.com/policy/energy-and-climate/rule-breaking-data-centres-to-have-power-switched-off-20261028-p619f5"
     },
     {
       "id": "2026-10-28-a6aeb9",
       "title": "Nvidia-backed firm launches US$3.1 bil GPU loan in market",
-      "summary": "Zankore, an Indonesian artificial intelligence infrastructure platform backed by Nvidia Corp, is syndicating a US$3.1 billion (RM12.65 billion) loan to the broader market, according to people familiar with the matter, adding to a flurry of financing for Asia’s AI buildout.",
-      "why_it_matters": "",
-      "score": 75,
+      "summary": "Indonesian AI infrastructure platform Zankore, backed by Nvidia, is syndicating a $3.1 billion loan to finance GPU acquisitions. The deal represents one of the largest debt financings for AI infrastructure in emerging Asia.",
+      "why_it_matters": "Zankore's $3.1 billion GPU loan demonstrates that emerging market AI infrastructure can attract institutional debt at scale, but the reliance on Nvidia backing suggests such financing remains dependent on brand-name guarantees. For Indonesia, the deal accelerates domestic AI compute capacity that has lagged Singapore and Malaysia, though questions remain whether local demand can absorb the GPU fleet profitably or if Zankore will become a speculative infrastructure play dependent on regional cloud customers.",
+      "score": 80,
       "heat": 1,
       "regions": [
         "southeast-asia"
@@ -589,6 +652,8 @@
         "Zankore"
       ],
       "title_zh": "NVIDIA支持的Zankore推出31亿美元GPU贷款进入市场",
+      "summary_zh": "由 Nvidia 支持的印尼 AI 基础设施平台 Zankore 正在银团分销一笔 31 亿美元的贷款，用于 GPU 采购。该交易代表了新兴亚洲地区最大的 AI 基础设施债务融资之一。",
+      "why_zh": "Zankore 的 31 亿美元 GPU 贷款表明，新兴市场 AI 基础设施可以大规模吸引机构债务，但对 Nvidia 支持的依赖表明此类融资仍依赖于品牌担保。对印尼而言，该交易加速了落后于新加坡和马来西亚的国内 AI 计算能力，但问题在于本地需求能否盈利性消化这批 GPU 集群，或者 Zankore 是否会成为一个依赖区域 cloud 客户的投机性基础设施项目。",
       "content": "(Oct 28): Zankore, an Indonesian artificial intelligence infrastructure platform backed by Nvidia Corp, is syndicating a US$3.1 billion (RM12.65 billion) loan to the broader market, according to people familiar with the matter, adding to a flurry of financing for Asia’s AI buildout.\n\nThe five-year loan, which funds the purchase of graphics processing units for Zankore’s new AI factory, will pay an interest margin of 330 basis points over the Secured Overnight Financing Rate, said the people, who asked not to be identified discussing private matters. United Overseas Bank Ltd and Citigroup Inc are among the five original underwriters marketing the deal, with other banks invited to join in the senior phase as underwriters or bookrunners, the people said.\n\nCitigroup and UOB declined to comment while Zankore did not respond to requests for comment.\n\nThe deal adds to a wave of debt financing backing Asia’s AI infrastructure boom, as regional lenders increasingly look beyond data centre construction to financing GPUs. Moody’s Ratings expects at least US$3 trillion in data centre-related investment over the next five years, even as investors scrutinise lofty AI valuations.\n\nBlackstone-owned AirTrunk secured a A$4.25 billion (RM12.19 billion) green loan for a Sydney data centre campus while Blue Owl Capital-owned Stack Infrastructure Inc is seeking a A$8.6 billion facility for a buildout in Melbourne.\n\nZankore’s financing is supported by a six-year contract with Nvidia that includes revenue sharing and credit support, helping reduce lenders’ repayment risk, the people said. The arrangement applies to any unsold compute capacity from an initial 100MW, they said.\n\nUS fintech companies are the offtakers, buying GPU compute capacity from Zankore, the people added.\n\n*Uploaded by Arion Yeow*\n\nPrint\n\nText Size\n\nShare",
       "content_url": "https://theedgemalaysia.com/node/823601"
     },
@@ -659,7 +724,7 @@
       "title": "Fadillah: Energy Commission developing comprehensive guidelines for self-generation facilities in data centre sector",
       "summary": "KUALA LUMPUR (Oct 28): The Energy Commission is developing a comprehensive framework and guidelines on self-generation facilities and the use of renewable energy for the data centre sector, said Deputy Prime Minister Datuk Seri Fadillah Yusof.",
       "why_it_matters": "",
-      "score": 65,
+      "score": 70,
       "heat": 1,
       "regions": [
         "southeast-asia"
@@ -776,16 +841,18 @@
       "title": "Asia Pacific construction costs set to outpace Europe",
       "summary": "Developers face higher budgets as JLL sees Asia Pacific tender inflation at 3.8% to 4.7% in 2027, above Europe's forecast.",
       "why_it_matters": "",
-      "score": 55,
+      "score": 60,
       "heat": 1,
       "regions": [
+        "southeast-asia",
+        "australia",
         "global"
       ],
       "topics": [
         "construction",
         "costs",
         "inflation",
-        "investment"
+        "development"
       ],
       "published_at": "2026-10-28T00:45:00Z",
       "featured": false,
@@ -799,7 +866,7 @@
       "companies": [
         "JLL"
       ],
-      "title_zh": "亚太建设成本增速将超越欧洲",
+      "title_zh": "亚太地区建设成本预计将超过欧洲",
       "content": "Wed, 28th Oct 2026 (Today)\nJLL has forecast construction tender price inflation in Asia Pacific of 3.8% to 4.7% in 2027, with the region likely to outpace Europe on construction cost growth.\n\nThe forecast, in JLL's Global Construction Costs Index 2026, points to continued pressure on developers, investors and occupiers across Asia Pacific. The report cites a mix of geopolitical disruption to energy and material supply chains, labour shortages, and land scarcity in major urban markets.\n\nAsia Pacific's expected inflation range for 2027 compares with 3.2% to 4.2% in North America and 2.2% to 3.5% in Europe, placing the region alongside North America and ahead of Europe as construction budgets remain under strain.\n\nOne of the main factors is the effect of conflict in the Middle East on input costs in Asia Pacific. The region's dependence on Middle Eastern energy supplies and construction materials, combined with more complex logistics routes, has left it exposed to higher freight costs and delays.\n\nEnergy-intensive materials including steel, aluminium and cement have seen sustained price increases across Asia Pacific markets, with those rises flowing through to project budgets as contractors adjust pricing for disruption and uncertainty.\n\n\"A variety of factors, most noticeably geopolitical impact, is ensuring Asia Pacific developers are navigating an extremely challenging cost environment into 2027,\" said Matt Bennion, Head of Project and Development Services, Asia Pacific, JLL.\n\n\"The combination of supply chain vulnerability, structural labor constraints, and intense AI-driven demand for technical facilities has created cost pressures that exceed what we're seeing in Western markets. Postponing projects in hopes of relief is no longer viable; organizations must transition to a more agile approach to risk management and engagement of supply chains to maintain project viability,\" Bennion said.\n\n### Inflation gap\n\nJLL also pointed to a widening gap between consumer inflation and building cost inflation in several major Asia Pacific economies. In Australia, construction costs have risen about 1.5 times as fast as the consumer price index since 2021, while in Singapore and Japan, construction inflation has run 1.5 to 2 times ahead of broader inflation measures.\n\nThat divergence matters for project underwriting because developers often use consumer inflation as a benchmark for cost escalation. The report warns that this approach risks understating actual build costs and can force projects to be reassessed during delivery.\n\nLabour costs are another source of pressure. Construction wages rose between 8% and 35% across key Asia Pacific markets between 2020 and 2026, outpacing both consumer inflation and material cost growth.\n\nJLL linked those increases to demographic changes, limited trade training capacity, and competition for skilled workers from data centres and advanced manufacturing. Those factors are creating a higher baseline for labour costs rather than a short-term spike.\n\n\"Energy price volatility, transportation disruption and base materials costs all feed directly into regional tender prices. Increasingly, contractors are now pricing in geopolitical uncertainty as a permanent risk premium rather than a temporary measure,\" said Shweta Choudhari, Director, Work Dynamics Research, Asia Pacific, JLL.\n\n\"Our construction inflation forecast of between 3.8% to 4.7% reinforces compounding factors that both developers and investors are explicitly planning for,\" Choudhari said.\n\n### Urban premiums\n\nThe report highlighted Hong Kong and Singapore as two markets where land constraints are driving construction costs well above regional benchmarks, particularly for industrial and logistics projects. Global averages for that asset class typically range from USD $1,010 to USD $1,560 per square metre.\n\nIn Hong Kong, industrial and logistics construction costs now approach or exceed USD $2,500 per square metre. In Singapore, the high end of the range is about USD $1,750 per square metre.\n\nThose figures reflect land scarcity, complex site conditions, vertical development requirements and regulatory demands. The higher cost structure is also influencing capital allocation, as some developers weigh alternatives in other regional markets or assess cross-border logistics networks instead of concentrating spending in gateway cities.\n\nThe issue is especially notable because industrial and logistics assets are usually among the least expensive forms of commercial development. In Hong Kong and Singapore, however, that pattern has been reversed by urban constraints.\n\nFor investors and developers, the current market requires more frequent reviews of project feasibility and broader consideration of alternatives to ground-up construction. These include retrofits and repositioning of existing assets, especially where they offer lower costs or shorter delivery periods than new schemes.\n\n\"Construction costs across Asia Pacific have reset at a higher level than anywhere else globally, and owners should plan around that rather than wait for relief that isn't coming,\" Bennion said.\n\n\"The owners who keep delivering returns in Asia Pacific are the ones who test feasibility against live cost data from day one, re-confirm it at every design and procurement gate, and consider retrofit and repositioning where it can beat ground-up on cost, speed, and carbon,\" he added.",
       "content_url": "https://datacenternews.asia/story/asia-pacific-construction-costs-set-to-outpace-europe"
     },
@@ -1461,6 +1528,41 @@
       "content_url": "https://www.afr.com/chanticleer/handing-back-bonus-may-not-be-enough-to-save-nextdc-s-craig-scroggie-20261027-p618n8"
     },
     {
+      "id": "2026-10-28-798264",
+      "title": "NextDC cash crunch threatens $2b Melbourne technology hub",
+      "summary": "Australian data center operator NextDC is facing financial difficulties that could jeopardize its planned A$2 billion technology hub in Melbourne. The cash crunch raises questions about the company's ability to fund major expansion projects amid rising construction and energy costs.",
+      "why_it_matters": "NextDC is one of Australia's largest data center operators, and any delay or cancellation of its Melbourne hub would tighten supply in a market already constrained by power availability. Competitors like AirTrunk and Equinix could gain market share, while enterprise customers may face longer lead times for capacity.",
+      "score": 90,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "capacity",
+        "investment",
+        "finance",
+        "power"
+      ],
+      "published_at": "2026-10-27T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/infrastructure/nextdc-cash-crunch-threatens-2b-melbourne-technology-hub-20261028-p618um",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NextDC"
+      ],
+      "title_zh": "NextDC现金危机威胁20亿澳元墨尔本技术中心",
+      "summary_zh": "澳大利亚数据中心运营商 NextDC 正面临财务困难，可能危及其计划在墨尔本建设的价值 20 亿澳元的技术中心。现金紧缩引发了关于该公司在建筑和能源成本上升背景下资助重大扩张项目能力的疑问。",
+      "why_zh": "NextDC 是澳大利亚最大的数据中心运营商之一，其墨尔本枢纽的任何延迟或取消都将加剧本已受电力供应限制的市场紧张。竞争对手如 AirTrunk 和 Equinix 可能获得市场份额，而企业客户可能面临更长的容量等待时间。",
+      "published_precision": "day",
+      "content": "NextDC chief executive Craig Scroggie’s grand plan to create thousands of jobs at a digital technology hub in Melbourne is evaporating as his company’s financial woes force it to put new data centres on hold.\n\nFormer Victorian premier Jacinta Allan in June 2025 had said a $2 billion investment by NextDC in a data centre in Fishermans Bend, near the Port of Melbourne, would cement Victoria’s reputation as “the centre for innovation”.\n\nLoading...",
+      "content_url": "https://www.afr.com/companies/infrastructure/nextdc-cash-crunch-threatens-2b-melbourne-technology-hub-20261028-p618um"
+    },
+    {
       "id": "2026-10-28-5421ba",
       "title": "Digital Core Reit guides about 17% DPU growth for 2027; 9M distributable income dips 1.1%",
       "summary": "Revenue is up 1.6% at US$134.5 million from US$132.4 million in the year-ago period",
@@ -1587,7 +1689,7 @@
       "title": "AI boom sparks circuit board crunch across global tech supply chain",
       "summary": "TAIPEI -- As executives at PC makers, including HP and Dell, map out their supply needs for 2027, a mundane component has emerged as an unlikely concern.",
       "why_it_matters": "",
-      "score": 55,
+      "score": 65,
       "heat": 2,
       "regions": [
         "global"
@@ -1595,10 +1697,11 @@
       "topics": [
         "ai",
         "chips",
-        "supply-chain"
+        "supply-chain",
+        "hardware"
       ],
       "published_at": "2026-10-27T04:08:32Z",
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "name": "Nikkei Asia",
@@ -1611,7 +1714,7 @@
           "type": "html-list"
         }
       ],
-      "title_zh": "AI热潮引发全球科技供应链circuit board紧缺",
+      "title_zh": "AI boom sparks circuit board crunch across global tech supply chain",
       "content": "TAIPEI -- As executives at PC makers, including HP and Dell, map out their supply needs for 2027, a mundane component has emerged as an unlikely concern.\n\nSupply Chain\n# AI boom sparks circuit board crunch across global tech supply chain\n\nOnce commoditized, PCBs have now become essential AI building blocks\n\nCircuit boards have been transformed to meet the sophisticated demands of AI servers. (Photo by Cheng Ting-fang)",
       "content_url": "https://asia.nikkei.com/spotlight/supply-chain/ai-boom-sparks-circuit-board-crunch-across-global-tech-supply-chain"
     }
