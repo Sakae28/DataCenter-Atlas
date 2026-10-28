@@ -38340,11 +38340,11 @@
       "region": "japan",
       "country": "Japan",
       "city": "Tokyo",
-      "capacity_mw": 32,
+      "capacity_mw": 70.8,
       "status": "operational",
       "developer": null,
       "investor": null,
-      "investment": null,
+      "investment": "US$590 million green loan",
       "phases": null,
       "anchor_tenants": [],
       "power": null,
@@ -38352,11 +38352,14 @@
       "construction_start": null,
       "rfs": null,
       "status_history": [],
-      "story_ids": [],
+      "story_ids": [
+        "2026-10-28-820801",
+        "2026-10-28-6ef355"
+      ],
       "first_seen": "2026-08-17",
-      "last_updated": null,
-      "seed": true,
-      "capacity_note": "total power per Baxtel",
+      "last_updated": "2026-10-28",
+      "seed": false,
+      "capacity_note": "total planned",
       "source": "baxtel",
       "lat": 35.8178,
       "lon": 140.1334,
@@ -103352,7 +103355,130 @@
       "first_seen": "2026-10-13",
       "last_updated": "2026-10-13",
       "seed": false
+    },
+    {
+      "id": "airtrunk-sydney-campus-syd3",
+      "name": "AirTrunk Sydney Campus (SYD3)",
+      "operator": "AirTrunk",
+      "region": "australia",
+      "country": "Australia",
+      "city": "Sydney",
+      "capacity_mw": null,
+      "status": "under_construction",
+      "developer": null,
+      "investor": null,
+      "investment": "AU$4.25 billion green loan",
+      "phases": "Current expansion phase for SYD3 site due live in 2028",
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": "2028",
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "under_construction",
+          "date": "2026-10-28",
+          "story_id": "2026-10-28-2807f3"
+        }
+      ],
+      "story_ids": [
+        "2026-10-28-2807f3"
+      ],
+      "first_seen": "2026-10-28",
+      "last_updated": "2026-10-28",
+      "seed": false
+    },
+    {
+      "id": "iskandar-puteri-johor-dayone-johor-campus",
+      "name": "DayOne Johor Campus",
+      "operator": "DayOne",
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "city": "Iskandar Puteri, Johor",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": "RM398.11 million land purchase",
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-10-28",
+          "story_id": "2026-10-28-239831"
+        }
+      ],
+      "story_ids": [
+        "2026-10-28-239831"
+      ],
+      "first_seen": "2026-10-28",
+      "last_updated": "2026-10-28",
+      "seed": false
+    },
+    {
+      "id": "quantum-dc-western-australia-campus",
+      "name": "Quantum DC Western Australia Campus",
+      "operator": "Quantum DC",
+      "region": "australia",
+      "country": "Australia",
+      "city": "Western Australia",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": "On-site natural gas generation with BESS; off-grid",
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-10-28",
+          "story_id": "2026-10-28-bd8b2c"
+        }
+      ],
+      "story_ids": [
+        "2026-10-28-bd8b2c"
+      ],
+      "first_seen": "2026-10-28",
+      "last_updated": "2026-10-28",
+      "seed": false
     }
   ],
-  "updated_at": "2026-10-25T06:58:17Z"
+  "updated_at": "2026-10-28T14:36:58Z"
 }

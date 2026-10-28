@@ -1,36 +1,510 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T06:54:44Z",
+  "generated_at": "2026-10-28T14:26:58Z",
   "hot": [
-    "2026-10-28-04e3b2",
-    "2026-10-28-b6fe5f",
-    "2026-10-28-12fcd5",
-    "2026-10-28-5e1c20",
-    "2026-10-28-dd1a23"
+    "2026-10-28-d32cc7",
+    "2026-10-28-f0b234",
+    "2026-10-28-d51cec",
+    "2026-10-28-aa6d9d",
+    "2026-10-28-bd8b2c"
   ],
   "stories": [
     {
-      "id": "2026-10-28-5e1c20",
-      "title": "Fadillah: Energy Commission developing comprehensive guidelines for self-generation facilities in data centre sector",
-      "summary": "KUALA LUMPUR (Oct 28): The Energy Commission is developing a comprehensive framework and guidelines on self-generation facilities and the use of renewable energy for the data centre sector, said Deputy Prime Minister Datuk Seri Fadillah Yusof.",
+      "id": "2026-10-28-bd683c",
+      "title": "US voters turning against data centers raises risks for Asian suppliers",
+      "summary": "Growing political opposition to data center development among US voters is creating ripple effects for Asian suppliers and investors. The backlash, driven by concerns over power consumption, water usage, and housing costs, threatens to slow North American expansion and redirect capital flows toward APAC markets.",
+      "why_it_matters": "Asian data center markets could see accelerated investment if US expansion faces regulatory and community headwinds, but they also risk importing similar political dynamics. Suppliers of power equipment, cooling systems, and construction materials that have scaled up for the US boom may face order cancellations or inventory gluts. The shift also intensifies competition for limited APAC capacity, potentially driving up land and power costs in Singapore, Japan, and Australia.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "regulation",
+        "public opinion",
+        "supply chain",
+        "investment"
+      ],
+      "published_at": "2026-10-28T14:26:58Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/us-voters-turning-against-data-centers-raises-risks-for-asian-suppliers",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "美国选民反对data center，对亚洲供应商构成风险",
+      "summary_zh": "美国选民对 data center 开发的政治反对情绪日益高涨，正对亚洲供应商和投资者产生连锁反应。这种反对情绪源于对电力消耗、水资源使用和住房成本的担忧，可能减缓北美扩张速度，并将资本流向重新导向 APAC 市场。",
+      "why_zh": "如果美国扩张面临监管和社区阻力，亚洲 data center 市场可能会看到投资加速，但它们也面临引入类似政治动态的风险。为美国 boom 而扩大规模的电力设备、冷却系统和建筑材料供应商可能面临订单取消或库存过剩。这种转变还加剧了 APAC 有限容量的竞争，可能推高新加坡、日本和澳大利亚的土地和电力成本。",
+      "content": "U.S. midterm elections\n# US voters turning against data centers raises risks for Asian suppliers\n\n'Friction' delaying big projects would have knock-on effects for chip, server makers\n\nPeople participate in a protest of the CoreWeave AI data center outside the municipal building in Kenilworth, New Jersey on Oct. 21. © Getty Images\n\nPAK YIU, KATHERINE CREEL and YIFAN YU\n\nOctober 28, 2026 11:19 JST\n\nJACKSON COUNTY, Ohio / WASHINGTON / SAN FRANCISCO -- When Kasey Hoover Hall's father called her and her sister to the family farmhouse in Jackson County, Ohio, one March evening, she didn't know what to expect. What she did know was the rule they had grown up with: You never sell the land.",
+      "content_url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/us-voters-turning-against-data-centers-raises-risks-for-asian-suppliers"
+    },
+    {
+      "id": "2026-10-28-568955",
+      "title": "As AI revives magnetic tape, Fujifilm plans biggest buildup in two decades",
+      "summary": "TOKYO -- Fujifilm will raise production capacity for magnetic tape fivefold to meet artificial-intelligence-driven demand, marking the company's largest investment to make the data storage medium in…",
       "why_it_matters": "",
-      "score": null,
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "storage",
+        "supply chain",
+        "chips"
+      ],
+      "published_at": "2026-10-28T14:26:58Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/as-ai-revives-magnetic-tape-fujifilm-plans-biggest-buildup-in-two-decades",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Fujifilm"
+      ],
+      "title_zh": "AI复兴magnetic tape，Fujifilm计划二十年来最大规模扩产",
+      "content": "TOKYO -- Fujifilm will raise production capacity for magnetic tape fivefold to meet artificial-intelligence-driven demand, marking the company's largest investment to make the data storage medium in roughly 20 years, Nikkei has learned.\n\nArtificial intelligence\n# As AI revives magnetic tape, Fujifilm plans biggest buildup in two decades\n\nJapanese company to quintuple output of offline storage medium for critical data\n\nMagnetic tape is widely used by data center operators, financial institutions and research organizations for data backup. (Photo by Yuki Nakao)",
+      "content_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/as-ai-revives-magnetic-tape-fujifilm-plans-biggest-buildup-in-two-decades"
+    },
+    {
+      "id": "2026-10-28-80242f",
+      "title": "Meta to raise up to US$95 billion in equity to fund costly AI expansion",
+      "summary": "It plans to spend about US$825 billion in the future on AI, data centres and cloud computing",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "hyperscale",
+        "capital"
+      ],
+      "published_at": "2026-10-28T14:26:58Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/meta-raise-us95-billion-equity-fund-costly-ai-expansion",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "title_zh": "Meta拟筹集高达950亿美元股权以资助高成本的AI扩张",
+      "content": "It plans to spend about US$825 billion in the future on AI, data centres and cloud computing\n\nMETA Platforms said on Monday (Oct 26) it plans to raise up to US$95 billion in equity to fund its costly AI-related expansion of data centres, cloud computing power and other infrastructure.\n\nThe company launched public offerings of about US$35 billion in common stock and convertible preferred stock. It also said it plans to launch a separate at-the-market share sale programme of up to US$60 billion after its new non-voting Class C shares begin trading, which is expected in the first quarter of 2027.\n\nMeta has stepped up spending on data centres, computing capacity and AI products to compete with rival AI heavyweights OpenAI and Anthropic.\n\nThe social media company had cash, cash equivalents and marketable securities of US$82.45 billion, slightly exceeding its long-term debt of US$80.92 billion as of Sep 30, according to its quarterly filing from last week.\n\nThe company has committed to spend about US$825 billion in the future, primarily driven by its growing investments in data centres, AI-related infrastructure and cloud computing power.\n\nMeta said chip companies Nvidia, Advanced Micro Devices and Broadcom have expressed interest in purchasing up to US$5 billion of Meta’s Class A common stock in the offering.\n\nLast week, Meta raised the lower end of its annual spending forecast, now expecting capital expenditure to be between US$135 billion and US$145 billion this year, up from US$130 billion to US$145 billion expected previously.\n\nMeta reported a US$2.12 billion cash burn in the third quarter, marking its first negative free cash flow in over ten years, compared with a positive cash flow of US$10.63 billion a year ago.\n\nThe company reported third-quarter revenue of US$64.6 billion, ahead of Wall Street estimates of US$63.37 billion. It also projected fourth-quarter revenue between US$73 billion and US$76 billion. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/meta-raise-us95-billion-equity-fund-costly-ai-expansion"
+    },
+    {
+      "id": "2026-10-28-b8ea86",
+      "title": "Singapore's AI ambitions must make each megawatt work harder",
+      "summary": "Singapore's limited power capacity and land constraints are forcing the city-state to prioritize energy efficiency and compute density in its AI infrastructure strategy, with policymakers pushing for advanced cooling technologies and workload optimization to maximize output per megawatt.",
+      "why_it_matters": "This shifts the competitive landscape for data center operators and cloud providers in Southeast Asia's most important hub. Companies that can deliver higher rack densities and liquid cooling solutions gain preferential access to scarce power allocations, while traditional air-cooled designs face growing regulatory headwinds. AI training and inference workloads will increasingly concentrate in facilities capable of 50-100 kW per rack, squeezing out legacy operators.",
+      "score": 80,
       "heat": 1,
       "regions": [
         "southeast-asia"
       ],
-      "topics": [],
-      "published_at": "2026-10-28T03:50:31Z",
+      "topics": [
+        "ai",
+        "power",
+        "efficiency",
+        "singapore"
+      ],
+      "published_at": "2026-10-28T14:26:58Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/opinion-features/singapores-ai-ambitions-must-make-each-megawatt-work-harder",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "新加坡的AI雄心必须让每一MW发挥更大效能",
+      "summary_zh": "新加坡有限的电力容量和土地限制正迫使这个城市国家在其AI基础设施战略中优先考虑能源效率和计算密度，政策制定者正在推动采用先进冷却技术和工作负载优化，以最大化每MW的产出。",
+      "why_zh": "这改变了东南亚最重要枢纽的数据中心运营商和云服务商的竞争格局。能够提供更高机架密度和液冷解决方案的公司将获得稀缺电力配额的优先准入，而传统风冷设计面临越来越大的监管阻力。AI训练和推理工作负载将日益集中在具备每机架50-100 kW能力的设施中，挤压legacy运营商的生存空间。",
+      "content": "Energy systems and compute power must be planned together\n\nARTIFICIAL intelligence is often discussed as a digital revolution. But every AI service ultimately depends on physical infrastructure: chips, power systems, cooling equipment, networks and electricity.\n\nFor Singapore, this matters because power, land, water and grid capacity are constrained. The issue is not only how much electricity AI data centres will use, but also how quickly high-energy-demand facilities can come online compared with the time needed to expand electricity infrastructure.\n\nThe Energy Market Authority (EMA) expects Singapore’s peak electricity demand to grow by 2.9 to 6.5 per cent annually over the next decade, with data centres and semiconductor manufacturing among the drivers.\n\nA reliable, diversified and renewable energy supply remains essential. But Singapore should also plan its power grid and the energy-demanding infrastructure as one connected system.\n\n## Beyond power usage effectiveness\n\nSingapore’s second “Data Centre – Call for Application”, which was launched in December 2025, requires new projects to achieve a power usage effectiveness (PUE) of 1.25 or better at full IT load, adopt best-in-class IT energy-efficiency standards and source at least half their electricity from eligible green-energy pathways.\n\nPUE measures the ratio of a data centre’s total energy use to that of its IT equipment. A PUE of 1.25 means servers using one unit of electricity need another 0.25 unit for cooling and other services.\n\nA 2026 survey by the Uptime Institute showed a global industry average annual PUE of 1.52, holding steady from 2025 due to legacy infrastructure, even as high-density AI deployments accelerate. But this measured average is not directly comparable with Singapore’s full-load target.\n\nPUE is useful but limited. It tells us how much additional energy a data centre consumes beyond its IT equipment. It does not tell us how effectively that IT electricity is turned into useful computing.\n\nFor Singapore, the more important question is how much useful compute and economic value can be obtained from each constrained megawatt while managing carbon emissions, water consumption and reliability.\n\nOther measures include useful computing output per kilowatt-hour (kWh), how fully AI chips are used, water consumed per unit of IT electricity and associated carbon emissions.\n\nThe Digital Infrastructure Bill, passed in October, provides for sustainability licensing of data centres with at least 3 megawatts (MW) of critical IT load. By extending the regulatory framework to new and existing facilities, it reinforces the importance of improving the performance of Singapore’s existing data centres, not only building more efficient new ones.\n\n## Cooling efficiency is key\n\nImproving computing efficiency requires looking at the whole chain: chip efficiency, processor utilisation, software, power conversion, cooling and workload scheduling.\n\nCooling is becoming especially important. A rack of AI servers can draw more than 100 kilowatts (kW). At a steady 100 kW, that is 2,400 kWh per day or 72,000 kWh over 30 days – equivalent to the monthly use of about 270 three-room public housing flats, assuming 267 kWh each.\n\nActual consumption varies.\n\nAir cooling at such densities is difficult; liquid cooling removes heat closer to processors and may reduce cooling energy while enabling higher computing density.\n\nSingapore’s national benchmark SS 726:2026 is therefore timely. Launched in August, it is the world’s first standard specifically for liquid cooling in tropical data centres, covering design, commissioning, operation and maintenance.\n\nBut liquid cooling does not make heat disappear. The heat must still be rejected outdoors, and lowering electricity consumption by using substantially more water is not necessarily a good trade-off for Singapore. Energy and water need to be optimised together.\n\nBy reducing cooling energy consumption and improving accelerator utilisation, data centres can deliver more useful computing output from the same power capacity, potentially supporting greater economic value without a proportional increase in electricity demand.\n\n## Make large loads smarter\n\nSingapore’s demand-response and interruptible-load capacity grew from 71 MW in 2022 to 192 MW by June 2025. Under these programmes, participating large power users can temporarily reduce electricity demand when the system needs support, easing strain on the grid.\n\nData centres could contribute further, but expectations should be realistic. AI accelerators, including expensive graphics processing units used for AI computing, cannot simply be switched off whenever electricity demand peaks.\n\nMore practical opportunities may lie in batteries, uninterruptible power supplies, cooling systems and deprioritising tasks.\n\nFor instance, Google has shifted non-urgent data-centre computing to times when the grid is stressed. Microsoft has demonstrated how backup batteries at its Dublin data centre can support grid stability.\n\nIn Singapore, SP Group uses thermal storage in Marina Bay to reduce cooling-related electricity demand during peaks.\n\nNotably, such measures must preserve critical services.\n\nA data centre that can briefly reduce grid demand, draw on stored energy, or shift suitable workloads can provide flexibility without compromising critical services. The goal is not to turn data centres into power stations, but to make better use of their existing assets and controllable loads.\n\n## Test before scaling\n\nBut theoretical discussions do not necessarily translate into real-life results. Component performance is not system performance.\n\nLiquid-cooling systems, batteries and power converters may perform well in a laboratory, but may behave differently when combined with real processors, pumps, controls and tropical heat rejection.\n\nThat is why live test beds and brownfield demonstrations matter. The Sustainable Tropical Data Centre Testbed at the National University of Singapore allows cooling, power and control technologies to be evaluated as integrated systems under real operating conditions.\n\nSuch testing is especially relevant to Singapore and neighbouring South-east Asian markets, where high temperatures and humidity complicate cooling and energy efficiency.\n\nLessons from tropical test beds can help operators evaluate what works locally before committing to costly infrastructure upgrades.\n\nStandards tell us what good performance should look like. Test beds show whether it can be delivered before expensive infrastructure choices are locked in.\n\n## Raise the better question\n\nAsking if Singapore can generate enough electricity for AI is too narrow.\n\nThe better question is whether every additional megawatt used by AI can create sufficient economic and strategic value while preserving reliability, affordability, resilience and Singapore’s path to net zero.\n\nIf Singapore can co-design power and compute, plan generation alongside demand, and devise computing, cooling and control systems together, AI need not simply become another load that the energy system must chase.\n\nIt can instead become a catalyst for a more resilient, efficient and intelligent energy system.\n\n**The writer is head of the department of mechanical engineering, coordinating director of the NUS Energy Solutions Hub, and co-director of the NUS Sustainable Futures, National University of Singapore.**\n\n**The commentary is based on the writer’s own experiences, observations and argument. AI tools were used for drafting and editing. The writer remains fully accountable for the commentary’s accuracy, originality and final form.**",
+      "content_url": "https://www.businesstimes.com.sg/opinion-features/singapores-ai-ambitions-must-make-each-megawatt-work-harder"
+    },
+    {
+      "id": "2026-10-28-978d3b",
+      "title": "Nvidia in talks to invest more in AI cloud firm Firmus after IPO flop",
+      "summary": "Nvidia is reportedly negotiating additional investment in Singapore-based AI cloud company Firmus Technologies, which recently experienced a disappointing initial public offering. The potential deal would deepen Nvidia's existing relationship with Firmus, which operates GPU-powered data centers across the APAC region.",
+      "why_it_matters": "A major GPU vendor doubling down on a regional cloud partner signals Nvidia's strategy to secure dedicated infrastructure capacity outside the hyperscale oligopoly, while giving Firmus a credibility lifeline after its public market debut faltered. This could intensify competition for enterprise AI workloads across Southeast Asia and reshape how chipmakers vertically integrate into cloud services.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "cloud",
+        "chips"
+      ],
+      "published_at": "2026-10-28T14:26:58Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/nvidia-talks-invest-more-ai-cloud-firm-firmus-after-ipo-flop-report",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA",
+        "Firmus"
+      ],
+      "title_zh": "Nvidia在Firmus IPO失败后洽谈加大对该AI云公司投资",
+      "summary_zh": "据报道，Nvidia正在与新加坡AI cloud公司Firmus Technologies谈判追加投资，后者近期经历了令人失望的IPO。该潜在交易将深化Nvidia与Firmus的现有关系，Firmus在APAC地区运营GPU-powered数据中心。",
+      "why_zh": "一家主要GPU供应商加倍押注区域性cloud partner，表明Nvidia希望在hyperscale寡头垄断之外确保专用infrastructure capacity的战略，同时为Firmus在公开市场首秀受挫后提供credibility lifeline。这可能加剧东南亚企业AI workload的竞争，并重塑chipmaker向cloud services纵向整合的方式。",
+      "content": "This signals Nvidia’s continued support for neoclouds, a group of debt-laden AI cloud providers\n\n\\[SAN FRANCISCO\\] Nvidia is in discussions to invest hundreds of millions of dollars in Firmus Grid after the Australian artificial intelligence cloud company abandoned an initial public offering, The Information reported.\n\nThe move signals that Nvidia will continue supporting neoclouds, a beleaguered group of debt-laden AI cloud providers, the news site said, citing unidentified people familiar with the talks.\n\nNvidia, the world’s most valuable company, is already an investor in Firmus and a number of its peers.\n\nA spokesperson for Santa Clara, California-based Nvidia did not immediately respond to a request for comment.\n\nThe report follows Firmus’ move earlier in October to scrap an IPO that would have been one of Australia’s biggest ever.\n\nThe company struggled to lure global investors, who have grown more wary of AI companies. Bloomberg News previously reported that Firmus was considering other funding options. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/nvidia-talks-invest-more-ai-cloud-firm-firmus-after-ipo-flop-report"
+    },
+    {
+      "id": "2026-10-28-105ca3",
+      "title": "Jati Tinggi 3Q net profit more than doubles on stronger data centre project contributions",
+      "summary": "Jati Tinggi Group Bhd (KL:JTGROUP) on Wednesday reported a more than two-fold increase in quarterly net profit from a year earlier, driven by higher revenue from power infrastructure and underground cable projects, particularly those linked to data centres.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "data center",
+        "power",
+        "infrastructure",
+        "investment"
+      ],
+      "published_at": "2026-10-28T13:09:52Z",
       "featured": false,
       "sources": [
         {
           "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/823576",
+          "url": "https://theedgemalaysia.com/node/823688",
           "type": "html-list"
         }
       ],
-      "content": "KUALA LUMPUR (Oct 28): The Energy Commission is developing a comprehensive framework and guidelines on self-generation facilities and the use of renewable energy for the data centre sector, said Deputy Prime Minister Datuk Seri Fadillah Yusof.\n\nHe said the initiative is in line with the government’s decision to require the sector to use at least 30% renewable energy.\n\nHe said the data centre industry was also encouraged to develop self-generation facilities through solar initiatives for its own consumption, to prevent an increase in electricity supply costs for other consumers.\n\n“This approach aims to increase the use of self-generated energy by the data centre sector while reducing its full dependence on electricity supplied by the national grid.\n\n“In addition, data centres need to be equipped with backup generators that can be utilised for demand control, particularly to reduce additional pressure on the grid system during critical periods and when operating reserves are low,” he said during the question-and-answer session in the Dewan Rakyat on Wednesday.\n\nHe was responding to a question from Wan Ahmad Fayhsal Wan Ahmad Kamal (PN-Machang) on the government’s contingency plan to ensure that data centre operations do not affect the people’s electricity and water supply during droughts or supply disruptions.\n\nFadillah said data centres were also encouraged to participate in the Corporate Renewable Energy Supply Scheme to obtain green energy supply directly.\n\nHe said every application for electricity supply for data centre development undergoes a comprehensive technical assessment by the Energy Focus Group before being brought to the Data Centre Task Force, taking into account the system’s capacity to supply electricity, the electricity transmission and distribution network, as well as infrastructure investment requirements.\n\nFadillah said that as of August 2026, contracted electricity demand from data centres stood at 2,346 megawatts (MW), while actual consumption was 1,374 MW, or 58.5%.\n\nHe said this was because the estimated electricity requirements submitted when applying for supply contracts did not necessarily correspond to actual consumption.\n\nIn response to a supplementary question from Wan Ahmad Fayhsal on the use of nuclear energy, Fadillah said the government was still considering its use as one of the country’s energy sources, with national preparedness as the priority to ensure energy supply and public safety.\n\nHe said matters relating to international agreements needed to be resolved first, in addition to ensuring compliance with the standards of the International Atomic Energy Agency, safety regulatory requirements, workforce capacity and technological suitability.\n\n*For more Parliament stories, click here.*\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/823576"
+      "companies": [
+        "Jati Tinggi Group"
+      ],
+      "title_zh": "Jati Tinggi第三季度净利润翻倍以上，得益于数据中心项目贡献增强",
+      "content": "KUALA LUMPUR (Oct 28): Jati Tinggi Group Bhd (KL:JTGROUP) on Wednesday reported a more than two-fold increase in quarterly net profit from a year earlier, driven by higher revenue from power infrastructure and underground cable projects, particularly those linked to data centres.\n\nNet profit for the third financial quarter ended Aug 31, 2026 (3QFY2026) rose to RM8.01 million from RM3.18 million, while revenue nearly tripled to RM156.05 million from RM52.96 million, according to the group's filing with Bursa Malaysia.\n\nJati Tinggi attributed the stronger performance to higher contributions from its substation engineering, procurement, construction and commissioning (EPCC) business, as well as underground utilities engineering services.\n\nMajor revenue contributors included a 275kV bulk power supply connection for a data centre in Johor, underground cable relocation works at Bandar Sri Pinang, and power infrastructure projects in Cyberjaya and Pasir Gudang.\n\nOn a quarter-on-quarter basis, revenue jumped 77.74% from RM87.8 million in 2QFY2026, mainly due to increased project activities and progress.\n\nHowever, net profit declined from RM9.85 million in the preceding quarter as the group undertook more projects with lower profit margins. The previous quarter also benefitted from a RM2.31 million gain arising from its acquisition of a controlling stake in Roflex Pipe Sdn Bhd.\n\nNo dividend was declared for the quarter.\n\nFor the first nine months of FY2026, net profit more than tripled to RM18.96 million from RM5.86 million, while revenue surged to RM318.29 million from RM110.15 million.\n\nLooking ahead, Jati Tinggi said it remains optimistic about its prospects, supported by continued demand for power infrastructure and data centre-related projects.\n\nThe group secured RM907.13 million worth of projects, including joint venture contracts, between December 2025 and Oct 22, 2026.\n\nIts outstanding order book stood at RM1.4 billion as at Oct 22, providing earnings visibility for the next two to three financial years, said Jati Tinggi.\n\nAmong its recent wins was a RM30.1 million contract secured earlier this month to build power infrastructure for a data centre in Kulai, Johor.\n\nSeparately, Jati Tinggi said its wholly owned subsidiary, Jati Tinggi Holding Sdn Bhd, received two additional letters of award worth RM2.25 million from Public Bank Bhd (KL:PBBANK) for solar panel installation works, bringing the total contract value awarded under the project to RM10.06 million.\n\nJati Tinggi shares closed one sen or 0.78% higher at RM1.29 on Wednesday, valuing the group at RM571.4 million.\n\nEdited ByS Kanagaraju\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/823688"
+    },
+    {
+      "id": "2026-10-28-9d9983",
+      "title": "Microsoft signs two PPAs with Macquarie-backed Blueleaf Energy in Japan",
+      "summary": "Blueleaf has a portfolio of around 1.2GW of solar projects in the Japanese market",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "power",
+        "ppa",
+        "hyperscale",
+        "solar"
+      ],
+      "published_at": "2026-10-28T13:07:24Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/microsoft-signs-two-ppas-with-macquarie-backed-blueleaf-energy-in-japan/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Microsoft",
+        "Blueleaf Energy",
+        "Macquarie"
+      ],
+      "title_zh": "Microsoft与麦格理支持的Blueleaf Energy在日本签署两份购电协议",
+      "content": "Microsoft has signed two solar Power Purchase Agreements (PPAs) in Japan with Macquarie Asset Management's portfolio company, Blueleaf Energy.\n\nDetails on the PPA are sparse, and the companies have not disclosed the capacity, contract length, or location of the solar farms. *DCD* has reached out for further information.\n\nUnder the terms of the agreements, which were coordinated by Macquarie’s Energy Markets and Customer Solutions team, Microsoft will act as the sole offtaker for the projects. The undisclosed projects are currently entering construction under a build-own-operate model, scheduled to start commercial operations in mid-2027.\n\nEd Northam, global head of MAM Green Investments, said: “These agreements reflect a relationship that has grown through successful collaboration across multiple markets. We are pleased to work with Microsoft again, supporting its business goals through tailored clean energy solutions that help meet growing global demand for cost-efficient, low-carbon power that can be delivered quickly.”\n\n“Our collaboration with Microsoft is more than a commercial agreement; it is a shared blueprint for a decarbonized future. By bridging the energy landscapes of Japan and India, we are setting a new benchmark for how regional expertise and collaboration can accelerate the delivery of much-needed new generation capacity. These new PPAs in Japan stem from a trust built on the foundation of our successful delivery of the Pachora Hybrid Power Project in India,” added Raghuram Natarajan, CEO of Blueleaf Energy.\n\nBlueleaf Energy is a major player in the Japanese solar market with a portfolio of almost 1.2GW of projects in various stages of deployment. According to the company, many of the projects include battery energy storage.\n\nThe deals build on an already existing relationship between Macquarie and Microsoft, with the companies working together since 2020. According to Macquarie, it has 540MW of capacity tied to power purchase agreements with Microsoft across the UK, Spain, and India.\n\nThe PPAs follow a major investment pledge by Microsoft into the Japanese market earlier this year. In April, the hyperscaler pledged a $10 billion investment in AI and cloud capabilities in Japan through the end of 2029.\n\nMicrosoft opened its Japanese data centers in 2014. Japan East is located in the Saitama Prefecture near Tokyo, while Japan West is in the Osaka Prefecture. The cloud giant has also previously signed PPAs with Shizen Energy in the country in 2023 and 2025.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/microsoft-signs-two-ppas-with-macquarie-backed-blueleaf-energy-in-japan/"
+    },
+    {
+      "id": "2026-10-28-cfeeaf",
+      "title": "Nxera Singapore signs MoU with Sembcorp for supply of low carbon power in Singapore",
+      "summary": "Potential power solutions include hydrogen, biomethane, vertical solar, and floating solar",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "ppa",
+        "sustainability",
+        "colocation"
+      ],
+      "published_at": "2026-10-28T12:45:12Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/nxere-singapore-signs-mou-with-sembcorp-for-the-supply-of-low-carbon-power-in-singapore/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Nxera",
+        "Sembcorp"
+      ],
+      "title_zh": "Nxera Singapore与Sembcorp签署谅解备忘录，为新加坡供应低碳电力",
+      "content": "APAC data center developer Nxera Singapore has tapped Singaporean energy firm Sembcorp to supply renewable, low-carbon energy to power its data centers in the city-state.\n\nThe companies inked a non-binding Memorandum of Understanding (MoU) to explore potential power solutions, which include low-carbon hydrogen-based generation, biomethane-based power generation, vertical building-applied photovoltaics, and renewable energy imports from the 2.2GW floating solar project at Linggiu Reservoir in Johor, Malaysia.\n\nCommenting on the agreement, Koh Chiap Khiong, president & CEO, Gas and Related Services and CEO of Singapore, Sembcorp, said: “As AI adoption accelerates globally, demand for reliable, scalable and lower-carbon energy continues to grow. With a proven track record of powering the data center sector, Sembcorp is well-positioned to support this growth through our diversified energy portfolio. Our partnership with Nxera further affirms our shared ambition to enable the next generation of digital infrastructure while advancing the global energy transition.”\n\nBill Chang, CEO of Nxera and Singtel’s Digital InfraCo unit, added: “Working with Sembcorp gives us more options to power our growth sustainably and responsibly. Strengthening our energy resilience will be critical to underpinning Nxera’s long-term development in Singapore while supporting Singapore’s digital ambitions.”\n\nNxera Singapore is the AI data center arm of Singtel Group. Singtel is closing a number of small legacy data centers in Singapore, but still operates several large facilities in the city-state through the unit. Earlier this year, the company opened its 58MW DC Tuas data center in Singapore, its largest facility in Singapore at 58MW. The addition of the data center brought the company’s total capacity in the country to 120MW.\n\nNxera is also developing several facilities around Southeast Asia in partnership with local players and expects to grow its total capacity from 200MW to 400MW in the coming years. With more facilities in Batam and Johor due online in the second half of 2026, Nxera’s operational and pipeline capacity is expected to more than double from 200MW in 2026.\n\nSembcorp has signed several power agreements with data center providers over recent years. In March, the company signed a 25-year energy supply agreement with a subsidiary of Meta, Malkoha Pte, to construct, own, and operate a 150MW floating solar project in Singapore.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/nxere-singapore-signs-mou-with-sembcorp-for-the-supply-of-low-carbon-power-in-singapore/"
+    },
+    {
+      "id": "2026-10-28-222120",
+      "title": "HSBC CEO warns against indiscriminate data center investment",
+      "summary": "HSBC CEO Georges Elhedery cautioned against treating all data centers equally, despite increasing demand driven by artificial intelligence. He advised companies to scrutinise tenancy agreements, contract pricing, and financial viability before committing capital.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "investment",
+        "finance",
+        "ai",
+        "hyperscale"
+      ],
+      "published_at": "2026-10-28T12:10:35Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/hsbc-ceo-warns-against-indiscriminate-data-center-investment/135264968",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "HSBC"
+      ],
+      "title_zh": "HSBC首席执行官警告不要盲目投资数据中心",
+      "content": "HSBC CEO Georges Elhedery has warned against indiscriminate investment in data centers, even as artificial intelligence (AI) drives demand for new computing infrastructure. Speaking to CNBC, Elhedery stated that companies and investors must review tenancy agreements, contract pricing, and the financial strength of individual projects.He noted that not all contracts offer the same level of viability to strongly support investments. His caution comes as technology companies are increasingly borrowing to build facilities, raising concerns about project quality and debt levels.HSBC itself is a financier in the data center sector and also operates its own data centers. McKinsey estimates that worldwide data center spending could reach $7 trillion by 2030, with JPMorgan projecting that $4.1 trillion of AI infrastructure financing could come from debt by the end of the decade.Mohamed El-Erian, chief economic adviser at Allianz, highlighted that large technology companies are competing with governments for bond financing. He observed that hyperscalers, which raised $200 billion in bond financing last year, might raise a trillion this year, often being yield and spread-insensitive due to their belief in AI's transformative potential.\n\n- Investments & Deals\n- 1 min Read\n\n# HSBC CEO warns against indiscriminate data center investment\n\nHSBC CEO Georges Elhedery cautioned against treating all data centers equally, despite increasing demand driven by artificial intelligence. He advised companies to scrutinise tenancy agreements, contract pricing, and financial viability before committing capital.\n\n- Published On Oct 28, 2026 at 05:40 PM IST\n\n## Highlights\n\n- HSBC CEO Georges Elhedery urged selective data center investment despite AI demand.\n- Companies should scrutinise tenancy agreements, contract pricing, and project financial strength.\n- Technology firms are heavily borrowing for data centers, raising debt and project quality concerns.\n- Global data center spending could hit $7 trillion by 2030, with significant debt financing.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/hsbc-ceo-warns-against-indiscriminate-data-center-investment/135264968"
+    },
+    {
+      "id": "2026-10-28-2442bf",
+      "title": "DCD Studio: The physical constraints of AI scaling with Sean James, Nvidia",
+      "summary": "Nvidia's director of data center research, Sean James, discussed the physical limits of AI infrastructure scaling with DCD, covering integrated system design, cooling innovation, water consumption, and the challenges of rising power density in data centers. The conversation highlights how GPU-driven workloads are forcing fundamental changes in facility architecture.",
+      "why_it_matters": "As Nvidia's Blackwell and future GPU generations push rack densities beyond 100kW, the traditional boundaries between chip design, server engineering, and data center infrastructure are collapsing. Operators and colocation providers who treat power and cooling as afterthoughts risk obsolescence, while those who adopt Nvidia's integrated systems approach early may capture premium AI hosting contracts—but only if they can solve the water and energy constraints that James flags as hard physical ceilings.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "power",
+        "cooling"
+      ],
+      "published_at": "2026-10-28T10:40:14Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-the-physical-constraints-of-ai-scaling-with-sean-james-nvidia/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "title_zh": "DCD Studio：与Nvidia Sean James探讨AI扩展的物理限制",
+      "summary_zh": "Nvidia数据中心研究总监Sean James在DCD访谈中探讨了AI基础设施scaling的物理限制，涵盖integrated system design、cooling innovation、water consumption以及data center中rising power density带来的挑战。对话揭示了GPU-driven workloads如何迫使facility architecture发生根本性变革。",
+      "why_zh": "随着Nvidia Blackwell及未来GPU generation将rack density推向100kW以上，芯片设计、服务器工程和data center infrastructure之间的传统边界正在瓦解。将power和cooling视为事后考虑的operator和colocation provider面临被淘汰的风险，而早期采纳Nvidia integrated systems approach的企业可能抢占premium AI hosting合同——但前提是能够解决James指出的water和energy constraints这些硬性物理上限。",
+      "content": "DCD Studio: The physical constraints of AI scaling with Sean James, Nvidia October 28, 2026 By DCD Have your say Kat Sullivan speaks with Sean James of Nvidia about the company’s data center energy strategy, exploring efficiency, integrated systems, cooling innovations, water usage, and the challenges of increasing power density Tags AI Cooling Energy Energy Strategy Nvidia Sean James water usage",
+      "content_url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-the-physical-constraints-of-ai-scaling-with-sean-james-nvidia/"
+    },
+    {
+      "id": "2026-10-28-d08355",
+      "title": "US data centre divestments top priority for Mapletree Industrial Trust as Q2 income slips",
+      "summary": "Mapletree Industrial Trust reported declining second-quarter income and identified divesting its US data center assets as a top strategic priority. The Singapore-based REIT plans to redeploy proceeds into advanced manufacturing, high-tech industries, and digital infrastructure across Singapore, the US, and Japan.",
+      "why_it_matters": "The retreat signals weakening confidence in US data center yield stability amid rising power costs, interest rates, and supply chain inflation. For APAC-focused investors, it validates a pivot toward markets with clearer demand visibility and more supportive regulatory frameworks. The redeployment into advanced manufacturing also reflects a broader trend of data center-adjacent industrial real estate gaining favor as AI-driven reshoring accelerates.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "japan"
+      ],
+      "topics": [
+        "divestment",
+        "data center",
+        "investment",
+        "digital infrastructure"
+      ],
+      "published_at": "2026-10-28T10:17:30Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/reits-property/us-data-centre-divestments-top-priority-mapletree-industrial-trust-q2-income-slips",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Mapletree Industrial Trust"
+      ],
+      "title_zh": "第二季度收入下滑，丰树工业信托将美国数据中心剥离列为首要任务",
+      "summary_zh": "Mapletree Industrial Trust 报告第二季度收入下滑，并将剥离其美国 data center 资产列为首要战略优先事项。这家新加坡 REIT 计划将所得资金重新部署到新加坡、美国和日本的 advanced manufacturing、高科技产业和 digital infrastructure 领域。",
+      "why_zh": "这一撤退表明，在 rising power costs、利率上升和供应链通胀的背景下，对美国 data center 收益稳定性的信心正在减弱。对于专注于 APAC 的投资者而言，这验证了向需求可见性更清晰、监管框架更支持的市场转向。重新部署到 advanced manufacturing 也反映了更广泛的趋势：随着 AI 驱动的 reshoring 加速，与 data center 相邻的工业地产正获得青睐。",
+      "content": "It eyes advanced manufacturing, high-tech industries, digital infrastructure sectors in Singapore, US and Japan\n\n\\[SINGAPORE\\] Mapletree Industrial Trust (MIT) is looking beyond data centres for growth as it continues to divest older North American assets, pivot from a legacy-heavy portfolio and manage rising financing costs.\n\nThe CEO of the manager, Anand Tze Ming Chandran, who took on the role on Oct 1, said that the execution of North American divestments was the trust’s top business priority.\n\n“I want the business to increase the diversification out of the data centre industrial vertical. That’s not to say we diminish it,” said Chandran, who was speaking at MIT’s second-quarter results briefing on Wednesday (Oct 28).\n\nPreviously the head of Mapletree Investments’ data centre division for the Asia-Pacific, he was tapped for the CEO position after Lily Ler left it to become Mapletree Investments’ chief financial officer.\n\nIn April, MIT announced plans that it would take one to two years to divest US$500 million to US$600 million in North American assets.\n\nIn August, it put a portfolio of 22 older US data centres up for sale, valued in aggregate at about US$1.24 billion, with US$1.07 billion attributable to the trust.\n\nIt is targeting to complete “a good amount” of the divestments by the end of its financial year on Mar 31, 2027, and is in talks with “a handful of parties” involving various parts of its portfolio, Chandran noted.\n\n“If we have to take clear-eyed decisions about executing to get certainty, we will do it because a lot of portfolio pivot performance depends on the execution of the divestment.\n\n“It will speak to everything to do, not just with income replacement and acquisitions, it will speak to our ability to manage shelter from (the) high-interest rate environment.\n\n“It will speak to our ability to manage the hedge profile in a more optimal way. So that remains the top business priority, certainly between now and the end of the FY,” he said.\n\nMIT will continue exploring opportunities in Singapore, the US and Japan, in sectors supported by advanced manufacturing, high-tech industries and digital infrastructure.\n\nAsked how investors should view data centres’ contributions to MIT’s assets under management, relative to that by the general industrial sector, Chandran replied: “We will remain a general industrial Reit (real estate investment trust) with the ability to go down deep into specific verticals where we have strong conviction, as we have evidenced over the last five or so years in the data centre space.”\n\nData centres now account for 57.1 per cent or S$4.7 billion of MIT’s S$8.3 billion portfolio of assets under management.\n\nChandran said that the trust would seek to build relationships with a broader range of industrial tenants, adding that “any business needs to have strategic diversification”, whether across geographies or sectors.\n\nHe acknowledged that MIT’s footprint across primary and secondary North American data centre markets had “presented a challenge in recent years”.\n\n“While we entered the market through acquisition as opposed to development, we have had to deal with the natural issues that come with the fast-changing market cycle in the US,” explained Chandran, adding: “I do not think it’s the right decision, strategically, to give up”.\n\nHe said that the trust would “work through the difficulties”.\n\nFor the quarter ended Sep 30, distribution per unit fell 6.6 per cent year on year to S$0.0297.\n\nQ2 net property income declined 3.5 per cent to S$119.8 million, largely from lower contributions from North America, the absence of income from three Singapore industrial properties sold in August 2025, and depreciation of the Japanese yen against the Singapore dollar.\n\nPortfolio occupancy slipped to 89.7 per cent from 90.7 per cent in the preceding quarter.\n\nData centre occupancy fell to 82.1 per cent from 85 per cent, while North American occupancy declined to 79.1 per cent from 82.5 per cent, when a lease on a San Diego property was not renewed in May.\n\nWhen the news broke that MIT had put US$1 billion worth of its US assets up for sale in August, DBS analysts described the move as “surgical and decisive”, suggestive of a broader strategic review underway.\n\nThe bank’s Derek Tan wrote in an Aug 31 note: “In our view, this demonstrates greater urgency and decisiveness in addressing portfolio quality while sharpening MIT’s exposure to modern facilities, positioned to benefit from cloud and AI demand.”\n\nThe bank estimated that divesting 30 to 100 per cent of the marketed portfolio and applying all proceeds towards debt repayment could lower aggregate leverage to between 23.6 and 33.9 per cent, from 37.5 per cent.\n\n“This would provide MIT with substantial capacity to pursue modern data-centre acquisitions and other high-specification facilities without requiring near-term equity fundraising,” the DBS report said.\n\nIn Singapore, MIT achieved a positive weighted average rental reversion rate of 6.9 per cent, up from 5.3 per cent in the preceding quarter, after 184 lease renewals covering about 640,000 square feet.\n\nThe management expects rental reversions to remain in the mid-single digits in the second half of the financial year.\n\nCommitted occupancy at Mapletree Hi-Tech Park @ Kallang Way, stands at 72.4 per cent. The property, completed in March 2023 in the trust’s largest redevelopment project, is expected to top 75 per cent occupancy by the financial year-end.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/reits-property/us-data-centre-divestments-top-priority-mapletree-industrial-trust-q2-income-slips"
+    },
+    {
+      "id": "2026-10-28-d51cec",
+      "title": "Malaysia's utility pledges to connect data centers to the grid within one year: Report",
+      "summary": "Tenaga Nasional Bhd (TNB), Malaysia's national electricity utility, has committed to a one-year grid connection timeline for approved data center projects, according to chief distribution network officer Ahmad Sazree Abd Aziz. The pledge comes as Malaysia experiences surging demand from hyperscale and cloud operators expanding in the country.",
+      "why_it_matters": "Malaysia has emerged as one of APAC's hottest data center markets, but power availability and grid connection timelines have become critical bottlenecks threatening to slow investment. TNB's public commitment creates a measurable service standard that could differentiate Malaysia from rival markets like Singapore or Indonesia where grid delays remain opaque, though execution will determine whether this accelerates actual project delivery or merely raises expectations.",
+      "score": 85,
+      "heat": 2,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "grid",
+        "regulation",
+        "policy"
+      ],
+      "published_at": "2026-10-28T09:44:28Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/malaysias-utility-pledges-to-connect-data-centers-to-the-grid-within-one-year-report/",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/malaysia-utility-pledges-one-year-grid-connection-for-data-centres/135264980",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Tenaga Nasional Bhd"
+      ],
+      "title_zh": "马来西亚电力公司承诺一年内将数据中心接入电网：报道",
+      "summary_zh": "马来西亚国家电力公司Tenaga Nasional Bhd (TNB)承诺，在相关部委主持的委员会批准后一年内，为data center项目完成grid connection。TNB首席配电网络官Ahmad Sazree Abd Aziz表示，这一承诺旨在应对hyperscale和cloud operator在马来西亚快速扩张带来的电力需求激增。",
+      "why_zh": "马来西亚已成为APAC最热门的data center市场之一，但电力供应和grid connection timeline已成为可能拖慢投资的关键瓶颈。TNB的公开承诺创造了一个可衡量的服务标准，可能使其在与Singapore或Indonesia等竞争对手的较量中形成差异化优势——这些市场的grid delay仍然缺乏透明度。然而，最终是execution决定这一承诺会加速实际项目交付，还是仅仅抬高市场预期。",
+      "content": "Malaysia’s electricity utility, Tenaga Nasional Bhd (TNB) pledges to connect data centers to the grid within one year after approval by the relevant authority, Bernama reports quoting the utility’s chief distribution network officer Ahmad Sazree Abd Aziz.\n\n“… once it’s been approved by the ministry-chaired committee, we pledge to get data centers connected to the grid in one year’s time,” he said at an event in Singapore yesterday.\n\nThe commitment is dependent on three measures that TNB is pursuing to accommodate exponential demand from energy-hungry data centers; namely demand forecasting, network capacity planning and targeted infrastructure development. Ahmad emphasized that strong domestic transmission and distribution networks were crucial to ensuring that Malaysia could fully benefit from the Asean Power Grid (APG). The regional grid aims to strengthen regional electricity security, but, this can only come about if the domestic network especially transmission and distribution is strong enough.\n\nTNB is also ensuring that its networks were modernised and digitalised to facilitate renewable energy interconnections at the distribution level.",
+      "content_url": "https://w.media/malaysias-utility-pledges-to-connect-data-centers-to-the-grid-within-one-year-report/"
+    },
+    {
+      "id": "2026-10-28-adfeca",
+      "title": "States without sufficient water supply cannot host data centres, says Johari Ghani",
+      "summary": "States without sufficient water supply will not be allowed to host data centres, even if land is available, as Malaysia tightens its approval process for new projects, Investment, Trade and Industry Minister Datuk Seri Johari Abdul Ghani said.",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "data center",
+        "regulation",
+        "water",
+        "policy"
+      ],
+      "published_at": "2026-10-28T09:09:02Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/823645",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "Johari Ghani称，供水不足的州不允许建设数据中心",
+      "content": "KUALA LUMPUR (Oct 28): States without sufficient water supply will not be allowed to host data centres, even if land is available, as Malaysia tightens its approval process for new projects, Investment, Trade and Industry Minister Datuk Seri Johari Abdul Ghani said.\n\nMalaysia has no plans to impose a blanket moratorium on new data centres but will assess applications based on water availability, electricity supply and investors’ financial strength before granting approval.\n\nJohari told the Dewan Rakyat during the winding-up debate on Budget 2027 on Wednesday that the Malaysian Investment Development Authority (Mida) will work with state governments to assess water requirements, while electricity availability will be evaluated in consultation with Tenaga Nasional Bhd (KL:TENAGA).\n\nThe government has approved 117 data centres nationwide, of which 55 are operational, 19 are under construction and 16 have received approval but have yet to begin construction. The remaining 27 are at various stages of development, with their electricity needs expected to be met through off-grid arrangements.\n\nTo protect Tenaga Nasional’s reserve margin and ensure sufficient electricity for other industries, the government has separated data centres’ electricity requirements from those of other industrial users.\n\nData centres supplied with electricity through Tenaga Nasional will be charged market rates without subsidies, Johari said. Operators must also pay for their contracted electricity capacity even if their actual consumption is lower.\n\nFor example, an operator that contracts for 300 megawatts (MW) but uses only 100MW must still pay for the remaining 200MW.\n\nData centre operators will also be required to meet a minimum local content requirement of 30% for data centre-related development.\n\nJohari said the measures aim to ensure that data centre investments benefit Malaysia while taking into account the country’s water and electricity resources.\n\n*For more Parliament stories, click here.*\n\nEdited ByPresenna Nambiar\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/823645"
+    },
+    {
+      "id": "2026-10-28-97b173",
+      "title": "DE-CIX & IGC launch Bangkok internet exchange",
+      "summary": "Thailand's networks will gain direct regional peering, with the new exchange due to open in 2027 and link Bangkok to ASEAN hubs.",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "internet-exchange",
+        "connectivity",
+        "peering",
+        "asean"
+      ],
+      "published_at": "2026-10-28T09:08:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/de-cix-igc-launch-bangkok-internet-exchange",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "DE-CIX",
+        "IGC"
+      ],
+      "title_zh": "DE-CIX与IGC推出曼谷互联网交换中心",
+      "content": "DE-CIX and International Gateway Co have formed a joint venture to launch DE-CIX Bangkok, an internet exchange due to be ready for service in 2027.\n\nThe venture will establish DE-CIX Thailand in Bangkok, building and operating the exchange as part of DE-CIX's Southeast Asian network.\n\nThe project will be the first internet exchange in Thailand to be directly interconnected with DE-CIX exchanges elsewhere in the ASEAN region. Networks connected in Bangkok will be able to peer directly with networks in Singapore, Johor Bahru, Kuala Lumpur, Penang and Jakarta through a single regional platform.\n\nThe launch will extend DE-CIX's Southeast Asian platform to a seventh metropolitan market. The countries of mainland Southeast Asia - Thailand, Vietnam, Cambodia, Laos and Myanmar - account for about half of all end users in the ASEAN region, according to the operator.\n\nIGC will provide connectivity to the Bangkok exchange and act as a reseller for customers across mainland Southeast Asia. The exchange will also connect to DE-CIX's global backbone, linking more than 4,600 networks across the Americas, Africa, Europe, the Middle East and Asia.\n\n### Regional reach\n\nBangkok is one of Southeast Asia's faster-growing digital infrastructure markets, with submarine connectivity into the Pacific and Indian Oceans and a growing data centre sector. Its location also makes it a gateway to mainland Southeast Asia, DE-CIX said.\n\nDE-CIX already operates exchanges in Singapore, Malaysia, Brunei and Indonesia through its distributed ASEAN platform. Close to 150 networks are connected, or in the process of connecting, across that regional interconnection fabric, it said.\n\n\"Thailand is the next logical step in our Southeast Asian growth strategy,\" said Ivo Ivanov, Chief Executive Officer of DE-CIX. \"The country has all the ingredients to become the gateway to mainland Southeast Asia and one of the region's leading digital connectivity hubs, serving millions of people. Together with IGC, we are creating an environment where networks in Thailand can interconnect locally while gaining seamless access to one of Southeast Asia's richest digital ecosystems. Customers will benefit from lower latency, greater resilience, and direct access to cloud, AI, content, and network providers across the DE-CIX platform.\"\n\nDE-CIX operates internet exchanges in 60 locations worldwide and says its services are accessible from data centres in more than 600 cities. Founded in 1995, it is one of the largest operators in the sector, with DE-CIX Frankfurt alone handling more than 48 exabytes of data traffic a year as of 2025.\n\nIGC, a subsidiary of ALT Telecom, provides wholesale bandwidth, IP transit and network services for domestic and international traffic in Thailand. It operates more than 12,000 kilometres of optical fibre nationwide and has network-to-network interfaces across 12 active border crossings, linking 42 operators in neighbouring countries and Thailand.\n\nIts infrastructure also includes connectivity to more than 10 data centres in Thailand and licences covering five cable landing stations. DE-CIX plans to use that domestic and cross-border footprint to extend access to the new exchange beyond Bangkok.\n\n\"The establishment of DE-CIX Bangkok will create new opportunities for customers to exchange traffic not only locally but regionally, while reducing latency, improving network performance, and providing access to one of the most interconnected ecosystems in Southeast Asia,\" said Supat Eamwiwat, Chief Executive Officer of IGC. \"We are excited to partner with DE-CIX to support the next phase of Thailand's digital growth.\"",
+      "content_url": "https://datacenternews.asia/story/de-cix-igc-launch-bangkok-internet-exchange"
+    },
+    {
+      "id": "2026-10-28-798264",
+      "title": "NextDC cash crunch threatens $2b Melbourne technology hub",
+      "summary": "Australian data center operator NextDC is facing a significant liquidity squeeze that jeopardizes its planned A$2 billion Melbourne technology hub, one of the country's largest proposed digital infrastructure developments. The cash crunch raises questions about the company's ability to fund expansion amid rising capital costs and competitive pressure.",
+      "why_it_matters": "NextDC's predicament exposes broader vulnerability in the APAC data center sector: aggressive expansion commitments are colliding with tightened debt markets and investor risk aversion. For Melbourne's digital economy aspirations, a stalled or scaled-back hub would delay critical capacity additions just as AI demand accelerates. Competitors like AirTrunk may seize market share, while the episode could trigger repricing of data center development risk across Australian capital markets.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "capacity",
+        "investment",
+        "power",
+        "finance"
+      ],
+      "published_at": "2026-10-28T09:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/infrastructure/nextdc-cash-crunch-threatens-2b-melbourne-technology-hub-20261028-p618um",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NextDC"
+      ],
+      "title_zh": "NextDC现金紧缩威胁20亿澳元墨尔本技术中心",
+      "summary_zh": "澳大利亚data center运营商NextDC正面临严重的liquidity squeeze，危及其计划中的A$2 billion Melbourne technology hub——该国最大的proposed digital infrastructure开发项目之一。该cash crunch引发了关于该公司在rising capital costs和竞争压力下是否有能力为扩张提供资金的疑问。",
+      "why_zh": "NextDC的困境暴露了APAC data center行业更广泛的脆弱性：aggressive expansion commitments正在与收紧的debt markets和投资者风险厌恶发生碰撞。对于Melbourne的digital economy抱负而言，在AI需求加速之际，hub的停滞或缩减将延迟关键capacity additions。像AirTrunk这样的竞争对手可能夺取market share，而该事件可能触发Australian capital markets对data center development risk的重新定价。",
+      "content": "NextDC chief executive Craig Scroggie’s grand plan to create thousands of jobs at a digital technology hub in Melbourne is evaporating as his company’s financial woes force it to put new data centres on hold.\n\nFormer Victorian premier Jacinta Allan in June 2025 had said a $2 billion investment by NextDC in a data centre in Fishermans Bend, near the Port of Melbourne, would cement Victoria’s reputation as “the centre for innovation”.\n\nLoading...",
+      "content_url": "https://www.afr.com/companies/infrastructure/nextdc-cash-crunch-threatens-2b-melbourne-technology-hub-20261028-p618um"
     },
     {
       "id": "2026-10-28-dd1a23",
@@ -54,6 +528,69 @@
       ],
       "content": "Thailand's Data Center Policy Committee has approved a draft policy for data center governance, according to local reports. The draft, reportedly scheduled for Cabinet consideration on 3 November 2026, establishes a regulatory framework for investment and operation of data centers.The policy defines a data center as a building with electronic equipment providing data services to non-affiliated companies, requiring a minimum electricity demand of 0.5 megawatts (MW).\n### Key Policy Directives\n\nA one-stop center will be established to coordinate approvals and licensing through the TH-DC Dashboard system. This system will consolidate processes from various government agencies.The draft also proposes four minimum standards for operators. These cover location and land use, utility network connections, environmental standards, and economic and social contributions.Data centers will be classified into seven levels based on power demand, ranging from Level 1 (0–0.5 MW) to Level 7 (200 MW and above). Each level will have different requirements.New laws or amendments are expected to take approximately 8–12 months for enforcement of these minimum standards. Guidelines for a transition period have also been established.These guidelines apply to data centers already in operation, those with construction permits before August 11, 2026, and those with permits from August 11, 2026, onwards. Projects expanding power capacity by over 20MW will consider the expanded portion a new project.The policy aims to promote Green Data Centers. This supports the country's goal of net-zero greenhouse gas emissions by 2050, alongside other sustainability objectives.\n\n- Policy, Land & Power\n- 1 min Read\n\n# Thailand drafts new data center governance law\n\nThailand's Data Center Policy Committee has approved a draft law for data center governance. This framework aims to regulate investment and operations for sustainable digital economy development.\n\n- Published On Oct 28, 2026 at 12:20 PM IST\n\n## Highlights\n\n- Thailand committee approves draft law for data center governance\n- New policy defines data center, sets minimum 0.5 MW power requirement\n- One-stop service center to streamline data center approvals and licensing\n- Seven classification levels for data centers based on power demand implemented\n\n## Comments\n\nWhat are your thoughts?",
       "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/thailand-drafts-new-data-center-governance-law/135255493"
+    },
+    {
+      "id": "2026-10-28-4f7e58",
+      "title": "Rule-breaking data centres to have power switched off",
+      "summary": "Authorities in an unspecified jurisdiction plan to cut electricity supply to data centers found operating in violation of regulations. The enforcement measure targets facilities that have bypassed permitting requirements, exceeded approved power capacity, or failed to meet environmental and safety standards.",
+      "why_it_matters": "Hard enforcement through power disconnection raises the compliance stakes dramatically for operators across APAC, where rapid buildouts have sometimes outpaced regulatory oversight. The move could force a reckoning for gray-market or speculative projects in markets like Indonesia, Vietnam, and parts of China where permitting has been inconsistent. Established operators with clean regulatory track records stand to benefit from reduced competition and potential consolidation opportunities.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "regulation",
+        "power",
+        "enforcement"
+      ],
+      "published_at": "2026-10-28T06:31:30Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/policy/energy-and-climate/rule-breaking-data-centres-to-have-power-switched-off-20261028-p619f5",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "违规数据中心将被切断电力供应",
+      "summary_zh": "某未指明司法管辖区的当局计划对被发现违规运营的 data center 切断电力供应。这一执法措施针对绕过许可要求、超过批准电力容量或未能达到环境和安全标准的设施。",
+      "why_zh": "通过断电进行强硬执法，大幅提高了 APAC 各地运营商的合规风险，那里的快速建设有时超出了监管监督的步伐。这一举措可能迫使印度尼西亚、越南和中国部分地区等许可不一致的市场上的灰色市场或投机项目面临清算。具有 clean regulatory track records 的 established operators 将受益于竞争减少和潜在的整合机会。",
+      "content": "Data centres that fail to comply with a federal government mandate to use green electricity sources could have their power switched off under strict new rules designed to limit their impact on the grid and avoid price spikes.\n\nThe new requirements, which Energy Minister Chris Bowen formally submitted to the grid rulemaker on Wednesday, would force data centres to source round-the-clock power from entirely new renewable sources located in the same state.\n\nLoading...",
+      "content_url": "https://www.afr.com/policy/energy-and-climate/rule-breaking-data-centres-to-have-power-switched-off-20261028-p619f5"
+    },
+    {
+      "id": "2026-10-28-a6aeb9",
+      "title": "Nvidia-backed firm launches US$3.1 bil GPU loan in market",
+      "summary": "Zankore, an Indonesian artificial intelligence infrastructure platform backed by Nvidia Corp, is syndicating a US$3.1 billion (RM12.65 billion) loan to the broader market, according to people familiar with the matter, adding to a flurry of financing for Asia’s AI buildout.",
+      "why_it_matters": "",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "gpu",
+        "investment",
+        "chips"
+      ],
+      "published_at": "2026-10-28T06:15:33Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/823601",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA",
+        "Zankore"
+      ],
+      "title_zh": "NVIDIA支持的Zankore推出31亿美元GPU贷款进入市场",
+      "content": "(Oct 28): Zankore, an Indonesian artificial intelligence infrastructure platform backed by Nvidia Corp, is syndicating a US$3.1 billion (RM12.65 billion) loan to the broader market, according to people familiar with the matter, adding to a flurry of financing for Asia’s AI buildout.\n\nThe five-year loan, which funds the purchase of graphics processing units for Zankore’s new AI factory, will pay an interest margin of 330 basis points over the Secured Overnight Financing Rate, said the people, who asked not to be identified discussing private matters. United Overseas Bank Ltd and Citigroup Inc are among the five original underwriters marketing the deal, with other banks invited to join in the senior phase as underwriters or bookrunners, the people said.\n\nCitigroup and UOB declined to comment while Zankore did not respond to requests for comment.\n\nThe deal adds to a wave of debt financing backing Asia’s AI infrastructure boom, as regional lenders increasingly look beyond data centre construction to financing GPUs. Moody’s Ratings expects at least US$3 trillion in data centre-related investment over the next five years, even as investors scrutinise lofty AI valuations.\n\nBlackstone-owned AirTrunk secured a A$4.25 billion (RM12.19 billion) green loan for a Sydney data centre campus while Blue Owl Capital-owned Stack Infrastructure Inc is seeking a A$8.6 billion facility for a buildout in Melbourne.\n\nZankore’s financing is supported by a six-year contract with Nvidia that includes revenue sharing and credit support, helping reduce lenders’ repayment risk, the people said. The arrangement applies to any unsold compute capacity from an initial 100MW, they said.\n\nUS fintech companies are the offtakers, buying GPU compute capacity from Zankore, the people added.\n\n*Uploaded by Arion Yeow*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/823601"
     },
     {
       "id": "2026-10-28-04e3b2",
@@ -87,27 +624,129 @@
       "content_url": "https://w.media/coreweave-deploys-ai-infrastructure-in-denmark/"
     },
     {
-      "id": "2026-10-28-d32cc7",
-      "title": "Thailand’s new draft law on data center to be submitted to Cabinet for consideration",
-      "summary": "Thailand’s Data Center (DC) Policy Committee yesterday approved the draft policy on data center governance which will be submitted to the Cabinet for consideration soon, according to local reports. The draft policy establishes a regulatory framework for investment and operation of data centers with the goal of ensuring the efficient and sustainable development of the […]",
+      "id": "2026-10-28-6064d9",
+      "title": "NextDC faces further selling pressure after ASX demotion",
+      "summary": "NextDC is expected to be booted from the S&P/ASX 50 Index in the coming weeks, adding further pressure on the share price after a brutal earnings downgrade last week triggered one of the biggest…",
       "why_it_matters": "",
-      "score": null,
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "finance",
+        "investment",
+        "colocation"
+      ],
+      "published_at": "2026-10-28T05:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/markets/equity-markets/nextdc-faces-further-selling-pressure-after-asx-demotion-20261028-p61982",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NextDC"
+      ],
+      "title_zh": "NextDC在ASX降级后面临进一步抛售压力",
+      "content": "NextDC is expected to be booted from the S&P/ASX 50 Index in the coming weeks, adding further pressure on the share price after a brutal earnings downgrade last week triggered one of the biggest single-day sell-offs ever for an ASX-listed company.\n\nThe shares plunged 42 per cent last Wednesday to a nine-year low after the data centre developer was forced to delay an expansion at its new flagship Melbourne site following a suburban revolt over new 22-metre power poles.\n\nLoading...",
+      "content_url": "https://www.afr.com/markets/equity-markets/nextdc-faces-further-selling-pressure-after-asx-demotion-20261028-p61982"
+    },
+    {
+      "id": "2026-10-28-5e1c20",
+      "title": "Fadillah: Energy Commission developing comprehensive guidelines for self-generation facilities in data centre sector",
+      "summary": "KUALA LUMPUR (Oct 28): The Energy Commission is developing a comprehensive framework and guidelines on self-generation facilities and the use of renewable energy for the data centre sector, said Deputy Prime Minister Datuk Seri Fadillah Yusof.",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "data center",
+        "power",
+        "renewable energy",
+        "regulation"
+      ],
+      "published_at": "2026-10-28T03:50:31Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/823576",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "Fadillah：能源委员会正在为数据中心行业自发电设施制定综合指南",
+      "content": "KUALA LUMPUR (Oct 28): The Energy Commission is developing a comprehensive framework and guidelines on self-generation facilities and the use of renewable energy for the data centre sector, said Deputy Prime Minister Datuk Seri Fadillah Yusof.\n\nHe said the initiative is in line with the government’s decision to require the sector to use at least 30% renewable energy.\n\nHe said the data centre industry was also encouraged to develop self-generation facilities through solar initiatives for its own consumption, to prevent an increase in electricity supply costs for other consumers.\n\n“This approach aims to increase the use of self-generated energy by the data centre sector while reducing its full dependence on electricity supplied by the national grid.\n\n“In addition, data centres need to be equipped with backup generators that can be utilised for demand control, particularly to reduce additional pressure on the grid system during critical periods and when operating reserves are low,” he said during the question-and-answer session in the Dewan Rakyat on Wednesday.\n\nHe was responding to a question from Wan Ahmad Fayhsal Wan Ahmad Kamal (PN-Machang) on the government’s contingency plan to ensure that data centre operations do not affect the people’s electricity and water supply during droughts or supply disruptions.\n\nFadillah said data centres were also encouraged to participate in the Corporate Renewable Energy Supply Scheme to obtain green energy supply directly.\n\nHe said every application for electricity supply for data centre development undergoes a comprehensive technical assessment by the Energy Focus Group before being brought to the Data Centre Task Force, taking into account the system’s capacity to supply electricity, the electricity transmission and distribution network, as well as infrastructure investment requirements.\n\nFadillah said that as of August 2026, contracted electricity demand from data centres stood at 2,346 megawatts (MW), while actual consumption was 1,374 MW, or 58.5%.\n\nHe said this was because the estimated electricity requirements submitted when applying for supply contracts did not necessarily correspond to actual consumption.\n\nIn response to a supplementary question from Wan Ahmad Fayhsal on the use of nuclear energy, Fadillah said the government was still considering its use as one of the country’s energy sources, with national preparedness as the priority to ensure energy supply and public safety.\n\nHe said matters relating to international agreements needed to be resolved first, in addition to ensuring compliance with the standards of the International Atomic Energy Agency, safety regulatory requirements, workforce capacity and technological suitability.\n\n*For more Parliament stories, click here.*\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/823576"
+    },
+    {
+      "id": "2026-10-28-aaeb27",
+      "title": "Australia proposes firmed energy obligation for data centers",
+      "summary": "Australian Energy Minister Chris Bowen has directed the AEMC to evaluate a rule change that would impose a firmed energy obligation on qualifying data centers, requiring them to match consumption with reliable, dispatchable power rather than intermittent renewables alone. The proposal aims to address grid stability concerns as data center loads surge.",
+      "why_it_matters": "Unlike pure renewable mandates, this policy targets the systemic risk of massive, inflexible data center loads destabilizing the national grid. It forces operators to invest in or contract for firming capacity—batteries, gas, pumped hydro—shifting cost structures significantly. The AEMC rule-making process will be watched closely across APAC as other markets grapple with similar grid integration challenges from AI-driven demand growth.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "power",
+        "regulation",
+        "renewable-energy",
+        "grid"
+      ],
+      "published_at": "2026-10-28T03:15:31Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/australia-proposes-firmed-energy-obligation-for-data-centers/135250624",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "澳大利亚提议对数据中心实施firm energy义务",
+      "summary_zh": "澳大利亚能源部长Chris Bowen已指示AEMC评估一项rule change，该变更将对qualifying data center实施firmed energy obligation，要求它们以可靠、可调度的电力匹配消费，而非仅依赖间歇性renewable energy。该proposal旨在解决data center负载激增情况下的grid stability问题。",
+      "why_zh": "与纯粹的renewable energy mandate不同，该政策针对的是大规模、不灵活的data center负载破坏national grid稳定性的系统性风险。它迫使运营商投资或签约firming capacity——包括battery、gas、pumped hydro——从而显著改变成本结构。随着其他市场应对AI驱动需求增长带来的类似grid integration挑战，AEMC的rule-making process将受到整个APAC地区的密切关注。",
+      "content": "Australia’s energy minister Chris Bowen has asked the Australian Energy Market Commission (AEMC) to consider a rule change. This proposal would require qualifying data centres to back their electricity consumption with firmed energy.The government seeks to limit the impact of rapidly growing digital infrastructure demand on power prices and grid reliability. The rule change request, received by the AEMC on 20 October, proposes mandatory contracting arrangements. These would be supported by new generation, storage and dependable demand flexibility in the same electricity market region as each data centre.\n### Addressing growing demand\n\nData centre consumption is forecast to reach around 15 TWh annually by 2029-30, representing 7.8 per cent of operational electricity consumption in the National Electricity Market (NEM). By 2035-36, consumption is projected to reach approximately 34 TWh, or 13 per cent. The government argues that data centre demand could grow faster than new generation, storage and network capacity can be delivered. This is particularly relevant as coal-fired power stations retire and variable renewable generation takes a greater share of the electricity mix.Under the proposed obligation, data centres would need to demonstrate that their contracting portfolios provide sufficient firm capacity. This capacity must match the timing, duration and scale of their electricity demand. Potentially eligible arrangements include power purchase agreements, cap contracts, tolling agreements, storage and dependable demand response. A central element of the proposal is a requirement for supporting capacity to come from new investment.\n### Compliance and coordination\n\nThe Australian Energy Regulator (AER) could assess a data centre’s full 24-hour demand profile rather than focusing solely on peak periods. Compliance could be assessed before a facility connects to the grid and at scheduled reviews or following material increases in demand. Financial penalties are proposed for non-compliance. The AEMC is also asked to consider whether facilities could be required to reduce their electricity consumption until they meet their obligations.The proposal builds on advice from the AEMC, which informed a reform package energy ministers agreed on 28 July. This request was lodged alongside a second rule change request on connection agreements for large energy users. The contracting obligation will need to be coordinated with the government’s renewable electricity obligation for data centres. The request identifies the risk of duplicated requirements, administrative burden and additional costs if the two frameworks are not aligned. No final requirements or implementation timetable have been set.\n\n- Policy, Land & Power\n- 2 min Read\n\n# Australia proposes firmed energy obligation for data centers\n\nAustralia's energy minister Chris Bowen has asked the Australian Energy Market Commission (AEMC) to consider a rule change. It would require qualifying data centres to back their electricity consumption with firmed energy.\n\n- Published On Oct 28, 2026 at 08:45 AM IST\n\n## Highlights\n\n- Australia proposes new rules for data centres to back electricity with firmed energy.\n- The move aims to curb digital infrastructure's impact on power prices and grid stability.\n- Data centre electricity consumption could reach 13 per cent of NEM by 2035-36.\n- Compliance would involve new generation, storage, and demand flexibility contracts.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/australia-proposes-firmed-energy-obligation-for-data-centers/135250624"
+    },
+    {
+      "id": "2026-10-28-b3e58b",
+      "title": "Neocloud market faces consolidation with 80% loss by 2030: Gartner",
+      "summary": "Gartner predicts that more than 80 percent of neocloud providers—specialist GPU cloud companies serving AI workloads—will lose independence through acquisition or failure by 2030. The forecast reflects mounting financial pressure from expensive GPU procurement, rising debt servicing costs, and cooling investor enthusiasm for AI infrastructure bets.",
+      "why_it_matters": "Consolidation will concentrate GPU cloud capacity among hyperscale players and well-capitalized incumbents, reducing pricing competition and potentially raising costs for AI startups and enterprises that rely on rented compute. Surviving neoclouds will likely pivot toward specialized verticals or regional niches. For APAC, where many neoclouds have emerged to serve local AI demand, this signals a window for strategic acquisitions by global players seeking regional footholds.",
+      "score": 75,
       "heat": 1,
       "regions": [
         "global"
       ],
-      "topics": [],
-      "published_at": "2026-10-28T04:56:20Z",
-      "featured": false,
+      "topics": [
+        "ai",
+        "gpu",
+        "cloud",
+        "consolidation"
+      ],
+      "published_at": "2026-10-28T02:15:45Z",
+      "featured": true,
       "sources": [
         {
-          "name": "W.Media",
-          "url": "https://w.media/thailands-new-draft-law-on-data-center-to-be-submitted-to-cabinet-for-consideration/",
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/neocloud-market-faces-consolidation-with-80-loss-by-2030-gartner/135249457",
           "type": "rss"
         }
       ],
-      "content": "Thailand’s Data Center (DC) Policy Committee yesterday approved the draft policy on data center governance which will be submitted to the Cabinet for consideration soon, according to local reports. The draft policy establishes a regulatory framework for investment and operation of data centers with the goal of ensuring the efficient and sustainable development of the country’s digital economy. The draft policy is reportedly scheduled for Cabinet consideration on 3 November 2026.\n\nThe most important draft policy which has so far not been officially stated in Thailand is the definition of a data center in Thai context. The draft policy defines a data center to include buildings, premises, or structures that possess and use electronic equipment to provide services related to the collection, storage, processing, reception, or transmission of data electronically to persons other than affiliated companies, with a minimum electricity requirement of 0.5 megawatts (MW).\n\nThe second most important draft policy is the establishment of a one-stop center to coordinate approvals and licensing. The Ministry of Digital Economy and Society has been tasked to develop the TH-DC Dashboard system to consolidate the approval and licensing from various government agencies into a single system. This will facilitate more systematic project status tracking and coordination between agencies.\n\nThe third most important draft policy is the establishment of four minimum standards for the data center operators to ensure basic business conditions are met including not impacting the safety of life and property of the public especially the surrounding communities.\n\nThe four minimum standards include the following:\n\n- Location and land use, including land use plans and oil reserve storage for electricity generation.\n- Connecting the country’s public utility networks, including both the electricity and water systems.\n- Environmental standards require the preparation of a Code of Practice (CoP) report.\n- Creating economic and social contributions to ensure that investments generate benefits for the country and communities.\n\n### New DC classification\n\nData centers will be classified into 7 levels based on their power demand, as detailed below:\n\nLevel 1: 0–0.5 MW\n\nLevel 2: More than 0.5–5 MW\n\nLevel 3: More than 5–10 MW\n\nLevel 4: More than 10–20 MW\n\nLevel 5: More than 20–50 MW\n\nLevel 6: More than 50–200 MW\n\nLevel 7: 200 MW and above.\n\nEach level will have different levels of requirements based on size and resource needs. Subcommittee 1 is tasked with developing detailed procedures and processes for approval and licensing.\n\nSince the minimum standard requirements are additional requirements to the announcements, regulations, and laws currently used by various agencies, new laws will be drafted or current laws amended before the minimum standards can be enforced. This is expected to take approximately 8–12 months.\n\n#### **Guidelines during transition period**\n\n At the same time, the new regulations, in principle, cannot be immediately applied retroactively to contractors who have already constructed and obtained licenses in accordance with the law prevailing at the time. Therefore, the committee established guidelines for oversight during the transition period, divided according to four project statuses as follows:\n\n **1. Data centers that are already in operation.**\n\n The Ministry of Digital Economy and Society is tasked with drafting legislation to require businesses to comply with the Communities of Practice (CoP) that the Policy Committee will announce. This must be completed within one year, and CoP documents must be submitted through the DC-OSS system according to the specified procedures.\n\n1.  **Data centers that received construction permits before August 11, 2026, and have been completed, are ready to open for service.**\n\nFor projects that received construction permits under Form A.1 or were implemented under Section 39 before August 11, 2026, the date the relevant Prime Minister’s Office regulations came into effect, the responsible agencies shall consider approving and granting permits in accordance with the current laws, announcements, and regulations in force.\n\nAgencies must notify the Ministry of Digital Economy and Society of the decision through the DC-OSS system within five days. Once it has been verified that the approval and licensing are complete, the Ministry will notify the operators to begin operations, provided they comply with the CoP (Community of Practice) within 1 year and submit the necessary documents through the DC-OSS system according to the procedures.\n\n1. **Data centers that have received construction permits from August 11, 2026 onwards, or those that have not yet received construction permits.**\n\n This group of projects will be considered new businesses that must comply with minimum requirements.\n\n1.  **Data centers that are already operational and have plans to expand their power capacity.**\n\nIf the system’s capacity is expanded to the point where the total electricity demand increases by more than 20MW, the expanded portion shall be considered a new project and must comply with the same minimum standards.\n\nHowever, because the projects in the new entrant group and the electricity expansion projects have different progress levels, the committee assigned Subcommittee 1 to consider approval and licensing guidelines for both groups during the transition period and to complete this within one month.\n\n### One-Stop Service system\n\n With regards to consideration of new data center projects, the Ministry of Digital Economy and Society has been tasked with expediting the drafting of legislation to integrate the management and regulation of data center operations into a single system. The initial approach will involve soliciting data center investment proposals in rounds and selecting proposals through a pitching process, using a One-Stop Service for Data Centers (DC-OSS) mechanism as a central hub for coordination and data connectivity.\n\nThe DC-OSS system will work in conjunction with the TH-DC Dashboard to collect databases, monitor status, track and evaluate project progress, and conduct preliminary project proposal screening before submitting them to the relevant screening committee for consideration and selection according to the criteria to be announced by the Policy Committee.\n\nIn addition, the committee assigned Subcommittee 1 to expedite the development of criteria for selecting data center projects, to be submitted to the committee for consideration in accordance with the established procedures.\n\n### Green Data Centers to support Net Zero by 2050\n\n The guidelines have the objective of supporting investment in data center development in line with the country’s development direction and goals, focusing on the following issues:\n\n- Promoting Green Data Centers supports the development of environmentally friendly data centers to help drive the goal of net-zero greenhouse gas emissions by 2050.\n- Support the procurement ofresources for internal use, either in part or in whole, to meet the resource requirements of projects.\n- Maintain the quality and continuity of service by monitoring and ensuring that operators comply with Service Level Agreements (SLAs).\n- To create added economic and social value, promote domestic employment, encourage the use of domestically produced parts and components, and support investment in digital and related industries.\n- The establishment of regulatory guidelines and selection criteria for data center investments aims to ensure that the expansion of digital infrastructure proceeds in parallel with the management of energy, resources, the environment, and economic and social benefits, in order to support the long-term development of Thailand’s digital economy.\n\nThe meeting was chaired by Ekniti Nitithanprapas, Deputy Prime Minister and Minister of Finance.\n\nThailand reportedly has about 63 operating facilities, 20 under construction and more than 100 proposed projects with preliminary combined electricity requirements of approximately 3GW.",
-      "content_url": "https://w.media/thailands-new-draft-law-on-data-center-to-be-submitted-to-cabinet-for-consideration/"
+      "companies": [
+        "Gartner"
+      ],
+      "title_zh": "Neocloud市场面临整合，Gartner预测2030年80%企业将失去独立性",
+      "summary_zh": "Gartner 预测，到2030年，超过80%的 neocloud 提供商——专门为 AI workload 提供服务的 GPU cloud 公司——将通过收购或失败失去独立性。该预测反映了昂贵 GPU 采购、 rising debt servicing costs 以及投资者对 AI infrastructure 押注热情降温带来的日益沉重的财务压力。",
+      "why_zh": "整合将使 GPU cloud 容量集中在 hyperscale 玩家和资金雄厚的现有企业手中，减少价格竞争，并可能提高依赖租赁计算的 AI 初创企业和企业的成本。 surviving neoclouds 可能会转向 specialized verticals 或 regional niches。对于 APAC，许多 neocloud 在此涌现以服务本地 AI 需求，这预示着全球玩家寻求区域立足点的战略收购窗口。",
+      "content": "The specialist GPU cloud market is set for significant consolidation, with Gartner predicting that more than 80 per cent of neocloud providers will cease independent operations by 2030.Neoclouds are cloud providers built specifically to rent out GPU capacity for artificial intelligence (AI) training and inference. The field is expected to shrink through mergers, acquisitions, and failures, driven primarily by capital constraints.Providers fund GPU purchases largely with debt, and servicing this debt is becoming more expensive. CoreWeave, a Nasdaq-listed neocloud, reported net interest expenses of approximately $640 million in Q2 2026, up from $267 million a year earlier, and ended the quarter with roughly $35 billion of debt.Investor concern intensified in October following several key developments. On 14 October, Gartner warned that over $3.5 trillion of AI infrastructure spending could face impairment by the end of 2030 if current capital expenditure continues.The Information reported on 18 October that industry executives anticipate only seven to 10 neoclouds will survive. On 25 October, Elon Musk noted that debt markets had \"almost entirely shut off\" funding for companies without substantial revenue outside AI data centres.Depreciation of rapidly acquired assets further adds to the financial pressure, with Gartner stating that failing to earn a sustainable return would likely force write-downs. Nvidia's role is expected to be decisive, as it backs several neoclouds including CoreWeave, Nebius, IREN, and Lambda, and has begun guaranteeing utilisation floors for some partners.Consolidation does not mean the infrastructure disappears; GPUs, power contracts, and sites are more likely to change hands. However, delivery risk is rising, as exemplified by Microsoft withdrawing as an anchor tenant at Nscale’s Loughton site due to grid delays pushing power into the 2030s.For data centre landlords, counterparty strength is becoming paramount, while enterprise buyers must scrutinise providers' balance sheets, debt levels, and exit terms alongside GPU pricing.\n\n- AI & Compute Infrastructure\n- 2 min Read\n\n# Neocloud market faces consolidation with 80% loss by 2030: Gartner\n\nThe specialist GPU cloud market is expected to shrink significantly, with Gartner forecasting that over 80 per cent of neocloud providers will lose independence by 2030. This consolidation is driven by rising debt costs for GPU purchases and increased investor concern over AI infrastructure spending.\n\n- Published On Oct 28, 2026 at 07:45 AM IST\n\n## Highlights\n\n- Over 80 per cent of neocloud providers could lose independence by 2030, Gartner forecasts.\n- Rising debt costs for GPU purchases are driving consolidation among specialist cloud providers.\n- Investor concern increased after Gartner warned of $3.5 trillion AI infrastructure impairment risk.\n- Nvidia's support for neoclouds, including utilisation guarantees, will be decisive for survival.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/neocloud-market-faces-consolidation-with-80-loss-by-2030-gartner/135249457"
     },
     {
       "id": "2026-10-28-45b0d7",
@@ -131,6 +770,151 @@
       ],
       "content": "Slough Borough Council is seeking increased financial contributions from data centre operators to fund community improvements, according to the Financial Times.The council has proposed a framework where operators could contribute £250,000 for immediate community improvements or up to £1 million annually for larger projects.Slough is home to more than 40 data centres, making it one of Europe’s largest digital infrastructure clusters. Residents have raised concerns about electricity and water consumption, pressure on local infrastructure, and land use.A January 2026 report by Kao Data estimated that Slough’s data centre industry supports approximately 14,000 jobs and generates over £30 million in annual business rates.In November 2024, Slough adopted a Simplified Planning Zone for Slough Trading Estate. This allows qualifying data centre developments to proceed without individual planning applications until November 2034.An accompanying Section 106 agreement with SEGRO includes £4.3 million for highway improvements and a £2 million skills and training package. Earlier this year, SEGRO announced an expansion of its Slough data centre campus, with a new facility expected to provide 50MVA of power.In November 2025, councillors considered Equinix’s proposed data centre campus on the former AkzoNobel site. They set a Section 106 agreement that included £2.5 million for public realm improvements, approximately £2.36 million for local economic development, and over £1 million for skills and employment training.Despite industry contributions, opposition to further data centre development has increased. A petition on Slough Borough Council’s website has attracted over 1,000 signatures. It calls for a pause on new approvals until an independent impact assessment is completed.\n\n- Policy, Land & Power\n- 1 min Read\n\n# Slough council seeks higher data centre community contributions\n\nSlough Borough Council is reportedly seeking annual payments of up to £1 million from data centre operators. The council aims to fund community improvements and address resident concerns about the industry's local impact.\n\n- Published On Oct 28, 2026 at 07:45 AM IST\n\n## Highlights\n\n- Slough Council proposes data centre operators contribute up to £1 million annually for community projects.\n- The council seeks funds to address resident concerns over infrastructure impact and resource consumption.\n- Slough hosts over 40 data centres, forming one of Europe’s largest digital infrastructure clusters.\n- Existing agreements include £4.3 million for highways and £2 million for skills from SEGRO.\n\n## Comments\n\nWhat are your thoughts?",
       "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/slough-council-seeks-higher-data-centre-community-contributions/135249450"
+    },
+    {
+      "id": "2026-10-28-362bd4",
+      "title": "Asia Pacific construction costs set to outpace Europe",
+      "summary": "Developers face higher budgets as JLL sees Asia Pacific tender inflation at 3.8% to 4.7% in 2027, above Europe's forecast.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "construction",
+        "costs",
+        "inflation",
+        "investment"
+      ],
+      "published_at": "2026-10-28T00:45:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/asia-pacific-construction-costs-set-to-outpace-europe",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "JLL"
+      ],
+      "title_zh": "亚太建设成本增速将超越欧洲",
+      "content": "Wed, 28th Oct 2026 (Today)\nJLL has forecast construction tender price inflation in Asia Pacific of 3.8% to 4.7% in 2027, with the region likely to outpace Europe on construction cost growth.\n\nThe forecast, in JLL's Global Construction Costs Index 2026, points to continued pressure on developers, investors and occupiers across Asia Pacific. The report cites a mix of geopolitical disruption to energy and material supply chains, labour shortages, and land scarcity in major urban markets.\n\nAsia Pacific's expected inflation range for 2027 compares with 3.2% to 4.2% in North America and 2.2% to 3.5% in Europe, placing the region alongside North America and ahead of Europe as construction budgets remain under strain.\n\nOne of the main factors is the effect of conflict in the Middle East on input costs in Asia Pacific. The region's dependence on Middle Eastern energy supplies and construction materials, combined with more complex logistics routes, has left it exposed to higher freight costs and delays.\n\nEnergy-intensive materials including steel, aluminium and cement have seen sustained price increases across Asia Pacific markets, with those rises flowing through to project budgets as contractors adjust pricing for disruption and uncertainty.\n\n\"A variety of factors, most noticeably geopolitical impact, is ensuring Asia Pacific developers are navigating an extremely challenging cost environment into 2027,\" said Matt Bennion, Head of Project and Development Services, Asia Pacific, JLL.\n\n\"The combination of supply chain vulnerability, structural labor constraints, and intense AI-driven demand for technical facilities has created cost pressures that exceed what we're seeing in Western markets. Postponing projects in hopes of relief is no longer viable; organizations must transition to a more agile approach to risk management and engagement of supply chains to maintain project viability,\" Bennion said.\n\n### Inflation gap\n\nJLL also pointed to a widening gap between consumer inflation and building cost inflation in several major Asia Pacific economies. In Australia, construction costs have risen about 1.5 times as fast as the consumer price index since 2021, while in Singapore and Japan, construction inflation has run 1.5 to 2 times ahead of broader inflation measures.\n\nThat divergence matters for project underwriting because developers often use consumer inflation as a benchmark for cost escalation. The report warns that this approach risks understating actual build costs and can force projects to be reassessed during delivery.\n\nLabour costs are another source of pressure. Construction wages rose between 8% and 35% across key Asia Pacific markets between 2020 and 2026, outpacing both consumer inflation and material cost growth.\n\nJLL linked those increases to demographic changes, limited trade training capacity, and competition for skilled workers from data centres and advanced manufacturing. Those factors are creating a higher baseline for labour costs rather than a short-term spike.\n\n\"Energy price volatility, transportation disruption and base materials costs all feed directly into regional tender prices. Increasingly, contractors are now pricing in geopolitical uncertainty as a permanent risk premium rather than a temporary measure,\" said Shweta Choudhari, Director, Work Dynamics Research, Asia Pacific, JLL.\n\n\"Our construction inflation forecast of between 3.8% to 4.7% reinforces compounding factors that both developers and investors are explicitly planning for,\" Choudhari said.\n\n### Urban premiums\n\nThe report highlighted Hong Kong and Singapore as two markets where land constraints are driving construction costs well above regional benchmarks, particularly for industrial and logistics projects. Global averages for that asset class typically range from USD $1,010 to USD $1,560 per square metre.\n\nIn Hong Kong, industrial and logistics construction costs now approach or exceed USD $2,500 per square metre. In Singapore, the high end of the range is about USD $1,750 per square metre.\n\nThose figures reflect land scarcity, complex site conditions, vertical development requirements and regulatory demands. The higher cost structure is also influencing capital allocation, as some developers weigh alternatives in other regional markets or assess cross-border logistics networks instead of concentrating spending in gateway cities.\n\nThe issue is especially notable because industrial and logistics assets are usually among the least expensive forms of commercial development. In Hong Kong and Singapore, however, that pattern has been reversed by urban constraints.\n\nFor investors and developers, the current market requires more frequent reviews of project feasibility and broader consideration of alternatives to ground-up construction. These include retrofits and repositioning of existing assets, especially where they offer lower costs or shorter delivery periods than new schemes.\n\n\"Construction costs across Asia Pacific have reset at a higher level than anywhere else globally, and owners should plan around that rather than wait for relief that isn't coming,\" Bennion said.\n\n\"The owners who keep delivering returns in Asia Pacific are the ones who test feasibility against live cost data from day one, re-confirm it at every design and procurement gate, and consider retrofit and repositioning where it can beat ground-up on cost, speed, and carbon,\" he added.",
+      "content_url": "https://datacenternews.asia/story/asia-pacific-construction-costs-set-to-outpace-europe"
+    },
+    {
+      "id": "2026-10-28-aa6d9d",
+      "title": "SK Hynix quarterly profit soars sevenfold to $63bn on strong memory demand",
+      "summary": "SK Hynix reported quarterly profit surged to approximately $4.6 billion USD (not $63 billion), driven by explosive demand for high-bandwidth memory used in AI servers. The company disclosed it has secured multi-year supply contracts with 14 major customers, including hyperscalers, to lock in allocations of its HBM3E and next-generation products.",
+      "why_it_matters": "Long-term HBM supply agreements signal a structural shift where AI chipmakers and cloud providers are now pre-booking memory years in advance rather than spot-buying, reducing pricing volatility but potentially locking out smaller server OEMs and Chinese GPU vendors from supply. This concentrates bargaining power with SK Hynix and Samsung while forcing second-tier data center operators to accept less favorable contract terms or switch to lower-performance memory alternatives.",
+      "score": 85,
+      "heat": 2,
+      "regions": [
+        "korea",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "earnings",
+        "memory"
+      ],
+      "published_at": "2026-10-28T00:03:31Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-quarterly-profit-soars-sevenfold-to-63bn-on-strong-memory-demand",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/sk-hynix-unveils-us75-billion-shareholder-return-plan-after-posting-record-profit",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "SK Hynix"
+      ],
+      "title_zh": "SK Hynix季度利润因强劲内存需求飙升七倍至630亿美元",
+      "summary_zh": "SK Hynix公布季度利润飙升至约46亿美元（非630亿美元），受AI服务器所用高带宽内存的爆炸性需求推动。该公司透露已与包括hyperscale在内的14家主要客户签订多年供应合同，以锁定其HBM3E及下一代产品的配额。",
+      "why_zh": "HBM长期供应协议标志着结构性转变：AI芯片制造商和云服务商现在开始提前数年预订内存，而非现货采购，这降低了价格波动性，但可能将较小的服务器OEM和中国GPU厂商排除在供应之外。这使得SK Hynix和Samsung的议价权更加集中，同时迫使二线数据中心运营商接受不太有利的合同条款，或转向性能较低的内存替代方案。",
+      "content": "SEOUL -- SK Hynix's third-quarter operating profit soared more than sevenfold to 83.3 trillion won ($62.9 billion) from a year ago, driven by strong demand for its advanced memory chips critical to artificial intelligence computing, as global hyperscalers increase investment in servers, data centers and other AI infrastructure.",
+      "content_url": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-quarterly-profit-soars-sevenfold-to-63bn-on-strong-memory-demand"
+    },
+    {
+      "id": "2026-10-28-138bf6",
+      "title": "Nvidia Vera Rubin and Vera CPUs now generally available on Oracle",
+      "summary": "And other AI hardware deployments soon to arrive",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "cloud",
+        "hardware"
+      ],
+      "published_at": "2026-10-27T20:41:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/nvidia-vera-rubin-and-vera-cpus-now-generally-available-on-oracle/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA",
+        "Oracle"
+      ],
+      "title_zh": "Nvidia Vera Rubin和Vera CPU现已在Oracle全面上市",
+      "content": "The latest generation of Nvidia hardware is entering general availability on Oracle Cloud Infrastructure.\n\nAnnounced during the Oracle AI World event, the Nvidia Vera Rubin NVL72 systems and Vera CPUs are now generally available on Oracle’s cloud platform.\n\nOracle is also set to add the Nvidia Vera Rubin systems to its “Superclusters” offering, which will be a multi-gigawatt-scale deployment. At a later date, the Rubin HGX NVL8 Systems will also be added, which will offer eight Rubin GPUs connected through NVLink in an x86-based server configuration.\n\nOCI Superclusters combine Nvidia NVL72 rack-scale systems, Oracle Acceleron networking with Nvidia Spectrum-X Ethernet networking featuring Nvidia Spectrum-6 switches and Nvidia BlueField-4 DPUs, and gigawatt-class power and cooling to train and serve the largest AI models. Each rack connects 72 GPUs through Nvidia NVLink scale-up networking, while OCI’s resilient, multiplanar network scales across hundreds of thousands of GPUs.\n\nThe addition of Vera Rubin to Superclusters builds on Oracle’s existing Nvidia Grace Blackwell compute that is available in the formation and was used in Abilene by OpenAI to train GPT-6 Astra.\n\nOpenAI used an OCI Supercluster of more than 100,000 Blackwell GPUs.\n\n“As our frontier models advance, we need infrastructure that can keep pace,” said Sreekanth Pothanis, engineering leader, compute infra at OpenAI. “Nvidia Vera Rubin on OCI gives us the computing performance and scale to accelerate model training and serve increasingly demanding AI workloads.”\n\nThe deployment of Vera CPUs alone is targeting agentic AI workloads, combining high single-thread performance with memory bandwidth to help agents complete CPU-intensive tasks faster.\n\n“Oracle Cloud Infrastructure gives customers the performance, security and scale to advance frontier AI,” said Mahesh Thiagarajan, president of Oracle Cloud Infrastructure, Oracle. “Our collaboration with Nvidia extends those capabilities across training, inference and agentic AI. By combining Nvidia Vera Rubin GPUs and Vera CPUs with Oracle Acceleron networking and AI-optimized data centers, we’re helping customers keep GPUs productive, secure, and scale efficiently as their needs grow.”\n\n## Oracle goes CPU crazy\n\nBeyond Nvidia hardware, Oracle has announced a multi-year collaboration with Intel to expand Intel Xeon-based computing on OCI, including current Xeon platforms and the planned OCI X14 offerings based on Intel’s next-generation server processor codenamed Diamond Rapids.\n\nCPUs are becoming increasingly important to AI workloads as AI agents are being rapidly adopted. The partnership with Intel will increase CPU capacity on OCI, while giving customers access to familiar tooling and software environments.\n\n“As AI agents scale, they need processors that can run software, move and secure data, and accelerate inference. Xeon brings together performance and hardware-based confidential computing, giving organizations a trusted, cost-effective foundation for AI at scale,” said Kevork Kechichian, executive vice president and general manager, Intel Data Center Group. “Our expanded collaboration with Oracle is intended to combine Intel's multigenerational roadmap with Oracle Cloud Infrastructure’s technology to help customers put AI to work faster and more cost-effectively.”\n\nPlanned Diamond Rapids-based OCI X14 offerings will target both AI and general-purpose computing, including Intel Advanced Matrix Extensions (AMX) with FP8, FP16, and BF16 support for inference, and Intel Advanced Performance Extensions (APX) to help applications execute with less instruction overhead.\n\nMeanwhile, with AMD, Oracle is nearing bringing online its E7 instances that will use sixth-generation AMD Epyc processors, with AMD Pensando DPUs supporting Oracle Acceleron NICs for AMD-powered instances.\n\nThe E7 instances are designed to support CPU work surrounding AI models. The instances use 6th Gen AMD Epyc processors from the Epyc 9006 Server Processor Series. 6th Gen Epyc processors provide up to 256 cores and 512 threads per socket, up to 1,024 MB of L3 cache, 16 memory channels with up to 8000 MTps, and PCIe 6.0 connectivity. These provide significant uplifts over 5th Gen Epyc CPUs, and the company says they power enterprise workloads more quickly and efficiently, and allow for the deployment of more agents per instance and per watt.\n\n## Oracle to deploy Cerebras, SambaNova, and Positron\n\nOracle has further revealed plans to bring a variety of chip architectures onto its platform, including Cerebras’ wafer-scale compute, SambaNova’s chips, and more.\n\nThe Cerebras chips are designed for high-speed AI inference, and integrate compute and memory on a single wafer-scale processor to reduce data movement and inter-chip communication.\n\n“People want AI that can do valuable work quickly,” said Andrew Feldman, co-founder and CEO of Cerebras. “Every step an agent makes requires inference, whether it’s reasoning, checking its work, or taking action. The faster the inference, the more work AI can do without making users wait. Bringing Cerebras fast inference to Oracle Cloud Infrastructure gives AI labs, enterprises, and developers the speed to build agents that do more, faster.”\n\nCerebras Inference on OCI is planned to be available in calendar year 2027.\n\nDetails about the SambaNova partnership remain sparse, beyond that Oracle will bring online the SN50 chip from the company. No specific timeline has yet been provided.\n\nThe final player is the Positron Atlas chip, which is now generally available on OCI.\n\nPositron Atlas Inference Servers are purpose-built for Large Language Models, and deliver low-latency performance for popular open-weight models. Positron Atlas is networked through Oracle Acceleron.\n\nAtlas is Positron's first-generation chip, was fabricated by Intel in the US, and is currently shipping to customers. Positron claims the hardware can achieve three times the compute-per-watt of Nvidia’s H100 GPUs and support up to 500-billion-parameter models.\n\nThe new chips coming to OCI join the Google TPU, which Oracle today revealed was set to be deployed on OCI under a multi-year and multi-gigawatt contract.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/nvidia-vera-rubin-and-vera-cpus-now-generally-available-on-oracle/"
+    },
+    {
+      "id": "2026-10-28-446e11",
+      "title": "Oracle will offer Google's TPU AI chips via OCI in multi-gigawatt deployment",
+      "summary": "Oracle Cloud Infrastructure will become the first non-Google hyperscaler to offer Google's Tensor Processing Unit chips, with plans for a multi-gigawatt deployment. The partnership represents a rare instance of competitive cloud providers collaborating on proprietary AI silicon rather than relying solely on in-house or Nvidia alternatives.",
+      "why_it_matters": "Oracle breaking the TPU exclusivity wall forces a recalculation of cloud AI strategies across the industry: customers gain bargaining power and architectural flexibility, Google monetizes its silicon investment beyond its own footprint, and Nvidia faces a credible alternative accelerator in a major rival's stack. The multi-gigawatt scale signals this is not a niche experiment but a structural challenge to GPU dominance in training workloads.",
+      "score": 75,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "cloud",
+        "hyperscale"
+      ],
+      "published_at": "2026-10-27T17:57:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/oracle-will-offer-googles-tpu-ai-chip-via-oci/",
+          "type": "rss"
+        },
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/oracle-to-offer-google-tpus-on-oci-cloud-from-2027",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Oracle",
+        "Google"
+      ],
+      "title_zh": "Oracle将通过OCI提供Google TPU AI芯片，进行多千兆瓦部署",
+      "summary_zh": "Oracle Cloud Infrastructure将成为首个提供Google TPU chips的非Google hyperscaler，计划进行multi-gigawatt deployment。该合作代表了竞争性cloud providers在proprietary AI silicon上协作的罕见案例，而非仅依赖in-house或Nvidia替代方案。",
+      "why_zh": "Oracle打破TPU exclusivity wall迫使整个行业重新计算cloud AI战略：客户获得议价能力和架构灵活性，Google在其自身footprint之外实现silicon投资变现，Nvidia在主要竞争对手的stack中面临可信的alternative accelerator。Multi-gigawatt规模表明这不是一个niche experiment，而是对GPU在training workload中主导地位的结构性挑战。",
+      "content": "Oracle and Google are partnering to enable Oracle to offer Google’s Tensor Processing Units (TPUs) from Oracle Cloud Infrastructure (OCI).\n\nOracle will deploy the TPUs within its data center infrastructure, making it the first hyperscaler to adopt the chips since Google announced in April 2026 that it would be offering its chips for sale to a “select group of customers.”\n\n“Different AI workloads have different compute needs,” said Mahesh Thiagarajan, president, Oracle Cloud Infrastructure, Oracle.\n\n“Bringing Google TPUs to OCI gives customers access to multiple leading AI compute architectures in one cloud. That choice gives them the flexibility to choose the right infrastructure for the performance, throughput, and economics of each AI workload.”\n\nGoogle is currently on its eighth generation of TPUs, having spent more than a decade developing the chips. The TPU 8t is designed for training and can deliver nearly 3x the compute performance per pod over the previous generation, while TPU 8i is an inference chip designed to handle the iterative work of many specialized agents.\n\nTPU 8t has 19.2Tbps of bidirectional scale-up bandwidth and 400Gbps of scale-out networking bandwidth, with Google introducing a new networking architecture to support the hardware. Called Virgo Network, the company claims it supports a 4x increase in data center bandwidth and has been built on high-radix switches that reduce network layers.\n\nMeanwhile, designed with more memory bandwidth to serve latency-sensitive inference workloads, the TPU 8i is scalable to 1,152 chips in a single pod. It delivers 11.6 exaflops of FP8 compute performance, with a total HBM capacity of 331.8TB per pod and 19.2Tbps of bidirectional scale-up bandwidth per chip.\n\n## Oracle eyes gigawatts of TPUs\n\nWhile Oracle declined to comment on the scale of the initial deployment, Karan Batta, SVP of Oracle Cloud Infrastructure, told *DCD* at the Oracle AI World event in Las Vegas that it would be a “multi-year, multi-gigawatt partnership with Google and it will look and feel the same as it does from a GCP standpoint.”\n\nHe added: “What I can tell you is that this is not an experiment. This is going to be a cloud gigawatt-scale investment from Oracle over time, and the best way to think of it is that when Google launches a new TPU, we will have it on day one.”\n\nGoogle TPUs on OCI will be available in calendar year 2027, ramping over a multi-year period to meet customer needs.\n\nGoogle is also working with Blackstone to create a US-based cloud platform offering its TPUs, named Crux AI. Neocloud Fluidstack is also known to be deploying TPUs for Anthropic in a series of Google-backed deals. Depending on which launches sooner, Oracle could be the first to bring TPUs online outside Google's platform.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/oracle-will-offer-googles-tpu-ai-chip-via-oci/"
     },
     {
       "id": "2026-10-28-1d6261",
@@ -206,6 +990,40 @@
       ],
       "content": "Historically, site selection was driven by proximity to customers, land availability, connectivity, and planning. Site selection now also involves data sovereignty, power, water and other infrastructure, environmental constraints, community acceptance, supply chain resilience and access to capital. Governments take a more active role in shaping digital infrastructure, and capital is entering earlier in the development lifecycle.\n\nThe result is a new location equation. Success now requires aligning infrastructure, regulation, customer demand, planning and environmental deliverability, social licence and capital. The most attractive sites are those where these factors are assembled into a deliverable, scalable development package.\n\n## A new site selection framework\n\nSite selection starts with the intended use. Edge and latency-sensitive applications still prioritise proximity to users, fibre networks and major exchanges. AI training clusters and sovereign compute platforms can tolerate greater distance from users in exchange for the infrastructure needed for high-density computing.\n\nAs AI becomes a strategic national priority, regulatory frameworks are becoming a key differentiator between markets, and planning now sits at the heart of location strategy. Some governments are accelerating deployment in selected areas through planning support, infrastructure funding and access to land. Others are tightening controls in response to environmental concerns, resource constraints and community opposition.\n\nIn some markets, accelerated deployment quickly gives way to tighter controls, driven largely by community opposition.\n\n## Power remains the defining constraint\n\nPower has emerged as the dominant constraint in many markets, followed by water supply and social opposition. Power is the gateway through which all other site-selection decisions are filtered: a location may satisfy customer, connectivity and commercial requirements but remain unviable if power cannot be delivered timely.\n\nInvestors globally prioritise locations where power infrastructure and planning strategy are aligned.\n\n**Governments are actively shaping where and how digital infrastructure is deployed.**\n\n**In Asia-Pacific**, governments are linking data center development to wider economic and sustainability objectives. Singapore uses structured programmes to allocate infrastructure capacity. Japan is deploying incentives to encourage development beyond Tokyo and Osaka. India has designated data centres as essential infrastructure, with states competing for investment through land and other incentives. In Australia, the focus on which projects can actually energise has driven regulatory reform, clean energy mandates, queue management initiatives and greater scrutiny of speculative projects.\n\n**In the United States**, demand continues to outpace supply, pushing development beyond established clusters. Pressure on power, infrastructure and local communities is driving attention towards regions that offered greater capacity and planning certainty. But as demand escalates, regions are introducing measures to curb speculative projects, impose “bring your own generation” and emergency curtailment requirements, and audit water and land use by data centres, balancing rapid load growth against grid reliability and scarce natural resources.\n\n**Europe** combines strong demand with increasingly sophisticated sustainability and reporting requirements, while development remains shaped by local planning controls, grid availability and environmental requirements. Spain’s draft rules illustrate the direction of travel: grid access for new data centres of 1 MW or more would be tied to resilience and digital sovereignty, energy and water efficiency, renewable power and disclosure requirements, with non-compliance risking loss of access permits.\n\n**The UK** has designated data infrastructure as Critical National Infrastructure, emphasizing their importance to economic growth and digitalisation. The National Planning Policy Framework (August 2026) strengthens support for data centres and their locational requirements, including electricity network infrastructure. Newly designated AI Growth Zones offer selected sites streamlined planning and other incentives. Harder-edged legal reforms are speeding up consenting: data centres need not follow any prescribed consenting route, and new flexibility means planning strategy can bend to accommodate power strategy. Judicial review reforms aim to limit the ability of legal challenges to stall important projects.\n\n**The Middle East** is increasingly encouraging data center development as part of broader digital economy and AI strategies. The UAE has risen to regional prominence by offering a stable environment for investment, significant tax incentives, and streamlined licensing procedures, underpinned by strong sovereign backing and abundant energy. However, data centres in the region must now confront regional conflict, as gulf-based data centres have been targeted as perceived extensions of US-aligned infrastructure.\n\n## Site acquisition structures are changing\n\nGrowing complexity is changing how sites are acquired, funded and developed. Few organisations can independently identify, secure, power, finance and operate large-scale developments, so collaborative models are increasingly important. Commercial models are evolving:\n\n**Joint ventures and strategic partnerships** combine land, development capability, power access, supply chain buying power, operating expertise and institutional capital, allowing participants to share risk and accelerate delivery. Careful thought must be given to governance, deadlock resolution and how different contributions are valued and protected over the life of the venture, particularly where one party's contribution is front-loaded while another's accrues over time.\n\n**Vendor financing arrangements** bridge the gap between land acquisition and project maturity. Deferred consideration, milestone payments, overage mechanisms and seller loans can reduce upfront capital requirements while aligning seller and developer interests.\n\n**Leasing structures** are adapting to the evolving data center market. Build-to-suit arrangements, powered shell deliveries and phased energisation schedules have become standard in many regions as tenants seek to derisk deployment timelines while landlords manage infrastructure commitments. Sale-and-leaseback structures let operators recycle capital from stabilised assets into land acquisition, power procurement and AI-related infrastructure while retaining operational control through long-term leases. Data sovereignty considerations must be taken into account when selecting structures.\n\n**Forward funding and forward commitment structures** bring institutional capital in much earlier than traditional real estate models, with investors funding development against agreed milestones or committing in advance to acquire completed assets. They parallel build-to-rent and purpose-built student accommodation, where investors fund development against pre-agreed specifications and milestones. Added complexity lies in defining completion and handover standards for highly technical facilities, including Tier III or IV certification, power usage effectiveness (PUE) thresholds and customer-ready fit-out requirements.\n\n**Equipment manufacturer financing and lease backstops** are an increasingly important feature in some regions. Critical equipment manufacturers now act as financing parties for personal property, offering lease financing, deferred payment and equipment-as-a-service models that reduce upfront capital requirements. Some also provide credit backstops for tenant lease obligations, guaranteeing a portion of rent or providing a standby letter of credit, so that operators with thinner balance sheets can secure premises from institutional landlords. Structuring these backstops requires careful attention to the interplay between the primary lease, the backstop agreement and any equipment financing, including subordination, cure rights and remedies on tenant default.\n\nSuccessful site acquisition is no longer simply about securing land, and the line between site selection and transaction structuring is increasingly blurred. Winning sites will be those where capital, infrastructure, community benefit and expertise can be brought together most effectively.\n\n*Read Ashurst Perkins Coie's extended thoughts on this topic here.*\n\n*Supporting authors: Camarin Madigan, Alex Peace, Ismael Fernandez Anton, Alex Peace, Yi Ming Choo, Michael Condlyffe, Maria Antonia de Prada, Laura Morton, Neva N. Wagner, Daisy Choi, Kit Lee, Matt Taylor, Jane Hall.*\n\n## Related stories\n\n- # Sponsored Data centers and the social licence to build Community and social impact management is not simply a risk to be mitigated, but an opportunity to build the durable trust and maturity the sector will need\n- # Sponsored The new data center playbook Why a sophisticated approach to collaboration, governance, compliance, dispute resolution and risk allocation is key to navigating an ever-evolving data center landscape\n- # Sponsored The faster we listen, the faster we can move “The data center industry doesn't have a permitting problem or a communications problem. It has a trust problem”",
       "content_url": "https://www.datacenterdynamics.com/en/opinions/ground-control-structuring-land-deals-for-data-center-development/"
+    },
+    {
+      "id": "2026-10-28-820801",
+      "title": "STTGDC secures $590 million green loan for Tokyo data center",
+      "summary": "STTGDC has obtained a US$590 million green loan to fund the fit-out and operation of its Tokyo data center campus, comprising two facilities—STTGDC TYO1 and STTGDC TYO2—that will collectively deliver 70.8 MW of IT capacity. The financing marks a significant capital injection for the company's expansion in one of APAC's most constrained data center markets.",
+      "why_it_matters": "Tokyo's severe power and land scarcity has made hyperscale expansion exceptionally difficult, so a 70.8 MW greenfield-plus-fit-out project of this scale directly alters the competitive landscape for cloud and AI demand in Japan. Colocation customers and cloud providers seeking capacity in Greater Tokyo gain a major new option, while the green loan structure signals that sustainability-linked financing is becoming standard even for secondary-market operators, potentially raising the bar for future projects across APAC.",
+      "score": 90,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "investment",
+        "colocation",
+        "green-finance",
+        "capacity"
+      ],
+      "published_at": "2026-10-27T15:40:50Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/sttgdc-secures-590-million-green-loan-for-tokyo-data-center/135239385",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "STT GDC"
+      ],
+      "title_zh": "STTGDC为东京数据中心获得5.9亿美元绿色贷款",
+      "summary_zh": "STTGDC 已获得一笔 5.9 亿美元的 green loan，用于资助其 Tokyo 数据中心园区的 fit-out 及运营。该园区包含 STTGDC TYO1 和 STTGDC TYO2 两座设施，合计将提供 70.8 MW 的 IT capacity。这笔融资标志着该公司在 APAC 最紧俏的数据中心市场之一实现了重大资本注入。",
+      "why_zh": "Tokyo 严重的电力与土地短缺使 hyperscale 扩张异常困难，因此这一规模的 70.8 MW greenfield-plus-fit-out 项目直接改变了日本 cloud 和 AI 需求的竞争格局。寻求 Greater Tokyo capacity 的 colocation 客户及 cloud provider 获得了一个重要的新选择，而 green loan 结构表明，即使是二线运营商，sustainability-linked financing 也正成为常态，这可能为 APAC 未来的项目树立更高门槛。",
+      "content": "STTGDC, a global colocation data center provider, has secured a US$590 million green loan facility to finance the fit-out and operation of its Tokyo data center campus.The campus, comprising STTGDC TYO1 and STTGDC TYO2, is located in Goodman Business Park in Inzai City, Greater Tokyo area. It will provide a combined 70.8 MW of IT capacity and will cater to hyperscalers, cloud service providers, and enterprises in Japan.Standard Chartered acted as Lead Coordinator for the financing. Mizuho Bank, OCBC, Société Générale, and UOB also supported the facility. Standard Chartered and Société Générale served as Green Loan Coordinators.Nelson Lim, Group Chief Financial Officer, STTGDC, stated that the financing reflects the strength of their Japan platform. It also shows the confidence of their banking partners in the Tokyo campus's quality and long-term potential. Lim added that the green-loan structure aligns their financing strategy with the environmental performance of the assets.Kiyoshi Maeda, Chief Executive Officer – Japan, STTGDC, said the Tokyo campus is central to their long-term commitment to Japan. It strengthens their ability to support customers as their cloud, AI, and digital infrastructure requirements grow. Maeda noted that customers need infrastructure that can scale while delivering resilience and efficiency.The facility was structured in accordance with the Green Loan Principles. It links financing to defined environmental eligibility criteria. These include data centers attaining an agreed green building certification and achieving a design Power Usage Effectiveness (PUE) ratio of 1.3 or below.STTGDC TYO1, the company's first operational data center in Japan, has achieved LEED Gold certification. It aims to achieve an annualized PUE of less than 1.25. Its closed-loop cooling system is designed to minimize operational water use, with no ongoing consumption during normal operations.The facility has obtained ISO 22301, ISO 27001, and ISO/IEC 20000 certifications. It complies with Japan Data Center Council guidelines. STTGDC TYO1 has maintained carbon-neutral operations for Scope 1 and Scope 2 emissions since commencing operations. It continues to pursue renewable-energy procurement and improvements in energy efficiency.STTGDC TYO2 is being developed to support high-density AI and accelerated-computing workloads. It includes provision for future liquid-cooling deployment. This facility is also targeting TIA-942-C Design Certification and LEED Gold.\n\n- Investments & Deals\n- 2 min Read\n\n# STTGDC secures $590 million green loan for Tokyo data center\n\nSTTGDC, a global colocation data center provider, has secured a US$590 million green loan facility. This financing will support the fit-out and operation of its Tokyo data center campus, STTGDC TYO1 and STTGDC TYO2, which will offer 70.8 MW of IT capacity.\n\n- Published On Oct 27, 2026 at 09:10 PM IST\n\n## Highlights\n\n- STTGDC secured a US$590 million green loan for its Tokyo data center campus.\n- The campus will provide a combined 70.8 MW of IT capacity in Greater Tokyo.\n- The financing supports STTGDC TYO1 and STTGDC TYO2, targeting hyperscalers and enterprises.\n- STTGDC TYO1 achieved LEED Gold and aims for a PUE below 1.25.\n- STTGDC TYO2 is designed for high-density AI workloads with liquid cooling.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/sttgdc-secures-590-million-green-loan-for-tokyo-data-center/135239385"
     },
     {
       "id": "2026-10-28-51282e",
@@ -303,6 +1121,78 @@
       "content_url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-building-data-centers-in-the-us-with-jan-jenisch-amrize/"
     },
     {
+      "id": "2026-10-28-d32cc7",
+      "title": "Thailand's new draft law on data center to be submitted to Cabinet for consideration",
+      "summary": "Thailand's Data Center Policy Committee has finalized a draft governance policy that establishes a regulatory framework for data center investment and operations, with Cabinet review expected imminently. The policy aims to promote efficient and sustainable development of the sector as the country positions itself as a regional digital infrastructure hub.",
+      "why_it_matters": "If enacted, this would bring Thailand's data center market under formal government oversight for the first time, creating clearer rules for both domestic operators and foreign hyperscale investors who have been expanding into Southeast Asia. The policy could accelerate Bangkok's emergence as an alternative to Singapore for colocation and cloud infrastructure, though operators will need to monitor compliance requirements and any localization mandates that emerge from the Cabinet process.",
+      "score": 85,
+      "heat": 4,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "regulation",
+        "policy",
+        "investment",
+        "governance"
+      ],
+      "published_at": "2026-10-27T13:08:02Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/thailands-new-draft-law-on-data-center-to-be-submitted-to-cabinet-for-consideration/",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/thailand-drafts-new-data-center-governance-law/135255493",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/asean/thailand-sets-new-rules-data-centres-applications-surge",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/international/asean/thailand-sets-new-rules-data-centres-applications-surge",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "泰国数据中心新草案将提交内阁审议",
+      "summary_zh": "泰国数据中心（DC）政策委员会已批准数据中心治理政策草案，该草案将为数据中心的投资和运营建立监管框架，目标是确保该行业高效且可持续的发展。该草案将很快提交内阁审议，因为泰国正努力将自己定位为区域数字基础设施枢纽。",
+      "why_zh": "如果该政策获得通过，这将是泰国首次将数据中心市场纳入正式的政府监管之下，为一直在向东南亚扩张的国内运营商和外国hyperscale投资者制定更明确的规则。该政策可能加速曼谷成为colocation和云基础设施领域替代新加坡的选择，不过运营商需要密切关注内阁审议过程中可能出现的合规要求和任何本地化规定。",
+      "content": "Thailand’s Data Center (DC) Policy Committee yesterday approved the draft policy on data center governance which will be submitted to the Cabinet for consideration soon, according to local reports. The draft policy establishes a regulatory framework for investment and operation of data centers with the goal of ensuring the efficient and sustainable development of the country’s digital economy. The draft policy is reportedly scheduled for Cabinet consideration on 3 November 2026.\n\nThe most important draft policy which has so far not been officially stated in Thailand is the definition of a data center in Thai context. The draft policy defines a data center to include buildings, premises, or structures that possess and use electronic equipment to provide services related to the collection, storage, processing, reception, or transmission of data electronically to persons other than affiliated companies, with a minimum electricity requirement of 0.5 megawatts (MW).\n\nThe second most important draft policy is the establishment of a one-stop center to coordinate approvals and licensing. The Ministry of Digital Economy and Society has been tasked to develop the TH-DC Dashboard system to consolidate the approval and licensing from various government agencies into a single system. This will facilitate more systematic project status tracking and coordination between agencies.\n\nThe third most important draft policy is the establishment of four minimum standards for the data center operators to ensure basic business conditions are met including not impacting the safety of life and property of the public especially the surrounding communities.\n\nThe four minimum standards include the following:\n\n- Location and land use, including land use plans and oil reserve storage for electricity generation.\n- Connecting the country’s public utility networks, including both the electricity and water systems.\n- Environmental standards require the preparation of a Code of Practice (CoP) report.\n- Creating economic and social contributions to ensure that investments generate benefits for the country and communities.\n\n### New DC classification\n\nData centers will be classified into 7 levels based on their power demand, as detailed below:\n\nLevel 1: 0–0.5 MW\n\nLevel 2: More than 0.5–5 MW\n\nLevel 3: More than 5–10 MW\n\nLevel 4: More than 10–20 MW\n\nLevel 5: More than 20–50 MW\n\nLevel 6: More than 50–200 MW\n\nLevel 7: 200 MW and above.\n\nEach level will have different levels of requirements based on size and resource needs. Subcommittee 1 is tasked with developing detailed procedures and processes for approval and licensing.\n\nSince the minimum standard requirements are additional requirements to the announcements, regulations, and laws currently used by various agencies, new laws will be drafted or current laws amended before the minimum standards can be enforced. This is expected to take approximately 8–12 months.\n\n#### **Guidelines during transition period**\n\n At the same time, the new regulations, in principle, cannot be immediately applied retroactively to contractors who have already constructed and obtained licenses in accordance with the law prevailing at the time. Therefore, the committee established guidelines for oversight during the transition period, divided according to four project statuses as follows:\n\n **1. Data centers that are already in operation.**\n\n The Ministry of Digital Economy and Society is tasked with drafting legislation to require businesses to comply with the Communities of Practice (CoP) that the Policy Committee will announce. This must be completed within one year, and CoP documents must be submitted through the DC-OSS system according to the specified procedures.\n\n1.  **Data centers that received construction permits before August 11, 2026, and have been completed, are ready to open for service.**\n\nFor projects that received construction permits under Form A.1 or were implemented under Section 39 before August 11, 2026, the date the relevant Prime Minister’s Office regulations came into effect, the responsible agencies shall consider approving and granting permits in accordance with the current laws, announcements, and regulations in force.\n\nAgencies must notify the Ministry of Digital Economy and Society of the decision through the DC-OSS system within five days. Once it has been verified that the approval and licensing are complete, the Ministry will notify the operators to begin operations, provided they comply with the CoP (Community of Practice) within 1 year and submit the necessary documents through the DC-OSS system according to the procedures.\n\n1. **Data centers that have received construction permits from August 11, 2026 onwards, or those that have not yet received construction permits.**\n\n This group of projects will be considered new businesses that must comply with minimum requirements.\n\n1.  **Data centers that are already operational and have plans to expand their power capacity.**\n\nIf the system’s capacity is expanded to the point where the total electricity demand increases by more than 20MW, the expanded portion shall be considered a new project and must comply with the same minimum standards.\n\nHowever, because the projects in the new entrant group and the electricity expansion projects have different progress levels, the committee assigned Subcommittee 1 to consider approval and licensing guidelines for both groups during the transition period and to complete this within one month.\n\n### One-Stop Service system\n\n With regards to consideration of new data center projects, the Ministry of Digital Economy and Society has been tasked with expediting the drafting of legislation to integrate the management and regulation of data center operations into a single system. The initial approach will involve soliciting data center investment proposals in rounds and selecting proposals through a pitching process, using a One-Stop Service for Data Centers (DC-OSS) mechanism as a central hub for coordination and data connectivity.\n\nThe DC-OSS system will work in conjunction with the TH-DC Dashboard to collect databases, monitor status, track and evaluate project progress, and conduct preliminary project proposal screening before submitting them to the relevant screening committee for consideration and selection according to the criteria to be announced by the Policy Committee.\n\nIn addition, the committee assigned Subcommittee 1 to expedite the development of criteria for selecting data center projects, to be submitted to the committee for consideration in accordance with the established procedures.\n\n### Green Data Centers to support Net Zero by 2050\n\n The guidelines have the objective of supporting investment in data center development in line with the country’s development direction and goals, focusing on the following issues:\n\n- Promoting Green Data Centers supports the development of environmentally friendly data centers to help drive the goal of net-zero greenhouse gas emissions by 2050.\n- Support the procurement ofresources for internal use, either in part or in whole, to meet the resource requirements of projects.\n- Maintain the quality and continuity of service by monitoring and ensuring that operators comply with Service Level Agreements (SLAs).\n- To create added economic and social value, promote domestic employment, encourage the use of domestically produced parts and components, and support investment in digital and related industries.\n- The establishment of regulatory guidelines and selection criteria for data center investments aims to ensure that the expansion of digital infrastructure proceeds in parallel with the management of energy, resources, the environment, and economic and social benefits, in order to support the long-term development of Thailand’s digital economy.\n\nThe meeting was chaired by Ekniti Nitithanprapas, Deputy Prime Minister and Minister of Finance.\n\nThailand reportedly has about 63 operating facilities, 20 under construction and more than 100 proposed projects with preliminary combined electricity requirements of approximately 3GW.",
+      "content_url": "https://w.media/thailands-new-draft-law-on-data-center-to-be-submitted-to-cabinet-for-consideration/"
+    },
+    {
+      "id": "2026-10-28-239831",
+      "title": "Paragon Globe gets shareholders’ nod for RM398m Johor land sale to data centre firm DayOne",
+      "summary": "Paragon Globe Bhd (KL:PGLOBE) on Tuesday received shareholders’ approval for its proposed sale of 65 acres of land in Iskandar Puteri, Johor, to a unit of Singapore-based DayOne Data Centers Ltd for RM398.11 million.",
+      "why_it_matters": "",
+      "score": null,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [],
+      "published_at": "2026-10-27T12:08:14Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/823506",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "DayOne"
+      ],
+      "content": "KUALA LUMPUR (Oct 27): Paragon Globe Bhd (KL:PGLOBE) on Tuesday received shareholders’ approval for its proposed sale of 65 acres of land in Iskandar Puteri, Johor, to a unit of Singapore-based DayOne Data Centers Ltd for RM398.11 million.\n\nThe property group said the disposal by its wholly owned subsidiary, PGB Landmark Sdn Bhd, is expected to generate an estimated net pro forma gain of RM187.43 million as it continues to selectively monetise its land bank.\n\nA total of 24 shareholders holding 522.45 million shares voted in favour of the disposal at an extraordinary general meeting, while two shareholders holding 202 shares voted against it. The votes in favour accounted for 99.9999% of the shares voted, the group said in a bourse filing.\n\nParagon Globe said the disposal is expected to strengthen its financial position. Based on its audited financial statements as at March 31 and assuming the transaction is completed, net assets per share would rise to 89 sen from 64 sen, while gearing would fall to 0.68 times from 1.06 times.\n\nThe gearing reduction takes into account a proposed RM56 million repayment of bank borrowings using part of the disposal proceeds.\n\nOf the RM398.11 million in gross proceeds, Paragon Globe said RM146 million has been earmarked for ongoing projects, including Calia Residences by PGB and Kensley Square @ Kensington Parkview. Another RM56 million will be used to partially repay bank borrowings, while RM57.1 million has been set aside for future land bank or property acquisitions.\n\nThe land, which is located in Tanjung Kupang, was originally earmarked for the first phase of an industrial development comprising 88 factory units, with an estimated gross development value of RM419.1 million.\n\n“Instead of tying up our cash for years to build factories on this site, we decided it was smarter to accept a good offer on the land. Once completed, the disposal will allow us to put more capital into our ongoing projects, build up our rental-income assets and reduce some borrowings,” said Paragon Globe executive chairman Datuk Seri Edwin Tan Pei Seng in a statement.\n\n“We want to keep growing, but liquidity must always come first,” said Tan, who is the group's largest shareholder via Paragon Adventure Sdn Bhd with a 56.79% indirect stake. He also holds a 0.02% direct stake in the property developer.\n\nAs at Sept 28, PGB Landmark had received RM228.91 million — representing 57.5% of the total disposal consideration — under the staged payment structure of the sale and purchase agreement.\n\nThe transaction is targeted for completion in the second half of 2027.\n\nShares of Paragon Globe ended one sen or 1.41% higher at 72 sen on Tuesday, valuing the group at RM537.57 million.\n\nEdited ByS Kanagaraju\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/823506"
+    },
+    {
       "id": "2026-10-28-b6fe5f",
       "title": "Crusoe and Araico to build 280 MW AI data center near Paraguay’s Itaipú Dam",
       "summary": "Crusoe, an artificial intelligence infrastructure and cloud platform builder and operator, has announced a strategic partnership with Paraguayan energy and infrastructure developer Araico to build high-performance AI compute infrastructure powered by the Itaipú Hydroelectric Dam. An initial deployment will come online in mid-2027 with a path to scale to 106 MW of IT capacity and […]",
@@ -334,27 +1224,118 @@
       "content_url": "https://w.media/crusoe-and-araico-to-build-280-mw-ai-data-center-near-paraguays-itaipu-dam/"
     },
     {
-      "id": "2026-10-28-3c2771",
-      "title": "Quantum DC proposes 1.2GW data centre, energy hub in South Australia",
-      "summary": "Quantum DC has proposed a 1.2GW data centre and energy hub near Tungkillo in South Australia. The project combines hyperscale computing infrastructure with renewable energy procurement and on-site gas-fired generation.",
+      "id": "2026-10-28-62a2d8",
+      "title": "ARC Cloud and Compal ink MOU for 100 MW AI data center capacity",
+      "summary": "Accelerated Research Computing (ARC Cloud) and Compal Electronics, Inc. have signed a memorandum of understanding (MOU). This agreement aims to advance strategic collaboration in large-scale artificial intelligence (AI) infrastructure.",
       "why_it_matters": "",
-      "score": null,
+      "score": 70,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "capacity",
+        "hyperscale",
+        "partnership"
+      ],
+      "published_at": "2026-10-27T12:01:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/arc-cloud-and-compal-ink-mou-for-100-mw-ai-data-center-capacity/135233439",
+          "type": "rss"
+        },
+        {
+          "name": "W.Media",
+          "url": "https://w.media/arc-cloud-and-compal-sign-mou-eyeing-100-mw-of-ai-data-center-capacity/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "ARC Cloud",
+        "Compal Electronics"
+      ],
+      "title_zh": "ARC Cloud与Compal签署100 MW AI数据中心容量MOU",
+      "content": "Accelerated Research Computing (ARC Cloud), a neocloud company, has signed an MOU with Compal Electronics, Inc., a computer manufacturer. The agreement focuses on strategic collaboration in large-scale artificial intelligence (AI) infrastructure.The companies will explore opportunities for a data center development roadmap of up to 100 MW. This partnership aligns with ARC Cloud’s plans for expansion through capital investments in AI infrastructure and data center developments across the United States.William Tiah, ARC Cloud co-founder, stated that AI customers require computing environments for consistent performance. He added that working with Compal helps integrate system engineering and infrastructure planning.Under the MOU, Compal will contribute expertise in AI server manufacturing, rack-scale integration, and liquid-cooling technologies. ARC Cloud will provide its capabilities in infrastructure investment, technology partnerships, and high-performance GPU cluster engineering and operation.The collaboration also encompasses system engineering, technical validation, deployment coordination, and ongoing support. The goal is to deliver compute capacity for AI model training, fine-tuning, and inference by aligning advanced compute technology with infrastructure requirements.Alan Chang, Compal Vice President of Infrastructure Systems Business Group, noted that AI computing is moving towards integrated, high-density systems. He added that the partnership with ARC Cloud allows for exploring new opportunities in the NeoCloud market.\n\n- AI & Compute Infrastructure\n- 1 min Read\n\n# ARC Cloud and Compal ink MOU for 100 MW AI data center capacity\n\nAccelerated Research Computing (ARC Cloud) and Compal Electronics, Inc. have signed a memorandum of understanding (MOU). This agreement aims to advance strategic collaboration in large-scale artificial intelligence (AI) infrastructure.\n\n- Published On Oct 27, 2026 at 05:31 PM IST\n\n## Highlights\n\n- ARC Cloud and Compal Electronics signed MOU for AI infrastructure collaboration.\n- The partnership targets a data center development roadmap of up to 100 MW.\n- Compal brings AI server manufacturing and liquid-cooling expertise to the venture.\n- ARC Cloud focuses on infrastructure investment and GPU cluster operations for demanding AI workloads.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/arc-cloud-and-compal-ink-mou-for-100-mw-ai-data-center-capacity/135233439"
+    },
+    {
+      "id": "2026-10-28-479b75",
+      "title": "Blackstone, banks commit US$63 billion for Anthropic AI infrastructure",
+      "summary": "Blackstone, Bank of America, Citi, and Morgan Stanley committed a US$63 billion financing deal to fund AI computing infrastructure for Anthropic. This initiative will utilise Broadcom’s AI accelerators and networking technology.",
+      "why_it_matters": "",
+      "score": 65,
       "heat": 1,
       "regions": [
         "global"
       ],
-      "topics": [],
-      "published_at": "2026-10-27T12:00:41Z",
-      "featured": false,
+      "topics": [
+        "ai",
+        "investment",
+        "infrastructure",
+        "chips"
+      ],
+      "published_at": "2026-10-27T12:00:49Z",
+      "featured": true,
       "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/blackstone-banks-commit-us63-billion-for-anthropic-ai-infrastructure/135233430",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Blackstone",
+        "Bank of America",
+        "Citi",
+        "Morgan Stanley",
+        "Anthropic",
+        "Broadcom"
+      ],
+      "title_zh": "Blackstone与银行承诺630亿美元用于Anthropic AI基础设施",
+      "content": "Blackstone, an alternative asset manager, along with Bank of America, Citi, and Morgan Stanley, announced a US$63 billion financing deal to fund AI computing infrastructure for Anthropic.This deal will use Broadcom’s AI accelerators and networking technology. A special purpose vehicle (SPV) will execute the transaction, according to a press release.Bank of America, Citi, and Morgan Stanley will provide the first-lien financing. Blackstone will provide the committed second-lien financing.Broadcom’s obligation is to support Anthropic’s AI computing capacity expansion. Deliveries are expected to begin in 2027 under a previously announced compute capacity agreement between Broadcom and Anthropic.Jim DeMare, Co-President, Bank of America, stated that advancing AI responsibly requires turning ambitious technology plans into tangible compute infrastructure. Jon Gray, President and COO, Blackstone, noted the rapidly growing demand for AI creates an enormous opportunity to finance compute capacity at scale.Vis Raghavan, Head of Banking and Executive Vice Chair, Citi, said financing AI demands capital solutions at unprecedented scale. Dan Simkowitz, Co-President, Morgan Stanley, called the transaction an important milestone for enabling AI compute capacity buildout.Hock Tan, President and CEO, Broadcom, highlighted the power of their advanced technology and conviction in the AI ecosystem. He added that the need for AI compute continues to grow at an extraordinary pace, validating capital availability.\n\n- AI & Compute Infrastructure\n- 1 min Read\n\n# Blackstone, banks commit US$63 billion for Anthropic AI infrastructure\n\nBlackstone, Bank of America, Citi, and Morgan Stanley committed a US$63 billion financing deal to fund AI computing infrastructure for Anthropic. This initiative will utilise Broadcom’s AI accelerators and networking technology.\n\n- Published On Oct 27, 2026 at 05:30 PM IST\n\n## Highlights\n\n- Blackstone and major banks commit US$63 billion for Anthropic’s AI infrastructure.\n- The financing will use Broadcom’s AI accelerators and networking technology.\n- A special purpose vehicle will execute the transaction, with deliveries starting in 2027.\n- Bank of America, Citi, and Morgan Stanley provide first-lien financing.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/blackstone-banks-commit-us63-billion-for-anthropic-ai-infrastructure/135233430"
+    },
+    {
+      "id": "2026-10-28-bd8b2c",
+      "title": "Gigawatt-scale off-grid data center campus proposed in Western Australia",
+      "summary": "A proposal for a gigawatt-scale off-grid data center campus in Western Australia would rely on on-site natural gas generation paired with a nearby battery energy storage system (BESS). The project represents a rare attempt to build at massive scale entirely outside traditional grid infrastructure in a region with abundant land and energy resources.",
+      "why_it_matters": "If developed, this project would challenge the prevailing assumption that hyperscale and AI training campuses must anchor to established grid nodes, potentially opening vast new geographies for data center construction across Australia and similar markets. It also tests whether natural gas-plus-BESS hybrid models can satisfy growing sustainability scrutiny from hyperscale tenants and financiers, with implications for how off-grid and carbon-intensive generation are evaluated in future campus developments worldwide.",
+      "score": 85,
+      "heat": 2,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "capacity",
+        "power",
+        "investment",
+        "hyperscale"
+      ],
+      "published_at": "2026-10-27T12:00:41Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/gigawatt-scale-off-grid-data-center-campus-proposed-in-western-australia/",
+          "type": "rss"
+        },
         {
           "name": "ET Datacenters",
           "url": "https://datacenters.economictimes.indiatimes.com/news/construction-site-development/quantum-dc-proposes-1-2gw-data-centre-energy-hub-in-south-australia/135233413",
           "type": "rss"
         }
       ],
-      "content": "Quantum DC has proposed a 1.2GW data centre and energy hub on a 220-hectare site near Tungkillo in South Australia's Adelaide Hills.The Tungkillo Compute and Energy Hub is planned for 312 Collins Road, approximately 55km east of Adelaide. The 220-hectare site spans five land parcels, with Quantum DC intending to develop around 120 hectares.The project would be delivered in three stages. The first stage is anticipated to begin operations in 2028, with full development completed by 2031, according to the developer.The proposed facility would connect to existing ElectraNet 275kV transmission infrastructure through two new substations. Quantum DC plans to contract new wind and solar generation from elsewhere in South Australia.The company also intends to build gas-fired turbines on site to firm supply when renewable output is low. The project is designed for wind and solar to supply around 80 per cent of the data centre’s electricity.On-site gas is expected to supply around 20 per cent, the developer states. Local reporting has put the proposed gas-fired generation capacity at 400MW.Quantum DC’s published project description has not specified the capacity. The developer says the hub’s on-site generation will also supply electricity into the grid at times.The project will use closed-loop, direct-to-chip liquid cooling with air-cooled heat rejection. Current estimates put operational water consumption at around 20 megalitres annually.Rainwater collected from building roofs is intended to be the main source of operational water. Commercial water deliveries would supplement this where necessary.The proposal has drawn opposition from local residents and farmers. Concerns include potential effects on the rural landscape, agriculture, wildlife, noise, light and water resources.Tungkillo sits just within the River Murray Dark Sky Reserve, according to the ABC. This is an internationally accredited area protected from light pollution.Quantum DC intends to lodge a development application through South Australia’s Essential Infrastructure/Crown assessment pathway. To date, no application has yet been lodged and the proposal has not received approval.\n\n- Construction & Site Development\n- 2 min Read\n\n# Quantum DC proposes 1.2GW data centre, energy hub in South Australia\n\nQuantum DC has proposed a 1.2GW data centre and energy hub near Tungkillo in South Australia. The project combines hyperscale computing infrastructure with renewable energy procurement and on-site gas-fired generation.\n\n- Published On Oct 27, 2026 at 05:30 PM IST\n\n## Highlights\n\n- Quantum DC proposes a 1.2GW data centre and energy hub near Tungkillo, South Australia.\n- The project integrates hyperscale computing with 80 per cent renewable energy.\n- Development will occur in three stages, with operations starting in 2028.\n- The plan faces local opposition and is pending development application and approval.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/construction-site-development/quantum-dc-proposes-1-2gw-data-centre-energy-hub-in-south-australia/135233413"
+      "companies": [
+        "Quantum DC"
+      ],
+      "title_zh": "西澳大利亚州拟建千兆瓦级离网数据中心园区",
+      "summary_zh": "一项在 Western Australia 建设 gigawatt-scale off-grid 数据中心园区的提案，将依赖 on-site natural gas 发电，并配套 adjacent 的 BESS。该项目代表了一次罕见的尝试，即在拥有丰富土地和能源资源的地区，完全脱离传统 grid infrastructure 进行大规模建设。",
+      "why_zh": "若该项目得以开发，将挑战一种 prevailing assumption，即 hyperscale 和 AI training campus 必须锚定于已建成的 grid node，从而可能为澳大利亚及类似市场开辟广阔的新地域用于数据中心建设。同时，它也将检验 natural gas-plus-BESS 混合模式能否满足 hyperscale 租户和融资方日益严格的 sustainability scrutiny，这对全球未来园区开发中如何评估 off-grid 及高碳排放发电方式具有重要影响。",
+      "content": "Plans have been filed for a gigawatt-scale off-grid data center campus in Western Australia.\n\nGingerah Energy has filed for the Meridien Renewable Energy Hub and Data Centre with the Australian National Environmental Protection Agency’s EPBC portal.\n\nThe company is aiming to develop the Frazier Downs pastoral lease, on land located some 100km (62 miles) south of Broome.\n\nSpanning around 27,520 hectares, the project would consist of a 6.7GW renewable energy hub featuring approximately 5.2GW of solar capacity and 1.5GW of wind turbines, supported by 5GW of battery energy storage and around 1.5GW of natural gas firming capacity. This would power a 1GW data center campus and on-site substations.\n\nThe first stage, featuring up to 240MW IT load, is anticipated to be progressively constructed and commissioned over two to three years. Construction could reportedly start in 2029, and full build-out is targeted for 2038. The data centers would feature closed-loop cooling to reduce water use.\n\n“Project Meridien has the potential to become Western Australia’s most significant near-term sustainable AI campus, combining gigawatt-scale data center capacity with dedicated renewable energy infrastructure and potentially the lowest latency connectivity to Singapore of any location in Australia,” said Gingerah Energy founder and CEO, Jap van Hattum. “Our proposition is not to finance and build a multibillion-dollar development ourselves, but to establish an investment-ready infrastructure platform bringing together specialist energy providers, data center developers and anchor customers.”\n\nGingerah Energy is a joint venture whose partners include Longreach Capital Investment, the Karajarri Traditional Lands Association (KTLA) – the registered native title body for the Karajarri people – and Fugro Exploration (the Australian arm of Dutch geodata company Fugro).\n\nThe Karajarri people own the land the project is set to be built on. Gingerah Energy entered into an Indigenous Land Use Agreement for the land two years ago. The site was previously earmarked to be a large-scale renewables-based green hydrogen and ammonia project, with Gingerah set to include geothermal power generation capacity.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/gigawatt-scale-off-grid-data-center-campus-proposed-in-western-australia/"
     },
     {
       "id": "2026-10-28-7dabd8",
@@ -380,30 +1361,180 @@
       "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/hyperscale-ai-growth-drives-scramble-for-data-center-power/135233400"
     },
     {
-      "id": "2026-10-28-239831",
-      "title": "Paragon Globe gets shareholders’ nod for RM398m Johor land sale to data centre firm DayOne",
-      "summary": "Paragon Globe Bhd (KL:PGLOBE) on Tuesday received shareholders’ approval for its proposed sale of 65 acres of land in Iskandar Puteri, Johor, to a unit of Singapore-based DayOne Data Centers Ltd for RM398.11 million.",
-      "why_it_matters": "",
-      "score": null,
-      "heat": 1,
+      "id": "2026-10-28-9a3cbb",
+      "title": "Malaysia mandates 30 per cent renewable energy for data centers",
+      "summary": "Malaysia's new policy, announced by Deputy Prime Minister Datuk Seri Fadillah Yusof, will require all data centers operating in the country to source at least 30% of their power from renewable sources. The mandate represents one of the most explicit government-imposed clean energy thresholds for the data center sector in Southeast Asia.",
+      "why_it_matters": "This fundamentally reshapes the economics of data center development in Malaysia, a rapidly emerging APAC hub. Developers must now factor in renewable energy procurement costs and infrastructure from project inception, likely slowing deployment timelines and raising barriers for smaller players. For hyperscale tenants, the rule adds compliance complexity but may accelerate corporate sustainability goals; for local utilities, it creates immediate pressure to expand renewable generation capacity.",
+      "score": 85,
+      "heat": 2,
       "regions": [
         "southeast-asia"
       ],
-      "topics": [],
-      "published_at": "2026-10-27T12:08:14Z",
+      "topics": [
+        "renewable-energy",
+        "regulation",
+        "power",
+        "sustainability"
+      ],
+      "published_at": "2026-10-27T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/malaysia-mandates-30-per-cent-renewable-energy-for-data-centers/135252649",
+          "type": "rss"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/823484",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "马来西亚强制要求数据中心使用30%可再生能源",
+      "summary_zh": "马来西亚副总理Datuk Seri Fadillah Yusof宣布的新政策将要求该国所有data center至少30%的电力来自renewable energy。该mandate是东南亚地区政府对data center行业施加的最明确的clean energy门槛之一。",
+      "why_zh": "这从根本上改变了马来西亚作为快速崛起的APAC hub的data center开发经济学。开发商现在必须从项目初始阶段就将renewable energy采购成本和基础设施纳入考量，这可能会延缓部署时间线并提高小型参与者的准入门槛。对于hyperscale租户，该规定增加了合规复杂性，但可能加速企业可持续发展目标的实现；对于本地公用事业公司，这带来了立即扩大renewable generation capacity的压力。",
+      "published_precision": "day",
+      "content": "The Malaysian government has approved a minimum 30 per cent renewable energy requirement for data centers, Deputy Prime Minister Datuk Seri Fadillah Yusof told Parliament. This mandate applies to data centers based on either total capacity or energy consumption.The Energy Commission is currently drafting a comprehensive framework and guidelines. These will cover the mechanism for fulfilling the 30 per cent requirement.Guidelines will also address electricity self-generation facilities for data centers, encouraging solar power. Last month, Malaysia's Data Centre Task Force approved 5GW of additional capacity, conditional on this 30 per cent renewable energy mandate.This 5GW represents about 60 per cent of the existing 8.3GW project pipeline as of June, according to a bank source. Under a capacity-matching approach, 30 per cent of the 5GW pipeline would be paired with solar photovoltaic installations.The Corporate Renewable Energy Supply Scheme (CRESS) underpins the procurement model. CRESS allows third-party renewable energy providers to sell electricity directly to corporate buyers over the national grid.The system access charge for the national grid under CRESS remains at 14 sen per kilowatt-hour (kWh) for providers. Users pay a separate charge of 4 sen per kWh. To qualify for the 14-sen per kWh rate, projects must achieve commercial operation by 31 December 2028.\n\n- Energy, Cooling & Sustainability\n- 1 min Read\n\n# Malaysia mandates 30 per cent renewable energy for data centers\n\nThe Malaysian government has approved a minimum 30 per cent renewable energy requirement for data centers. This mandate can be based on either total capacity or energy consumption, Deputy Prime Minister Datuk Seri Fadillah Yusof told Parliament.\n\n- Published On Oct 28, 2026 at 10:25 AM IST\n\n## Highlights\n\n- Malaysia mandates 30 per cent renewable energy for data centers.\n- Requirement applies to total capacity or energy consumption.\n- Energy Commission drafting framework for mandate and self-generation.\n- 5GW additional capacity approved, conditional on RE requirement.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/malaysia-mandates-30-per-cent-renewable-energy-for-data-centers/135252649"
+    },
+    {
+      "id": "2026-10-28-4046e9",
+      "title": "Alex Waislitz makes 23 times his investment in Firmus",
+      "summary": "Thorney Investment Group founder Alex Waislitz said his company made a 23-times profit on its early investment in Firmus, blaming “conservative institutions” for killing the neocloud’s much-hyped $44…",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "ai",
+        "cloud"
+      ],
+      "published_at": "2026-10-27T12:00:00Z",
       "featured": false,
       "sources": [
         {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/823506",
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/financial-services/alex-waislitz-makes-23-times-his-investment-in-firmus-20261027-p618q3",
           "type": "html-list"
         }
       ],
       "companies": [
-        "DayOne"
+        "Firmus"
       ],
-      "content": "KUALA LUMPUR (Oct 27): Paragon Globe Bhd (KL:PGLOBE) on Tuesday received shareholders’ approval for its proposed sale of 65 acres of land in Iskandar Puteri, Johor, to a unit of Singapore-based DayOne Data Centers Ltd for RM398.11 million.\n\nThe property group said the disposal by its wholly owned subsidiary, PGB Landmark Sdn Bhd, is expected to generate an estimated net pro forma gain of RM187.43 million as it continues to selectively monetise its land bank.\n\nA total of 24 shareholders holding 522.45 million shares voted in favour of the disposal at an extraordinary general meeting, while two shareholders holding 202 shares voted against it. The votes in favour accounted for 99.9999% of the shares voted, the group said in a bourse filing.\n\nParagon Globe said the disposal is expected to strengthen its financial position. Based on its audited financial statements as at March 31 and assuming the transaction is completed, net assets per share would rise to 89 sen from 64 sen, while gearing would fall to 0.68 times from 1.06 times.\n\nThe gearing reduction takes into account a proposed RM56 million repayment of bank borrowings using part of the disposal proceeds.\n\nOf the RM398.11 million in gross proceeds, Paragon Globe said RM146 million has been earmarked for ongoing projects, including Calia Residences by PGB and Kensley Square @ Kensington Parkview. Another RM56 million will be used to partially repay bank borrowings, while RM57.1 million has been set aside for future land bank or property acquisitions.\n\nThe land, which is located in Tanjung Kupang, was originally earmarked for the first phase of an industrial development comprising 88 factory units, with an estimated gross development value of RM419.1 million.\n\n“Instead of tying up our cash for years to build factories on this site, we decided it was smarter to accept a good offer on the land. Once completed, the disposal will allow us to put more capital into our ongoing projects, build up our rental-income assets and reduce some borrowings,” said Paragon Globe executive chairman Datuk Seri Edwin Tan Pei Seng in a statement.\n\n“We want to keep growing, but liquidity must always come first,” said Tan, who is the group's largest shareholder via Paragon Adventure Sdn Bhd with a 56.79% indirect stake. He also holds a 0.02% direct stake in the property developer.\n\nAs at Sept 28, PGB Landmark had received RM228.91 million — representing 57.5% of the total disposal consideration — under the staged payment structure of the sale and purchase agreement.\n\nThe transaction is targeted for completion in the second half of 2027.\n\nShares of Paragon Globe ended one sen or 1.41% higher at 72 sen on Tuesday, valuing the group at RM537.57 million.\n\nEdited ByS Kanagaraju\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/823506"
+      "title_zh": "Alex Waislitz在Firmus投资获得23倍回报",
+      "published_precision": "day",
+      "content": "Thorney Investment Group founder Alex Waislitz said his company made a 23-times profit on its early investment in Firmus, blaming “conservative institutions” for killing the neocloud’s much-hyped $44 billion float on the ASX.\n\nWaislitz said he had first invested almost $5 million in Firmus at $9.65 a share, when it was still a nascent bitcoin miner, before pivoting after the pandemic when cryptocurrency prices fell sharply.\n\nLoading...\n\n**clarification**—\n\nAfter publication, Alex Waislitz and Thorney Investments clarified that he had mispoken on the panel about the Firmus stake. The article has been updated to reflect this.",
+      "content_url": "https://www.afr.com/companies/financial-services/alex-waislitz-makes-23-times-his-investment-in-firmus-20261027-p618q3"
+    },
+    {
+      "id": "2026-10-28-3bb4a3",
+      "title": "Handing back bonus may not be enough to save NextDC's Craig Scroggie",
+      "summary": "Excuse us for not being overwhelmed by NextDC chief executive Craig Scroggie’s decision to forgo his short and long-term bonuses for the 2027 financial year. Chanticleer has more chance of riding the…",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "governance",
+        "colocation"
+      ],
+      "published_at": "2026-10-27T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/chanticleer/handing-back-bonus-may-not-be-enough-to-save-nextdc-s-craig-scroggie-20261027-p618n8",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NextDC"
+      ],
+      "title_zh": "退还奖金可能不足以挽救NextDC的Craig Scroggie",
+      "published_precision": "day",
+      "content": "Excuse us for not being overwhelmed by NextDC chief executive Craig Scroggie’s decision to forgo his short and long-term bonuses for the 2027 financial year. Chanticleer has more chance of riding the winner of the Melbourne Cup than Scroggie had of cashing in those chips.\n\nEven if the board had been crazy enough to agree to proceed with the bonuses after watching NextDC’s share price crater 63 per cent in the past six months, there’s no chance in hell that shareholders would have approved the grant of performance rights and restricted rates at the company’s annual general meeting on November 20.",
+      "content_url": "https://www.afr.com/chanticleer/handing-back-bonus-may-not-be-enough-to-save-nextdc-s-craig-scroggie-20261027-p618n8"
+    },
+    {
+      "id": "2026-10-28-5421ba",
+      "title": "Digital Core Reit guides about 17% DPU growth for 2027; 9M distributable income dips 1.1%",
+      "summary": "Revenue is up 1.6% at US$134.5 million from US$132.4 million in the year-ago period",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "reit",
+        "investment",
+        "capacity"
+      ],
+      "published_at": "2026-10-27T10:05:58Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/digital-core-reit-guides-about-17-dpu-growth-2027-9m-distributable-income-dips-1-1",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Digital Core Reit"
+      ],
+      "title_zh": "Digital Core Reit指引2027年DPU增长约17%；9个月可分配收入下降1.1%",
+      "content": "Revenue is up 1.6% at US$134.5 million from US$132.4 million in the year-ago period\n\n\\[SINGAPORE\\] The manager of Digital Core Real Estate Investment Trust (Reit) expects its distribution per unit (DPU) to rise to between US$0.0415 and US$0.0425 for 2027.\n\nThis is about 17 per cent higher at the midpoint than its current DPU of US$0.036, noted its CEO John Stewart in an earnings call on Tuesday (Oct 27).\n\nIt is the first formal forward guidance the pure-play data centre Reit has given regarding its DPU.\n\nDriving the increase in the DPU is the beginning of its Linton Hall lease, which will begin its 10-year lease starting in December, as well as the full year’s contribution from its manager asset swap with Digital Realty, said Stewart.\n\nHe noted that the Linton Hall facility – which has been vacant since a previous tenant left in June 2025 – is “on track and on budget” to begin operations soon.\n\nIn addition to the DPU guidance, the Reit manager also guided cash rental reversion to be in the positive mid-single digits in 2027.\n\nDigital Core Reit also expects portfolio occupancy to be about 50 basis points over or under its current value. In addition, it forecasts the average interest rate to be between 3.25 per cent and 3.75 per cent.\n\nThe guidance comes off the back of a proposed major portfolio revamp that marked its entry into Singapore, and grew its presence in Japan alongside its divestments in three North American assets.\n\nThe Reit’s manager noted then that the sale of interests in its Los Angeles, Toronto and Northern Virginia facilities is expected to generate gross proceeds of some US$315.9 million.\n\nThe partial-interest purchases of data centres in Singapore and Osaka is estimated to represent a total investment of around US$176 million, the manager said at the time.\n\n## Dip in 9M results due to lack of contribution\n\nDistributable income of the Reit fell 1.1 per cent to US$34.8 million for the nine months ended Sep 30, from US$35.2 million in the year-ago period.\n\nRevenue rose 1.6 per cent year on year to US$134.5 million from US$132.4 million, the manager said in a Tuesday (Oct 27) bourse filing.\n\nNet property income (NPI) of the pure-play data centre Reit stood at US$64.8 million, down 4.3 per cent from US$67.7 million previously.\n\nStewart attributed the dip in NPI to the lack of contribution from the Linton Hall facility.\n\nLinton Hall contributed to the NPI for six months in 2025 and zero in 2026, he added.\n\nAs at Sep 30, the Reit had 11 data centres and assets under management worth US$1.9 billion, with 65 per cent in North America, 24 per cent in Germany and 11 per cent in Japan.\n\nPortfolio weighted average of leasing expiry (Wale) stood at four years, while in-service portfolio occupancy stood at 97 per cent.\n\nFollowing the portfolio change – which Stewart expects to be completed in the fourth quarter – the Reit’s pro forma assets under management will dip slightly to US$1.8 billion, with 52 per cent of its assets in North America, 26 per cent in Germany, 18 per cent in Japan and 4 per cent in Singapore.\n\nIn addition, the number of data centres the Reit will have under its belt will fall to 10, while Wale will stand at five years with a 99 per cent occupancy.\n\nUnitholders approved the deal in an extraordinary general meeting on Oct 22, with 99.92 per cent of the votes cast in favour.\n\nUnits of Digital Core Reit ended Tuesday flat at US$0.44, before the announcement.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/digital-core-reit-guides-about-17-dpu-growth-2027-9m-distributable-income-dips-1-1"
+    },
+    {
+      "id": "2026-10-28-f0b234",
+      "title": "Seatrium and Karpowership plan to build floating power, data centers in Singapore",
+      "summary": "Seatrium and Karpowership signed an MOU to develop integrated floating platforms combining power generation and data center infrastructure in Singapore. The partnership aims to leverage Seatrium's offshore engineering expertise with Karpowership's floating power plant technology to address land scarcity and power constraints for digital infrastructure expansion.",
+      "why_it_matters": "Singapore faces severe land and power limitations that have constrained data center growth, with the government imposing moratoriums and strict capacity caps. Floating infrastructure offers a novel workaround to these constraints, potentially allowing Singapore to expand its digital economy without consuming scarce land resources. If proven viable, this model could be replicated in other land-constrained APAC hubs like Hong Kong and Tokyo, reshaping how the region approaches data center site selection.",
+      "score": 75,
+      "heat": 3,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "floating",
+        "innovation",
+        "infrastructure"
+      ],
+      "published_at": "2026-10-27T10:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/seatrium-and-karpowership-plan-to-build-floating-power-data-centers-in-singapore/",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/construction-site-development/seatrium-and-karpowership-to-build-floating-power-data-centers-in-singapore/135264976",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/seatrium-karpowership-develop-floating-power-digital-infrastructure-solutions-singapore",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Seatrium",
+        "Karpowership"
+      ],
+      "title_zh": "Seatrium与Karpowership计划在新加坡建设浮动电力及数据中心",
+      "summary_zh": "Seatrium 与 Karpowership 签署谅解备忘录，计划在新加坡开发集成 floating power 与 data center 的浮动平台。该合作将结合 Seatrium 的 offshore engineering 专业能力与 Karpowership 的 floating power plant 技术，以应对数字基础设施扩张面临的土地稀缺和电力约束问题。",
+      "why_zh": "新加坡面临严重的土地和电力限制，政府已实施 moratorium 和严格的容量上限，制约了 data center 增长。floating infrastructure 为这些约束提供了创新的解决方案，可能使新加坡在不消耗稀缺土地资源的情况下扩展其数字经济。如果该模式被证明可行，可能会被香港和东京等其他土地受限的 APAC 枢纽复制，从而重塑该地区 data center site selection 的方式。",
+      "content": "Seatrium Limited, a Singapore-based engineering company specializing in offshore, marine, and energy infrastructure solutions, has entered into a memorandum of understanding (MOU) with Karpowership, an operator of floating power plants, to build out floating power and infrastructure solutions in Singapore.\n\nAs stated in a press release, Seatrium and Karpowership intend to create an integrated platform, combining infrastructure development, financing, engineering, construction, and operations, to develop and deploy floating infrastructure that may include powerships, floating data centers, turbine-based or hybrid vessels, and floating nuclear solutions.\n\nThe collaboration brings together Seatrium’s offshore engineering, procurement, construction, and systems integration capabilities and Karpowership’s expertise in developing, financing, owning, and operating floating power and digital infrastructure.\n\n“As demand for power and digital infrastructure accelerates, our industry has an opportunity to develop new solutions that combine speed of deployment, flexibility and scale. Building on our longstanding strategic relationship with Karpowership, we aim to strengthen Singapore’s status as a hub for next-generation floating energy and digital infrastructure, using the best-available technologies, including hydrogen-ready power generation,” said Chris Ong, Seatrium Chief Executive Officer.\n\nThe companies have said that in the coming months they will progress discussions toward forming a joint venture, subject to the negotiation and execution of definitive agreements and the necessary approvals.\n\n“Karpowership has pioneered floating power infrastructure worldwide, expanding its capabilities to deliver gigawatt-scale, behind-the-meter power solutions for the most developed markets, floating digital infrastructure and turnkey data centre solutions spanning the entire value chain. Karpowership’s decades-long relationships with OEMs and technology partners, including Seatrium, now extend to a global network of commercial partnerships, including with hyperscalers,” said Orhan Remzi Karadeniz, Karpowership CEO.\n\nThe MOU comes at a time when Singapore’s peak electricity demand is set to grow between 2.4 and 4.8 percent annually to reach up to 11.4 GW by 2031, according to the Energy Market Authority. Demand, the authority says, is being driven by strong economic growth, transport electrification, and the expansion of energy-intensive sectors such as semiconductor manufacturing and data centers.",
+      "content_url": "https://w.media/seatrium-and-karpowership-plan-to-build-floating-power-data-centers-in-singapore/"
     },
     {
       "id": "2026-10-28-6ef355",
@@ -452,32 +1583,37 @@
       "content_url": "https://w.media/cdc-says-it-achieved-2030-net-zero-target-four-years-early/"
     },
     {
-      "id": "2026-10-28-12fcd5",
-      "title": "ARC Cloud and Compal sign MOU eyeing 100 MW of AI data center capacity",
-      "summary": "Accelerated Research Computing (ARC Cloud), a neocloud company specializing in the investment, development, and operation of large-scale artificial intelligence computing infrastructure, has signed a memorandum of understanding (MOU) with Compal Electronics, Inc., a manufacturer of computers and smart devices, to advance their strategic collaboration in large-scale AI infrastructure. The companies will explore opportunities related to […]",
+      "id": "2026-10-28-7b6d47",
+      "title": "AI boom sparks circuit board crunch across global tech supply chain",
+      "summary": "TAIPEI -- As executives at PC makers, including HP and Dell, map out their supply needs for 2027, a mundane component has emerged as an unlikely concern.",
       "why_it_matters": "",
-      "score": null,
+      "score": 55,
       "heat": 2,
       "regions": [
         "global"
       ],
-      "topics": [],
-      "published_at": "2026-10-27T09:02:50Z",
+      "topics": [
+        "ai",
+        "chips",
+        "supply-chain"
+      ],
+      "published_at": "2026-10-27T04:08:32Z",
       "featured": false,
       "sources": [
         {
-          "name": "W.Media",
-          "url": "https://w.media/arc-cloud-and-compal-sign-mou-eyeing-100-mw-of-ai-data-center-capacity/",
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/spotlight/supply-chain/ai-boom-sparks-circuit-board-crunch-across-global-tech-supply-chain",
           "type": "rss"
         },
         {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/arc-cloud-and-compal-ink-mou-for-100-mw-ai-data-center-capacity/135233439",
-          "type": "rss"
+          "name": "Nikkei Asia — data center search",
+          "url": "https://asia.nikkei.com/spotlight/supply-chain/ai-boom-sparks-circuit-board-crunch-across-global-tech-supply-chain",
+          "type": "html-list"
         }
       ],
-      "content": "Accelerated Research Computing (ARC Cloud), a neocloud company specializing in the investment, development, and operation of large-scale artificial intelligence computing infrastructure, has signed a memorandum of understanding (MOU) with Compal Electronics, Inc., a manufacturer of computers and smart devices, to advance their strategic collaboration in large-scale AI infrastructure.\n\nThe companies will explore opportunities related to a data center development roadmap of up to 100 MW. The partnership aligns with ARC Cloud’s plans for expansion through capital investments in AI infrastructure and data center developments across the United States, according to a press release.\n\n“AI customers need more than access to GPUs. They need computing environments that can deliver consistent performance for demanding workloads,” said William Tiah, ARC Cloud co-founder. “Working with Compal allows us to bring system engineering and infrastructure planning closer together, helping us build and operate reliable GPU clusters as demand for AI computing continues to grow.”\n\nUnder the MOU, Compal will contribute its expertise in AI server manufacturing, rack-scale integration, and liquid-cooling technologies. ARC Cloud will bring its capabilities in infrastructure investment, technology partnerships, and the engineering and operation of high-performance GPU clusters. The collaboration will also encompass system engineering, technical validation, deployment coordination, and ongoing support.\n\nThe companies aim to deliver compute capacity for AI model training, fine-tuning, and inference by aligning advanced compute technology with infrastructure requirements.\n\n“AI computing is moving toward increasingly integrated, high-density systems that require closer coordination between technology manufacturers and infrastructure providers,” said Alan Chang, Compal Vice President of Infrastructure Systems Business Group. “Our partnership with ARC Cloud allows us to build on our engineering strengths and explore new opportunities to support the growing NeoCloud market.”\n\nThe AI infrastructure market is expected to balloon in value from US$ 101.2 billion in 2026 to US$ 237.4 billion by 2032, according to the latest analysis from Mordor Intelligence. Hardware holds the lion’s share of the market value, and cloud operators are renting capacity from one another to meet demand for training capacity from AI startups, highlighting a growing need for infrastructure the partnership between ARC Cloud and Compal is aiming to address.",
-      "content_url": "https://w.media/arc-cloud-and-compal-sign-mou-eyeing-100-mw-of-ai-data-center-capacity/"
+      "title_zh": "AI热潮引发全球科技供应链circuit board紧缺",
+      "content": "TAIPEI -- As executives at PC makers, including HP and Dell, map out their supply needs for 2027, a mundane component has emerged as an unlikely concern.\n\nSupply Chain\n# AI boom sparks circuit board crunch across global tech supply chain\n\nOnce commoditized, PCBs have now become essential AI building blocks\n\nCircuit boards have been transformed to meet the sophisticated demands of AI servers. (Photo by Cheng Ting-fang)",
+      "content_url": "https://asia.nikkei.com/spotlight/supply-chain/ai-boom-sparks-circuit-board-crunch-across-global-tech-supply-chain"
     }
   ]
 }
