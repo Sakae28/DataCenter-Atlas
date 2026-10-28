@@ -14,6 +14,7 @@ import os
 import re
 import shutil
 import subprocess
+import time
 from urllib.parse import urlsplit, urlunsplit
 
 log = logging.getLogger(__name__)
@@ -230,6 +231,9 @@ def _make_api_client():
     return OpenAI(
         api_key=api_key,
         base_url=os.environ.get("LLM_BASE_URL", "https://api.openai.com/v1"),
+        # _api_chat_json owns 429 retries so every attempt respects the
+        # configured rate-limit backoff instead of the SDK's short delays.
+        max_retries=0,
     )
 
 
@@ -275,8 +279,15 @@ def select_backend():
     return None
 
 
+_last_api_request_at = 0.0
+_API_RATE_LIMIT_ATTEMPTS = 6
+
+
 def _api_chat_json(client, system: str, user: str):
+    global _last_api_request_at
     model = os.environ.get("LLM_MODEL", "gpt-4o-mini")
+    min_interval = max(0.0, float(os.environ.get(
+        "LLM_MIN_INTERVAL_SECONDS", "0")))
     kwargs = {
         "model": model,
         "messages": [
@@ -292,8 +303,25 @@ def _api_chat_json(client, system: str, user: str):
         kwargs["extra_body"] = {"thinking": {"type": "disabled"}}
     else:
         kwargs["temperature"] = 0.2
-    resp = client.chat.completions.create(**kwargs)
-    return parse_json(resp.choices[0].message.content or "")
+
+    for attempt in range(_API_RATE_LIMIT_ATTEMPTS):
+        wait = min_interval - (time.monotonic() - _last_api_request_at)
+        if wait > 0:
+            time.sleep(wait)
+        _last_api_request_at = time.monotonic()
+        try:
+            resp = client.chat.completions.create(**kwargs)
+            return parse_json(resp.choices[0].message.content or "")
+        except Exception as exc:  # noqa: BLE001
+            if (getattr(exc, "status_code", None) != 429
+                    or attempt == _API_RATE_LIMIT_ATTEMPTS - 1):
+                raise
+            delay = max(21.0, min_interval) * (attempt + 1)
+            log.warning("LLM rate limited (429); retrying in %ds "
+                        "(attempt %d/%d)", delay, attempt + 2,
+                        _API_RATE_LIMIT_ATTEMPTS)
+            time.sleep(delay)
+    raise AssertionError("unreachable")
 
 
 def _kimi_chat_json(system: str, user: str):

@@ -84,6 +84,9 @@ jobs:
           LLM_API_KEY: ${{ secrets.MOONSHOT_API_KEY }}
           LLM_BASE_URL: https://api.moonshot.cn/v1
           LLM_MODEL: kimi-k2.6
+          # This account is capped at 3 requests/minute. Pace every LLM
+          # step (including project extraction/arbitration) through one gate.
+          LLM_MIN_INTERVAL_SECONDS: "21"
         run: python pipeline/run.py
 
       - name: Commit and push data

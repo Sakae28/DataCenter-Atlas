@@ -34,6 +34,7 @@ environment / CI secrets):
 | `LLM_API_KEY` | _(unset)_                   | OpenAI-compatible API key (`api` backend) |
 | `LLM_BASE_URL`| `https://api.openai.com/v1` | Chat completions endpoint (`api` only)    |
 | `LLM_MODEL`   | `gpt-4o-mini`               | Model for all LLM steps (`api` only)      |
+| `LLM_MIN_INTERVAL_SECONDS` | `0`            | Minimum delay between API requests; cloud uses `21` for Moonshot's 3 RPM cap |
 | `FETCH_FULLTEXT` | `1`                      | `0` skips full-text extraction            |
 
 Backend selection:
