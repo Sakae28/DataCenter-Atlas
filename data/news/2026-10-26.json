@@ -10,40 +10,6 @@
   ],
   "stories": [
     {
-      "id": "2026-10-26-9866f7",
-      "title": "Nextdc CEO to forgo bonus after Australia data centre delay",
-      "summary": "(Oct 26): Nextdc Ltd’s chief executive officer will give up his short-term and long-term bonuses for the 2027 financial year after the Australia data centre developer warned delayed power supply at one of its major projects in Melbourne would hit profits.",
-      "why_it_matters": "Power delays are now hitting developers' profit forecasts hard enough to trigger executive-level accountability, signaling how exposed the sector is to grid constraints. For customers and investors, the episode underscores that delivery timelines in Australia increasingly depend on utility-side infrastructure rather than developer capability.",
-      "score": 82,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "data center",
-        "power",
-        "investment",
-        "earnings"
-      ],
-      "published_at": "2026-10-26T03:02:57Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/823198",
-          "type": "html-list"
-        }
-      ],
-      "content": "“The board and management are focused on two priorities: working with our customer and the electricity distributor to minimise the impact of the M3 power delay, as well as earning back the confidence of our investors and other stakeholders,” chairman Douglas Flynn said in a statement ahead of the company’s annual general meeting next month.\n\nFlynn and the company’s non-executive directors agreed to a 10% reduction in their fees, the statement said, adding that the board had also withdrawn a resolution to seek shareholder approval to increase the maximum annual remuneration of non-executive directors to A$2.5 million, from A$2.2 million\n\nCEO Craig Scroggie will not receive any cash or other award in place of his relinquished incentives.\n\nLast week’s news of the delay at the company’s M3 data centre in the Western suburbs of Melbourne prompted the biggest drop in its share price since the company listed in 2010.\n\nFlynn reaffirmed his intention to retire from the board once a new chairman is in place, after a short handover period.\n\nGlobal search and board advisory firm Spencer Stuart has been hired to find an independent non-executive director and a new chair, according to the statement. The new board members will ideally have data centre, energy or infrastructure development and capital management experience, Nextdc said.\n\n*Uploaded by Liza Shireen Koshy*",
-      "content_url": "https://theedgemalaysia.com/node/823198",
-      "companies": [
-        "NEXTDC"
-      ],
-      "title_zh": "Nextdc CEO因澳大利亚数据中心项目延期放弃奖金",
-      "summary_zh": "（10月26日）：在澳大利亚数据中心开发商 Nextdc Ltd 警告称其在墨尔本一个主要项目的电力供应延迟将冲击利润后，该公司首席执行官将放弃2027财年短期和长期奖金。",
-      "why_zh": "电力交付延迟如今已严重冲击开发商的利润预测，甚至引发高管层面的问责，凸显出该行业对电网瓶颈的暴露程度之深。对客户和投资者而言，这一事件表明，澳大利亚的项目交付时间表日益取决于公用事业侧的基础设施，而非开发商自身的能力。"
-    },
-    {
       "id": "2026-10-26-78ca1a",
       "title": "Singapore-linked data center projects face growing rejection in Indonesia",
       "summary": "PURWAKARTA/MEDAN, Indonesia -- Juniadi Adinda has lived in a village on Batam, an Indonesian island a roughly one-hour ferry ride away from Singapore, for 26 years, during which he never had any…",
@@ -77,7 +43,8 @@
       "content_url": "https://asia.nikkei.com/business/technology/singapore-linked-data-center-projects-face-growing-rejection-in-indonesia",
       "title_zh": "与新加坡有关联的数据中心项目在印尼遭拒情况日益增多",
       "summary_zh": "印尼普尔瓦卡尔塔/棉兰讯——Juniadi Adinda 在巴淡岛的村庄生活了26年。巴淡岛是印尼一座岛屿，距新加坡约一小时渡轮航程，在此期间他从未有过任何…",
-      "why_zh": "社会许可正成为印尼数据中心雄心的真实瓶颈，可能拖累那些新加坡关联运营商原本寄予厚望的项目管线。开发商需要拿出可信的本地利益共享、水资源管理和社区参与策略，否则印尼可能沦为比邻国马来西亚和泰国摩擦更大的市场。"
+      "why_zh": "社会许可正成为印尼数据中心雄心的真实瓶颈，可能拖累那些新加坡关联运营商原本寄予厚望的项目管线。开发商需要拿出可信的本地利益共享、水资源管理和社区参与策略，否则印尼可能沦为比邻国马来西亚和泰国摩擦更大的市场。",
+      "published_precision": "day"
     },
     {
       "id": "2026-10-26-a20297",
@@ -112,6 +79,40 @@
       "title_zh": "报道称软银计划在马来西亚投资500亿美元建设数据中心",
       "summary_zh": "彭博社援引马来西亚首相安瓦尔·易卜拉欣的话报道称，SoftBank Group 计划在马来西亚投资500亿美元，瞄准人工智能和数据中心领域。安瓦尔上周六表示，他于周二与 SoftBank 创始人、董事长兼CEO孙正义进行了视频会议，后者表示正在关注某些地区[…]",
       "why_zh": "如果得到证实，500亿美元的承诺将立即使马来西亚成为该地区最大的数据中心战场之一，加剧其与新加坡、柔佛毗邻走廊以及印尼之间对 hyperscale 和 AI 工作负载的竞争。目标地区的电力供应能力和电网就绪程度，将决定这笔资本能否转化为实际运营容量。"
+    },
+    {
+      "id": "2026-10-26-9866f7",
+      "title": "Nextdc CEO to forgo bonus after Australia data centre delay",
+      "summary": "(Oct 26): Nextdc Ltd’s chief executive officer will give up his short-term and long-term bonuses for the 2027 financial year after the Australia data centre developer warned delayed power supply at one of its major projects in Melbourne would hit profits.",
+      "why_it_matters": "Power delays are now hitting developers' profit forecasts hard enough to trigger executive-level accountability, signaling how exposed the sector is to grid constraints. For customers and investors, the episode underscores that delivery timelines in Australia increasingly depend on utility-side infrastructure rather than developer capability.",
+      "score": 82,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "data center",
+        "power",
+        "investment",
+        "earnings"
+      ],
+      "published_at": "2026-10-26T03:02:57Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/823198",
+          "type": "html-list"
+        }
+      ],
+      "content": "“The board and management are focused on two priorities: working with our customer and the electricity distributor to minimise the impact of the M3 power delay, as well as earning back the confidence of our investors and other stakeholders,” chairman Douglas Flynn said in a statement ahead of the company’s annual general meeting next month.\n\nFlynn and the company’s non-executive directors agreed to a 10% reduction in their fees, the statement said, adding that the board had also withdrawn a resolution to seek shareholder approval to increase the maximum annual remuneration of non-executive directors to A$2.5 million, from A$2.2 million\n\nCEO Craig Scroggie will not receive any cash or other award in place of his relinquished incentives.\n\nLast week’s news of the delay at the company’s M3 data centre in the Western suburbs of Melbourne prompted the biggest drop in its share price since the company listed in 2010.\n\nFlynn reaffirmed his intention to retire from the board once a new chairman is in place, after a short handover period.\n\nGlobal search and board advisory firm Spencer Stuart has been hired to find an independent non-executive director and a new chair, according to the statement. The new board members will ideally have data centre, energy or infrastructure development and capital management experience, Nextdc said.\n\n*Uploaded by Liza Shireen Koshy*",
+      "content_url": "https://theedgemalaysia.com/node/823198",
+      "companies": [
+        "NEXTDC"
+      ],
+      "title_zh": "Nextdc CEO因澳大利亚数据中心项目延期放弃奖金",
+      "summary_zh": "（10月26日）：在澳大利亚数据中心开发商 Nextdc Ltd 警告称其在墨尔本一个主要项目的电力供应延迟将冲击利润后，该公司首席执行官将放弃2027财年短期和长期奖金。",
+      "why_zh": "电力交付延迟如今已严重冲击开发商的利润预测，甚至引发高管层面的问责，凸显出该行业对电网瓶颈的暴露程度之深。对客户和投资者而言，这一事件表明，澳大利亚的项目交付时间表日益取决于公用事业侧的基础设施，而非开发商自身的能力。"
     },
     {
       "id": "2026-10-26-f96430",
