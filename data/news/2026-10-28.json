@@ -3,10 +3,10 @@
   "generated_at": "2026-10-28T15:09:51Z",
   "hot": [
     "2026-10-28-d32cc7",
+    "2026-10-28-adfeca",
     "2026-10-28-f0b234",
-    "2026-10-28-d51cec",
-    "2026-10-28-aa6d9d",
-    "2026-10-28-bd8b2c"
+    "2026-10-28-4046e9",
+    "2026-10-28-d51cec"
   ],
   "stories": [
     {
@@ -296,7 +296,8 @@
       ],
       "title_zh": "Jati Tinggi第三季度净利润翻倍以上，因数据中心项目贡献增强",
       "content": "KUALA LUMPUR (Oct 28): Jati Tinggi Group Bhd (KL:JTGROUP) on Wednesday reported a more than two-fold increase in quarterly net profit from a year earlier, driven by higher revenue from power infrastructure and underground cable projects, particularly those linked to data centres.\n\nNet profit for the third financial quarter ended Aug 31, 2026 (3QFY2026) rose to RM8.01 million from RM3.18 million, while revenue nearly tripled to RM156.05 million from RM52.96 million, according to the group's filing with Bursa Malaysia.\n\nJati Tinggi attributed the stronger performance to higher contributions from its substation engineering, procurement, construction and commissioning (EPCC) business, as well as underground utilities engineering services.\n\nMajor revenue contributors included a 275kV bulk power supply connection for a data centre in Johor, underground cable relocation works at Bandar Sri Pinang, and power infrastructure projects in Cyberjaya and Pasir Gudang.\n\nOn a quarter-on-quarter basis, revenue jumped 77.74% from RM87.8 million in 2QFY2026, mainly due to increased project activities and progress.\n\nHowever, net profit declined from RM9.85 million in the preceding quarter as the group undertook more projects with lower profit margins. The previous quarter also benefitted from a RM2.31 million gain arising from its acquisition of a controlling stake in Roflex Pipe Sdn Bhd.\n\nNo dividend was declared for the quarter.\n\nFor the first nine months of FY2026, net profit more than tripled to RM18.96 million from RM5.86 million, while revenue surged to RM318.29 million from RM110.15 million.\n\nLooking ahead, Jati Tinggi said it remains optimistic about its prospects, supported by continued demand for power infrastructure and data centre-related projects.\n\nThe group secured RM907.13 million worth of projects, including joint venture contracts, between December 2025 and Oct 22, 2026.\n\nIts outstanding order book stood at RM1.4 billion as at Oct 22, providing earnings visibility for the next two to three financial years, said Jati Tinggi.\n\nAmong its recent wins was a RM30.1 million contract secured earlier this month to build power infrastructure for a data centre in Kulai, Johor.\n\nSeparately, Jati Tinggi said its wholly owned subsidiary, Jati Tinggi Holding Sdn Bhd, received two additional letters of award worth RM2.25 million from Public Bank Bhd (KL:PBBANK) for solar panel installation works, bringing the total contract value awarded under the project to RM10.06 million.\n\nJati Tinggi shares closed one sen or 0.78% higher at RM1.29 on Wednesday, valuing the group at RM571.4 million.\n\nEdited ByS Kanagaraju\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/823688"
+      "content_url": "https://theedgemalaysia.com/node/823688",
+      "published_precision": "day"
     },
     {
       "id": "2026-10-28-9d9983",
@@ -326,7 +327,9 @@
       "companies": [
         "Microsoft",
         "Blueleaf Energy",
-        "Macquarie"
+        "Macquarie",
+        "Nxera Singapore",
+        "Sembcorp"
       ],
       "title_zh": "Microsoft与麦格理支持的Blueleaf Energy在日本签署两份购电协议",
       "content": "Microsoft has signed two solar Power Purchase Agreements (PPAs) in Japan with Macquarie Asset Management's portfolio company, Blueleaf Energy.\n\nDetails on the PPA are sparse, and the companies have not disclosed the capacity, contract length, or location of the solar farms. *DCD* has reached out for further information.\n\nUnder the terms of the agreements, which were coordinated by Macquarie’s Energy Markets and Customer Solutions team, Microsoft will act as the sole offtaker for the projects. The undisclosed projects are currently entering construction under a build-own-operate model, scheduled to start commercial operations in mid-2027.\n\nEd Northam, global head of MAM Green Investments, said: “These agreements reflect a relationship that has grown through successful collaboration across multiple markets. We are pleased to work with Microsoft again, supporting its business goals through tailored clean energy solutions that help meet growing global demand for cost-efficient, low-carbon power that can be delivered quickly.”\n\n“Our collaboration with Microsoft is more than a commercial agreement; it is a shared blueprint for a decarbonized future. By bridging the energy landscapes of Japan and India, we are setting a new benchmark for how regional expertise and collaboration can accelerate the delivery of much-needed new generation capacity. These new PPAs in Japan stem from a trust built on the foundation of our successful delivery of the Pachora Hybrid Power Project in India,” added Raghuram Natarajan, CEO of Blueleaf Energy.\n\nBlueleaf Energy is a major player in the Japanese solar market with a portfolio of almost 1.2GW of projects in various stages of deployment. According to the company, many of the projects include battery energy storage.\n\nThe deals build on an already existing relationship between Macquarie and Microsoft, with the companies working together since 2020. According to Macquarie, it has 540MW of capacity tied to power purchase agreements with Microsoft across the UK, Spain, and India.\n\nThe PPAs follow a major investment pledge by Microsoft into the Japanese market earlier this year. In April, the hyperscaler pledged a $10 billion investment in AI and cloud capabilities in Japan through the end of 2029.\n\nMicrosoft opened its Japanese data centers in 2014. Japan East is located in the Saitama Prefecture near Tokyo, while Japan West is in the Osaka Prefecture. The cloud giant has also previously signed PPAs with Shizen Energy in the country in 2023 and 2025.",
@@ -511,7 +514,7 @@
       "summary": "States without sufficient water supply will not be allowed to host data centres, even if land is available, as Malaysia tightens its approval process for new projects, Investment, Trade and Industry Minister Datuk Seri Johari Abdul Ghani said.",
       "why_it_matters": "",
       "score": 75,
-      "heat": 1,
+      "heat": 3,
       "regions": [
         "southeast-asia"
       ],
@@ -528,11 +531,22 @@
           "name": "The Edge Malaysia — data centre search",
           "url": "https://theedgemalaysia.com/node/823645",
           "type": "html-list"
+        },
+        {
+          "name": "W.Media",
+          "url": "https://w.media/no-data-center-moratorium-for-malaysia-but-states-with-insufficient-water-cant-host-data-centers-minister/",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/malaysia-restricts-data-centers-in-states-with-insufficient-water/135290215",
+          "type": "rss"
         }
       ],
       "title_zh": "Johari Ghani表示，供水不足的州不允许建设数据中心",
       "content": "KUALA LUMPUR (Oct 28): States without sufficient water supply will not be allowed to host data centres, even if land is available, as Malaysia tightens its approval process for new projects, Investment, Trade and Industry Minister Datuk Seri Johari Abdul Ghani said.\n\nMalaysia has no plans to impose a blanket moratorium on new data centres but will assess applications based on water availability, electricity supply and investors’ financial strength before granting approval.\n\nJohari told the Dewan Rakyat during the winding-up debate on Budget 2027 on Wednesday that the Malaysian Investment Development Authority (Mida) will work with state governments to assess water requirements, while electricity availability will be evaluated in consultation with Tenaga Nasional Bhd (KL:TENAGA).\n\nThe government has approved 117 data centres nationwide, of which 55 are operational, 19 are under construction and 16 have received approval but have yet to begin construction. The remaining 27 are at various stages of development, with their electricity needs expected to be met through off-grid arrangements.\n\nTo protect Tenaga Nasional’s reserve margin and ensure sufficient electricity for other industries, the government has separated data centres’ electricity requirements from those of other industrial users.\n\nData centres supplied with electricity through Tenaga Nasional will be charged market rates without subsidies, Johari said. Operators must also pay for their contracted electricity capacity even if their actual consumption is lower.\n\nFor example, an operator that contracts for 300 megawatts (MW) but uses only 100MW must still pay for the remaining 200MW.\n\nData centre operators will also be required to meet a minimum local content requirement of 30% for data centre-related development.\n\nJohari said the measures aim to ensure that data centre investments benefit Malaysia while taking into account the country’s water and electricity resources.\n\n*For more Parliament stories, click here.*\n\nEdited ByPresenna Nambiar\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/823645"
+      "content_url": "https://theedgemalaysia.com/node/823645",
+      "published_precision": "day"
     },
     {
       "id": "2026-10-28-97b173",
@@ -620,7 +634,8 @@
       "summary_zh": "某未指明地区的当局威胁要切断违规运营数据中心的电力供应。该执法措施针对可能绕过许可、环境或安全要求的设施。",
       "why_zh": "断电威胁代表了从罚款到运营关闭的升级，为不合规运营商创造了生存风险。在越南、印度尼西亚和中国部分地区等非正式数据中心建设激增的市场，这种执法方式可能引发整合，因为小型玩家将出售给具有监管专业知识的大型开发商，同时收紧二级市场的供应。",
       "content": "Data centres that fail to comply with a federal government mandate to use green electricity sources could have their power switched off under strict new rules designed to limit their impact on the grid and avoid price spikes.\n\nThe new requirements, which Energy Minister Chris Bowen formally submitted to the grid rulemaker on Wednesday, would force data centres to source round-the-clock power from entirely new renewable sources located in the same state.\n\nLoading...",
-      "content_url": "https://www.afr.com/policy/energy-and-climate/rule-breaking-data-centres-to-have-power-switched-off-20261028-p619f5"
+      "content_url": "https://www.afr.com/policy/energy-and-climate/rule-breaking-data-centres-to-have-power-switched-off-20261028-p619f5",
+      "published_precision": "day"
     },
     {
       "id": "2026-10-28-a6aeb9",
@@ -628,7 +643,7 @@
       "summary": "Indonesian AI infrastructure platform Zankore, backed by Nvidia, is syndicating a $3.1 billion loan to finance GPU acquisitions. The deal represents one of the largest debt financings for AI infrastructure in emerging Asia.",
       "why_it_matters": "Zankore's $3.1 billion GPU loan demonstrates that emerging market AI infrastructure can attract institutional debt at scale, but the reliance on Nvidia backing suggests such financing remains dependent on brand-name guarantees. For Indonesia, the deal accelerates domestic AI compute capacity that has lagged Singapore and Malaysia, though questions remain whether local demand can absorb the GPU fleet profitably or if Zankore will become a speculative infrastructure play dependent on regional cloud customers.",
       "score": 80,
-      "heat": 1,
+      "heat": 2,
       "regions": [
         "southeast-asia"
       ],
@@ -645,17 +660,24 @@
           "name": "The Edge Malaysia — data centre search",
           "url": "https://theedgemalaysia.com/node/823601",
           "type": "html-list"
+        },
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/zankore-secures-usd-3-1-billion-loan-for-ai-build",
+          "type": "rss"
         }
       ],
       "companies": [
         "NVIDIA",
-        "Zankore"
+        "Zankore",
+        "ZanKore"
       ],
       "title_zh": "NVIDIA支持的Zankore推出31亿美元GPU贷款进入市场",
       "summary_zh": "由 Nvidia 支持的印尼 AI 基础设施平台 Zankore 正在银团分销一笔 31 亿美元的贷款，用于 GPU 采购。该交易代表了新兴亚洲地区最大的 AI 基础设施债务融资之一。",
       "why_zh": "Zankore 的 31 亿美元 GPU 贷款表明，新兴市场 AI 基础设施可以大规模吸引机构债务，但对 Nvidia 支持的依赖表明此类融资仍依赖于品牌担保。对印尼而言，该交易加速了落后于新加坡和马来西亚的国内 AI 计算能力，但问题在于本地需求能否盈利性消化这批 GPU 集群，或者 Zankore 是否会成为一个依赖区域 cloud 客户的投机性基础设施项目。",
       "content": "(Oct 28): Zankore, an Indonesian artificial intelligence infrastructure platform backed by Nvidia Corp, is syndicating a US$3.1 billion (RM12.65 billion) loan to the broader market, according to people familiar with the matter, adding to a flurry of financing for Asia’s AI buildout.\n\nThe five-year loan, which funds the purchase of graphics processing units for Zankore’s new AI factory, will pay an interest margin of 330 basis points over the Secured Overnight Financing Rate, said the people, who asked not to be identified discussing private matters. United Overseas Bank Ltd and Citigroup Inc are among the five original underwriters marketing the deal, with other banks invited to join in the senior phase as underwriters or bookrunners, the people said.\n\nCitigroup and UOB declined to comment while Zankore did not respond to requests for comment.\n\nThe deal adds to a wave of debt financing backing Asia’s AI infrastructure boom, as regional lenders increasingly look beyond data centre construction to financing GPUs. Moody’s Ratings expects at least US$3 trillion in data centre-related investment over the next five years, even as investors scrutinise lofty AI valuations.\n\nBlackstone-owned AirTrunk secured a A$4.25 billion (RM12.19 billion) green loan for a Sydney data centre campus while Blue Owl Capital-owned Stack Infrastructure Inc is seeking a A$8.6 billion facility for a buildout in Melbourne.\n\nZankore’s financing is supported by a six-year contract with Nvidia that includes revenue sharing and credit support, helping reduce lenders’ repayment risk, the people said. The arrangement applies to any unsold compute capacity from an initial 100MW, they said.\n\nUS fintech companies are the offtakers, buying GPU compute capacity from Zankore, the people added.\n\n*Uploaded by Arion Yeow*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/823601"
+      "content_url": "https://theedgemalaysia.com/node/823601",
+      "published_precision": "day"
     },
     {
       "id": "2026-10-28-04e3b2",
@@ -717,7 +739,8 @@
       ],
       "title_zh": "NextDC在ASX降级后面临进一步抛售压力",
       "content": "NextDC is expected to be booted from the S&P/ASX 50 Index in the coming weeks, adding further pressure on the share price after a brutal earnings downgrade last week triggered one of the biggest single-day sell-offs ever for an ASX-listed company.\n\nThe shares plunged 42 per cent last Wednesday to a nine-year low after the data centre developer was forced to delay an expansion at its new flagship Melbourne site following a suburban revolt over new 22-metre power poles.\n\nLoading...",
-      "content_url": "https://www.afr.com/markets/equity-markets/nextdc-faces-further-selling-pressure-after-asx-demotion-20261028-p61982"
+      "content_url": "https://www.afr.com/markets/equity-markets/nextdc-faces-further-selling-pressure-after-asx-demotion-20261028-p61982",
+      "published_precision": "day"
     },
     {
       "id": "2026-10-28-5e1c20",
@@ -746,7 +769,8 @@
       ],
       "title_zh": "Fadillah：能源委员会正在为数据中心行业自发电设施制定综合指南",
       "content": "KUALA LUMPUR (Oct 28): The Energy Commission is developing a comprehensive framework and guidelines on self-generation facilities and the use of renewable energy for the data centre sector, said Deputy Prime Minister Datuk Seri Fadillah Yusof.\n\nHe said the initiative is in line with the government’s decision to require the sector to use at least 30% renewable energy.\n\nHe said the data centre industry was also encouraged to develop self-generation facilities through solar initiatives for its own consumption, to prevent an increase in electricity supply costs for other consumers.\n\n“This approach aims to increase the use of self-generated energy by the data centre sector while reducing its full dependence on electricity supplied by the national grid.\n\n“In addition, data centres need to be equipped with backup generators that can be utilised for demand control, particularly to reduce additional pressure on the grid system during critical periods and when operating reserves are low,” he said during the question-and-answer session in the Dewan Rakyat on Wednesday.\n\nHe was responding to a question from Wan Ahmad Fayhsal Wan Ahmad Kamal (PN-Machang) on the government’s contingency plan to ensure that data centre operations do not affect the people’s electricity and water supply during droughts or supply disruptions.\n\nFadillah said data centres were also encouraged to participate in the Corporate Renewable Energy Supply Scheme to obtain green energy supply directly.\n\nHe said every application for electricity supply for data centre development undergoes a comprehensive technical assessment by the Energy Focus Group before being brought to the Data Centre Task Force, taking into account the system’s capacity to supply electricity, the electricity transmission and distribution network, as well as infrastructure investment requirements.\n\nFadillah said that as of August 2026, contracted electricity demand from data centres stood at 2,346 megawatts (MW), while actual consumption was 1,374 MW, or 58.5%.\n\nHe said this was because the estimated electricity requirements submitted when applying for supply contracts did not necessarily correspond to actual consumption.\n\nIn response to a supplementary question from Wan Ahmad Fayhsal on the use of nuclear energy, Fadillah said the government was still considering its use as one of the country’s energy sources, with national preparedness as the priority to ensure energy supply and public safety.\n\nHe said matters relating to international agreements needed to be resolved first, in addition to ensuring compliance with the standards of the International Atomic Energy Agency, safety regulatory requirements, workforce capacity and technological suitability.\n\n*For more Parliament stories, click here.*\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/823576"
+      "content_url": "https://theedgemalaysia.com/node/823576",
+      "published_precision": "day"
     },
     {
       "id": "2026-10-28-aaeb27",
@@ -1470,7 +1494,7 @@
       "summary": "Thorney Investment Group founder Alex Waislitz said his company made a 23-times profit on its early investment in Firmus, blaming “conservative institutions” for killing the neocloud’s much-hyped $44…",
       "why_it_matters": "",
       "score": 55,
-      "heat": 1,
+      "heat": 3,
       "regions": [
         "australia"
       ],
@@ -1486,10 +1510,21 @@
           "name": "AFR — Data Centres topic",
           "url": "https://www.afr.com/companies/financial-services/alex-waislitz-makes-23-times-his-investment-in-firmus-20261027-p618q3",
           "type": "html-list"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/nvidia-talks-invest-more-ai-cloud-firm-firmus-after-ipo-flop-report",
+          "type": "html-list"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/823757",
+          "type": "html-list"
         }
       ],
       "companies": [
-        "Firmus"
+        "Firmus",
+        "NVIDIA"
       ],
       "title_zh": "Alex Waislitz在Firmus投资获得23倍回报",
       "published_precision": "day",
@@ -1716,7 +1751,8 @@
       ],
       "title_zh": "AI boom sparks circuit board crunch across global tech supply chain",
       "content": "TAIPEI -- As executives at PC makers, including HP and Dell, map out their supply needs for 2027, a mundane component has emerged as an unlikely concern.\n\nSupply Chain\n# AI boom sparks circuit board crunch across global tech supply chain\n\nOnce commoditized, PCBs have now become essential AI building blocks\n\nCircuit boards have been transformed to meet the sophisticated demands of AI servers. (Photo by Cheng Ting-fang)",
-      "content_url": "https://asia.nikkei.com/spotlight/supply-chain/ai-boom-sparks-circuit-board-crunch-across-global-tech-supply-chain"
+      "content_url": "https://asia.nikkei.com/spotlight/supply-chain/ai-boom-sparks-circuit-board-crunch-across-global-tech-supply-chain",
+      "published_precision": "day"
     }
   ]
 }

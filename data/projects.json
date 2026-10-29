@@ -73235,18 +73235,20 @@
       "status": "operational",
       "developer": null,
       "investor": null,
-      "investment": null,
-      "phases": null,
+      "investment": "AU$250 million (coNEXA water infrastructure)",
+      "phases": "phased delivery",
       "anchor_tenants": [],
       "power": null,
       "announced": null,
-      "construction_start": null,
+      "construction_start": "November",
       "rfs": null,
       "status_history": [],
-      "story_ids": [],
+      "story_ids": [
+        "2026-10-29-e78c9f"
+      ],
       "first_seen": "2026-08-17",
-      "last_updated": null,
-      "seed": true,
+      "last_updated": "2026-10-29",
+      "seed": false,
       "source": "datacentermap",
       "capacity_note": "built-out capacity per DataCenterMap",
       "lat": -33.82928,
@@ -103368,13 +103370,13 @@
       "status": "under_construction",
       "developer": null,
       "investor": null,
-      "investment": "AU$4.25 billion green loan",
+      "investment": "AUD $4.25 billion green loan",
       "phases": "Current expansion phase for SYD3 site due live in 2028",
       "anchor_tenants": [],
       "power": null,
       "announced": null,
       "construction_start": null,
-      "rfs": "2028",
+      "rfs": "mid-2028",
       "lat": null,
       "lon": null,
       "category": null,
@@ -103392,10 +103394,11 @@
         }
       ],
       "story_ids": [
-        "2026-10-28-2807f3"
+        "2026-10-28-2807f3",
+        "2026-10-29-e4df53"
       ],
       "first_seen": "2026-10-28",
-      "last_updated": "2026-10-28",
+      "last_updated": "2026-10-29",
       "seed": false
     },
     {
@@ -103561,7 +103564,48 @@
       "first_seen": "2026-10-28",
       "last_updated": "2026-10-28",
       "seed": false
+    },
+    {
+      "id": "iskandar-puteri-johor-dayone-johor-campus-2",
+      "name": "DayOne Johor Campus",
+      "operator": "DayOne Data Centers",
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "city": "Iskandar Puteri, Johor",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": "RM398.11 million (US$100 million) land purchase",
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-10-29",
+          "story_id": "2026-10-29-fbd8ef"
+        }
+      ],
+      "story_ids": [
+        "2026-10-29-fbd8ef"
+      ],
+      "first_seen": "2026-10-29",
+      "last_updated": "2026-10-29",
+      "seed": false
     }
   ],
-  "updated_at": "2026-10-28T15:21:48Z"
+  "updated_at": "2026-10-29T07:24:57Z"
 }
