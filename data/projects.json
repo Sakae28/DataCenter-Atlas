@@ -103605,7 +103605,132 @@
       "first_seen": "2026-10-29",
       "last_updated": "2026-10-29",
       "seed": false
+    },
+    {
+      "id": "ytl-power-international-bukit-kerayong-bukit-kerayong",
+      "name": "Bukit Kerayong",
+      "operator": "YTL Power International",
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "city": "Bukit Kerayong",
+      "capacity_mw": 4000,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-10-30",
+          "story_id": "2026-10-30-4f0f88"
+        }
+      ],
+      "story_ids": [
+        "2026-10-30-4f0f88"
+      ],
+      "first_seen": "2026-10-30",
+      "last_updated": "2026-10-30",
+      "seed": false,
+      "capacity_note": "total potential per research note"
+    },
+    {
+      "id": "quantum-dc-australian-data-center",
+      "name": "Quantum DC Australian data center",
+      "operator": "Quantum DC",
+      "region": "australia",
+      "country": "Australia",
+      "city": "",
+      "capacity_mw": null,
+      "status": "cancelled",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "cancelled",
+          "date": "2026-10-30",
+          "story_id": "2026-10-30-6df168"
+        }
+      ],
+      "story_ids": [
+        "2026-10-30-6df168"
+      ],
+      "first_seen": "2026-10-30",
+      "last_updated": "2026-10-30",
+      "seed": false,
+      "capacity_note": "gigawatt-scale proposed"
+    },
+    {
+      "id": "airtrunk-western-australia-gas-hub-data-centre",
+      "name": "Western Australia gas hub data centre",
+      "operator": "AirTrunk",
+      "region": "australia",
+      "country": "Australia",
+      "city": "",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": "stranded energy assets for power-intensive operations",
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-10-30",
+          "story_id": "2026-10-30-71be3e"
+        }
+      ],
+      "story_ids": [
+        "2026-10-30-71be3e"
+      ],
+      "first_seen": "2026-10-30",
+      "last_updated": "2026-10-30",
+      "seed": false
     }
   ],
-  "updated_at": "2026-10-29T07:24:57Z"
+  "updated_at": "2026-10-30T07:36:24Z"
 }

@@ -204,7 +204,7 @@
       "summary": "The South-east Asian nation is expected to attract more interest as a hub for the facilities",
       "why_it_matters": "",
       "score": null,
-      "heat": 4,
+      "heat": 5,
       "regions": [
         "southeast-asia"
       ],
@@ -230,6 +230,11 @@
         {
           "name": "W.Media",
           "url": "https://w.media/malaysia-could-attract-data-center-investment-amid-middle-east-conflict/",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/malaysia-attracts-data-center-investment-amid-middle-east-security-concerns/135309022",
           "type": "rss"
         }
       ],
