@@ -856,7 +856,7 @@
       "summary": "DayOne Data Centers has purchased 65 acres in Iskandar Puteri, Johor for RM398.11 million following shareholder approval from seller Paragon Globe Bhd. The land acquisition supports the company's planned greenfield data center development in Malaysia's fastest-growing data center corridor.",
       "why_it_matters": "The $100 million land outlay in Johor's saturated Iskandar Puteri submarket demonstrates continued conviction despite intensifying competition from AirTrunk, GDS, and domestic players, but also risks oversupply if power allocation lags behind speculative land banking. Paragon Globe's shareholder approval requirement suggests the transaction involved significant corporate restructuring, potentially indicating DayOne's willingness to absorb complex legacy liabilities to secure strategic footprint.",
       "score": 85,
-      "heat": 4,
+      "heat": 5,
       "regions": [
         "southeast-asia"
       ],
@@ -888,6 +888,11 @@
           "name": "W.Media",
           "url": "https://w.media/dayone-sembcorp-collaborate-on-energy-solutions-for-dayones-asian-data-centers/",
           "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/dayone-signs-mou-with-sembcorp-to-integrate-power-and-energy-solutions-across-apac-data-centers/",
+          "type": "rss"
         }
       ],
       "companies": [
@@ -895,7 +900,8 @@
         "Paragon Globe",
         "Sembcorp",
         "DayOne",
-        "Sembcorp Industries"
+        "Sembcorp Industries",
+        "Sembcorp Utilities"
       ],
       "title_zh": "DayOne Data Centers以1亿美元购入Johor土地",
       "summary_zh": "DayOne Data Centers以3.9811亿令吉（1亿美元）收购了Johor州Iskandar Puteri的65英亩土地，此前卖方Paragon Globe Bhd的股东已批准该交易。此次土地收购支持该公司在马来西亚增长最快的data center走廊进行greenfield data center开发计划。",

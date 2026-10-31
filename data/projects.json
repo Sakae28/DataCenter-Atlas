@@ -103730,7 +103730,48 @@
       "first_seen": "2026-10-30",
       "last_updated": "2026-10-30",
       "seed": false
+    },
+    {
+      "id": "ntt-global-data-centers-singapore-singapore-ai-factory",
+      "name": "Singapore AI Factory",
+      "operator": "NTT Global Data Centers",
+      "region": "southeast-asia",
+      "country": "Singapore",
+      "city": "Singapore",
+      "capacity_mw": null,
+      "status": "operational",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "operational",
+          "date": "2026-10-31",
+          "story_id": "2026-10-31-87c0a5"
+        }
+      ],
+      "story_ids": [
+        "2026-10-31-87c0a5"
+      ],
+      "first_seen": "2026-10-31",
+      "last_updated": "2026-10-31",
+      "seed": false
     }
   ],
-  "updated_at": "2026-10-30T07:36:24Z"
+  "updated_at": "2026-10-31T07:16:22Z"
 }
