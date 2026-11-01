@@ -1,0 +1,313 @@
+{
+  "type": "monthly",
+  "period": "2026-10",
+  "date_range": {
+    "start": "2026-10-01",
+    "end": "2026-10-31"
+  },
+  "generated_at": "2026-11-01T07:48:07Z",
+  "complete": true,
+  "stats": {
+    "stories": 455,
+    "sources": 18,
+    "days": 31,
+    "read_minutes": 2
+  },
+  "title": "Johor boom contrasts with market jitters",
+  "lede": "October 2026 laid bare the diverging fortunes of Asia-Pacific's data center sector. In Malaysia's Johor corridor, capital continued to pour in at unprecedented scale: DayOne secured one of the region's largest-ever financing packages, eventually lifting its Malaysia facility funding to $7.2 billion as billings crossed 1 GW, while SoftBank pledged $50 billion for Malaysian AI infrastructure and the government approved 27 projects worth $55.4 billion. Yet this exuberance was tempered by growing market discipline. Australia saw NextDC's shares plunge 40 percent and its Melbourne hub threatened by power delays and cash constraints, while Nvidia-backed Firmus shelved its IPO entirely. Japan emerged as a counterweight, drawing $30 billion from Blackstone and a near-$6.3 billion NTT Data-Anthropic Osaka project, even as Tokyo and Osaka's dominance prompted calls for geographic diversification. Across the region, financings and policy moves—from Singapore's Digital Infrastructure Bill to Japan's China-risk certification scheme—signaled maturation even as water and power constraints loomed.",
+  "themes": [
+    {
+      "heading": "Johor-Malaysia financing surge",
+      "narrative": "Malaysia's Johor corridor dominated capital flows as DayOne assembled a RM15 billion ($3.7 billion) syndicated loan from seven banks, later enlarging total financing to $7.2 billion as its billed capacity exceeded 1 GW. AirTrunk neared a $1 billion sale of its Johor assets to Malaysian pension fund KWAP-led investors, while Princeton Digital Group sought $1.2 billion for its Malaysia buildout.",
+      "story_ids": [
+        "2026-10-13-d430b7",
+        "2026-10-14-549cd5",
+        "2026-10-15-ff9f97",
+        "2026-10-16-fc7da7",
+        "2026-10-17-e95e62",
+        "2026-10-18-b9965d",
+        "2026-10-14-acfd82"
+      ],
+      "heading_zh": "柔佛-马来西亚融资激增",
+      "narrative_zh": "马来西亚柔佛走廊主导了资本流向，DayOne从七家银行组建了一笔150亿令吉（37亿美元）的银团贷款，随后将总融资规模扩大至72亿美元，因为其宣称容量超过1 GW。AirTrunk接近以10亿美元将其柔佛资产出售给马来西亚养老基金KWAP牵头的投资者，而Princeton Digital Group为其马来西亚扩建项目寻求12亿美元融资。"
+    },
+    {
+      "heading": "Australia's listed sector stumbles",
+      "narrative": "Australian operators faced severe market headwinds as Firmus cancelled its IPO citing volatility and investor scepticism, while NextDC cut FY27 guidance and paused projects after power delays at its M3 Melbourne campus triggered a 40 percent share price collapse. The broader pipeline of A$100 billion in Sydney and Melbourne projects risked grid and community opposition hurdles.",
+      "story_ids": [
+        "2026-10-09-fd586c",
+        "2026-10-08-e15b3d",
+        "2026-10-10-1f7803",
+        "2026-10-21-846bed",
+        "2026-10-28-798264",
+        "2026-10-24-1ae1ce",
+        "2026-10-21-d4253f"
+      ],
+      "heading_zh": "澳大利亚上市数据中心板块受挫",
+      "narrative_zh": "澳大利亚运营商面临严峻的市场逆风，Firmus以市场波动和投资者疑虑为由取消了IPO，而NextDC在M3墨尔本园区电力延迟引发股价暴跌40%后，下调了2027财年指引并暂停了项目。悉尼和墨尔本总计1000亿澳元的更广泛项目 pipeline 面临电网和社区反对的障碍。"
+    },
+    {
+      "heading": "Japan's massive AI buildout",
+      "narrative": "Japan attracted extraordinary commitments as Blackstone pledged $30 billion for AI data centers and NTT Data neared a ¥1 trillion ($6.3 billion) Osaka facility with Anthropic. STTGDC secured $590 million in green financing for Tokyo, while Digital Realty broke ground on KIX15, though geographic concentration in Tokyo and Osaka drew industry concern.",
+      "story_ids": [
+        "2026-10-07-48e2d3",
+        "2026-10-06-48e2d3",
+        "2026-10-13-dda738",
+        "2026-10-28-820801",
+        "2026-10-09-910eba",
+        "2026-10-13-5421db",
+        "2026-10-08-1fc99f"
+      ],
+      "heading_zh": "日本大规模AI建设",
+      "narrative_zh": "日本吸引了非凡的承诺，Blackstone承诺投入300亿美元用于AI data center，NTT Data与Anthropic接近达成在 Osaka 建设一座1万亿日元（63亿美元）的设施。STTGDC为Tokyo secured 5.9亿美元的绿色融资，而Digital Realty为KIX15破土动工，尽管Tokyo和Osaka的地理集中引发了行业担忧。"
+    },
+    {
+      "heading": "China's chip and capacity pressures",
+      "narrative": "China's AI data center sector showed contrasting signals: Envision commissioned a GW-scale campus in Ulanqab and DeepSeek raised over $12 billion, yet Nvidia's China market share fell to 34 percent under export controls while Huawei gained ground. Goldman Sachs warned the sector faces mounting ROI tests as financing costs climb and capital efficiency demands intensify.",
+      "story_ids": [
+        "2026-10-13-9bdfa6",
+        "2026-10-20-4c36e7",
+        "2026-10-22-2f121e",
+        "2026-10-07-cda6e2"
+      ],
+      "heading_zh": "中国芯片与产能压力",
+      "narrative_zh": "中国AI data center sector呈现对比信号：Envision在乌兰察布投运了一座GW-scale园区，DeepSeek筹集了超过120亿美元，然而在出口管制下Nvidia的中国市场份额降至34%，而Huawei gained ground。Goldman Sachs警告该行业面临日益严峻的ROI考验，因为融资成本攀升且资本效率要求 intensify。"
+    },
+    {
+      "heading": "Southeast Asia policy and constraints",
+      "narrative": "Governments across Southeast Asia moved to structure the boom as Singapore passed its Digital Infrastructure Bill creating licensing regimes, Malaysia's Digital Ministry approved 27 projects worth RM226 billion, and Petronas projected 8.39 GW of data center power demand by 2030. Yet water constraints in Selangor and broader warnings from Jardine Matheson about US policy dependency highlighted emerging risks.",
+      "story_ids": [
+        "2026-10-09-96d7fc",
+        "2026-10-15-ac5369",
+        "2026-10-15-f8475b",
+        "2026-10-16-cca39d",
+        "2026-10-20-98c5bc",
+        "2026-10-11-a38f85",
+        "2026-10-09-f3a8bf",
+        "2026-10-10-f3a8bf"
+      ],
+      "heading_zh": "东南亚政策与制约因素",
+      "narrative_zh": "东南亚各国政府着手为这一 boom 构建框架，新加坡通过了《数字基础设施法案》建立许可制度，马来西亚数字部批准了价值2260亿令吉的27个项目，Petronas预测到2030年data center电力需求将达8.39 GW。然而雪兰莪的水资源约束，以及Jardine Matheson关于对美国政策依赖的更广泛警告，凸显了新兴风险。"
+    }
+  ],
+  "project_milestones": [
+    {
+      "project_id": "airtrunk-kurri-kurri-data-centre",
+      "name": "AirTrunk Kurri Kurri Data Centre",
+      "operator": "AirTrunk",
+      "date": "2026-10-01",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-01-085002"
+    },
+    {
+      "project_id": "zerra-queensland-data-centre-campus",
+      "name": "Zerra Queensland Data Centre Campus",
+      "operator": "Zerra",
+      "date": "2026-10-03",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-03-5ee17a"
+    },
+    {
+      "project_id": "canberra-cdc-hume-campus-3",
+      "name": "CDC Hume Campus 3",
+      "operator": "CDC Data Centres",
+      "date": "2026-10-07",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-07-6fff97"
+    },
+    {
+      "project_id": "kt-cloud-incheon-data-center",
+      "name": "KT Cloud Incheon Data Center",
+      "operator": "KT Cloud",
+      "date": "2026-10-08",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-08-0000a2"
+    },
+    {
+      "project_id": "bitdeer-ai-malaysia-deployment",
+      "name": "Bitdeer AI Malaysia deployment",
+      "operator": "Bitdeer",
+      "date": "2026-10-09",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-09-a14243"
+    },
+    {
+      "project_id": "digital-realty-kix15-osaka-campus",
+      "name": "Digital Realty KIX15 (Osaka campus)",
+      "operator": "Digital Realty",
+      "date": "2026-10-10",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-10-10-910eba"
+    },
+    {
+      "project_id": "ntt-data-osaka-data-center-anthropic",
+      "name": "NTT Data Osaka Data Center (Anthropic)",
+      "operator": "NTT Global Data Centers",
+      "date": "2026-10-13",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-13-dda738"
+    },
+    {
+      "project_id": "softbank-sarawak-borneo-ai-data-center",
+      "name": "SoftBank–Grab–Petros Sarawak AI Data Center (proposed)",
+      "operator": "SoftBank",
+      "date": "2026-10-13",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-13-441be8"
+    },
+    {
+      "project_id": "airtrunk-sydney-campus-syd3",
+      "name": "AirTrunk Sydney Campus (SYD3)",
+      "operator": "AirTrunk",
+      "date": "2026-10-28",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-10-28-2807f3"
+    },
+    {
+      "project_id": "iskandar-puteri-johor-dayone-johor-campus",
+      "name": "DayOne Johor Campus",
+      "operator": "DayOne",
+      "date": "2026-10-28",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-28-239831"
+    },
+    {
+      "project_id": "quantum-dc-western-australia-campus",
+      "name": "Quantum DC Western Australia Campus",
+      "operator": "Quantum DC",
+      "date": "2026-10-28",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-28-bd8b2c"
+    },
+    {
+      "project_id": "nextdc-melbourne-melbourne-technology-hub",
+      "name": "Melbourne Technology Hub",
+      "operator": "NEXTDC",
+      "date": "2026-10-28",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-28-798264"
+    },
+    {
+      "project_id": "seatrium-singapore-floating-power-and-data-center-platform",
+      "name": "Floating Power and Data Center Platform",
+      "operator": "Seatrium",
+      "date": "2026-10-28",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-28-f0b234"
+    },
+    {
+      "project_id": "iskandar-puteri-johor-dayone-johor-campus-2",
+      "name": "DayOne Johor Campus",
+      "operator": "DayOne Data Centers",
+      "date": "2026-10-29",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-29-fbd8ef"
+    },
+    {
+      "project_id": "ytl-power-international-bukit-kerayong-bukit-kerayong",
+      "name": "Bukit Kerayong",
+      "operator": "YTL Power International",
+      "date": "2026-10-30",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-30-4f0f88"
+    },
+    {
+      "project_id": "quantum-dc-australian-data-center",
+      "name": "Quantum DC Australian data center",
+      "operator": "Quantum DC",
+      "date": "2026-10-30",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "cancelled",
+      "prev_status": null,
+      "change": "First tracked as cancelled",
+      "story_id": "2026-10-30-6df168"
+    },
+    {
+      "project_id": "airtrunk-western-australia-gas-hub-data-centre",
+      "name": "Western Australia gas hub data centre",
+      "operator": "AirTrunk",
+      "date": "2026-10-30",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-30-71be3e"
+    },
+    {
+      "project_id": "ntt-global-data-centers-singapore-singapore-ai-factory",
+      "name": "Singapore AI Factory",
+      "operator": "NTT Global Data Centers",
+      "date": "2026-10-31",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": "2026-10-31-87c0a5"
+    }
+  ],
+  "title_zh": "Johor数据中心热潮与市场焦虑形成反差",
+  "lede_zh": "2026年10月，亚太地区数据中心行业的分化态势暴露无遗。在马来西亚柔佛走廊，资本以前所未有的规模持续涌入：DayOne secured one of the region's largest-ever financing packages，最终将其马来西亚 facility funding 提升至72亿美元，billings 突破1 GW；同时 SoftBank 承诺投入500亿美元用于马来西亚 AI infrastructure，政府批准了27个项目，价值554亿美元。然而，这种狂热正受到日益增强的市场纪律的制约。澳大利亚方面，NextDC 股价暴跌40%，其墨尔本 hub 因电力延迟和现金紧张而面临威胁；Nvidia 支持的 Firmus 则完全搁置了 IPO。日本成为一股制衡力量，获得 Blackstone 300亿美元投资，以及 NTT Data-Anthropi 近63亿美元的交易。"
+}
