@@ -103771,7 +103771,90 @@
       "first_seen": "2026-10-31",
       "last_updated": "2026-10-31",
       "seed": false
+    },
+    {
+      "id": "google-negeri-sembilan-springhill-industrial-park-data-center-campus",
+      "name": "Springhill Industrial Park data center campus",
+      "operator": "Google",
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "city": "Negeri Sembilan",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": "US$160 million water facilities",
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-11-02",
+          "story_id": "2026-11-02-5458dc"
+        }
+      ],
+      "story_ids": [
+        "2026-11-02-5458dc"
+      ],
+      "first_seen": "2026-11-02",
+      "last_updated": "2026-11-02",
+      "seed": false
+    },
+    {
+      "id": "energy-north-1gw-data-center",
+      "name": "Energy North 1GW data center",
+      "operator": "Energy North",
+      "region": "australia",
+      "country": "Australia",
+      "city": "",
+      "capacity_mw": 1000,
+      "status": "on_hold",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "on_hold",
+          "date": "2026-11-02",
+          "story_id": "2026-11-02-eea5b3"
+        }
+      ],
+      "story_ids": [
+        "2026-11-02-eea5b3"
+      ],
+      "first_seen": "2026-11-02",
+      "last_updated": "2026-11-02",
+      "seed": false,
+      "capacity_note": "total planned"
     }
   ],
-  "updated_at": "2026-11-01T08:16:58Z"
+  "updated_at": "2026-11-02T07:54:02Z"
 }

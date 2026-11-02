@@ -1,0 +1,218 @@
+{
+  "type": "weekly",
+  "period": "2026-W44",
+  "date_range": {
+    "start": "2026-10-26",
+    "end": "2026-11-01"
+  },
+  "generated_at": "2026-11-02T07:54:56Z",
+  "complete": true,
+  "stats": {
+    "stories": 163,
+    "sources": 12,
+    "days": 7,
+    "read_minutes": 3
+  },
+  "title": "Malaysia tightens rules as AI investment surges",
+  "lede": "The week of 26 October to 1 November saw Malaysia emerge as the focal point of APAC data center activity, with SoftBank's reported US$50 billion investment commitment colliding with a new 30 percent renewable energy mandate and stricter siting requirements including water supply checks. The tension between rapid capital inflows and regulatory tightening was mirrored across the region: Australia grappled with project delays, financial stress at NextDC, and proliferating energy rules, while South Korean memory suppliers posted record profits on AI demand. Global AI infrastructure spending continued to scale aggressively—Nvidia's networking revenue surpassed Cisco's entire quarterly top line—yet signs of strain appeared, from Google's US$9 billion negative cash flow on data center builds to Gartner's prediction that 80 percent of neocloud providers will not survive independently by 2030.",
+  "themes": [
+    {
+      "heading": "Malaysia hardens data center policy",
+      "narrative": "Malaysia moved to formalize its data center governance even as massive investment commitments flowed in. Deputy Prime Minister Fadillah Yusof announced a 30 percent renewable energy mandate for all data centers, while Investment Minister Johari Ghani barred states lacking sufficient water supply from hosting facilities. The policy tightening accompanied Tenaga Nasional's pledge to connect approved projects within one year and Thailand's advance of its own draft data center law toward Cabinet review.",
+      "story_ids": [
+        "2026-10-28-9a3cbb",
+        "2026-10-28-adfeca",
+        "2026-10-28-d51cec",
+        "2026-10-28-d32cc7"
+      ],
+      "heading_zh": "马来西亚收紧数据中心政策",
+      "narrative_zh": "马来西亚在大量投资承诺涌入的同时，着手将其数据中心治理正式化。副总理法迪拉·尤索夫宣布对所有数据中心实施30%的可再生能源强制要求，而投资部长东姑·扎夫鲁则禁止供水不足的州属托管设施。政策收紧之际，Tenaga Nasional承诺在一年内为获批项目接通电力，泰国也将其数据中心法律草案推进至内阁审议阶段。"
+    },
+    {
+      "heading": "Australia's pipeline strains multiply",
+      "narrative": "Australian operators faced financial, regulatory, and political headwinds. NextDC's Melbourne project delay triggered a CEO bonus forfeiture and raised broader cash crunch concerns about its A$2 billion technology hub. The federal Labor party proposed banning AI data centers from suburban areas, while Energy Minister Chris Bowen advanced a firmed energy obligation and authorities threatened to cut power to rule-breaking facilities. Industry groups warned that inconsistent regulation risked stalling the 26.8GW national pipeline.",
+      "story_ids": [
+        "2026-10-26-9866f7",
+        "2026-10-28-798264",
+        "2026-10-28-aaeb27",
+        "2026-10-28-4f7e58",
+        "2026-10-30-d437c6",
+        "2026-10-30-852d27"
+      ],
+      "heading_zh": "澳大利亚项目储备压力倍增",
+      "narrative_zh": "澳大利亚运营商面临财务、监管和政治三重阻力。NextDC墨尔本项目延期导致CEO被迫放弃奖金，并引发对其20亿澳元技术中心更广泛的资金紧张担忧。联邦工党提议禁止AI data center进驻郊区，能源部长克里斯·鲍文推进firm energy强制义务，当局则威胁对违规设施断电。行业团体警告称，监管不一致可能阻碍全国26.8GW的项目pipeline。"
+    },
+    {
+      "heading": "AI infrastructure spending accelerates globally",
+      "narrative": "Capital deployment into AI infrastructure reached extraordinary scale. Nvidia and AMD committed US$4 billion to Meta's AI buildout, while Oracle struck a multi-gigawatt deal to offer Google's TPUs on its cloud platform. Nvidia-backed Indonesian platform Zankore launched a US$3.1 billion GPU loan syndication. Yet the spending brought financial pressure: Alphabet reported US$9 billion in negative free cash flow from data center construction, and Gartner forecast 80 percent of neocloud providers would lose independence by 2030.",
+      "story_ids": [
+        "2026-10-30-d3379c",
+        "2026-10-28-446e11",
+        "2026-10-28-a6aeb9",
+        "2026-10-30-ca728d",
+        "2026-10-28-b3e58b"
+      ],
+      "heading_zh": "AI基础设施支出在全球范围内加速",
+      "narrative_zh": "AI基础设施的资本部署达到空前规模。Nvidia和AMD承诺向Meta的AI建设投入40亿美元，Oracle则签订多gigawatt协议，在其云平台上提供Google的TPU。Nvidia支持的印尼平台Zankore启动了一项31亿美元的GPU贷款银团。然而巨额支出带来财务压力：Alphabet报告称数据中心建设导致90亿美元负自由现金流，Gartner预测到2030年80%的neocloud提供商将丧失独立性。"
+    },
+    {
+      "heading": "Korean memory suppliers ride AI demand",
+      "narrative": "South Korean semiconductor manufacturers reported surging profits on AI-driven memory demand. SK Hynix posted quarterly profit of approximately US$4.6 billion, up roughly sevenfold, with multi-year supply contracts secured with major customers. Samsung similarly reported strong operating profit but cautioned that AI chip shortages would worsen. The supply crunch prompted OpenAI's Sam Altman to meet Samsung executives in Seoul to discuss strengthening collaboration.",
+      "story_ids": [
+        "2026-10-28-aa6d9d",
+        "2026-10-29-b5864a",
+        "2026-11-01-4330a9"
+      ],
+      "heading_zh": "韩国内存供应商受益于AI需求",
+      "narrative_zh": "韩国半导体制造商因AI驱动的存储需求报告利润激增。SK Hynix公布季度利润约46亿美元，增长约七倍，并与主要客户签订了多年供应合同。Samsung同样报告了强劲的营业利润，但警告AI芯片短缺将加剧。供应紧张促使OpenAI的Sam Altman在首尔与Samsung高管会面，商讨加强合作。"
+    },
+    {
+      "heading": "Southeast Asia deepens digital infrastructure",
+      "narrative": "Southeast Asian markets saw continued facility investment and financing activity. STTGDC secured a US$590 million green loan for its 70.8MW Tokyo campus, while DayOne Data Centers acquired Johor land for US$100 million to support greenfield development. DE-CIX and IGC announced a Bangkok internet exchange launching in 2027 to reduce ASEAN traffic dependence on Singapore. Seatrium and Karpowership signed an MOU for floating power-data center platforms in Singapore, addressing land and power constraints.",
+      "story_ids": [
+        "2026-10-28-820801",
+        "2026-10-29-fbd8ef",
+        "2026-10-28-97b173",
+        "2026-10-28-f0b234"
+      ],
+      "heading_zh": "东南亚深化数字基础设施建设",
+      "narrative_zh": "东南亚市场持续出现设施投资和融资活动。STTGDC为其70.8MW东京园区获得5.9亿美元绿色贷款，DayOne Data Centers以1亿美元收购柔佛土地以支持greenfield开发。DE-CIX和IGC宣布将于2027年在曼谷推出互联网交换中心，以减少东盟流量对新加坡的依赖。Seatrium和Karpowership签署谅解备忘录，计划在新加坡部署浮动式电力-数据中心平台，以应对土地和电力限制。"
+    },
+    {
+      "heading": "Australia diversifies energy and geography",
+      "narrative": "Australian developers pursued unconventional locations and power strategies to sustain growth. A gigawatt-scale off-grid campus was proposed for Western Australia using on-site natural gas generation with battery storage, while AirTrunk evaluated its first WA facility at a new gas hub. The national pipeline reached 26.8GW with Melbourne overtaking Sydney in forecast capacity, and regional markets gained traction as operators sought power and land availability outside capital cities.",
+      "story_ids": [
+        "2026-10-28-bd8b2c",
+        "2026-10-30-71be3e",
+        "2026-10-29-fe979a",
+        "2026-10-30-71201e"
+      ],
+      "heading_zh": "澳大利亚实现能源与地理布局多元化",
+      "narrative_zh": "澳大利亚开发商寻求非常规选址和电力策略以维持增长。西澳大利亚州提出一个gigawatt级离网园区方案，采用现场天然气发电结合电池储能，AirTrunk则评估其首个西澳设施，选址于一座新建天然气枢纽。全国pipeline达到26.8GW，墨尔本在预测容量上超越悉尼，区域市场获得 traction，运营商在首府城市以外寻找电力和土地资源。"
+    }
+  ],
+  "project_milestones": [
+    {
+      "project_id": "airtrunk-sydney-campus-syd3",
+      "name": "AirTrunk Sydney Campus (SYD3)",
+      "operator": "AirTrunk",
+      "date": "2026-10-28",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-10-28-2807f3"
+    },
+    {
+      "project_id": "iskandar-puteri-johor-dayone-johor-campus",
+      "name": "DayOne Johor Campus",
+      "operator": "DayOne",
+      "date": "2026-10-28",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-28-239831"
+    },
+    {
+      "project_id": "quantum-dc-western-australia-campus",
+      "name": "Quantum DC Western Australia Campus",
+      "operator": "Quantum DC",
+      "date": "2026-10-28",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-28-bd8b2c"
+    },
+    {
+      "project_id": "nextdc-melbourne-melbourne-technology-hub",
+      "name": "Melbourne Technology Hub",
+      "operator": "NEXTDC",
+      "date": "2026-10-28",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-28-798264"
+    },
+    {
+      "project_id": "seatrium-singapore-floating-power-and-data-center-platform",
+      "name": "Floating Power and Data Center Platform",
+      "operator": "Seatrium",
+      "date": "2026-10-28",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-28-f0b234"
+    },
+    {
+      "project_id": "iskandar-puteri-johor-dayone-johor-campus-2",
+      "name": "DayOne Johor Campus",
+      "operator": "DayOne Data Centers",
+      "date": "2026-10-29",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-29-fbd8ef"
+    },
+    {
+      "project_id": "ytl-power-international-bukit-kerayong-bukit-kerayong",
+      "name": "Bukit Kerayong",
+      "operator": "YTL Power International",
+      "date": "2026-10-30",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-30-4f0f88"
+    },
+    {
+      "project_id": "quantum-dc-australian-data-center",
+      "name": "Quantum DC Australian data center",
+      "operator": "Quantum DC",
+      "date": "2026-10-30",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "cancelled",
+      "prev_status": null,
+      "change": "First tracked as cancelled",
+      "story_id": "2026-10-30-6df168"
+    },
+    {
+      "project_id": "airtrunk-western-australia-gas-hub-data-centre",
+      "name": "Western Australia gas hub data centre",
+      "operator": "AirTrunk",
+      "date": "2026-10-30",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-10-30-71be3e"
+    },
+    {
+      "project_id": "ntt-global-data-centers-singapore-singapore-ai-factory",
+      "name": "Singapore AI Factory",
+      "operator": "NTT Global Data Centers",
+      "date": "2026-10-31",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": "2026-10-31-87c0a5"
+    }
+  ],
+  "title_zh": "马来西亚收紧监管，应对AI投资激增",
+  "lede_zh": "10月26日至11月1日当周，马来西亚成为亚太地区数据中心活动的焦点，软银据报道500亿美元的投资承诺与新的30%可再生能源强制要求以及更严格的选址要求（包括供水检查）形成碰撞。资本快速流入与监管收紧之间的紧张关系在整个地区都有体现：澳大利亚面临项目延误、NextDC财务压力以及不断增多的能源法规，而韩国存储供应商则因AI需求创下利润纪录。全球AI基础设施支出持续大规模增长——Nvidia的网络收入超过了Cisco整个季度的总营收——但压力迹象也开始显现，从Google数据中心建设产生的90亿美元负现金流，到G"
+}
