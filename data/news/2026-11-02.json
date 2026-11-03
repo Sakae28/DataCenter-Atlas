@@ -3,142 +3,12 @@
   "generated_at": "2026-11-02T07:46:10Z",
   "hot": [
     "2026-11-02-f4bee8",
-    "2026-11-02-eea5b3",
     "2026-11-02-5458dc",
+    "2026-11-02-eea5b3",
     "2026-11-02-1ca98f",
     "2026-11-02-15c07b"
   ],
   "stories": [
-    {
-      "id": "2026-11-02-e76f6e",
-      "title": "Labor pressed to reject inner-Melbourne data centre before Vic election",
-      "summary": "Australian Labor Party members are urging rejection of a proposed inner-Melbourne data center ahead of the Victorian state election, citing community concerns about noise, visual impact, and energy consumption in a densely populated area. The opposition reflects growing local political resistance to data center siting in established urban neighborhoods despite state-level economic development priorities.",
-      "why_it_matters": "Hyperlocal opposition in Australian capital cities is forcing data center development toward industrial peripheries with weaker grid connections and longer fiber routes. If Victorian Labor sacrifices the project for electoral calculus, other state governments may preemptively tighten planning restrictions, accelerating the shift of Australian digital infrastructure investment to Queensland and Western Australia.",
-      "score": 65,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "data-centre",
-        "regulation",
-        "politics",
-        "development"
-      ],
-      "published_at": "2026-11-02T07:25:12Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/companies/infrastructure/labor-pressed-to-reject-inner-melbourne-data-centre-before-vic-election-20261102-p61ain",
-          "type": "html-list"
-        }
-      ],
-      "title_zh": "工党被施压在维州选举前拒绝内墨尔本data centre",
-      "summary_zh": "澳大利亚工党成员敦促在维多利亚州选举前否决一项拟议的inner-Melbourne数据中心，理由是社区对人口密集区的噪音、视觉影响和能源消耗的担忧。这一反对反映了尽管有州级经济发展优先事项，但在成熟城市社区中数据中心选址面临日益增长的地方政治阻力。",
-      "content": "Residents opposing a data centre proposed for the inner-city Melbourne suburb of Spotswood are putting pressure on Labor to reject it ahead of the Victorian election as they protest its development 69 metres from a kindergarten.\n\nResidents are furious the state government has not blocked a $1.47 billion data centre pitched by developer GreenSquare DC, despite Premier Ben Carroll’s new rules requiring 150-metre buffers from homes.\n\nLoading...",
-      "content_url": "https://www.afr.com/companies/infrastructure/labor-pressed-to-reject-inner-melbourne-data-centre-before-vic-election-20261102-p61ain"
-    },
-    {
-      "id": "2026-11-02-c4178f",
-      "title": "UBS finds itself in the path of NextDC's share price bloodbath",
-      "summary": "Swiss banking giant UBS has been drawn into the sharp decline in NextDC's share price as the Australian data center operator faces investor concerns over capital intensity, competitive positioning, and execution risk on its expansion program. The stock volatility has complicated UBS's advisory and financing relationships with the company.",
-      "why_it_matters": "NextDC's valuation compression signals broader market skepticism about Australian data center economics as hyperscale customers increasingly prefer ASEAN markets for new capacity. For UBS and other investment banks, the volatility raises due diligence standards for data center IPOs and refinancings across APAC, potentially tightening credit availability for speculative developments.",
-      "score": 70,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "investment",
-        "data-centre",
-        "finance",
-        "market"
-      ],
-      "published_at": "2026-11-02T04:00:00Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/street-talk/ubs-finds-itself-in-the-path-of-nextdc-s-share-price-bloodbath-20261102-p61ad1",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "UBS",
-        "NextDC"
-      ],
-      "title_zh": "UBS陷入NextDC股价暴跌的漩涡",
-      "summary_zh": "瑞士银行业巨头UBS已被卷入NextDC股价的急剧下跌，因为这家澳大利亚数据中心运营商面临投资者对资本密集度、竞争地位和扩张计划执行风险的担忧。股价波动使UBS与该公司的advisory和financing关系复杂化。",
-      "content": "The bloodbath at ASX-listed data centre giant NextDC – which is facing questions about its financial health after a significant delay at a critical Melbourne asset – appears to have spread to a new casualty: UBS.\n\nThat pain dated back to September 9, when the Swiss investment banking giant was the sole arranger, lead manager and book runner on a $1.1 billion issue of convertible notes. NextDC subsequently revealed the conversion price was $16.695, or a 32 per cent premium to where shares were trading.\n\nLoading...",
-      "content_url": "https://www.afr.com/street-talk/ubs-finds-itself-in-the-path-of-nextdc-s-share-price-bloodbath-20261102-p61ad1"
-    },
-    {
-      "id": "2026-11-02-15c07b",
-      "title": "Brookfield taps KB Kookmin Bank to lead Korea's first GPU loan at US$8 bil",
-      "summary": "Brookfield has appointed KB Kookmin Bank as lead arranger for an US$8 billion syndicated loan, South Korea's largest ever, to finance GPU purchases for Naver's AI infrastructure expansion. The facility represents the first major GPU-specific debt financing in the Korean market and leverages Brookfield's global capital-raising capabilities with domestic banking relationships.",
-      "why_it_matters": "GPU-backed financing structures are crossing into mainstream corporate banking, potentially lowering the cost of AI infrastructure deployment for Korean tech champions. If this template replicates across Samsung and SK, Korean banks could rapidly accumulate concentrated exposure to semiconductor collateral values, creating systemic risk if AI demand cycles reverse.",
-      "score": 85,
-      "heat": 1,
-      "regions": [
-        "korea"
-      ],
-      "topics": [
-        "ai",
-        "chips",
-        "investment",
-        "finance"
-      ],
-      "published_at": "2026-11-02T04:15:04Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/824148",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Brookfield",
-        "KB Kookmin Bank",
-        "Naver"
-      ],
-      "title_zh": "Brookfield 委托 KB Kookmin Bank 牵头韩国首笔 80 亿美元 GPU 贷款",
-      "summary_zh": "Brookfield已任命KB Kookmin Bank作为一笔80亿美元syndicated loan的lead arranger，这是韩国有史以来最大的此类贷款，用于为Naver的AI基础设施扩张融资购买GPU。该facility代表了韩国市场首个主要的GPU-specific债务融资，利用了Brookfield的全球资本募集能力与本土银行业关系。",
-      "content": "The proceeds from the financing will be used to procure AI computing infrastructure, including graphic processing units (GPU), KB said in a statement Sunday. The 10.7 trillion won (US$8 billion) loan is part of a larger package worth 12.6 trillion won, according to the bank.\n\nThe deal marks South Korea’s first sizable GPU financing and the AI chips will be leased to Naver Cloud on a long-term basis, according to the bank. Banks and private credit funds in Asia are expanding AI financing to cover not just the construction of data centres but also the hardware that powers them, such as chips.\n\nA special purpose company established by Brookfield will procure the AI infrastructure. Other major Korean financial institutions are also participating in the deal, according to KB.\n\n*Uploaded by Liza Shireen Koshy*",
-      "content_url": "https://theedgemalaysia.com/node/824148"
-    },
-    {
-      "id": "2026-11-02-a603a0",
-      "title": "Trump says US looking 'closely' at report Nvidia CEO target of Chinese spy plot",
-      "summary": "US President Donald Trump voiced on Saturday his support for the \"brilliant\" head of US chip giant Nvidia, Jensen Huang after a report he was targeted by a Chinese spy plot.",
-      "why_it_matters": "",
-      "score": 60,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [
-        "chips",
-        "geopolitics",
-        "security"
-      ],
-      "published_at": "2026-11-02T03:19:17Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/824135",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "NVIDIA"
-      ],
-      "title_zh": "特朗普称美国正\"密切关注\"有关 Nvidia CEO 黄仁勋成为中国间谍目标目标的报道",
-      "content": "WASHINGTON (Nov 1): US President Donald Trump voiced on Saturday his support for the \"brilliant\" head of US chip giant Nvidia, Jensen Huang after a report he was targeted by a Chinese spy plot.\n\nTrump said the US is looking \"very closely\" at the issue.\n\n*The New York Times* reported last Thursday that US intelligence officials concluded that a Chinese executive linked to a Singapore-based data centre company, who had interacted with Huang, had been funnelling information to Beijing.\n\nChina has dismissed the report as \"groundless speculation\".\n\n\"I have a lot of respect for Jensen. I didn't know about the specific thing, but I hope he's going to be OK. He's a great, brilliant person, and we want to protect our brilliant people,\" Trump told reporters at his Florida residence.\n\n\"We're going to check it out very closely,\" the president added.\n\nAsked if he would retain Huang as an adviser, Trump said: \"I would like to say yes. I mean, unless we find out something to the contrary, I have always found Jensen Huang to be very above board.\"\n\n\"But you know, you are dealing in a very complex issue,\" Trump added.\n\nHuang has advised Trump on artificial intelligence policy and was among tech chief executive officers who joined the US leader on his visit to Beijing to meet Chinese President Xi Jinping in May.\n\nThe Taiwan-born businessman has advocated for the use of his company's chips in China, where Beijing has been accelerating development of its own semiconductors.\n\n*Uploaded by Tham Yek Lee*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/824135"
-    },
     {
       "id": "2026-11-02-2ee5e3",
       "title": "Nuclear reactors under construction rise to 79 globally on AI demand",
@@ -198,6 +68,37 @@
       "content_url": "https://asia.nikkei.com/business/markets/bonds/yen-bond-offerings-hit-record-16bn-as-ai-funding-race-reaches-japan"
     },
     {
+      "id": "2026-11-02-e76f6e",
+      "title": "Labor pressed to reject inner-Melbourne data centre before Vic election",
+      "summary": "Australian Labor Party members are urging rejection of a proposed inner-Melbourne data center ahead of the Victorian state election, citing community concerns about noise, visual impact, and energy consumption in a densely populated area. The opposition reflects growing local political resistance to data center siting in established urban neighborhoods despite state-level economic development priorities.",
+      "why_it_matters": "Hyperlocal opposition in Australian capital cities is forcing data center development toward industrial peripheries with weaker grid connections and longer fiber routes. If Victorian Labor sacrifices the project for electoral calculus, other state governments may preemptively tighten planning restrictions, accelerating the shift of Australian digital infrastructure investment to Queensland and Western Australia.",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "data-centre",
+        "regulation",
+        "politics",
+        "development"
+      ],
+      "published_at": "2026-11-02T07:25:12Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/infrastructure/labor-pressed-to-reject-inner-melbourne-data-centre-before-vic-election-20261102-p61ain",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "工党被施压在维州选举前拒绝内墨尔本data centre",
+      "summary_zh": "澳大利亚工党成员敦促在维多利亚州选举前否决一项拟议的inner-Melbourne数据中心，理由是社区对人口密集区的噪音、视觉影响和能源消耗的担忧。这一反对反映了尽管有州级经济发展优先事项，但在成熟城市社区中数据中心选址面临日益增长的地方政治阻力。",
+      "content": "Residents opposing a data centre proposed for the inner-city Melbourne suburb of Spotswood are putting pressure on Labor to reject it ahead of the Victorian election as they protest its development 69 metres from a kindergarten.\n\nResidents are furious the state government has not blocked a $1.47 billion data centre pitched by developer GreenSquare DC, despite Premier Ben Carroll’s new rules requiring 150-metre buffers from homes.\n\nLoading...",
+      "content_url": "https://www.afr.com/companies/infrastructure/labor-pressed-to-reject-inner-melbourne-data-centre-before-vic-election-20261102-p61ain",
+      "published_precision": "day"
+    },
+    {
       "id": "2026-11-02-aa6867",
       "title": "DayOne inks MOU with Blue Whale Energy to explore Distributed VPP in Singapore",
       "summary": "DayOne Data Centers and Blue Whale Energy have signed an MOU to study a Distributed Virtual Power Plant in Singapore, integrating battery energy storage systems with data center load management. The project aims to provide grid stabilization services while enabling data centers to participate in demand response programs without disrupting critical IT operations.",
@@ -237,7 +138,7 @@
       "summary": "Google will invest US$160 million to construct an off-river storage reservoir and water treatment plant in Negeri Sembilan, Malaysia, capable of delivering 65 million liters of potable water daily. The facility will serve both Google's upcoming Springhill Industrial Park data center campus and surrounding public communities, representing a shared infrastructure model for addressing data center water consumption concerns.",
       "why_it_matters": "Google's willingness to fund public water infrastructure signals how water scarcity is becoming a primary constraint on Malaysian data center expansion. This shared-utility approach may become a template for other developments, but it also raises questions about whether local governments can negotiate equitable cost-sharing as foreign hyperscalers compete for limited water resources in drought-prone regions.",
       "score": 75,
-      "heat": 2,
+      "heat": 4,
       "regions": [
         "southeast-asia"
       ],
@@ -259,6 +160,16 @@
           "name": "ET Datacenters",
           "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/google-invests-160-million-in-malaysia-water-facilities/135448512",
           "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/google-commits-160m-to-develop-water-treatment-plant-for-planned-data-center-in-negeri-sembilan-malaysia/",
+          "type": "html-list"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824257",
+          "type": "html-list"
         }
       ],
       "companies": [
@@ -268,6 +179,76 @@
       "summary_zh": "Google将投资1.6亿美元在马来西亚Negeri Sembilan建设一个off-river storage reservoir和water treatment plant，日供水能力达6500万升。该设施将同时为Google即将在Springhill Industrial Park建设的数据中心园区和周边公共社区服务，代表了应对数据中心water consumption问题的shared infrastructure模式。",
       "content": "Global technology firm Google plans to build an off-river storage reservoir and water treatment plant that can deliver 65 million liters of potable water daily for both its upcoming data center campus in Springhill Industrial Park, Port Dickson, and for the public use. To be built at a cost of US$160 million, the shared infrastructure will be owned by Menteri Besar Negeri Sembilan (Incorporated), or MBINS, a state statutory body that manages state assets, once completed.\n\nGoogle has in coordination with the state government of Negeri Sembilan and Syarikat Air Negeri Sembilan Sdn Bhd (SAINS), appointed local infrastructure giant Gamuda Berhad as contractor, according to a statement by Google today.\n\nLocated along the Linggi River, the reservoir is designed to capture excess river flow and rainfall which is then channeled to the treatment plant to be purified for domestic and commercial use.\n\nIn terms of power consumption, Google will pay 100 per cent of the power its data center campus uses and the direct infrastructure costs required to connect it to the grid, a multi-decade commitment that spans the construction phase and operational lifecycle of its campus.\n\nDato’ Haji Najmuddin Sharif bin Sarimon, Chief Executive Officer, Invest Negeri Sembilan, said: “Google’s planned data center campus demonstrates how private investment and public interests can be aligned from the outset to deliver sustainable, long-term benefits for the state and its people.”\n\nDrew Byrnes, Director and Head of Global Infrastructure and Energy, Asia Pacific, Google, said: “Google’s decision to fund shared water infrastructure in Negeri Sembilan reflects our global ambition to replenish 120 per cent of the freshwater volume we consume, even as our water risk assessment showed that local water sources were not at high risk of scarcity or depletion. This underscores our responsibility to grow our presence sustainably—pairing advanced digital infrastructure development with water replenishment projects, power infrastructure enhancements, and programs designed to upskill local talent for new career opportunities.”\n\n“Building on our delivery of Google’s soon-to-be-operational data center campus in Elmina Business Park, we’re proud to deepen and extend our partnership into Negeri Sembilan. The ability to simultaneously develop both the upcoming off-river storage reservoir and water treatment plant along the Linggi River and the Google data center campus in Springhill Industrial Park reflects our integrated, top-to-toe model,” said Justin Chin, Managing Director, Gamuda Engineering.\n\n“As Malaysia’s homegrown regional clean energy leader, Solarvest is proud to support Google’s renewable energy strategy through a corporate green power agreement. Our 29.99-megawatt alternating current (MWac) Corporate Green Power Programme (CGPP) solar farm, developed in partnership with Shizen Energy and HSS Engineering, is located in Gurun, Kedah, where favorable solar irradiance supports efficient power generation. This project will contribute additional renewable energy to Malaysia while supporting Google’s data center operations,” said Dato’ Davis Chong, Executive Director and Group Chief Executive Officer, Solarvest Holdings Berhad.",
       "content_url": "https://w.media/google-to-build-us160-million-water-facilities-in-negeri-sembilan-malaysia/"
+    },
+    {
+      "id": "2026-11-02-15c07b",
+      "title": "Brookfield taps KB Kookmin Bank to lead Korea's first GPU loan at US$8 bil",
+      "summary": "Brookfield has appointed KB Kookmin Bank as lead arranger for an US$8 billion syndicated loan, South Korea's largest ever, to finance GPU purchases for Naver's AI infrastructure expansion. The facility represents the first major GPU-specific debt financing in the Korean market and leverages Brookfield's global capital-raising capabilities with domestic banking relationships.",
+      "why_it_matters": "GPU-backed financing structures are crossing into mainstream corporate banking, potentially lowering the cost of AI infrastructure deployment for Korean tech champions. If this template replicates across Samsung and SK, Korean banks could rapidly accumulate concentrated exposure to semiconductor collateral values, creating systemic risk if AI demand cycles reverse.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "investment",
+        "finance"
+      ],
+      "published_at": "2026-11-02T04:15:04Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824148",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Brookfield",
+        "KB Kookmin Bank",
+        "Naver"
+      ],
+      "title_zh": "Brookfield 委托 KB Kookmin Bank 牵头韩国首笔 80 亿美元 GPU 贷款",
+      "summary_zh": "Brookfield已任命KB Kookmin Bank作为一笔80亿美元syndicated loan的lead arranger，这是韩国有史以来最大的此类贷款，用于为Naver的AI基础设施扩张融资购买GPU。该facility代表了韩国市场首个主要的GPU-specific债务融资，利用了Brookfield的全球资本募集能力与本土银行业关系。",
+      "content": "The proceeds from the financing will be used to procure AI computing infrastructure, including graphic processing units (GPU), KB said in a statement Sunday. The 10.7 trillion won (US$8 billion) loan is part of a larger package worth 12.6 trillion won, according to the bank.\n\nThe deal marks South Korea’s first sizable GPU financing and the AI chips will be leased to Naver Cloud on a long-term basis, according to the bank. Banks and private credit funds in Asia are expanding AI financing to cover not just the construction of data centres but also the hardware that powers them, such as chips.\n\nA special purpose company established by Brookfield will procure the AI infrastructure. Other major Korean financial institutions are also participating in the deal, according to KB.\n\n*Uploaded by Liza Shireen Koshy*",
+      "content_url": "https://theedgemalaysia.com/node/824148"
+    },
+    {
+      "id": "2026-11-02-c4178f",
+      "title": "UBS finds itself in the path of NextDC's share price bloodbath",
+      "summary": "Swiss banking giant UBS has been drawn into the sharp decline in NextDC's share price as the Australian data center operator faces investor concerns over capital intensity, competitive positioning, and execution risk on its expansion program. The stock volatility has complicated UBS's advisory and financing relationships with the company.",
+      "why_it_matters": "NextDC's valuation compression signals broader market skepticism about Australian data center economics as hyperscale customers increasingly prefer ASEAN markets for new capacity. For UBS and other investment banks, the volatility raises due diligence standards for data center IPOs and refinancings across APAC, potentially tightening credit availability for speculative developments.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "data-centre",
+        "finance",
+        "market"
+      ],
+      "published_at": "2026-11-02T04:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/street-talk/ubs-finds-itself-in-the-path-of-nextdc-s-share-price-bloodbath-20261102-p61ad1",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "UBS",
+        "NextDC"
+      ],
+      "title_zh": "UBS陷入NextDC股价暴跌的漩涡",
+      "summary_zh": "瑞士银行业巨头UBS已被卷入NextDC股价的急剧下跌，因为这家澳大利亚数据中心运营商面临投资者对资本密集度、竞争地位和扩张计划执行风险的担忧。股价波动使UBS与该公司的advisory和financing关系复杂化。",
+      "content": "The bloodbath at ASX-listed data centre giant NextDC – which is facing questions about its financial health after a significant delay at a critical Melbourne asset – appears to have spread to a new casualty: UBS.\n\nThat pain dated back to September 9, when the Swiss investment banking giant was the sole arranger, lead manager and book runner on a $1.1 billion issue of convertible notes. NextDC subsequently revealed the conversion price was $16.695, or a 32 per cent premium to where shares were trading.\n\nLoading...",
+      "content_url": "https://www.afr.com/street-talk/ubs-finds-itself-in-the-path-of-nextdc-s-share-price-bloodbath-20261102-p61ad1",
+      "published_precision": "day"
     },
     {
       "id": "2026-11-02-f4bee8",
@@ -354,6 +335,37 @@
       "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/japan-data-center-power-demand-to-triple-by-2034-driving-nuclear-geothermal-comeback/135443895"
     },
     {
+      "id": "2026-11-02-a603a0",
+      "title": "Trump says US looking 'closely' at report Nvidia CEO target of Chinese spy plot",
+      "summary": "US President Donald Trump voiced on Saturday his support for the \"brilliant\" head of US chip giant Nvidia, Jensen Huang after a report he was targeted by a Chinese spy plot.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "geopolitics",
+        "security"
+      ],
+      "published_at": "2026-11-02T03:19:17Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824135",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "title_zh": "特朗普称美国正\"密切关注\"有关 Nvidia CEO 黄仁勋成为中国间谍目标目标的报道",
+      "content": "WASHINGTON (Nov 1): US President Donald Trump voiced on Saturday his support for the \"brilliant\" head of US chip giant Nvidia, Jensen Huang after a report he was targeted by a Chinese spy plot.\n\nTrump said the US is looking \"very closely\" at the issue.\n\n*The New York Times* reported last Thursday that US intelligence officials concluded that a Chinese executive linked to a Singapore-based data centre company, who had interacted with Huang, had been funnelling information to Beijing.\n\nChina has dismissed the report as \"groundless speculation\".\n\n\"I have a lot of respect for Jensen. I didn't know about the specific thing, but I hope he's going to be OK. He's a great, brilliant person, and we want to protect our brilliant people,\" Trump told reporters at his Florida residence.\n\n\"We're going to check it out very closely,\" the president added.\n\nAsked if he would retain Huang as an adviser, Trump said: \"I would like to say yes. I mean, unless we find out something to the contrary, I have always found Jensen Huang to be very above board.\"\n\n\"But you know, you are dealing in a very complex issue,\" Trump added.\n\nHuang has advised Trump on artificial intelligence policy and was among tech chief executive officers who joined the US leader on his visit to Beijing to meet Chinese President Xi Jinping in May.\n\nThe Taiwan-born businessman has advocated for the use of his company's chips in China, where Beijing has been accelerating development of its own semiconductors.\n\n*Uploaded by Tham Yek Lee*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/824135"
+    },
+    {
       "id": "2026-11-02-ce6af3",
       "title": "Powering data centers in Japan",
       "summary": "Japan's data center sector is projected to consume electricity equivalent to 15-18 million households by 2034, tripling from current levels and accounting for 60% of national power demand growth. This transformation is reviving investment in nuclear and geothermal generation that had fallen out of favor following the 2011 Fukushima disaster.",
@@ -389,7 +401,7 @@
       "summary": "Energy North has postponed its planned 1GW data center development in Australia pending federal government consultation on the project's regulatory and environmental approvals. The delay reflects growing scrutiny of large-scale data center energy consumption as Australia's grid faces reliability challenges and renewable transition pressures.",
       "why_it_matters": "Federal intervention in data center approvals marks an escalation beyond state-level planning disputes that have stalled projects in Sydney and Melbourne. If Canberra imposes national security or energy security conditions on 1GW+ facilities, Australia's attractiveness for hyperscale investment could deteriorate relative to ASEAN markets with more streamlined permitting.",
       "score": 75,
-      "heat": 3,
+      "heat": 4,
       "regions": [
         "australia"
       ],
@@ -416,6 +428,11 @@
           "name": "The Business Times — Data Centres topic",
           "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/australian-outback-data-centre-pulls-timeline-after-regulator-stalls",
           "type": "html-list"
+        },
+        {
+          "name": "iTnews",
+          "url": "https://www.itnews.com.au/news/nt-data-centre-pulls-timeline-after-regulator-stalls-630067?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+          "type": "rss"
         }
       ],
       "companies": [

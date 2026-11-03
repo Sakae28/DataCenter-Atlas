@@ -103854,7 +103854,213 @@
       "last_updated": "2026-11-02",
       "seed": false,
       "capacity_note": "total planned"
+    },
+    {
+      "id": "global-vision-lab-perak-perak-ai-data-center",
+      "name": "Perak AI Data Center",
+      "operator": "Global Vision Lab",
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "city": "Perak",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-11-03",
+          "story_id": "2026-11-03-cf460f"
+        }
+      ],
+      "story_ids": [
+        "2026-11-03-cf460f"
+      ],
+      "first_seen": "2026-11-03",
+      "last_updated": "2026-11-03",
+      "seed": false
+    },
+    {
+      "id": "world-vision-united-group-tay-ninh-nam-tan-uyen-ai-data-center",
+      "name": "Nam Tan Uyen AI Data Center",
+      "operator": "World Vision United Group",
+      "region": "southeast-asia",
+      "country": "Vietnam",
+      "city": "Tay Ninh",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": "US$700 million",
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-11-03",
+          "story_id": "2026-11-03-3522f3"
+        }
+      ],
+      "story_ids": [
+        "2026-11-03-3522f3"
+      ],
+      "first_seen": "2026-11-03",
+      "last_updated": "2026-11-03",
+      "seed": false
+    },
+    {
+      "id": "envision-digital-ulanqab-ulanqab-800vdc-data-center",
+      "name": "Ulanqab 800VDC Data Center",
+      "operator": "Envision Digital",
+      "region": "china",
+      "country": "China",
+      "city": "Ulanqab",
+      "capacity_mw": null,
+      "status": "operational",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": "800VDC power architecture",
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "operational",
+          "date": "2026-11-03",
+          "story_id": "2026-11-03-bcb4fb"
+        }
+      ],
+      "story_ids": [
+        "2026-11-03-bcb4fb"
+      ],
+      "first_seen": "2026-11-03",
+      "last_updated": "2026-11-03",
+      "seed": false
+    },
+    {
+      "id": "isf-group-port-dickson-port-dickson-hyperscale-data-center",
+      "name": "Port Dickson Hyperscale Data Center",
+      "operator": "ISF Group",
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "city": "Port Dickson",
+      "capacity_mw": null,
+      "status": "under_construction",
+      "developer": null,
+      "investor": null,
+      "investment": "RM83.23 million contracts",
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "under_construction",
+          "date": "2026-11-03",
+          "story_id": "2026-11-03-d48e6a"
+        }
+      ],
+      "story_ids": [
+        "2026-11-03-d48e6a"
+      ],
+      "first_seen": "2026-11-03",
+      "last_updated": "2026-11-03",
+      "seed": false
+    },
+    {
+      "id": "lg-cns-jakarta-smx01",
+      "name": "SMX01",
+      "operator": "LG CNS",
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "capacity_mw": 30,
+      "status": "operational",
+      "developer": "LG Sinar Mas",
+      "investor": null,
+      "investment": null,
+      "phases": "Phase 1: 21MW initial phase; total planned 30MW",
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "operational",
+          "date": "2026-11-03",
+          "story_id": "2026-11-03-63a357"
+        }
+      ],
+      "story_ids": [
+        "2026-11-03-63a357"
+      ],
+      "first_seen": "2026-11-03",
+      "last_updated": "2026-11-03",
+      "seed": false,
+      "capacity_note": "total planned"
     }
   ],
-  "updated_at": "2026-11-02T07:54:02Z"
+  "updated_at": "2026-11-03T08:10:08Z"
 }
