@@ -99953,10 +99953,12 @@
       "expansion_planned": null,
       "specs": null,
       "status_history": [],
-      "story_ids": [],
+      "story_ids": [
+        "2026-11-04-d13938"
+      ],
       "first_seen": "2026-08-18",
-      "last_updated": null,
-      "seed": true,
+      "last_updated": "2026-11-04",
+      "seed": false,
       "source": "datacentermap",
       "dcm_id": 18847,
       "dcm_sync": {
@@ -103862,7 +103864,7 @@
       "region": "southeast-asia",
       "country": "Malaysia",
       "city": "Perak",
-      "capacity_mw": null,
+      "capacity_mw": 100,
       "status": "announced",
       "developer": null,
       "investor": null,
@@ -103890,11 +103892,13 @@
         }
       ],
       "story_ids": [
-        "2026-11-03-cf460f"
+        "2026-11-03-cf460f",
+        "2026-11-04-63dad0"
       ],
       "first_seen": "2026-11-03",
-      "last_updated": "2026-11-03",
-      "seed": false
+      "last_updated": "2026-11-04",
+      "seed": false,
+      "capacity_note": "planned capacity exceeding 100MW"
     },
     {
       "id": "world-vision-united-group-tay-ninh-nam-tan-uyen-ai-data-center",
@@ -104060,7 +104064,296 @@
       "last_updated": "2026-11-03",
       "seed": false,
       "capacity_note": "total planned"
+    },
+    {
+      "id": "goodman-group-sydney-sydney-data-centre",
+      "name": "Sydney data centre",
+      "operator": "Goodman Group",
+      "region": "australia",
+      "country": "Australia",
+      "city": "Sydney",
+      "capacity_mw": null,
+      "status": "cancelled",
+      "developer": null,
+      "investor": null,
+      "investment": "$1.2 billion",
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "cancelled",
+          "date": "2026-11-04",
+          "story_id": "2026-11-04-201b12"
+        }
+      ],
+      "story_ids": [
+        "2026-11-04-201b12"
+      ],
+      "first_seen": "2026-11-04",
+      "last_updated": "2026-11-04",
+      "seed": false
+    },
+    {
+      "id": "princeton-digital-group-johor-jh1-campus",
+      "name": "JH1 campus",
+      "operator": "Princeton Digital Group",
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "city": "Johor",
+      "capacity_mw": null,
+      "status": "under_construction",
+      "developer": null,
+      "investor": null,
+      "investment": "US$1.3 billion green loan",
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "under_construction",
+          "date": "2026-11-04",
+          "story_id": "2026-11-04-da9707"
+        }
+      ],
+      "story_ids": [
+        "2026-11-04-da9707"
+      ],
+      "first_seen": "2026-11-04",
+      "last_updated": "2026-11-04",
+      "seed": false
+    },
+    {
+      "id": "samsung-sds-gumi-gumi-ai-data-center",
+      "name": "Gumi AI Data Center",
+      "operator": "Samsung SDS",
+      "region": "korea",
+      "country": "South Korea",
+      "city": "Gumi",
+      "capacity_mw": null,
+      "status": "under_construction",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "under_construction",
+          "date": "2026-11-04",
+          "story_id": "2026-11-04-27181f"
+        }
+      ],
+      "story_ids": [
+        "2026-11-04-27181f"
+      ],
+      "first_seen": "2026-11-04",
+      "last_updated": "2026-11-04",
+      "seed": false
+    },
+    {
+      "id": "sm-jakarta-jakarta-data-center",
+      "name": "Jakarta data center",
+      "operator": "SM+",
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "capacity_mw": null,
+      "status": "operational",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "operational",
+          "date": "2026-11-04",
+          "story_id": "2026-11-04-46fae1"
+        }
+      ],
+      "story_ids": [
+        "2026-11-04-46fae1"
+      ],
+      "first_seen": "2026-11-04",
+      "last_updated": "2026-11-04",
+      "seed": false
+    },
+    {
+      "id": "australian-data-centres-western-downs-western-downs",
+      "name": "Western Downs",
+      "operator": "Australian Data Centres",
+      "region": "australia",
+      "country": "Australia",
+      "city": "Western Downs",
+      "capacity_mw": null,
+      "status": "operational",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [
+        "Anthropic"
+      ],
+      "power": "significant renewable energy resources",
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "operational",
+          "date": "2026-11-04",
+          "story_id": "2026-11-04-d0eec4"
+        }
+      ],
+      "story_ids": [
+        "2026-11-04-d0eec4"
+      ],
+      "first_seen": "2026-11-04",
+      "last_updated": "2026-11-04",
+      "seed": false
+    },
+    {
+      "id": "ntt-global-data-centers-indonesia-data-centre-expansion",
+      "name": "Indonesia data centre expansion",
+      "operator": "NTT Global Data Centers",
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "city": "",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": "US$500 million invested since 2015",
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-11-04",
+          "story_id": "2026-11-04-7585c1"
+        }
+      ],
+      "story_ids": [
+        "2026-11-04-7585c1"
+      ],
+      "first_seen": "2026-11-04",
+      "last_updated": "2026-11-04",
+      "seed": false
+    },
+    {
+      "id": "saigontel-tay-ninh-tay-ninh-ai-data-center",
+      "name": "Tay Ninh AI data center",
+      "operator": "SAIGONTEL",
+      "region": "southeast-asia",
+      "country": "Vietnam",
+      "city": "Tay Ninh",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": "World Vision United Group",
+      "investor": "World Vision United Group",
+      "investment": "US$700 million",
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-11-04",
+          "story_id": "2026-11-04-3022e3"
+        }
+      ],
+      "story_ids": [
+        "2026-11-04-3022e3"
+      ],
+      "first_seen": "2026-11-04",
+      "last_updated": "2026-11-04",
+      "seed": false
     }
   ],
-  "updated_at": "2026-11-03T08:10:08Z"
+  "updated_at": "2026-11-04T07:52:29Z"
 }

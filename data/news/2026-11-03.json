@@ -10,71 +10,6 @@
   ],
   "stories": [
     {
-      "id": "2026-11-03-5ee78b",
-      "title": "Copper, tin fall with base metals on renewed AI stock sell-off",
-      "summary": "Copper and tin fell with other industrial metals, as a renewed sell-off in technology stocks in Asia weakened the demand outlook for materials used in data centres and to solder circuit boards.",
-      "why_it_matters": "",
-      "score": 55,
-      "heat": 1,
-      "regions": [
-        "southeast-asia",
-        "global"
-      ],
-      "topics": [
-        "chips",
-        "commodities",
-        "ai",
-        "investment"
-      ],
-      "published_at": "2026-11-03T05:22:54Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/824330",
-          "type": "html-list"
-        }
-      ],
-      "title_zh": "铜、锡随基本金属下跌，因AI股票新一轮抛售削弱需求前景",
-      "content": "(Nov 3): Copper and tin fell with other industrial metals, as a renewed sell-off in technology stocks in Asia weakened the demand outlook for materials used in data centres and to solder circuit boards.\n\nBoth contracts dropped more than 1% on the London Metal Exchange as concerns persisted over spending and stretched valuations at artificial intelligence companies. Tin has plunged 10% this quarter, the worst performer among the LME’s six major metals.\n\nCopper had risen on Monday, helped in part by a pullback in oil prices that could mitigate inflation pressures. The US and Iran have signalled a willingness to pursue peace talks, easing anxiety over the war’s impact on interest rates and global growth.\n\nStill, macro conditions are putting a lot of pressure on metals, particularly given the possibility that the conflict could resume after the US midterm elections, said Xu Wanqiu, an analyst with Cofco Futures Co.\n\nCopper fell 1.2% to US$14,180 a tonne as of 10.50am in Shanghai (same time as Malaysia) while tin declined 2.2% to US$48,550 a tonne. Aluminium dropped 1.1% to US$3,060.50 a tonne.\n\n*Uploaded by Arion Yeow*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/824330"
-    },
-    {
-      "id": "2026-11-03-cf460f",
-      "title": "Perak and Global Vision Lab look into opening new AI data centre in the state",
-      "summary": "Perak State Development Corporation is evaluating a proposal from Global Vision Lab for an AI-focused data center development, potentially leveraging the state's relatively lower land and power costs compared to the saturated Klang Valley market. The discussions represent Perak's strategic effort to attract technology investment and diversify from traditional manufacturing and agriculture dependence.",
-      "why_it_matters": "Malaysia's data center geography is fragmenting beyond the established Cyberjaya and Iskandar corridors as states compete for AI investment with differentiated incentive packages. Perak's entry disrupts the pricing power of incumbent developers in saturated markets while testing whether secondary Malaysian locations can deliver the fiber connectivity and grid reliability that hyperscale customers require without excessive infrastructure buildout delays.",
-      "score": 80,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "ai",
-        "capacity",
-        "investment",
-        "development"
-      ],
-      "published_at": "2026-11-03T03:34:10Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/824314",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Global Vision Lab",
-        "PKNPk"
-      ],
-      "title_zh": "Perak与Global Vision Lab探讨在该州新建AI数据中心",
-      "summary_zh": "Perak State Development Corporation正在评估Global Vision Lab的AI-focused data centre开发提案，可能利用该州相对于饱和的Klang Valley市场较低的土地和电力成本。这些讨论代表了Perak吸引技术投资并从传统制造业和农业依赖中多元化的战略努力。",
-      "why_zh": "随着各州以差异化激励方案竞争AI投资，马来西亚的data centre地理正在超越成熟的Cyberjaya和Iskandar走廊而碎片化。Perak的进入扰乱了饱和市场中现有开发商的定价权，同时测试二级马来西亚地点能否在不产生过度基础设施建设延迟的情况下提供hyperscale客户所需的光纤连接和电网可靠性。",
-      "content": "KUALA LUMPUR (Nov 3): The Perak State Development Corporation (PKNPk) and Global Vision Lab Sdn Bhd (GVL) are exploring a proposal for an artificial intelligence (AI) data centre development in Perak.\n\nSo far, only a non-disclosure agreement and a letter of consent have been signed so both parties can exchange information and hold preliminary assessments for the project.\n\nThis data centre would be used to meet the growing demand for AI computing, high–performance computing and graphics processing unit-based applications across Malaysia and the region, with a planned power capacity exceeding 100MW.\n\nAs the initiative is still in the preliminary assessment phase, the full scope and power capacity is still to be determined.\n\nUnder the agreement, PKNPk will be in charge of coordinating state-level stakeholders while GVL leads the development planning and assessments.\n\nItman Service Center (Malaysia) Sdn Bhd and Future Quantum Co Ltd have also been mentioned as project partners, though their roles are yet to be finalised.\n\nThis proposal is part of an effort to strengthen Perak’s role in Malaysia’s digital ecosystem. The preliminary assessment is to focus on site suitability, power supply availability, cooling system, network connectivity and related infrastructure requirements.\n\n“The initiative supports the aspirations of Perak Sejahtera 2030 and creates opportunities for Perak to emerge as a destination for the development of high-technology digital infrastructure,” said PKNPk chief executive Datuk Redza Rafiq in a release.\n\nAdditionally, the data centre could also bring high-skilled job opportunities, strengthen local supply chains and increase AI adoption across sectors.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/824314"
-    },
-    {
       "id": "2026-11-03-fad7df",
       "title": "DRAM prices double in 2026 as AI focus squeezes PC makers",
       "summary": "Contract prices for DRAM have doubled throughout 2026 as AI server demand consumes disproportionate manufacturing capacity, particularly for high-bandwidth memory variants that command premium pricing. PC and smartphone manufacturers face acute component shortages and cost pressures, with some vendors reducing DRAM content in consumer devices to preserve margins.",
@@ -141,7 +76,8 @@
       ],
       "title_zh": "EU steps up subsea cable buildout to Japan and South Korea",
       "content": "LONDON -- The European Union is working on plans to lay Arctic submarine cables to connect to Japan and South Korea via Greenland, although a lack of urgency in Tokyo is a drag on the project, experts said.\n\nTelecommunication\n# EU steps up subsea cable buildout to Japan and South Korea\n\nWhile Brussels views project as critical infrastructure, Tokyo sees it as commercial venture\n\nOden is a research vessel that the Polar Connect project has used to survey and map the Arctic. (Courtesy of Polar Connect)",
-      "content_url": "https://asia.nikkei.com/business/telecommunication/eu-steps-up-subsea-cable-buildout-to-japan-and-south-korea"
+      "content_url": "https://asia.nikkei.com/business/telecommunication/eu-steps-up-subsea-cable-buildout-to-japan-and-south-korea",
+      "published_precision": "day"
     },
     {
       "id": "2026-11-03-f8b0b3",
@@ -176,6 +112,37 @@
       "why_zh": "新加坡作为AI基础设施测试中心的崛起将供应商和运营商的专业知识集中在具有严格监管标准的地点，创造知识溢出效应，提升区域技术能力。Schneider Electric和Huawei等竞争对手现在必须匹配这一本地存在，否则随着亚洲运营商越来越要求在承诺数百万美元基础设施部署之前进行实际操作验证，他们可能会被排除在早期设计决策之外。",
       "content": "Tue, 3rd Nov 2026 (Today)\nVertiv has opened the Vertiv Experience Centre Singapore, a facility for customers and partners working on AI and high-density computing infrastructure.\n\nThe new centre gives visitors hands-on access to the company's integrated power, liquid cooling and infrastructure systems. It is designed for customers, channel partners, consultants and other industry stakeholders.\n\nThe facility features live demonstrations of intelligent modular data centre infrastructure, thermal management equipment, power management systems and monitoring tools. It shows how those technologies work together in environments built for AI and dense computing workloads.\n\nFeatured systems include Vertiv SmartRun, a prefabricated overhead infrastructure product that combines power distribution, liquid cooling piping, networking and busway in a single platform. The site also includes Vertiv SmartAisle 3, described by the company as its latest generation of modular data centre infrastructure.\n\nOther technologies on show include liquid cooling systems for direct-to-chip and other high-density cooling applications, as well as critical power systems, switchgear and power distribution equipment. Visitors can also see infrastructure management and monitoring systems designed to give operators greater visibility over site conditions and operations.\n\nSingapore is one of Asia's main digital infrastructure hubs, and the opening comes as AI workloads increase pressure on data centre operators to manage rising power density and cooling demand. Across the sector, suppliers have been expanding their offerings in liquid cooling, power management and integrated infrastructure as operators adapt facilities for more intensive computing loads.\n\nAntony Szafranek, Senior Director for Strategic Accounts, Vertiv Asia, said the new centre reflects changing customer requirements across the region. \"Organisations across Asia are scaling their digital infrastructure to support AI innovation, creating new demands for reliability, efficiency and speed of deployment,\" Szafranek said.\n\nHe added: \"The Experience Centre gives customers and partners a hands-on environment to explore how integrated power and cooling technologies can support higher-density computing while maintaining operational resilience.\"\n\n### AI infrastructure\n\nThe centre is intended to illustrate an end-to-end approach to AI infrastructure spanning power, cooling and IT systems. That focus mirrors a broader industry push to link electrical, thermal and computing design more closely as AI servers consume more energy and generate more heat than conventional enterprise systems.\n\nDaniel Sim, Senior Director for AI Ecosystem Alliances and Channel Partners, Vertiv Asia, said customers need to assess how those elements work together rather than in isolation. \"The pace of AI-driven transformation requires greater integration of power, cooling and IT infrastructure,\" Sim said.\n\nHe added: \"At the Experience Centre, customers can see how these technologies work together to address the infrastructure requirements of AI and high-density computing.\"\n\nVertiv, which is listed in New York, sells power, cooling and IT infrastructure products for data centres, communications networks and industrial facilities. It says it operates in more than 130 countries.",
       "content_url": "https://datacenternews.asia/story/vertiv-opens-singapore-centre-for-ai-infrastructure"
+    },
+    {
+      "id": "2026-11-03-5ee78b",
+      "title": "Copper, tin fall with base metals on renewed AI stock sell-off",
+      "summary": "Copper and tin fell with other industrial metals, as a renewed sell-off in technology stocks in Asia weakened the demand outlook for materials used in data centres and to solder circuit boards.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "commodities",
+        "ai",
+        "investment"
+      ],
+      "published_at": "2026-11-03T05:22:54Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824330",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "铜、锡随基本金属下跌，因AI股票新一轮抛售削弱需求前景",
+      "content": "(Nov 3): Copper and tin fell with other industrial metals, as a renewed sell-off in technology stocks in Asia weakened the demand outlook for materials used in data centres and to solder circuit boards.\n\nBoth contracts dropped more than 1% on the London Metal Exchange as concerns persisted over spending and stretched valuations at artificial intelligence companies. Tin has plunged 10% this quarter, the worst performer among the LME’s six major metals.\n\nCopper had risen on Monday, helped in part by a pullback in oil prices that could mitigate inflation pressures. The US and Iran have signalled a willingness to pursue peace talks, easing anxiety over the war’s impact on interest rates and global growth.\n\nStill, macro conditions are putting a lot of pressure on metals, particularly given the possibility that the conflict could resume after the US midterm elections, said Xu Wanqiu, an analyst with Cofco Futures Co.\n\nCopper fell 1.2% to US$14,180 a tonne as of 10.50am in Shanghai (same time as Malaysia) while tin declined 2.2% to US$48,550 a tonne. Aluminium dropped 1.1% to US$3,060.50 a tonne.\n\n*Uploaded by Arion Yeow*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/824330",
+      "published_precision": "day"
     },
     {
       "id": "2026-11-03-37e67b",
@@ -244,6 +211,41 @@
       "why_zh": "越南作为新加坡和马来西亚大规模AI基础设施的可信替代品的出现，取决于省级政府能否提供可靠的电力和简化的审批。Tay Ninh对该项目的考虑正在测试越南工业园区是否能匹配hyperscalers所需的执行确定性，成功可能会触发Da Nang和Hanoi地区寻求类似投资流入的竞争性提案。",
       "content": "Tay Ninh Province in Vietnam is considering a proposed US$ 700 million artificial intelligence data center project following discussions with Taiwan’s World Vision United Group and its international partners.\n\nThe proposal, involving an investment consortium led by SAIGONTEL, would cover 20 hectares at Nam Tan Uyen Industrial Park. The planned facility would have a capacity of 200 MW, with the first phase accounting for 100 MW as reported by Saigon Giai Phone.\n\nA delegation from Vietnam’s Tay Ninh Province recently visited Taipei, Taiwan, to survey the YiDi project in Datong District and hold discussions with World Vision United Group and its international partners. During a working session, the investors presented the project proposal to provincial officials, outlining its proposed scale and investment.\n\nAccording to Tay Ninh authorities the project could support the development of the local digital economy and attract high-tech investment. However, the province will hold further discussions with the investors to assess the project’s feasibility.\n\nThe next stage will focus on clarifying requirements for infrastructure, power supply and technology, as well as the proposed investment scale and implementation schedule.",
       "content_url": "https://w.media/vietnams-province-considers-us-700-million-ai-data-center-project/"
+    },
+    {
+      "id": "2026-11-03-cf460f",
+      "title": "Perak and Global Vision Lab look into opening new AI data centre in the state",
+      "summary": "Perak State Development Corporation is evaluating a proposal from Global Vision Lab for an AI-focused data center development, potentially leveraging the state's relatively lower land and power costs compared to the saturated Klang Valley market. The discussions represent Perak's strategic effort to attract technology investment and diversify from traditional manufacturing and agriculture dependence.",
+      "why_it_matters": "Malaysia's data center geography is fragmenting beyond the established Cyberjaya and Iskandar corridors as states compete for AI investment with differentiated incentive packages. Perak's entry disrupts the pricing power of incumbent developers in saturated markets while testing whether secondary Malaysian locations can deliver the fiber connectivity and grid reliability that hyperscale customers require without excessive infrastructure buildout delays.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "capacity",
+        "investment",
+        "development"
+      ],
+      "published_at": "2026-11-03T03:34:10Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824314",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Global Vision Lab",
+        "PKNPk"
+      ],
+      "title_zh": "Perak与Global Vision Lab探讨在该州新建AI数据中心",
+      "summary_zh": "Perak State Development Corporation正在评估Global Vision Lab的AI-focused data centre开发提案，可能利用该州相对于饱和的Klang Valley市场较低的土地和电力成本。这些讨论代表了Perak吸引技术投资并从传统制造业和农业依赖中多元化的战略努力。",
+      "why_zh": "随着各州以差异化激励方案竞争AI投资，马来西亚的data centre地理正在超越成熟的Cyberjaya和Iskandar走廊而碎片化。Perak的进入扰乱了饱和市场中现有开发商的定价权，同时测试二级马来西亚地点能否在不产生过度基础设施建设延迟的情况下提供hyperscale客户所需的光纤连接和电网可靠性。",
+      "content": "KUALA LUMPUR (Nov 3): The Perak State Development Corporation (PKNPk) and Global Vision Lab Sdn Bhd (GVL) are exploring a proposal for an artificial intelligence (AI) data centre development in Perak.\n\nSo far, only a non-disclosure agreement and a letter of consent have been signed so both parties can exchange information and hold preliminary assessments for the project.\n\nThis data centre would be used to meet the growing demand for AI computing, high–performance computing and graphics processing unit-based applications across Malaysia and the region, with a planned power capacity exceeding 100MW.\n\nAs the initiative is still in the preliminary assessment phase, the full scope and power capacity is still to be determined.\n\nUnder the agreement, PKNPk will be in charge of coordinating state-level stakeholders while GVL leads the development planning and assessments.\n\nItman Service Center (Malaysia) Sdn Bhd and Future Quantum Co Ltd have also been mentioned as project partners, though their roles are yet to be finalised.\n\nThis proposal is part of an effort to strengthen Perak’s role in Malaysia’s digital ecosystem. The preliminary assessment is to focus on site suitability, power supply availability, cooling system, network connectivity and related infrastructure requirements.\n\n“The initiative supports the aspirations of Perak Sejahtera 2030 and creates opportunities for Perak to emerge as a destination for the development of high-technology digital infrastructure,” said PKNPk chief executive Datuk Redza Rafiq in a release.\n\nAdditionally, the data centre could also bring high-skilled job opportunities, strengthen local supply chains and increase AI adoption across sectors.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/824314"
     },
     {
       "id": "2026-11-03-cfa7cd",
@@ -338,6 +340,105 @@
       "title_zh": "AI正在打破现代数据中心内部的边界",
       "content": "The rapid rise of AI is not only driving unprecedented demand for data centres. It is fundamentally changing how those facilities are designed. Legrand’s Head of Data Centre Solutions Brendan Dessent **told W.Media** that one of the biggest shifts underway is the gradual disappearance of the traditional divide between “grey space” and “white space” inside data centres.\n\nWhat was once a clear separation between supporting infrastructure and IT equipment is becoming increasingly blurred as AI workloads push compute density to new levels. Historically, white space housed servers and racks, while grey space accommodated the electrical and mechanical infrastructure needed to support them. However, AI-driven deployments are bringing critical infrastructure closer to the rack itself.\n\nDessent explained that technologies such as rack-level UPS systems, rear-door cooling and closed-loop cooling solutions are moving equipment traditionally located outside the data hall directly into the white space. “The grey space is now not going to be a separate part of the data centre,” he said, describing a future where infrastructure becomes increasingly localised around high-density compute environments.\n\n### AI driving density\n\nThe trend is being accelerated by the extraordinary power demands of AI. While data centres have traditionally been designed around relatively modest rack densities, today’s AI environments are pushing rapidly toward 150kW racks, with designs for megawatt-scale racks already being discussed across the industry.\n\n“As rack power climbs, operators can no longer rely on centralised support systems alone,” he said. “Cooling, power protection, and monitoring must become more targeted, more responsive, and physically closer to the equipment being supported.”\n\n“This shift is forcing designers to rethink the data hall itself,” he emphasised.\n\nIn one recent example in Australia, electrical infrastructure inside the white space occupied almost the same physical footprint as the rack environment it was supporting, highlighting how support systems are increasingly becoming part of the compute environment rather than separate from it.\n\n### Monitoring becomes mission-critical\n\nWith more infrastructure being incorporated into the data hall, operational visibility is becoming increasingly important. As power densities rise and cooling systems become more localised, operators will require far more granular monitoring and management capabilities than in traditional data centre environments.\n\nAI itself is also play a growing role in supporting data centre infrastructure management, as well as generating the reasons for its evolution. Rather than replacing jobs, AI is expected to help project teams handle growing workloads, enabling engineers, estimators, and project managers to manage larger and more complex projects more efficiently.\n\n“There is plenty of work going around,” Dessent said, arguing that AI should be viewed as a capacity multiplier rather than a workforce replacement tool.\n\n### Security challenges emerge\n\nThe convergence of infrastructure and computing environments also introduces new security considerations. As mechanical and electrical systems move closer to sensitive computing environments, a larger proportion of maintenance and operations staff may require access to secure areas of facilities. For government and high-security sites, this can involve baseline security clearances and, in some cases, NV1-level security clearances.\n\nThe challenge is compounded by Australia’s ongoing shortage of skilled technical workers.\n\n“As we know, we rely in this country a lot on people who aren’t Australian citizens to keep the wheels turning,” Dessent observed.\n\n### The data hall of the future\n\nWhile debate continues about exactly how far densities can rise, there is broad agreement that AI is driving the industry towards a more integrated model. The future data hall is likely to feature localised power, localised cooling, and highly intelligent monitoring systems, all centred around the rack itself.\n\nIn that future, the rack becomes what Dessent described as “the centre of the universe”. Infrastructure will no longer sit around the compute environment. Instead, it will become an inseparable part of it.\n\nIf it can, data centres may prove to be more than digital infrastructure. They could become a catalyst for the revitalisation of regional Australia itself.\n\n*This article, **the second of two**, is based on a W.Media interview with Brendan Dessent at the Sydney Cloud & Datacenter Convention 2026 in September. **Listen to the full podcast.***",
       "content_url": "https://w.media/ai-is-collapsing-the-boundaries-inside-modern-data-centres/"
+    },
+    {
+      "id": "2026-11-03-b10d96",
+      "title": "Marvell reaches US$115 billion deal for Lumentum",
+      "summary": "Marvell's acquisition of Lumentum at a $115 billion enterprise value creates a combined company with end-to-end capabilities in data center optical interconnects, including coherent DSPs, transceivers, and laser components essential for AI cluster scaling. The deal represents one of the largest technology mergers as component suppliers consolidate to capture value from surging AI infrastructure spending.",
+      "why_it_matters": "The Marvell-Lumentum combination concentrates critical optical component supply under a single vendor, reducing bargaining leverage for cloud providers and systems integrators who must now negotiate with a more powerful supplier. This vertical integration pressure will trigger defensive consolidation among remaining optical players like Coherent and Broadcom, while potentially accelerating Chinese domestic optical component development as geopolitical supply security concerns intensify.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "optics",
+        "ai",
+        "acquisition"
+      ],
+      "published_at": "2026-11-02T15:59:44Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824280",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Marvell Technology",
+        "Lumentum Holdings"
+      ],
+      "title_zh": "Marvell 达成以 1150 亿美元收购 Lumentum 的交易",
+      "summary_zh": "Marvell以1150亿美元企业价值收购Lumentum，创建了一家在data centre光互连领域拥有端到端能力的合并公司，包括AI集群扩展所需的相干DSP、收发器和激光组件。该交易代表了最大的技术合并之一，因为组件供应商整合以从激增的AI基础设施支出中获取价值。",
+      "why_zh": "Marvell-Lumentum的组合将关键光学组件供应集中在单一供应商之下，减少了云提供商和系统集成商的议价能力，他们现在必须与更强大的供应商谈判。这种垂直整合压力将触发Coherent和Broadcom等剩余光学参与者的防御性整合，同时随着地缘政治供应安全担忧加剧，可能会加速中国国内光学组件开发。",
+      "content": "(Nov 2): Marvell Technology Inc has reached a deal to buy data centre optics maker Lumentum Holdings Inc at an enterprise value of US$115 billion (RM466.4 billion), one of the biggest tech tie-ups ever, in a race to capitalise on the artificial intelligence (AI) boom.\n\nThe all-stock transaction will give Marvell shareholders 67% of the combined company, according to a statement confirming an earlier *Bloomberg News* report that the two Silicon Valley companies were nearing a pact. The deal is expected to close in the first half of 2028, the companies said.\n\nOn an equity basis, it’s the top M&A deal of the year and the largest ever in the global tech sector, excluding the SpaceX-xAI merger, data compiled by *Bloomberg* show. The transaction shows how AI is driving deals across almost all major sectors and regions, from chipmakers and other specialist tech suppliers, to data center operators and power utilities.\n\nLumentum shares fell as much as 12% in New York to US$740.10. Marvell declined as much as 7.3% to US$182.15. Heading into the announcement, Lumentum was valued at US$76 billion as of Friday. Marvell was valued at US$172.2 billion.\n\nLumentum makes lasers and other optical technology for moving enormous amounts of data at high speeds. That hardware underpins the AI boom, as it lets data centres and telecommunications firms move information between servers, facilities and other destinations.\n\nMarvell already purchases laser technology from Lumentum, and the larger company has been increasing its bets on optical and photonic technology for connecting data center gear. Earlier this year, Marvell purchased photonics maker Celestial AI.\n\nNvidia Corp announced an agreement to take a US$2 billion stake in Lumentum in March as part of a deal that included collaboration on photonics, which use light instead of traditional copper wiring to move data faster and more efficiently.\n\nMarvell also works with Amazon.com Inc’s cloud unit and Microsoft Corp to help build custom AI chips. In August, the company struck a chip deal with Alphabet Inc’s Google to support Google’s tensor processing units.\n\nQatalyst Partners is serving as the lead financial adviser to Marvell, with Goldman Sachs Group Inc and JPMorgan Chase & Co also working with the company. Citigroup Inc and Evercore Inc are advising Lumentum.\n\n*Uploaded by Felyx Teoh*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/824280"
+    },
+    {
+      "id": "2026-11-03-ee4c68",
+      "title": "Northern Solar secures solar-plus-battery projects totalling 189MW for data centres",
+      "summary": "Northern Solar Holdings Bhd (KL:NORTHERN) has secured two letters of award to supply renewable energy from solar projects with a combined capacity of 189 megawatts (MW), coupled with battery storage systems, to two data centre projects.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "renewable energy",
+        "solar",
+        "battery storage"
+      ],
+      "published_at": "2026-11-02T13:54:31Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824271",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Northern Solar Holdings"
+      ],
+      "title_zh": "Northern Solar 获得总计 189MW 的数据中心太阳能加储能项目",
+      "content": "KUALA LUMPUR (Nov 2): Northern Solar Holdings Bhd (KL:NORTHERN) has secured two letters of award to supply renewable energy from solar projects with a combined capacity of 189 megawatts (MW), coupled with battery storage systems, to two data centre projects.\n\nThe awards, received through wholly owned subsidiary Northern Solar Assets Sdn Bhd, fall under the Corporate Renewable Energy Supply Scheme (CRESS), according to the group's filings with Bursa Malaysia on Monday.\n\nThe first project involves a 100MW solar facility with a battery energy storage system (BESS) to serve a data centre requiring 262.8 million kilowatt-hours (kWh) of electricity annually.\n\nThe second involves an 89MW solar facility, also equipped with BESS, for another data centre with an annual electricity requirement of 233.89 million kWh.\n\nTogether, the two data centres have a combined annual electricity requirement of approximately 496.69 million kWh.\n\nNorthern Solar did not disclose the value of either project or the identities of the awarding parties, citing confidentiality provisions.\n\nIt only said that the first award was issued by a Malaysian company involved in property investment and data centre infrastructure, while the second came from a Malaysian subsidiary of a Singapore-based data centre services operator.\n\nThe commencement dates for both projects have yet to be finalised, with further announcements expected upon the signing of definitive agreements.\n\nNorthern Solar expects the projects to contribute positively to its earnings and net assets per share during their execution.\n\nThe latest awards come as Northern Solar seeks to expand beyond its traditional solar engineering and construction business into owning renewable energy assets.\n\nIn September, Apex Securities said the group was finalising details of a potential 170MW solar-plus-storage project under CRESS, which could accelerate its transition towards generating recurring income from long-term electricity supply agreements.\n\nHowever, it remains unclear whether the two latest awards are related to the project previously highlighted by the research house.\n\nNorthern Solar had also secured a RM34 million contract in October to develop a 9.5MW large-scale solar photovoltaic plant, bringing its total contract wins for the year at that point to RM153.4 million.\n\nIts unbilled order book stood at RM189.3 million as at end-June 2026.\n\nNorthern Star transferred its listing from Bursa Malaysia's ACE Market to the Main Market on Oct 6.\n\nIts shares closed down four sen or 3.54% at RM1.09 on Monday, valuing the group at RM431.2 million.\n\nEdited ByS Kanagaraju\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/824271"
+    },
+    {
+      "id": "2026-11-03-d48e6a",
+      "title": "ISF Group grows order book to RM225.5m with data centre contracts worth RM83.2m",
+      "summary": "ISF Group Bhd (KL:ISF) has secured four contracts worth a combined RM83.23 million for a hyperscale data centre in Port Dickson, Negeri Sembilan, the largest amount it has announced to date.",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "construction",
+        "hyperscale",
+        "investment",
+        "contract"
+      ],
+      "published_at": "2026-11-02T13:08:54Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824266",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "ISF Group"
+      ],
+      "title_zh": "ISF Group 凭借价值 8320 万令吉的数据中心合同将订单增加至 2.255 亿令吉",
+      "content": "KUALA LUMPUR (Nov 2): ISF Group Bhd (KL:ISF) has secured four contracts worth a combined RM83.23 million for a hyperscale data centre in Port Dickson, Negeri Sembilan, the largest amount it has announced to date.\n\nThe piping solutions provider said its wholly-owned subsidiary Yeo Plumber Sdn Bhd accepted three subcontracts and a letter of award from an unnamed Malaysian construction firm, according to a Bursa filing on Monday.\n\nThe three subcontracts are worth RM73.33 million and involve cold water systems, rainwater harvesting, water distribution and sanitary services, while the RM9.9 million letter of award covers external sewerage works.\n\nThe projects are scheduled for completion between November 2026 and July 2028.\n\nFollowing the latest wins, the group's unbilled order book has increased to RM225.5 million, providing earnings visibility through the financial year ending Dec 31, 2029 (FY2029).\n\nISF managing director Jeff Ai Boon Chen described the contracts as a significant milestone for the group, reflecting its growing ability to undertake larger and more complex projects.\n\nAi said Malaysia's emergence as a regional data centre hub continues to create opportunities for supporting infrastructure works, with data centre projects accounting for a significant portion of the group's business.\n\nISF it is also exploring opportunities to expand into larger-scale water infrastructure projects in Malaysia, particularly water treatment plants and initiatives to reduce water losses from supply networks.\n\nThe latest contracts follow at least RM47 million in jobs ISF won this year, including a RM14.5 million data centre project in June.\n\nISF, which made its debut on Bursa Malaysia's ACE Market on Jan 28 at an initial public offering price of 33 sen, is regarded by research house CGS International as an underappreciated stock benefitting from the next wave of data centre construction.\n\nShares of ISF closed unchanged at 83.5 sen Monday, valuing the group at RM835 million.\n\nEdited BySyed Azahedi\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/824266"
     },
     {
       "id": "2026-11-03-bcb4fb",
@@ -506,137 +607,6 @@
       "content_url": "https://www.datacenterdynamics.com/en/news/ge-vernova-order-backlog-hits-197bn-as-data-center-demand-drives-gas-turbine-sales/"
     },
     {
-      "id": "2026-11-03-44738f",
-      "title": "Rolling with the punches: NextDC braces for another strike against pay",
-      "summary": "The hits keep on coming at Craig Scroggie-led data centre owner NextDC. And another blow may be delivered in just 18 days if the company’s board has not manoeuvred strategically and swiftly enough to…",
-      "why_it_matters": "",
-      "score": 70,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "colocation",
-        "investment",
-        "regulation",
-        "labor"
-      ],
-      "published_at": "2026-11-02T09:00:00Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/companies/infrastructure/rolling-with-the-punches-nextdc-braces-for-another-strike-against-pay-20261102-p61ah7",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "NextDC"
-      ],
-      "title_zh": "迎难而上：NextDC准备应对又一轮薪酬罢工",
-      "content": "The hits keep on coming at Craig Scroggie-led data centre owner NextDC. And another blow may be delivered in just 18 days if the company’s board has not manoeuvred strategically and swiftly enough to avoid a second strike against pay at its upcoming annual shareholder meeting.\n\nInfluential governance firm CGI Glass Lewis is already urging investors to vote against NextDC’s remuneration report. That’s based on what CGI deems an inadequate response by the board to last year’s strike, recent operational woes, and a stark misalignment between remuneration and performance.",
-      "content_url": "https://www.afr.com/companies/infrastructure/rolling-with-the-punches-nextdc-braces-for-another-strike-against-pay-20261102-p61ah7"
-    },
-    {
-      "id": "2026-11-03-b10d96",
-      "title": "Marvell reaches US$115 billion deal for Lumentum",
-      "summary": "Marvell's acquisition of Lumentum at a $115 billion enterprise value creates a combined company with end-to-end capabilities in data center optical interconnects, including coherent DSPs, transceivers, and laser components essential for AI cluster scaling. The deal represents one of the largest technology mergers as component suppliers consolidate to capture value from surging AI infrastructure spending.",
-      "why_it_matters": "The Marvell-Lumentum combination concentrates critical optical component supply under a single vendor, reducing bargaining leverage for cloud providers and systems integrators who must now negotiate with a more powerful supplier. This vertical integration pressure will trigger defensive consolidation among remaining optical players like Coherent and Broadcom, while potentially accelerating Chinese domestic optical component development as geopolitical supply security concerns intensify.",
-      "score": 75,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [
-        "chips",
-        "optics",
-        "ai",
-        "acquisition"
-      ],
-      "published_at": "2026-11-02T15:59:44Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/824280",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Marvell Technology",
-        "Lumentum Holdings"
-      ],
-      "title_zh": "Marvell 达成以 1150 亿美元收购 Lumentum 的交易",
-      "summary_zh": "Marvell以1150亿美元企业价值收购Lumentum，创建了一家在data centre光互连领域拥有端到端能力的合并公司，包括AI集群扩展所需的相干DSP、收发器和激光组件。该交易代表了最大的技术合并之一，因为组件供应商整合以从激增的AI基础设施支出中获取价值。",
-      "why_zh": "Marvell-Lumentum的组合将关键光学组件供应集中在单一供应商之下，减少了云提供商和系统集成商的议价能力，他们现在必须与更强大的供应商谈判。这种垂直整合压力将触发Coherent和Broadcom等剩余光学参与者的防御性整合，同时随着地缘政治供应安全担忧加剧，可能会加速中国国内光学组件开发。",
-      "content": "(Nov 2): Marvell Technology Inc has reached a deal to buy data centre optics maker Lumentum Holdings Inc at an enterprise value of US$115 billion (RM466.4 billion), one of the biggest tech tie-ups ever, in a race to capitalise on the artificial intelligence (AI) boom.\n\nThe all-stock transaction will give Marvell shareholders 67% of the combined company, according to a statement confirming an earlier *Bloomberg News* report that the two Silicon Valley companies were nearing a pact. The deal is expected to close in the first half of 2028, the companies said.\n\nOn an equity basis, it’s the top M&A deal of the year and the largest ever in the global tech sector, excluding the SpaceX-xAI merger, data compiled by *Bloomberg* show. The transaction shows how AI is driving deals across almost all major sectors and regions, from chipmakers and other specialist tech suppliers, to data center operators and power utilities.\n\nLumentum shares fell as much as 12% in New York to US$740.10. Marvell declined as much as 7.3% to US$182.15. Heading into the announcement, Lumentum was valued at US$76 billion as of Friday. Marvell was valued at US$172.2 billion.\n\nLumentum makes lasers and other optical technology for moving enormous amounts of data at high speeds. That hardware underpins the AI boom, as it lets data centres and telecommunications firms move information between servers, facilities and other destinations.\n\nMarvell already purchases laser technology from Lumentum, and the larger company has been increasing its bets on optical and photonic technology for connecting data center gear. Earlier this year, Marvell purchased photonics maker Celestial AI.\n\nNvidia Corp announced an agreement to take a US$2 billion stake in Lumentum in March as part of a deal that included collaboration on photonics, which use light instead of traditional copper wiring to move data faster and more efficiently.\n\nMarvell also works with Amazon.com Inc’s cloud unit and Microsoft Corp to help build custom AI chips. In August, the company struck a chip deal with Alphabet Inc’s Google to support Google’s tensor processing units.\n\nQatalyst Partners is serving as the lead financial adviser to Marvell, with Goldman Sachs Group Inc and JPMorgan Chase & Co also working with the company. Citigroup Inc and Evercore Inc are advising Lumentum.\n\n*Uploaded by Felyx Teoh*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/824280"
-    },
-    {
-      "id": "2026-11-03-ee4c68",
-      "title": "Northern Solar secures solar-plus-battery projects totalling 189MW for data centres",
-      "summary": "Northern Solar Holdings Bhd (KL:NORTHERN) has secured two letters of award to supply renewable energy from solar projects with a combined capacity of 189 megawatts (MW), coupled with battery storage systems, to two data centre projects.",
-      "why_it_matters": "",
-      "score": 60,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "power",
-        "renewable energy",
-        "solar",
-        "battery storage"
-      ],
-      "published_at": "2026-11-02T13:54:31Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/824271",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Northern Solar Holdings"
-      ],
-      "title_zh": "Northern Solar 获得总计 189MW 的数据中心太阳能加储能项目",
-      "content": "KUALA LUMPUR (Nov 2): Northern Solar Holdings Bhd (KL:NORTHERN) has secured two letters of award to supply renewable energy from solar projects with a combined capacity of 189 megawatts (MW), coupled with battery storage systems, to two data centre projects.\n\nThe awards, received through wholly owned subsidiary Northern Solar Assets Sdn Bhd, fall under the Corporate Renewable Energy Supply Scheme (CRESS), according to the group's filings with Bursa Malaysia on Monday.\n\nThe first project involves a 100MW solar facility with a battery energy storage system (BESS) to serve a data centre requiring 262.8 million kilowatt-hours (kWh) of electricity annually.\n\nThe second involves an 89MW solar facility, also equipped with BESS, for another data centre with an annual electricity requirement of 233.89 million kWh.\n\nTogether, the two data centres have a combined annual electricity requirement of approximately 496.69 million kWh.\n\nNorthern Solar did not disclose the value of either project or the identities of the awarding parties, citing confidentiality provisions.\n\nIt only said that the first award was issued by a Malaysian company involved in property investment and data centre infrastructure, while the second came from a Malaysian subsidiary of a Singapore-based data centre services operator.\n\nThe commencement dates for both projects have yet to be finalised, with further announcements expected upon the signing of definitive agreements.\n\nNorthern Solar expects the projects to contribute positively to its earnings and net assets per share during their execution.\n\nThe latest awards come as Northern Solar seeks to expand beyond its traditional solar engineering and construction business into owning renewable energy assets.\n\nIn September, Apex Securities said the group was finalising details of a potential 170MW solar-plus-storage project under CRESS, which could accelerate its transition towards generating recurring income from long-term electricity supply agreements.\n\nHowever, it remains unclear whether the two latest awards are related to the project previously highlighted by the research house.\n\nNorthern Solar had also secured a RM34 million contract in October to develop a 9.5MW large-scale solar photovoltaic plant, bringing its total contract wins for the year at that point to RM153.4 million.\n\nIts unbilled order book stood at RM189.3 million as at end-June 2026.\n\nNorthern Star transferred its listing from Bursa Malaysia's ACE Market to the Main Market on Oct 6.\n\nIts shares closed down four sen or 3.54% at RM1.09 on Monday, valuing the group at RM431.2 million.\n\nEdited ByS Kanagaraju\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/824271"
-    },
-    {
-      "id": "2026-11-03-d48e6a",
-      "title": "ISF Group grows order book to RM225.5m with data centre contracts worth RM83.2m",
-      "summary": "ISF Group Bhd (KL:ISF) has secured four contracts worth a combined RM83.23 million for a hyperscale data centre in Port Dickson, Negeri Sembilan, the largest amount it has announced to date.",
-      "why_it_matters": "",
-      "score": 70,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "construction",
-        "hyperscale",
-        "investment",
-        "contract"
-      ],
-      "published_at": "2026-11-02T13:08:54Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/824266",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "ISF Group"
-      ],
-      "title_zh": "ISF Group 凭借价值 8320 万令吉的数据中心合同将订单增加至 2.255 亿令吉",
-      "content": "KUALA LUMPUR (Nov 2): ISF Group Bhd (KL:ISF) has secured four contracts worth a combined RM83.23 million for a hyperscale data centre in Port Dickson, Negeri Sembilan, the largest amount it has announced to date.\n\nThe piping solutions provider said its wholly-owned subsidiary Yeo Plumber Sdn Bhd accepted three subcontracts and a letter of award from an unnamed Malaysian construction firm, according to a Bursa filing on Monday.\n\nThe three subcontracts are worth RM73.33 million and involve cold water systems, rainwater harvesting, water distribution and sanitary services, while the RM9.9 million letter of award covers external sewerage works.\n\nThe projects are scheduled for completion between November 2026 and July 2028.\n\nFollowing the latest wins, the group's unbilled order book has increased to RM225.5 million, providing earnings visibility through the financial year ending Dec 31, 2029 (FY2029).\n\nISF managing director Jeff Ai Boon Chen described the contracts as a significant milestone for the group, reflecting its growing ability to undertake larger and more complex projects.\n\nAi said Malaysia's emergence as a regional data centre hub continues to create opportunities for supporting infrastructure works, with data centre projects accounting for a significant portion of the group's business.\n\nISF it is also exploring opportunities to expand into larger-scale water infrastructure projects in Malaysia, particularly water treatment plants and initiatives to reduce water losses from supply networks.\n\nThe latest contracts follow at least RM47 million in jobs ISF won this year, including a RM14.5 million data centre project in June.\n\nISF, which made its debut on Bursa Malaysia's ACE Market on Jan 28 at an initial public offering price of 33 sen, is regarded by research house CGS International as an underappreciated stock benefitting from the next wave of data centre construction.\n\nShares of ISF closed unchanged at 83.5 sen Monday, valuing the group at RM835 million.\n\nEdited BySyed Azahedi\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/824266"
-    },
-    {
       "id": "2026-11-03-c8f949",
       "title": "OpenAI CEO Sam Altman meets with Samsung execs as memory chip shortage deepens",
       "summary": "Sam Altman held discussions with Samsung Electronics executives in Seoul as OpenAI scrambles to secure stable supplies of high-bandwidth memory chips critical for training large AI models. The meeting underscores deepening supply chain anxiety as HBM3E and future HBM4 production remains concentrated among Samsung, SK Hynix, and Micron.",
@@ -681,7 +651,41 @@
       "summary_zh": "Sam Altman在首尔与Samsung Electronics高管举行了会谈，因为OpenAI急于确保训练大型AI模型所需的高带宽内存芯片的稳定供应。这次会议凸显了日益加深的供应链焦虑，因为HBM3E和未来HBM4的生产仍然集中在Samsung、SK Hynix和Micron手中。",
       "why_zh": "Altman与Samsung的直接接触揭示了AI模型提供商如何绕过传统组件分销商，在源头锁定内存供应。没有类似高管级别访问权限的云提供商和GPU服务器制造商面临分配劣势，可能会扩大OpenAI支持的基础设施与竞争AI平台之间的差距。",
       "content": "OpenAI CEO Sam Altman has met with top executives from Samsung in an effort to shore up its supply of memory chips amid ongoing shortages.\n\nPer a report from Bloomberg, Altman met with around 50 senior executives from the South Korean chipmaker in Yongin, south of Seoul, to discuss the impact of artificial intelligence (AI) on industries such as finance and biotech, and potential business opportunities over the coming decade.\n\nThe discussions took place in the same week that the OpenAI CEO appeared on the Cheeky Pint podcast, where he told the host – Stripe co-founder John Collison – that individuals using their desktop computers to do local inference were further constraining memory chip supply chains.\n\n“A lot of people want local inference, and somehow, they assume that the problem is solved now, because we are going to have open-source models,” Altman said.\n\n“\\[They think\\] ‘We’re going to be able to run them on our computers and so we’re not going to need all the stuff in the data center.’“\n\nHe continued: “But, from a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer and being used five percent of the time. You want maximum utilization in the cloud if you're trying to deal with this very supply-constrained environment. And somehow many people's intuition is the opposite of that.\"\n\nMemory companies have warned that the memory chip shortage is likely to persist into 2027 and beyond, with consumer electronics the most likely to suffer in the face of ongoing shortages, as capacity will increasingly become allocated to AI infrastructure projects.\n\nIn January 2025, the Wall Street Journal reported that data from TrendForce shows that up to 70 percent of the memory produced worldwide in 2026 will be consumed by data centers.\n\nIn October 2025, OpenAI signed a letter of intent (LOI) with Samsung Electronics and SK Hynix for the supply of memory chips.\n\nAt the time, the companies released a statement claiming OpenAI’s Stargate memory demand was projected to reach 900,000 DRAM wafers a month, although no timeline was given for when that demand was expected to be met.\n\nNo further details regarding the agreement or anticipated DRAM allocation have been provided by either company. However, in September of this year, following comments from Harrison Kim, general manager of OpenAI Korea, that Samsung was working with OpenAI on the development of next-generation chips, a spokesperson for OpenAI said the partners were simply planning to expand their collaboration “in the context of our existing relationship, including Samsung Electronics’ adoption of ChatGPT and the LOI announced last October.”",
-      "content_url": "https://www.datacenterdynamics.com/en/news/openai-ceo-sam-altman-meets-with-samsung-execs-as-memory-chip-shortage-deepens/"
+      "content_url": "https://www.datacenterdynamics.com/en/news/openai-ceo-sam-altman-meets-with-samsung-execs-as-memory-chip-shortage-deepens/",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-11-03-44738f",
+      "title": "Rolling with the punches: NextDC braces for another strike against pay",
+      "summary": "The hits keep on coming at Craig Scroggie-led data centre owner NextDC. And another blow may be delivered in just 18 days if the company’s board has not manoeuvred strategically and swiftly enough to…",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "colocation",
+        "investment",
+        "regulation",
+        "labor"
+      ],
+      "published_at": "2026-11-02T09:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/infrastructure/rolling-with-the-punches-nextdc-braces-for-another-strike-against-pay-20261102-p61ah7",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NextDC"
+      ],
+      "title_zh": "迎难而上：NextDC准备应对又一轮薪酬罢工",
+      "content": "The hits keep on coming at Craig Scroggie-led data centre owner NextDC. And another blow may be delivered in just 18 days if the company’s board has not manoeuvred strategically and swiftly enough to avoid a second strike against pay at its upcoming annual shareholder meeting.\n\nInfluential governance firm CGI Glass Lewis is already urging investors to vote against NextDC’s remuneration report. That’s based on what CGI deems an inadequate response by the board to last year’s strike, recent operational woes, and a stark misalignment between remuneration and performance.",
+      "content_url": "https://www.afr.com/companies/infrastructure/rolling-with-the-punches-nextdc-braces-for-another-strike-against-pay-20261102-p61ah7",
+      "published_precision": "day"
     },
     {
       "id": "2026-11-03-63a357",

@@ -174,7 +174,7 @@
       "summary": "It plans to spend about US$825 billion in the future on AI, data centres and cloud computing",
       "why_it_matters": "",
       "score": 60,
-      "heat": 1,
+      "heat": 2,
       "regions": [
         "global"
       ],
@@ -191,14 +191,23 @@
           "name": "The Business Times — Data Centres topic",
           "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/meta-raise-us95-billion-equity-fund-costly-ai-expansion",
           "type": "html-list"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/big-four-hyperscalers-raising-more-that-131-billion-in-debt-and-equity-for-ai-buildout/",
+          "type": "html-list"
         }
       ],
       "companies": [
-        "Meta"
+        "Meta",
+        "Microsoft",
+        "Google",
+        "Amazon"
       ],
       "title_zh": "Meta拟筹集高达950亿美元股权以资助高成本的AI扩张",
       "content": "It plans to spend about US$825 billion in the future on AI, data centres and cloud computing\n\nMETA Platforms said on Monday (Oct 26) it plans to raise up to US$95 billion in equity to fund its costly AI-related expansion of data centres, cloud computing power and other infrastructure.\n\nThe company launched public offerings of about US$35 billion in common stock and convertible preferred stock. It also said it plans to launch a separate at-the-market share sale programme of up to US$60 billion after its new non-voting Class C shares begin trading, which is expected in the first quarter of 2027.\n\nMeta has stepped up spending on data centres, computing capacity and AI products to compete with rival AI heavyweights OpenAI and Anthropic.\n\nThe social media company had cash, cash equivalents and marketable securities of US$82.45 billion, slightly exceeding its long-term debt of US$80.92 billion as of Sep 30, according to its quarterly filing from last week.\n\nThe company has committed to spend about US$825 billion in the future, primarily driven by its growing investments in data centres, AI-related infrastructure and cloud computing power.\n\nMeta said chip companies Nvidia, Advanced Micro Devices and Broadcom have expressed interest in purchasing up to US$5 billion of Meta’s Class A common stock in the offering.\n\nLast week, Meta raised the lower end of its annual spending forecast, now expecting capital expenditure to be between US$135 billion and US$145 billion this year, up from US$130 billion to US$145 billion expected previously.\n\nMeta reported a US$2.12 billion cash burn in the third quarter, marking its first negative free cash flow in over ten years, compared with a positive cash flow of US$10.63 billion a year ago.\n\nThe company reported third-quarter revenue of US$64.6 billion, ahead of Wall Street estimates of US$63.37 billion. It also projected fourth-quarter revenue between US$73 billion and US$76 billion. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
-      "content_url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/meta-raise-us95-billion-equity-fund-costly-ai-expansion"
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/meta-raise-us95-billion-equity-fund-costly-ai-expansion",
+      "published_precision": "day"
     },
     {
       "id": "2026-10-28-b8ea86",
