@@ -1,0 +1,915 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T07:57:57Z",
+  "hot": [
+    "2026-11-05-ca560b",
+    "2026-11-05-403f4b",
+    "2026-11-05-78b171",
+    "2026-11-05-f1d077",
+    "2026-11-05-60633b"
+  ],
+  "stories": [
+    {
+      "id": "2026-11-05-62eb77",
+      "title": "Data centres could use twice the power of all the houses in Sydney",
+      "summary": "A new analysis projects that data centers in the Sydney metropolitan region alone could consume electricity equivalent to twice the current residential demand of all Sydney households by 2030. The forecast assumes continued deployment of AI training and inference infrastructure without significant efficiency improvements or demand-side management.",
+      "why_it_matters": "The projection forces New South Wales policymakers to confront a binary choice between accelerating renewable generation buildout or imposing effective moratoriums on data center approvals. For operators, the public framing of data centers as residential power competitors raises political risk that could translate into carbon taxes or curtailed grid access, fundamentally altering the economics of Sydney as a deployment location versus regional Australian alternatives.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "power",
+        "capacity",
+        "sustainability"
+      ],
+      "published_at": "2026-11-05T07:07:35Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/infrastructure/data-centres-could-use-twice-the-power-of-all-the-houses-in-sydney-20261105-p61blq",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "数据中心用电量可能达到悉尼所有住宅的两倍",
+      "summary_zh": "一项新分析预测，仅Sydney大都市区的data center到2030年就可能消耗相当于目前所有Sydney家庭住宅需求两倍的电力。该预测假设AI训练和推理基础设施持续部署，而效率提升或需求侧管理没有显著改善。",
+      "why_zh": "该预测迫使New South Wales政策制定者面对一个二元选择：要么加速可再生能源发电建设，要么对data center审批实施有效禁令。对于运营商而言，将data center定位为住宅电力竞争对手的公众叙事增加了政治风险，可能转化为碳税或电网接入限制，从根本上改变Sydney作为部署地点与Australia区域替代方案之间的经济比较。",
+      "content": "The NSW government has been warned the $50 billion worth of data centres in the state’s existing development pipeline could consume more than twice the electricity of every household in Sydney.\n\nBut the actual impact of the data centre build out on the energy grid is impossible to calculate because developers often put in speculative grid connection requests that distort usage forecasts, a parliamentary committee has found.\n\nLoading...",
+      "content_url": "https://www.afr.com/companies/infrastructure/data-centres-could-use-twice-the-power-of-all-the-houses-in-sydney-20261105-p61blq"
+    },
+    {
+      "id": "2026-11-05-fcad10",
+      "title": "NextDC prepares for takeover battle after Goodman share raid",
+      "summary": "NextDC's board has activated defensive measures and engaged advisors to prepare for a potential takeover battle after Goodman Group acquired a substantial share position through rapid market purchases. The Australian data center operator has not received a formal bid but is treating Goodman's accumulation as hostile preliminary positioning.",
+      "why_it_matters": "NextDC's defensive posture reveals how vulnerable standalone data center assets have become to strategic buyers with property and infrastructure expertise. Australian institutional investors must now weigh the premium in a control transaction against the long-term value of retaining a domestically headquartered operator that serves government and financial services clients with sovereign data requirements.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "takeover",
+        "hyperscale",
+        "colocation"
+      ],
+      "published_at": "2026-11-05T00:11:47Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/infrastructure/nextdc-prepares-for-takeover-battle-after-share-raid-20261105-p61bl3",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NextDC",
+        "Goodman"
+      ],
+      "title_zh": "NextDC在Goodman突袭股权后准备应对收购战",
+      "summary_zh": "在Goodman Group通过快速市场收购获得大量股份后，NextDC董事会已启动防御措施并聘请顾问准备应对潜在的收购战。这家Australian data center运营商尚未收到正式要约，但将Goodman的积累视为敌意的初步 positioning。",
+      "why_zh": "NextDC的防御姿态表明，standalone data center资产对于拥有房地产和基础设施专业知识的战略买家已变得多么脆弱。Australian机构投资者现在必须权衡控制权交易中的溢价，与保留一家总部设在国内、为具有主权数据需求的政府和金融服务客户提供服务的运营商的长期价值。",
+      "content": "NextDC investors are bracing for a takeover battle that would value the data centre operator at more than $7 billion after Australian property developer Goodman Group and its New York-listed partner raided the company’s shares.\n\nGoodman and Digital Realty Trust acquired just under 8 per cent of the embattled data centre landlord in a buying spree on Wednesday afternoon, making them NextDC’s biggest combined shareholder.\n\nLoading...",
+      "content_url": "https://www.afr.com/companies/infrastructure/nextdc-prepares-for-takeover-battle-after-share-raid-20261105-p61bl3"
+    },
+    {
+      "id": "2026-11-05-8f7bbf",
+      "title": "Microsoft rejects multibillion-dollar AI deal with UK's Nscale",
+      "summary": "BENGALURU (Nov 5): Microsoft has rejected an option to more than double the size of its existing agreement with Nscale to rent computing power at a Texas data centre, walking away from a potential deal worth tens of billions of dollar...",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "hyperscale",
+        "investment",
+        "cloud"
+      ],
+      "published_at": "2026-11-05T06:41:19Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824663",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Microsoft",
+        "Nscale"
+      ],
+      "title_zh": "Microsoft拒绝与英国Nscale达成数十亿美元AI交易",
+      "content": "BENGALURU (Nov 5): Microsoft will not exercise an option to more than double the size of its existing agreement with AI cloud provider Nscale to rent more computing power at a Texas data centre, according to a person familiar with the matter.\n\nThe *Financial Times*, which first reported the news on Thursday, said a potential deal extension would have been worth tens of billions of dollars for Nscale.\n\nThe person, who declined to be named because the matter is confidential, said Microsoft's decision to not expand the contract was made several months ago, before Nscale filed for its IPO in September, and added that its existing Texas contract with Microsoft was not affected.\n\nThe companies struck a deal last year for Nscale to deploy around 200,000 Nvidia chips under an expanded agreement with Microsoft across its data centres in Europe and the US.\n\nThe development comes weeks after Microsoft pulled out of a deal to anchor Nscale's flagship data centre project in Loughton, Essex, after power connection delays pushed its expected supply date into the 2030s.\n\nNscale had said in its IPO filing that between September 2025 and April 2026 that it signed statements of work with Microsoft worth up to about US$43.8 billion through December 2033, excluding optional extensions.\n\nThe source said that Microsoft's decision to not exercise the option has no impact on Nscale's total contract value of about US$103 billion, as disclosed in the IPO filing.\n\nNscale was already in discussions with several major customers for the rest of the data centre capacity in Texas, the person said.\n\nMicrosoft and Nscale did not respond to a request for comment outside business hours.\n\n*Reuters* and others reported last month that Nscale was in talks to sell AI computing power to Claude-maker Anthropic in a new deal that could be worth about US$45 billion.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/824663"
+    },
+    {
+      "id": "2026-11-05-c96d75",
+      "title": "Engineering firm Rosado adds Kenanga as underwriter for ACE Market IPO",
+      "summary": "Rosado Bhd, specialising in electrical works for data centres, added Kenanga Investment Bank Bhd as an underwriter for its ACE Market listing this month.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "colocation",
+        "construction"
+      ],
+      "published_at": "2026-11-05T06:15:45Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824655",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Rosado Bhd",
+        "Kenanga Investment Bank Bhd"
+      ],
+      "title_zh": "工程公司Rosado增聘Kenanga为ACE Market IPO承销商",
+      "content": "KUALA LUMPUR (Nov 5): Rosado Bhd, specialising in electrical works for data centres, added Kenanga Investment Bank Bhd as an underwriter for its ACE Market listing this month.\n\nKenanga will join Malacca Securities to underwrite shares under the initial public offering (IPO) set aside for the Malaysian public investors and eligible persons under the pink form allocation. The IPO is set for launch on Nov 27, according to a spokesperson for Rosado.\n\nMalacca Securities is the principal adviser, sponsor, managing underwriter and managing placement agent for the IPO while Kenanga is a joint underwriter and joint placement agent.\n\nThe listing will provide Rosado with access to capital to strengthen its capabilities and support its expansion, managing director and chief executive officer Datuk Lim Tiew Sin said in a statement.\n\n“We see this listing exercise as an opportunity to build on the foundation we have established and pursue our next phase of growth,” he said.\n\nBased in Selangor, Rosado provides mechanical, electrical, and plumbing engineering services commonly known as MEP for data centres — clients that accounted for nearly all of its revenue in the past three years. The company also performs earthworks and other civil construction services.\n\nThe planned IPO will be the latest in the line of MEP contractors filing for an IPO on Bursa Malaysia. Pioneer Heat Holdings Bhd (KL:PIONEER) was listed in September, while SKA Capital Bhd is set for Nov 11 listing. MyDCD Bhd is scheduled for a debut on Nov 17.\n\nRosado’s specialisation in electrical engineering works for data centres “places it within an important segment of the digital infrastructure value chain, where dependable power infrastructure and execution capabilities are essential”, said Malacca Securities managing director Lim Chia Wei.\n\nThe company is well positioned to tap into the rising demand for data centres thanks to its track record, said Datuk Roslan Tik, an executive director and the head of group investment banking and Islamic banking at Kenanga.\n\nThe IPO also includes an offer for sale of existing shares by TSLIM Holdings Sdn Bhd, a private vehicle of the founding Lim family of Rosado, according to the draft prospectus filed in June.\n\nEdited ByJason Ng\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/824655"
+    },
+    {
+      "id": "2026-11-05-55eb85",
+      "title": "Singapore's DayOne secures US$237 mil loan for Hong Kong data centre",
+      "summary": "DayOne Data Centers has secured a HK$1.86 billion (US$237 million or RM960 million) loan to help finance a project in Hong Kong, according to people familiar with the matter, adding to a slew of funding deals for the Singapore company as it seeks to expand globally.",
+      "why_it_matters": "",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "china"
+      ],
+      "topics": [
+        "investment",
+        "financing",
+        "colocation",
+        "expansion"
+      ],
+      "published_at": "2026-11-05T05:52:25Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824650",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "DayOne Data Centers"
+      ],
+      "title_zh": "新加坡DayOne为香港数据中心获得2.37亿美元贷款",
+      "content": "(Nov 5): DayOne Data Centers has secured a HK$1.86 billion (US$237 million or RM960 million) loan to help finance a project in Hong Kong, according to people familiar with the matter, adding to a slew of funding deals for the Singapore company as it seeks to expand globally.\n\nDBS Group Holdings Ltd, Oversea-Chinese Banking Corp (OCBC) and United Overseas Bank Ltd (UOB) provided HK$300 million each, while Bank of East Asia Ltd contributed HK$955 million, said the people, who asked not to be identified discussing private matters.\n\nThe five-year facility carries a margin of 152 basis points over the benchmark Hong Kong interbank offered rate, with a lower rate available if sustainability-linked targets are met, the people added.\n\nThe loan deal underscores DayOne’s efforts to push forward with artificial intelligence (AI) related projects amid global investors’ growing wariness about whether firms’ spending on AI-related infrastructure will pay off. The company also has been planning a US initial public offering, but is weighing its options, including a potential delay or size cut, as volatility around data centres increases.\n\nProceeds from the loan would also be used for refinancing, along with capital expansion for a Hong Kong data centre, the people said. The borrower is a special purpose vehicle, they added.\n\nDayOne and DBS declined to comment. OCBC, BEA and UOB didn’t respond to requests for comments.\n\nDespite concerns about the sector, the AI boom is still driving a wave of debt financing, with Moody’s expecting at least US$3 trillion of data centre-related investment over the next five years. Blackstone-owned AirTrunk, for example, secured a A$4.25 billion (US$3 billion or RM12.06 billion) green loan for a Sydney data centre campus, while Blue Owl Capital-owned Stack Infrastructure Inc. is seeking a A$8.6 billion facility for a project in Melbourne.\n\nDayOne also has been in early stage talks with banks for a potential US$500 million bond offering. It closed half of a US$7 billion-equivalent loan — one of the largest AI-related borrowings in Asia earlier this year, while also obtaining a four-year S$530 million (US$414 million or RM1.68 billion) to develop its first data centre in Singapore.\n\nOnce an international affiliate of Chinese data centre operator GDS Holdings Ltd, DayOne was previously known as GDS International before rebranding last year. It has brought in international investors, including SoftBank Vision Fund, Coatue Management and Ken Griffin and closed a US$4.5 billion Series C funding round in June.\n\nApart from Indonesia, the company is operating or developing data centres in several places including Singapore, Malaysia, Hong Kong, Thailand and Finland, according to the company’s website.\n\n*Uploaded by Tham Yek Lee*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/824650"
+    },
+    {
+      "id": "2026-11-05-133bf8",
+      "title": "Sunway Construction wins RM1.74 bil contract to build another data centre in Selangor",
+      "summary": "Sunway Construction Group has been awarded a RM1.74 billion contract to construct a hyperscale data center in Bandar Serendah, Selangor, deepening Malaysia's concentration of large-scale digital infrastructure projects. The facility is designed to international Tier III standards and will add to the growing cluster of data centers in the Greater Kuala Lumpur corridor.",
+      "why_it_matters": "The contract value demonstrates how Malaysian construction firms are capturing premium margins from specialized data center build expertise that was previously dominated by Chinese and Korean contractors. As Selangor's power grid approaches saturation, project success depends on Tenaga Nasional's transmission upgrades, with any utility delays threatening Malaysia's credibility as a reliable alternative to Singapore for time-sensitive hyperscaler deployments.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "construction",
+        "hyperscale",
+        "capacity",
+        "investment"
+      ],
+      "published_at": "2026-11-05T05:34:48Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824648",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Sunway Construction Group Bhd"
+      ],
+      "title_zh": "Sunway Construction赢得17.4亿令吉合同，在雪兰莪再建一座hyperscale数据中心",
+      "summary_zh": "Sunway Construction Group已获得一份17.4亿令吉的合同，在Selangor的Bandar Serendah建设一座hyperscale data center，深化Malaysia大规模数字基础设施项目的集聚。该设施按国际Tier III标准设计，将为Greater Kuala Lumpur走廊不断增长的data center集群增添新成员。",
+      "why_zh": "合同金额表明Malaysia建筑公司正从专业化的data center建设专业知识中获取溢价利润，而这一领域此前由中国和韩国承包商主导。随着Selangor电网接近饱和，项目成功取决于Tenaga Nasional的输电升级，任何公用事业延误都将威胁Malaysia作为Singapore可靠替代方案的可信度，尤其是对于时间敏感的hyperscaler部署。",
+      "content": "KUALA LUMPUR (Nov 5): Sunway Construction Group Bhd (KL:SUNCON) announced that it has won a RM1.74 billion contract to build a hyperscale data centre in Bandar Serendah, Selangor.\n\nAccording to a filing with Bursa Malaysia, the construction arm of Sunway Bhd (KL:SUNWAY) said its wholly-owned subsidiary Sunway Construction Sdn Bhd had entered into an agreement with an unnamed international hyperscaler for the project on Thursday.\n\nThe latest win is its seventh data centre-related contract for this year and brings Sunway Construction’s new orders secured to RM9.8 billion year-to-date. This brings its outstanding total order book to RM13.4 billion.\n\nThe contract covers the construction of the data centre’s main structures, supporting infrastructure, as well as mechanical electrical and plumbing works.\n\nWorks are scheduled to begin in the fourth quarter of 2026, with completion targeted for the fourth quarter of 2028.\n\nSunway Construction said the project is expected to contribute positively to its earnings from the financial year ending Dec 31, 2026 onwards, although it is not expected to have a material immediate impact on its earnings, net assets or gearing for the current financial year.\n\nShares of Sunway Construction were up by two sen or 0.26% to RM7.70 at the noon break on Thursday, giving the group a market capitalisation of RM10.3 billion. Year to date, the counter has risen by 35.33%.\n\nEdited ByPresenna Nambiar\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/824648"
+    },
+    {
+      "id": "2026-11-05-78b171",
+      "title": "France's Tikehau, Natixis look to Asia as US data center boom raises risks",
+      "summary": "French investment firms Tikehau Capital and Natixis are increasing allocations to Asian data center markets as valuations in the United States reach levels they consider overheated. The firms are targeting development-stage projects in Japan, Australia, and Southeast Asia where they perceive more favorable risk-adjusted returns.",
+      "why_it_matters": "European capital rotation into APAC data centers validates regional market maturation but intensifies competition for development sites and operating platforms. The influx of yield-seeking institutional investors compresses cap rates and may inflate land values in secondary markets, squeezing local developers who rely on domestic financing and lack the scale to compete for trophy assets in Tokyo, Sydney, or Singapore.",
+      "score": 75,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "investment",
+        "data center",
+        "risk",
+        "asia expansion"
+      ],
+      "published_at": "2026-11-05T07:57:57Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/finance/france-s-tikehau-natixis-look-to-asia-as-us-data-center-boom-raises-risks",
+          "type": "rss"
+        },
+        {
+          "name": "Nikkei Asia — data center search",
+          "url": "https://asia.nikkei.com/business/finance/france-s-tikehau-natixis-look-to-asia-as-us-data-center-boom-raises-risks",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Tikehau",
+        "Natixis"
+      ],
+      "title_zh": "法国Tikehau、Natixis将目光转向亚洲，因美国data center热潮带来风险",
+      "summary_zh": "法国投资公司Tikehau Capital和Natixis正在增加对Asia data center市场的配置，因其认为United States的估值已达到过热水平。这些公司正瞄准Japan、Australia和Southeast Asia的开发阶段项目，认为这些地区具有更有利的风险调整后回报。",
+      "why_zh": "欧洲资本转向APAC data center验证了区域市场的成熟，但加剧了开发地点和运营平台的竞争。寻求收益的机构投资者的涌入压缩了cap rate，并可能推高二级市场的土地价值，挤压依赖国内融资、缺乏规模以在Tokyo、Sydney或Singapore竞争优质资产的本地开发商。",
+      "content": "Finance\n# France's Tikehau, Natixis look to Asia as US data center boom raises risks\n\nJapan, South Korea are among key targets for M&A, fundraising\n\nTikehau Capital co-founder Mathieu Chabran sees Asia eventually accounting for 10% to 20% of its portfolio. (Nikkei montage/Source photos by Mitsuru Obe and Getty Images)\n\nMITSURU OBE\n\nNovember 5, 2026 12:53 JST\n\nTOKYO -- French alternative asset manager Tikehau Capital is hunting for its first private equity investment in Japan, while Natixis Corporate and Investment Banking (CIB) is building out its mergers and acquisitions business in the country, as both seek to capitalize on growing opportunities in Asia's artificial intelligence business and energy transition.",
+      "content_url": "https://asia.nikkei.com/business/finance/france-s-tikehau-natixis-look-to-asia-as-us-data-center-boom-raises-risks"
+    },
+    {
+      "id": "2026-11-05-d8932d",
+      "title": "China's curbs on tungsten used in drill bits squeeze AI supply chain",
+      "summary": "Export controls on critical metal have sent price of key tool surging",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "supply chain",
+        "export controls",
+        "ai"
+      ],
+      "published_at": "2026-11-05T07:57:57Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/spotlight/supply-chain/china-s-curbs-on-tungsten-used-in-drill-bits-squeeze-ai-supply-chain",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "中国对钻头用钨的限制挤压AI supply chain",
+      "content": "Supply Chain\n# China's curbs on tungsten used in drill bits squeeze AI supply chain\n\nExport controls on critical metal have sent price of key tool surging\n\nTungsten carbide bits, like these made by Taiwan's Topoint, drill micro-holes in printed circuit boards (PCBs) and chip substrates. (Nikkei montage/Source photos by Cheng Ting-Fang)\n\nCHENG TING-FANG\n\nNovember 5, 2026 11:28 JST\n\nTAIPEI -- China's export controls on critical metals have disrupted supplies of micro drill bits, little-known but critical components in the AI chip supply chain, in the latest example of how geopolitical tensions are rippling through the global tech industry.",
+      "content_url": "https://asia.nikkei.com/spotlight/supply-chain/china-s-curbs-on-tungsten-used-in-drill-bits-squeeze-ai-supply-chain"
+    },
+    {
+      "id": "2026-11-05-fbd19f",
+      "title": "SoftBank acquisition of ABB robot unit blocked by China regulator that opposed Meta's Manus deal",
+      "summary": "The deal is part of founder Masayoshi Son’s ambition to play a larger role in the AI build-out",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "regulation",
+        "ai",
+        "chips",
+        "investment"
+      ],
+      "published_at": "2026-11-05T07:07:35Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/softbank-acquisition-abb-robot-unit-blocked-china-regulator-opposed-metas-manus-deal-ft",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "SoftBank",
+        "ABB",
+        "Meta"
+      ],
+      "title_zh": "中国监管机构阻止SoftBank收购ABB机器人部门，该机构曾反对Meta的Manus交易",
+      "content": "The deal is part of founder Masayoshi Son’s ambition to play a larger role in the AI build-out\n\n\\[HONG KONG\\] China has blocked SoftBank Group’s US$5.4 billion deal to acquire ABB’s robots unit, the *Financial Times* reported, citing unidentified people.\n\nThe deal – widely expected to bolster SoftBank’s revenue and profit while it awaits a boost from OpenAI’s public debut – was opposed by China’s powerful state planner, the National Development and Reform Commission (NDRC), according to the newspaper.\n\nThe Japanese backer of the ChatGPT creator was recently informed of the decision and is now trying to determine whether it can seek approval again, it said.\n\nSoftBank’s shares were down more than 7 per cent in Tokyo on Thursday (Nov 5). A company spokesperson declined to comment.\n\nFounder Masayoshi Son has listed the deal as a key part of his ambition to play a larger role in the artificial intelligence build-out.\n\nThe Tokyo-based investment firm was looking to take over a business from Swiss-Swedish conglomerate ABB with more than 7,000 employees, which supplies robotic arms and industrial machinery to manufacturers like BMW and has a large presence in China.\n\nCredit and equity investors worried about SoftBank’s near-US$65 billion investment in OpenAI and commitments to data centre projects worth hundreds of billions of dollars looked to ABB’s expected contribution to SoftBank’s bottom line for assurance that the company was not overextending itself.\n\nConcerns about Son’s exposure to hundreds of unlisted and unprofitable startups have grown since OpenAI head Sam Altman said the company would not go public in 2026. SoftBank held a 13 per cent stake in OpenAI as of October.\n\n“ABB Robotics lacks the cutting-edge innovation found across SoftBank’s physical AI startup portfolio, but its domain expertise and manufacturing know-how had been expected to transform robotic concepts into actual businesses,” said Bloomberg Intelligence analyst Kirk Boodry.\n\nIn April, the NDRC blocked Meta Platforms’ US$2 billion acquisition of agentic AI startup Manus, issuing a one-line notice saying it had decided to prohibit foreign investment in the startup in accordance with laws and regulations.\n\nSoftBank’s acquisition was similarly subjected to a foreign investment security review by the regulator, the FT said.\n\nChina, now aggressively expanding its humanoid robot and other physical AI applications, had been concerned about robotics data being transferred overseas and used to train competing AI models, according to the FT report.\n\nJapan is home to many of the world’s biggest industrial robot makers including Fanuc, Yaskawa Electric and Kawasaki Heavy Industries. Most have partnered with Nvidia to explore ways to use AI inside factories, hospitals and logistics networks and stay ahead of rising competition from China. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/softbank-acquisition-abb-robot-unit-blocked-china-regulator-opposed-metas-manus-deal-ft"
+    },
+    {
+      "id": "2026-11-05-543294",
+      "title": "New South Wales inquiry finds inadequate data centre approval checks",
+      "summary": "A New South Wales parliamentary inquiry determined that data center approval processes failed to assess cumulative impacts on water, energy, and road infrastructure, instead evaluating projects in isolation. The report criticized planning authorities for lacking coordination mechanisms to manage concentrated development in Western Sydney but stopped short of recommending a development pause.",
+      "why_it_matters": "The inquiry's findings expose a regulatory gap that threatens to undermine Australia's data center competitiveness as operators face unpredictable infrastructure costs from uncoordinated public investment. Without cumulative impact assessment, approved projects risk construction delays from inadequate utility capacity, while the absence of a moratorium recommendation preserves investment flow but leaves local communities bearing uncompensated externalities that could fuel political opposition to future expansions.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "regulation",
+        "capacity",
+        "power",
+        "ai"
+      ],
+      "published_at": "2026-11-05T06:10:26Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/new-south-wales-inquiry-finds-inadequate-data-centre-approval-checks/135561626",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "新南威尔士州调查发现data centre审批检查不足",
+      "summary_zh": "一项New South Wales议会调查发现，data center审批流程未能评估对水、能源和道路基础设施的累积影响，而是孤立地评估项目。该报告批评规划部门缺乏协调机制来管理Western Sydney的集中开发，但未建议暂停开发。",
+      "why_zh": "调查结果暴露了一个监管缺口，可能削弱Australia的data center竞争力，因为运营商面临不协调公共投资带来的不可预测基础设施成本。在没有累积影响评估的情况下，获批项目可能因公用事业capacity不足而面临建设延误；而未建议暂停开发则保留了投资流动，但让当地社区承担未获补偿的外部性，可能助长对未来扩张的政治反对。",
+      "content": "An inquiry by Australia's most populous state found data centre approvals failed to consider the cumulative effect on resources and infrastructure.The report by the New South Wales cross-party inquiry did not call for a moratorium. This prompted a strong rebuke from its chair, Abigail Boyd.The inquiry noted that the state lacks a coherent strategy to manage the data centre boom's impact. This includes effects on water, electricity, and infrastructure.It warned that current guidelines may underestimate future power demand and water supply limits. The clustering of facilities could also create infrastructure pressures.\n### Planning Framework Concerns\n\n\"The current planning framework assesses data centres primarily as individual developments despite many impacts being cumulative in nature,\" the report stated.It added that \"Data centre ... impacts are cumulative and are being felt across communities and other industries.\"The report called for a comprehensive data centre strategy and better coordination among participants in the approvals pipeline.Minutes attached to the report showed members of the Public Accountability and Works Committee voted 6-1 to remove recommendations for a state and national moratorium on data centre approvals. This was to be in place \"until such time as all social and environmental harms can be fully understood.\"Committee chair Abigail Boyd, an upper house member from the Greens party, cast the lone vote to keep the moratorium recommendations.\n\n- Policy, Land & Power\n- 1 min Read\n\n# New South Wales inquiry finds inadequate data centre approval checks\n\nAn inquiry in New South Wales found that data centre approvals did not consider cumulative resource impacts. This raises concerns over resource management amid an AI-led data centre boom, without recommending a moratorium.\n\n- Published On Nov 05, 2026 at 11:40 AM IST\n\n## Highlights\n\n- New South Wales inquiry found data centre approvals did not assess cumulative resource impacts.\n- Report did not recommend a moratorium on data centre developments despite concerns.\n- State lacks a coherent strategy for managing data centre boom's impact on water and power.\n- Committee members voted 6-1 against a moratorium on data centre approvals.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/new-south-wales-inquiry-finds-inadequate-data-centre-approval-checks/135561626"
+    },
+    {
+      "id": "2026-11-05-35d6e1",
+      "title": "Data center operators need community trust, not just permits",
+      "summary": "Schneider Electric indicates no slowdown in data center development, but highlights increasing community opposition. Operators must enhance transparency regarding power, water, and noise to secure necessary permits and maintain public relations.",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "regulation",
+        "community",
+        "power",
+        "development"
+      ],
+      "published_at": "2026-11-05T02:01:11Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/data-center-operators-need-community-trust-not-just-permits/135555845",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Schneider Electric"
+      ],
+      "title_zh": "数据中心运营商需要社区信任，而非仅许可证",
+      "content": "Schneider Electric's data center business pipeline shows no signs of slowing down, according to Steven Carlini, vice president of innovation and data center. However, Carlini stated that operators must significantly increase transparency with communities regarding the power, water, and land consumed by their projects.Traditionally, data center operators in the US negotiated permits with local jurisdictions under non-disclosure agreements. This practice left residents unaware of projects until construction began.Growing opposition to data center construction in the US has led to calls for moratoriums and halts, with New York state imposing one this summer. A Pew Research Center survey found that over half of Americans are wary of data centers, citing concerns about environmental impact, household energy bills, and water consumption for cooling.Carlini expects permitting requirements to force greater disclosure from operators. This will include details on power sources, water usage, carbon emissions, facility efficiency, physical location, and noise levels. Operators will also face ongoing reporting obligations once facilities are operational.From a public relations perspective, operators need to engage more amicably with local residents, Carlini added. They must acknowledge community concerns and clearly explain any benefits, such as tax breaks. For AI facilities, Carlini anticipates a shift in focus to performance metrics like \"tokens per watt\" or \"tokens per dollar,\" rather than solely power capacity.\n\n- Policy, Land & Power\n- 1 min Read\n\n# Data center operators need community trust, not just permits\n\nSchneider Electric indicates no slowdown in data center development, but highlights increasing community opposition. Operators must enhance transparency regarding power, water, and noise to secure necessary permits and maintain public relations.\n\n- Published On Nov 05, 2026 at 07:31 AM IST\n\n## Highlights\n\n- Schneider Electric sees no slowdown in data center project pipeline.\n- Operators must disclose power, water, carbon, noise details for permits.\n- Community opposition to data center construction is growing in the US.\n- AI facility performance metrics may shift to tokens per watt, not just power.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/data-center-operators-need-community-trust-not-just-permits/135555845"
+    },
+    {
+      "id": "2026-11-05-ba4752",
+      "title": "Schneider Electric launches modular AI data centre design",
+      "summary": "Rising demand for AI computing is pushing operators towards repeatable builds, and Schneider Electric says its new modular design can speed deployments.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "modular",
+        "design",
+        "infrastructure"
+      ],
+      "published_at": "2026-11-04T20:11:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/schneider-electric-launches-modular-ai-data-centre-design",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Schneider Electric"
+      ],
+      "title_zh": "Schneider Electric推出模块化AI数据中心设计",
+      "content": "Thu, 5th Nov 2026 (Today)\nSchneider Electric has launched a prefabricated modular data centre reference design for AI workloads, built to support the NVIDIA Vera Rubin platform.\n\nThe RapidScale Modular Data Centre Reference Design 115 is a pre-engineered blueprint for high-density AI infrastructure, combining power, liquid cooling, IT systems, software and lifecycle services in a modular format.\n\nSchneider Electric is positioning it as a response to a shift in data centre construction, as operators look for repeatable layouts rather than bespoke builds to meet rising demand for AI computing capacity.\n\nThe design is part of the group's RapidScale portfolio of prefabricated modular data centre systems. About 90% of the equipment used in the offer is made in-house, which Schneider Electric argues gives customers greater control over supply, deployment and long-term support.\n\nRising demand for AI infrastructure is putting pressure on developers to add capacity quickly while managing more complex power and cooling requirements. Schneider Electric estimates that global data centre capacity will increase by 170 GW by 2030, reaching 300 GW in total, with AI workloads accounting for about 65% of overall demand by the end of the decade.\n\nThat growth is straining traditional construction methods, particularly for facilities designed for dense computing environments. Higher power loads, more advanced cooling systems, pressure on grid connections and shortages of skilled labour have all made project delivery harder, especially for operators trying to bring new AI capacity online quickly.\n\n### Time study\n\nAlongside the launch, Schneider Electric highlighted a research paper it co-authored with Compass Datacenters on installation times for prefabricated white space modules in a high-density, liquid-cooled deployment.\n\nAccording to the study, prefabricated modular pods cut onsite installation time from 75.5 hours to 15 hours per pod, reducing installation duration by 80%. The research was based on a deployment at a Compass Datacenters hyperscale campus.\n\nIn a data centre, white space generally includes the IT rooms where computing equipment is installed, along with the concentration of supporting systems and trade work needed to bring that equipment into service.\n\n\"The white space brings together the greatest concentration of systems and trades in the smallest footprint, with each installation dependent on the one before it,\" said Adil Attlassy, Chief Technology Officer at Compass Datacenters.\n\n\"Working jointly with Schneider Electric, we engineered a prefabricated module that integrates these systems into a single assembly, eliminating the need to coordinate multiple scopes of work onsite. By reducing onsite installation time by 80%, we accelerate deployment and help our customers bring their workloads online sooner,\" Attlassy said.\n\n### Supply chain focus\n\nSchneider Electric said the new design also reflects the importance of supply chain planning in large-scale AI data centre projects, where delays in key components can affect build schedules and increase project risk.\n\nIts manufacturing capacity for this part of the business has grown fourfold since 2025. The company now operates eight primary sites with a combined 1.35 million square feet of capacity, alongside three additional facilities and 12 partner sites across 10 countries.\n\nThe design has been validated to ANSI standards for US deployments. Schneider Electric plans to extend the framework to support IEC standards for international use.\n\nThe company also describes RapidScale as a first step towards supporting the NVIDIA DSX POD reference design, intended to allow Vera Rubin-based AI infrastructure to be integrated and validated in a factory before shipment.\n\nCompetition in modular data centre infrastructure has intensified as cloud groups, colocation operators and specialist developers seek faster ways to build AI-ready facilities. Prefabrication has drawn attention because it can shift assembly and testing into factory settings, reducing the amount of work needed onsite.\n\nSchneider Electric cited Omdia research ranking it as the largest global manufacturer of prefabricated power solutions, the largest manufacturer of prefabricated modular data centres in North America, and among the top six providers globally outside North America.\n\n\"As AI infrastructure scales at unprecedented speed, customers need solutions that are standardized, reliable, and deployable with certainty,\" said Manish Kumar, Executive Vice President, Secure Power & Data Centres at Schneider Electric.\n\n\"Through our portfolio of reference designs and prefabricated solutions, combined with global supply chain strength and lifecycle expertise, we help AI factory operators accelerate time to value while building the resilient infrastructure required for next-generation compute,\" Kumar said.",
+      "content_url": "https://datacenternews.asia/story/schneider-electric-launches-modular-ai-data-centre-design"
+    },
+    {
+      "id": "2026-11-05-aa1887",
+      "title": "DCD Studio: Overcoming supply chain challenges, with Gaby Carrasco, DCD",
+      "summary": "Seb Moss speaks with DCD's Gabriela Carrasco about energy constraints, geopolitical pressures, supply chain risks, and the technical specialization required to navigate complex global data center hurdles.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "supply chain",
+        "power",
+        "geopolitics",
+        "data center"
+      ],
+      "published_at": "2026-11-04T17:07:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-overcoming-supply-chain-challenges-with-gaby-carrascom-dcd/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "DCD"
+      ],
+      "title_zh": "DCD Studio：与DCD Gaby Carrasco探讨克服供应链挑战",
+      "content": "02 Nov 2026 Nvidia in talks to backstop Nscale's Monarch Compute Campus project for Anthropic - report\n\nDCD Studio: Overcoming supply chain challenges, with Gaby Carrasco, DCD November 04, 2026 By DCD Have your say Seb Moss speaks with DCD's Gabriela Carrasco about energy constraints, geopolitical pressures, supply chain risks, and the technical specialization required to navigate complex global data center hurdles. Tags DCD Intelligence Energy Constraints Geopolitics Grid Reliability Supply Chain",
+      "content_url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-overcoming-supply-chain-challenges-with-gaby-carrascom-dcd/"
+    },
+    {
+      "id": "2026-11-05-6f4fac",
+      "title": "AI drives demand for high-capacity optical networks",
+      "summary": "The rapid growth of artificial intelligence (AI) is creating unprecedented demand for bandwidth across global networks. This forces operators to rethink how they build, scale, and manage connectivity infrastructure.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "network",
+        "bandwidth",
+        "infrastructure"
+      ],
+      "published_at": "2026-11-04T16:05:37Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/ai-drives-demand-for-high-capacity-optical-networks/135544864",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "AI推动高容量光网络需求",
+      "content": "The rapid growth of artificial intelligence (AI) is creating unprecedented demand for bandwidth across global networks, forcing operators to rethink how they build, scale, and manage connectivity infrastructure.Simon Williams, Head of Optical Products at Openreach, and Joe Marsella, Vice President of International Business Development at Ciena, discussed these trends in a Capacity TV interview. The discussion covered the impact of AI training and inferencing workloads. It also addressed the rise of distributed compute architectures.Fibre, optical innovation, and scalable network design are growing in importance. Evolving customer requirements around flexibility and future-proofing were also examined. Openreach’s latest high-capacity access developments were highlighted.The long-standing partnership between Openreach and Ciena is helping to support the next generation of AI-driven connectivity.\n\n- Cloud, Colocation & Connectivity\n- 1 min Read\n\n# AI drives demand for high-capacity optical networks\n\nThe rapid growth of artificial intelligence (AI) is creating unprecedented demand for bandwidth across global networks. This forces operators to rethink how they build, scale, and manage connectivity infrastructure.\n\n- Published On Nov 04, 2026 at 09:35 PM IST\n\n## Highlights\n\n- AI growth fuels unprecedented demand for bandwidth across global networks.\n- Operators must rethink how they build, scale, and manage network infrastructure.\n- Openreach and Ciena discuss AI impact on high-capacity optical networking.\n- Fibre, optical innovation, and scalable network design are increasingly crucial.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/ai-drives-demand-for-high-capacity-optical-networks/135544864"
+    },
+    {
+      "id": "2026-11-05-c3a26c",
+      "title": "Greenback slips as Democratic victories in US midterms stoke AI jitters",
+      "summary": "Investors fear tougher artificial intelligence regulation, data centre pushback",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "regulation",
+        "data-center",
+        "investment"
+      ],
+      "published_at": "2026-11-04T13:08:48Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/greenback-slips-democratic-victories-us-midterms-stoke-ai-jitters",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "民主党中期选举胜利引发AI担忧，美元下滑",
+      "content": "Investors fear tougher artificial intelligence regulation, data centre pushback\n\n\\[SHANGHAI/SINGAPORE/BENGALURU\\] A sweeping victory by Democrats in the US midterm elections sent the greenback lower on Wednesday (Nov 4), as investors weighed the prospect of tighter artificial intelligence regulation and its potential drag on economic growth.\n\nSeveral major currencies gained versus the dollar, with the euro and sterling trading at their highest levels in nearly two weeks and seven weeks, respectively.\n\nDemocrats captured majorities in both the Senate and the House, even prevailing in states that have long been conservative bastions, stoking fears that opposition to data centres may gather fresh momentum.\n\nThat also raised concerns about the potential hit to the US economy, given how much US growth has been tied to AI-related spending.\n\nA slowdown in growth could dampen the dollar’s appeal and reduce the need for interest rate hikes, which typically support a currency.\n\nThe dollar index, which measures the US currency against a basket of six peers, fell to a one-month low and was last trading at 101.39.\n\nStill, George Vessey, lead FX and macro strategist at Convera, noted that “investors increasingly appear to be viewing the election outcome as a constraint on future policy rather than a fundamental challenge to the broader US growth story”.\n\n“The so-called ‘blue wave’ has checked the dollar’s advance,” he added. “Whether the move develops into a more sustained period of dollar weakness will likely depend less on politics and more on whether softer yields, a cooling AI trade and incoming economic data begin to challenge the narrative of continued US exceptionalism.”\n\nThe euro gained 0.53 per cent to US$1.1251, while the British pound rose 0.55 per cent to US$1.3485.\n\nThe yen and the Swiss franc, both safe-haven currencies, were also stronger. Against the Swiss franc, the dollar weakened 0.44 per cent to 0.8169. It fell 0.17 per cent against the yen, to 158.43 per dollar.\n\nThe 10-year Treasury yield dropped 1.7 basis points to 4.933 per cent.\n\n“The price action is consistent with concerns about greater scrutiny of AI, and that is reflected in the underperformance of the Nasdaq and worries about US growth should AI face greater regulation,” said Sim Moh Siong, currency strategist at OCBC.\n\nBut he also noted that “even in the event of a Democratic sweep, it is still difficult to pass legislation at the federal level, given the high hurdle” under US President Donald Trump, who holds veto power.\n\nCarol Kong, currency strategist at Commonwealth Bank of Australia, said she is watching the risk of an escalation in the Middle East, as Trump has declined to rule out a resumption of combat operations.\n\n“If he does ramp up the aggression in the conflict, then we could see oil prices jump sharply higher, and that will support the US dollar too,” she said.\n\nOil prices fell 1.3 per cent to US$102.30 a barrel after easing about 1 per cent on Tuesday.\n\nTraders are also eyeing the Bank of England’s policy announcement on Thursday. The central bank’s Monetary Policy Committee is expected to raise interest rates for the first time since August 2023.\n\nChina’s offshore yuan was flat at 6.6711 per dollar, after suffering its biggest one-day drop since May 15 on Tuesday, when the People’s Bank of China raised the amount of foreign currency that financial institutions must hold in reserve in a move to slow the yuan’s rally.\n\nBitcoin crept higher to US$78,581.91. The cryptocurrency has been under pressure in recent days after a record US$6.3 billion heist at Binance. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/greenback-slips-democratic-victories-us-midterms-stoke-ai-jitters"
+    },
+    {
+      "id": "2026-11-05-268aae",
+      "title": "Vantage Appoints Dale Drew as Chief Information Security Officer",
+      "summary": "DENVER (Nov. 4, 2026) – Vantage, a leading global provider of digital infrastructure, today announced the appointment of Dale Drew as chief information security officer. Reporting to Emily Friedberg, chief information officer, Drew will lead Vantage’s global information security organization across North America, EMEA and Asia Pacific, defining and executing the enterprise-wide security strategy, strengthening […]",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "security",
+        "leadership",
+        "hyperscale"
+      ],
+      "published_at": "2026-11-04T12:12:56Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Vantage Data Centers (official)",
+          "url": "https://vantage-dc.com/news/vantage-appoints-dale-drew-as-chief-information-security-officer/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Vantage"
+      ],
+      "title_zh": "Vantage任命Dale Drew为首席信息安全官",
+      "content": "**DENVER (Nov. 4, 2026)** – Vantage, a leading global provider of digital infrastructure, today announced the appointment of Dale Drew as chief information security officer. Reporting to Emily Friedberg, chief information officer, Drew will lead Vantage’s global information security organization across North America, EMEA and Asia Pacific, defining and executing the enterprise-wide security strategy, strengthening the protection of critical assets, supporting regulatory compliance and managing cyber risk.\n\nDrew joins Vantage as customers increasingly require trusted partners capable of delivering secure, reliable capacity at speed and scale. In this role, he will work closely with Vantage’s technology, operations, risk, legal and executive leadership teams to reinforce the company’s security posture and help position security as a business enabler. For customers, that means a continued focus on security, resilience and compliance.\n\n“As Vantage continues to scale, our cybersecurity capabilities need to mature with the business,” Friedberg said. “Dale brings deep experience operating in complex, critical infrastructure environments and understands how to connect security, risk and resilience to the needs of the business and our customers. That is exactly the perspective we need as we grow.”\n\n“Vantage sits at the center of how the world’s most advanced digital infrastructure gets built, which makes security a design requirement, not an afterthought,” Drew said. “I look forward to working with the team to stay ahead of emerging cyber threats and give customers confidence in Vantage from day one.”\n\nDrew joins Vantage from EchoStar and DISH Network, where he most recently served as senior vice president and chief information security officer for DISH Wireless and led security architecture at EchoStar, overseeing enterprise cybersecurity strategy, security architecture, threat intelligence and AI governance.\n\nPreviously, Drew held senior leadership roles at Zayo Group and Level 3 Communications, leading global security operations and developing customer-facing security services, in addition to supporting the integration of more than 50 acquisitions. He began his career with the U.S. Secret Service and the Arizona Attorney General’s Office, specializing in cybercrime investigations and digital forensics. He holds 16 patents spanning cybersecurity, network technologies and AI governance and has testified before Congress on cybersecurity and critical infrastructure protection.\n\n**About Vantage** Vantage is a global provider of digital infrastructure serving AI and cloud innovators. With operations spanning North America, EMEA and Asia Pacific, Vantage delivers capacity at speed and scale, driven by a commitment to operational excellence and customer success. Vantage is empowering transformative companies to shape the future.\n\nFor more information, visit https://www.vantage-dc.com.\n\n\\###\n\n<u>Press Contacts</u> Mark Freeman\n\nVantage\n\n\\[email protected\\]\n\n+1-202-680-4243\n\nLisa Throckmorton\n\nREQ for Vantage\n\n\\[email protected\\]\n\n+1-202-936-6335",
+      "content_url": "https://vantage-dc.com/news/vantage-appoints-dale-drew-as-chief-information-security-officer/"
+    },
+    {
+      "id": "2026-11-05-7db21b",
+      "title": "SoftBank to commercialize aerial cell towers with Japanese fleet",
+      "summary": "SoftBank has signed a five-year deal with Sceye to operate a fleet of high-altitude platform station (HAPS) aircraft delivering direct-to-device network coverage across Japan.",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 2,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "telecom",
+        "infrastructure",
+        "innovation"
+      ],
+      "published_at": "2026-11-04T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/softbank-to-commercialize-aerial-cell-towers-with-japanese-fleet/",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/softbank-to-commercialize-aerial-cell-towers-with-japanese-fleet/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "SoftBank"
+      ],
+      "title_zh": "SoftBank将利用日本机队商业化空中基站塔",
+      "published_precision": "day",
+      "content": "SoftBank has signed a five-year deal with Sceye to operate a fleet of high-altitude platform station (HAPS) aircraft delivering direct-to-device network coverage across Japan.\n\nThe agreement will see Sceye provide its lighter-than-air (LTA)-type HAPS vehicles, similar to blimps or zeppelins. The initial fleet will provide mobile broadband throughout Japan, with a subset establishing a free-space optical (FSO) network in the stratosphere.\n\nThe deployments were claimed to expand reliable connectivity, support emergency communications during disasters, and support use cases spanning AI, IoT, Edge computing, and future 6G networks.\n\nSoftBank is taking to the skies after a successful 30-day Service Test 1 (ST1) mission that saw a Sceye aircraft launch from the company's Roswell, New Mexico, hangar and travel across the Pacific to Japan under satellite-based control. Upon landing, the craft established a link with a ground gateway on Shikoku Island, located on Japan’s Pacific coast.\n\nDuring a week of operations over Japan, the two firms delivered services from an altitude of approximately 12.4 miles, including video streaming, emergency communications, indoor connectivity, HAPS-based remote drone control, and Edge compute performed directly aboard the craft. The mission also claimed to have enabled the world’s first demonstration of stratospheric laser ranging, tracking a HAPS traveling through the atmosphere between the ground and the stratosphere.\n\nSoftBank invested an undisclosed amount in Sceye last year. The pair's latest master service agreement represents the next phase of their strategic partnership, which expands SoftBank’s wider Ubiquitous Transformation strategy, a venture aiming to complement terrestrial mobile networks with non-terrestrial infrastructure during disasters.\n\n“This agreement represents the commercialization of HAPS and the realization of our vision for Ubiquitous Transformation,” Masayuki Kamimura, senior director of SoftBank's Ubiquitous Network Planning Division, noted. “Building on the successful flight demonstration in Japan, we are excited to take the next step with Sceye toward bringing stratospheric connectivity into commercial use. By combining Sceye’s advanced HAPS technology with SoftBank’s telecommunications expertise, we aim to create a resilient, three-dimensional communications network that seamlessly connects the ground, sky, and space, expanding connectivity, strengthening disaster preparedness, and enabling new possibilities in the 6G era.”",
+      "content_url": "https://www.datacenterdynamics.com/en/news/softbank-to-commercialize-aerial-cell-towers-with-japanese-fleet/"
+    },
+    {
+      "id": "2026-11-05-403f4b",
+      "title": "Nvidia tells data center partners to cut China exposure, limits RTX chip sales to mainland",
+      "summary": "Nvidia has instructed its data center partners to reduce their exposure to China and is restricting sales of RTX consumer GPUs to mainland customers amid tightening US export controls. The directive affects channel partners and system integrators that had used gaming-oriented chips for AI workloads in Chinese data centers. Nvidia is prioritizing compliant markets to avoid secondary sanctions risk.",
+      "why_it_matters": "Chinese AI developers and regional cloud providers dependent on Nvidia hardware face supply disruption just as domestic alternatives from Huawei and Biren remain immature at scale. Southeast Asian markets stand to absorb redirected inventory and investment, accelerating Singapore, Malaysia, and Thailand as alternative deployment hubs for China-originated demand.",
+      "score": 85,
+      "heat": 2,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "geopolitics",
+        "ai",
+        "supply chain"
+      ],
+      "published_at": "2026-11-04T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/nvidia-tells-data-center-partners-to-cut-china-exposure-limits-rtx-chip-sales-to-mainland/",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/nvidia-tells-data-center-partners-to-cut-china-exposure-limits-rtx-chip-sales-to-mainland/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "title_zh": "NVIDIA要求数据中心合作伙伴削减中国敞口，限制RTX芯片对大陆销售",
+      "summary_zh": "Nvidia已指示其data center合作伙伴减少在中国的敞口，并在美国出口管制收紧的背景下限制向大陆客户销售RTX消费级GPU。该指令影响曾将游戏导向芯片用于中国data center AI工作负载的渠道合作伙伴和系统集成商。Nvidia正优先服务合规市场，以避免次级制裁风险。",
+      "why_zh": "中国AI开发者和依赖Nvidia硬件的区域cloud提供商面临供应中断，而华为和Biren的国产替代品在规模上尚不成熟。Southeast Asian市场有望吸收 redirected 的库存和投资，加速Singapore、Malaysia和Thailand成为源自中国需求的替代部署枢纽。",
+      "published_precision": "day",
+      "content": "Nvidia has told its data center partners to reduce their exposure to customers in China.\n\nThe GPU giant has told cloud computing clients to sell at least 51 percent of their services to non-Chinese companies, the Financial Times reports. Nvidia told customers its new restrictions verbally, and not in written documents.\n\nThe new rule only covers future contracts and not existing leases. With restrictions on access to Nvidia hardware in China, many Chinese companies have leased compute in Malaysia and Indonesia. Such deals could face limits under Nvidia's rules.\n\nLocal cloud providers are struggling with the new requirements because it is “difficult to find enough non-Chinese clients outside the US”, one Singapore-based group told the FT. “If strictly implemented, it will definitely hurt business.”\n\nThis week, Oracle reportedly dropped a $7bn deal with Tencent, which would have seen the Chinese cloud provider access as many as 100,000 Nvidia GPUs. The deal fell apart amid pressure on Oracle from US officials, as well as pressure on Tencent from Chinese officials to support domestic chips.\n\nNvidia has already more than halved the number of Asian customers authorized to buy its AI chips. This year, it created a “white list” of companies that have passed tougher compliance checks, aimed at limiting the export of GPUs to China.\n\nWhile B300s are banned from export to China, the less powerful RTX Pro 5500 workstation graphics card is cleared for shipping to the country. However, Bloomberg reports that Chinese AI developers expect to receive only one percent of the chips they have ordered in the coming months.\n\nAlibaba, Tencent, ByteDance and other Chinese AI and cloud firms have in total ordered about six million RTX Pro 5500 chips, but will only receive a few tens of thousands over the next four months.\n\nThe low shipment number is due to capacity constraints, with Nvidia currently ramping up production. Should export controls not change, Chinese hyperscalers estimate they could receive around 700,000 RTX Pro 5500 units by the end of 2027.\n\n“Unfortunately, US firms continue to be restricted by a combination of outdated US export controls, which cover gaming products released nearly half a decade ago, and China’s own limits on US imports,” an Nvidia spokesperson told Bloomberg.\n\nThe news comes following the revelation that US agencies are investigating whether Nvidia CEO Jensen Huang was the victim of a Chinese spy plot, with Alice Huang (no relation to Jensen) accused of working for the Chinese state.\n\nThe Megaspeed exec has been accused of sending information to China, while the Singapore-based company has been accused of sending GPUs to China. It has denied the allegations.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/nvidia-tells-data-center-partners-to-cut-china-exposure-limits-rtx-chip-sales-to-mainland/"
+    },
+    {
+      "id": "2026-11-05-dafec9",
+      "title": "OpenAI to rebrand its data centers as compute campuses as part of broader policy and PR push",
+      "summary": "OpenAI plans to rebrand its data centers as compute campuses, as it looks to differentiate AI facilities from the broader industry.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "hyperscale",
+        "policy",
+        "branding",
+        "data center"
+      ],
+      "published_at": "2026-11-04T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/openai-to-rebrand-its-data-centers-as-compute-campuses-as-part-of-broader-policy-and-pr-push/",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/openai-to-rebrand-its-data-centers-as-compute-campuses-as-part-of-broader-policy-and-pr-push/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "title_zh": "OpenAI将其数据中心重新品牌化为compute campuses，作为更广泛政策和公关推动的一部分",
+      "published_precision": "day",
+      "content": "OpenAI plans to rebrand its data centers as compute campuses, as it looks to differentiate AI facilities from the broader industry.\n\nThe change is part of a wider plan to shift public and political perception of data centers, as the US midterms delivered a resounding vote against the sector.\n\n\"Compute campuses better describes the scale and role of the infrastructure we're building for AI,\" OpenAI said in a statement. \"These are long-term investments in computing, energy infrastructure, and skilled work.\"\n\nThe company hopes to use the new name to distinguish from older facilities, which may use more water or not contribute to the grid. Nvidia has separately tried to define modern data centers as AI factories.\n\nAlongside the rebrand, the company this week launched the 'Grid Protectors Program' to reduce data center electricity demand when the US grid is under strain. The non-binding pledge will see the company work with utilities, regulators, and policymakers on the program.\n\nAxios reports that OpenAI has been working on a number of policy proposals for after the midterms, including ideas for mandatory safeguards for the most powerful AI systems.\n\n\"Our policy priorities — and urgency, especially on frontier safety — are about meeting the moment in response to the rapidly advancing capabilities,\" OpenAI chief global affairs officer Chris Lehane told the publication.\n\n\"And we expect that to continue as a new Congress ramps up.\"",
+      "content_url": "https://www.datacenterdynamics.com/en/news/openai-to-rebrand-its-data-centers-as-compute-campuses-as-part-of-broader-policy-and-pr-push/"
+    },
+    {
+      "id": "2026-11-05-f1d077",
+      "title": "AMD's data center revenue surges, leads to 'largest and most profitable quarter' yet",
+      "summary": "AMD reported that data center revenue exceeded expectations and drove the company's largest and most profitable quarter to date, with AI accelerator sales contributing disproportionately to growth. The results validate AMD's MI300 series as a credible alternative to Nvidia's dominant data center GPUs for cloud and enterprise workloads.",
+      "why_it_matters": "AMD's data center momentum creates pricing pressure on Nvidia and expands procurement options for APAC cloud providers seeking to diversify supply chain risk. For regional data center operators, competitive GPU pricing from AMD could improve colocation economics by reducing the hardware cost component that currently dominates customer total cost of ownership calculations.",
+      "score": 75,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "earnings",
+        "ai",
+        "servers"
+      ],
+      "published_at": "2026-11-04T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/amds-data-center-revenue-surges-leads-to-largest-and-most-profitable-quarter-yet/",
+          "type": "html-list"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/amd-data-centre-revenue-nearly-doubles-to-8-5-billion/135555862",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "AMD"
+      ],
+      "title_zh": "AMD数据中心收入激增，创下\"迄今为止最大、最盈利季度\"",
+      "summary_zh": "AMD报告称，其data center收入超出预期，并推动公司实现了迄今为止规模最大、利润最高的季度，AI加速器销售对增长的贡献尤为突出。该结果验证了AMD的MI300系列作为Nvidia主导data center GPU在cloud和企业工作负载方面的可信替代品。",
+      "why_zh": "AMD在data center领域的势头对Nvidia形成价格压力，并为寻求分散供应链风险的APAC cloud提供商扩大了采购选择。对于区域data center运营商而言，AMD具有竞争力的GPU定价可能通过降低目前主导客户总拥有成本计算的硬件成本组成部分，改善colocation经济性。",
+      "published_precision": "day",
+      "content": "AMD reported quarterly earnings of $13.4 billion, driven by strong data center sales.\n\nThe chip designer called Q3 its \"largest and most profitable quarter\" in history and forecast another record quarter in Q4 at $17bn.\n\nWhile total revenues were up 45 percent, data center-specific revenue grew some 97 percent to $8.5bn. Data centers made up 64 percent of company revenue, with CFO Jean Hu forecasting that it will jump to 80 percent in the new year.\n\n“We delivered a record quarter with revenue exceeding the high end of our guidance as Data Center segment sales nearly doubled Year-over-Year,” said Dr. Lisa Su, AMD chair and CEO.\n\n“Demand for our Instinct and Epyc products continued to strengthen, and we expect growth to accelerate further in the fourth quarter as we scale Helios and ‘Venice’ production. With our leadership product portfolio and deep customer and supply chain relationships, we are confident in our ability to sustain very strong revenue growth and expanding profitability over the coming years.”\n\nSu said that she expects server revenue to double in 2027. “We have worked across our supply chain to secure the wafers, substrates, advanced packaging, memory, and other key components needed to support much higher growth next year,” she noted.\n\nLast week, Intel reported weak earnings due to supply chain challenges that limited its ability to sell chips.\n\nAMD shares jumped eight percent on the news, reversing several days of decline amid a broader market of uncertainty for AI and data center stocks.\n\nOutside of its data center business, the client business revenue grew seven percent to $2.9bn, while gaming business revenue fell by some 40 percent to $773 million. Embedded segment revenue was up 29 percent to $1.1bn.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/amds-data-center-revenue-surges-leads-to-largest-and-most-profitable-quarter-yet/"
+    },
+    {
+      "id": "2026-11-05-8df363",
+      "title": "Kee Ming wins RM44m subcontract for data centre electrical works in Puncak Alam",
+      "summary": "Kee Ming Group Bhd (KL:KEEMING) on Wednesday said it has secured a RM44.17 million subcontract to undertake electrical engineering service works for a hyperscale data centre in Puncak Alam.",
+      "why_it_matters": "",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "hyperscale",
+        "construction",
+        "power",
+        "investment"
+      ],
+      "published_at": "2026-11-04T11:16:11Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824559",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Kee Ming Group Bhd"
+      ],
+      "title_zh": "Kee Ming赢得Puncak Alam数据中心电气工程4417万令吉分包合同",
+      "content": "KUALA LUMPUR (Nov 4): Kee Ming Group Bhd (KL:KEEMING) on Wednesday said it has secured a RM44.17 million subcontract to undertake electrical engineering service works for a hyperscale data centre in Puncak Alam.\n\nIn a bourse filing, the group said its wholly-owned subsidiary Kee Ming Electrical Sdn Bhd had accepted a letter of award on Wednesday from an undisclosed third-party contractor.\n\nThe contractor, meanwhile, is principally involved in providing integrated mechanical and electrical solutions, with expertise in electrical systems, heating, ventilation and air conditioning (HVAC), energy optimisation, and turnkey engineering, procurement and construction services for data centre infrastructure.\n\nThe works, which have already started, are expected to be completed by July 30, 2027.\n\nKee Ming said the works include the supply, delivery, installation, testing and commissioning of general electrical works as well as electrical works for the project's main building.\n\nThe project is expected to contribute positively to the group's earnings, earnings per share and net assets for the financial year ending March 31, 2027 and throughout the duration of the contract.\n\nShares of Kee Ming, which made its ACE Market debut on Feb 12 at an IPO price of 38 sen, have since surged more than sixfold. On Wednesday, the stock closed one sen or 0.36% lower at RM2.79, valuing the company at RM906.8 million.\n\nEdited ByPresenna Nambiar\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/824559"
+    },
+    {
+      "id": "2026-11-05-ca560b",
+      "title": "Google commits to $15bn investment in Malaysian data centers",
+      "summary": "Google's planned $15 billion investment marks one of the largest foreign direct investments in Malaysia's history and will expand the company's cloud infrastructure footprint across Southeast Asia. The commitment includes developing a data center campus and cloud region to serve domestic and regional demand for AI and digital services.",
+      "why_it_matters": "Malaysia emerges as a primary beneficiary of the US-China tech decoupling, with Google joining Microsoft and ByteDance in making multibillion-dollar commitments. Local utilities and construction firms will face pressure to deliver power and infrastructure on accelerated timelines, while Singapore-based operators may see price-sensitive workloads migrate north.",
+      "score": 90,
+      "heat": 7,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "hyperscale",
+        "data center",
+        "ai"
+      ],
+      "published_at": "2026-11-04T10:07:38Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/google-commits-to-15bn-investment-in-malaysian-data-centers/",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/google-commits-to-15bn-investment-in-malaysian-data-centers/",
+          "type": "html-list"
+        },
+        {
+          "name": "W.Media",
+          "url": "https://w.media/google-to-invest-us15-billion-in-data-centers-in-malaysia-from-2027-28/",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/asean/google-invest-us15-billion-malaysia-2027-and-2028-amid-data-centre-expansion",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/international/asean/google-invest-us15-billion-malaysia-2027-and-2028-amid-data-centre-expansion",
+          "type": "html-list"
+        },
+        {
+          "name": "Nikkei Asia — data center search",
+          "url": "https://asia.nikkei.com/business/technology/google-to-invest-15bn-in-malaysia-s-data-center-expansion",
+          "type": "html-list"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/google-commits-us15-billion-for-malaysia-data-centers/135555829",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Google",
+        "Alphabet"
+      ],
+      "title_zh": "Google承诺向马来西亚数据中心投资150亿美元",
+      "summary_zh": "Google计划投资150亿美元，这是马来西亚历史上最大的外国直接投资之一，将扩展该公司在东南亚的cloud基础设施布局。该承诺包括开发一个data center园区和cloud region，以满足国内及区域对AI和数字服务的需求。",
+      "why_zh": "马来西亚正成为美中科技脱钩的主要受益者，Google加入Microsoft和ByteDance的行列，承诺投资数十亿美元。当地公用事业和建筑公司将面临加速交付电力和基础设施的压力，而Singapore的运营商可能会看到对价格敏感的工作负载向北迁移。",
+      "content": "Google plans to invest $15 billion to expand its data center infrastructure in Malaysia during 2027 and 2028.\n\nBloomberg reports that the funding will go toward building new computing hubs and investing in water and power infrastructure in the country.\n\nData center investment will focus on Google's existing campus in the Elmina Business Park, Selangor, and will also see the company develop new campuses in Selangor and Negeri Sembilan. Construction would run through 2027 and 2028.\n\nGoogle bought 389 acres of land in Port Dickson in Negeri Sembilan in May last year, where it intends to build the data center. Port Dickson is located some 90km (55.9 miles) south of Kuala Lumpur, on the banks of the Strait of Malacca. According to reports, the data center will have a capacity of between 500MW and 1GW, with Gamuda Engineering in charge of the engineering and infrastructure works.\n\nGoogle broke ground on its existing data center campus in October 2024. The data center's first phase, which is expected to have a capacity of 100MW, is slated for completion sometime this year.\n\nDetails about the data center projects themselves are limited, but they are expected to support more than 9,000 local jobs a year, including technicians, mechanical and electrical engineers, logistics, and security managers.\n\nRuth Porat, Alphabet's chief investment officer, said the investment \"reflects our confidence in the strength of Malaysia's leadership, its skilled workforce, and enthusiasm for digital transformation.\"\n\nMalaysian Prime Minister Anwar Ibrahim added: \"Our nation possesses the stability, the talent, and the ambition to be a premier digital powerhouse in Southeast Asia.”\n\nAs the company increases its data center capacity in the country, Google will add energy capacity and help push the country's clean energy transition. In total, Google plans to bring 1GW of clean energy capacity to Malaysia's grid.\n\nEarlier this week, Google committed $160 million to develop shared water infrastructure in Negeri Sembilan, Malaysia, to support its planned data center in the region.\n\nThis latest investment pledge builds on Google's commitment to invest $2 billion in the country back in 2024.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/google-commits-to-15bn-investment-in-malaysian-data-centers/"
+    },
+    {
+      "id": "2026-11-05-1e52d8",
+      "title": "JLL warns of AI skills gap in Asia Pacific facilities",
+      "summary": "Nearly 70% of organisations have already suffered disruption from labour shortages or AI skills gaps, JLL says, as adoption accelerates.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "workforce",
+        "facilities",
+        "operations"
+      ],
+      "published_at": "2026-11-04T08:04:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/jll-warns-of-ai-skills-gap-in-asia-pacific-facilities",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "JLL"
+      ],
+      "title_zh": "JLL警告亚太地区设施AI技能缺口",
+      "content": "Wed, 4th Nov 2026 (Yesterday)\nJLL has published research showing that artificial intelligence adoption in facilities management is rising quickly across global organisations, with Asia Pacific businesses facing distinct risks as they expand its use in building operations.\n\nBased on responses from 1,321 organisations across the Americas, Europe, the Middle East, Africa and Asia Pacific, the report found that 45% are already scaling or optimising AI in facilities management. That figure is expected to reach 86% by 2030.\n\nThe findings point to a broader shift in how companies view the management of offices, factories, data centres and other commercial property. Half of respondents said facilities management is already a significant source of competitive advantage, and that share is projected to rise to 82% by 2030.\n\nAt the same time, the study highlighted pressure on staffing and execution. Nearly 70% of respondents said they had faced operational disruption in the past year because of shortages in skilled trades labour and gaps in AI or technical skills. Fewer than 45% said they were prepared to manage those risks over the next three to five years.\n\nThe gap suggests many companies are moving faster on technology than on workforce planning. Facilities teams are also under pressure to support broader business priorities, including productivity, resilience, energy performance and workplace experience, as digital systems become more embedded in building operations.\n\nSean Greig, Chief Operating Officer & Workplace Management Leader, Work Dynamics, APAC, JLL, said those pressures are becoming more visible in the region. \"Asia Pacific's facilities management market is maturing, and skilled labor shortages, rising technology demands and heightened operational risk are accelerating a rethink of the role FM plays in the business,\" said Greig.\n\n\"The organizations leading this rethink are applying AI and data-driven operations to shift FM from a cost center to a strategic investment, aligning mandate, platform and workforce at the same time, which we see as the path to long-term value,\" he said.\n\n### Regional risks\n\nThe research found that risk patterns differ sharply by market. In China, respondents reported pressure from energy costs and supply chain weaknesses, while workforce-related risks remained the main concern in Australia and Singapore.\n\nOutside Asia Pacific, supply chain disruption ranked among the leading issues in the United States and Canada, while organisations in Mexico reported greater exposure to swings in energy costs. In Europe, respondents in Ireland cited extreme weather as a significant concern, while those in Germany pointed to regulatory compliance burdens.\n\nThose differences matter for multinational occupiers managing property portfolios across several markets. Resilience strategies will need to reflect local operating conditions rather than rely on a single global model.\n\n### Investment shift\n\nJLL's data also suggests that companies placing greater strategic value on facilities management are preparing to spend more on it. Among respondents that view the function as a competitive advantage, 64% expect facilities management budgets to increase over the next three to five years, 58% plan to expand their workforce, and 45% expect both budget and workforce growth.\n\nTechnology is likely to account for a greater share of that spending. Nearly 90% of respondents said they expect expenditure to shift from labour towards technology and automation, while 85% expect operations to be delivered through a mix of human technicians, AI and robotics.\n\nRobotics adoption is also forecast to increase, with the share of organisations using it expected to rise from 37% today to 71% by 2030. The report described an operating model in which technicians work alongside automated workflows and robotic systems rather than being replaced by them.\n\n### Skills gap\n\nThe study found that the measures used to judge facilities management differ by sector. Technology companies place the greatest emphasis on AI-linked productivity gains, while data centre operators prioritise asset uptime and lifecycle optimisation.\n\nManufacturing and industrial groups focus on productivity, safety, compliance and cost efficiency. Government and education bodies place more weight on safety, risk and compliance management.\n\nAs organisations deepen their use of AI, many also appear more willing to rely on outside partners. Nearly half of advanced AI adopters said external facilities management and technology partnerships were essential, compared with 20% of organisations that have not yet deployed AI.\n\nWei Xie, Head of Strategy and Research, Workplace Management at JLL, said data remains a major obstacle as companies try to expand AI use. \"Data readiness remains one of the biggest barriers to scaling AI successfully,\" said Xie.\n\n\"As organizations advance their AI adoption, provider selection increasingly shifts from cost and reliability toward data, technology and innovation capabilities. Organisations deploying AI at scale are more than twice as likely as those in the early stages to view external partnerships as essential to success,\" he said.",
+      "content_url": "https://datacenternews.asia/story/jll-warns-of-ai-skills-gap-in-asia-pacific-facilities"
+    },
+    {
+      "id": "2026-11-05-60633b",
+      "title": "AI data centre boom is set for upheaval after US election rout",
+      "summary": "Proposed additions of these facilities may face stricter local scrutiny and pushback",
+      "why_it_matters": "",
+      "score": 75,
+      "heat": 2,
+      "regions": [
+        "southeast-asia",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "data center",
+        "regulation",
+        "capacity"
+      ],
+      "published_at": "2026-11-04T07:25:29Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/ai-data-centre-boom-set-upheaval-after-us-election-rout",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/international/ai-data-centre-boom-set-upheaval-after-us-election-rout",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "美国选举大败后，AI数据中心热潮将面临剧变",
+      "content": "Proposed additions of these facilities may face stricter local scrutiny and pushback\n\n\\[SAN FRANCISCO\\] Data centre developers seeking to build dozens of sprawling artificial intelligence campuses across Texas were already dealing with a suspension of approvals under Republican Texas Governor Greg Abbott.\n\nUnder Gina Hinojosa, elected on Tuesday (Nov 3) as the first Democratic governor of the Lone Star state in more than three decades, they are facing their worst-case scenario.\n\nAs part of her campaign, Hinojosa repeatedly called for an immediate moratorium on data centre development.\n\nShe has described Abbott’s vows to rein in data centre operators as “nothing more than an election year stunt” and has accused developers of “raising our utility rates and depleting our water”.\n\nShe has vowed to halt approvals until “a legislative session that puts Texans first so that we don’t have any more communities in Texas who are powerless against these global corporations”.\n\nCombining Hinojosa’s victory with those of other Democrats who won gubernatorial races from Georgia to Ohio and Pennsylvania could leave half of proposed AI data centre additions across the US vulnerable to stricter local scrutiny and pushback.\n\nAll of them made more aggressive data centre regulation a central part of their campaigns, and their wins underscore the intensity of the growing voter backlash against the sites powering AI systems worldwide.\n\nThe results were part of a broader Democratic rout on Tuesday that wrested party control of the US House and Senate away from Republicans, propelled by voters’ frustration with the cost of living and the war in Iran.\n\nDemocrats are poised to put closer scrutiny on Silicon Valley interests that had largely been spared during US President Donald Trump’s first two years in office.\n\nMarkets were already starting to bake in the risk of more regulatory scrutiny in trading early on Wednesday. Contracts on the S&P 500 Index fell as much as 1.2 per cent, while futures on the Nasdaq 100 Index declined 2.2 per cent.\n\nHardware suppliers in South Korea, Taiwan and Japan, key players in the American AI build-out, also fell, with Samsung Electronics and SK Hynix down as much as 4 per cent in South Korea, while Nvidia’s chipmaker Taiwan Semiconductor Manufacturing Company slid.\n\nThe election results threatened to overshadow bullish earnings results from AI chipmaker Advanced Micro Devices and server supplier Super Micro Computer that had earlier touched off a rally across stocks tied to the build-out of infrastructure powering the technology.\n\nIn Texas, roughly 13 gigawatts of data centre capacity – enough to power roughly 10 million homes at any given moment – is immediately exposed by Hinojosa’s win, Gordon Johnson of GLJ Research said in a note late on Tuesday.\n\n“Projects with power, permits and steel keep going,” he said, and those with power but no state environmental permits slip 12 to 18 months.\n\nBut those “projects with neither probably go to Louisiana, Oklahoma or nowhere”, Johnson said in the note.\n\nTexas accounts for nearly 30 per cent of the US data centre capacity set to come online in 2028, representing by far the largest share of any state, research firm SemiAnalysis said ahead of the election.\n\n“A few months of lost time in that market can move the national number,” according to SemiAnalysis.\n\nHinojosa presents a clearly “more bearish approach: she would impose a moratorium until legislation is passed that gives communities a voice, protects household utility bills, and ends the tax incentives for data centres”, the firm said. “The question now is how long the pause lasts.”\n\nJefferies has assigned “tiers” to US states representing the “political risk” they represent to new data centre projects. Tier 1 implies the state is welcoming to new data centres. Tier 5 assumes the opposite.\n\nAhead of the Texas election, Jefferies analysts including Jonathan Petersen said in a note that a “Hinojosa win would result in an immediate statewide pause and move Texas from Tier 3 to Tier 4 under our framework”.\n\n“Regardless of the election outcome, the 2027 session could bring tighter rules around who pays for grid infrastructure, water use and data centre tax incentives,” Petersen said.\n\n“We view these as more likely to increase development costs and requirements than materially restrict the Texas pipeline.”\n\nIn Ohio, another state that has been flooded with data centre proposals particularly around Columbus, Democrat Amy Acton defeated billionaire entrepreneur Vivek Ramaswamy to become its next governor, flipping a Republican-held office.\n\nActon has called for an immediate conditional moratorium that requires data centre developers to meet a series of requirements in order to be cleared for construction. She has pledged to “fight against the unchecked development of data centres”.\n\nDemocrat Keisha Lance Bottoms became the first black woman elected governor of Georgia, wresting control of the executive mansion after more than two decades in Republican hands.\n\nWhile Georgia has historically encouraged data centre development and ranks as the third-largest state for data centre development, local opposition is growing. Bottoms called for a moratorium on new construction of the sites on the campaign trail.\n\nThe Georgia election presented “a clearer divide than several other states”, Jefferies said in its note. “A Bottoms win could bring a temporary statewide pause.”\n\nDemocratic incumbent Josh Shapiro’s win as governor of Pennsylvania was largely expected to maintain the status quo. Shapiro, who once encouraged and helped attract data centre developments in the state, has since shifted his stance, railing against speculative projects and those that locals oppose.\n\nAhead of the election, Pimco head of public policy Libby Cantrill warned that the gubernatorial races would have a significant impact on the path forward for data centre projects, citing candidates’ calls for construction pauses similar to one enacted in July by New York Governor Kathy Hochul.\n\n“Even if statewide moratoria do not result, we expect to see a lot more sand in the gears of the AI build-out regardless – with more time required to secure permits and other approvals, as well as more concessions that data centre developers will have to make,” Cantrill said. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/international/ai-data-centre-boom-set-upheaval-after-us-election-rout"
+    },
+    {
+      "id": "2026-11-05-be0890",
+      "title": "Yokogawa wins S$4.2 million grant for Singapore grid pilot",
+      "summary": "The pilot will test whether industrial sites can help stabilise Singapore's grid as renewable power and electricity demand rise.",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "grid",
+        "renewables",
+        "industrial"
+      ],
+      "published_at": "2026-11-04T01:50:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/yokogawa-wins-s-4-2-million-grant-for-singapore-grid-pilot",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Yokogawa"
+      ],
+      "title_zh": "Yokogawa获420万新元资助用于新加坡电网试点",
+      "content": "Wed, 4th Nov 2026 (Yesterday)\nYokogawa Engineering Asia has received a S$4.2 million Energy Grid 3.0 grant for a Singapore electricity grid project. The award will fund a pilot focused on industrial participation in grid stability services.\n\nThe grant falls under the Energy Market Authority's Future Grid Capabilities Roadmap and is administered by the Advanced Energy and Decarbonisation Office, a national platform hosted by A\\*STAR. The project is titled Distributed Inertia Provision from Conventional and Inverter Interfaced Assets.\n\nYokogawa will lead the pilot at a 9.9 MW waste-to-energy plant operated by Rexus Bioenergy. Research partners are the National University of Singapore and the Singapore Institute of Technology.\n\nThe project will examine how industrial and distributed energy assets can help support the stability of Singapore's next-generation electricity grid as the country adds more renewable energy and seeks to cut emissions. It will also test whether industrial facilities can play a more active role in grid services while continuing their main operations.\n\nSingapore's power sector is central to the country's decarbonisation effort, accounting for about 40% of national emissions. At the same time, electricity demand is rising and the system is becoming more complex as more distributed energy resources are added.\n\nThis shift is moving the traditional model of centrally managed generation towards a more decentralised network. The authorities have set out the Future Grid Capabilities Roadmap to guide research, pilots and deployment as the power system evolves.\n\nJohn Chen, Executive Director of AEDO, said the programme is designed to connect public research funding with commercial deployment.\n\n\"Addressing Singapore's energy challenges requires close collaboration between industry and the research community to develop solutions that can be deployed in real-world settings. Through public R&D funding, we aim to catalyze such partnerships that translate promising technologies into practical applications. Industry-led collaborations such as Yokogawa's project bring together complementary expertise to accelerate energy innovation, strengthen Singapore's R&D capabilities, and support our longer-term decarbonization goals,\" Chen said.\n\n### Grid services\n\nThe pilot is expected to focus on inertia provision, a technical function that helps maintain grid stability when there are disturbances in supply and demand. As more renewable generation and inverter-based resources connect to the system, the issue is drawing greater attention from grid operators globally.\n\nFor Singapore, the question is whether existing industrial sites such as process plants, and newer large electricity users such as data centres, can provide these services without disrupting their core activities. The project will study how conventional assets and inverter-interfaced assets can be coordinated for that purpose.\n\nEugene Toh, Assistant Chief Executive of Energy Technologies at EMA, linked the work to the operational demands of a grid with a growing share of renewables.\n\n\"As Singapore integrates more renewable energy into our power system, developing new solutions to maintain grid stability will become increasingly important. The Energy Grid 3.0 Grant Call supports research and innovation to address such emerging challenges. We welcome industry efforts to develop innovative solutions that could help strengthen Singapore's grid resilience as it evolves,\" Toh said.\n\n### Technology stack\n\nThe consortium plans to combine research from NUS and SIT with Yokogawa's industrial systems experience. At the plant level, the project will integrate the Convera Power Plant Controller from BaxEnergy, a Yokogawa company, with Yokogawa's OpreX Collaborative Information Server.\n\nThe controller is intended to coordinate multiple technologies and energy resources in real time, while the information server aggregates operating data from different systems into a single environment. The pilot will test how those systems can support operational decisions and future grid services at the waste-to-energy site.\n\nThe award also marks a notable step for Yokogawa's Sustainability Incubation Hub in Singapore, which the company launched in 2024. The hub was set up to work with industry, academic and public-sector partners on climate and energy projects.\n\nChay Kin Wah, President and Chief Executive Officer of Yokogawa Engineering Asia, said the project fits that model.\n\n\"The vision of Yokogawa's Sustainability Incubation Hub is to bridge innovation and implementation by bringing together industry, academia, and public-sector partners to address complex sustainability challenges. The Energy Grid 3.0 project is a direct embodiment of that vision and reflects Yokogawa's commitment to supporting customers through their energy transition journey. Together with our partners, we aim not only to create a more resilient, sustainable solution for Singapore's future energy system but also scalable solutions for the wider Southeast Asia, Oceania, and Taiwan region,\" Chay said.",
+      "content_url": "https://datacenternews.asia/story/yokogawa-wins-s-4-2-million-grant-for-singapore-grid-pilot"
+    },
+    {
+      "id": "2026-11-05-9e4563",
+      "title": "Vertiv opens Singapore experience centre for AI systems",
+      "summary": "Customers and partners can now inspect integrated power and cooling systems in Singapore as AI data centres demand denser, more efficient infrastructure.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "infrastructure",
+        "cooling",
+        "power"
+      ],
+      "published_at": "2026-11-04T00:15:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/vertiv-opens-singapore-experience-centre-for-ai-systems",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Vertiv"
+      ],
+      "title_zh": "Vertiv在新加坡开设AI系统体验中心",
+      "content": "Wed, 4th Nov 2026 (Yesterday)\nVertiv has opened an experience centre in Singapore to give customers and partners direct access to its infrastructure systems for AI and high-density computing.\n\nThe site serves as a customer engagement hub where visitors can see integrated power, cooling and infrastructure systems in operation. It is aimed at customers, channel partners, consultants and other industry stakeholders seeking a closer look at equipment used in high-power-density data centre environments.\n\nSingapore is one of Asia's main digital infrastructure markets, and the opening reflects continued investment in facilities linked to AI workloads and denser computing environments. The centre is designed to show how different parts of a data centre stack can be combined to support reliability, energy efficiency and deployment needs.\n\nThe facility includes live demonstrations of Vertiv SmartRun, an overhead infrastructure system that combines power distribution, liquid cooling piping, networking and busway in one platform. It also features Vertiv SmartAisle 3, described as the latest version of the company's modular data centre infrastructure, alongside thermal management, power management and monitoring systems for AI applications.\n\nOther equipment on display includes liquid cooling systems for direct-to-chip and other high-density cooling applications, as well as critical power systems, switchgear and power distribution products. Visitors can also review infrastructure management and monitoring tools intended to give operators greater visibility into data centre operations.\n\nThe launch comes as AI deployments place greater demands on data centre design, particularly in electricity consumption, heat removal and floor-space planning. These shifts have pushed suppliers of electrical and thermal systems to present more integrated approaches to operators building or expanding facilities for newer computing loads.\n\nThe centre also shows how Vertiv's systems connect from utility supply through to computing hardware. That approach is becoming increasingly relevant in AI-focused environments, where rack densities can exceed those associated with conventional enterprise workloads and where liquid cooling is becoming more common.\n\nAntony Szafranek, Senior Director for Strategic Accounts at Vertiv Asia, said the regional market had shifted as organisations expanded digital infrastructure to support AI projects.\n\n\"Organisations across Asia are scaling their digital infrastructure to support AI innovation, creating new demands for reliability, efficiency and speed of deployment,\" said Antony Szafranek, Senior Director for Strategic Accounts at Vertiv Asia.\n\nHe said the site had been designed as a practical environment for customers and partners to assess these systems.\n\n\"The Experience Centre gives customers and partners a hands-on environment to explore how integrated power and cooling technologies can support higher-density computing while maintaining operational resilience,\" Szafranek said.\n\n### Regional demand\n\nThe opening highlights how infrastructure vendors are positioning themselves around AI-related spending in Asia, where cloud expansion, data localisation requirements and enterprise AI adoption are driving demand for new capacity. Singapore remains a strategic location despite tight controls on data centre development because it serves as a regional base for operators, service providers and multinational technology groups.\n\nFor suppliers such as Vertiv, demonstration facilities can help shorten sales cycles by allowing buyers to inspect system layouts and operational features before committing to larger projects. That matters in a market where cooling architecture and electrical design can directly affect build costs and operational efficiency.\n\nDaniel Sim, Senior Director for AI Ecosystem Alliances and Channel Partners at Vertiv Asia, said infrastructure decisions were becoming more interconnected as AI adoption advanced.\n\n\"The pace of AI-driven transformation requires greater integration of power, cooling and IT infrastructure,\" said Daniel Sim, Senior Director for AI Ecosystem Alliances and Channel Partners at Vertiv Asia.\n\n\"At the Experience Centre, customers can see how these technologies work together to address the infrastructure requirements of AI and high-density computing,\" Sim said.",
+      "content_url": "https://datacenternews.asia/story/vertiv-opens-singapore-experience-centre-for-ai-systems"
+    }
+  ]
+}

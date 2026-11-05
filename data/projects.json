@@ -104353,7 +104353,89 @@
       "first_seen": "2026-11-04",
       "last_updated": "2026-11-04",
       "seed": false
+    },
+    {
+      "id": "dayone-hong-kong-data-centre",
+      "name": "DayOne Hong Kong Data Centre",
+      "operator": "DayOne Data Centers",
+      "region": "southeast-asia",
+      "country": "China",
+      "city": "Hong Kong",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": "US$237 million loan (HK$1.86 billion)",
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-11-05",
+          "story_id": "2026-11-05-55eb85"
+        }
+      ],
+      "story_ids": [
+        "2026-11-05-55eb85"
+      ],
+      "first_seen": "2026-11-05",
+      "last_updated": "2026-11-05",
+      "seed": false
+    },
+    {
+      "id": "google-malaysian-data-center-campus",
+      "name": "Google Malaysian Data Center Campus",
+      "operator": "Google",
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "city": "",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": "US$15 billion",
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-11-05",
+          "story_id": "2026-11-05-ca560b"
+        }
+      ],
+      "story_ids": [
+        "2026-11-05-ca560b"
+      ],
+      "first_seen": "2026-11-05",
+      "last_updated": "2026-11-05",
+      "seed": false
     }
   ],
-  "updated_at": "2026-11-04T07:52:29Z"
+  "updated_at": "2026-11-05T08:09:29Z"
 }

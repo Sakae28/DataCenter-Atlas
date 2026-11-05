@@ -2,80 +2,13 @@
   "date": "2026-11-04",
   "generated_at": "2026-11-04T07:35:15Z",
   "hot": [
+    "2026-11-04-e3620a",
     "2026-11-04-d13938",
-    "2026-11-04-da9707",
     "2026-11-04-27181f",
-    "2026-11-04-511717",
-    "2026-11-04-8deebb"
+    "2026-11-04-da9707",
+    "2026-11-04-511717"
   ],
   "stories": [
-    {
-      "id": "2026-11-04-201b12",
-      "title": "Goodman shrugs off Sydney data centre cancellation",
-      "summary": "Goodman Group has shrugged off the cancellation of a planned $1.2 billion data centre project in Sydney after strong community opposition, saying it had “plenty of opportunity” to build…",
-      "why_it_matters": "",
-      "score": 70,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "data-centre",
-        "capacity",
-        "development"
-      ],
-      "published_at": "2026-11-04T00:19:59Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/property/commercial/goodman-promises-9pc-earnings-lift-despite-data-centre-challenges-20261104-p61azm",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Goodman"
-      ],
-      "title_zh": "Goodman对悉尼数据中心取消项目不予理会",
-      "content": "Goodman Group has shrugged off the cancellation of a planned $1.2 billion data centre project in Sydney after strong community opposition, saying it had “plenty of opportunity” to build infrastructure to support the artificial intelligence boom in Australia even without that particular site.\n\nChief executive Greg Goodman on Wednesday said his company’s decision to withdraw its planning application for the 90-megawatt Lane Cove facility did not set a precedent that could hit its other projects in Australia and it did not need to find a replacement for the so-called Project Mars.\n\nLoading...",
-      "content_url": "https://www.afr.com/property/commercial/goodman-promises-9pc-earnings-lift-despite-data-centre-challenges-20261104-p61azm"
-    },
-    {
-      "id": "2026-11-04-e3620a",
-      "title": "Goodman, Digital Realty raid NextDC's register for $940m stake",
-      "summary": "Goodman Group and Digital Realty have jointly acquired a $940 million stake in NextDC, one of Australia's largest data center operators, by purchasing shares from the company's register. The investment combines Goodman's property development expertise with Digital Realty's global data center platform to expand in the Australian market.",
-      "why_it_matters": "This strategic alliance signals intensifying competition for Australian data center assets as AI demand converges with the country's renewable energy advantages. NextDC gains formidable development and global interconnection capabilities, while the entry of two major international players pressures local operators like Macquarie Telecom and may accelerate consolidation in a market previously dominated by domestic champions.",
-      "score": 85,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "investment",
-        "mergers-acquisitions",
-        "colocation",
-        "hyperscale"
-      ],
-      "published_at": "2026-11-04T05:51:25Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/street-talk/goodman-group-digital-realty-raid-nextdc-s-register-for-9-9pc-stake-20261104-p61bgt",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Goodman",
-        "Digital Realty",
-        "NextDC"
-      ],
-      "title_zh": "Goodman、Digital Realty从NextDC股东名册中收购9.4亿澳元股份",
-      "summary_zh": "Goodman Group 和 Digital Realty 通过从公司登记册购买股份，联合收购了澳大利亚最大 data center 运营商之一 NextDC 价值 9.4 亿美元的股份。该投资结合了 Goodman 的房地产开发专长与 Digital Realty 的全球 data center 平台，以扩展在澳大利亚市场的业务。",
-      "why_zh": "这一战略联盟标志着随着 AI 需求与澳大利亚可再生能源优势的结合，对澳大利亚 data center 资产的竞争正在加剧。NextDC 获得了强大的开发和全球互联能力，而两大国际参与者的进入对 Macquarie Telecom 等本地运营商构成压力，可能加速此前由国内龙头企业主导的市场整合。",
-      "content": "Goodman is working with New York-listed Digital Realty to take a major stake in NextDC, the ASX-listed data centre giant that has seen its shares slump after running into problems with its massive Melbourne site.\n\nJPMorgan was lining up a 9.9 per cent in NextDC after Wednesday’s closing bell on behalf of Goodman, one of Australia’s largest real estate trusts with a sprawling portfolio of industrial sites. Capitalised at more than $55 billion, Goodman has been working to expand into the data centre sector.\n\nLoading...",
-      "content_url": "https://www.afr.com/street-talk/goodman-group-digital-realty-raid-nextdc-s-register-for-9-9pc-stake-20261104-p61bgt"
-    },
     {
       "id": "2026-11-04-a208b9",
       "title": "Sarawak's chip design firm SMD eyes 2030 IPO",
@@ -107,6 +40,98 @@
       "title_zh": "砂拉越芯片设计公司SMD瞄准2030年IPO",
       "content": "KUALA LUMPUR (Nov 4): State-owned Sarawak Microlectronics Design (SMD) is slated for commercialisation and is planning an initial public offering (IPO) as early as 2030.\n\nAccording to the Sarawak Semiconductor Roadmap 2030, SMD is looking to attract at least RM2 billion in investments and create over 195,000 new jobs and 3,000 new high-skilled occupations.\n\nSMD, launched in 2022, is a design company focused on higher-value chip design — particularly for renewable energy and digital infrastructure applications — as part of the state's \"Silicon Longhouse\" vision to build a holistic semiconductor ecosystem.\n\nAccording to the roadmap, the semiconductor sector, led by SMD, is expected to contribute RM30 billion to the GDP of the state from 2030.\n\nSMD is developing keteq.ai — an embedded AI offering real-time fault correction in power systems — and a GaN (gallium nitride) compound semiconductor power module that can be heterogeneously integrated with it for energy grids, renewables and data centres, in collaboration with the UK's CSA Catapult and 5G3i, currently in the commercial-readiness phase.\n\nSMD is co-developing an advanced microcontroller for automotive applications, leveraging an existing Melexis automotive microcontroller IP used for control, data processing and communication in engine control units, flight control systems, navigation systems and more.\n\n\"Melexis’ vast experience in designing compound semiconductor ICs for automotive sector, paves the way into aerospace sector due to the similarity in IC requirements and usage for these sectors,\" read the blueprint.\n\nSMD's Electronic Embedded System (Etes) initiatives include Sarapeg 2.0, a smart land marker that integrates GPS and/or sensor microchips into Sarapeg land markers with applications built on land marker data under SDG 15 (Life On Land), alongside the development of a cloud-based AI-enabled GIS known as next-gen e-Lasis.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
       "content_url": "https://theedgemalaysia.com/node/824510"
+    },
+    {
+      "id": "2026-11-04-bd613e",
+      "title": "Oracle scraps US$7 billion deal to lease chips to Tencent under Trump pressure, FT reports",
+      "summary": "US officials have approached the firm to raise concerns about the deal, the newspaper says",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 2,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "regulation",
+        "trade",
+        "cloud"
+      ],
+      "published_at": "2026-11-04T06:47:24Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/oracle-scraps-us7-billion-deal-lease-chips-tencent-under-trump-pressure-ft-reports",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/oracle-drops-tencent-as-cloud-client-losing-multi-billion-dollar-contract-report/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Oracle",
+        "Tencent"
+      ],
+      "title_zh": "Oracle在特朗普压力下取消向Tencent出租芯片的70亿美元交易",
+      "content": "US officials have approached the firm to raise concerns about the deal, the newspaper says\n\n\\[BENGALURU\\] Oracle has cancelled a multibillion-dollar chip leasing contract with Tencent after bowing to pressure from the Trump administration, the *Financial Times* reported on Wednesday (Nov 4).\n\nUS officials approached Oracle to raise concerns about the Tencent deal, the newspaper said, citing people familiar with the matter.\n\nTencent also received visits from top officials in Guangdong, where the group is based, who asked the company to support domestic Chinese chips, the report said.\n\nReuters could not immediately verify the report. Oracle, Tencent and the White House did not respond to Reuters requests for comment on the report.\n\nThe *Financial Times* reported in October that Tencent signed its largest overseas lease deal, worth an estimated US$7 billion, with Oracle\n\nThe deal would have given Tencent access to about 100,000 advanced artificial intelligence chips that were not available in China due to curbs from Washington and Beijing, according to the report.\n\nTencent had agreed to a five-year lease across multiple Oracle data centres in South-east Asia, according to the report.\n\nThis comes as Chinese AI developers are renting access to AI accelerators that are not available in their home country, such as those from American firm Nvidia, to avert US export controls.\n\nChinese tech companies are among the biggest customers of data centres in South-east Asia. REUTERS, BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/oracle-scraps-us7-billion-deal-lease-chips-tencent-under-trump-pressure-ft-reports"
+    },
+    {
+      "id": "2026-11-04-e3620a",
+      "title": "Goodman, Digital Realty raid NextDC's register for $940m stake",
+      "summary": "Goodman Group and Digital Realty have jointly acquired a $940 million stake in NextDC, one of Australia's largest data center operators, by purchasing shares from the company's register. The investment combines Goodman's property development expertise with Digital Realty's global data center platform to expand in the Australian market.",
+      "why_it_matters": "This strategic alliance signals intensifying competition for Australian data center assets as AI demand converges with the country's renewable energy advantages. NextDC gains formidable development and global interconnection capabilities, while the entry of two major international players pressures local operators like Macquarie Telecom and may accelerate consolidation in a market previously dominated by domestic champions.",
+      "score": 85,
+      "heat": 4,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "mergers-acquisitions",
+        "colocation",
+        "hyperscale"
+      ],
+      "published_at": "2026-11-04T05:51:25Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/street-talk/goodman-group-digital-realty-raid-nextdc-s-register-for-9-9pc-stake-20261104-p61bgt",
+          "type": "html-list"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/digital-realty-and-goodman-group-line-up-au715m-bid-for-stake-in-australias-nextdc/",
+          "type": "html-list"
+        },
+        {
+          "name": "W.Media",
+          "url": "https://w.media/goodman-and-digital-realty-move-on-nextdc-after-m3-power-delay/",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/goodman-and-digital-realty-seek-nextdc-stake-after-power-delays/135555824",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Goodman",
+        "Digital Realty",
+        "NextDC",
+        "Goodman Group"
+      ],
+      "title_zh": "Goodman、Digital Realty从NextDC股东名册中收购9.4亿澳元股份",
+      "summary_zh": "Goodman Group 和 Digital Realty 通过从公司登记册购买股份，联合收购了澳大利亚最大 data center 运营商之一 NextDC 价值 9.4 亿美元的股份。该投资结合了 Goodman 的房地产开发专长与 Digital Realty 的全球 data center 平台，以扩展在澳大利亚市场的业务。",
+      "why_zh": "这一战略联盟标志着随着 AI 需求与澳大利亚可再生能源优势的结合，对澳大利亚 data center 资产的竞争正在加剧。NextDC 获得了强大的开发和全球互联能力，而两大国际参与者的进入对 Macquarie Telecom 等本地运营商构成压力，可能加速此前由国内龙头企业主导的市场整合。",
+      "content": "Goodman is working with New York-listed Digital Realty to take a major stake in NextDC, the ASX-listed data centre giant that has seen its shares slump after running into problems with its massive Melbourne site.\n\nJPMorgan was lining up a 9.9 per cent in NextDC after Wednesday’s closing bell on behalf of Goodman, one of Australia’s largest real estate trusts with a sprawling portfolio of industrial sites. Capitalised at more than $55 billion, Goodman has been working to expand into the data centre sector.\n\nLoading...",
+      "content_url": "https://www.afr.com/street-talk/goodman-group-digital-realty-raid-nextdc-s-register-for-9-9pc-stake-20261104-p61bgt",
+      "published_precision": "day"
     },
     {
       "id": "2026-11-04-d1b52e",
@@ -197,46 +222,12 @@
       "content_url": "https://theedgemalaysia.com/node/824485"
     },
     {
-      "id": "2026-11-04-bd613e",
-      "title": "Oracle scraps US$7 billion deal to lease chips to Tencent under Trump pressure, FT reports",
-      "summary": "US officials have approached the firm to raise concerns about the deal, the newspaper says",
-      "why_it_matters": "",
-      "score": 70,
-      "heat": 1,
-      "regions": [
-        "china",
-        "global"
-      ],
-      "topics": [
-        "chips",
-        "regulation",
-        "trade",
-        "cloud"
-      ],
-      "published_at": "2026-11-04T06:47:24Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Business Times",
-          "url": "https://www.businesstimes.com.sg/companies-markets/oracle-scraps-us7-billion-deal-lease-chips-tencent-under-trump-pressure-ft-reports",
-          "type": "rss"
-        }
-      ],
-      "companies": [
-        "Oracle",
-        "Tencent"
-      ],
-      "title_zh": "Oracle在特朗普压力下取消向Tencent出租芯片的70亿美元交易",
-      "content": "US officials have approached the firm to raise concerns about the deal, the newspaper says\n\n\\[BENGALURU\\] Oracle has cancelled a multibillion-dollar chip leasing contract with Tencent after bowing to pressure from the Trump administration, the *Financial Times* reported on Wednesday (Nov 4).\n\nUS officials approached Oracle to raise concerns about the Tencent deal, the newspaper said, citing people familiar with the matter.\n\nTencent also received visits from top officials in Guangdong, where the group is based, who asked the company to support domestic Chinese chips, the report said.\n\nReuters could not immediately verify the report. Oracle, Tencent and the White House did not respond to Reuters requests for comment on the report.\n\nThe *Financial Times* reported in October that Tencent signed its largest overseas lease deal, worth an estimated US$7 billion, with Oracle\n\nThe deal would have given Tencent access to about 100,000 advanced artificial intelligence chips that were not available in China due to curbs from Washington and Beijing, according to the report.\n\nTencent had agreed to a five-year lease across multiple Oracle data centres in South-east Asia, according to the report.\n\nThis comes as Chinese AI developers are renting access to AI accelerators that are not available in their home country, such as those from American firm Nvidia, to avert US export controls.\n\nChinese tech companies are among the biggest customers of data centres in South-east Asia. REUTERS, BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
-      "content_url": "https://www.businesstimes.com.sg/companies-markets/oracle-scraps-us7-billion-deal-lease-chips-tencent-under-trump-pressure-ft-reports"
-    },
-    {
       "id": "2026-11-04-63dad0",
       "title": "Malaysia's Perak state explores proposed 100MW AI data center",
       "summary": "Malaysia’s Perak State Development Corporation (PKNPk) and Global Vision Lab Sdn Bhd (GVL) are exploring a proposed artificial intelligence data center (AIDC) development in Perak with planned capacity exceeding 100MW, according to PKNPk press release yesterday. To date, only a non-disclosure agreement and a letter of consent have been signed; as such more specific details like […]",
       "why_it_matters": "",
       "score": 70,
-      "heat": 1,
+      "heat": 2,
       "regions": [
         "southeast-asia"
       ],
@@ -252,6 +243,11 @@
         {
           "name": "W.Media",
           "url": "https://w.media/malaysias-perak-state-explores-proposed-100mw-ai-data-center/",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/perak-state-explores-100mw-ai-data-center-development/135538694",
           "type": "rss"
         }
       ],
@@ -534,6 +530,78 @@
       "content_url": "https://datacenternews.asia/story/melbourne-cheaper-than-sydney-for-data-centre-build"
     },
     {
+      "id": "2026-11-04-201b12",
+      "title": "Goodman shrugs off Sydney data centre cancellation",
+      "summary": "Goodman Group has shrugged off the cancellation of a planned $1.2 billion data centre project in Sydney after strong community opposition, saying it had “plenty of opportunity” to build…",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "data-centre",
+        "capacity",
+        "development"
+      ],
+      "published_at": "2026-11-04T00:19:59Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/property/commercial/goodman-promises-9pc-earnings-lift-despite-data-centre-challenges-20261104-p61azm",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Goodman"
+      ],
+      "title_zh": "Goodman对悉尼数据中心取消项目不予理会",
+      "content": "Goodman Group has shrugged off the cancellation of a planned $1.2 billion data centre project in Sydney after strong community opposition, saying it had “plenty of opportunity” to build infrastructure to support the artificial intelligence boom in Australia even without that particular site.\n\nChief executive Greg Goodman on Wednesday said his company’s decision to withdraw its planning application for the 90-megawatt Lane Cove facility did not set a precedent that could hit its other projects in Australia and it did not need to find a replacement for the so-called Project Mars.\n\nLoading...",
+      "content_url": "https://www.afr.com/property/commercial/goodman-promises-9pc-earnings-lift-despite-data-centre-challenges-20261104-p61azm",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-11-04-511717",
+      "title": "AMD forecasts quarterly revenue above estimates as data-centre growth accelerates",
+      "summary": "AMD has projected quarterly revenue above Wall Street expectations, driven by accelerating growth in its data center segment where its MI300 series AI accelerators are gaining traction against Nvidia's dominance. The forecast signals that the AI chip market is expanding rapidly enough to support multiple major suppliers.",
+      "why_it_matters": "AMD's data center momentum validates the market's appetite for Nvidia alternatives, giving hyperscalers and cloud providers more negotiating leverage and supply chain resilience. For APAC data center operators, a competitive GPU market could moderate the extreme pricing power Nvidia has enjoyed, though supply constraints for advanced packaging remain a bottleneck for all vendors.",
+      "score": 85,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "earnings",
+        "ai",
+        "data-centre"
+      ],
+      "published_at": "2026-11-03T22:23:59Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/amd-forecasts-quarterly-revenue-above-estimates-data-centre-growth-accelerates",
+          "type": "rss"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824445",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "AMD",
+        "NVIDIA"
+      ],
+      "title_zh": "AMD预测季度收入高于预期，data-centre增长加速",
+      "summary_zh": "AMD 预计季度收入将超出华尔街预期，这得益于其 data center 业务板块的加速增长，其 MI300 系列 AI 加速器正在挑战 Nvidia 的主导地位。这一预测表明 AI 芯片市场正在快速扩张，足以支撑多个主要供应商。",
+      "why_zh": "AMD 在 data center 领域的势头验证了市场对 Nvidia 替代方案的需求，使 hyperscaler 和 cloud 提供商拥有更强的议价能力和供应链韧性。对于 APAC 的 data center 运营商而言，竞争激烈的 GPU 市场可能缓和 Nvidia 享有的极端定价权，尽管先进封装供应限制对所有供应商仍是瓶颈。",
+      "content": "The stock has more than doubled so far this year\n\nAMD forecast fourth-quarter revenue above Wall Street estimates on Tuesday (Nov 3), buoyed by strong demand for its chips as its multibillion-dollar effort to challenge Nvidia’s dominance of the AI semiconductor market gains momentum.\n\nShares of the company jumped over 7.5 per cent in extended trading. The stock has more than doubled so far this year. Intel shares rose 2 per cent, Nvidia stock climbed over 1 per cent and Broadcom also advanced 1.2 per cent.\n\nAMD, which nearly doubled its data-centre revenue in the third quarter, is benefiting as a shift in AI workloads toward running models in real-world applications drives demand for its graphics processing units and central processors.\n\nThis has enabled AMD to capture market share from rival Intel, which last week forecast quarterly revenue well below estimates and triggered a global selloff in chip stocks.\n\nAMD expects fourth-quarter revenue of about US$17 billion, plus or minus 3 per cent, above analysts’ average estimate of US$16.23 billion, according to data compiled by LSEG.\n\nThe company’s adjusted gross margin is expected to be about 55 per cent, in line with estimates of 55.27 per cent and down from 56 per cent in the third quarter.\n\nAMD has stepped up AI product rollouts, moving beyond standalone chips to compete with Nvidia’s rack-scale systems.\n\nThe company’s flagship Helios rack, combining its MI455X accelerator and new “Venice” server chips, is in production and set for a larger ramp-up in the fourth quarter. The initial systems are being tested at Meta.\n\nIn February, the company agreed to sell up to US$60 billion worth of AI chips to Meta over five years in a deal that allows the Facebook owner to purchase as much as 10 per cent of the chip firm.\n\nAMD’s third-quarter revenue rose 45 per cent to US$13.38 billion, beating estimates of US$13.09 billion. Data-centre revenue jumped 97 per cent to a record US$8.55 billion, exceeding estimates of US$8.20 billion.\n\nAdjusted profit came in at US$2.09 per share, compared with estimates of US$1.95.\n\nThe semiconductor industry is also grappling with a global memory shortage, leaving expensive high-bandwidth memory used in AI processors in scarce supply as manufacturers race to increase production.\n\nThird-quarter sales in AMD’s client and gaming segment, home to its PC chips and console processors, fell 8 per cent to US$3.72 billion, missing estimates of US$3.79 billion.\n\nBeyond chips, AMD in September agreed to buy Fei-Fei Li’s World Labs, a startup building AI that models 3D environments, for US$8.2 billion in stock, gaining a foothold in research on physical AI systems. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/amd-forecasts-quarterly-revenue-above-estimates-data-centre-growth-accelerates"
+    },
+    {
       "id": "2026-11-04-7125f7",
       "title": "Liquid cooling demands new data centre measurement standards",
       "summary": "Liquid cooling is fundamentally changing data centre operational requirements, especially for high-density AI environments. This shift necessitates new expertise and comprehensive measurement infrastructure beyond traditional air-cooled setups.",
@@ -595,6 +663,38 @@
       "content_url": "https://news.idcquan.com/news/208453.shtml"
     },
     {
+      "id": "2026-11-04-52df1e",
+      "title": "MM Computer Systems bags RM52m job to supply AI-ready servers",
+      "summary": "MM Computer Systems Bhd (KL:MMCS) said it has secured a purchase order worth RM51.58 million to supply graphics processing unit (GPU)-accelerated servers.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "servers",
+        "hardware",
+        "investment"
+      ],
+      "published_at": "2026-11-03T12:07:28Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824413",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "MM Computer Systems"
+      ],
+      "title_zh": "MM Computer Systems获得5250万令吉AI-ready服务器供应订单",
+      "content": "KUALA LUMPUR (Nov 3): MM Computer Systems Bhd (KL:MMCS) said it has secured a purchase order worth RM51.58 million to supply graphics processing unit (GPU)-accelerated servers.\n\n“This contract underscores MMCS’s capabilities in delivering advanced IT infrastructure solutions amid growing demand for AI and high-performance computing technologies,” MMCS said in a statement on Tuesday.\n\nThe IT solutions provider did not disclose the name of the party that awarded the contract to its wholly owned subsidiary, Micro Technology Solution Sdn Bhd, saying only that it is a Malaysian telecommunications infrastructure and data centre services provider.\n\nMMCS said the servers are designed to support computationally intensive workloads, including generative AI, large language model training and inference, deep learning, advanced data analytics and high-performance computing.\n\nThe company expects the contract to contribute positively to its earnings and net assets per share.\n\nMMCS shares closed unchanged at 36.5 sen on Tuesday, valuing the company at RM207 million. The stock, which debuted on the ACE Market in June, has risen over 65% from its initial public offering price of 22 sen.\n\nEdited ByS Kanagaraju\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/824413"
+    },
+    {
       "id": "2026-11-04-d13938",
       "title": "NTT Data opens JKT2A data center in Indonesia",
       "summary": "NTT Data has launched its JKT2A data center in Indonesia, expanding the company's footprint in Southeast Asia's largest economy. The facility adds capacity in Jakarta, where demand for digital infrastructure is rising rapidly among local enterprises and international cloud providers.",
@@ -652,7 +752,7 @@
       "summary": "Samsung SDS has broken ground on its Gumi AI Data Center in South Korea, marking a significant expansion of the Samsung group's AI infrastructure capabilities. The facility is designed to support high-performance computing workloads and will leverage Samsung's advanced semiconductor and memory technologies.",
       "why_it_matters": "South Korea's government and chaebols are racing to build domestic AI capacity amid geopolitical tensions over chip access, with Samsung uniquely positioned to optimize vertically integrated facilities using its own HBM, SSD, and foundry output. This buildout intensifies competition with SK Telecom's AI data center plans and may reduce Korean enterprises' reliance on foreign cloud providers for sensitive workloads.",
       "score": 80,
-      "heat": 3,
+      "heat": 4,
       "regions": [
         "korea"
       ],
@@ -678,6 +778,11 @@
         {
           "name": "W.Media",
           "url": "https://w.media/samsung-sds-begins-construction-of-60-mw-ai-data-center-in-gumi-south-korea/",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/samsung-sds-begins-60-mw-ai-data-center-construction-in-gumi/135530453",
           "type": "rss"
         }
       ],
@@ -831,113 +936,6 @@
       "published_precision": "day",
       "content": "Anthropic's Australian subsidiary has signed a lease agreement with Australian Data Centres (ADC).\n\nThe deal with ADC, which is majority-owned by Australian real assets manager and owner Dexus, is not yet definitive.\n\nIn its September quarterly update to the Australian Stock Exchange, Dexus said: \"A consortium including Australia Data Centres (in which Dexus holds an 85 percent interest) entered into lease documentation with an Australian subsidiary of Anthropic for delivery of the first stage of the proposed development of a hyperscale data center campus in the Western Downs region of Queensland, subject to customary approvals including Dexus Board approval.\n\nSpeaking during the company's general meeting, Dexus CEO Ross Du Vernet told investors that ADC has \"launched a fundraising process to introduce additional capital to the business, of which Dexus is yet to determine the extent to which it will participate.\"\n\nHe added: \"Further details will be provided at financial close of the Anthropic project.\n\nRoss also described ADC as a \"small Australian data center business.\" According to ADC's website, the company has two data centers in Canberra that are operational, located in Mitchell and Fyshwick. Locations in Melbourne, Sydney, and Darwin are \"in development,\" and Adelaide, Perth, and Brisbane are \"in planning.\" The Canberra site was acquired in December 2025.\n\nDetails about the deal with Anthropic were not provided, but reports in September suggested that the consortium also includes Zerra DC, and will be for four data centers on 720 hectares of land in Dalby, northwest of Queensland. The data centers are expected to offer 2.16GW of capacity and be the first to go online in 2027.\n\nZerra DC filed for a data center campus in Western Downs in August 2026. At the time, the company said that Phase I of the campus will include the first data center, known as 1A and offering 36,000 sqm (387,500 sq ft) of data center floor space, an on-site battery-backed power conditioning system, a 540MVA substation, and supporting infrastructure. Buildings 1B, 2A, and 2B will also each total 36,000 sqm.\n\nThat Anthropic has been seeking data center capacity in Australia has been known since April 2026, when it signed an MoU to “cooperate on AI safety research and support the goals of Australia’s National AI Plan.”\n\nAs per that MoU, Anthropic could invest in “data center infrastructure and energy throughout the country” in line with the country’s expectations of projects proposed by data center and AI infrastructure developers.",
       "content_url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-lease-with-australian-data-centres-in-western-downs-queensland/"
-    },
-    {
-      "id": "2026-11-04-511717",
-      "title": "AMD forecasts quarterly revenue above estimates as data-centre growth accelerates",
-      "summary": "AMD has projected quarterly revenue above Wall Street expectations, driven by accelerating growth in its data center segment where its MI300 series AI accelerators are gaining traction against Nvidia's dominance. The forecast signals that the AI chip market is expanding rapidly enough to support multiple major suppliers.",
-      "why_it_matters": "AMD's data center momentum validates the market's appetite for Nvidia alternatives, giving hyperscalers and cloud providers more negotiating leverage and supply chain resilience. For APAC data center operators, a competitive GPU market could moderate the extreme pricing power Nvidia has enjoyed, though supply constraints for advanced packaging remain a bottleneck for all vendors.",
-      "score": 85,
-      "heat": 2,
-      "regions": [
-        "global"
-      ],
-      "topics": [
-        "chips",
-        "earnings",
-        "ai",
-        "data-centre"
-      ],
-      "published_at": "2026-11-03T22:23:59Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Business Times",
-          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/amd-forecasts-quarterly-revenue-above-estimates-data-centre-growth-accelerates",
-          "type": "rss"
-        },
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/824445",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "AMD",
-        "NVIDIA"
-      ],
-      "title_zh": "AMD预测季度收入高于预期，data-centre增长加速",
-      "summary_zh": "AMD 预计季度收入将超出华尔街预期，这得益于其 data center 业务板块的加速增长，其 MI300 系列 AI 加速器正在挑战 Nvidia 的主导地位。这一预测表明 AI 芯片市场正在快速扩张，足以支撑多个主要供应商。",
-      "why_zh": "AMD 在 data center 领域的势头验证了市场对 Nvidia 替代方案的需求，使 hyperscaler 和 cloud 提供商拥有更强的议价能力和供应链韧性。对于 APAC 的 data center 运营商而言，竞争激烈的 GPU 市场可能缓和 Nvidia 享有的极端定价权，尽管先进封装供应限制对所有供应商仍是瓶颈。",
-      "content": "The stock has more than doubled so far this year\n\nAMD forecast fourth-quarter revenue above Wall Street estimates on Tuesday (Nov 3), buoyed by strong demand for its chips as its multibillion-dollar effort to challenge Nvidia’s dominance of the AI semiconductor market gains momentum.\n\nShares of the company jumped over 7.5 per cent in extended trading. The stock has more than doubled so far this year. Intel shares rose 2 per cent, Nvidia stock climbed over 1 per cent and Broadcom also advanced 1.2 per cent.\n\nAMD, which nearly doubled its data-centre revenue in the third quarter, is benefiting as a shift in AI workloads toward running models in real-world applications drives demand for its graphics processing units and central processors.\n\nThis has enabled AMD to capture market share from rival Intel, which last week forecast quarterly revenue well below estimates and triggered a global selloff in chip stocks.\n\nAMD expects fourth-quarter revenue of about US$17 billion, plus or minus 3 per cent, above analysts’ average estimate of US$16.23 billion, according to data compiled by LSEG.\n\nThe company’s adjusted gross margin is expected to be about 55 per cent, in line with estimates of 55.27 per cent and down from 56 per cent in the third quarter.\n\nAMD has stepped up AI product rollouts, moving beyond standalone chips to compete with Nvidia’s rack-scale systems.\n\nThe company’s flagship Helios rack, combining its MI455X accelerator and new “Venice” server chips, is in production and set for a larger ramp-up in the fourth quarter. The initial systems are being tested at Meta.\n\nIn February, the company agreed to sell up to US$60 billion worth of AI chips to Meta over five years in a deal that allows the Facebook owner to purchase as much as 10 per cent of the chip firm.\n\nAMD’s third-quarter revenue rose 45 per cent to US$13.38 billion, beating estimates of US$13.09 billion. Data-centre revenue jumped 97 per cent to a record US$8.55 billion, exceeding estimates of US$8.20 billion.\n\nAdjusted profit came in at US$2.09 per share, compared with estimates of US$1.95.\n\nThe semiconductor industry is also grappling with a global memory shortage, leaving expensive high-bandwidth memory used in AI processors in scarce supply as manufacturers race to increase production.\n\nThird-quarter sales in AMD’s client and gaming segment, home to its PC chips and console processors, fell 8 per cent to US$3.72 billion, missing estimates of US$3.79 billion.\n\nBeyond chips, AMD in September agreed to buy Fei-Fei Li’s World Labs, a startup building AI that models 3D environments, for US$8.2 billion in stock, gaining a foothold in research on physical AI systems. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
-      "content_url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/amd-forecasts-quarterly-revenue-above-estimates-data-centre-growth-accelerates"
-    },
-    {
-      "id": "2026-11-04-52df1e",
-      "title": "MM Computer Systems bags RM52m job to supply AI-ready servers",
-      "summary": "MM Computer Systems Bhd (KL:MMCS) said it has secured a purchase order worth RM51.58 million to supply graphics processing unit (GPU)-accelerated servers.",
-      "why_it_matters": "",
-      "score": 60,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "ai",
-        "servers",
-        "hardware",
-        "investment"
-      ],
-      "published_at": "2026-11-03T12:07:28Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/824413",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "MM Computer Systems"
-      ],
-      "title_zh": "MM Computer Systems获得5250万令吉AI-ready服务器供应订单",
-      "content": "KUALA LUMPUR (Nov 3): MM Computer Systems Bhd (KL:MMCS) said it has secured a purchase order worth RM51.58 million to supply graphics processing unit (GPU)-accelerated servers.\n\n“This contract underscores MMCS’s capabilities in delivering advanced IT infrastructure solutions amid growing demand for AI and high-performance computing technologies,” MMCS said in a statement on Tuesday.\n\nThe IT solutions provider did not disclose the name of the party that awarded the contract to its wholly owned subsidiary, Micro Technology Solution Sdn Bhd, saying only that it is a Malaysian telecommunications infrastructure and data centre services provider.\n\nMMCS said the servers are designed to support computationally intensive workloads, including generative AI, large language model training and inference, deep learning, advanced data analytics and high-performance computing.\n\nThe company expects the contract to contribute positively to its earnings and net assets per share.\n\nMMCS shares closed unchanged at 36.5 sen on Tuesday, valuing the company at RM207 million. The stock, which debuted on the ACE Market in June, has risen over 65% from its initial public offering price of 22 sen.\n\nEdited ByS Kanagaraju\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/824413"
-    },
-    {
-      "id": "2026-11-04-b0d4ed",
-      "title": "Nvidia ordering data centre clients to reduce China exposure",
-      "summary": "Nvidia is pressuring its data centre partners to limit their business with Chinese customers, according to the Financial Times. This directive comes as the US government tightens export controls on advanced AI chips to China, with Nvidia previously having to create cut-down versions of its GPUs to comply with regulations.",
-      "why_it_matters": "This accelerates the decoupling of China's AI infrastructure from Western supply chains. Chinese hyperscalers and colocation providers will face GPU shortages and higher costs, likely accelerating domestic chip development by Huawei and others, while Nvidia's partners in APAC may need to restructure their customer portfolios to retain access to the company's latest hardware.",
-      "score": 95,
-      "heat": 1,
-      "regions": [
-        "china",
-        "global"
-      ],
-      "topics": [
-        "chips",
-        "regulation",
-        "hyperscale",
-        "supply-chain"
-      ],
-      "published_at": "2026-11-03T08:32:30Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/824374",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "NVIDIA"
-      ],
-      "title_zh": "Nvidia要求数据中心客户减少中国敞口",
-      "summary_zh": "据《金融时报》报道，Nvidia 正施压其 data centre 合作伙伴限制与中国客户的业务往来。这一指令出台之际，美国政府正收紧对中国先进 AI 芯片的出口管制，Nvidia 此前已不得不推出降级版 GPU 以符合法规要求。",
-      "why_zh": "这加速了中国 AI 基础设施与西方供应链的脱钩。中国 hyperscaler 和 colocation 提供商将面临 GPU 短缺和成本上升，可能推动华为等国内芯片开发的加速，而 APAC 地区的 Nvidia 合作伙伴可能需要重组其客户组合，以保留获取该公司最新硬件的渠道。",
-      "content": "SAN FRANCISCO (Nov 3): US chipmaking giant Nvidia is ordering its data centre partners to scale back work with Chinese customers, the *Financial Times* (*FT*) reported on Tuesday.\n\nNvidia's cloud computing clients must now sell at least 51% of their services to non-Chinese companies, the *FT* reported, citing five people with knowledge of the matter.\n\nThe new rules only affect future contracts and not existing agreements, the report said.\n\nNvidia neither confirmed nor denied the report to *AFP*, but said in a statement that \"data centres and clouds built on American chips are the foundation that American model and application makers need to compete worldwide\".\n\n\"Long-standing US policy encourages every cloud to build on American infrastructure and to win business everywhere they can,\" the statement said.\n\n\"America cannot win the AI race unless America's AI infrastructure wins worldwide. If the world's clouds rely on foreign-made chips, the model and application layers will be foreign-built as well.\"\n\nAsked about the report, Chinese Foreign Ministry spokeswoman Mao Ning said she was not aware of it.\n\n\"As a matter of principle, we consistently hope that all parties can provide a fair, transparent and non-discriminatory business environment for companies from all countries, including Chinese companies,\" she said.\n\nChina and the US are locked in a race for dominance in the fast-moving artificial intelligence (AI) sector.\n\nIn recent months, the two countries have traded accusations of stealing AI technologies and jeopardising security.\n\nNvidia is the world's most valuable company thanks to the global drive to build data centres packed with specialist computer chips and other hardware that runs AI systems.\n\n*Uploaded by Tham Yek Lee*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/824374"
     },
     {
       "id": "2026-11-04-7585c1",
@@ -1171,6 +1169,41 @@
       "why_zh": "这些合同 exemplify 了马来西亚的 data center 繁荣如何催化国内可再生能源供应链，随着运营商面临可持续发展承诺和电网可靠性问题，混合太阳能储能正成为首选电力安排。189MW 的规模表明 data center 现已成为马来西亚公用事业级可再生能源的锚定客户，可能重塑国家能源投资优先事项。",
       "content": "Malaysia-based renewable energy firm Northern Solar Holdings Berhad has secured a total of 189 megawatts (MW) for two data center projects in Malaysia, the firm said in two separate exchange filings yesterday. Its wholly-owned subsidiary Northern Solar Assets Sdn. Bhd. had accepted the two letters of award (LOA) to supply the data centers with solar energy under the corporate renewable energy supply scheme (CRESS). Both LOAs include a battery energy storage system (BESS) as well.\n\nThe first LOA was awarded by a Malaysian property investment and data center infrastructure developer in respect of 100MWac solar capacity coupled with a BESS for a data center with an annual electricity requirement of 262.8 million kilowatt-hours (kWh).\n\nThe second, awarded by a Malaysian subsidiary of a Singapore-based data center operator, provides 89MWac solar coupled with a BESS for a data center with annual electricity requirement of 233.89 million kWh.\n\nThe commencement date of both projects has not been finalised and Northern Solar will update once definitive agreements are signed. Both data centers will have a combined annual electricity requirement of almost 500 million kWh. The total value of both projects was not disclosed.\n\nIn October, Northern Solar had secured a RM34 million contract to develop a 9.5MW large-scale solar photovoltaic plant.",
       "content_url": "https://w.media/malaysian-firm-lands-2-solar-plus-bess-deals-totalling-189mw-for-data-centers/"
+    },
+    {
+      "id": "2026-11-04-b0d4ed",
+      "title": "Nvidia ordering data centre clients to reduce China exposure",
+      "summary": "Nvidia is pressuring its data centre partners to limit their business with Chinese customers, according to the Financial Times. This directive comes as the US government tightens export controls on advanced AI chips to China, with Nvidia previously having to create cut-down versions of its GPUs to comply with regulations.",
+      "why_it_matters": "This accelerates the decoupling of China's AI infrastructure from Western supply chains. Chinese hyperscalers and colocation providers will face GPU shortages and higher costs, likely accelerating domestic chip development by Huawei and others, while Nvidia's partners in APAC may need to restructure their customer portfolios to retain access to the company's latest hardware.",
+      "score": 95,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "regulation",
+        "hyperscale",
+        "supply-chain"
+      ],
+      "published_at": "2026-11-03T08:32:30Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824374",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "title_zh": "Nvidia要求数据中心客户减少中国敞口",
+      "summary_zh": "据《金融时报》报道，Nvidia 正施压其 data centre 合作伙伴限制与中国客户的业务往来。这一指令出台之际，美国政府正收紧对中国先进 AI 芯片的出口管制，Nvidia 此前已不得不推出降级版 GPU 以符合法规要求。",
+      "why_zh": "这加速了中国 AI 基础设施与西方供应链的脱钩。中国 hyperscaler 和 colocation 提供商将面临 GPU 短缺和成本上升，可能推动华为等国内芯片开发的加速，而 APAC 地区的 Nvidia 合作伙伴可能需要重组其客户组合，以保留获取该公司最新硬件的渠道。",
+      "content": "SAN FRANCISCO (Nov 3): US chipmaking giant Nvidia is ordering its data centre partners to scale back work with Chinese customers, the *Financial Times* (*FT*) reported on Tuesday.\n\nNvidia's cloud computing clients must now sell at least 51% of their services to non-Chinese companies, the *FT* reported, citing five people with knowledge of the matter.\n\nThe new rules only affect future contracts and not existing agreements, the report said.\n\nNvidia neither confirmed nor denied the report to *AFP*, but said in a statement that \"data centres and clouds built on American chips are the foundation that American model and application makers need to compete worldwide\".\n\n\"Long-standing US policy encourages every cloud to build on American infrastructure and to win business everywhere they can,\" the statement said.\n\n\"America cannot win the AI race unless America's AI infrastructure wins worldwide. If the world's clouds rely on foreign-made chips, the model and application layers will be foreign-built as well.\"\n\nAsked about the report, Chinese Foreign Ministry spokeswoman Mao Ning said she was not aware of it.\n\n\"As a matter of principle, we consistently hope that all parties can provide a fair, transparent and non-discriminatory business environment for companies from all countries, including Chinese companies,\" she said.\n\nChina and the US are locked in a race for dominance in the fast-moving artificial intelligence (AI) sector.\n\nIn recent months, the two countries have traded accusations of stealing AI technologies and jeopardising security.\n\nNvidia is the world's most valuable company thanks to the global drive to build data centres packed with specialist computer chips and other hardware that runs AI systems.\n\n*Uploaded by Tham Yek Lee*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/824374"
     },
     {
       "id": "2026-11-04-5aaeb6",
