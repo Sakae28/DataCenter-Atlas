@@ -3,12 +3,83 @@
   "generated_at": "2026-11-05T07:57:57Z",
   "hot": [
     "2026-11-05-ca560b",
+    "2026-11-05-60633b",
+    "2026-11-05-fcad10",
     "2026-11-05-403f4b",
-    "2026-11-05-78b171",
-    "2026-11-05-f1d077",
-    "2026-11-05-60633b"
+    "2026-11-05-78b171"
   ],
   "stories": [
+    {
+      "id": "2026-11-05-78b171",
+      "title": "France's Tikehau, Natixis look to Asia as US data center boom raises risks",
+      "summary": "French investment firms Tikehau Capital and Natixis are increasing allocations to Asian data center markets as valuations in the United States reach levels they consider overheated. The firms are targeting development-stage projects in Japan, Australia, and Southeast Asia where they perceive more favorable risk-adjusted returns.",
+      "why_it_matters": "European capital rotation into APAC data centers validates regional market maturation but intensifies competition for development sites and operating platforms. The influx of yield-seeking institutional investors compresses cap rates and may inflate land values in secondary markets, squeezing local developers who rely on domestic financing and lack the scale to compete for trophy assets in Tokyo, Sydney, or Singapore.",
+      "score": 75,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "investment",
+        "data center",
+        "risk",
+        "asia expansion"
+      ],
+      "published_at": "2026-11-05T07:57:57Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/finance/france-s-tikehau-natixis-look-to-asia-as-us-data-center-boom-raises-risks",
+          "type": "rss"
+        },
+        {
+          "name": "Nikkei Asia — data center search",
+          "url": "https://asia.nikkei.com/business/finance/france-s-tikehau-natixis-look-to-asia-as-us-data-center-boom-raises-risks",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Tikehau",
+        "Natixis"
+      ],
+      "title_zh": "法国Tikehau、Natixis将目光转向亚洲，因美国data center热潮带来风险",
+      "summary_zh": "法国投资公司Tikehau Capital和Natixis正在增加对Asia data center市场的配置，因其认为United States的估值已达到过热水平。这些公司正瞄准Japan、Australia和Southeast Asia的开发阶段项目，认为这些地区具有更有利的风险调整后回报。",
+      "why_zh": "欧洲资本转向APAC data center验证了区域市场的成熟，但加剧了开发地点和运营平台的竞争。寻求收益的机构投资者的涌入压缩了cap rate，并可能推高二级市场的土地价值，挤压依赖国内融资、缺乏规模以在Tokyo、Sydney或Singapore竞争优质资产的本地开发商。",
+      "content": "Finance\n# France's Tikehau, Natixis look to Asia as US data center boom raises risks\n\nJapan, South Korea are among key targets for M&A, fundraising\n\nTikehau Capital co-founder Mathieu Chabran sees Asia eventually accounting for 10% to 20% of its portfolio. (Nikkei montage/Source photos by Mitsuru Obe and Getty Images)\n\nMITSURU OBE\n\nNovember 5, 2026 12:53 JST\n\nTOKYO -- French alternative asset manager Tikehau Capital is hunting for its first private equity investment in Japan, while Natixis Corporate and Investment Banking (CIB) is building out its mergers and acquisitions business in the country, as both seek to capitalize on growing opportunities in Asia's artificial intelligence business and energy transition.",
+      "content_url": "https://asia.nikkei.com/business/finance/france-s-tikehau-natixis-look-to-asia-as-us-data-center-boom-raises-risks",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-11-05-d8932d",
+      "title": "China's curbs on tungsten used in drill bits squeeze AI supply chain",
+      "summary": "Export controls on critical metal have sent price of key tool surging",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "supply chain",
+        "export controls",
+        "ai"
+      ],
+      "published_at": "2026-11-05T07:57:57Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/spotlight/supply-chain/china-s-curbs-on-tungsten-used-in-drill-bits-squeeze-ai-supply-chain",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "中国对钻头用钨的限制挤压AI supply chain",
+      "content": "Supply Chain\n# China's curbs on tungsten used in drill bits squeeze AI supply chain\n\nExport controls on critical metal have sent price of key tool surging\n\nTungsten carbide bits, like these made by Taiwan's Topoint, drill micro-holes in printed circuit boards (PCBs) and chip substrates. (Nikkei montage/Source photos by Cheng Ting-Fang)\n\nCHENG TING-FANG\n\nNovember 5, 2026 11:28 JST\n\nTAIPEI -- China's export controls on critical metals have disrupted supplies of micro drill bits, little-known but critical components in the AI chip supply chain, in the latest example of how geopolitical tensions are rippling through the global tech industry.",
+      "content_url": "https://asia.nikkei.com/spotlight/supply-chain/china-s-curbs-on-tungsten-used-in-drill-bits-squeeze-ai-supply-chain"
+    },
     {
       "id": "2026-11-05-62eb77",
       "title": "Data centres could use twice the power of all the houses in Sydney",
@@ -37,42 +108,43 @@
       "summary_zh": "一项新分析预测，仅Sydney大都市区的data center到2030年就可能消耗相当于目前所有Sydney家庭住宅需求两倍的电力。该预测假设AI训练和推理基础设施持续部署，而效率提升或需求侧管理没有显著改善。",
       "why_zh": "该预测迫使New South Wales政策制定者面对一个二元选择：要么加速可再生能源发电建设，要么对data center审批实施有效禁令。对于运营商而言，将data center定位为住宅电力竞争对手的公众叙事增加了政治风险，可能转化为碳税或电网接入限制，从根本上改变Sydney作为部署地点与Australia区域替代方案之间的经济比较。",
       "content": "The NSW government has been warned the $50 billion worth of data centres in the state’s existing development pipeline could consume more than twice the electricity of every household in Sydney.\n\nBut the actual impact of the data centre build out on the energy grid is impossible to calculate because developers often put in speculative grid connection requests that distort usage forecasts, a parliamentary committee has found.\n\nLoading...",
-      "content_url": "https://www.afr.com/companies/infrastructure/data-centres-could-use-twice-the-power-of-all-the-houses-in-sydney-20261105-p61blq"
+      "content_url": "https://www.afr.com/companies/infrastructure/data-centres-could-use-twice-the-power-of-all-the-houses-in-sydney-20261105-p61blq",
+      "published_precision": "day"
     },
     {
-      "id": "2026-11-05-fcad10",
-      "title": "NextDC prepares for takeover battle after Goodman share raid",
-      "summary": "NextDC's board has activated defensive measures and engaged advisors to prepare for a potential takeover battle after Goodman Group acquired a substantial share position through rapid market purchases. The Australian data center operator has not received a formal bid but is treating Goodman's accumulation as hostile preliminary positioning.",
-      "why_it_matters": "NextDC's defensive posture reveals how vulnerable standalone data center assets have become to strategic buyers with property and infrastructure expertise. Australian institutional investors must now weigh the premium in a control transaction against the long-term value of retaining a domestically headquartered operator that serves government and financial services clients with sovereign data requirements.",
-      "score": 85,
+      "id": "2026-11-05-fbd19f",
+      "title": "SoftBank acquisition of ABB robot unit blocked by China regulator that opposed Meta's Manus deal",
+      "summary": "The deal is part of founder Masayoshi Son’s ambition to play a larger role in the AI build-out",
+      "why_it_matters": "",
+      "score": 60,
       "heat": 1,
       "regions": [
-        "australia"
+        "china",
+        "global"
       ],
       "topics": [
-        "investment",
-        "takeover",
-        "hyperscale",
-        "colocation"
+        "regulation",
+        "ai",
+        "chips",
+        "investment"
       ],
-      "published_at": "2026-11-05T00:11:47Z",
-      "featured": true,
+      "published_at": "2026-11-05T07:07:35Z",
+      "featured": false,
       "sources": [
         {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/companies/infrastructure/nextdc-prepares-for-takeover-battle-after-share-raid-20261105-p61bl3",
-          "type": "html-list"
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/softbank-acquisition-abb-robot-unit-blocked-china-regulator-opposed-metas-manus-deal-ft",
+          "type": "rss"
         }
       ],
       "companies": [
-        "NextDC",
-        "Goodman"
+        "SoftBank",
+        "ABB",
+        "Meta"
       ],
-      "title_zh": "NextDC在Goodman突袭股权后准备应对收购战",
-      "summary_zh": "在Goodman Group通过快速市场收购获得大量股份后，NextDC董事会已启动防御措施并聘请顾问准备应对潜在的收购战。这家Australian data center运营商尚未收到正式要约，但将Goodman的积累视为敌意的初步 positioning。",
-      "why_zh": "NextDC的防御姿态表明，standalone data center资产对于拥有房地产和基础设施专业知识的战略买家已变得多么脆弱。Australian机构投资者现在必须权衡控制权交易中的溢价，与保留一家总部设在国内、为具有主权数据需求的政府和金融服务客户提供服务的运营商的长期价值。",
-      "content": "NextDC investors are bracing for a takeover battle that would value the data centre operator at more than $7 billion after Australian property developer Goodman Group and its New York-listed partner raided the company’s shares.\n\nGoodman and Digital Realty Trust acquired just under 8 per cent of the embattled data centre landlord in a buying spree on Wednesday afternoon, making them NextDC’s biggest combined shareholder.\n\nLoading...",
-      "content_url": "https://www.afr.com/companies/infrastructure/nextdc-prepares-for-takeover-battle-after-share-raid-20261105-p61bl3"
+      "title_zh": "中国监管机构阻止SoftBank收购ABB机器人部门，该机构曾反对Meta的Manus交易",
+      "content": "The deal is part of founder Masayoshi Son’s ambition to play a larger role in the AI build-out\n\n\\[HONG KONG\\] China has blocked SoftBank Group’s US$5.4 billion deal to acquire ABB’s robots unit, the *Financial Times* reported, citing unidentified people.\n\nThe deal – widely expected to bolster SoftBank’s revenue and profit while it awaits a boost from OpenAI’s public debut – was opposed by China’s powerful state planner, the National Development and Reform Commission (NDRC), according to the newspaper.\n\nThe Japanese backer of the ChatGPT creator was recently informed of the decision and is now trying to determine whether it can seek approval again, it said.\n\nSoftBank’s shares were down more than 7 per cent in Tokyo on Thursday (Nov 5). A company spokesperson declined to comment.\n\nFounder Masayoshi Son has listed the deal as a key part of his ambition to play a larger role in the artificial intelligence build-out.\n\nThe Tokyo-based investment firm was looking to take over a business from Swiss-Swedish conglomerate ABB with more than 7,000 employees, which supplies robotic arms and industrial machinery to manufacturers like BMW and has a large presence in China.\n\nCredit and equity investors worried about SoftBank’s near-US$65 billion investment in OpenAI and commitments to data centre projects worth hundreds of billions of dollars looked to ABB’s expected contribution to SoftBank’s bottom line for assurance that the company was not overextending itself.\n\nConcerns about Son’s exposure to hundreds of unlisted and unprofitable startups have grown since OpenAI head Sam Altman said the company would not go public in 2026. SoftBank held a 13 per cent stake in OpenAI as of October.\n\n“ABB Robotics lacks the cutting-edge innovation found across SoftBank’s physical AI startup portfolio, but its domain expertise and manufacturing know-how had been expected to transform robotic concepts into actual businesses,” said Bloomberg Intelligence analyst Kirk Boodry.\n\nIn April, the NDRC blocked Meta Platforms’ US$2 billion acquisition of agentic AI startup Manus, issuing a one-line notice saying it had decided to prohibit foreign investment in the startup in accordance with laws and regulations.\n\nSoftBank’s acquisition was similarly subjected to a foreign investment security review by the regulator, the FT said.\n\nChina, now aggressively expanding its humanoid robot and other physical AI applications, had been concerned about robotics data being transferred overseas and used to train competing AI models, according to the FT report.\n\nJapan is home to many of the world’s biggest industrial robot makers including Fanuc, Yaskawa Electric and Kawasaki Heavy Industries. Most have partnered with Nvidia to explore ways to use AI inside factories, hospitals and logistics networks and stay ahead of rising competition from China. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/softbank-acquisition-abb-robot-unit-blocked-china-regulator-opposed-metas-manus-deal-ft"
     },
     {
       "id": "2026-11-05-8f7bbf",
@@ -138,6 +210,37 @@
       "title_zh": "工程公司Rosado增聘Kenanga为ACE Market IPO承销商",
       "content": "KUALA LUMPUR (Nov 5): Rosado Bhd, specialising in electrical works for data centres, added Kenanga Investment Bank Bhd as an underwriter for its ACE Market listing this month.\n\nKenanga will join Malacca Securities to underwrite shares under the initial public offering (IPO) set aside for the Malaysian public investors and eligible persons under the pink form allocation. The IPO is set for launch on Nov 27, according to a spokesperson for Rosado.\n\nMalacca Securities is the principal adviser, sponsor, managing underwriter and managing placement agent for the IPO while Kenanga is a joint underwriter and joint placement agent.\n\nThe listing will provide Rosado with access to capital to strengthen its capabilities and support its expansion, managing director and chief executive officer Datuk Lim Tiew Sin said in a statement.\n\n“We see this listing exercise as an opportunity to build on the foundation we have established and pursue our next phase of growth,” he said.\n\nBased in Selangor, Rosado provides mechanical, electrical, and plumbing engineering services commonly known as MEP for data centres — clients that accounted for nearly all of its revenue in the past three years. The company also performs earthworks and other civil construction services.\n\nThe planned IPO will be the latest in the line of MEP contractors filing for an IPO on Bursa Malaysia. Pioneer Heat Holdings Bhd (KL:PIONEER) was listed in September, while SKA Capital Bhd is set for Nov 11 listing. MyDCD Bhd is scheduled for a debut on Nov 17.\n\nRosado’s specialisation in electrical engineering works for data centres “places it within an important segment of the digital infrastructure value chain, where dependable power infrastructure and execution capabilities are essential”, said Malacca Securities managing director Lim Chia Wei.\n\nThe company is well positioned to tap into the rising demand for data centres thanks to its track record, said Datuk Roslan Tik, an executive director and the head of group investment banking and Islamic banking at Kenanga.\n\nThe IPO also includes an offer for sale of existing shares by TSLIM Holdings Sdn Bhd, a private vehicle of the founding Lim family of Rosado, according to the draft prospectus filed in June.\n\nEdited ByJason Ng\n\nPrint\n\nText Size\n\nShare",
       "content_url": "https://theedgemalaysia.com/node/824655"
+    },
+    {
+      "id": "2026-11-05-543294",
+      "title": "New South Wales inquiry finds inadequate data centre approval checks",
+      "summary": "A New South Wales parliamentary inquiry determined that data center approval processes failed to assess cumulative impacts on water, energy, and road infrastructure, instead evaluating projects in isolation. The report criticized planning authorities for lacking coordination mechanisms to manage concentrated development in Western Sydney but stopped short of recommending a development pause.",
+      "why_it_matters": "The inquiry's findings expose a regulatory gap that threatens to undermine Australia's data center competitiveness as operators face unpredictable infrastructure costs from uncoordinated public investment. Without cumulative impact assessment, approved projects risk construction delays from inadequate utility capacity, while the absence of a moratorium recommendation preserves investment flow but leaves local communities bearing uncompensated externalities that could fuel political opposition to future expansions.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "regulation",
+        "capacity",
+        "power",
+        "ai"
+      ],
+      "published_at": "2026-11-05T06:10:26Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/new-south-wales-inquiry-finds-inadequate-data-centre-approval-checks/135561626",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "新南威尔士州调查发现data centre审批检查不足",
+      "summary_zh": "一项New South Wales议会调查发现，data center审批流程未能评估对水、能源和道路基础设施的累积影响，而是孤立地评估项目。该报告批评规划部门缺乏协调机制来管理Western Sydney的集中开发，但未建议暂停开发。",
+      "why_zh": "调查结果暴露了一个监管缺口，可能削弱Australia的data center竞争力，因为运营商面临不协调公共投资带来的不可预测基础设施成本。在没有累积影响评估的情况下，获批项目可能因公用事业capacity不足而面临建设延误；而未建议暂停开发则保留了投资流动，但让当地社区承担未获补偿的外部性，可能助长对未来扩张的政治反对。",
+      "content": "An inquiry by Australia's most populous state found data centre approvals failed to consider the cumulative effect on resources and infrastructure.The report by the New South Wales cross-party inquiry did not call for a moratorium. This prompted a strong rebuke from its chair, Abigail Boyd.The inquiry noted that the state lacks a coherent strategy to manage the data centre boom's impact. This includes effects on water, electricity, and infrastructure.It warned that current guidelines may underestimate future power demand and water supply limits. The clustering of facilities could also create infrastructure pressures.\n### Planning Framework Concerns\n\n\"The current planning framework assesses data centres primarily as individual developments despite many impacts being cumulative in nature,\" the report stated.It added that \"Data centre ... impacts are cumulative and are being felt across communities and other industries.\"The report called for a comprehensive data centre strategy and better coordination among participants in the approvals pipeline.Minutes attached to the report showed members of the Public Accountability and Works Committee voted 6-1 to remove recommendations for a state and national moratorium on data centre approvals. This was to be in place \"until such time as all social and environmental harms can be fully understood.\"Committee chair Abigail Boyd, an upper house member from the Greens party, cast the lone vote to keep the moratorium recommendations.\n\n- Policy, Land & Power\n- 1 min Read\n\n# New South Wales inquiry finds inadequate data centre approval checks\n\nAn inquiry in New South Wales found that data centre approvals did not consider cumulative resource impacts. This raises concerns over resource management amid an AI-led data centre boom, without recommending a moratorium.\n\n- Published On Nov 05, 2026 at 11:40 AM IST\n\n## Highlights\n\n- New South Wales inquiry found data centre approvals did not assess cumulative resource impacts.\n- Report did not recommend a moratorium on data centre developments despite concerns.\n- State lacks a coherent strategy for managing data centre boom's impact on water and power.\n- Committee members voted 6-1 against a moratorium on data centre approvals.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/new-south-wales-inquiry-finds-inadequate-data-centre-approval-checks/135561626"
     },
     {
       "id": "2026-11-05-55eb85",
@@ -207,142 +310,6 @@
       "content_url": "https://theedgemalaysia.com/node/824648"
     },
     {
-      "id": "2026-11-05-78b171",
-      "title": "France's Tikehau, Natixis look to Asia as US data center boom raises risks",
-      "summary": "French investment firms Tikehau Capital and Natixis are increasing allocations to Asian data center markets as valuations in the United States reach levels they consider overheated. The firms are targeting development-stage projects in Japan, Australia, and Southeast Asia where they perceive more favorable risk-adjusted returns.",
-      "why_it_matters": "European capital rotation into APAC data centers validates regional market maturation but intensifies competition for development sites and operating platforms. The influx of yield-seeking institutional investors compresses cap rates and may inflate land values in secondary markets, squeezing local developers who rely on domestic financing and lack the scale to compete for trophy assets in Tokyo, Sydney, or Singapore.",
-      "score": 75,
-      "heat": 2,
-      "regions": [
-        "global"
-      ],
-      "topics": [
-        "investment",
-        "data center",
-        "risk",
-        "asia expansion"
-      ],
-      "published_at": "2026-11-05T07:57:57Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/business/finance/france-s-tikehau-natixis-look-to-asia-as-us-data-center-boom-raises-risks",
-          "type": "rss"
-        },
-        {
-          "name": "Nikkei Asia — data center search",
-          "url": "https://asia.nikkei.com/business/finance/france-s-tikehau-natixis-look-to-asia-as-us-data-center-boom-raises-risks",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Tikehau",
-        "Natixis"
-      ],
-      "title_zh": "法国Tikehau、Natixis将目光转向亚洲，因美国data center热潮带来风险",
-      "summary_zh": "法国投资公司Tikehau Capital和Natixis正在增加对Asia data center市场的配置，因其认为United States的估值已达到过热水平。这些公司正瞄准Japan、Australia和Southeast Asia的开发阶段项目，认为这些地区具有更有利的风险调整后回报。",
-      "why_zh": "欧洲资本转向APAC data center验证了区域市场的成熟，但加剧了开发地点和运营平台的竞争。寻求收益的机构投资者的涌入压缩了cap rate，并可能推高二级市场的土地价值，挤压依赖国内融资、缺乏规模以在Tokyo、Sydney或Singapore竞争优质资产的本地开发商。",
-      "content": "Finance\n# France's Tikehau, Natixis look to Asia as US data center boom raises risks\n\nJapan, South Korea are among key targets for M&A, fundraising\n\nTikehau Capital co-founder Mathieu Chabran sees Asia eventually accounting for 10% to 20% of its portfolio. (Nikkei montage/Source photos by Mitsuru Obe and Getty Images)\n\nMITSURU OBE\n\nNovember 5, 2026 12:53 JST\n\nTOKYO -- French alternative asset manager Tikehau Capital is hunting for its first private equity investment in Japan, while Natixis Corporate and Investment Banking (CIB) is building out its mergers and acquisitions business in the country, as both seek to capitalize on growing opportunities in Asia's artificial intelligence business and energy transition.",
-      "content_url": "https://asia.nikkei.com/business/finance/france-s-tikehau-natixis-look-to-asia-as-us-data-center-boom-raises-risks"
-    },
-    {
-      "id": "2026-11-05-d8932d",
-      "title": "China's curbs on tungsten used in drill bits squeeze AI supply chain",
-      "summary": "Export controls on critical metal have sent price of key tool surging",
-      "why_it_matters": "",
-      "score": 60,
-      "heat": 1,
-      "regions": [
-        "china",
-        "global"
-      ],
-      "topics": [
-        "chips",
-        "supply chain",
-        "export controls",
-        "ai"
-      ],
-      "published_at": "2026-11-05T07:57:57Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/spotlight/supply-chain/china-s-curbs-on-tungsten-used-in-drill-bits-squeeze-ai-supply-chain",
-          "type": "rss"
-        }
-      ],
-      "title_zh": "中国对钻头用钨的限制挤压AI supply chain",
-      "content": "Supply Chain\n# China's curbs on tungsten used in drill bits squeeze AI supply chain\n\nExport controls on critical metal have sent price of key tool surging\n\nTungsten carbide bits, like these made by Taiwan's Topoint, drill micro-holes in printed circuit boards (PCBs) and chip substrates. (Nikkei montage/Source photos by Cheng Ting-Fang)\n\nCHENG TING-FANG\n\nNovember 5, 2026 11:28 JST\n\nTAIPEI -- China's export controls on critical metals have disrupted supplies of micro drill bits, little-known but critical components in the AI chip supply chain, in the latest example of how geopolitical tensions are rippling through the global tech industry.",
-      "content_url": "https://asia.nikkei.com/spotlight/supply-chain/china-s-curbs-on-tungsten-used-in-drill-bits-squeeze-ai-supply-chain"
-    },
-    {
-      "id": "2026-11-05-fbd19f",
-      "title": "SoftBank acquisition of ABB robot unit blocked by China regulator that opposed Meta's Manus deal",
-      "summary": "The deal is part of founder Masayoshi Son’s ambition to play a larger role in the AI build-out",
-      "why_it_matters": "",
-      "score": 60,
-      "heat": 1,
-      "regions": [
-        "china",
-        "global"
-      ],
-      "topics": [
-        "regulation",
-        "ai",
-        "chips",
-        "investment"
-      ],
-      "published_at": "2026-11-05T07:07:35Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Business Times",
-          "url": "https://www.businesstimes.com.sg/companies-markets/softbank-acquisition-abb-robot-unit-blocked-china-regulator-opposed-metas-manus-deal-ft",
-          "type": "rss"
-        }
-      ],
-      "companies": [
-        "SoftBank",
-        "ABB",
-        "Meta"
-      ],
-      "title_zh": "中国监管机构阻止SoftBank收购ABB机器人部门，该机构曾反对Meta的Manus交易",
-      "content": "The deal is part of founder Masayoshi Son’s ambition to play a larger role in the AI build-out\n\n\\[HONG KONG\\] China has blocked SoftBank Group’s US$5.4 billion deal to acquire ABB’s robots unit, the *Financial Times* reported, citing unidentified people.\n\nThe deal – widely expected to bolster SoftBank’s revenue and profit while it awaits a boost from OpenAI’s public debut – was opposed by China’s powerful state planner, the National Development and Reform Commission (NDRC), according to the newspaper.\n\nThe Japanese backer of the ChatGPT creator was recently informed of the decision and is now trying to determine whether it can seek approval again, it said.\n\nSoftBank’s shares were down more than 7 per cent in Tokyo on Thursday (Nov 5). A company spokesperson declined to comment.\n\nFounder Masayoshi Son has listed the deal as a key part of his ambition to play a larger role in the artificial intelligence build-out.\n\nThe Tokyo-based investment firm was looking to take over a business from Swiss-Swedish conglomerate ABB with more than 7,000 employees, which supplies robotic arms and industrial machinery to manufacturers like BMW and has a large presence in China.\n\nCredit and equity investors worried about SoftBank’s near-US$65 billion investment in OpenAI and commitments to data centre projects worth hundreds of billions of dollars looked to ABB’s expected contribution to SoftBank’s bottom line for assurance that the company was not overextending itself.\n\nConcerns about Son’s exposure to hundreds of unlisted and unprofitable startups have grown since OpenAI head Sam Altman said the company would not go public in 2026. SoftBank held a 13 per cent stake in OpenAI as of October.\n\n“ABB Robotics lacks the cutting-edge innovation found across SoftBank’s physical AI startup portfolio, but its domain expertise and manufacturing know-how had been expected to transform robotic concepts into actual businesses,” said Bloomberg Intelligence analyst Kirk Boodry.\n\nIn April, the NDRC blocked Meta Platforms’ US$2 billion acquisition of agentic AI startup Manus, issuing a one-line notice saying it had decided to prohibit foreign investment in the startup in accordance with laws and regulations.\n\nSoftBank’s acquisition was similarly subjected to a foreign investment security review by the regulator, the FT said.\n\nChina, now aggressively expanding its humanoid robot and other physical AI applications, had been concerned about robotics data being transferred overseas and used to train competing AI models, according to the FT report.\n\nJapan is home to many of the world’s biggest industrial robot makers including Fanuc, Yaskawa Electric and Kawasaki Heavy Industries. Most have partnered with Nvidia to explore ways to use AI inside factories, hospitals and logistics networks and stay ahead of rising competition from China. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
-      "content_url": "https://www.businesstimes.com.sg/companies-markets/softbank-acquisition-abb-robot-unit-blocked-china-regulator-opposed-metas-manus-deal-ft"
-    },
-    {
-      "id": "2026-11-05-543294",
-      "title": "New South Wales inquiry finds inadequate data centre approval checks",
-      "summary": "A New South Wales parliamentary inquiry determined that data center approval processes failed to assess cumulative impacts on water, energy, and road infrastructure, instead evaluating projects in isolation. The report criticized planning authorities for lacking coordination mechanisms to manage concentrated development in Western Sydney but stopped short of recommending a development pause.",
-      "why_it_matters": "The inquiry's findings expose a regulatory gap that threatens to undermine Australia's data center competitiveness as operators face unpredictable infrastructure costs from uncoordinated public investment. Without cumulative impact assessment, approved projects risk construction delays from inadequate utility capacity, while the absence of a moratorium recommendation preserves investment flow but leaves local communities bearing uncompensated externalities that could fuel political opposition to future expansions.",
-      "score": 75,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "regulation",
-        "capacity",
-        "power",
-        "ai"
-      ],
-      "published_at": "2026-11-05T06:10:26Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/policy-land-power/new-south-wales-inquiry-finds-inadequate-data-centre-approval-checks/135561626",
-          "type": "rss"
-        }
-      ],
-      "title_zh": "新南威尔士州调查发现data centre审批检查不足",
-      "summary_zh": "一项New South Wales议会调查发现，data center审批流程未能评估对水、能源和道路基础设施的累积影响，而是孤立地评估项目。该报告批评规划部门缺乏协调机制来管理Western Sydney的集中开发，但未建议暂停开发。",
-      "why_zh": "调查结果暴露了一个监管缺口，可能削弱Australia的data center竞争力，因为运营商面临不协调公共投资带来的不可预测基础设施成本。在没有累积影响评估的情况下，获批项目可能因公用事业capacity不足而面临建设延误；而未建议暂停开发则保留了投资流动，但让当地社区承担未获补偿的外部性，可能助长对未来扩张的政治反对。",
-      "content": "An inquiry by Australia's most populous state found data centre approvals failed to consider the cumulative effect on resources and infrastructure.The report by the New South Wales cross-party inquiry did not call for a moratorium. This prompted a strong rebuke from its chair, Abigail Boyd.The inquiry noted that the state lacks a coherent strategy to manage the data centre boom's impact. This includes effects on water, electricity, and infrastructure.It warned that current guidelines may underestimate future power demand and water supply limits. The clustering of facilities could also create infrastructure pressures.\n### Planning Framework Concerns\n\n\"The current planning framework assesses data centres primarily as individual developments despite many impacts being cumulative in nature,\" the report stated.It added that \"Data centre ... impacts are cumulative and are being felt across communities and other industries.\"The report called for a comprehensive data centre strategy and better coordination among participants in the approvals pipeline.Minutes attached to the report showed members of the Public Accountability and Works Committee voted 6-1 to remove recommendations for a state and national moratorium on data centre approvals. This was to be in place \"until such time as all social and environmental harms can be fully understood.\"Committee chair Abigail Boyd, an upper house member from the Greens party, cast the lone vote to keep the moratorium recommendations.\n\n- Policy, Land & Power\n- 1 min Read\n\n# New South Wales inquiry finds inadequate data centre approval checks\n\nAn inquiry in New South Wales found that data centre approvals did not consider cumulative resource impacts. This raises concerns over resource management amid an AI-led data centre boom, without recommending a moratorium.\n\n- Published On Nov 05, 2026 at 11:40 AM IST\n\n## Highlights\n\n- New South Wales inquiry found data centre approvals did not assess cumulative resource impacts.\n- Report did not recommend a moratorium on data centre developments despite concerns.\n- State lacks a coherent strategy for managing data centre boom's impact on water and power.\n- Committee members voted 6-1 against a moratorium on data centre approvals.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/new-south-wales-inquiry-finds-inadequate-data-centre-approval-checks/135561626"
-    },
-    {
       "id": "2026-11-05-35d6e1",
       "title": "Data center operators need community trust, not just permits",
       "summary": "Schneider Electric indicates no slowdown in data center development, but highlights increasing community opposition. Operators must enhance transparency regarding power, water, and noise to secure necessary permits and maintain public relations.",
@@ -373,6 +340,49 @@
       "title_zh": "数据中心运营商需要社区信任，而非仅许可证",
       "content": "Schneider Electric's data center business pipeline shows no signs of slowing down, according to Steven Carlini, vice president of innovation and data center. However, Carlini stated that operators must significantly increase transparency with communities regarding the power, water, and land consumed by their projects.Traditionally, data center operators in the US negotiated permits with local jurisdictions under non-disclosure agreements. This practice left residents unaware of projects until construction began.Growing opposition to data center construction in the US has led to calls for moratoriums and halts, with New York state imposing one this summer. A Pew Research Center survey found that over half of Americans are wary of data centers, citing concerns about environmental impact, household energy bills, and water consumption for cooling.Carlini expects permitting requirements to force greater disclosure from operators. This will include details on power sources, water usage, carbon emissions, facility efficiency, physical location, and noise levels. Operators will also face ongoing reporting obligations once facilities are operational.From a public relations perspective, operators need to engage more amicably with local residents, Carlini added. They must acknowledge community concerns and clearly explain any benefits, such as tax breaks. For AI facilities, Carlini anticipates a shift in focus to performance metrics like \"tokens per watt\" or \"tokens per dollar,\" rather than solely power capacity.\n\n- Policy, Land & Power\n- 1 min Read\n\n# Data center operators need community trust, not just permits\n\nSchneider Electric indicates no slowdown in data center development, but highlights increasing community opposition. Operators must enhance transparency regarding power, water, and noise to secure necessary permits and maintain public relations.\n\n- Published On Nov 05, 2026 at 07:31 AM IST\n\n## Highlights\n\n- Schneider Electric sees no slowdown in data center project pipeline.\n- Operators must disclose power, water, carbon, noise details for permits.\n- Community opposition to data center construction is growing in the US.\n- AI facility performance metrics may shift to tokens per watt, not just power.\n\n## Comments\n\nWhat are your thoughts?",
       "content_url": "http://datacenters.economictimes.indiatimes.com/news/policy-land-power/data-center-operators-need-community-trust-not-just-permits/135555845"
+    },
+    {
+      "id": "2026-11-05-fcad10",
+      "title": "NextDC prepares for takeover battle after Goodman share raid",
+      "summary": "NextDC's board has activated defensive measures and engaged advisors to prepare for a potential takeover battle after Goodman Group acquired a substantial share position through rapid market purchases. The Australian data center operator has not received a formal bid but is treating Goodman's accumulation as hostile preliminary positioning.",
+      "why_it_matters": "NextDC's defensive posture reveals how vulnerable standalone data center assets have become to strategic buyers with property and infrastructure expertise. Australian institutional investors must now weigh the premium in a control transaction against the long-term value of retaining a domestically headquartered operator that serves government and financial services clients with sovereign data requirements.",
+      "score": 85,
+      "heat": 2,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "takeover",
+        "hyperscale",
+        "colocation"
+      ],
+      "published_at": "2026-11-05T00:11:47Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/infrastructure/nextdc-prepares-for-takeover-battle-after-share-raid-20261105-p61bl3",
+          "type": "html-list"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/digital-realty-and-goodman-group-line-up-au715m-bid-for-stake-in-australias-nextdc/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NextDC",
+        "Goodman",
+        "Digital Realty",
+        "Goodman Group"
+      ],
+      "title_zh": "NextDC在Goodman突袭股权后准备应对收购战",
+      "summary_zh": "在Goodman Group通过快速市场收购获得大量股份后，NextDC董事会已启动防御措施并聘请顾问准备应对潜在的收购战。这家Australian data center运营商尚未收到正式要约，但将Goodman的积累视为敌意的初步 positioning。",
+      "why_zh": "NextDC的防御姿态表明，standalone data center资产对于拥有房地产和基础设施专业知识的战略买家已变得多么脆弱。Australian机构投资者现在必须权衡控制权交易中的溢价，与保留一家总部设在国内、为具有主权数据需求的政府和金融服务客户提供服务的运营商的长期价值。",
+      "content": "NextDC investors are bracing for a takeover battle that would value the data centre operator at more than $7 billion after Australian property developer Goodman Group and its New York-listed partner raided the company’s shares.\n\nGoodman and Digital Realty Trust acquired just under 8 per cent of the embattled data centre landlord in a buying spree on Wednesday afternoon, making them NextDC’s biggest combined shareholder.\n\nLoading...",
+      "content_url": "https://www.afr.com/companies/infrastructure/nextdc-prepares-for-takeover-battle-after-share-raid-20261105-p61bl3",
+      "published_precision": "day"
     },
     {
       "id": "2026-11-05-ba4752",
@@ -778,7 +788,8 @@
       "summary_zh": "Google计划投资150亿美元，这是马来西亚历史上最大的外国直接投资之一，将扩展该公司在东南亚的cloud基础设施布局。该承诺包括开发一个data center园区和cloud region，以满足国内及区域对AI和数字服务的需求。",
       "why_zh": "马来西亚正成为美中科技脱钩的主要受益者，Google加入Microsoft和ByteDance的行列，承诺投资数十亿美元。当地公用事业和建筑公司将面临加速交付电力和基础设施的压力，而Singapore的运营商可能会看到对价格敏感的工作负载向北迁移。",
       "content": "Google plans to invest $15 billion to expand its data center infrastructure in Malaysia during 2027 and 2028.\n\nBloomberg reports that the funding will go toward building new computing hubs and investing in water and power infrastructure in the country.\n\nData center investment will focus on Google's existing campus in the Elmina Business Park, Selangor, and will also see the company develop new campuses in Selangor and Negeri Sembilan. Construction would run through 2027 and 2028.\n\nGoogle bought 389 acres of land in Port Dickson in Negeri Sembilan in May last year, where it intends to build the data center. Port Dickson is located some 90km (55.9 miles) south of Kuala Lumpur, on the banks of the Strait of Malacca. According to reports, the data center will have a capacity of between 500MW and 1GW, with Gamuda Engineering in charge of the engineering and infrastructure works.\n\nGoogle broke ground on its existing data center campus in October 2024. The data center's first phase, which is expected to have a capacity of 100MW, is slated for completion sometime this year.\n\nDetails about the data center projects themselves are limited, but they are expected to support more than 9,000 local jobs a year, including technicians, mechanical and electrical engineers, logistics, and security managers.\n\nRuth Porat, Alphabet's chief investment officer, said the investment \"reflects our confidence in the strength of Malaysia's leadership, its skilled workforce, and enthusiasm for digital transformation.\"\n\nMalaysian Prime Minister Anwar Ibrahim added: \"Our nation possesses the stability, the talent, and the ambition to be a premier digital powerhouse in Southeast Asia.”\n\nAs the company increases its data center capacity in the country, Google will add energy capacity and help push the country's clean energy transition. In total, Google plans to bring 1GW of clean energy capacity to Malaysia's grid.\n\nEarlier this week, Google committed $160 million to develop shared water infrastructure in Negeri Sembilan, Malaysia, to support its planned data center in the region.\n\nThis latest investment pledge builds on Google's commitment to invest $2 billion in the country back in 2024.",
-      "content_url": "https://www.datacenterdynamics.com/en/news/google-commits-to-15bn-investment-in-malaysian-data-centers/"
+      "content_url": "https://www.datacenterdynamics.com/en/news/google-commits-to-15bn-investment-in-malaysian-data-centers/",
+      "published_precision": "day"
     },
     {
       "id": "2026-11-05-1e52d8",
@@ -818,7 +829,7 @@
       "summary": "Proposed additions of these facilities may face stricter local scrutiny and pushback",
       "why_it_matters": "",
       "score": 75,
-      "heat": 2,
+      "heat": 5,
       "regions": [
         "southeast-asia",
         "global"
@@ -840,6 +851,21 @@
         {
           "name": "The Business Times — Data Centres topic",
           "url": "https://www.businesstimes.com.sg/international/ai-data-centre-boom-set-upheaval-after-us-election-rout",
+          "type": "html-list"
+        },
+        {
+          "name": "iTnews",
+          "url": "https://www.itnews.com.au/news/trumps-midterm-drubbing-demonstrates-power-of-data-centre-opponents-630125?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+          "type": "rss"
+        },
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-us-anti-data-center-sentiment-spreads-hitting-asian-markets",
+          "type": "rss"
+        },
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/world/north-america/midterms-data-centre-backlash-throws-ai-boom-off-a-cliff-20261105-p61bil",
           "type": "html-list"
         }
       ],

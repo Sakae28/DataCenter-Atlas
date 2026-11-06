@@ -1,0 +1,1193 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T07:59:41Z",
+  "hot": [
+    "2026-11-06-f975d8",
+    "2026-11-06-acf4ae",
+    "2026-11-06-38c629",
+    "2026-11-06-5e1a97",
+    "2026-11-06-a9e3c1"
+  ],
+  "stories": [
+    {
+      "id": "2026-11-06-f975d8",
+      "title": "Taiwan stocks in steepest-ever fall, South Korea halts trading amid AI rout",
+      "summary": "Taiwan equities booked their worst week since 2001 and South Korean shares slumped on Friday, as investors dumped chipmakers, accelerating a technology sell-off driven by concerns over stricter regulation and fading artificial intelligence (AI) optimism.",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 3,
+      "regions": [
+        "korea",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "market rout",
+        "investment"
+      ],
+      "published_at": "2026-11-06T06:21:25Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/markets/taiwan-stocks-in-steepest-ever-fall-south-korea-halts-trading-amid-ai-rout",
+          "type": "rss"
+        },
+        {
+          "name": "Nikkei Asia — data center search",
+          "url": "https://asia.nikkei.com/business/markets/taiwan-stocks-in-steepest-ever-fall-south-korea-halts-trading-amid-ai-rout",
+          "type": "html-list"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824843",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "台湾股市创历史最大跌幅，韩国暂停交易，AI板块暴跌",
+      "content": "TOKYO -- Asian stock markets tied to the artificial intelligence boom plummeted on Friday morning following a tech sell-off on Wall Street overnight, as investors fretted about possible delays in the construction of data centers following a sweeping Democratic victory in the U.S. midterm elections.",
+      "content_url": "https://asia.nikkei.com/business/markets/taiwan-stocks-in-steepest-ever-fall-south-korea-halts-trading-amid-ai-rout"
+    },
+    {
+      "id": "2026-11-06-8b98ca",
+      "title": "America's data centre pain is Australia's gain, says Labor",
+      "summary": "Australia's Labor government has positioned the country to benefit from constraints on US data center development, citing more favorable regulatory and community conditions for infrastructure investment. The statement frames Australia as an attractive alternative destination for global digital capital seeking stable expansion pathways.",
+      "why_it_matters": "The explicit policy positioning intensifies competition among English-speaking markets for hyperscale investment, with Australia's energy grid and land availability becoming selling points against American congestion. However, the rhetoric risks overstating Australia's readiness, as the country faces its own power constraints and community opposition in key markets like Sydney, potentially creating expectation gaps if projects encounter similar delays.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "capacity",
+        "investment",
+        "hyperscale",
+        "power"
+      ],
+      "published_at": "2026-11-06T07:04:39Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/politics/federal/america-s-data-centre-pain-is-australia-s-gain-says-labor-20261106-p61bxa",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "工党称，美国数据中心的痛苦就是澳大利亚的收获",
+      "summary_zh": "澳大利亚工党政府已将该国定位为从美国 data center 发展限制中受益，理由是基础设施投资的监管和社区条件更为有利。该声明将澳大利亚框架为全球数字资本寻求稳定扩张路径的有吸引力的替代目的地。",
+      "why_zh": "这种明确的政策定位加剧了英语市场之间对 hyperscale 投资的竞争，澳大利亚的电网和土地可用性成为相对于美国拥堵的卖点。然而，这种言论可能高估了澳大利亚的准备程度，因为该国在悉尼等关键市场面临自身的电力限制和社区反对，如果项目遭遇类似延迟，可能产生预期差距。",
+      "content": "The collapse in support for data centres in the United States presents a lucrative opportunity for Australia, given that proposed new guidelines will stop tech companies from riding roughshod over community concerns as they have in America, says the federal government.\n\nWhile yet to be finalised, the guidelines could include vetoing controversial projects that have already been approved.\n\nLoading...",
+      "content_url": "https://www.afr.com/politics/federal/america-s-data-centre-pain-is-australia-s-gain-says-labor-20261106-p61bxa"
+    },
+    {
+      "id": "2026-11-06-208cd2",
+      "title": "Democratic surge sparks $3.5trn AI rout, hammering Atlassian and Iren",
+      "summary": "Atlassian chief executive Mike Cannon-Brookes says an unprecedented sell-off in artificial intelligence stocks should make no difference to the workplace software giant’s long-term direction, amid…",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "australia",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "markets",
+        "chips"
+      ],
+      "published_at": "2026-11-06T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/technology/atlassian-posts-second-quarterly-profit-as-tech-stock-get-smashed-20261106-p61btp",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Atlassian",
+        "Iren"
+      ],
+      "title_zh": "民主党浪潮引发3.5万亿美元AI抛售潮，重创Atlassian和Iren",
+      "published_precision": "day",
+      "content": "Atlassian chief executive Mike Cannon-Brookes says an unprecedented sell-off in artificial intelligence stocks should make no difference to the workplace software giant’s long-term direction, amid fears on Wall Street that a wave of Democratic victories in the midterm elections will spell the end of an easy run for technology companies and their major projects.\n\nAtlassian was one of several Australian-based, Nasdaq-listed firms to be caught up in the massive sell-off, which wiped $3.5 trillion from the tech-heavy index and cascaded into heavy losses in Asian markets.\n\nLoading...",
+      "content_url": "https://www.afr.com/technology/atlassian-posts-second-quarterly-profit-as-tech-stock-get-smashed-20261106-p61btp"
+    },
+    {
+      "id": "2026-11-06-7a0d8a",
+      "title": "Iren confirms delay at Texas data centre for Microsoft, narrows losses",
+      "summary": "Neocloud Iren has confirmed delays at a Texas data centre that it is building for Microsoft and slashed its spending forecasts due to turmoil in financial markets, as it delivered a quarterly net…",
+      "why_it_matters": "",
+      "score": 75,
+      "heat": 2,
+      "regions": [
+        "australia",
+        "global"
+      ],
+      "topics": [
+        "hyperscale",
+        "power",
+        "construction",
+        "cloud"
+      ],
+      "published_at": "2026-11-06T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/infrastructure/iren-confirms-delay-at-texas-data-centre-for-microsoft-narrows-losses-20261106-p61bse",
+          "type": "html-list"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824779",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Iren",
+        "Microsoft",
+        "IREN"
+      ],
+      "title_zh": "Iren确认为Microsoft的Texas数据中心延期，亏损收窄",
+      "published_precision": "day",
+      "content": "Neocloud Iren has confirmed delays at a Texas data centre that it is building for Microsoft and slashed its spending forecasts due to turmoil in financial markets, as it delivered a quarterly net loss of $263 million.\n\nThe Nasdaq-listed company, founded by Australian brothers Daniel and Will Roberts, builds and operates data centres and provides artificial intelligence and cloud services to customers.\n\nLoading...",
+      "content_url": "https://www.afr.com/companies/infrastructure/iren-confirms-delay-at-texas-data-centre-for-microsoft-narrows-losses-20261106-p61bse"
+    },
+    {
+      "id": "2026-11-06-0756cf",
+      "title": "ING said to be seller of US$500 mil data centre loan portfolio",
+      "summary": "(Nov 6): Dutch bank ING is putting up for sale a roughly US$500 million portfolio of data centre loans all at once, according to people familiar with the matter. The rare auction comes just days after a Democratic sweep of the US midterm elections raised doubts about the future of many of the projects.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "data-center",
+        "investment",
+        "finance",
+        "m-a"
+      ],
+      "published_at": "2026-11-06T03:57:44Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824796",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "ING"
+      ],
+      "title_zh": "ING据称正在出售5亿美元data centre贷款组合",
+      "content": "The bank is taking offers for a dozen loans via a so-called bids-wanted-in-competition process, the people added, asking not to be identified because the information is private. The loans for sale include a US$25 million slice backing a massive data centre site that’s part of OpenAI, SoftBank Group Corp and Oracle Corp’s joint Stargate project in New Mexico. It’s the location where Oracle sent the developer a notice citing force majeure.\n\nA representative for ING declined to comment.\n\nIt is also looking to offload debt tied to operators such as Vantage Data Centers and CyrusOne, said the people. Bids on the loans are due Nov 19 and must be at least US$10 million in size, they added.\n\nThe auction, among the first of its kind that exclusively contains data centre debt, underscores the market pessimism that has erupted over the AI buildout in the wake of the US elections. In Texas, where many developers have a presence, the Democratic governor-elect has called for an immediate moratorium on construction for the projects.\n\nThe Nasdaq 100 closed 6.4% lower Thursday, wiping out US$2.3 trillion in value and extending weeks of concerns from Wall Street investors who have been retreating from the AI trade. In the high-yield market, junk bonds tied to data centre developers or projects, including CoreWeave Inc and Galaxy Digital Inc, saw some of the biggest declines.\n\nWall Street is broadly contending with the risk that the credit market is nearing the limit for how much AI debt it can absorb amid questions of whether revenue can justify the breathtaking spending.\n\nGoldman Sachs Group Inc and Apollo Global Management Inc are looking to syndicate portions of the largest chip financing on record tied to SpaceX, *Bloomberg* reported this week. They committed to the deal in October before pricing it, and now face the prospect of the market turning against them.\n\n*Uploaded by Liza Shireen Koshy*",
+      "content_url": "https://theedgemalaysia.com/node/824796"
+    },
+    {
+      "id": "2026-11-06-38c629",
+      "title": "Asia's AI supply chain and US data centers set to weather 'blue wave'",
+      "summary": "Market analysts predict that Asia's AI supply chain and US data center sectors will remain resilient despite a projected Democratic electoral victory wave. The assessment reflects bipartisan consensus on technology competitiveness and infrastructure investment that transcends partisan political shifts.",
+      "why_it_matters": "Investors and operators can reduce hedging costs against US political volatility, while APAC suppliers gain confidence to commit long-term capital to capacity expansion serving American markets. The decoupling of infrastructure investment from electoral cycles provides planning certainty for cross-border supply chains, though individual state-level regulatory environments may still shift with local political outcomes.",
+      "score": 80,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "supply chain",
+        "data center",
+        "investment"
+      ],
+      "published_at": "2026-11-06T07:59:41Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/asia-s-ai-supply-chain-and-us-data-centers-set-to-weather-blue-wave",
+          "type": "rss"
+        },
+        {
+          "name": "Nikkei Asia — data center search",
+          "url": "https://asia.nikkei.com/business/technology/asia-s-ai-supply-chain-and-us-data-centers-set-to-weather-blue-wave",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "亚洲AI供应链和美国数据中心有望抵御\"蓝色浪潮\"",
+      "summary_zh": "市场分析师预测，尽管预计会出现民主党选举胜利浪潮，但亚洲的 AI 供应链和美国 data center 行业将保持韧性。该评估反映了超越党派政治转变的技术竞争力和基础设施投资的两党共识。",
+      "why_zh": "投资者和运营商可以降低对美国政治波动的对冲成本，而 APAC 供应商获得信心承诺长期资本进行服务于美国市场的产能扩张。基础设施投资与选举周期的脱钩为跨境供应链提供了规划确定性，尽管个别州级监管环境仍可能随当地政治结果而变化。",
+      "content": "Gina Hinojosa became the first Democrat to win a Texas gubernatorial election since 1990, after a campaign that focused heavily on outrage over data centers. (Nikkei montage/Source photos by Reuters and AP)\n\nTechnology\n# Asia's AI supply chain and US data centers set to weather 'blue wave'\n\nDemocrats' midterm mandate may check but not stop infrastructure buildout: analysts\n\nYIFAN YU, KIM JAEWON, CHENG TING-FANG and TSUBASA SURUGA\nNovember 6, 2026 12:28 JST",
+      "content_url": "https://asia.nikkei.com/business/technology/asia-s-ai-supply-chain-and-us-data-centers-set-to-weather-blue-wave"
+    },
+    {
+      "id": "2026-11-06-fa0632",
+      "title": "China blocks SoftBank's $5.4bn deal for ABB robotics division",
+      "summary": "TOKYO -- Chinese authorities have moved to block Japanese tech conglomerate SoftBank Group's purchase of the robotics division of ABB, the Swiss-Swedish multinational said in a statement Thursday.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "china",
+        "japan",
+        "global"
+      ],
+      "topics": [
+        "regulation",
+        "investment",
+        "robotics",
+        "chips"
+      ],
+      "published_at": "2026-11-06T07:59:41Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/business-deals/china-blocks-softbank-s-5.4bn-deal-for-abb-robotics-division",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "SoftBank",
+        "ABB"
+      ],
+      "title_zh": "中国阻止SoftBank 54亿美元收购ABB机器人部门交易",
+      "content": "TOKYO -- Chinese authorities have moved to block Japanese tech conglomerate SoftBank Group's purchase of the robotics division of ABB, the Swiss-Swedish multinational said in a statement Thursday.\n\nBusiness deals\n# China blocks SoftBank's $5.4bn deal for ABB robotics division\n\nMove marks Beijing's latest intervention in a sale of key tech\n\nSoftBank Group said in October 2025 that it will acquire the robotics business of ABB, accelerating founder Masayoshi Son's push into artificial intelligence and automation. China has balked at the plan.",
+      "content_url": "https://asia.nikkei.com/business/business-deals/china-blocks-softbank-s-5.4bn-deal-for-abb-robotics-division"
+    },
+    {
+      "id": "2026-11-06-f6600f",
+      "title": "US extends suspension of export restrictions on Chinese firms",
+      "summary": "NEW YORK -- The U.S. has extended until Jan. 10 a suspension of a rule that would expand trade restrictions on Chinese companies' access to American technology, as Washington and Beijing prolong…",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "regulation",
+        "chips",
+        "export controls",
+        "trade"
+      ],
+      "published_at": "2026-11-06T07:59:41Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/us-extends-suspension-of-export-restrictions-on-chinese-firms",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "美国延长对中国企业出口限制暂停期",
+      "content": "NEW YORK -- The U.S. has extended until Jan. 10 a suspension of a rule that would expand trade restrictions on Chinese companies' access to American technology, as Washington and Beijing prolong their trade truce.\n\nUS-China tensions\n# US extends suspension of export restrictions on Chinese firms\n\nExpanded blacklist rule delayed to Jan. 10 as Washington and Beijing prolong truce\n\nLianyungang port in Jiangsu province, China. © Reuters",
+      "content_url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/us-extends-suspension-of-export-restrictions-on-chinese-firms"
+    },
+    {
+      "id": "2026-11-06-1e517f",
+      "title": "Data centers, rare earths among top priorities in Japan's growth strategy",
+      "summary": "Japan's government has designated data centers and rare earth elements as top priorities in its latest national growth strategy. The strategic focus aims to strengthen domestic supply chain resilience and capture value from accelerating digital transformation and clean energy transitions.",
+      "why_it_matters": "Japan's explicit state backing for data center development creates policy tailwinds that may accelerate project approvals and infrastructure coordination, contrasting with regulatory friction in other developed markets. The linkage to rare earths reveals strategic intent to reduce dependence on Chinese mineral processing for critical components, potentially reshaping APAC data center hardware supply chains if Japan successfully onshores magnet and semiconductor material production.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "data center",
+        "investment",
+        "policy",
+        "growth strategy"
+      ],
+      "published_at": "2026-11-06T07:59:41Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/politics/data-centers-rare-earths-among-top-priorities-in-japan-s-growth-strategy",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "数据中心、稀土成为日本增长战略的首要优先事项",
+      "summary_zh": "日本政府已在其最新的国家增长战略中将 data center 和稀土元素列为最高优先事项。该战略重点旨在加强国内供应链韧性，并从加速的数字转型和清洁能源转型中获取价值。",
+      "why_zh": "日本对 data center 开发的明确国家支持创造了可能加速项目审批和基础设施协调的政策顺风，与其他发达市场的监管摩擦形成对比。与稀土的关联揭示了减少对中国矿物加工依赖的战略意图，如果日本成功将磁铁和半导体材料生产回流，可能重塑 APAC data center 硬件供应链。",
+      "content": "TOKYO -- Japan will prioritize such areas as cloud computing and data centers for AI as it allocates funding for 17 selected strategic sectors for investment, narrowing the focus of an economic policy that has been criticized as too broad.\n\nPolitics\n# Data centers, rare earths among top priorities in Japan's growth strategy\n\nTakaichi's government to take more targeted approach to budgeting\n\nJapanese Prime Minister Sanae Takaichi, second from left, speaks at a meeting of the Council for Japan's Growth Strategy. (Photo by Ken Suzuki)",
+      "content_url": "https://asia.nikkei.com/politics/data-centers-rare-earths-among-top-priorities-in-japan-s-growth-strategy"
+    },
+    {
+      "id": "2026-11-06-3e22df",
+      "title": "How Japan and Thailand lay bare Asia's electrification challenge",
+      "summary": "TOKYO/BANGKOK -- Solar panels and wind turbines have become the most visible symbols of the shift from fossil fuels as the world strives to keep climate change in check. But cleaner electricity is…",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "electrification",
+        "infrastructure",
+        "sustainability"
+      ],
+      "published_at": "2026-11-06T07:59:41Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/spotlight/policy-asia/how-japan-and-thailand-lay-bare-asia-s-electrification-challenge",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "日本和泰国如何揭示亚洲电气化挑战",
+      "content": "TOKYO/BANGKOK -- Solar panels and wind turbines have become the most visible symbols of the shift from fossil fuels as the world strives to keep climate change in check. But cleaner electricity is only half the challenge.\n\nJapan and Thailand, at opposite ends of Asia's electrification spectrum, highlight the shared and differing challenges for the region's varied economies as the climate and business case for tapping more electricity grows. (Nikkei Asia montage)\n\nPolicy Asia\n# How Japan and Thailand lay bare Asia's electrification challenge\n\nShift seen as key for climate and advanced sectors but only China is truly powering on",
+      "content_url": "https://asia.nikkei.com/spotlight/policy-asia/how-japan-and-thailand-lay-bare-asia-s-electrification-challenge"
+    },
+    {
+      "id": "2026-11-06-1525bf",
+      "title": "Taiwan's chipmakers shine brightest in living memory",
+      "summary": "Hi everyone from Cheng Ting-Fang, Annie, in Taipei!",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "semiconductor",
+        "supply chain",
+        "ai"
+      ],
+      "published_at": "2026-11-06T07:59:41Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/techasia/taiwan-s-chipmakers-shine-brightest-in-living-memory",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "台湾芯片制造商迎来有记忆以来最辉煌时刻",
+      "content": "Hi everyone from Cheng Ting-Fang, Annie, in Taipei!\n\nThis week, I had the chance to meet top executives from two Taiwanese memory chipmakers, Winbond Electronics and Macronix International, at what could be the brightest moment in their companies' histories amid an unprecedented global memory chip shortage. Business has rarely been better, with record earnings being reported, and gross margins of more than 70% for Macronix and Winbond in the July-September quarter.\n\nWhile memory giants Samsung Electronics, SK Hynix, Micron, Kioxia, and China's ChangXin Memory Technologies compete fiercely for market share and manufacturing scale in the high-end AI memory sector, Winbond and Macronix have carved out their own niches in customized products and specialized needs. But despite blockbuster results similar to their larger rivals, both companies' share prices have nearly halved from their June peaks amid fears of oversupply and doubts about the AI boom's sustainability.\n\nMacronix founding chairman Miin Wu said the company would offset uncertainty by focusing more on specialized memory chips for industrial, automotive, space and medical applications markets that require lengthy qualification processes and are seeing growing demand. The company also needed to scale back supplies to the gaming console market, with makers such as Nintendo struggling to absorb soaring memory chip prices. Yet even with this sharper focus, Macronix is finding it difficult to keep up with customer demand.\n\n\"Every day, customers are chasing us or visiting our company, but our capacity is fully booked, and we can't expand it anytime soon,\" said Wu, a pioneer of Taiwan's semiconductor industry who founded Macronix in 1989. \"Any memory chipmaker that did not shut down over so much market turmoil can enjoy and earn a lot of money now.\"\n\nSome equipment the company has ordered will not arrive until next year, prompting Wu to take the unusual step of personally joining several meetings with equipment suppliers to push for faster deliveries.\n\n\"The equipment vendors think I'm there to yell at them, but instead, I'm there to beg, beg, beg: 'Please, could you shorten the lead times for the machines?'\" Wu said.\n\nFor Winbond, demand for specialized NOR flash memory, a type of chip used to store code, has been particularly strong. \"A single Nvidia Vera Rubin AI data center rack needs some 600 of these chips, compared with just a handful in traditional servers,\" Winbond President Chen Pei-Ming said.\n\nThe company also produces legacy DRAM memory chips and has found that its price quotes are sometimes surprisingly low compared with those of competitors, reflecting how tight the market has become.\n\nHowever, like Macronix, Winbond faces the major headache of securing production tools and building new facilities fast enough to meet surging demand. Chen said lead times for some equipment, including lithography and metrology tools, now exceed two years. Competing with much larger chipmakers such as TSMC for these machines, Winbond has had to place orders well in advance to ensure timely deliveries.\n\n\"Construction of our new plant in Kaohsiung will begin in December,\" Winbond's Chen said, referring to the southern Taiwanese city. \"However, as it is an entirely new facility and cleanroom, we expect only very limited capacity to come online in 2029, with a meaningful production ramp-up not until 2030, so you see how much time is needed to boost capacity now!\"\n\n## **Butterfly effects**\n\nChina's export controls on tungsten, imposed in early 2025, are sending far-reaching but little-known impacts rippling through the AI chip supply chain. I reported exclusively this week that supplies of tiny microdrills essential for manufacturing printed circuit boards and chip substrates, two of the most sought-after components for building AI infrastructure, are being disrupted.\n\nNeedle-like microdrills are made mainly of tungsten carbide, a high-performance material supplied by leading players in Japan, Europe and the U.S. However, these suppliers are vulnerable in their exposure to China's dominance of global tungsten production, which accounts for nearly 80% of the world's output.\n\nThe export controls have not only driven prices of tungsten carbide materials outside China up severalfold since last year, but have also fueled the rise of Chinese microdrill makers such as Guangdong Dtech Technology, which reported record earnings and benefits from ready access to a cost-competitive domestic supply chain.\n\n## **Nidec's rise and fall**\n\nJapan's Nidec, renowned for making motors for everything from wind turbines and electric vehicles to robots and machine tools, is embroiled in a corporate governance crisis. Nidec was once one of Japan's most celebrated companies under outspoken founding chairman and CEO Shigenobu Nagamori, who has stepped down amid accounting concerns. The motor maker has been rocked by financial irregularities since last year, raising the risk of a delisting from the Tokyo Stock Exchange.\n\nThe Nidec saga underscores the need for a broader overhaul of Japan's corporate culture, where employees often find it difficult to challenge senior executives or speak up against their decisions, Nikkei Asia's **Tsubasa Suruga** and **Mitsuru Obe** report. The crisis also exposes the risks of relying on a single dominant CEO and highlights the need for stronger independent board oversight, more diverse boards and more vocal shareholders across corporate Japan.\n\nDespite governance turmoil, Nidec maintains strong tech advantages in hard disk drive motors, precision machine tools and AI data-center cooling systems.\n\n## **Nvidia's China clampdown**\n\nChinese tech companies are finding it increasingly difficult to access the powerful Nvidia chips used to train AI.\n\nThe U.S. semiconductor giant is ordering its data center partners to reduce their exposure to Chinese customers, the FT's **Zijing Wu, Demetri Sevastopulo** and **Eleanor Olcott** report.\n\nIt has told cloud computing clients that they must now sell at least 51% of their services to non-Chinese companies, according to five people with knowledge of the matter. There had been no previous restrictions.\n\nMany Chinese groups have relied on overseas leases for advanced AI tasks, including model training. Nvidia's most advanced chips are not allowed to be sold in China due to U.S. export controls.\n\nNvidia implemented the new requirement over the summer in a pre-emptive effort to reduce the kind of flak it routinely receives from U.S. lawmakers and other critics of its approach to China, according to two people familiar with the matter.\n\nCloud providers are struggling to comply with the new requirements because it is \"difficult to find enough non-Chinese clients outside the U.S.,\" said one Singapore-based group. \"If strictly implemented, it will definitely hurt business.\"\n\n## **AI debt is ballooning**\n\nOff-balance-sheet debt among U.S. tech giants Alphabet, Microsoft, Amazon, Meta and Oracle nearly doubled in just a few months to reach $3.2 trillion by the end of September, according to a Nikkei data analysis by **Kohei Yamada**.\n\nThese hidden debts include outstanding purchase commitments, which account for roughly 60% of the total, and leases yet to begin, which make up the remaining 40%. The $3.2 trillion already equals about 80% of the companies' combined assets and could soon exceed them if the current pace continues.\n\nThe staggering figures highlight the risks behind the massive AI infrastructure gamble. Investors are increasingly concerned about tech giants' surging investment and concentrated credit risks. If returns fall short of expectations, confidence in these companies could falter, sending shockwaves through the tech sector and broader financial system.\n\n## Suggested reads\n\n1\\. Foxconn chief downplays AI bubble concerns, sees strong 2027 growth (Nikkei Asia)\n\n2\\. Oracle cancels $7bn Tencent AI deal under Trump pressure (FT)\n\n3\\. North Korea's patient cyber operations pay off in crypto (Nikkei Asia)\n\n4\\. North Korean hackers expected to take months to launder stolen Binance billions (FT)\n\n5\\. How North Korea became a hacking superpower (FT)\n\n6\\. Japan wants US tech companies to share undisclosed software flaws as risks mount (Nikkei Asia)\n\n7\\. Apple's new CEO delivers first earnings as sales hit record (Nikkei Asia)\n\n8\\. China halts listings in bid to bolster struggling markets (FT)\n\n9\\. Tencent says its Hy4 joins 'top-tier' of open-source AI models (Nikkei Asia)\n\n10\\. US critical minerals push delivers a gold rush - for Washington lobbyists (FT)\n\n## Podcast: Tech Latest\n\n### Why PC makers are turning back to China\n\nWelcome to the Tech Latest podcast. Every Tuesday, we deliver the hottest trends and news from the tech sector.\n\nIn this episode, host Chris Nuttall speaks with Taiwan tech correspondents Annie Cheng Ting-Fang and Lauly Li about why some PC makers are shifting production back to China after years of diversification. They discuss how AI-driven shortages are squeezing supplies of key components, why printed circuit boards and chip substrates have become critical bottlenecks, and what their award-winning reporting reveals about China's growing semiconductor capabilities.\n\nFind us on Apple Podcasts | Spotify | YouTube | YouTube Music | Amazon Music | Voicy\n\n*For more great stories like this delivered to your inbox every week, sign up to our #techAsia newsletter. Current subscribers can update their newsletter preferences by clicking here.*",
+      "content_url": "https://asia.nikkei.com/techasia/taiwan-s-chipmakers-shine-brightest-in-living-memory"
+    },
+    {
+      "id": "2026-11-06-dc5a9a",
+      "title": "China says trade barriers block tech imports, fueling its surplus",
+      "summary": "As US midterms raise policy questions, Beijing defends own trade practices at import fair",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "trade",
+        "chips",
+        "supply chain",
+        "regulation"
+      ],
+      "published_at": "2026-11-06T07:59:41Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/economy/trade/china-says-trade-barriers-block-tech-imports-fueling-its-surplus",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "中国称贸易壁垒阻碍技术进口，助推其顺差",
+      "content": "Trade\n# China says trade barriers block tech imports, fueling its surplus\n\nAs US midterms raise policy questions, Beijing defends own trade practices at import fair\n\nTesla products appeared at the China International Import Expo as part of an exhibition by the Lingang pilot free trade zone, home to the U.S. EV maker’s Shanghai factory (Photo by Suzuki Wataru)\n\nWATARU SUZUKI\n\nNovember 5, 2026 16:19 JST\n\nSHANGHAI -- A top Chinese official on Thursday said China is eager to import high-tech products, but trade barriers have prevented it from doing so, pushing back against criticism of the country's large trade surplus, as he presided over a trade fair.",
+      "content_url": "https://asia.nikkei.com/economy/trade/china-says-trade-barriers-block-tech-imports-fueling-its-surplus"
+    },
+    {
+      "id": "2026-11-06-0d98cb",
+      "title": "Johor Government, DayOne, PDT and Ranhill SAJ to explore supplying excess treated water to the public",
+      "summary": "Johor is exploring plans to channel excess treated water from DayOne’s water treatment plant to the public, potentially adding to the state’s water supply as water demand rises alongside its economic expansion. The proposal comes as DayOne’s treatment plant processes raw water from Sungai Tebrau, which has a flow of about 80 million liters per […]",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "water",
+        "power",
+        "infrastructure",
+        "sustainability"
+      ],
+      "published_at": "2026-11-06T06:46:20Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/johor-government-dayone-pdt-and-ranhill-saj-to-explore-supplying-excess-treated-water-to-the-public/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "DayOne",
+        "PDT",
+        "Ranhill SAJ"
+      ],
+      "title_zh": "Johor 政府、DayOne、PDT 和 Ranhill SAJ 探索向公众供应 excess treated water",
+      "content": "Johor is exploring plans to channel excess treated water from DayOne’s water treatment plant to the public, potentially adding to the state’s water supply as water demand rises alongside its economic expansion. The proposal comes as DayOne’s treatment plant processes raw water from Sungai Tebrau, which has a flow of about 80 million liters per day (MLD) while its data center consumes only about 10 MLD, raising the possibility that the excess treated water could be made available to residents.\n\nChief Minister Datuk Onn Hafiz Ghazi, has yesterday requested DayOne, a Singapore-based hyperscale data center provider, Perbadanan Darul Ta’zim (PDT), a government-linked company, and water operator Ranhill SAJ to hold an urgent technical meeting to assess how the treated water could be distributed for public use.\n\n“… I would like to request that a technical meeting be held as soon as possible to explore and determine how this technology can be utilised to ensure that more treated water can be supplied to the public, in line with Johor’s growing economy,” Onn Hafiz reportedly said as reported by Bernama, Malaysia’s state news agency.\n\n“As for electricity supply, as Jamie (DayOne’s chief executive officer Jamie Khoo) explained earlier, they are working with Tenaga Nasional Bhd (TNB) on the use of renewable energy, solar panels and other initiatives to ensure sufficient power for AI (artificial intelligence) operations here.”\n\nAccording to local reports, Onn Hafiz in his speech at the DayOne Kempas Tech Park Water Treatment Plant Phase Two expansion in Johor, had reportedly said, “DayOne is using polluted water from Sungai Tebrau, treating it and using it for its own operations instead of relying on treated water meant for the public. I have been informed that Sungai Tebrau has a water flow of about 80 million litres per day, while DayOne uses a maximum of about 10 MLD. There is also surplus water from the data centre that could potentially be supplied to the public with an additional treatment process.”\n\nDayOne has invested about RM 25 billion (US$ 6.2 billion) in Johor as of September, with the figure expected to reach RM 28 billion (US$ 6.9 billion) by the end of 2026. The state would continue reviewing data center and AI investments through a technical committee to ensure they serve the interests of Johor and its residents.",
+      "content_url": "https://w.media/johor-government-dayone-pdt-and-ranhill-saj-to-explore-supplying-excess-treated-water-to-the-public/"
+    },
+    {
+      "id": "2026-11-06-65b76b",
+      "title": "Green data centre market to hit USD $197.02bn by 2031",
+      "summary": "Rising demand for AI and cloud services is pushing operators to spend on lower-emission facilities as the market heads towards USD $197.02 billion by 2031.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "green data centre",
+        "sustainability",
+        "ai",
+        "market forecast"
+      ],
+      "published_at": "2026-11-06T06:02:22Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/green-data-centre-market-to-hit-usd-197-02bn-by-2031",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "绿色数据中心市场到2031年将达1970.2亿美元",
+      "content": "Fri, 6th Nov 2026 (Today)\nThe global green data centre market will reach USD $197.02 billion by 2031, up from USD $60.77 billion in 2026, according to MarketsandMarkets.\n\nThat would represent a compound annual growth rate of 26.5% as operators and enterprise customers seek lower-emission infrastructure for expanding digital workloads. Demand is being shaped by efforts to cut power use and carbon output while supporting AI, cloud computing and data analytics.\n\nGreen data centres are taking a larger role in infrastructure planning as operators pursue more efficient cooling, better energy management and wider use of renewable power. The shift also reflects greater scrutiny of environmental performance and the need for stronger reporting on emissions and energy use.\n\nCloud and hyperscale facilities are driving much of that change. These sites are under pressure to handle larger computing loads while limiting energy consumption, increasing demand for alternative backup power, efficient equipment and designs that can scale without sharply raising electricity use.\n\n### Market drivers\n\nA key factor in the market's growth is the rise of high-density computing. As AI systems, cloud platforms and large-scale analytics require more processing power, operators are investing in infrastructure designed to reduce waste in power delivery and cooling.\n\nThe report also identifies automated monitoring and carbon reporting as a growing part of data centre operations. Operators want clearer visibility over power usage, temperature, airflow and emissions to meet internal sustainability targets and respond to regulatory requirements.\n\nThat trend is raising the profile of software tools such as Data Centre Infrastructure Management, or DCIM. The segment is expected to account for a significant share of the market because it combines monitoring of IT and facilities with tools for optimisation, capacity planning and incident management.\n\nDCIM platforms track power usage, voltage, humidity and temperature across facilities. They can also help identify hotspots, detect faults and reduce over-provisioning by improving forecasts for space, cooling and electricity demand.\n\nThese systems are also being used to manage asset lifecycles from procurement to retirement. That gives operators more control over utilisation and can reduce unnecessary hardware replacement or duplication across sites.\n\n### Partnership activity\n\nRecent partnerships show where investment is moving. In Europe, Schneider Electric and Vertiv worked with Google and Microsoft on a request for information aimed at finding alternatives to diesel backup generators, reflecting a wider push to cut emissions from resilience systems long reliant on fossil fuels.\n\nElsewhere, Huawei partnered with Qinghai Big Data Industry Development to develop a data centre in Qinghai's Hainan Prefecture designed to run on 100% clean energy. The project points to growing interest in modular facilities that combine lower-emission electricity sources with large-scale computing needs.\n\nIn another example, Schneider Electric partnered with NTT DATA to deploy its EcoStruxure IT DCIM platform across multiple European data centres. The rollout underlines the role software is playing in energy management as operators seek better oversight of facility performance.\n\n### Regional picture\n\nNorth America currently leads the green data centre market, according to the research, supported by a relatively mature data centre industry, stronger integration of renewable energy and broad enterprise demand for more efficient infrastructure. The region is also facing greater pressure from sustainability rules and corporate decarbonisation targets, shaping purchasing decisions.\n\nThat combination has helped shift operators away from older, power-intensive facilities towards designs that place greater emphasis on modularity, efficiency and lower emissions. Industries including hyperscale cloud, financial services, healthcare and AI-led analytics are among those contributing to demand.\n\nAsia Pacific is the fastest-growing regional market. Expansion there is being driven by digitalisation, AI adoption, denser computing deployments and government policies aimed at supporting lower-carbon and net-zero data centre development.\n\nThe outlook suggests the next phase of growth will depend on how effectively operators combine scale with lower energy consumption. It also points to vendors offering monitoring, automation, cooling and renewable integration tools remaining closely tied to how the sector adapts to rising computational demand and tighter environmental expectations.",
+      "content_url": "https://datacenternews.asia/story/green-data-centre-market-to-hit-usd-197-02bn-by-2031"
+    },
+    {
+      "id": "2026-11-06-5e1a97",
+      "title": "Thai AI data center secures US$590 million loan to fund construction",
+      "summary": "Zhi Sheng Group Holdings' Thai subsidiary HYDC1 has secured a seven-year $590 million loan from a Thai bank to construct a hyperscale AI data center in Thailand's Eastern Economic Corridor. The facility represents one of the largest dedicated AI infrastructure financing deals in Southeast Asia.",
+      "why_it_matters": "Thai banks' willingness to underwrite large-scale AI data center debt signals maturing local financial market confidence in digital infrastructure asset class, reducing reliance on international capital. The Eastern Economic Corridor's concentration of AI-focused facilities is creating a specialized ecosystem that may attract adjacent investments in fiber networks and renewable energy, though power grid constraints could emerge as a collective bottleneck.",
+      "score": 80,
+      "heat": 2,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "financing",
+        "hyperscale",
+        "construction"
+      ],
+      "published_at": "2026-11-06T05:28:56Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/thai-ai-data-center-secures-us-590-million-loan-to-fund-construction/",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/thai-ai-data-center-secures-us590-million-loan/135598645",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Zhi Sheng Group Holdings",
+        "Haoyang Data Centre 1"
+      ],
+      "title_zh": "Thai AI data center 获得 5.9 亿美元贷款用于建设",
+      "summary_zh": "Zhi Sheng Group Holdings 的泰国子公司 HYDC1 已从一家泰国银行获得一笔七年期 5.9 亿美元的贷款，用于在泰国 Eastern Economic Corridor 建设 hyperscale AI data center。该设施代表了东南亚最大的专用 AI 基础设施融资交易之一。",
+      "why_zh": "泰国银行愿意为大规模 AI data center 债务提供担保，表明当地金融市场对数字基础设施资产类别的信心日趋成熟，减少了对国际资本的依赖。Eastern Economic Corridor 的 AI 专注设施集中正在形成一个专业生态系统，可能吸引光纤网络和可再生能源的相邻投资，尽管电网限制可能成为集体瓶颈。",
+      "content": "Hong Kong-listed hyperscale data center developer and operator Zhi Sheng Group Holdings Limited today announced that a member of its target acquisition group, Haoyang Data Centre 1 (Thailand) Limited (“HYDC1”), has secured a seven-year US$590 million loan from a Thai bank to fund the construction of its hyperscale AI data center in Thailand’s Eastern Economic Corridor.\n\nHYDC1 occupies a land parcel of approximately 140,302 square metres with first-phase completion targeted within the next six months, paving the way for phased delivery in 2027.\n\nIn July 2026, HYDC1 entered into a 10-year data centre colocation services agreement with a leading internet company, representing a contract value of approximately US$1.6 billion (excluding electricity charges). The contract is estimated to account for approximately one-third of the total rental revenue expected upon full completion of the project, said a statement from the firm.\n\nLai Ningning, CEO and Executive of Zhi Sheng Group, said, “We are honoured to secure this major financing facility and to team up with Mr. Chatchaval as our trusted partner in Thailand. His extensive business acumen and deep local network are invaluable in expanding our business and driving project localisation, enabling us to deliver a world-class AI data centre tailored for the Thai market. As we advance towards first-phase delivery, we remain fully focused on execution to generate sustainable cash flows and long-term value for our partners and shareholders.”\n\nChatchaval Jiaravanon, a strategic partner of Zhi Sheng Group and Chairman of HYDC1, said, “This milestone financing is a strong testament to our project’s solid fundamentals, rigorous compliance, and execution capability. As we accelerate towards first-phase delivery within six months, this backing reinforces our shared commitment with Zhi Sheng Group to capture Asia’s booming AI computing demand through high-performance data centre infrastructure.”\n\nChatchaval is a key member of the family that controls Charoen Pokphand Group (CP Group), one of Asia’s largest diversified conglomerates, and the owner of Fortune magazine. He is also one of the Group’s largest shareholders and a strategic partner to the Group’s Thailand data center project.\n\nZhi Sheng Group has footprint spanning mainland China and Southeast Asia, with computing campuses in Hohhot and Xilin Gol, Inner Mongolia, and in Rayong, Thailand.",
+      "content_url": "https://w.media/thai-ai-data-center-secures-us-590-million-loan-to-fund-construction/"
+    },
+    {
+      "id": "2026-11-06-acf4ae",
+      "title": "Microsoft to establish second cloud region in Malaysia with Johor Bahru facility",
+      "summary": "Microsoft will establish its second Malaysian cloud region in Johor Bahru, complementing its existing Kuala Lumpur facility. The expansion targets growing enterprise demand for localized AI and cloud computing infrastructure with data sovereignty compliance.",
+      "why_it_matters": "Johor Bahru's emergence as a cloud corridor creates a dual-hub strategy for Microsoft in Malaysia, reducing latency for southern ASEAN markets and providing disaster recovery options. Competitors must now evaluate whether single-region deployments in Malaysia remain viable, while Johor's property and power infrastructure will face accelerated demand from both hyperscalers and their supplier ecosystems.",
+      "score": 85,
+      "heat": 2,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "cloud",
+        "hyperscale",
+        "ai",
+        "expansion"
+      ],
+      "published_at": "2026-11-06T04:51:28Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/microsoft-to-establish-second-cloud-region-in-malaysia-with-johor-bahru-facility/",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/microsoft-to-open-second-cloud-region-in-malaysia/135597164",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "title_zh": "Microsoft 将在 Malaysia 设立第二个 cloud region，Johor Bahru 建 facility",
+      "summary_zh": "Microsoft 将在 Johor Bahru 建立其第二个马来西亚 cloud region，补充其现有的吉隆坡设施。该扩张针对企业对本地化 AI 和云计算基础设施以及数据主权合规的日益增长的需求。",
+      "why_zh": "Johor Bahru 作为 cloud corridor 的崛起为 Microsoft 在马来西亚创造了双枢纽战略，降低了南部东盟市场的延迟并提供灾难恢复选项。竞争对手现在必须评估在马来西亚的单 region 部署是否仍然可行，而 Johor 的房地产和电力基础设施将面临来自 hyperscalers 及其供应商生态系统的加速需求。",
+      "content": "Microsoft plans to establish a second cloud region in Malaysia in Johor Bahru, expanding its presence in the country as demand for cloud computing and artificial intelligence infrastructure grows. The expansion gives businesses more flexibility to scale cloud and AI workloads, manage changing data requirements and respond to regulatory developments while maintaining infrastructure in Malaysia.\n\nThe upcoming Southeast Asia 3 (SEA3) region will complement Malaysia West, Microsoft’s first cloud region, which began operations in May 2025 in Greater Kuala Lumpur. Once operational, SEA3 is expected to become Microsoft’s largest cloud region in Southeast Asia. The two regions will allow Malaysian organisations to deploy workloads across separate locations in the country, providing additional options for business continuity, disaster recovery and data management through Microsoft Azure as detailed in a Microsoft Malaysia blog.\n\n“With Malaysia West in Greater Kuala Lumpur and Southeast Asia 3 coming soon in Johor Bahru, Malaysian organizations will have more choice in how they build, run, and scale cloud while advancing their AI innovation,” said Laurence Si, Managing Director, Microsoft Malaysia, during his keynote at Microsoft’s recent Cloud & AI Innovation Day in Kuala Lumpur.\n\n“The organizations that scale AI fastest think platform, not a single datacenter region. A multi-region strategy can strengthen resilience, unlock capacity where and when it is needed, and create room to grow as Malaysia’s AI ambitions evolve. This is how we build Malaysia’s Frontier future together.”\n\nMalaysia West currently operates with three availability zones and offers close to 200 generally available cloud services. Its launch gave organisations access to cloud infrastructure within Malaysia, supporting lower latency and local data residency requirements. SEA3 will feature infrastructure designed to support artificial intelligence workloads. The facility will use closed-loop cooling and air-cooled chillers that eliminate water evaporation during cooling, reducing its reliance on local water resources.\n\nThe facility will also use backup generators designed to run on renewable biofuel to reduce net carbon emissions. Microsoft-owned datacenters will be built to achieve at least LEED Gold certification. The addition of SEA3 will give organisations the option of distributing workloads between two Malaysian cloud regions, either operating them simultaneously or maintaining one as a secondary site for recovery.\n\nHowever, Microsoft noted that multi-region deployments are not necessary for every application, as availability-zone redundancy within a single region may be sufficient for some workloads. Regional deployments are more relevant for mission-critical services and applications requiring additional resilience or serving users across different locations.",
+      "content_url": "https://w.media/microsoft-to-establish-second-cloud-region-in-malaysia-with-johor-bahru-facility/"
+    },
+    {
+      "id": "2026-11-06-2f2ece",
+      "title": "Water Usage Effectiveness and AI: How cooling choices shape data center water use",
+      "summary": "What WUE measures, how cooling technologies balance water and energy use, and what customers should consider when comparing data centers. The post Water Usage Effectiveness and AI: How Cooling Choices Shape Data Center Water Use appeared first on Digital Edge DC .",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "korea",
+        "southeast-asia"
+      ],
+      "topics": [
+        "sustainability",
+        "cooling",
+        "ai",
+        "efficiency"
+      ],
+      "published_at": "2026-11-06T04:13:27Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Digital Edge (official)",
+          "url": "https://www.digitaledgedc.com/resources/sustainability/water-usage-effectiveness-and-ai-water-use/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Digital Edge DC"
+      ],
+      "title_zh": "用水效率与AI：冷却选择如何塑造数据中心用水",
+      "content": "The growth of AI and other high-density workloads is putting greater focus on how data centers manage energy, water and cooling. Water and energy performance increasingly influence data center selection and sustainability reporting. Cooling designs play a central role in moving heat out of the building, and that requires a balance between electricity and water use. That balance shapes a facility’s PUE and WUE figures. This article covers what those metrics measure, how each cooling technology affects them, and how to compare data centers in context.\n\n## What is water usage effectiveness?\n\nWater usage effectiveness, or WUE, expresses how much water a facility uses for every unit of energy delivered to IT equipment. It is written in liters per kilowatt-hour, so a WUE of 1.35 means roughly 1.35 liters of water consumed for each kilowatt-hour of IT load. A lower WUE indicates less on-site water consumption per unit of IT energy, although the cooling design and water source remain important context.\n\nThe metric covers water consumed on site, which in practice means water lost to evaporation in cooling towers or evaporative systems, plus smaller volumes used for humidity control and water treatment. It is measured over a year rather than at a moment, because evaporation varies enormously with weather. As with PUE, the figure describes a facility’s design and operating choices rather than its absolute environmental impact, so the source of the water matters alongside the volume.\n\n## How is WUE different from PUE?\n\nPUE measures energy overhead: total facility energy divided by IT energy. WUE measures water consumption against the same IT energy base. They share a denominator, which is what makes them comparable, and they often move in opposite directions.\n\nEvaporative heat rejection can reduce mechanical refrigeration and improve PUE while increasing water consumption. Mechanical cooling with a closed water loop may use less water but require more energy. The appropriate balance depends on climate, electricity supply and local water availability. PUE and WUE are therefore most useful when reviewed together with the underlying cooling design. PUE remains the more widely published of the two, partly because it applies to every facility while WUE applies only to water-cooled sites. Our article on questions ESG leaders should ask covers the wider set of metrics worth requesting.\n\n## How do cooling technologies balance water and energy use?\n\nHeat rejection methods sit on a spectrum from no water to high water consumption. Working from the dry end:\n\n- **Air-cooled chillers and direct expansion systems** reject heat to the air through refrigerant and fans, consuming essentially no water. Their energy needs may increase, particularly in hot climates, so PUE rises as ambient temperature does.\n- **Closed-loop and hybrid cooling towers** circulate water that is cooled without being evaporated, or evaporate only during hot periods. Water use is modest, balancing predictable water use with energy performance.\n- **Open cooling towers** evaporate water continuously to reject heat. This is energy-efficient and widely used, and it is the main source of water consumption in conventional data center designs.\n- **Adiabatic and evaporative systems** pre-cool incoming air by evaporating water, lowering energy use substantially in dry climates and much less so in humid ones.\n\nAir-side economization, often called free cooling, cuts across this spectrum. Where the outside air is cool enough for enough of the year, it reduces both energy and water use, which is why cooler markets have an inherent advantage. In Digital Edge’s South Korea portfolio, the SEL5 development in Ansan pairs a chiller plant with integrated free cooling, targeting an annualized PUE below 1.25.\n\n## How can cooling design respond to local climate?\n\nCooling performance depends on matching heat-rejection technology to local temperature and humidity. NARRA1 in Manila, the Philippines lists a designed annual PUE of 1.24, a designed peak PUE of 1.35, and a designed WUE of 1.082; EDGE2 in Jakarta, Indonesia lists a designed annual PUE of 1.25 and the same designed WUE. For context, the Uptime Institute’s global survey has placed the industry average PUE at around 1.55. Manila and Jakarta are both close to the hardest case for evaporative cooling, since humid air absorbs less additional moisture, which is what makes these design figures worth noting. Our Philippines data centers and Indonesia data centers pages cover both facilities in more detail.\n\n## Does liquid cooling use more or less water?\n\nLiquid cooling does not determine water consumption by itself. Direct-to-chip liquid cooling and immersion cooling move heat away from the processor more efficiently than air does, but they do not determine how that heat leaves the building. A liquid-cooled hall can reject heat through a dry cooler, a closed loop, or an evaporative tower, and the water consumption follows that choice rather than the liquid loop itself.\n\nThis distinction is important for high-density and AI-ready environments. What liquid cooling does change is the temperature at which heat is available. Because it captures heat in a warmer, more concentrated form than air cooling, it widens the range of conditions in which heat can be rejected without mechanical refrigeration, which tends to help both figures. The CGK Campus in Indonesia is designed with direct-to-chip liquid cooling and recycled water systems, targeting an annualized PUE of 1.25. In Thailand, the BKK Campus uses hybrid closed-loop cooling towers specifically to reduce water consumption. Both are liquid-capable designs that handle heat rejection differently, which is the point.\n\n## Why does a WUE figure need its boundary stated?\n\nBecause the same number can describe very different situations, and the qualifiers carry most of the meaning. Three of them matter most.\n\nThe first is scope. WUE applies only to facilities that use water-based cooling, so an air-cooled site is not comparable and is normally excluded rather than reported as zero.\n\nThe second is whether the figure is a design target or a measured result. Digital Edge’s facility specifications label theirs explicitly as designed PUE and designed WUE, which is the distinction worth looking for: a design figure describes what the engineering is built to achieve under defined conditions, while an operating figure describes what a year of real weather and real load produced.\n\nThe third is the water source. A facility consuming recycled or non-potable water places very different pressure on local supply than one drawing the same volume from municipal drinking water. At the Navi Mumbai campus, liquid cooling is supported by 10 million liters per day of recycled greywater, with a target WUE below 1.75.\n\n## How should WUE be assessed for AI and high-density workloads?\n\nAI and other high-density workloads increase the importance of understanding both facility efficiency and total resource use. Consistent reporting boundaries help customers compare different facilities and cooling designs.\n\nThe main distinction is between on-site and off-site water. WUE, as described above, counts water consumed at the facility. It does not count water used to generate the electricity the facility draws, which can be significant on grids where thermoelectric generation dominates, since those plants consume water for their own cooling. Some analyses report that second figure, often called source water, alongside or instead of site water. Stating the boundary clearly helps ensure meaningful comparisons.\n\nScale is the other factor. AI workloads raise power density, so a hall running AI equipment draws more energy and, depending on how heat is rejected, can consume more water in absolute terms even where the ratios stay flat or improve. Because efficiency metrics are ratios, they should be reviewed alongside total consumption and IT load. Location also matters: climate, water availability and electricity supply influence the most appropriate cooling strategy for each facility.\n\nTogether, these measures help customers understand how a facility manages water and energy under its specific operating conditions.\n\n## Conclusion\n\nWUE is most useful when considered alongside PUE, cooling design, climate and water source. The appropriate balance between water and energy use varies by location and operating requirement.\n\nFor teams evaluating facilities or gathering figures for their own reporting, they should ask four questions: which heat rejection method the site uses, whether the figures are designed or measured, what the reporting excludes, and where the water comes from. These questions enable more informed and consistent comparisons.\n\n## Talk to Digital Edge\n\nDigital Edge publishes efficiency and water metrics across its platform in our ESG reporting, covering facilities from Manila to Incheon — talk to our team about the cooling design and reported figures at any site in our colocation portfolio.",
+      "content_url": "https://www.digitaledgedc.com/resources/sustainability/water-usage-effectiveness-and-ai-water-use/"
+    },
+    {
+      "id": "2026-11-06-a9e3c1",
+      "title": "Sunway Construction clinches US$657 million data center jobs in Selangor and Johor",
+      "summary": "Sunway Construction Group has won combined contracts worth RM1.74 billion ($430 million) and additional work valued at $227 million to build data centers in Selangor and Johor for an unnamed international hyperscaler. The projects encompass structural construction, supporting infrastructure, and mechanical, electrical, and plumbing works.",
+      "why_it_matters": "Malaysian construction firms are capturing substantial value from the hyperscale data center boom, building domestic expertise that reduces foreign contractor dependency. The geographic split between Selangor and Johor reflects Malaysia's emergence as a multi-node data center geography, with construction capacity becoming a potential constraint as multiple hyperscalers simultaneously advance projects in the country.",
+      "score": 80,
+      "heat": 2,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "construction",
+        "hyperscale",
+        "investment",
+        "capacity"
+      ],
+      "published_at": "2026-11-06T03:10:24Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/sunway-construction-clinches-us-657-million-data-center-jobs-in-selangor-and-johor/",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/construction-site-development/sunway-construction-secures-us657-million-malaysia-data-centre-contracts/135593899",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Sunway Construction Group"
+      ],
+      "title_zh": "Sunway Construction 中标 6.57 亿美元 Selangor 和 Johor data center 项目",
+      "summary_zh": "Sunway Construction Group 赢得了总价值 17.4 亿令吉（4.3 亿美元）的合同以及额外价值 2.27 亿美元的工作，为一家未具名的国际 hyperscaler 在 Selangor 和 Johor 建设 data center。这些项目涵盖结构建设、配套基础设施以及机械、电气和管道工程。",
+      "why_zh": "马来西亚建筑公司正从 hyperscale data center 热潮中获取可观价值，建立减少对外国承包商依赖的国内专业知识。Selangor 和 Johor 之间的地理分割反映了马来西亚作为多节点 data center 地理区域的崛起，随着多个 hyperscalers 同时推进在该国的项目，建筑能力可能成为潜在制约因素。",
+      "content": "Malaysian construction giant Sunway Construction Group Bhd has secured a RM1.74 billion (US$430 million) contract from an unnamed international hyperscaler to build a data center in Bandar Serendah, Selangor, the firm announced in an exchange filing yesterday. The scope covers structural construction, supporting infrastructure and mechanical, electrical and plumbing works, with construction scheduled to begin in Q4 2026 and completion targeted for Q4 2028.\n\nThis is Sunway Construction’s seventh data center-related contract this year, bringing its year-to-date new orders to RM9.8 billion and outstanding order book to RM13.4 billion.\n\nThis came on the heels of another contract announced a day earlier – a RM920.8 million (US$227 million) contract to provide additional mechanical, electrical and plumbing (MEP) fit-out works for an ongoing data center development in Johor.\n\nThe additional works were awarded by an unnamed US-headquartered tech firm with the letter of award serving as instruction to commence works, which are targeted for completion by 1Q 2028.",
+      "content_url": "https://w.media/sunway-construction-clinches-us-657-million-data-center-jobs-in-selangor-and-johor/"
+    },
+    {
+      "id": "2026-11-06-6eecc6",
+      "title": "Turner & Townsend names Niralee Shah Asia Pacific lead",
+      "summary": "The hire comes as demand for digital infrastructure surges across Asia Pacific, with clients seeking help on complex data centre builds and energy issues.",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 1,
+      "regions": [
+        "australia",
+        "southeast-asia"
+      ],
+      "topics": [
+        "data centre construction",
+        "digital infrastructure",
+        "talent"
+      ],
+      "published_at": "2026-11-06T02:53:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/turner-townsend-names-niralee-shah-asia-pacific-lead",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Turner & Townsend"
+      ],
+      "title_zh": "Turner & Townsend任命Niralee Shah为亚太区负责人",
+      "content": "Fri, 6th Nov 2026 (Today)\nTurner & Townsend has appointed Niralee Shah as Data Centre Services Lead for Asia Pacific, based in Singapore.\n\nShe will support the growth and delivery of the company's data centre business across the region, working with clients and regional leaders on service delivery, client relationships and programmes in key markets.\n\nThe appointment comes as investment in data centres across Asia Pacific continues to rise, driven by demand for cloud services, artificial intelligence and broader digital transformation. Turner & Townsend has more than 1,000 specialists supporting hyperscale and colocation clients across 14 markets in the region.\n\n### Regional demand\n\nAsia Pacific has become a major market for data centre development as operators and investors expand capacity to meet rising computing and storage needs. Advisory and programme management firms have also been adding sector specialists as clients seek support on complex builds, supply chains and energy-related issues.\n\nTurner & Townsend is a programme management company with more than 23,000 people in 64 countries, working across real estate, infrastructure, energy and natural resources. The business is majority-owned by CBRE Group, while its partners retain a significant non-controlling interest.\n\nShah brings more than 15 years of experience in business operations, strategic planning, financial management and client services across Asia Pacific. Her background includes roles with organisations in real estate, technology and professional services, tied to business growth, operations and large infrastructure programmes.\n\nShe has worked across markets and cultures in the region and is fluent in English, Japanese and Hindi. Her remit will span Asia Pacific as Turner & Townsend looks to deepen its position in the data centre segment.\n\nCommenting on the appointment, Sumit Mukherjee outlined the company's view of regional market conditions.\n\n\"Asia Pacific remains one of the world's most dynamic regions for data centre development, with unprecedented demand for digital infrastructure creating significant opportunities across its markets.\n\n\"Niralee's appointment further strengthens our regional team and reinforces our commitment to helping clients successfully deliver critical digital infrastructure programmes, combining our market-leading expertise in data centre delivery, power, transmission and renewables,\" said Sumit Mukherjee, Managing Director, Head of Real Estate, Asia Pacific, Turner & Townsend.\n\n### Growth focus\n\nThe hire reflects continued competition among professional services firms to secure work tied to digital infrastructure expansion in Asia Pacific. Data centre projects in the region have drawn interest from property groups, cloud providers, private capital and engineering firms, particularly in markets where demand for capacity is outstripping supply.\n\nSingapore remains a key base for many regional executives in the sector, even as development activity spreads across North Asia, South-East Asia and other fast-growing markets. Companies operating in the space are also dealing with land constraints, grid access, sustainability requirements and construction costs.\n\nShah said the market backdrop made the move significant for both the company and its clients.\n\n\"I'm excited to join Turner & Townsend at a defining moment for the data centre sector. Demand across Asia Pacific is being reshaped by AI, cloud and digital transformation, and clients need partners who can navigate that complexity with confidence. Turner & Townsend has an exceptional platform of expertise and experience, and I see significant opportunity to build on that foundation. I look forward to working with our clients and teams across Asia Pacific to support their ambitions and contribute to the continued growth of the business,\" said Shah.",
+      "content_url": "https://datacenternews.asia/story/turner-townsend-names-niralee-shah-asia-pacific-lead"
+    },
+    {
+      "id": "2026-11-06-731041",
+      "title": "VAST Data says 14 customers committed USD $10 billion",
+      "summary": "Four customers each committed more than USD $1 billion as demand for AI storage systems pushed VAST's aggregate customer pledges above USD $10 billion.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai storage",
+        "investment",
+        "hyperscale",
+        "infrastructure"
+      ],
+      "published_at": "2026-11-06T01:37:46Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/vast-data-says-14-customers-committed-usd-10-billion",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "VAST Data"
+      ],
+      "title_zh": "VAST Data称14家客户承诺投入100亿美元",
+      "content": "Fri, 6th Nov 2026 (Today)\nVAST Data says 14 of its customers have made aggregate commitments of more than USD $10 billion for its software and related hardware. Four of those customers each committed more than USD $1 billion.\n\nThe commitments were made in the first three quarters of VAST's current fiscal year by a small subset of the more than 1,000 organisations it serves. Each of the 14 customers committed more than USD $100 million to VAST Data-based system buildouts.\n\nThe disclosure provides a measure of spending now flowing into data infrastructure for artificial intelligence training and inference. It also offers fresh detail on customer concentration at a company valued at USD $30 billion after a Series F funding round earlier this year that included NVIDIA.\n\nVAST sells software for large-scale data environments, with platform hardware included in customer deployments. Its systems now support nine of the top 10 frontier AI labs, according to the company.\n\n### Supply planning\n\nVAST also said it had structured agreements with supply chain partners to align more than 200 exabytes of flash capacity through 2029. The arrangements are intended to match expected demand from its largest customers and help users plan infrastructure purchases amid pressure on NAND flash supply.\n\nNAND flash is a core component in enterprise storage systems used in data centres. Bringing new supply to market can take years because of the investment required in fabrication plants, making long-range planning important for suppliers and buyers when demand rises sharply.\n\nAccording to VAST, the data capacity being delivered by its partners now represents a significant share of global NAND flash output for enterprise data centres. It did not disclose the financial terms of the supply agreements or identify the manufacturers involved.\n\nRenen Hallak, founder and chief executive officer of VAST Data, linked the spending to broader changes in how AI infrastructure is being built. \"Growth at this scale only happens when an entire industry is rebuilding at once. That's what the new AI stack is. It's being built for models and agents, not people and applications, and data sits at the centre of it. The companies building it at the largest scale, for people, agents and now robots, are choosing VAST to anchor it,\" Hallak said.\n\nThe latest figures come as investors and technology groups continue to channel large sums into AI-related computing, networking and storage. While graphics processing units have drawn much of the attention, storage and data systems are also seeing strong demand as companies assemble the infrastructure needed to train models, run inference workloads and manage growing volumes of data.\n\nThat has increased pressure across the semiconductor supply chain. Flash storage is widely used in data-intensive environments because operators need fast access to large datasets, and supply constraints can have knock-on effects on deployment timetables for cloud providers, AI labs, enterprises and public sector users.\n\nJeff Denworth, co-founder of VAST Data, said the company's supply planning was tied to customer requirements. \"Planning for hundreds of exabytes isn't only about protecting our customers' growth projections. It's about keeping flash available to hundreds of clouds, so that every AI builder, not just the largest, has the capacity it needs to build and compete,\" Denworth said.\n\nVAST did not name the 14 customers behind the commitments or break out how much of the aggregate total related to software versus hardware. It also did not say how much of the committed spending had already been converted into recognised revenue.\n\nEven so, the figures point to a small number of buyers placing very large bets on storage and data architecture as AI infrastructure scales up. The largest disclosed group alone accounts for more than USD $10 billion in planned spending tied to VAST systems.",
+      "content_url": "https://datacenternews.asia/story/vast-data-says-14-customers-committed-usd-10-billion"
+    },
+    {
+      "id": "2026-11-06-22f386",
+      "title": "NVIDIA launches Minerva to spot AI factory faults early",
+      "summary": "The software aims to cut downtime and boost output for operators of massive GPU clusters by turning event storms into likely root causes.",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "data centre operations",
+        "software"
+      ],
+      "published_at": "2026-11-05T20:09:48Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/nvidia-launches-minerva-to-spot-ai-factory-faults-early",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "title_zh": "NVIDIA推出Minerva以早期发现AI factory故障",
+      "content": "NVIDIA has launched Minerva, an AIOps platform for AI factory operations designed to help teams spot faults earlier and maintain output across large AI infrastructure estates.\n\nMinerva brings together telemetry from infrastructure and AI workloads, including GPUs, networking, storage, schedulers, and the jobs running across them. The platform uses AI models to analyse operational data and turn it into alerts, incident groupings, and remediation suggestions.\n\nThe release reflects the growing operational challenge facing operators of large AI clusters, where a single underperforming component can affect a wider training or inference workload. AI factories can involve hundreds of thousands of GPUs connected across high-speed networks, making it difficult for operations, networking, reliability, and machine learning teams to work from a single view of events.\n\n### Single view\n\nAccording to NVIDIA, Minerva creates a dynamic knowledge graph that maps physical infrastructure, such as GPUs, SuperNICs, switches, and cables, alongside the jobs using those resources. The model is intended to help operators trace a slowdown in a training run or service back to the infrastructure affecting it.\n\nThe system analyses billions of data points an hour using supervised and unsupervised machine learning. It is designed to learn what normal behaviour looks like, identify anomalies, predict failures, and correlate related events based on a site's topology.\n\nRather than presenting operations teams with large volumes of separate alerts, Minerva groups related signals into a smaller number of incidents with a likely root cause. It also includes a native AI assistant and can connect to external agentic AI tools, giving staff a natural-language interface to query cluster health and review proposed actions.\n\nTeams can either keep human operators responsible for implementing fixes or connect the platform to automation through infrastructure application programming interfaces and external systems.\n\n### Yield focus\n\nThe platform is centred on what NVIDIA calls AI factory yield, which it defines through measures such as GPU hours, goodput, cluster uptime, and token production. The aim is to help operators extend the time between interruptions, shorten repair times, and reduce the volume of low-value alerts that can obscure more serious issues.\n\nThese features target a key commercial issue for companies building AI data centres: keeping expensive computing assets running at useful output for as long as possible. In large training environments, symptoms such as a hotter-than-normal GPU or a storage drive losing performance under load may seem minor in isolation, but can still affect a much larger job.\n\nAccording to NVIDIA, IREN is already using the software, while Aolani, Bitdeer AI, IBM, Jio, Lambda, Quake AI, and Tesla plan to deploy it. Dell Technologies, Lenovo, and Supermicro will also offer Minerva within their AI factory operations portfolios.\n\nIREN provided a customer example. \"As we scale our AI factories, the key to providing the best service for our customers is maximizing the productivity of our GPUs,\" said Denis Skrinnikoff, Chief Technology Officer at IREN. \"NVIDIA Minerva gives our operations team one view across the network, the GPUs and the jobs running on them, so we focus more on proactive maintenance rather than troubleshooting. That visibility strengthens our operating model for the infrastructure we're building next.\"\n\nThe launch adds to a broader push by infrastructure suppliers to move beyond selling chips and servers into the software used to run AI estates day to day. Operators are increasingly looking for tools that combine hardware telemetry with workload data, particularly as AI systems grow in size and as downtime or degraded performance becomes more costly.\n\nFor NVIDIA, Minerva also extends its reach deeper into the operational layer of AI data centres by linking its GPUs and networking products with software that monitors how those systems behave in production. The platform is intended to turn event storms into a focused incident with a probable root cause.",
+      "content_url": "https://datacenternews.asia/story/nvidia-launches-minerva-to-spot-ai-factory-faults-early"
+    },
+    {
+      "id": "2026-11-06-114b64",
+      "title": "Rakon launches timing portfolio for AI data centres",
+      "summary": "Better timing is becoming a bottleneck in AI clusters, prompting Rakon to add clocks and oscillators for networking, synchronisation and compute layers.",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "data centre hardware",
+        "networking",
+        "timing"
+      ],
+      "published_at": "2026-11-05T19:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/rakon-launches-timing-portfolio-for-ai-data-centres",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Rakon"
+      ],
+      "title_zh": "Rakon推出面向AI data centre的timing产品组合",
+      "content": "Fri, 6th Nov 2026 (Today)\nRakon has launched a timing portfolio for AI data centres and hyperscale infrastructure, covering the communication, synchronisation and compute layers in AI systems.\n\nThe portfolio includes oven-controlled crystal oscillators, temperature-compensated crystal oscillators and crystal oscillators for optical transceivers, switching equipment, network timing and compute hardware. The products are aimed at applications ranging from high-speed data centre networking to network interface cards, data processing units and AI accelerators.\n\nThe move reflects growing attention on parts of AI infrastructure beyond the processors themselves. As operators build larger clusters of interconnected GPUs and other accelerators, timing accuracy is becoming more important to keep data moving across optical links and distributed compute resources aligned.\n\nIn communications, Rakon is targeting reference clocks used in optical transceivers, SERDES and networking equipment. These systems handle large volumes of traffic between AI accelerators, where signal quality and timing stability can affect efficiency across a cluster.\n\nFor synchronisation, the range is designed to operate across network layers, from grandmaster clocks and switching infrastructure to network interface cards and processors. This part of the portfolio includes digitally controlled OCXOs, IC-OCXO devices and long-holdover discrete OCXOs.\n\nAt the compute level, Rakon is extending timing products into the tray itself, where they can be used in NICs, DPUs and AI accelerators. The line-up includes digitally controlled OCXOs and TCXOs, along with its Niku Ultra Stable TCXOs and compact high-stability TCXOs.\n\nWil Hsieh, Head of Products (Commercial BU) at Rakon, linked the launch to the wider build-out of AI systems.\n\n\"AI performance isn't determined by processing power alone,\" Hsieh said.\n\n\"Keeping data moving quickly and compute resources working efficiently also depends on the timing infrastructure around them. Better timing helps reduce communication and synchronisation bottlenecks, enabling AI infrastructure to make more effective use of its available compute performance. Rakon's portfolio addresses that challenge from optical connectivity and network synchronisation right through to the compute tray.\"\n\n### New products\n\nA central addition to the range is the Vulcan ROV7050XD digitally controlled OCXO, which is now sampling. Intended for network timing and synchronisation in AI infrastructure, it combines digital control with programmable frequencies in a 7 x 5 mm-class hermetic package.\n\nRakon said the ROV7050XD supports frequencies up to 1 GHz, with frequency stability of ±10 ppb and a frequency slope of ±0.5 ppb/°C. The device uses I2C for frequency tuning, allowing designers to adjust output frequency requirements without changing hardware.\n\nThe product sits in a part of the market where network timing must balance precision, size and flexibility. In large AI deployments, synchronisation devices are used across scale-up and scale-out architectures, including spine, leaf and Top-of-Rack switching.\n\nRakon is also extending its XO line to higher frequencies with a new high-frequency, ultra-low-jitter differential series. The current RXO2520NT and RXO2016NT models operate at 500 MHz, and the series is intended to reach 1.25 GHz.\n\nAccording to Rakon, the existing models deliver 30 fs RMS phase jitter and ±10 ppm FvT. They are available in 2.5 x 2.0 mm and 2.0 x 1.6 mm footprints, with smaller package sizes under development.\n\n### AI timing\n\nThe launch highlights a less visible part of the AI supply chain. While much of the investment focus has fallen on GPUs, networking silicon and memory, timing components support communication between systems and co-ordination across racks.\n\nAs data rates rise, reference clocks are being pushed to higher frequencies, particularly in optical interconnects and next-generation networking equipment. At the same time, tighter synchronisation is becoming more important as AI workloads are distributed across larger numbers of processors.\n\nRakon said its development work in digital control, high-frequency differential technology, XMEMS resonator technology and ASIC design is feeding into the new line-up. Those technologies are being used to produce smaller devices with higher frequencies, greater stability and lower jitter for data centre applications.\n\nHsieh said AI infrastructure is changing quickly.\n\n\"AI infrastructure is evolving extremely quickly, particularly around network speed and synchronisation,\" he said.\n\n\"Our Vulcan ASIC platform with Digital Control brings greater flexibility to precision network timing, while our new high-frequency XO platform combines ultra-low jitter with increasingly higher frequencies and smaller form factors. These developments are about helping customers get more performance from the infrastructure connecting their AI compute resources.\"",
+      "content_url": "https://datacenternews.asia/story/rakon-launches-timing-portfolio-for-ai-data-centres"
+    },
+    {
+      "id": "2026-11-06-2ee84a",
+      "title": "Crusoe unveils 3.5 MW modular data centre for Nvidia AI racks",
+      "summary": "Crusoe has launched its sixth-generation modular data centre platform, Spark Liquid, designed for Nvidia GB300 NVL72 and Vera Rubin NVL72 racks. The unit supports up to 3.5 MW of compute capacity and features direct liquid cooling.",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "modular",
+        "cooling",
+        "chips"
+      ],
+      "published_at": "2026-11-05T15:55:41Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/crusoe-unveils-3-5-mw-modular-data-centre-for-nvidia-ai-racks/135579545",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Crusoe",
+        "NVIDIA"
+      ],
+      "title_zh": "Crusoe 发布 3.5 MW 模块化数据中心，支持 Nvidia AI racks",
+      "content": "Crusoe has introduced its sixth-generation modular data centre platform, Spark Liquid, designed to support up to 3.5 MW of compute capacity.The new unit is built for Nvidia GB300 NVL72 and Vera Rubin NVL72 racks. Crusoe stated that Spark Liquid delivers five times the compute density of earlier Spark generations.Production for Spark Liquid will begin in Brighton, Colorado, in 2027, joining the company’s existing Spark line. The Spark platform will also support Nvidia’s recently announced DSX POD blueprint for modular infrastructure.\n### Modular approach for AI infrastructure\n\nModular data centres are gaining traction for AI infrastructure due to constraints in power, predictability, and time to deployment, according to Bryan Schramm, head of Spark at Crusoe. Factory-built units can utilise available power in smaller blocks, shortening grid interconnect timelines.Building in a factory enhances delivery date reliability, which is crucial for organisations reserving capacity in advance. This approach also shortens time to revenue for operators by bringing capacity online quicker.Spark Liquid is designed around a closed-loop direct liquid cooling (DLC) system for rack-scale systems like Nvidia’s GB300 NVL72 and Vera Rubin NVL72. DLC efficiently removes heat at high power densities, necessary for the Spark Liquid’s design.The water recirculates in a closed loop, needing minimal ongoing water and avoiding evaporative loss. Efficiency will vary with climate, with each deployment designed for local conditions.Each Spark Liquid unit is built in Crusoe’s factory and shipped ready to deploy in clusters. Crusoe acquired electrical manufacturer Easter-Owens Electric in 2022 to bring manufacturing in-house.Bryan Schramm noted that moving variability into a controlled factory environment helps Crusoe adopt and deploy next-generation GPUs faster. Nvidia’s standardisation on modular designs reinforces Crusoe’s long-standing approach.\n\n- AI & Compute Infrastructure\n- 1 min Read\n\n# Crusoe unveils 3.5 MW modular data centre for Nvidia AI racks\n\nCrusoe has launched its sixth-generation modular data centre platform, Spark Liquid, designed for Nvidia GB300 NVL72 and Vera Rubin NVL72 racks. The unit supports up to 3.5 MW of compute capacity and features direct liquid cooling.\n\n- Published On Nov 05, 2026 at 09:25 PM IST\n\n## Highlights\n\n- Crusoe unveiled Spark Liquid, a 3.5 MW modular data centre platform.\n- It is engineered for Nvidia GB300 NVL72 and Vera Rubin NVL72 AI racks.\n- The platform uses a closed-loop direct liquid cooling system for high density.\n- Production will commence in Brighton, Colorado, in 2027.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/crusoe-unveils-3-5-mw-modular-data-centre-for-nvidia-ai-racks/135579545"
+    },
+    {
+      "id": "2026-11-06-c66629",
+      "title": "Infineon secures 200mm SiC wafer supply from Wolfspeed",
+      "summary": "Infineon Technologies AG and Wolfspeed Inc. have signed a multi-year agreement for 200-millimeter silicon carbide (SiC) wafers. This transition from 150-millimeter technology supports growing demand for SiC power semiconductors in AI datacenters, electric vehicles, and renewable energy systems.",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "supply-chain",
+        "ai",
+        "power"
+      ],
+      "published_at": "2026-11-05T12:00:27Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/infineon-secures-200mm-sic-wafer-supply-from-wolfspeed/135572563",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Infineon",
+        "Wolfspeed"
+      ],
+      "title_zh": "Infineon 与 Wolfspeed 签订 200mm SiC wafer 供应协议",
+      "content": "Infineon Technologies AG and Wolfspeed Inc. have entered a new multi-year supply agreement for 200-millimeter silicon carbide (SiC) wafers, shifting Infineon's existing supply relationship from 150-millimeter to 200-millimeter substrate technology.SiC semiconductors are essential for electrification and energy efficiency applications driving global decarbonisation, including electric vehicles, renewable energy systems, and AI datacenter power infrastructure.The agreement directly supports Infineon's conversion to 200-millimeter SiC manufacturing. This move strengthens Infineon's position as a global leader in power semiconductors and reinforces its supply chain resilience for SiC growth.AI datacenters are emerging as a notable demand driver for SiC power semiconductors. Power conversion efficiency across the datacenter power chain is a direct operating cost consideration for hyperscalers managing infrastructure at scale.The switching efficiency and thermal performance of SiC make it suitable for specific power conversion stages where silicon reaches its practical limits. This trend, alongside SiC adoption in electric vehicle drivetrains, solar inverters, and industrial motor drives, supports a strong long-term outlook for high-quality 200-millimeter SiC substrates.The transition to 200-millimeter SiC wafers delivers significant manufacturing economics compared to 150-millimeter production. Larger wafer diameter increases usable die area per wafer, reduces per-unit substrate cost, and improves overall manufacturing efficiency.Infineon maintains a multi-source SiC substrate strategy to ensure supply chain flexibility and quality across its global manufacturing network. This includes its 200-millimeter SiC fab in Kulim, Malaysia, which is designed to be a large silicon carbide manufacturing facility.\n\n- AI & Compute Infrastructure\n- 1 min Read\n\n# Infineon secures 200mm SiC wafer supply from Wolfspeed\n\nInfineon Technologies AG and Wolfspeed Inc. have signed a multi-year agreement for 200-millimeter silicon carbide (SiC) wafers. This transition from 150-millimeter technology supports growing demand for SiC power semiconductors in AI datacenters, electric vehicles, and renewable energy systems.\n\n- Published On Nov 05, 2026 at 05:30 PM IST\n\n## Highlights\n\n- Infineon and Wolfspeed signed a multi-year deal for 200mm silicon carbide wafers.\n- Agreement transitions Infineon's supply from 150mm to 200mm SiC substrate technology.\n- SiC wafers support power semiconductors for AI datacenters and electric vehicles.\n- Transition to 200mm SiC wafers improves manufacturing economics and efficiency.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/infineon-secures-200mm-sic-wafer-supply-from-wolfspeed/135572563"
+    },
+    {
+      "id": "2026-11-06-abcabf",
+      "title": "Two dead and five injured following fire at Panasonic chip packaging facility in Taiwan",
+      "summary": "Two people have died and five people were injured following a fire and explosion at a Taiwanese factory owned by Panasonic Industrial Devices Materials.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "supply-chain",
+        "manufacturing",
+        "safety"
+      ],
+      "published_at": "2026-11-05T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/two-dead-and-five-injured-following-fire-at-panasonic-chip-packaging-facility-in-taiwan/",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/two-dead-and-five-injured-following-fire-at-panasonic-chip-packaging-facility-in-taiwan/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Panasonic"
+      ],
+      "title_zh": "Panasonic台湾芯片封装设施火灾致两人死亡五人受伤",
+      "published_precision": "day",
+      "content": "Two people have died and five people were injured following a fire and explosion at a Taiwanese factory owned by Panasonic Industrial Devices Materials.\n\nAccording to a report from Focus Taiwan, the fire broke out at the five-story factory in Hsinchu at around 2:00 am local time on November 4. More than 20 members of staff were believed to be working on the production lines when the incident occurred.\n\nThe report added that 12 vehicles and 23 firefighters were dispatched to the site, and heavy machinery was required to dig through the debris. It was then that the deceased workers, who had previously been reported missing, were discovered.\n\nThe five injured workers were transported to hospital. No information about their condition has been publicly disclosed.\n\nInitial reports suggested the fire was caused by flammable chemical solvents, such as methanol and methyl ethyl ketone, which are used at the factory. However, in a statement, the Hsinchu Fire Bureau said that the exact cause of the incident was still under investigation. The bureau additionally noted that the factory had passed a fire safety inspection in August.\n\n*DCD* has contacted Panasonic for comment.\n\nFirst opened in December 1987, the Hsinchu factory is used by Panasonic to manufacture printed circuit boards and semiconductor packaging materials. A semiconductor materials R&D center was established on the site in April 2019.\n\n*DCD's sympathies go out to the family and friends of the victims.*",
+      "content_url": "https://www.datacenterdynamics.com/en/news/two-dead-and-five-injured-following-fire-at-panasonic-chip-packaging-facility-in-taiwan/"
+    },
+    {
+      "id": "2026-11-06-0d6d90",
+      "title": "ABB teams up with Korean shipbuilder Hanwha on power and control systems for offshore data centers",
+      "summary": "South Korean shipbuilding company Hanwha Ocean has inked a non-binding Memorandum of Understanding (MoU) with ABB to develop advanced power and control systems for floating data centers.",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 2,
+      "regions": [
+        "korea",
+        "global"
+      ],
+      "topics": [
+        "offshore",
+        "power",
+        "partnership",
+        "hyperscale"
+      ],
+      "published_at": "2026-11-05T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/abb-teams-up-with-korean-shipbuilder-hanwha-on-power-and-control-systems-for-offshore-data-centers/",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/abb-teams-up-with-korean-shipbuilder-hanwha-on-power-and-control-systems-for-offshore-data-centers/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "ABB",
+        "Hanwha"
+      ],
+      "title_zh": "ABB与韩国造船商Hanwha合作开发海上数据中心的power和control systems",
+      "published_precision": "day",
+      "content": "South Korean shipbuilding company Hanwha Ocean has inked a non-binding Memorandum of Understanding (MoU) with ABB to develop advanced power and control systems for floating data centers.\n\nAccording to the companies, the MoU aims to improve the technical capabilities of floating data centers by combining Hanwha’s experience in offshore design and construction with ABB’s expertise in data center power solutions.\n\nEarlier this year, Hanwha showcased a self-developed 60MW-class floating data center. The concept envisions developing data center capacity on a floating structure that can generate power offshore and use seawater for cooling.\n\nUnder the terms of the MoU with ABB, the companies said they will work together through May next year on power system design reviews and the development of operating and control technologies, targeting stable power supply and efficient operation of floating data centers.\n\nHanwha will lead the basic design and power system configuration of the floating data center and set design standards for power generation equipment, which are expected to be based on liquefied natural gas (LNG) engines. ABB, in turn, will analyze the reliability and power quality of the electrical system based on the design provided and subsequently conduct a range of technical reviews in order to improve the operating efficiency of the power systems.\n\n\"As the AI industry grows, technologies that support stable power supply and efficient operation of data centers are becoming more important,\" said Heo Yoon, executive vice president and head of Hanwha Ocean's Product Strategy and Technology Institute. \"Through this partnership with ABB, we will raise the technical maturity of floating data center solutions suited to marine environments and broaden the foundation for growth in our future offshore business.\"\n\nThere has been a rising tide of offshore and floating data center concepts in recent years. Keppel has started work on a 25MW floating facility in Singapore, due to come online in 2028, while US-based Panthalassa wants to harness the power of waves for floating data centers at sea.\n\nFloating wind firm Aikido has also announced its entrance into the data center space with the launch of a floating offshore wind platform integrated with a modular AI-focused data center.\n\nOther companies working on floating projects include Seatrium, Mocean, and Atomarine. *DCD* took an in-depth look at the emerging compute-at-sea sector in issue 52 of the magazine.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/abb-teams-up-with-korean-shipbuilder-hanwha-on-power-and-control-systems-for-offshore-data-centers/"
+    },
+    {
+      "id": "2026-11-06-632650",
+      "title": "APAC operator PDG secures $1.3 billion for Malaysia build-out",
+      "summary": "Princeton Digital Group has raised $1.3 billion in financing to accelerate its data center build-out across Malaysia. The funding supports the Singapore-headquartered operator's expansion in one of APAC's fastest-growing digital infrastructure markets.",
+      "why_it_matters": "PDG's substantial capital raise validates Malaysia as a primary destination for data center investment capital, competing directly with Singapore's historical dominance in the region. The funding volume suggests institutional investors are comfortable with Malaysia's regulatory trajectory and power infrastructure commitments, though multiple simultaneous large-scale projects may strain construction labor markets and grid interconnection queues.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "capacity",
+        "hyperscale",
+        "financing"
+      ],
+      "published_at": "2026-11-05T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/apac-operator-pdg-secures-13-billion-for-malaysia-build-out/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "PDG"
+      ],
+      "title_zh": "APAC运营商PDG获得13亿美元用于Malaysia建设",
+      "summary_zh": "Princeton Digital Group 已筹集 13 亿美元融资，以加速其在马来西亚的 data center 建设。该资金支持这家总部位于新加坡的运营商在 APAC 增长最快的数字基础设施市场之一的扩张。",
+      "why_zh": "PDG 的大量资本筹集验证了马来西亚作为 data center 投资资本主要目的地的地位，直接与新加坡在该地区的历史主导地位竞争。该资金规模表明机构投资者对马来西亚的监管轨迹和电力基础设施承诺感到满意，尽管多个同时进行的 large-scale 项目可能给建筑劳动力市场和电网互联队列带来压力。",
+      "published_precision": "day",
+      "content": "APAC data center firm Princeton Digital Group (PDG) has secured more than $1 billion in new financing to fund its build-out in Malaysia.\n\nThe company this week announced that it has secured approximately $1.3 billion (\\~RM 5.1 billion) in green financing for its JH1 campus in Johor, Malaysia. Proceeds will be used to finance the continued development and expansion of the campus.\n\nStructured under PDG’s Green Finance Framework, the financing will support the development of JH1 in accordance with green building standards.\n\n“This financing reflects the confidence of our banking partners, several of whom have supported JH1 since its earliest phases, in PDG's execution capabilities and deep hyperscaler partnerships,” said Rangu Salgame, chairman and CEO and co-founder of PDG.\n\nThe financing is underwritten by six banks: Affin Bank, HSBC, Maybank, OCBC, Standard Chartered, and UOB.\n\nLocated in Sedenak Tech Park, JH1 is a 200MW campus designed to support high-density AI and cloud workloads. The first 52MW phase of the campus was completed last year in July 2025. The company topped out the third building in late 2025.\n\nPDG was founded in 2017 and has data centers in operation or development across China, Singapore, India, South Korea, Malaysia, and Japan. The company says its portfolio totals 1.8GW.\n\nPrivate equity firm Warburg Pincus is PDG’s largest shareholder. The company is also backed by the Ontario Teachers’ Pension Plan, the UAE’s Mubadala, and Stonepeak.\n\nThe new financing builds on previous financing secured for earlier phases of the JH1 campus, which was first secured from three banks in April 2024, and subsequently upsized with four banks in October 2025.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/apac-operator-pdg-secures-13-billion-for-malaysia-build-out/"
+    },
+    {
+      "id": "2026-11-06-c4cb56",
+      "title": "Microsoft rejects multibillion-dollar AI deal with Nscale",
+      "summary": "London/San Francisco | Nscale’s ambitions for a $US35 billion ($50 billion) sharemarket listing face a fresh test after the UK’s most valuable AI start-up lost out on a potential new deal with…",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "australia",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "cloud",
+        "investment",
+        "hyperscale"
+      ],
+      "published_at": "2026-11-05T09:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/technology/microsoft-rejects-multibillion-dollar-ai-deal-with-nscale-20261105-p61btg",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Microsoft",
+        "Nscale"
+      ],
+      "title_zh": "Microsoft拒绝与Nscale达成数十亿美元AI交易",
+      "content": "*London/San Francisco* | Nscale’s ambitions for a $US35 billion ($50 billion) sharemarket listing face a fresh test after the UK’s most valuable AI start-up lost out on a potential new deal with Microsoft worth tens of billions of dollars.\n\nThe US software giant has rejected an option to more than double the size of its existing contract to rent computing power at a data centre site in Texas, according to three people familiar with the matter.\n\nLoading...\n\nFinancial Times",
+      "content_url": "https://www.afr.com/technology/microsoft-rejects-multibillion-dollar-ai-deal-with-nscale-20261105-p61btg"
+    },
+    {
+      "id": "2026-11-06-0b5df3",
+      "title": "US data-centre backlash may lower odds of AI investment bust",
+      "summary": "(Nov 5): The backlash against data centers evident in this week's US midterm elections raises new risks for a key source of economic growth. But restrictions on development could ultimately reduce the odds of a downturn by keeping the AI investment boom in check. Around half of planned ...",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "data-center",
+        "regulation",
+        "ai",
+        "investment"
+      ],
+      "published_at": "2026-11-05T23:43:50Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824767",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "美国data centre反弹可能降低AI投资泡沫破裂的几率",
+      "content": "(Nov 5): The backlash against data centers evident in this week's US midterm elections raises new risks for a key source of economic growth. But restrictions on development could ultimately reduce the odds of a downturn by keeping the AI investment boom in check.\n\nAround half of planned expansion nationwide is vulnerable to increased scrutiny and pushback from Democrats who clinched historic victories in states like Texas, Georgia and Ohio. Many of the candidates campaigned against unfettered data-center construction and will likely seek to quickly deliver on what has become a wildly popular position across the country this year.\n\nThe new mandate is arriving just as technology investment has become more important for the economy than ever before. But the scale and speed of the boom have also inevitably raised concerns about an eventual bust.\n\n\"If some of these moratoriums or regulatory pressures slow some of this buildout, it almost prevents you from blowing too big of a bubble,\" said Brett Ryan, an economist at Deutsche Bank Securities. \"This is like a good excuse to kill some projects here that were already looking shaky.\"\n\nThe paradox illustrates a central tension in the US economy of the post-pandemic era: Growth has become unusually reliant on a handful of sectors pouring enormous sums into a new technology with a payoff that's so far been difficult to quantify.\n\nThursday's selloff in AI-linked stocks also offered a reminder that the boom has helped support consumer spending through rising household wealth, a channel that could work in reverse if the trade unwinds quickly.\n\nOver the last year, capital expenditures on information processing equipment and software alone have given the US economy the biggest boost on record, eclipsing even their contribution at the peak of the 1990s dot-com boom.\n\nA report Thursday also showed broader economic growth is being propelled almost entirely by productivity enhancements, though economists said the prospective boost from AI is largely yet to appear in the numbers.\n\nMonthly construction spending on data centers, meanwhile, has almost doubled over the last 12 months, to nearly $100 billion on an annualized basis.\n\nFor now, economists don't foresee an immediate pullback because much of the capacity that will come online next year is already under construction. This week's election results, however, could have a bigger impact on the outlook for 2028 to the extent that groundbreaking on new facilities begins to slow.\n\nRyan said Deutsche Bank had already been projecting slower growth in investment by then. Following Tuesday's elections, \"my knee-jerk reaction would be, OK, I don't have to raise my 2028 forecast anytime soon,\" he said.\n\nThe impact will depend on the specific shape any new restrictions might take. About 45% of planned data-center capacity is in states where newly elected Democrats campaigned on such limits, according to Goldman Sachs estimates.\n\nTexas alone accounts for 25% of the total, and Gina Hinojosa, the first Democrat to be elected governor there since 1990, has vowed to halt new approvals. Georgia and Ohio are also getting Democratic governors for the first time in decades. In the former, Keisha Lance Bottoms campaigned on a statewide pause, while in the latter Amy Acton has proposed stricter conditions on new projects.\n\nStates with restrictions in place prior to the midterms have so far opted for temporary measures rather than permanent bans. In July, New York became the first to announce a pause on new environmental permits for hyperscale data center construction for up to one year.\n\nMany smaller localities, however, have gone further. Monterey Park, California; Harford County, Maryland; and East Rutherford, New Jersey have all imposed some form of outright prohibition on data centers this year, and several Ohio municipalities this week voted to adopt similar measures.\n\nSarah Bianchi, a strategist at Evercore ISI, said she expects state moratoriums would last no more than a year as policymakers decide what restrictions to put in place, including whether to grandfather existing projects or impose rules based on project size.\n\nGiven the breadth of the backlash, though, \"It's not like it's going to be super easy to go somewhere else in this environment,\" she said.\n\n*Uploaded by Siow Chen Ming*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/824767"
+    },
+    {
+      "id": "2026-11-06-bd72e9",
+      "title": "Universities must produce higher-skilled, tech-ready graduates — Anwar",
+      "summary": "Malaysian universities must urgently equip graduates with specialised skills in emerging technologies to meet the demands of global technology giants, including Google, which has announced plans to invest US$15 billion (RM60.96 billion) in the country.",
+      "why_it_matters": "",
+      "score": 35,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "talent",
+        "google",
+        "ai"
+      ],
+      "published_at": "2026-11-05T11:43:38Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824718",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Google"
+      ],
+      "title_zh": "大学必须培养更高技能、技术就绪的毕业生——安瓦尔",
+      "content": "MELAKA (Nov 5): Malaysian universities must urgently equip graduates with specialised skills in emerging technologies to meet the demands of global technology giants, including Google, which has announced plans to invest US$15 billion (RM60.96 billion) in the country.\n\nPrime Minister Datuk Seri Anwar Ibrahim said Alphabet and Google president and chief investment officer Ruth Porat had praised the capabilities, discipline and work ethic of Malaysian graduates but stressed the need for greater specialisation in certain fields.\n\nHe said higher education institutions must strengthen training in rapidly advancing technologies, particularly artificial intelligence (AI) and quantum computing, to ensure graduates could capitalise on new employment opportunities and secure better wages.\n\n“We must place greater emphasis on skills and expertise because without technology and technical capabilities, Malaysia cannot become a developed nation. Many new fields are emerging rapidly.\n\n“Universities must therefore continue providing training to meet industry needs. Ultimately, we want our young people to earn significantly better wages and gain exposure to cutting-edge technologies that can help position Malaysia among the region’s most advanced nations,” he said at the Prime Minister's Golden Hand Awards 2026 ceremony at Universiti Teknikal Malaysia Melaka (UTeM) here on Thursday.\n\nAlso present were Works Minister Datuk Seri Alexander Nanta Linggi, Human Resources Minister Datuk Seri R Ramanan, Higher Education Minister Datuk Seri Dr Zambry Abd Kadir and Education Minister Datuk Seri Fadhlina Sidek.\n\nOn Wednesday, Google announced plans to invest US$15 billion in Malaysia between 2027 and 2028 to expand its digital infrastructure, including developing data centre campuses in Selangor and Negeri Sembilan, to meet growing demand for AI and cloud computing services.\n\nElaborating, Anwar, who is also finance minister, said he had asked Porat about the skills required to support the company's investment.\n\n“I asked her what was needed following the investment. She praised the achievements, discipline and knowledge of our young people, saying they were hardworking and qualified, but stressed the need for additional expertise in specific fields.\n\n“University and college leaders must respond immediately to ensure our graduates are not only adequately trained to meet industry requirements but also continuously upgrade their skills,” he said.\n\nAnwar said Porat had also cited Malaysia's political stability and clear government policies as key factors behind Google’s investment decision.\n\n“I asked her to speak frankly about our strengths and weaknesses. She said Malaysia was stable, with no riots or frequent changes of government as in the past, and that this gave investors confidence,” he said.\n\n*Uploaded by Felyx Teoh*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/824718"
+    },
+    {
+      "id": "2026-11-06-e339e4",
+      "title": "Nvidia chips pile up in Hong Kong as China withholds import approval",
+      "summary": "Large quantities of Nvidia chips have accumulated in Hong Kong warehouses as Chinese authorities deliberately withhold import approvals for advanced semiconductors. The stockpile illustrates Beijing's strategic calculation to reduce technological dependence on American suppliers despite domestic AI industry demand.",
+      "why_it_matters": "Hong Kong's role as a semiconductor transshipment hub is being compromised by geopolitical maneuvering, affecting logistics providers and distributors dependent on just-in-time delivery models. For Chinese AI companies, the withheld chips create project delays and force reliance on inferior domestic alternatives, while Nvidia loses revenue from one of its most significant historical markets.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "regulation",
+        "ai",
+        "supply-chain"
+      ],
+      "published_at": "2026-11-05T11:49:01Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/nvidia-chips-pile-hong-kong-china-withholds-import-approval",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "title_zh": "NVIDIA芯片在香港堆积，因中国暂停进口审批",
+      "summary_zh": "大量 Nvidia 芯片已在香港仓库中堆积，因为中国当局故意拖延先进半导体的进口审批。这种库存积压表明，尽管国内 AI 行业有需求，但北京方面战略性地考虑减少对美国供应商的技术依赖。",
+      "why_zh": "香港作为半导体转运枢纽的角色正因地缘政治博弈而受损，影响依赖 just-in-time 交付模式的物流提供商和分销商。对于中国 AI 公司而言，被扣留的芯片造成项目延迟，并迫使其依赖较差的国内替代品，而 Nvidia 则失去了其历史上最重要的市场之一的收入。",
+      "content": "The size of the stockpile reflects Beijing’s reluctance to increase reliance on US technology\n\nABOUT 600,000 of Nvidia’s advanced artificial intelligence chips are stored in Hong Kong awaiting shipment to mainland China, two people familiar with the matter said, as Beijing withholds approval for large-scale imports despite demand from technology firms.\n\nThe size of the stockpile of H200 chips, which has not previously been reported, reflects Beijing’s reluctance to increase reliance on US technology.\n\nAt the same time, Chinese companies need Nvidia’s advanced computing power to meet surging AI demand in the world’s second-largest economy.\n\nChina has allowed some of the chips to enter the country in recent months, three people familiar with the matter said. Several major Chinese internet companies have each obtained about 10,000 H200 chips in the past few months, one of the people said.\n\nThree people said small quantities of chips had been shipped via intermediaries and indirect routes without specifying how many.\n\nBut Beijing has yet to approve large-volume imports into mainland China, the people said.\n\nChina’s Ministry of Industry and Information Technology and the National Development and Reform Commission did not respond to requests for comment. Neither did Nvidia or Chinese tech companies Alibaba, ByteDance, DeepSeek and Tencent .\n\n## H200 is not the most advanced, but very useful\n\nThe H200 is not Nvidia’s newest AI processor, but it has capabilities that Chinese alternatives have yet to match, making it useful for training AI models particularly when combined with Nvidia’s software.\n\nUS export controls since 2022 have sought to restrict China’s access to advanced Nvidia chips and the equipment needed to make them.\n\nWith authorised supply constrained, Chinese buyers have turned to intermediaries and indirect routes, pushing up prices in the unofficial market.\n\nAn eight-card H200 server was offered for more than six million yuan (US$900,000) in mainland China by the end of October, about three times its price a year earlier, one person familiar with the matter said.\n\nServers using Nvidia’s newer Blackwell chips, which fall under US export controls, were offered for more than 20 million yuan apiece, the person added.\n\n## Tension over trade and technology\n\nThe H200 chip is caught in tension over trade and technology more broadly between Washington and Beijing.\n\nThe US barred exports of the H200 to China before US President Donald Trump’s administration gave Nvidia permission in 2025 to sell the chips to approved Chinese customers. The policy shift followed US-China trade negotiations.\n\nBeijing has imposed its own constraints on H200 imports, reflecting concerns about dependence on US technology.\n\nTechnology publication The Information reported in July that Chinese officials had told companies, including Alibaba, ByteDance and DeepSeek that they could receive permission to buy limited quantities of H200 chips for training AI models.\n\nIt reported that total approvals could amount to fewer than 200,000 chips and that Beijing wanted firms to prioritise Chinese processors for inference – the task of running AI models.\n\nReuters reported in October that ByteDance, Alibaba and Tencent had ordered more than three million Nvidia RTX Pro 5500 graphics cards, a less powerful export-compliant product, with a combined sticker price exceeding US$35 billion. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/nvidia-chips-pile-hong-kong-china-withholds-import-approval"
+    },
+    {
+      "id": "2026-11-06-2763b1",
+      "title": "Dawn Cloud OneBox builds government and enterprise intelligent agent platform with conversational development",
+      "summary": "当AI智能体开始从回答问题走向调用工具、访问数据库、执行任务，企业对AI的需求也在发生变化。",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "ai",
+        "cloud",
+        "government",
+        "digital-infrastructure"
+      ],
+      "published_at": "2026-11-05T09:18:10Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "中国IDC圈",
+          "url": "https://news.idcquan.com/news/208472.shtml",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Dawn Cloud"
+      ],
+      "title_zh": "对话即开发，曙光云OneBox打造政企智能体平台",
+      "content": "当AI智能体开始从回答问题走向调用工具、访问数据库、执行任务，企业对AI的需求也在发生变化。\n\n对于个人用户而言，一个能够写方案、做PPT、整理资料的AI助手，已经能够带来明显的效率提升。但对于政务、金融、能源、制造等行业而言，AI能否进入真实业务系统，能否读取企业内部数据，能否在明确的权限边界内执行操作，能否在出现问题时追溯责任，才是决定其能否规模化应用的关键。\n\n这也构成了当前政企AI落地的一道现实门槛：技术上能够实现，不等于组织层面允许使用；员工能够访问的数据，也不意味着智能体可以随意调用；模型能够生成执行方案，更不意味着它获得了修改生产系统的授权。\n\n在乌镇世界互联网大会期间，曙光云正式发布OneBox智能体协作平台，该平台获得乌镇星光产品荣誉。与市场上强调个人办公效率的智能助手不同，OneBox将产品定位于面向政企组织的私有化智能体平台，试图解决AI从个人工具走向组织级生产力过程中，数据安全、权限治理、业务连接和成果交付等一系列问题。\n\n曙光云副总裁徐良表示，曙光云希望平衡AI带来的效率提升与政企客户原有的安全、业务管控需求，让客户从“想用”走向“敢用、能用”。这背后，实际上也是企业级AI竞争逻辑的一次变化：比拼的不只是模型有多聪明，更是能否让AI在组织制度和业务流程中可靠运行。\n\n### 一、政企AI的真正门槛，不是模型，而是信任\n\n消费级AI智能体的快速发展，正在降低普通用户使用AI的门槛。但在政企市场，AI的应用逻辑并不能简单复制个人场景。一个个人助手可以通过上传文件完成分析，一家大型企业却可能拥有数十套业务系统、复杂的组织架构，以及分散在不同部门的数据资产。核心数据还可能受到行业监管、内部制度和保密要求的约束。\n\n徐良在沟通会上谈到，政企客户对AI的顾虑主要集中在安全、数据、环境、管控和成本等方面。尤其是大型企业和政府机构，既要考虑原有信息系统是否会受到影响，也要考虑企业内部数据是否会进入不可控的外部模型，更要评估员工使用AI之后，业务过程是否可见、资源消耗是否可控。\n\n这意味着，企业需要的不是一个简单叠加大模型能力的办公软件，而是一套能够嵌入既有IT体系的组织级平台。\n\n“我们更多希望身上的一种使命，就是平衡好AI带来的快速效率的提升和原有政企客户的安全和自身业务管控需求之间的平衡。”徐良表示。这也解释了曙光云为什么没有将OneBox简单定义为一款桌面AI助手，而是把它放进自身“全栈可信、云中生智”的战略体系中。\n\n从产品架构看，OneBox采用私有化部署形态，将桌面客户端、管理控制台和云端执行环境整合在一起。客户端负责用户交互、助手调用和任务发起；管理控制台承担组织、模型、知识库、应用、权限及审计管理；运行环境则提供云沙箱、数字员工云服务器和个人云桌面等受控执行载体。其设计逻辑可以概括为：AI负责理解与执行，平台负责权限、状态、成果、审计与交付。\n\n徐良认为，政企客户需要的是一套完整的产品、技术和服务组合，而不是一个孤立的AI应用。曙光云在政企云服务领域积累的经验，以及中科曙光从芯片、整机到软件的产业链能力，为OneBox提供了基础支撑。其价值也由此从单一工具延伸至组织级AI基础设施。\n\n### 二、从数据连接到业务理解，智能体不能只会生成SQL\n\n如果说私有化部署解决的是AI能不能进入企业，那么如何让AI真正理解企业，则是更深一层的挑战。\n\n企业的数据并不缺少，真正稀缺的是对数据业务含义的准确理解。一个项目完成率，在工程部门可能对应施工进度，在财务部门可能对应投资执行，在管理部门则可能对应验收情况。即使智能体能够访问数据库、生成SQL，也未必能够准确理解不同部门对同一指标的定义。\n\n曙光云总裁助理李明达认为，政企专用智能体最深的竞争壁垒，是把企业的数据、业务规则和实践经验，转化为智能体能够理解、能够遵循、能够持续使用的业务语义体系。其中，数据本体和语义层是非常关键的基础。\n\n这也是OneBox引入“树桥”能力的原因。按照曙光云OneBox产品经理马一龙的介绍，树桥可以直接对接用户现有业务系统的生产数据库，并基于数据库表结构、字段和具体数据权限，控制不同用户能够访问的内容。它并不是简单地将数据库开放给大模型，而是尝试在模型与企业数据之间建立一层可治理的连接机制。\n\n在实际演示中，马一龙展示了安全会话开启前后的差异：未开启安全会话时，用户询问能够访问哪些数据表，系统不会开放任何已注册数据表；开启安全会话后，系统则能够检索当前用户有权访问的业务生产数据库，并据此开展分析。这一机制的关键在于，模型能否获得数据，不再只取决于它是否能够理解问题，还取决于用户身份和授权范围。\n\n李明达进一步指出，企业级AI需要建立两层理解。第一层是业务本体，明确企业有哪些业务对象、对象之间是什么关系、遵循什么规则；第二层是语义层，将业务语言准确映射到数据和计算逻辑。只有两者结合，才能让不同员工、不同智能体和不同应用基于一致的业务含义开展工作。\n\n从产业角度看，这一设计触及了企业AI应用中一个容易被忽视的问题：数据可访问，不等于业务可理解；业务可理解，也不等于操作可授权。智能体需要同时理解业务语义和组织规则，才能避免生成看似正确、实际却偏离业务口径的结果。\n\n因此，树桥的意义不仅是打通数据库连接，更在于为智能体进入企业核心业务建立数据和语义基础。它也让OneBox的竞争重点从模型调用能力，延伸到企业数据资产的激活能力。\n\n### 三、“对话即开发”，让业务人员成为应用创造者\n\n在企业信息化建设中，业务部门与IT部门之间长期存在一道沟通鸿沟。业务人员最了解实际需求，却未必掌握开发能力；IT部门具备技术能力，却需要花费时间理解业务流程。需求提出、方案评估、开发测试、部署上线，往往需要经过多个环节。\n\n马一龙表示，OneBox将产品界面划分为日常办公和创意模式两部分。日常办公主要面向通用智能体应用，支持文档上传、问答和公文写作等任务；创意模式则面向企业业务场景，让用户借助AI快速构建业务应用。\n\n其核心是“对话即开发”。业务人员通过自然语言描述需求，智能体将需求拆解为数据、组件和展示方式，生成相应应用。用户可以在独立项目工作区中进行预览和迭代，确认结果符合要求后，再通过显式授权完成发布。发布后的应用能够进入企业应用广场，供授权范围内的其他员工访问。\n\n这使得AI的输出不再停留在一段文字或一张表格，而是可以进一步形成具有实际使用价值的业务应用。马一龙介绍，OneBox希望打通从需求提出、应用开发到发布和数据权限管理的完整链路，减少传统信息化项目中业务部门与技术部门反复沟通的成本。\n\n但“对话即开发”并不意味着取消技术治理。OneBox通过隔离项目工作区、预览、能力检查和显式发布授权，将开发与正式使用区分开来。对于涉及生产配置、版本发布等高风险操作，仍需要人工确认并保留审计记录。换言之，AI可以降低应用开发门槛，却不能替代企业对生产环境的责任管理。\n\n在曙光云解决方案总监吴兴杰看来，企业真正需要的是让业务经验成为可以执行、验证和持续维护的组织资产。一名员工验证有效的工作方法，可以沉淀为技能；一个部门形成的协作流程，也可以在授权范围内推广给其他团队。这样，AI带来的价值才有机会从个人效率提升，扩展为组织能力积累。\n\n### 四、从智能助手到数字员工，打通组织协同链路\n\n如果说创意模式解决了应用生产问题，那么组织协同能力决定了智能体能否融入日常业务。\n\n企业的工作并不是一个个独立的问答任务。一次经营分析可能始于消息沟通，经过会议讨论、数据核验、任务分派和人工审批，最终形成报告并沉淀到知识库。如果AI只负责其中某个环节，仍然需要员工在不同系统之间反复切换，效率提升就会受到限制。\n\nOneBox将消息、群聊、会议、数字员工和知识库等能力纳入统一平台。马一龙介绍，平台中的数字员工可以对应后台智能体，并嵌入企业办公流程；对于涉密或敏感会议，企业也可以使用内置会议应用，让相关数据保留在内网环境中。同时，平台还支持定时任务、专家助手、技能和插件等能力。\n\n从产品资料看，OneBox当前拥有22个可选助手、36项技能和14个云端插件，覆盖办公文档、演示文稿、图表、知识库检索、消息与会议协同等功能。管理控制台则提供用户组织、模型供应商、模型目录、Token用量、应用管理和审计日志等模块。\n\nOneBox已经具备一定规模的组织运行基础，而不是停留在产品概念演示阶段。不过，产品功能资料也明确区分了已具备、需配置和当前不具备的能力。例如，部分外部系统插件需要升级客户端后才能使用，数字员工云服务器也需要完成ECS连接配置。因此，产品能力与具体项目交付效果仍需结合客户环境判断。\n\n吴兴杰指出，智能体进入企业真实业务后，企业需要知道它正在做什么、遇到了什么问题，以及什么时候需要人介入。OneBox希望将智能体变成具有身份、职责和权限范围的工作参与者，而不是一个无法追踪的后台程序。\n\n这也意味着，企业协同的对象正在从人与人，扩展到人与智能体、智能体与业务系统之间。消息、会议、数字员工跟进、人工审批和知识归档逐步形成连续链路，智能体才有机会真正参与组织运行。\n\n### 五、国产全栈与规模化交付，考验的不只是技术\n\n对于政企智能体而言，产品功能只是竞争的一部分，底层算力、模型适配、安全运行和长期运维同样重要。\n\nOneBox依托曙光云的云基础设施和安全能力，尝试打通国产算力、模型服务与智能体应用。传播资料显示，曙光云已针对国产GPU完成QWEN3.8系列模型算子级优化，推理性能较原生开源模型提升267%。这些成果体现了国产算力承载智能体业务的工程探索，但具体性能仍需结合模型版本、硬件配置和测试条件理解。\n\n徐良认为，企业级智能体市场将形成三类相互协作的能力：底层模型与算力、中间的智能体运行与治理平台，以及上层的行业知识与业务应用。客户最终关注的，不只是模型能力，而是一项工作能够以什么质量、什么成本和什么责任边界持续完成。\n\n在吴兴杰看来，政企客户部署智能体最大的障碍，是尚未建立将智能体纳入真实业务的信任机制。数据安全、权限管理、模型能力和流程改造是一个完整链条，任何环节缺失，都可能影响智能体进入日常生产。因此，曙光云在实践中强调从“小切口”试点开始，通过能力模板化和插件连接器复用，逐步扩大应用范围。\n\n其落地路径包括从高频、边界清晰、结果容易验证的任务切入，再将有效的Agent能力、连接器、知识库和组织记忆沉淀为可复用资产。曙光云还提出通过FDE落地运营体系，推动应用从个人到部门，再从部门向整个企业扩展。重点关注智能化评审、风险识别、跨部门协同和数据挖掘等场景。\n\n这条路径也说明，企业级智能体的规模化并非简单复制软件安装包，而是要将业务规则、数据连接、权限策略和实施经验一并复制。平台厂商提供共性能力，行业软件厂商和集成服务伙伴则贡献业务接口、专业知识与现场交付能力。只有形成这样的生态分工，单点试点才有机会转化为规模化应用。\n\n### 结束语：\n\n从个人助手到组织级智能体，AI产业正在经历一次重要的价值迁移。模型能力决定智能体能够完成什么任务，但真正决定它能否进入企业核心业务的，是数据能否安全调用、权限能否准确执行、业务规则能否被理解，以及每一次操作能否追溯和复核。\n\nOneBox的探索，正是试图把这些原本分散在模型、数据、业务系统和组织管理中的能力连接起来。它既不是单纯的聊天工具，也不只是一个应用开发平台，而是以私有化部署为基础，以数据连接和组织治理为支撑，将智能体、协同与执行环境整合到统一入口。",
+      "content_url": "https://news.idcquan.com/news/208472.shtml"
+    },
+    {
+      "id": "2026-11-06-cbabd3",
+      "title": "DayOne backs NVIDIA's AI data centre design standard",
+      "summary": "The tie-up could help hyperscalers bring AI capacity online sooner by standardising how compute, power and cooling are deployed.",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "data centre design",
+        "hyperscale",
+        "chips"
+      ],
+      "published_at": "2026-11-05T09:15:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/dayone-backs-nvidia-s-ai-data-centre-design-standard",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "DayOne",
+        "NVIDIA"
+      ],
+      "title_zh": "DayOne支持NVIDIA的AI data centre设计标准",
+      "content": "Thu, 5th Nov 2026 (Yesterday)\nDayOne will support the NVIDIA DSX POD reference design, linking the Singapore-based data centre operator to a standard for AI infrastructure deployment.\n\nIt will use its proprietary integrated delivery model alongside the design, which is intended to align compute, power and cooling in AI data centre projects. The approach is part of a wider strategy centred on standardised design, integrated delivery and modular infrastructure across multiple markets.\n\nDemand for AI infrastructure has risen as deployments have grown larger and more complex. That has increased focus on how quickly operators can deliver power, cooling and physical space while maintaining common technical standards across sites.\n\nDayOne uses a standardised method for data centre development that includes modular prefabrication of power, cooling and base-build systems. Moving some mechanical, electrical and plumbing work into factory settings reduces development timelines and supports consistency across large projects, it said.\n\nThe company said this model allows it to complete data centre projects in eight to 12 months in Southeast Asia. That is shorter than conventional build cycles and reflects growing pressure on operators to bring AI-ready capacity online more quickly.\n\n### Growing AI Demand\n\nThe announcement highlights how data centre groups are adjusting construction and delivery models as AI workloads place heavier demands on infrastructure. Compared with traditional data centre deployments, AI facilities typically require more tightly integrated systems for electricity supply, cooling, networking and computing hardware.\n\nFor operators and customers, this has increased the importance of repeatable designs and construction methods that can be rolled out across regions. DayOne said modular infrastructure would play a key role in delivering next-generation data centre capacity as these requirements intensify.\n\nDayOne, established in 2022, operates across 10 markets in Asia Pacific and Europe. Its footprint includes Singapore; Johor and Greater Kuala Lumpur in Malaysia; Indonesia; Thailand; Tokyo and Kyushu in Japan; Hong Kong; Finland; and Spain.\n\nThe company develops and operates high-capacity campuses for hyperscalers and businesses. Its model centres on developing, constructing and operating data centres in multiple jurisdictions through a common delivery framework.\n\nJamie Khoo, Chief Executive Officer of DayOne, said the move was consistent with the company's existing methods for data centre construction.\n\n\"At DayOne, we believe that prefabrication and modularization are key to delivering infrastructure at the pace required by the AI era,\" said Jamie Khoo, Chief Executive Officer of DayOne. \"Our teams have spent years developing integrated platforms, products, and modules that enable us to deliver large-scale campuses at speed and scale, with the consistency and quality our customers trust. Supporting the new NVIDIA DSX POD reference design is a natural extension of that work.\"\n\n### Industry Alignment\n\nNVIDIA also presented the arrangement as a response to the need for closer coordination of infrastructure elements as demand for accelerated computing grows. The reference design is intended to help customers deploy AI systems more quickly by bringing compute and facility requirements into closer alignment.\n\n\"Meeting growing demand for accelerated computing requires integrated infrastructure solutions, and the NVIDIA DSX POD reference design helps align compute, power, and cooling for faster deployment,\" said Charlie Boyle, Vice President of DGX Systems at NVIDIA. \"DayOne's support for this reference design, combined with its modular infrastructure and integrated delivery capabilities, can help customers bring capacity online sooner and shorten the time to first token.\"\n\nThe tie-up reflects a broader shift in the data centre market as operators seek more standardised ways to build facilities for AI workloads. As power availability, construction schedules and engineering integration become more critical, delivery models that can be repeated across markets are becoming a stronger point of competition.",
+      "content_url": "https://datacenternews.asia/story/dayone-backs-nvidia-s-ai-data-centre-design-standard"
+    },
+    {
+      "id": "2026-11-06-0a8d93",
+      "title": "Envision launches 800V DC power system for AI centre",
+      "summary": "Envision has deployed an 800V direct current power system at its Ulanqab data center, which is already running live AI workloads. The company claims the high-voltage DC design reduces cabling requirements and copper consumption compared to traditional alternating current infrastructure.",
+      "why_it_matters": "Higher-voltage DC power distribution represents a potential inflection point for AI data center electrical architecture, where rack power densities are straining conventional designs. If Envision's deployment proves reliable at scale, it could accelerate industry adoption of DC systems, reshaping supplier ecosystems for power equipment and reducing copper demand that has faced supply chain constraints, though retrofitting existing facilities remains economically challenging.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "ai",
+        "power",
+        "data centre design",
+        "cooling"
+      ],
+      "published_at": "2026-11-05T08:14:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/envision-launches-800v-dc-power-system-for-ai-centre",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Envision"
+      ],
+      "title_zh": "Envision为AI centre推出800V DC电源系统",
+      "summary_zh": "Envision 已在其 Ulanqab data center 部署了 800V 直流电源系统，该设施已运行实时 AI 工作负载。该公司声称，与传统交流基础设施相比，这种高压 DC 设计减少了布线需求和铜消耗。",
+      "why_zh": "更高电压的 DC 配电代表了 AI data center 电气架构的潜在拐点，机架功率密度正在使传统设计紧张。如果 Envision 的部署在大规模下证明可靠，可能加速行业对 DC 系统的采用，重塑电力设备供应商生态系统并减少面临供应链限制的铜需求，尽管改造现有设施在经济上仍然具有挑战性。",
+      "content": "Thu, 5th Nov 2026 (Yesterday)\nEnvision has deployed an integrated 800-volt direct current power system at its Galaxy AI data centre campus in Ulanqab, China, in what it describes as the first commercial installation of its kind at a large-scale AI data centre.\n\nThe installation is now supplying live computing workloads from grid input to computing loads. It links medium-voltage alternating current input with an 800V direct current architecture used across the data centre power chain.\n\nThe move comes as AI data centre operators seek to deliver more power to each rack while managing sharp swings in demand. Envision says the 800V DC design is intended to support higher-density AI racks in the same space while reducing cabling and copper use.\n\nAt the Ulanqab site, the system combines solid-state transformers, battery energy storage and equipment that adjusts direct-current voltage for computing hardware. Envision says its control platform coordinates the transformers and batteries in real time to match supply with computing demand and handle sudden load swings.\n\nThe deployment has three core elements: conversion from 10 kV medium voltage to an 800V DC bus, battery storage for short-term support and backup, and rapid coordination between conversion equipment and storage to absorb fluctuations in GPU demand locally.\n\nThe architecture reflects a broader shift in AI infrastructure. As computing clusters become denser and more power-hungry, operators are looking for ways to simplify electrical systems and reduce losses across conversion stages.\n\nEnvision says the direct-current approach can improve power conversion efficiency and reduce the physical footprint of equipment. It may also lower infrastructure costs by cutting the amount of cabling and copper required.\n\n### Commercial reference\n\nEnvision has positioned the Ulanqab deployment as a commercial reference point for wider adoption of 800V DC infrastructure in AI data centres. Interest in the model has grown as operators seek to fit more compute into fixed footprints while keeping power delivery stable.\n\nThe Galaxy campus began operations in August 2026. Envision says the site has a planned capacity of 3GW and is designed to support up to one million AI accelerators operating in parallel when fully built out.\n\nMore than 80% of the campus power is planned to come from direct renewable electricity connections. That links the data centre project to Envision's broader strategy of combining electricity supply, storage and computing demand in a single system.\n\n\"AI data centers need power systems that coordinate renewable energy, energy storage, and the grid to meet computing demand,\" said Kevin Huang, Senior Vice President of Envision Energy and President of Energy Storage and AIDC Power Systems.\n\nHe added: \"Our integrated 800V DC system is now powering live computing workloads, demonstrating an end-to-end architecture that connects renewable energy supply with computing demand. This is a critical step in turning power-compute coordination from a strategic vision into an operational reality.\"\n\n### Scale plans\n\nThe Ulanqab deployment also sits within a broader expansion plan for AI data centre capacity in desert regions. Envision says its Mission Gobi initiative targets 5GW of green AI data centre capacity worldwide by 2030.\n\nThat ambition points to a growing intersection between energy infrastructure and data centre development, particularly in regions with large renewable power resources. It also underlines how data centre groups are increasingly treating electricity architecture as a central part of AI deployment rather than a supporting utility function.\n\nEnvision operates across energy systems, storage and batteries, with activities spanning China, Europe, the Middle East, Asia-Pacific and the Americas. In the Ulanqab project, it is using that broader energy portfolio to address a core challenge for AI operators: balancing fast-changing compute loads with stable, efficient power delivery.\n\nThe system now running at the Galaxy campus offers an early real-world example of that approach at commercial scale, with live workloads already being supplied through the 800V DC design.",
+      "content_url": "https://datacenternews.asia/story/envision-launches-800v-dc-power-system-for-ai-centre"
+    },
+    {
+      "id": "2026-11-06-327fa3",
+      "title": "Mega construction boom stirs RBA rate worries",
+      "summary": "A surge in data centre, road and energy projects is set to drive Australia’s construction pipeline to more than twice the peak of the mining boom, raising fresh concerns about the economy’s capacity…",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "construction",
+        "power",
+        "investment",
+        "regulation"
+      ],
+      "published_at": "2026-11-04T11:30:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/policy/economy/mega-construction-boom-stirs-rba-rate-worries-20261104-p61b7r",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "大规模建设热潮引发RBA利率担忧",
+      "content": "A surge in data centre, road and energy projects is set to drive Australia’s construction pipeline to more than twice the peak of the mining boom, raising fresh concerns about the economy’s capacity to absorb the work and adding pressure on Treasurer Jim Chalmers to scale back infrastructure spending.\n\nDeloitte Access Economics estimated the value of projects under construction could approach a record $870 billion in 2027, underscoring the Reserve Bank of Australia’s concern that a burgeoning pipeline of infrastructure builds was adding to the economy’s inflation challenge.\n\nLoading...",
+      "content_url": "https://www.afr.com/policy/economy/mega-construction-boom-stirs-rba-rate-worries-20261104-p61b7r"
+    }
+  ]
+}
