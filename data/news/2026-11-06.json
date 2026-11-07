@@ -2,84 +2,13 @@
   "date": "2026-11-06",
   "generated_at": "2026-11-06T07:59:41Z",
   "hot": [
+    "2026-11-06-5e1a97",
     "2026-11-06-f975d8",
     "2026-11-06-acf4ae",
-    "2026-11-06-38c629",
-    "2026-11-06-5e1a97",
-    "2026-11-06-a9e3c1"
+    "2026-11-06-e339e4",
+    "2026-11-06-38c629"
   ],
   "stories": [
-    {
-      "id": "2026-11-06-f975d8",
-      "title": "Taiwan stocks in steepest-ever fall, South Korea halts trading amid AI rout",
-      "summary": "Taiwan equities booked their worst week since 2001 and South Korean shares slumped on Friday, as investors dumped chipmakers, accelerating a technology sell-off driven by concerns over stricter regulation and fading artificial intelligence (AI) optimism.",
-      "why_it_matters": "",
-      "score": 70,
-      "heat": 3,
-      "regions": [
-        "korea",
-        "global"
-      ],
-      "topics": [
-        "ai",
-        "chips",
-        "market rout",
-        "investment"
-      ],
-      "published_at": "2026-11-06T06:21:25Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/business/markets/taiwan-stocks-in-steepest-ever-fall-south-korea-halts-trading-amid-ai-rout",
-          "type": "rss"
-        },
-        {
-          "name": "Nikkei Asia — data center search",
-          "url": "https://asia.nikkei.com/business/markets/taiwan-stocks-in-steepest-ever-fall-south-korea-halts-trading-amid-ai-rout",
-          "type": "html-list"
-        },
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/824843",
-          "type": "html-list"
-        }
-      ],
-      "title_zh": "台湾股市创历史最大跌幅，韩国暂停交易，AI板块暴跌",
-      "content": "TOKYO -- Asian stock markets tied to the artificial intelligence boom plummeted on Friday morning following a tech sell-off on Wall Street overnight, as investors fretted about possible delays in the construction of data centers following a sweeping Democratic victory in the U.S. midterm elections.",
-      "content_url": "https://asia.nikkei.com/business/markets/taiwan-stocks-in-steepest-ever-fall-south-korea-halts-trading-amid-ai-rout"
-    },
-    {
-      "id": "2026-11-06-8b98ca",
-      "title": "America's data centre pain is Australia's gain, says Labor",
-      "summary": "Australia's Labor government has positioned the country to benefit from constraints on US data center development, citing more favorable regulatory and community conditions for infrastructure investment. The statement frames Australia as an attractive alternative destination for global digital capital seeking stable expansion pathways.",
-      "why_it_matters": "The explicit policy positioning intensifies competition among English-speaking markets for hyperscale investment, with Australia's energy grid and land availability becoming selling points against American congestion. However, the rhetoric risks overstating Australia's readiness, as the country faces its own power constraints and community opposition in key markets like Sydney, potentially creating expectation gaps if projects encounter similar delays.",
-      "score": 80,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "capacity",
-        "investment",
-        "hyperscale",
-        "power"
-      ],
-      "published_at": "2026-11-06T07:04:39Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/politics/federal/america-s-data-centre-pain-is-australia-s-gain-says-labor-20261106-p61bxa",
-          "type": "html-list"
-        }
-      ],
-      "title_zh": "工党称，美国数据中心的痛苦就是澳大利亚的收获",
-      "summary_zh": "澳大利亚工党政府已将该国定位为从美国 data center 发展限制中受益，理由是基础设施投资的监管和社区条件更为有利。该声明将澳大利亚框架为全球数字资本寻求稳定扩张路径的有吸引力的替代目的地。",
-      "why_zh": "这种明确的政策定位加剧了英语市场之间对 hyperscale 投资的竞争，澳大利亚的电网和土地可用性成为相对于美国拥堵的卖点。然而，这种言论可能高估了澳大利亚的准备程度，因为该国在悉尼等关键市场面临自身的电力限制和社区反对，如果项目遭遇类似延迟，可能产生预期差距。",
-      "content": "The collapse in support for data centres in the United States presents a lucrative opportunity for Australia, given that proposed new guidelines will stop tech companies from riding roughshod over community concerns as they have in America, says the federal government.\n\nWhile yet to be finalised, the guidelines could include vetoing controversial projects that have already been approved.\n\nLoading...",
-      "content_url": "https://www.afr.com/politics/federal/america-s-data-centre-pain-is-australia-s-gain-says-labor-20261106-p61bxa"
-    },
     {
       "id": "2026-11-06-208cd2",
       "title": "Democratic surge sparks $3.5trn AI rout, hammering Atlassian and Iren",
@@ -157,38 +86,6 @@
       "content_url": "https://www.afr.com/companies/infrastructure/iren-confirms-delay-at-texas-data-centre-for-microsoft-narrows-losses-20261106-p61bse"
     },
     {
-      "id": "2026-11-06-0756cf",
-      "title": "ING said to be seller of US$500 mil data centre loan portfolio",
-      "summary": "(Nov 6): Dutch bank ING is putting up for sale a roughly US$500 million portfolio of data centre loans all at once, according to people familiar with the matter. The rare auction comes just days after a Democratic sweep of the US midterm elections raised doubts about the future of many of the projects.",
-      "why_it_matters": "",
-      "score": 55,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [
-        "data-center",
-        "investment",
-        "finance",
-        "m-a"
-      ],
-      "published_at": "2026-11-06T03:57:44Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/824796",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "ING"
-      ],
-      "title_zh": "ING据称正在出售5亿美元data centre贷款组合",
-      "content": "The bank is taking offers for a dozen loans via a so-called bids-wanted-in-competition process, the people added, asking not to be identified because the information is private. The loans for sale include a US$25 million slice backing a massive data centre site that’s part of OpenAI, SoftBank Group Corp and Oracle Corp’s joint Stargate project in New Mexico. It’s the location where Oracle sent the developer a notice citing force majeure.\n\nA representative for ING declined to comment.\n\nIt is also looking to offload debt tied to operators such as Vantage Data Centers and CyrusOne, said the people. Bids on the loans are due Nov 19 and must be at least US$10 million in size, they added.\n\nThe auction, among the first of its kind that exclusively contains data centre debt, underscores the market pessimism that has erupted over the AI buildout in the wake of the US elections. In Texas, where many developers have a presence, the Democratic governor-elect has called for an immediate moratorium on construction for the projects.\n\nThe Nasdaq 100 closed 6.4% lower Thursday, wiping out US$2.3 trillion in value and extending weeks of concerns from Wall Street investors who have been retreating from the AI trade. In the high-yield market, junk bonds tied to data centre developers or projects, including CoreWeave Inc and Galaxy Digital Inc, saw some of the biggest declines.\n\nWall Street is broadly contending with the risk that the credit market is nearing the limit for how much AI debt it can absorb amid questions of whether revenue can justify the breathtaking spending.\n\nGoldman Sachs Group Inc and Apollo Global Management Inc are looking to syndicate portions of the largest chip financing on record tied to SpaceX, *Bloomberg* reported this week. They committed to the deal in October before pricing it, and now face the prospect of the market turning against them.\n\n*Uploaded by Liza Shireen Koshy*",
-      "content_url": "https://theedgemalaysia.com/node/824796"
-    },
-    {
       "id": "2026-11-06-38c629",
       "title": "Asia's AI supply chain and US data centers set to weather 'blue wave'",
       "summary": "Market analysts predict that Asia's AI supply chain and US data center sectors will remain resilient despite a projected Democratic electoral victory wave. The assessment reflects bipartisan consensus on technology competitiveness and infrastructure investment that transcends partisan political shifts.",
@@ -222,7 +119,8 @@
       "summary_zh": "市场分析师预测，尽管预计会出现民主党选举胜利浪潮，但亚洲的 AI 供应链和美国 data center 行业将保持韧性。该评估反映了超越党派政治转变的技术竞争力和基础设施投资的两党共识。",
       "why_zh": "投资者和运营商可以降低对美国政治波动的对冲成本，而 APAC 供应商获得信心承诺长期资本进行服务于美国市场的产能扩张。基础设施投资与选举周期的脱钩为跨境供应链提供了规划确定性，尽管个别州级监管环境仍可能随当地政治结果而变化。",
       "content": "Gina Hinojosa became the first Democrat to win a Texas gubernatorial election since 1990, after a campaign that focused heavily on outrage over data centers. (Nikkei montage/Source photos by Reuters and AP)\n\nTechnology\n# Asia's AI supply chain and US data centers set to weather 'blue wave'\n\nDemocrats' midterm mandate may check but not stop infrastructure buildout: analysts\n\nYIFAN YU, KIM JAEWON, CHENG TING-FANG and TSUBASA SURUGA\nNovember 6, 2026 12:28 JST",
-      "content_url": "https://asia.nikkei.com/business/technology/asia-s-ai-supply-chain-and-us-data-centers-set-to-weather-blue-wave"
+      "content_url": "https://asia.nikkei.com/business/technology/asia-s-ai-supply-chain-and-us-data-centers-set-to-weather-blue-wave",
+      "published_precision": "day"
     },
     {
       "id": "2026-11-06-fa0632",
@@ -377,7 +275,10 @@
       ],
       "title_zh": "台湾芯片制造商迎来有记忆以来最辉煌时刻",
       "content": "Hi everyone from Cheng Ting-Fang, Annie, in Taipei!\n\nThis week, I had the chance to meet top executives from two Taiwanese memory chipmakers, Winbond Electronics and Macronix International, at what could be the brightest moment in their companies' histories amid an unprecedented global memory chip shortage. Business has rarely been better, with record earnings being reported, and gross margins of more than 70% for Macronix and Winbond in the July-September quarter.\n\nWhile memory giants Samsung Electronics, SK Hynix, Micron, Kioxia, and China's ChangXin Memory Technologies compete fiercely for market share and manufacturing scale in the high-end AI memory sector, Winbond and Macronix have carved out their own niches in customized products and specialized needs. But despite blockbuster results similar to their larger rivals, both companies' share prices have nearly halved from their June peaks amid fears of oversupply and doubts about the AI boom's sustainability.\n\nMacronix founding chairman Miin Wu said the company would offset uncertainty by focusing more on specialized memory chips for industrial, automotive, space and medical applications markets that require lengthy qualification processes and are seeing growing demand. The company also needed to scale back supplies to the gaming console market, with makers such as Nintendo struggling to absorb soaring memory chip prices. Yet even with this sharper focus, Macronix is finding it difficult to keep up with customer demand.\n\n\"Every day, customers are chasing us or visiting our company, but our capacity is fully booked, and we can't expand it anytime soon,\" said Wu, a pioneer of Taiwan's semiconductor industry who founded Macronix in 1989. \"Any memory chipmaker that did not shut down over so much market turmoil can enjoy and earn a lot of money now.\"\n\nSome equipment the company has ordered will not arrive until next year, prompting Wu to take the unusual step of personally joining several meetings with equipment suppliers to push for faster deliveries.\n\n\"The equipment vendors think I'm there to yell at them, but instead, I'm there to beg, beg, beg: 'Please, could you shorten the lead times for the machines?'\" Wu said.\n\nFor Winbond, demand for specialized NOR flash memory, a type of chip used to store code, has been particularly strong. \"A single Nvidia Vera Rubin AI data center rack needs some 600 of these chips, compared with just a handful in traditional servers,\" Winbond President Chen Pei-Ming said.\n\nThe company also produces legacy DRAM memory chips and has found that its price quotes are sometimes surprisingly low compared with those of competitors, reflecting how tight the market has become.\n\nHowever, like Macronix, Winbond faces the major headache of securing production tools and building new facilities fast enough to meet surging demand. Chen said lead times for some equipment, including lithography and metrology tools, now exceed two years. Competing with much larger chipmakers such as TSMC for these machines, Winbond has had to place orders well in advance to ensure timely deliveries.\n\n\"Construction of our new plant in Kaohsiung will begin in December,\" Winbond's Chen said, referring to the southern Taiwanese city. \"However, as it is an entirely new facility and cleanroom, we expect only very limited capacity to come online in 2029, with a meaningful production ramp-up not until 2030, so you see how much time is needed to boost capacity now!\"\n\n## **Butterfly effects**\n\nChina's export controls on tungsten, imposed in early 2025, are sending far-reaching but little-known impacts rippling through the AI chip supply chain. I reported exclusively this week that supplies of tiny microdrills essential for manufacturing printed circuit boards and chip substrates, two of the most sought-after components for building AI infrastructure, are being disrupted.\n\nNeedle-like microdrills are made mainly of tungsten carbide, a high-performance material supplied by leading players in Japan, Europe and the U.S. However, these suppliers are vulnerable in their exposure to China's dominance of global tungsten production, which accounts for nearly 80% of the world's output.\n\nThe export controls have not only driven prices of tungsten carbide materials outside China up severalfold since last year, but have also fueled the rise of Chinese microdrill makers such as Guangdong Dtech Technology, which reported record earnings and benefits from ready access to a cost-competitive domestic supply chain.\n\n## **Nidec's rise and fall**\n\nJapan's Nidec, renowned for making motors for everything from wind turbines and electric vehicles to robots and machine tools, is embroiled in a corporate governance crisis. Nidec was once one of Japan's most celebrated companies under outspoken founding chairman and CEO Shigenobu Nagamori, who has stepped down amid accounting concerns. The motor maker has been rocked by financial irregularities since last year, raising the risk of a delisting from the Tokyo Stock Exchange.\n\nThe Nidec saga underscores the need for a broader overhaul of Japan's corporate culture, where employees often find it difficult to challenge senior executives or speak up against their decisions, Nikkei Asia's **Tsubasa Suruga** and **Mitsuru Obe** report. The crisis also exposes the risks of relying on a single dominant CEO and highlights the need for stronger independent board oversight, more diverse boards and more vocal shareholders across corporate Japan.\n\nDespite governance turmoil, Nidec maintains strong tech advantages in hard disk drive motors, precision machine tools and AI data-center cooling systems.\n\n## **Nvidia's China clampdown**\n\nChinese tech companies are finding it increasingly difficult to access the powerful Nvidia chips used to train AI.\n\nThe U.S. semiconductor giant is ordering its data center partners to reduce their exposure to Chinese customers, the FT's **Zijing Wu, Demetri Sevastopulo** and **Eleanor Olcott** report.\n\nIt has told cloud computing clients that they must now sell at least 51% of their services to non-Chinese companies, according to five people with knowledge of the matter. There had been no previous restrictions.\n\nMany Chinese groups have relied on overseas leases for advanced AI tasks, including model training. Nvidia's most advanced chips are not allowed to be sold in China due to U.S. export controls.\n\nNvidia implemented the new requirement over the summer in a pre-emptive effort to reduce the kind of flak it routinely receives from U.S. lawmakers and other critics of its approach to China, according to two people familiar with the matter.\n\nCloud providers are struggling to comply with the new requirements because it is \"difficult to find enough non-Chinese clients outside the U.S.,\" said one Singapore-based group. \"If strictly implemented, it will definitely hurt business.\"\n\n## **AI debt is ballooning**\n\nOff-balance-sheet debt among U.S. tech giants Alphabet, Microsoft, Amazon, Meta and Oracle nearly doubled in just a few months to reach $3.2 trillion by the end of September, according to a Nikkei data analysis by **Kohei Yamada**.\n\nThese hidden debts include outstanding purchase commitments, which account for roughly 60% of the total, and leases yet to begin, which make up the remaining 40%. The $3.2 trillion already equals about 80% of the companies' combined assets and could soon exceed them if the current pace continues.\n\nThe staggering figures highlight the risks behind the massive AI infrastructure gamble. Investors are increasingly concerned about tech giants' surging investment and concentrated credit risks. If returns fall short of expectations, confidence in these companies could falter, sending shockwaves through the tech sector and broader financial system.\n\n## Suggested reads\n\n1\\. Foxconn chief downplays AI bubble concerns, sees strong 2027 growth (Nikkei Asia)\n\n2\\. Oracle cancels $7bn Tencent AI deal under Trump pressure (FT)\n\n3\\. North Korea's patient cyber operations pay off in crypto (Nikkei Asia)\n\n4\\. North Korean hackers expected to take months to launder stolen Binance billions (FT)\n\n5\\. How North Korea became a hacking superpower (FT)\n\n6\\. Japan wants US tech companies to share undisclosed software flaws as risks mount (Nikkei Asia)\n\n7\\. Apple's new CEO delivers first earnings as sales hit record (Nikkei Asia)\n\n8\\. China halts listings in bid to bolster struggling markets (FT)\n\n9\\. Tencent says its Hy4 joins 'top-tier' of open-source AI models (Nikkei Asia)\n\n10\\. US critical minerals push delivers a gold rush - for Washington lobbyists (FT)\n\n## Podcast: Tech Latest\n\n### Why PC makers are turning back to China\n\nWelcome to the Tech Latest podcast. Every Tuesday, we deliver the hottest trends and news from the tech sector.\n\nIn this episode, host Chris Nuttall speaks with Taiwan tech correspondents Annie Cheng Ting-Fang and Lauly Li about why some PC makers are shifting production back to China after years of diversification. They discuss how AI-driven shortages are squeezing supplies of key components, why printed circuit boards and chip substrates have become critical bottlenecks, and what their award-winning reporting reveals about China's growing semiconductor capabilities.\n\nFind us on Apple Podcasts | Spotify | YouTube | YouTube Music | Amazon Music | Voicy\n\n*For more great stories like this delivered to your inbox every week, sign up to our #techAsia newsletter. Current subscribers can update their newsletter preferences by clicking here.*",
-      "content_url": "https://asia.nikkei.com/techasia/taiwan-s-chipmakers-shine-brightest-in-living-memory"
+      "content_url": "https://asia.nikkei.com/techasia/taiwan-s-chipmakers-shine-brightest-in-living-memory",
+      "companies": [
+        "TSMC"
+      ]
     },
     {
       "id": "2026-11-06-dc5a9a",
@@ -408,6 +309,38 @@
       "title_zh": "中国称贸易壁垒阻碍技术进口，助推其顺差",
       "content": "Trade\n# China says trade barriers block tech imports, fueling its surplus\n\nAs US midterms raise policy questions, Beijing defends own trade practices at import fair\n\nTesla products appeared at the China International Import Expo as part of an exhibition by the Lingang pilot free trade zone, home to the U.S. EV maker’s Shanghai factory (Photo by Suzuki Wataru)\n\nWATARU SUZUKI\n\nNovember 5, 2026 16:19 JST\n\nSHANGHAI -- A top Chinese official on Thursday said China is eager to import high-tech products, but trade barriers have prevented it from doing so, pushing back against criticism of the country's large trade surplus, as he presided over a trade fair.",
       "content_url": "https://asia.nikkei.com/economy/trade/china-says-trade-barriers-block-tech-imports-fueling-its-surplus"
+    },
+    {
+      "id": "2026-11-06-8b98ca",
+      "title": "America's data centre pain is Australia's gain, says Labor",
+      "summary": "Australia's Labor government has positioned the country to benefit from constraints on US data center development, citing more favorable regulatory and community conditions for infrastructure investment. The statement frames Australia as an attractive alternative destination for global digital capital seeking stable expansion pathways.",
+      "why_it_matters": "The explicit policy positioning intensifies competition among English-speaking markets for hyperscale investment, with Australia's energy grid and land availability becoming selling points against American congestion. However, the rhetoric risks overstating Australia's readiness, as the country faces its own power constraints and community opposition in key markets like Sydney, potentially creating expectation gaps if projects encounter similar delays.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "capacity",
+        "investment",
+        "hyperscale",
+        "power"
+      ],
+      "published_at": "2026-11-06T07:04:39Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/politics/federal/america-s-data-centre-pain-is-australia-s-gain-says-labor-20261106-p61bxa",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "工党称，美国数据中心的痛苦就是澳大利亚的收获",
+      "summary_zh": "澳大利亚工党政府已将该国定位为从美国 data center 发展限制中受益，理由是基础设施投资的监管和社区条件更为有利。该声明将澳大利亚框架为全球数字资本寻求稳定扩张路径的有吸引力的替代目的地。",
+      "why_zh": "这种明确的政策定位加剧了英语市场之间对 hyperscale 投资的竞争，澳大利亚的电网和土地可用性成为相对于美国拥堵的卖点。然而，这种言论可能高估了澳大利亚的准备程度，因为该国在悉尼等关键市场面临自身的电力限制和社区反对，如果项目遭遇类似延迟，可能产生预期差距。",
+      "content": "The collapse in support for data centres in the United States presents a lucrative opportunity for Australia, given that proposed new guidelines will stop tech companies from riding roughshod over community concerns as they have in America, says the federal government.\n\nWhile yet to be finalised, the guidelines could include vetoing controversial projects that have already been approved.\n\nLoading...",
+      "content_url": "https://www.afr.com/politics/federal/america-s-data-centre-pain-is-australia-s-gain-says-labor-20261106-p61bxa",
+      "published_precision": "day"
     },
     {
       "id": "2026-11-06-0d98cb",
@@ -444,6 +377,47 @@
       "content_url": "https://w.media/johor-government-dayone-pdt-and-ranhill-saj-to-explore-supplying-excess-treated-water-to-the-public/"
     },
     {
+      "id": "2026-11-06-f975d8",
+      "title": "Taiwan stocks in steepest-ever fall, South Korea halts trading amid AI rout",
+      "summary": "Taiwan equities booked their worst week since 2001 and South Korean shares slumped on Friday, as investors dumped chipmakers, accelerating a technology sell-off driven by concerns over stricter regulation and fading artificial intelligence (AI) optimism.",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 3,
+      "regions": [
+        "korea",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "market rout",
+        "investment"
+      ],
+      "published_at": "2026-11-06T06:21:25Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/markets/taiwan-stocks-in-steepest-ever-fall-south-korea-halts-trading-amid-ai-rout",
+          "type": "rss"
+        },
+        {
+          "name": "Nikkei Asia — data center search",
+          "url": "https://asia.nikkei.com/business/markets/taiwan-stocks-in-steepest-ever-fall-south-korea-halts-trading-amid-ai-rout",
+          "type": "html-list"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824843",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "台湾股市创历史最大跌幅，韩国暂停交易，AI板块暴跌",
+      "content": "TOKYO -- Asian stock markets tied to the artificial intelligence boom plummeted on Friday morning following a tech sell-off on Wall Street overnight, as investors fretted about possible delays in the construction of data centers following a sweeping Democratic victory in the U.S. midterm elections.",
+      "content_url": "https://asia.nikkei.com/business/markets/taiwan-stocks-in-steepest-ever-fall-south-korea-halts-trading-amid-ai-rout",
+      "published_precision": "day"
+    },
+    {
       "id": "2026-11-06-65b76b",
       "title": "Green data centre market to hit USD $197.02bn by 2031",
       "summary": "Rising demand for AI and cloud services is pushing operators to spend on lower-emission facilities as the market heads towards USD $197.02 billion by 2031.",
@@ -478,7 +452,7 @@
       "summary": "Zhi Sheng Group Holdings' Thai subsidiary HYDC1 has secured a seven-year $590 million loan from a Thai bank to construct a hyperscale AI data center in Thailand's Eastern Economic Corridor. The facility represents one of the largest dedicated AI infrastructure financing deals in Southeast Asia.",
       "why_it_matters": "Thai banks' willingness to underwrite large-scale AI data center debt signals maturing local financial market confidence in digital infrastructure asset class, reducing reliance on international capital. The Eastern Economic Corridor's concentration of AI-focused facilities is creating a specialized ecosystem that may attract adjacent investments in fiber networks and renewable energy, though power grid constraints could emerge as a collective bottleneck.",
       "score": 80,
-      "heat": 2,
+      "heat": 3,
       "regions": [
         "southeast-asia"
       ],
@@ -500,11 +474,17 @@
           "name": "ET Datacenters",
           "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/thai-ai-data-center-secures-us590-million-loan/135598645",
           "type": "rss"
+        },
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/zhi-sheng-lands-usd-590-million-loan-for-thailand-ai-hub",
+          "type": "rss"
         }
       ],
       "companies": [
         "Zhi Sheng Group Holdings",
-        "Haoyang Data Centre 1"
+        "Haoyang Data Centre 1",
+        "Zhi Sheng"
       ],
       "title_zh": "Thai AI data center 获得 5.9 亿美元贷款用于建设",
       "summary_zh": "Zhi Sheng Group Holdings 的泰国子公司 HYDC1 已从一家泰国银行获得一笔七年期 5.9 亿美元的贷款，用于在泰国 Eastern Economic Corridor 建设 hyperscale AI data center。该设施代表了东南亚最大的专用 AI 基础设施融资交易之一。",
@@ -579,11 +559,44 @@
         }
       ],
       "companies": [
-        "Digital Edge DC"
+        "Digital Edge DC",
+        "Digital Edge"
       ],
       "title_zh": "用水效率与AI：冷却选择如何塑造数据中心用水",
       "content": "The growth of AI and other high-density workloads is putting greater focus on how data centers manage energy, water and cooling. Water and energy performance increasingly influence data center selection and sustainability reporting. Cooling designs play a central role in moving heat out of the building, and that requires a balance between electricity and water use. That balance shapes a facility’s PUE and WUE figures. This article covers what those metrics measure, how each cooling technology affects them, and how to compare data centers in context.\n\n## What is water usage effectiveness?\n\nWater usage effectiveness, or WUE, expresses how much water a facility uses for every unit of energy delivered to IT equipment. It is written in liters per kilowatt-hour, so a WUE of 1.35 means roughly 1.35 liters of water consumed for each kilowatt-hour of IT load. A lower WUE indicates less on-site water consumption per unit of IT energy, although the cooling design and water source remain important context.\n\nThe metric covers water consumed on site, which in practice means water lost to evaporation in cooling towers or evaporative systems, plus smaller volumes used for humidity control and water treatment. It is measured over a year rather than at a moment, because evaporation varies enormously with weather. As with PUE, the figure describes a facility’s design and operating choices rather than its absolute environmental impact, so the source of the water matters alongside the volume.\n\n## How is WUE different from PUE?\n\nPUE measures energy overhead: total facility energy divided by IT energy. WUE measures water consumption against the same IT energy base. They share a denominator, which is what makes them comparable, and they often move in opposite directions.\n\nEvaporative heat rejection can reduce mechanical refrigeration and improve PUE while increasing water consumption. Mechanical cooling with a closed water loop may use less water but require more energy. The appropriate balance depends on climate, electricity supply and local water availability. PUE and WUE are therefore most useful when reviewed together with the underlying cooling design. PUE remains the more widely published of the two, partly because it applies to every facility while WUE applies only to water-cooled sites. Our article on questions ESG leaders should ask covers the wider set of metrics worth requesting.\n\n## How do cooling technologies balance water and energy use?\n\nHeat rejection methods sit on a spectrum from no water to high water consumption. Working from the dry end:\n\n- **Air-cooled chillers and direct expansion systems** reject heat to the air through refrigerant and fans, consuming essentially no water. Their energy needs may increase, particularly in hot climates, so PUE rises as ambient temperature does.\n- **Closed-loop and hybrid cooling towers** circulate water that is cooled without being evaporated, or evaporate only during hot periods. Water use is modest, balancing predictable water use with energy performance.\n- **Open cooling towers** evaporate water continuously to reject heat. This is energy-efficient and widely used, and it is the main source of water consumption in conventional data center designs.\n- **Adiabatic and evaporative systems** pre-cool incoming air by evaporating water, lowering energy use substantially in dry climates and much less so in humid ones.\n\nAir-side economization, often called free cooling, cuts across this spectrum. Where the outside air is cool enough for enough of the year, it reduces both energy and water use, which is why cooler markets have an inherent advantage. In Digital Edge’s South Korea portfolio, the SEL5 development in Ansan pairs a chiller plant with integrated free cooling, targeting an annualized PUE below 1.25.\n\n## How can cooling design respond to local climate?\n\nCooling performance depends on matching heat-rejection technology to local temperature and humidity. NARRA1 in Manila, the Philippines lists a designed annual PUE of 1.24, a designed peak PUE of 1.35, and a designed WUE of 1.082; EDGE2 in Jakarta, Indonesia lists a designed annual PUE of 1.25 and the same designed WUE. For context, the Uptime Institute’s global survey has placed the industry average PUE at around 1.55. Manila and Jakarta are both close to the hardest case for evaporative cooling, since humid air absorbs less additional moisture, which is what makes these design figures worth noting. Our Philippines data centers and Indonesia data centers pages cover both facilities in more detail.\n\n## Does liquid cooling use more or less water?\n\nLiquid cooling does not determine water consumption by itself. Direct-to-chip liquid cooling and immersion cooling move heat away from the processor more efficiently than air does, but they do not determine how that heat leaves the building. A liquid-cooled hall can reject heat through a dry cooler, a closed loop, or an evaporative tower, and the water consumption follows that choice rather than the liquid loop itself.\n\nThis distinction is important for high-density and AI-ready environments. What liquid cooling does change is the temperature at which heat is available. Because it captures heat in a warmer, more concentrated form than air cooling, it widens the range of conditions in which heat can be rejected without mechanical refrigeration, which tends to help both figures. The CGK Campus in Indonesia is designed with direct-to-chip liquid cooling and recycled water systems, targeting an annualized PUE of 1.25. In Thailand, the BKK Campus uses hybrid closed-loop cooling towers specifically to reduce water consumption. Both are liquid-capable designs that handle heat rejection differently, which is the point.\n\n## Why does a WUE figure need its boundary stated?\n\nBecause the same number can describe very different situations, and the qualifiers carry most of the meaning. Three of them matter most.\n\nThe first is scope. WUE applies only to facilities that use water-based cooling, so an air-cooled site is not comparable and is normally excluded rather than reported as zero.\n\nThe second is whether the figure is a design target or a measured result. Digital Edge’s facility specifications label theirs explicitly as designed PUE and designed WUE, which is the distinction worth looking for: a design figure describes what the engineering is built to achieve under defined conditions, while an operating figure describes what a year of real weather and real load produced.\n\nThe third is the water source. A facility consuming recycled or non-potable water places very different pressure on local supply than one drawing the same volume from municipal drinking water. At the Navi Mumbai campus, liquid cooling is supported by 10 million liters per day of recycled greywater, with a target WUE below 1.75.\n\n## How should WUE be assessed for AI and high-density workloads?\n\nAI and other high-density workloads increase the importance of understanding both facility efficiency and total resource use. Consistent reporting boundaries help customers compare different facilities and cooling designs.\n\nThe main distinction is between on-site and off-site water. WUE, as described above, counts water consumed at the facility. It does not count water used to generate the electricity the facility draws, which can be significant on grids where thermoelectric generation dominates, since those plants consume water for their own cooling. Some analyses report that second figure, often called source water, alongside or instead of site water. Stating the boundary clearly helps ensure meaningful comparisons.\n\nScale is the other factor. AI workloads raise power density, so a hall running AI equipment draws more energy and, depending on how heat is rejected, can consume more water in absolute terms even where the ratios stay flat or improve. Because efficiency metrics are ratios, they should be reviewed alongside total consumption and IT load. Location also matters: climate, water availability and electricity supply influence the most appropriate cooling strategy for each facility.\n\nTogether, these measures help customers understand how a facility manages water and energy under its specific operating conditions.\n\n## Conclusion\n\nWUE is most useful when considered alongside PUE, cooling design, climate and water source. The appropriate balance between water and energy use varies by location and operating requirement.\n\nFor teams evaluating facilities or gathering figures for their own reporting, they should ask four questions: which heat rejection method the site uses, whether the figures are designed or measured, what the reporting excludes, and where the water comes from. These questions enable more informed and consistent comparisons.\n\n## Talk to Digital Edge\n\nDigital Edge publishes efficiency and water metrics across its platform in our ESG reporting, covering facilities from Manila to Incheon — talk to our team about the cooling design and reported figures at any site in our colocation portfolio.",
       "content_url": "https://www.digitaledgedc.com/resources/sustainability/water-usage-effectiveness-and-ai-water-use/"
+    },
+    {
+      "id": "2026-11-06-0756cf",
+      "title": "ING said to be seller of US$500 mil data centre loan portfolio",
+      "summary": "(Nov 6): Dutch bank ING is putting up for sale a roughly US$500 million portfolio of data centre loans all at once, according to people familiar with the matter. The rare auction comes just days after a Democratic sweep of the US midterm elections raised doubts about the future of many of the projects.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "data-center",
+        "investment",
+        "finance",
+        "m-a"
+      ],
+      "published_at": "2026-11-06T03:57:44Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824796",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "ING"
+      ],
+      "title_zh": "ING据称正在出售5亿美元data centre贷款组合",
+      "content": "The bank is taking offers for a dozen loans via a so-called bids-wanted-in-competition process, the people added, asking not to be identified because the information is private. The loans for sale include a US$25 million slice backing a massive data centre site that’s part of OpenAI, SoftBank Group Corp and Oracle Corp’s joint Stargate project in New Mexico. It’s the location where Oracle sent the developer a notice citing force majeure.\n\nA representative for ING declined to comment.\n\nIt is also looking to offload debt tied to operators such as Vantage Data Centers and CyrusOne, said the people. Bids on the loans are due Nov 19 and must be at least US$10 million in size, they added.\n\nThe auction, among the first of its kind that exclusively contains data centre debt, underscores the market pessimism that has erupted over the AI buildout in the wake of the US elections. In Texas, where many developers have a presence, the Democratic governor-elect has called for an immediate moratorium on construction for the projects.\n\nThe Nasdaq 100 closed 6.4% lower Thursday, wiping out US$2.3 trillion in value and extending weeks of concerns from Wall Street investors who have been retreating from the AI trade. In the high-yield market, junk bonds tied to data centre developers or projects, including CoreWeave Inc and Galaxy Digital Inc, saw some of the biggest declines.\n\nWall Street is broadly contending with the risk that the credit market is nearing the limit for how much AI debt it can absorb amid questions of whether revenue can justify the breathtaking spending.\n\nGoldman Sachs Group Inc and Apollo Global Management Inc are looking to syndicate portions of the largest chip financing on record tied to SpaceX, *Bloomberg* reported this week. They committed to the deal in October before pricing it, and now face the prospect of the market turning against them.\n\n*Uploaded by Liza Shireen Koshy*",
+      "content_url": "https://theedgemalaysia.com/node/824796"
     },
     {
       "id": "2026-11-06-a9e3c1",
@@ -616,7 +629,8 @@
         }
       ],
       "companies": [
-        "Sunway Construction Group"
+        "Sunway Construction Group",
+        "Sunway Construction"
       ],
       "title_zh": "Sunway Construction 中标 6.57 亿美元 Selangor 和 Johor data center 项目",
       "summary_zh": "Sunway Construction Group 赢得了总价值 17.4 亿令吉（4.3 亿美元）的合同以及额外价值 2.27 亿美元的工作，为一家未具名的国际 hyperscaler 在 Selangor 和 Johor 建设 data center。这些项目涵盖结构建设、配套基础设施以及机械、电气和管道工程。",
@@ -687,6 +701,35 @@
       "title_zh": "VAST Data称14家客户承诺投入100亿美元",
       "content": "Fri, 6th Nov 2026 (Today)\nVAST Data says 14 of its customers have made aggregate commitments of more than USD $10 billion for its software and related hardware. Four of those customers each committed more than USD $1 billion.\n\nThe commitments were made in the first three quarters of VAST's current fiscal year by a small subset of the more than 1,000 organisations it serves. Each of the 14 customers committed more than USD $100 million to VAST Data-based system buildouts.\n\nThe disclosure provides a measure of spending now flowing into data infrastructure for artificial intelligence training and inference. It also offers fresh detail on customer concentration at a company valued at USD $30 billion after a Series F funding round earlier this year that included NVIDIA.\n\nVAST sells software for large-scale data environments, with platform hardware included in customer deployments. Its systems now support nine of the top 10 frontier AI labs, according to the company.\n\n### Supply planning\n\nVAST also said it had structured agreements with supply chain partners to align more than 200 exabytes of flash capacity through 2029. The arrangements are intended to match expected demand from its largest customers and help users plan infrastructure purchases amid pressure on NAND flash supply.\n\nNAND flash is a core component in enterprise storage systems used in data centres. Bringing new supply to market can take years because of the investment required in fabrication plants, making long-range planning important for suppliers and buyers when demand rises sharply.\n\nAccording to VAST, the data capacity being delivered by its partners now represents a significant share of global NAND flash output for enterprise data centres. It did not disclose the financial terms of the supply agreements or identify the manufacturers involved.\n\nRenen Hallak, founder and chief executive officer of VAST Data, linked the spending to broader changes in how AI infrastructure is being built. \"Growth at this scale only happens when an entire industry is rebuilding at once. That's what the new AI stack is. It's being built for models and agents, not people and applications, and data sits at the centre of it. The companies building it at the largest scale, for people, agents and now robots, are choosing VAST to anchor it,\" Hallak said.\n\nThe latest figures come as investors and technology groups continue to channel large sums into AI-related computing, networking and storage. While graphics processing units have drawn much of the attention, storage and data systems are also seeing strong demand as companies assemble the infrastructure needed to train models, run inference workloads and manage growing volumes of data.\n\nThat has increased pressure across the semiconductor supply chain. Flash storage is widely used in data-intensive environments because operators need fast access to large datasets, and supply constraints can have knock-on effects on deployment timetables for cloud providers, AI labs, enterprises and public sector users.\n\nJeff Denworth, co-founder of VAST Data, said the company's supply planning was tied to customer requirements. \"Planning for hundreds of exabytes isn't only about protecting our customers' growth projections. It's about keeping flash available to hundreds of clouds, so that every AI builder, not just the largest, has the capacity it needs to build and compete,\" Denworth said.\n\nVAST did not name the 14 customers behind the commitments or break out how much of the aggregate total related to software versus hardware. It also did not say how much of the committed spending had already been converted into recognised revenue.\n\nEven so, the figures point to a small number of buyers placing very large bets on storage and data architecture as AI infrastructure scales up. The largest disclosed group alone accounts for more than USD $10 billion in planned spending tied to VAST systems.",
       "content_url": "https://datacenternews.asia/story/vast-data-says-14-customers-committed-usd-10-billion"
+    },
+    {
+      "id": "2026-11-06-0b5df3",
+      "title": "US data-centre backlash may lower odds of AI investment bust",
+      "summary": "(Nov 5): The backlash against data centers evident in this week's US midterm elections raises new risks for a key source of economic growth. But restrictions on development could ultimately reduce the odds of a downturn by keeping the AI investment boom in check. Around half of planned ...",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "data-center",
+        "regulation",
+        "ai",
+        "investment"
+      ],
+      "published_at": "2026-11-05T23:43:50Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/824767",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "美国data centre反弹可能降低AI投资泡沫破裂的几率",
+      "content": "(Nov 5): The backlash against data centers evident in this week's US midterm elections raises new risks for a key source of economic growth. But restrictions on development could ultimately reduce the odds of a downturn by keeping the AI investment boom in check.\n\nAround half of planned expansion nationwide is vulnerable to increased scrutiny and pushback from Democrats who clinched historic victories in states like Texas, Georgia and Ohio. Many of the candidates campaigned against unfettered data-center construction and will likely seek to quickly deliver on what has become a wildly popular position across the country this year.\n\nThe new mandate is arriving just as technology investment has become more important for the economy than ever before. But the scale and speed of the boom have also inevitably raised concerns about an eventual bust.\n\n\"If some of these moratoriums or regulatory pressures slow some of this buildout, it almost prevents you from blowing too big of a bubble,\" said Brett Ryan, an economist at Deutsche Bank Securities. \"This is like a good excuse to kill some projects here that were already looking shaky.\"\n\nThe paradox illustrates a central tension in the US economy of the post-pandemic era: Growth has become unusually reliant on a handful of sectors pouring enormous sums into a new technology with a payoff that's so far been difficult to quantify.\n\nThursday's selloff in AI-linked stocks also offered a reminder that the boom has helped support consumer spending through rising household wealth, a channel that could work in reverse if the trade unwinds quickly.\n\nOver the last year, capital expenditures on information processing equipment and software alone have given the US economy the biggest boost on record, eclipsing even their contribution at the peak of the 1990s dot-com boom.\n\nA report Thursday also showed broader economic growth is being propelled almost entirely by productivity enhancements, though economists said the prospective boost from AI is largely yet to appear in the numbers.\n\nMonthly construction spending on data centers, meanwhile, has almost doubled over the last 12 months, to nearly $100 billion on an annualized basis.\n\nFor now, economists don't foresee an immediate pullback because much of the capacity that will come online next year is already under construction. This week's election results, however, could have a bigger impact on the outlook for 2028 to the extent that groundbreaking on new facilities begins to slow.\n\nRyan said Deutsche Bank had already been projecting slower growth in investment by then. Following Tuesday's elections, \"my knee-jerk reaction would be, OK, I don't have to raise my 2028 forecast anytime soon,\" he said.\n\nThe impact will depend on the specific shape any new restrictions might take. About 45% of planned data-center capacity is in states where newly elected Democrats campaigned on such limits, according to Goldman Sachs estimates.\n\nTexas alone accounts for 25% of the total, and Gina Hinojosa, the first Democrat to be elected governor there since 1990, has vowed to halt new approvals. Georgia and Ohio are also getting Democratic governors for the first time in decades. In the former, Keisha Lance Bottoms campaigned on a statewide pause, while in the latter Amy Acton has proposed stricter conditions on new projects.\n\nStates with restrictions in place prior to the midterms have so far opted for temporary measures rather than permanent bans. In July, New York became the first to announce a pause on new environmental permits for hyperscale data center construction for up to one year.\n\nMany smaller localities, however, have gone further. Monterey Park, California; Harford County, Maryland; and East Rutherford, New Jersey have all imposed some form of outright prohibition on data centers this year, and several Ohio municipalities this week voted to adopt similar measures.\n\nSarah Bianchi, a strategist at Evercore ISI, said she expects state moratoriums would last no more than a year as policymakers decide what restrictions to put in place, including whether to grandfather existing projects or impose rules based on project size.\n\nGiven the breadth of the backlash, though, \"It's not like it's going to be super easy to go somewhere else in this environment,\" she said.\n\n*Uploaded by Siow Chen Ming*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/824767"
     },
     {
       "id": "2026-11-06-22f386",
@@ -932,67 +975,44 @@
       "content_url": "https://www.datacenterdynamics.com/en/news/apac-operator-pdg-secures-13-billion-for-malaysia-build-out/"
     },
     {
-      "id": "2026-11-06-c4cb56",
-      "title": "Microsoft rejects multibillion-dollar AI deal with Nscale",
-      "summary": "London/San Francisco | Nscale’s ambitions for a $US35 billion ($50 billion) sharemarket listing face a fresh test after the UK’s most valuable AI start-up lost out on a potential new deal with…",
-      "why_it_matters": "",
-      "score": 70,
-      "heat": 1,
+      "id": "2026-11-06-e339e4",
+      "title": "Nvidia chips pile up in Hong Kong as China withholds import approval",
+      "summary": "Large quantities of Nvidia chips have accumulated in Hong Kong warehouses as Chinese authorities deliberately withhold import approvals for advanced semiconductors. The stockpile illustrates Beijing's strategic calculation to reduce technological dependence on American suppliers despite domestic AI industry demand.",
+      "why_it_matters": "Hong Kong's role as a semiconductor transshipment hub is being compromised by geopolitical maneuvering, affecting logistics providers and distributors dependent on just-in-time delivery models. For Chinese AI companies, the withheld chips create project delays and force reliance on inferior domestic alternatives, while Nvidia loses revenue from one of its most significant historical markets.",
+      "score": 85,
+      "heat": 2,
       "regions": [
-        "australia",
+        "china",
         "global"
       ],
       "topics": [
+        "chips",
+        "regulation",
         "ai",
-        "cloud",
-        "investment",
-        "hyperscale"
+        "supply-chain"
       ],
-      "published_at": "2026-11-05T09:00:00Z",
+      "published_at": "2026-11-05T11:49:01Z",
       "featured": true,
       "sources": [
         {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/technology/microsoft-rejects-multibillion-dollar-ai-deal-with-nscale-20261105-p61btg",
-          "type": "html-list"
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/nvidia-chips-pile-hong-kong-china-withholds-import-approval",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/almost-600000-nvidia-h200s-stranded-in-hong-kong-as-chinese-govt-stalls-on-import-approvals-report/",
+          "type": "rss"
         }
       ],
       "companies": [
-        "Microsoft",
-        "Nscale"
+        "NVIDIA"
       ],
-      "title_zh": "Microsoft拒绝与Nscale达成数十亿美元AI交易",
-      "content": "*London/San Francisco* | Nscale’s ambitions for a $US35 billion ($50 billion) sharemarket listing face a fresh test after the UK’s most valuable AI start-up lost out on a potential new deal with Microsoft worth tens of billions of dollars.\n\nThe US software giant has rejected an option to more than double the size of its existing contract to rent computing power at a data centre site in Texas, according to three people familiar with the matter.\n\nLoading...\n\nFinancial Times",
-      "content_url": "https://www.afr.com/technology/microsoft-rejects-multibillion-dollar-ai-deal-with-nscale-20261105-p61btg"
-    },
-    {
-      "id": "2026-11-06-0b5df3",
-      "title": "US data-centre backlash may lower odds of AI investment bust",
-      "summary": "(Nov 5): The backlash against data centers evident in this week's US midterm elections raises new risks for a key source of economic growth. But restrictions on development could ultimately reduce the odds of a downturn by keeping the AI investment boom in check. Around half of planned ...",
-      "why_it_matters": "",
-      "score": 50,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [
-        "data-center",
-        "regulation",
-        "ai",
-        "investment"
-      ],
-      "published_at": "2026-11-05T23:43:50Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/824767",
-          "type": "html-list"
-        }
-      ],
-      "title_zh": "美国data centre反弹可能降低AI投资泡沫破裂的几率",
-      "content": "(Nov 5): The backlash against data centers evident in this week's US midterm elections raises new risks for a key source of economic growth. But restrictions on development could ultimately reduce the odds of a downturn by keeping the AI investment boom in check.\n\nAround half of planned expansion nationwide is vulnerable to increased scrutiny and pushback from Democrats who clinched historic victories in states like Texas, Georgia and Ohio. Many of the candidates campaigned against unfettered data-center construction and will likely seek to quickly deliver on what has become a wildly popular position across the country this year.\n\nThe new mandate is arriving just as technology investment has become more important for the economy than ever before. But the scale and speed of the boom have also inevitably raised concerns about an eventual bust.\n\n\"If some of these moratoriums or regulatory pressures slow some of this buildout, it almost prevents you from blowing too big of a bubble,\" said Brett Ryan, an economist at Deutsche Bank Securities. \"This is like a good excuse to kill some projects here that were already looking shaky.\"\n\nThe paradox illustrates a central tension in the US economy of the post-pandemic era: Growth has become unusually reliant on a handful of sectors pouring enormous sums into a new technology with a payoff that's so far been difficult to quantify.\n\nThursday's selloff in AI-linked stocks also offered a reminder that the boom has helped support consumer spending through rising household wealth, a channel that could work in reverse if the trade unwinds quickly.\n\nOver the last year, capital expenditures on information processing equipment and software alone have given the US economy the biggest boost on record, eclipsing even their contribution at the peak of the 1990s dot-com boom.\n\nA report Thursday also showed broader economic growth is being propelled almost entirely by productivity enhancements, though economists said the prospective boost from AI is largely yet to appear in the numbers.\n\nMonthly construction spending on data centers, meanwhile, has almost doubled over the last 12 months, to nearly $100 billion on an annualized basis.\n\nFor now, economists don't foresee an immediate pullback because much of the capacity that will come online next year is already under construction. This week's election results, however, could have a bigger impact on the outlook for 2028 to the extent that groundbreaking on new facilities begins to slow.\n\nRyan said Deutsche Bank had already been projecting slower growth in investment by then. Following Tuesday's elections, \"my knee-jerk reaction would be, OK, I don't have to raise my 2028 forecast anytime soon,\" he said.\n\nThe impact will depend on the specific shape any new restrictions might take. About 45% of planned data-center capacity is in states where newly elected Democrats campaigned on such limits, according to Goldman Sachs estimates.\n\nTexas alone accounts for 25% of the total, and Gina Hinojosa, the first Democrat to be elected governor there since 1990, has vowed to halt new approvals. Georgia and Ohio are also getting Democratic governors for the first time in decades. In the former, Keisha Lance Bottoms campaigned on a statewide pause, while in the latter Amy Acton has proposed stricter conditions on new projects.\n\nStates with restrictions in place prior to the midterms have so far opted for temporary measures rather than permanent bans. In July, New York became the first to announce a pause on new environmental permits for hyperscale data center construction for up to one year.\n\nMany smaller localities, however, have gone further. Monterey Park, California; Harford County, Maryland; and East Rutherford, New Jersey have all imposed some form of outright prohibition on data centers this year, and several Ohio municipalities this week voted to adopt similar measures.\n\nSarah Bianchi, a strategist at Evercore ISI, said she expects state moratoriums would last no more than a year as policymakers decide what restrictions to put in place, including whether to grandfather existing projects or impose rules based on project size.\n\nGiven the breadth of the backlash, though, \"It's not like it's going to be super easy to go somewhere else in this environment,\" she said.\n\n*Uploaded by Siow Chen Ming*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/824767"
+      "title_zh": "NVIDIA芯片在香港堆积，因中国暂停进口审批",
+      "summary_zh": "大量 Nvidia 芯片已在香港仓库中堆积，因为中国当局故意拖延先进半导体的进口审批。这种库存积压表明，尽管国内 AI 行业有需求，但北京方面战略性地考虑减少对美国供应商的技术依赖。",
+      "why_zh": "香港作为半导体转运枢纽的角色正因地缘政治博弈而受损，影响依赖 just-in-time 交付模式的物流提供商和分销商。对于中国 AI 公司而言，被扣留的芯片造成项目延迟，并迫使其依赖较差的国内替代品，而 Nvidia 则失去了其历史上最重要的市场之一的收入。",
+      "content": "The size of the stockpile reflects Beijing’s reluctance to increase reliance on US technology\n\nABOUT 600,000 of Nvidia’s advanced artificial intelligence chips are stored in Hong Kong awaiting shipment to mainland China, two people familiar with the matter said, as Beijing withholds approval for large-scale imports despite demand from technology firms.\n\nThe size of the stockpile of H200 chips, which has not previously been reported, reflects Beijing’s reluctance to increase reliance on US technology.\n\nAt the same time, Chinese companies need Nvidia’s advanced computing power to meet surging AI demand in the world’s second-largest economy.\n\nChina has allowed some of the chips to enter the country in recent months, three people familiar with the matter said. Several major Chinese internet companies have each obtained about 10,000 H200 chips in the past few months, one of the people said.\n\nThree people said small quantities of chips had been shipped via intermediaries and indirect routes without specifying how many.\n\nBut Beijing has yet to approve large-volume imports into mainland China, the people said.\n\nChina’s Ministry of Industry and Information Technology and the National Development and Reform Commission did not respond to requests for comment. Neither did Nvidia or Chinese tech companies Alibaba, ByteDance, DeepSeek and Tencent .\n\n## H200 is not the most advanced, but very useful\n\nThe H200 is not Nvidia’s newest AI processor, but it has capabilities that Chinese alternatives have yet to match, making it useful for training AI models particularly when combined with Nvidia’s software.\n\nUS export controls since 2022 have sought to restrict China’s access to advanced Nvidia chips and the equipment needed to make them.\n\nWith authorised supply constrained, Chinese buyers have turned to intermediaries and indirect routes, pushing up prices in the unofficial market.\n\nAn eight-card H200 server was offered for more than six million yuan (US$900,000) in mainland China by the end of October, about three times its price a year earlier, one person familiar with the matter said.\n\nServers using Nvidia’s newer Blackwell chips, which fall under US export controls, were offered for more than 20 million yuan apiece, the person added.\n\n## Tension over trade and technology\n\nThe H200 chip is caught in tension over trade and technology more broadly between Washington and Beijing.\n\nThe US barred exports of the H200 to China before US President Donald Trump’s administration gave Nvidia permission in 2025 to sell the chips to approved Chinese customers. The policy shift followed US-China trade negotiations.\n\nBeijing has imposed its own constraints on H200 imports, reflecting concerns about dependence on US technology.\n\nTechnology publication The Information reported in July that Chinese officials had told companies, including Alibaba, ByteDance and DeepSeek that they could receive permission to buy limited quantities of H200 chips for training AI models.\n\nIt reported that total approvals could amount to fewer than 200,000 chips and that Beijing wanted firms to prioritise Chinese processors for inference – the task of running AI models.\n\nReuters reported in October that ByteDance, Alibaba and Tencent had ordered more than three million Nvidia RTX Pro 5500 graphics cards, a less powerful export-compliant product, with a combined sticker price exceeding US$35 billion. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/companies-markets/nvidia-chips-pile-hong-kong-china-withholds-import-approval"
     },
     {
       "id": "2026-11-06-bd72e9",
@@ -1025,41 +1045,6 @@
       "title_zh": "大学必须培养更高技能、技术就绪的毕业生——安瓦尔",
       "content": "MELAKA (Nov 5): Malaysian universities must urgently equip graduates with specialised skills in emerging technologies to meet the demands of global technology giants, including Google, which has announced plans to invest US$15 billion (RM60.96 billion) in the country.\n\nPrime Minister Datuk Seri Anwar Ibrahim said Alphabet and Google president and chief investment officer Ruth Porat had praised the capabilities, discipline and work ethic of Malaysian graduates but stressed the need for greater specialisation in certain fields.\n\nHe said higher education institutions must strengthen training in rapidly advancing technologies, particularly artificial intelligence (AI) and quantum computing, to ensure graduates could capitalise on new employment opportunities and secure better wages.\n\n“We must place greater emphasis on skills and expertise because without technology and technical capabilities, Malaysia cannot become a developed nation. Many new fields are emerging rapidly.\n\n“Universities must therefore continue providing training to meet industry needs. Ultimately, we want our young people to earn significantly better wages and gain exposure to cutting-edge technologies that can help position Malaysia among the region’s most advanced nations,” he said at the Prime Minister's Golden Hand Awards 2026 ceremony at Universiti Teknikal Malaysia Melaka (UTeM) here on Thursday.\n\nAlso present were Works Minister Datuk Seri Alexander Nanta Linggi, Human Resources Minister Datuk Seri R Ramanan, Higher Education Minister Datuk Seri Dr Zambry Abd Kadir and Education Minister Datuk Seri Fadhlina Sidek.\n\nOn Wednesday, Google announced plans to invest US$15 billion in Malaysia between 2027 and 2028 to expand its digital infrastructure, including developing data centre campuses in Selangor and Negeri Sembilan, to meet growing demand for AI and cloud computing services.\n\nElaborating, Anwar, who is also finance minister, said he had asked Porat about the skills required to support the company's investment.\n\n“I asked her what was needed following the investment. She praised the achievements, discipline and knowledge of our young people, saying they were hardworking and qualified, but stressed the need for additional expertise in specific fields.\n\n“University and college leaders must respond immediately to ensure our graduates are not only adequately trained to meet industry requirements but also continuously upgrade their skills,” he said.\n\nAnwar said Porat had also cited Malaysia's political stability and clear government policies as key factors behind Google’s investment decision.\n\n“I asked her to speak frankly about our strengths and weaknesses. She said Malaysia was stable, with no riots or frequent changes of government as in the past, and that this gave investors confidence,” he said.\n\n*Uploaded by Felyx Teoh*\n\nPrint\n\nText Size\n\nShare",
       "content_url": "https://theedgemalaysia.com/node/824718"
-    },
-    {
-      "id": "2026-11-06-e339e4",
-      "title": "Nvidia chips pile up in Hong Kong as China withholds import approval",
-      "summary": "Large quantities of Nvidia chips have accumulated in Hong Kong warehouses as Chinese authorities deliberately withhold import approvals for advanced semiconductors. The stockpile illustrates Beijing's strategic calculation to reduce technological dependence on American suppliers despite domestic AI industry demand.",
-      "why_it_matters": "Hong Kong's role as a semiconductor transshipment hub is being compromised by geopolitical maneuvering, affecting logistics providers and distributors dependent on just-in-time delivery models. For Chinese AI companies, the withheld chips create project delays and force reliance on inferior domestic alternatives, while Nvidia loses revenue from one of its most significant historical markets.",
-      "score": 85,
-      "heat": 1,
-      "regions": [
-        "china",
-        "global"
-      ],
-      "topics": [
-        "chips",
-        "regulation",
-        "ai",
-        "supply-chain"
-      ],
-      "published_at": "2026-11-05T11:49:01Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Business Times",
-          "url": "https://www.businesstimes.com.sg/companies-markets/nvidia-chips-pile-hong-kong-china-withholds-import-approval",
-          "type": "rss"
-        }
-      ],
-      "companies": [
-        "NVIDIA"
-      ],
-      "title_zh": "NVIDIA芯片在香港堆积，因中国暂停进口审批",
-      "summary_zh": "大量 Nvidia 芯片已在香港仓库中堆积，因为中国当局故意拖延先进半导体的进口审批。这种库存积压表明，尽管国内 AI 行业有需求，但北京方面战略性地考虑减少对美国供应商的技术依赖。",
-      "why_zh": "香港作为半导体转运枢纽的角色正因地缘政治博弈而受损，影响依赖 just-in-time 交付模式的物流提供商和分销商。对于中国 AI 公司而言，被扣留的芯片造成项目延迟，并迫使其依赖较差的国内替代品，而 Nvidia 则失去了其历史上最重要的市场之一的收入。",
-      "content": "The size of the stockpile reflects Beijing’s reluctance to increase reliance on US technology\n\nABOUT 600,000 of Nvidia’s advanced artificial intelligence chips are stored in Hong Kong awaiting shipment to mainland China, two people familiar with the matter said, as Beijing withholds approval for large-scale imports despite demand from technology firms.\n\nThe size of the stockpile of H200 chips, which has not previously been reported, reflects Beijing’s reluctance to increase reliance on US technology.\n\nAt the same time, Chinese companies need Nvidia’s advanced computing power to meet surging AI demand in the world’s second-largest economy.\n\nChina has allowed some of the chips to enter the country in recent months, three people familiar with the matter said. Several major Chinese internet companies have each obtained about 10,000 H200 chips in the past few months, one of the people said.\n\nThree people said small quantities of chips had been shipped via intermediaries and indirect routes without specifying how many.\n\nBut Beijing has yet to approve large-volume imports into mainland China, the people said.\n\nChina’s Ministry of Industry and Information Technology and the National Development and Reform Commission did not respond to requests for comment. Neither did Nvidia or Chinese tech companies Alibaba, ByteDance, DeepSeek and Tencent .\n\n## H200 is not the most advanced, but very useful\n\nThe H200 is not Nvidia’s newest AI processor, but it has capabilities that Chinese alternatives have yet to match, making it useful for training AI models particularly when combined with Nvidia’s software.\n\nUS export controls since 2022 have sought to restrict China’s access to advanced Nvidia chips and the equipment needed to make them.\n\nWith authorised supply constrained, Chinese buyers have turned to intermediaries and indirect routes, pushing up prices in the unofficial market.\n\nAn eight-card H200 server was offered for more than six million yuan (US$900,000) in mainland China by the end of October, about three times its price a year earlier, one person familiar with the matter said.\n\nServers using Nvidia’s newer Blackwell chips, which fall under US export controls, were offered for more than 20 million yuan apiece, the person added.\n\n## Tension over trade and technology\n\nThe H200 chip is caught in tension over trade and technology more broadly between Washington and Beijing.\n\nThe US barred exports of the H200 to China before US President Donald Trump’s administration gave Nvidia permission in 2025 to sell the chips to approved Chinese customers. The policy shift followed US-China trade negotiations.\n\nBeijing has imposed its own constraints on H200 imports, reflecting concerns about dependence on US technology.\n\nTechnology publication The Information reported in July that Chinese officials had told companies, including Alibaba, ByteDance and DeepSeek that they could receive permission to buy limited quantities of H200 chips for training AI models.\n\nIt reported that total approvals could amount to fewer than 200,000 chips and that Beijing wanted firms to prioritise Chinese processors for inference – the task of running AI models.\n\nReuters reported in October that ByteDance, Alibaba and Tencent had ordered more than three million Nvidia RTX Pro 5500 graphics cards, a less powerful export-compliant product, with a combined sticker price exceeding US$35 billion. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
-      "content_url": "https://www.businesstimes.com.sg/companies-markets/nvidia-chips-pile-hong-kong-china-withholds-import-approval"
     },
     {
       "id": "2026-11-06-2763b1",
@@ -1125,6 +1110,41 @@
       "title_zh": "DayOne支持NVIDIA的AI data centre设计标准",
       "content": "Thu, 5th Nov 2026 (Yesterday)\nDayOne will support the NVIDIA DSX POD reference design, linking the Singapore-based data centre operator to a standard for AI infrastructure deployment.\n\nIt will use its proprietary integrated delivery model alongside the design, which is intended to align compute, power and cooling in AI data centre projects. The approach is part of a wider strategy centred on standardised design, integrated delivery and modular infrastructure across multiple markets.\n\nDemand for AI infrastructure has risen as deployments have grown larger and more complex. That has increased focus on how quickly operators can deliver power, cooling and physical space while maintaining common technical standards across sites.\n\nDayOne uses a standardised method for data centre development that includes modular prefabrication of power, cooling and base-build systems. Moving some mechanical, electrical and plumbing work into factory settings reduces development timelines and supports consistency across large projects, it said.\n\nThe company said this model allows it to complete data centre projects in eight to 12 months in Southeast Asia. That is shorter than conventional build cycles and reflects growing pressure on operators to bring AI-ready capacity online more quickly.\n\n### Growing AI Demand\n\nThe announcement highlights how data centre groups are adjusting construction and delivery models as AI workloads place heavier demands on infrastructure. Compared with traditional data centre deployments, AI facilities typically require more tightly integrated systems for electricity supply, cooling, networking and computing hardware.\n\nFor operators and customers, this has increased the importance of repeatable designs and construction methods that can be rolled out across regions. DayOne said modular infrastructure would play a key role in delivering next-generation data centre capacity as these requirements intensify.\n\nDayOne, established in 2022, operates across 10 markets in Asia Pacific and Europe. Its footprint includes Singapore; Johor and Greater Kuala Lumpur in Malaysia; Indonesia; Thailand; Tokyo and Kyushu in Japan; Hong Kong; Finland; and Spain.\n\nThe company develops and operates high-capacity campuses for hyperscalers and businesses. Its model centres on developing, constructing and operating data centres in multiple jurisdictions through a common delivery framework.\n\nJamie Khoo, Chief Executive Officer of DayOne, said the move was consistent with the company's existing methods for data centre construction.\n\n\"At DayOne, we believe that prefabrication and modularization are key to delivering infrastructure at the pace required by the AI era,\" said Jamie Khoo, Chief Executive Officer of DayOne. \"Our teams have spent years developing integrated platforms, products, and modules that enable us to deliver large-scale campuses at speed and scale, with the consistency and quality our customers trust. Supporting the new NVIDIA DSX POD reference design is a natural extension of that work.\"\n\n### Industry Alignment\n\nNVIDIA also presented the arrangement as a response to the need for closer coordination of infrastructure elements as demand for accelerated computing grows. The reference design is intended to help customers deploy AI systems more quickly by bringing compute and facility requirements into closer alignment.\n\n\"Meeting growing demand for accelerated computing requires integrated infrastructure solutions, and the NVIDIA DSX POD reference design helps align compute, power, and cooling for faster deployment,\" said Charlie Boyle, Vice President of DGX Systems at NVIDIA. \"DayOne's support for this reference design, combined with its modular infrastructure and integrated delivery capabilities, can help customers bring capacity online sooner and shorten the time to first token.\"\n\nThe tie-up reflects a broader shift in the data centre market as operators seek more standardised ways to build facilities for AI workloads. As power availability, construction schedules and engineering integration become more critical, delivery models that can be repeated across markets are becoming a stronger point of competition.",
       "content_url": "https://datacenternews.asia/story/dayone-backs-nvidia-s-ai-data-centre-design-standard"
+    },
+    {
+      "id": "2026-11-06-c4cb56",
+      "title": "Microsoft rejects multibillion-dollar AI deal with Nscale",
+      "summary": "London/San Francisco | Nscale’s ambitions for a $US35 billion ($50 billion) sharemarket listing face a fresh test after the UK’s most valuable AI start-up lost out on a potential new deal with…",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "australia",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "cloud",
+        "investment",
+        "hyperscale"
+      ],
+      "published_at": "2026-11-05T09:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/technology/microsoft-rejects-multibillion-dollar-ai-deal-with-nscale-20261105-p61btg",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Microsoft",
+        "Nscale"
+      ],
+      "title_zh": "Microsoft拒绝与Nscale达成数十亿美元AI交易",
+      "content": "*London/San Francisco* | Nscale’s ambitions for a $US35 billion ($50 billion) sharemarket listing face a fresh test after the UK’s most valuable AI start-up lost out on a potential new deal with Microsoft worth tens of billions of dollars.\n\nThe US software giant has rejected an option to more than double the size of its existing contract to rent computing power at a data centre site in Texas, according to three people familiar with the matter.\n\nLoading...\n\nFinancial Times",
+      "content_url": "https://www.afr.com/technology/microsoft-rejects-multibillion-dollar-ai-deal-with-nscale-20261105-p61btg",
+      "published_precision": "day"
     },
     {
       "id": "2026-11-06-0a8d93",
