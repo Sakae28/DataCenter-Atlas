@@ -1,0 +1,175 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T07:29:31Z",
+  "hot": [
+    "2026-11-08-e63962",
+    "2026-11-08-776d40",
+    "2026-11-08-e297f0",
+    "2026-11-08-c28d21",
+    "2026-11-08-ea8cef"
+  ],
+  "stories": [
+    {
+      "id": "2026-11-08-ea8cef",
+      "title": "ASX to rise as 'shell-shocked' investors question AI buildout",
+      "summary": "The Australian sharemarket looks set to outperform Wall Street as investors fret over restrictions on artificial intelligence and data centres in North America, pushing them towards domestic…",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "australia",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "market-sentiment",
+        "chips"
+      ],
+      "published_at": "2026-11-08T01:20:05Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/markets/equity-markets/shell-shocked-investors-seek-shelter-in-asx-as-ai-trade-unwinds-20261108-p61c81",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "ASX上涨，因\"震惊\"的投资者质疑AI建设",
+      "content": "The Australian sharemarket looks set to outperform Wall Street as investors fret over restrictions on artificial intelligence and data centres in North America, pushing them towards domestic blue-chip stocks.\n\nFutures indicate that the S&P/ASX 200 will open 0.2 per cent higher on Monday, following a subdued recovery in the United States, when some investors braved the volatility to buy the dip in technology stocks.\n\nLoading...",
+      "content_url": "https://www.afr.com/markets/equity-markets/shell-shocked-investors-seek-shelter-in-asx-as-ai-trade-unwinds-20261108-p61c81"
+    },
+    {
+      "id": "2026-11-08-e63962",
+      "title": "Data centres must stop stealing power from mums and dads: Forrest",
+      "summary": "London | American voters’ backlash against data centres showed the tech industry’s need to source green power for their projects and stop competing against “mums and dads” for energy, mining magnate…",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "power",
+        "regulation",
+        "policy",
+        "investment"
+      ],
+      "published_at": "2026-11-08T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/energy/data-centres-must-stop-stealing-power-from-mums-and-dads-forrest-20261108-p61car",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "Forrest：数据中心必须停止从普通家庭手中抢夺电力",
+      "published_precision": "day",
+      "content": "*London* | American voters’ backlash against data centres showed the tech industry’s need to source green power for their projects and stop competing against “mums and dads” for energy, mining magnate Andrew Forrest warned.\n\n“Mum and dad, as we found out in the midterms, they vote. So I’m saying to all hyperscalers, to all data centre industries, anyone can plug into the grid and take energy from mums and dads. That isn’t great responsibility. That’s not great citizenship,” he said.\n\nLoading...",
+      "content_url": "https://www.afr.com/companies/energy/data-centres-must-stop-stealing-power-from-mums-and-dads-forrest-20261108-p61car"
+    },
+    {
+      "id": "2026-11-08-e297f0",
+      "title": "Firmus' shelved float shows the market is doing its job",
+      "summary": "Last month, two very different companies planned to list on the Australian Securities Exchange but were met with very different fates. Firmus, a neocloud, pulled its float on October 9, while mining…",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "ipo",
+        "market-sentiment",
+        "colocation"
+      ],
+      "published_at": "2026-11-08T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/markets/equity-markets/firmus-shelved-float-shows-the-market-is-doing-its-job-20261108-p61c87",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Firmus"
+      ],
+      "title_zh": "Firmus搁置IPO表明市场正在发挥作用",
+      "published_precision": "day",
+      "content": "Last month, two very different companies planned to list on the Australian Securities Exchange but were met with very different fates. Firmus, a neocloud, pulled its float on October 9, while mining conglomerate Glencore debuted on the ASX a few days later.\n\nThere has been much debate about the lessons to take from these two examples. Some suggest they show Australia is more comfortable with traditional mining and resources companies than it is with innovative technology businesses.\n\nLoading...",
+      "content_url": "https://www.afr.com/markets/equity-markets/firmus-shelved-float-shows-the-market-is-doing-its-job-20261108-p61c87"
+    },
+    {
+      "id": "2026-11-08-776d40",
+      "title": "Empty offices, ties to blacklisted firms: Inside the Chinese companies the US cleared for Nvidia chips",
+      "summary": "Investigative findings reveal that multiple Chinese entities with opaque ownership structures, vacant office premises, or documented connections to previously sanctioned firms received US Commerce Department licenses to purchase advanced Nvidia chips. The approvals occurred under both Biden and Trump administrations despite stated policies to restrict Chinese military and surveillance AI development.",
+      "why_it_matters": "Revelations of inconsistent enforcement undermine the credibility of US export control architecture and may trigger Congressional pressure for stricter interagency verification procedures, potentially slowing all license processing including for allied country end-users. For APAC data center operators, heightened scrutiny of Chinese-affiliated entities could complicate joint ventures and leasing arrangements, while creating competitive uncertainty as the Commerce Department faces pressure to revoke previously granted permissions retroactively.",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "regulation",
+        "ai",
+        "hyperscale"
+      ],
+      "published_at": "2026-11-08T06:48:09Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/global/empty-offices-ties-blacklisted-firms-inside-chinese-companies-us-cleared-nvidia-chips",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "title_zh": "空壳办公室、与黑名单企业关联：揭秘获美国批准购买NVIDIA芯片的中国公司内幕",
+      "summary_zh": "调查结果显示，多家所有权结构不透明、办公场所空置或与先前被制裁企业有 documented 关联的中国实体获得了美国商务部购买先进Nvidia芯片的许可证。这些批准发生在Biden和Trump两届政府期间，尽管官方政策宣称限制中国军事和监控AI发展。",
+      "why_zh": "执法不一致的曝光削弱了美国出口管制架构的可信度，可能引发国会压力，要求更严格的跨机构验证程序，潜在减缓包括盟国终端用户在内的所有许可证处理。对APAC数据中心运营商而言，对中资关联实体审查的加强可能使合资企业和租赁安排复杂化，同时造成竞争不确定性，因为商务部面临追溯撤销已批准许可的压力。",
+      "content": "Approvals raise questions about how rigorously the Trump administration is policing who can get their hands on the chips\n\n\\[WASHINGTON\\] In a recently built industrial park on the north-west fringe of Beijing, the listed address of a company called New Matrix stands empty, a hollow grey shell with wires dangling from the ceiling where lights should be.\n\nEarlier in 2026, the Trump administration approved this Chinese firm to assemble Nvidia’s advanced chips into the computers that create artificial intelligence. US President Donald Trump allowed the sale of the chips, called the H200, to China late in 2025. But before they could be sold, the US Commerce Department was required to review the companies involved for national security risks.\n\nNew Matrix passed that review. Yet recent checks by *The New York Times* found that, within China, there is little evidence the firm actually exists, raising questions about who in China is behind the company.\n\nOnly scant information can be found online about New Matrix, which was created 17 months ago. At the building that New Matrix lists as its address, a company directory does not include the firm. At the nearby property management agency for the industrial park, a receptionist and a manager both said they had no record of the company.\n\nAccording to Chinese corporate records, New Matrix’s owners have ties to a prominent Chinese private equity fund that the US government placed on a trade blacklist in 2024. Two analysts who examined the corporate records and other Chinese-language information said they believed New Matrix may be a front for firms associated with that fund.\n\nThe sale of chips to New Matrix appears to be part of a pattern that has concerned technology experts inside and outside the government: The Commerce Department is giving clearance to buy and handle Nvidia’s chips to Chinese companies with ties to firms that have been subject to national-security-related trade restrictions.\n\nNvidia’s chips are the crucial technology in AI data centres and now one of the world’s most coveted commodities. They are also at the heart of the economic and geopolitical competition between the United States and China.\n\nCorporate records show that several other Chinese companies approved to purchase H200 chips or assemble them into servers have ties to firms that have been blacklisted by the US government, or that work as military contractors in China.\n\nLiza Tobin, the former China director for the White House National Security Council in the first Trump and Biden administrations, said the approvals raised questions about how rigorously the Trump administration is policing who can get their hands on Nvidia’s chips.\n\n“I have a tonne of concerns that neither the Commerce Department or Nvidia is doing the due diligence needed to ensure that the licensing terms are being followed,” she said.\n\nDuring the Biden administration, the United States began more broadly restricting sales of AI chips to China out of concern the technology would help China advance militarily. But Trump eased some of those limits after lobbying by Nvidia’s CEO, Jensen Huang, with whom he has grown close during his second term.\n\nIn December 2025, Trump gave Nvidia permission to sell the H200, an older but still powerful AI chip, to China, as long as the US government was given a cut of the sales.\n\nIn an unusual arrangement, Trump is requiring these chips, which are assembled in Taiwan, to be routed through the United States on their way to China, so that the government can collect a 25 per cent tariff on their value.\n\nNvidia is now selling only small amounts of H200 chips to China. The Chinese government has been slow to approve its companies for the purchases, partly because it is trying to promote domestically made chips.\n\nAlthough China is a potentially huge market for AI technology, sales directly to the country currently account for only a tiny percentage of Nvidia’s revenue. In the quarter that ended in July, H200 shipments to customers based in China made up less than 1 per cent of Nvidia’s revenue from data centres. The company also said in August that it was not assuming any sales to China in its estimate for data centre revenue for the current quarter.\n\nBut many Chinese companies are gaining access to Nvidia chips through data centres in South-east Asia, and the chips still appear to be a critical focus for Beijing. The Times reported in October that Huang of Nvidia had a close relationship with a woman who American spy agencies concluded was an intelligence asset for China. The company she worked at, Megaspeed, operated data centres in South-east Asia that served Chinese clients and was being investigated for smuggling some chips into China.\n\n## Another empty office\n\nWhen the Commerce Department granted its approval to New Matrix this year, the company’s registered address was at a compound on the outskirts of Beijing used for corporate registrations, where thousands of other firms are also registered on paper, according to the Chinese corporate information site Qichacha. But this fall, New Matrix’s address changed to the empty office in the industrial park visited by the Times.\n\nNew Matrix’s website does not name any staff members, advertise any jobs or include information about its history, as of Nov 6. But two of its primary owners appear in the records of companies connected to a Chinese private equity firm under sanctions and its founder, a man named Li Bin, according to WireScreen, a data platform.\n\nIn 2024, the US government added the private equity firm, Wise Road, to the Commerce Department’s “entity list,” which restricts companies from doing business with the United States. The department said Wise Road had helped the Chinese government acquire strategically sensitive companies with chip technology.\n\nLi is also the chair of Tsinghua Unigroup, a technology conglomerate with government ownership. In 2021, one of Tsinghua Unigroup’s subsidiaries, New H3C Semiconductor Technologies, was added to the entity list for working with the Chinese military.\n\nNew Matrix is the second Chinese company approved to handle Nvidia’s H200 chips that does not seem to have any physical presence at its listed address.\n\nIn September, the Times reported that another recently created Chinese firm called Maginfra had also received a licence for H200s. Like New Matrix, Maginfra appears to have been approved not as the ultimate buyer of the chips, but as a company that would assemble them into AI servers for another customer.\n\nBut when a Times reporter visited Maginfra’s listed address in China in September, it also appeared deserted. A few chairs and empty desks sat inside a small locked room with no signs. Workers on the floor said they had not seen anyone use the office, and building receptionists said they had not heard of Maginfra.\n\nAnalysts said they believed Maginfra was an offshoot of Inspur, a company whose headquarters were near Maginfra’s listed address. The US government has added Inspur to the entity list for working with the Chinese military. Maginfra and Inspur share personnel and patents, and both have government ownership.\n\n## Military ties\n\nOther Chinese companies that have been approved for licences to buy Nvidia’s H200 chips also have ties through their corporate owners to military suppliers, according to people familiar with the approvals and documents viewed by the Times.\n\nOne, called Zhejiang Yindun Cloud Technology, has ties to a cloud computing giant that has sold services to military contractors, called Range Intelligent Computing Technology Group. Yindun is partly operated from a data centre owned by Range, and several of its executives are family members of Range’s founder.\n\nRange serves as the cloud computing provider for a satellite programme run by the defence bureau of Hebei province, which it has described on its website as serving the strategic needs of “national defence development.” It also started a subsidiary in 2016 to focus on quantum communications for the Chinese government and military. Part of the subsidiary is owned by a firm that the United States added to the entity list in 2021 for acquiring American items for the Chinese military.\n\nAnother company licensed to purchase H200 chips, Shanghai Jiatang, grew out of a state-owned enterprise called Datang Telecom, a chipmaker that provides technology to the Chinese military. Datang is controlled by the China Academy of Telecommunications Technology, a state-owned enterprise that has developed cryptography for the Chinese military.\n\nShanghai Jiatang, Yindun Cloud and Maginfra did not respond to requests for comment. NYTIMES\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/international/global/empty-offices-ties-blacklisted-firms-inside-chinese-companies-us-cleared-nvidia-chips"
+    },
+    {
+      "id": "2026-11-08-c28d21",
+      "title": "China recruited Singapore-based executive to spy on Nvidia CEO Jensen Huang: US intelligence",
+      "summary": "China’s interest in Jensen Huang has been a focus of US spy agencies",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "china",
+        "southeast-asia",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "regulation",
+        "hyperscale"
+      ],
+      "published_at": "2026-11-08T01:20:03Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/global/china-recruited-singapore-based-executive-spy-nvidia-ceo-jensen-huang-us-intelligence",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "title_zh": "美国情报：中国招募新加坡高管监视NVIDIA CEO Jensen Huang",
+      "content": "China’s interest in Jensen Huang has been a focus of US spy agencies\n\n\\[WASHINGTON\\] A memo that circulated among top policymakers in the Trump administration last spring cited intelligence that a Chinese businessperson who had a close relationship with Nvidia’s CEO was a spy for China’s Ministry of State Security, according to people briefed on the intelligence.\n\nThe businessperson, Alice Huang, was recruited to collect intelligence on Jensen Huang, Nvidia’s CEO, as part of a drive by Beijing’s top spy agency to learn more about US AI chips and potentially influence the company to push for its most advanced chips to be made available to China, the people said.\n\nHuang is an executive at Megaspeed, a Singapore-based customer of Nvidia.\n\nJensen Huang, an influential ally of President Donald Trump’s, is a pivotal figure in the intense global competition for AI supremacy. Nvidia’s advanced chips are sought after around the world, and the company’s growth has helped drive the stock market over the past several years.\n\nThe existence of the memo and the assessment by US officials that Alice Huang was working directly for the main Chinese intelligence agency have not previously been reported. They add important new detail to what appears to be an especially audacious example of China’s long-standing industrial espionage efforts.\n\nChina’s interest in Jensen Huang, and precisely what Beijing hoped to achieve by having one of its intelligence assets begin a close relationship with the executive, have been a focus of US spy agencies. Those questions are now also of interest to Capitol Hill.\n\nOn Thursday (Nov 5), the Republican leaders of three influential US House committees requested that Jensen Huang appear before them later in November in a closed-door briefing regarding his interactions with Alice Huang, who is not related.\n\n*The New York Times* reported on Oct 29 that Jensen Huang was a target of a Chinese intelligence operation, and that US intelligence agencies were conducting electronic surveillance of Alice Huang, a Chinese citizen, for at least a year.\n\nJohn Rizzo, a Nvidia spokesperson, said that the company does not share classified information with its customers, and that customers do not ask Nvidia to press the US government to change its policies on chip sales to China.\n\nRizzo has maintained that Jensen Huang’s interactions with Alice Huang were “not unusual” and consistent with the kinds of meetings he has with any of Nvidia’s many customers.\n\nLiu Chang, a spokesperson for the Chinese embassy, said the Times reporting was “unsubstantiated” and “nothing but smears against China.” NYTIMES\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/international/global/china-recruited-singapore-based-executive-spy-nvidia-ceo-jensen-huang-us-intelligence"
+    }
+  ]
+}
