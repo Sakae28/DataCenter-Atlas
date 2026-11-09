@@ -1,0 +1,339 @@
+{
+  "type": "weekly",
+  "period": "2026-W45",
+  "date_range": {
+    "start": "2026-11-02",
+    "end": "2026-11-08"
+  },
+  "generated_at": "2026-11-09T08:27:22Z",
+  "complete": true,
+  "stats": {
+    "stories": 157,
+    "sources": 16,
+    "days": 7,
+    "read_minutes": 3
+  },
+  "title": "Malaysia's AI build-out races power grid",
+  "lede": "Southeast Asia dominated APAC data center headlines this week as Malaysia secured unprecedented foreign investment while confronting the infrastructure limits of its ambition. Google's $15 billion commitment and Microsoft's second cloud region in Johor Bahru cemented the country's status as a primary AI infrastructure destination, yet industry specialists warned that electricity grid expansion lags dangerously behind construction timelines. The tension between capital inflows and power delivery echoed across the region: Japan forecast data center demand tripling by 2034 and driving nuclear revival, while Australia projected Sydney metro facilities alone consuming twice all residential demand by decade's end. Meanwhile, geopolitical friction intensified around AI chip flows, with Nvidia pressuring partners to reduce China exposure, restricting RTX sales, and deploying enhanced Southeast Asia tracking to combat smuggling—measures that collided with Beijing's deliberate withholding of import approvals and reports of foreign intelligence targeting CEO Jensen Huang.",
+  "themes": [
+    {
+      "heading": "Malaysia's capital surge strains power grid",
+      "narrative": "Malaysia attracted extraordinary investment commitments this week, with Google pledging $15 billion and Microsoft announcing a second cloud region in Johor Bahru. PDG secured $1.3 billion in green financing for its JH1 campus expansion, while Sunway Construction won combined contracts exceeding $650 million for hyperscale facilities in Selangor and Johor. Yet this build-out faces a structural constraint: industry specialists warned that national grid expansion timelines lag significantly behind data center construction cycles, creating a mismatch between announced capacity and deliverable power.",
+      "story_ids": [
+        "2026-11-05-ca560b",
+        "2026-11-06-acf4ae",
+        "2026-11-04-da9707",
+        "2026-11-06-a9e3c1",
+        "2026-11-07-48a082"
+      ],
+      "heading_zh": "马来西亚资本涌入对电网造成压力",
+      "narrative_zh": "马来西亚本周吸引了巨额投资承诺，Google承诺投入150亿美元，Microsoft宣布在柔佛州新山建设第二个云区域。PDG为其JH1园区扩建获得了13亿美元的绿色融资，而Sunway Construction在雪兰莪州和柔佛州赢得了总额超过6.5亿美元的hyperscale设施合同。然而，这一建设热潮面临结构性制约：行业专家警告称，国家电网扩建时间表显著落后于数据中心建设周期，导致已宣布的容量与可交付电力之间存在错配。"
+    },
+    {
+      "heading": "Japan and Australia face power demand reckoning",
+      "narrative": "Japan's data center electricity consumption is projected to triple to 57-66 TWh by 2034, accounting for 60% of national power demand growth and reviving investment in nuclear and geothermal generation. Australia confronts parallel pressures, with Sydney metropolitan data centers alone forecast to consume twice all residential demand by 2030, and South Australia requiring A$5 billion in grid upgrades. Anthropic's lease in Queensland's Western Downs signals operators are already positioning for renewable-heavy locations.",
+      "story_ids": [
+        "2026-11-02-1ca98f",
+        "2026-11-02-ce6af3",
+        "2026-11-05-62eb77",
+        "2026-11-09-4ebd0e",
+        "2026-11-04-d0eec4"
+      ],
+      "heading_zh": "日本和澳大利亚面临电力需求清算",
+      "narrative_zh": "日本数据中心电力消耗预计到2034年将增长两倍，达到57-66 TWh，占全国电力需求增长的60%，并推动核能和地热发电投资复苏。澳大利亚面临类似压力，仅悉尼大都市区数据中心预计到2030年的消耗量就将达到全部居民用电的两倍，南澳大利亚州则需要50亿澳元的电网升级。Anthropic在昆士兰州Western Downs的租约表明，运营商已经开始在可再生能源丰富的地区布局。"
+    },
+    {
+      "heading": "Nvidia tightens China controls amid chip friction",
+      "narrative": "Nvidia escalated compliance measures as US export controls tightened, instructing data center partners to reduce China exposure and restricting RTX consumer GPU sales to mainland customers. Large quantities of chips accumulated in Hong Kong warehouses as Chinese authorities deliberately withheld import approvals. The company implemented enhanced serial-number tracking across Southeast Asia to combat smuggling into China, while US intelligence examined whether foreign services had targeted CEO Jensen Huang.",
+      "story_ids": [
+        "2026-11-04-b0d4ed",
+        "2026-11-05-403f4b",
+        "2026-11-06-e339e4",
+        "2026-11-07-f60e52",
+        "2026-11-09-05274b"
+      ],
+      "heading_zh": "Nvidia在芯片摩擦中收紧对华管控",
+      "narrative_zh": "随着美国出口管制收紧，Nvidia加强了合规措施，指示数据中心合作伙伴减少中国敞口，并限制向大陆客户销售RTX消费级GPU。大量芯片积压在香港仓库，因为中国当局故意扣留进口审批。该公司在东南亚实施了增强型序列号追踪以打击向中国走私，同时美国情报部门调查外国情报机构是否针对首席执行官Jensen Huang。"
+    },
+    {
+      "heading": "Korea mobilizes sovereign capital for AI infrastructure",
+      "narrative": "South Korea allocated unprecedented public resources to AI infrastructure, with a record 2027 budget setting aside $15.8 billion for data centers and domestic chips. Private financing reached new scale as Brookfield arranged an $8 billion GPU-specific loan for Naver's AI expansion, the country's largest syndicated facility. Samsung SDS broke ground on its Gumi AI Data Center, while OpenAI CEO Sam Altman visited Seoul to secure high-bandwidth memory supplies from Samsung Electronics amid deepening shortage anxiety.",
+      "story_ids": [
+        "2026-11-03-2dcaf2",
+        "2026-11-02-15c07b",
+        "2026-11-03-c8f949",
+        "2026-11-04-27181f"
+      ],
+      "heading_zh": "韩国动员主权资本投入AI基础设施",
+      "narrative_zh": "韩国为AI基础设施划拨了前所未有的公共资源，2027年预算创纪录地拨出158亿美元用于数据中心和本土芯片。私人融资达到新规模，Brookfield为Naver的AI扩张安排了80亿美元的GPU专项贷款，这是该国最大的银团贷款。Samsung SDS为其Gumi AI Data Center破土动工，而OpenAI首席执行官Sam Altman访问首尔，以在短缺焦虑加剧的背景下从Samsung Electronics确保高带宽内存供应。"
+    },
+    {
+      "heading": "Southeast Asia capacity expands across multiple markets",
+      "narrative": "Beyond Malaysia, data center development accelerated across Southeast Asia with varied capital structures. NTT Data opened its JKT2A facility in Indonesia and sought additional land for expansion, while LG CNS completed a 30 MW AI data center in Jakarta through a Korean-Indonesian joint venture. Thailand's Zhi Sheng Group secured a $590 million loan for an Eastern Economic Corridor AI facility, and Vietnam's Tay Ninh Province considered a $700 million foreign-invested project targeting AI workloads.",
+      "story_ids": [
+        "2026-11-04-d13938",
+        "2026-11-03-63a357",
+        "2026-11-06-5e1a97",
+        "2026-11-03-3522f3",
+        "2026-11-04-7585c1"
+      ],
+      "heading_zh": "东南亚多个市场capacity持续扩张",
+      "narrative_zh": "除马来西亚外，东南亚数据中心开发以多样化的资本结构加速推进。NTT Data在印度尼西亚启用了JKT2A设施并寻求额外土地用于扩建，而LG CNS通过韩印合资企业完成了雅加达一座30 MW AI data center的建设。泰国Zhi Sheng Group为东部经济走廊AI设施获得了5.9亿美元贷款，越南西宁省则考虑一项7亿美元的外资项目，目标瞄准AI workloads。"
+    },
+    {
+      "heading": "Australia sees strategic opportunity amid global constraints",
+      "narrative": "Australia's data center sector attracted significant capital and political attention as global conditions shifted. Goodman Group and Digital Realty jointly acquired a $940 million stake in NextDC, prompting defensive measures from the target's board amid takeover speculation. The Labor government explicitly positioned Australia to benefit from constraints on US development, citing favorable regulatory conditions. The activity reflects broader positioning as operators seek alternatives to increasingly congested Asian primary markets.",
+      "story_ids": [
+        "2026-11-04-e3620a",
+        "2026-11-05-fcad10",
+        "2026-11-06-8b98ca"
+      ],
+      "heading_zh": "澳大利亚在全球限制中看到战略机遇",
+      "narrative_zh": "随着全球形势变化，澳大利亚数据中心行业吸引了大量资本和政治关注。Goodman Group与Digital Realty联合收购了NextDC价值9.4亿美元的股份，在收购猜测中促使目标公司董事会采取防御措施。工党政府明确将澳大利亚定位为从美国开发限制中获益， citing有利的监管条件。这一活动反映了更广泛的布局动向，因为运营商正在寻求替代日益拥挤的亚洲主要市场的方案。"
+    }
+  ],
+  "project_milestones": [
+    {
+      "project_id": "google-negeri-sembilan-springhill-industrial-park-data-center-campus",
+      "name": "Springhill Industrial Park data center campus",
+      "operator": "Google",
+      "date": "2026-11-02",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-11-02-5458dc"
+    },
+    {
+      "project_id": "energy-north-1gw-data-center",
+      "name": "Energy North 1GW data center",
+      "operator": "Energy North",
+      "date": "2026-11-02",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "on_hold",
+      "prev_status": null,
+      "change": "First tracked as on hold",
+      "story_id": "2026-11-02-eea5b3"
+    },
+    {
+      "project_id": "global-vision-lab-perak-perak-ai-data-center",
+      "name": "Perak AI Data Center",
+      "operator": "Global Vision Lab",
+      "date": "2026-11-03",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-11-03-cf460f"
+    },
+    {
+      "project_id": "world-vision-united-group-tay-ninh-nam-tan-uyen-ai-data-center",
+      "name": "Nam Tan Uyen AI Data Center",
+      "operator": "World Vision United Group",
+      "date": "2026-11-03",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-11-03-3522f3"
+    },
+    {
+      "project_id": "envision-digital-ulanqab-ulanqab-800vdc-data-center",
+      "name": "Ulanqab 800VDC Data Center",
+      "operator": "Envision Digital",
+      "date": "2026-11-03",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": "2026-11-03-bcb4fb"
+    },
+    {
+      "project_id": "isf-group-port-dickson-port-dickson-hyperscale-data-center",
+      "name": "Port Dickson Hyperscale Data Center",
+      "operator": "ISF Group",
+      "date": "2026-11-03",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-11-03-d48e6a"
+    },
+    {
+      "project_id": "lg-cns-jakarta-smx01",
+      "name": "SMX01",
+      "operator": "LG CNS",
+      "date": "2026-11-03",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": "2026-11-03-63a357"
+    },
+    {
+      "project_id": "goodman-group-sydney-sydney-data-centre",
+      "name": "Sydney data centre",
+      "operator": "Goodman Group",
+      "date": "2026-11-04",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "cancelled",
+      "prev_status": null,
+      "change": "First tracked as cancelled",
+      "story_id": "2026-11-04-201b12"
+    },
+    {
+      "project_id": "princeton-digital-group-johor-jh1-campus",
+      "name": "JH1 campus",
+      "operator": "Princeton Digital Group",
+      "date": "2026-11-04",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-11-04-da9707"
+    },
+    {
+      "project_id": "samsung-sds-gumi-gumi-ai-data-center",
+      "name": "Gumi AI Data Center",
+      "operator": "Samsung SDS",
+      "date": "2026-11-04",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-11-04-27181f"
+    },
+    {
+      "project_id": "sm-jakarta-jakarta-data-center",
+      "name": "Jakarta data center",
+      "operator": "SM+",
+      "date": "2026-11-04",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": "2026-11-04-46fae1"
+    },
+    {
+      "project_id": "australian-data-centres-western-downs-western-downs",
+      "name": "Western Downs",
+      "operator": "Australian Data Centres",
+      "date": "2026-11-04",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": "2026-11-04-d0eec4"
+    },
+    {
+      "project_id": "ntt-global-data-centers-indonesia-data-centre-expansion",
+      "name": "Indonesia data centre expansion",
+      "operator": "NTT Global Data Centers",
+      "date": "2026-11-04",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-11-04-7585c1"
+    },
+    {
+      "project_id": "saigontel-tay-ninh-tay-ninh-ai-data-center",
+      "name": "Tay Ninh AI data center",
+      "operator": "SAIGONTEL",
+      "date": "2026-11-04",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-11-04-3022e3"
+    },
+    {
+      "project_id": "dayone-hong-kong-data-centre",
+      "name": "DayOne Hong Kong Data Centre",
+      "operator": "DayOne Data Centers",
+      "date": "2026-11-05",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-11-05-55eb85"
+    },
+    {
+      "project_id": "google-malaysian-data-center-campus",
+      "name": "Google Malaysian Data Center Campus",
+      "operator": "Google",
+      "date": "2026-11-05",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-11-05-ca560b"
+    },
+    {
+      "project_id": "zhi-sheng-group-holdings-eastern-economic-corridor-hydc1-hyperscale-ai-data-center",
+      "name": "HYDC1 Hyperscale AI Data Center",
+      "operator": "Zhi Sheng Group Holdings",
+      "date": "2026-11-06",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-11-06-5e1a97"
+    },
+    {
+      "project_id": "microsoft-johor-bahru-johor-bahru-cloud-region",
+      "name": "Johor Bahru Cloud Region",
+      "operator": "Microsoft",
+      "date": "2026-11-06",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-11-06-acf4ae"
+    },
+    {
+      "project_id": "princeton-digital-group-pdg-malaysia-build-out",
+      "name": "PDG Malaysia Build-out",
+      "operator": "Princeton Digital Group",
+      "date": "2026-11-06",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-11-06-632650"
+    },
+    {
+      "project_id": "envision-ulanqab-ulanqab-data-center",
+      "name": "Ulanqab Data Center",
+      "operator": "Envision",
+      "date": "2026-11-06",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "operational",
+      "prev_status": null,
+      "change": "First tracked as operational",
+      "story_id": "2026-11-06-0a8d93"
+    }
+  ],
+  "title_zh": "马来西亚AI建设加速，电力网络承压",
+  "lede_zh": "本周，东南亚主导了亚太数据中心新闻头条。马来西亚获得了前所未有的外国投资，同时也面临着其雄心壮志所面临的基础设施限制。Google 150亿美元的承诺以及 Microsoft 在柔佛州的第二个云区域巩固了该国作为主要AI基础设施目的地的地位，但行业专家警告称，电网扩建严重落后于建设时间表。资本流入与电力供应之间的紧张关系在整个地区回响：日本预测到2034年数据中心需求将增长两倍，并将推动核能复兴；而澳大利亚预测，到本十年末，仅悉尼都市圈的设施耗电量就将达到所有居民用电需求的两倍。与此同时，围绕AI芯片流动的地缘政治摩擦加剧，Nvidia pre"
+}

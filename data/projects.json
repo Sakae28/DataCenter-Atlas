@@ -18495,10 +18495,11 @@
         }
       ],
       "story_ids": [
-        "2026-11-07-f38552"
+        "2026-11-07-f38552",
+        "2026-11-09-1a5d63"
       ],
       "first_seen": "2026-08-17",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-09",
       "seed": false,
       "capacity_note": "total power per Baxtel",
       "source": "baxtel",
@@ -104601,7 +104602,89 @@
       "first_seen": "2026-11-06",
       "last_updated": "2026-11-06",
       "seed": false
+    },
+    {
+      "id": "airtrunk-melbourne-mickleham-data-centre",
+      "name": "Mickleham data centre",
+      "operator": "AirTrunk",
+      "region": "australia",
+      "country": "Australia",
+      "city": "Melbourne",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-11-09",
+          "story_id": "2026-11-09-3fa425"
+        }
+      ],
+      "story_ids": [
+        "2026-11-09-3fa425"
+      ],
+      "first_seen": "2026-11-09",
+      "last_updated": "2026-11-09",
+      "seed": false
+    },
+    {
+      "id": "stockland-sydney-sydney-data-centre",
+      "name": "Sydney data centre",
+      "operator": "Stockland",
+      "region": "australia",
+      "country": "Australia",
+      "city": "Sydney",
+      "capacity_mw": null,
+      "status": "cancelled",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "cancelled",
+          "date": "2026-11-09",
+          "story_id": "2026-11-09-91ea10"
+        }
+      ],
+      "story_ids": [
+        "2026-11-09-91ea10"
+      ],
+      "first_seen": "2026-11-09",
+      "last_updated": "2026-11-09",
+      "seed": false
     }
   ],
-  "updated_at": "2026-11-08T08:05:20Z"
+  "updated_at": "2026-11-09T08:26:27Z"
 }
