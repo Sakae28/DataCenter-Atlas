@@ -731,7 +731,7 @@
       "summary": "Google's planned $15 billion investment marks one of the largest foreign direct investments in Malaysia's history and will expand the company's cloud infrastructure footprint across Southeast Asia. The commitment includes developing a data center campus and cloud region to serve domestic and regional demand for AI and digital services.",
       "why_it_matters": "Malaysia emerges as a primary beneficiary of the US-China tech decoupling, with Google joining Microsoft and ByteDance in making multibillion-dollar commitments. Local utilities and construction firms will face pressure to deliver power and infrastructure on accelerated timelines, while Singapore-based operators may see price-sensitive workloads migrate north.",
       "score": 90,
-      "heat": 7,
+      "heat": 8,
       "regions": [
         "southeast-asia"
       ],
@@ -778,11 +778,18 @@
           "name": "ET Datacenters",
           "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/google-commits-us15-billion-for-malaysia-data-centers/135555829",
           "type": "rss"
+        },
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/grab-softbank-to-invest-1.85bn-in-malaysia-ai-infrastructure",
+          "type": "rss"
         }
       ],
       "companies": [
         "Google",
-        "Alphabet"
+        "Alphabet",
+        "Grab",
+        "SoftBank"
       ],
       "title_zh": "Google承诺向马来西亚数据中心投资150亿美元",
       "summary_zh": "Google计划投资150亿美元，这是马来西亚历史上最大的外国直接投资之一，将扩展该公司在东南亚的cloud基础设施布局。该承诺包括开发一个data center园区和cloud region，以满足国内及区域对AI和数字服务的需求。",

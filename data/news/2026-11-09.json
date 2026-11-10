@@ -3,103 +3,12 @@
   "generated_at": "2026-11-09T08:06:48Z",
   "hot": [
     "2026-11-09-05274b",
+    "2026-11-09-3fa425",
     "2026-11-09-6f2bdc",
     "2026-11-09-981269",
-    "2026-11-09-1a5d63",
-    "2026-11-09-9488a0"
+    "2026-11-09-1a5d63"
   ],
   "stories": [
-    {
-      "id": "2026-11-09-105e93",
-      "title": "Tech giants' energy demands are 'crazy,' says SA premier",
-      "summary": "South Australian Premier Peter Malinauskas says the world’s biggest technology companies have unrealistic expectations about the energy available to power their artificial intelligence aspirations in…",
-      "why_it_matters": "",
-      "score": 50,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "power",
-        "energy",
-        "hyperscale",
-        "policy"
-      ],
-      "published_at": "2026-11-09T07:11:09Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/companies/infrastructure/tech-giants-energy-demands-are-crazy-says-sa-premier-20261109-p61cn9",
-          "type": "html-list"
-        }
-      ],
-      "title_zh": "南澳州州长称科技巨头的能源需求\"疯狂\"",
-      "content": "South Australian Premier Peter Malinauskas says the world’s biggest technology companies have unrealistic expectations about the energy available to power their artificial intelligence aspirations in Australia, warning there is nowhere near enough renewable generation.\n\nMalinauskas, who travelled to the United States in July to meet with AI developers and data centre operators, along with Democrats and Republicans, said demand for power was “just crazy stuff”.\n\nLoading...",
-      "content_url": "https://www.afr.com/companies/infrastructure/tech-giants-energy-demands-are-crazy-says-sa-premier-20261109-p61cn9"
-    },
-    {
-      "id": "2026-11-09-c881f6",
-      "title": "AI's loss from the US midterms could be Australia's gain",
-      "summary": "“People really effing hate data centres.” So said Abdul El-Sayed, who emerged victorious in the race to become senator for Michigan in last week’s seismic midterm elections.",
-      "why_it_matters": "",
-      "score": 45,
-      "heat": 1,
-      "regions": [
-        "australia",
-        "global"
-      ],
-      "topics": [
-        "ai",
-        "politics",
-        "us-election",
-        "investment"
-      ],
-      "published_at": "2026-11-09T05:00:00Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/technology/ai-s-loss-from-the-us-midterms-could-be-australia-s-gain-20261109-p61c7l",
-          "type": "html-list"
-        }
-      ],
-      "title_zh": "美国中期选举后AI领域的损失可能成为澳大利亚的收获",
-      "content": "“People really effing hate data centres.” So said Abdul El-Sayed, who emerged victorious in the race to become senator for Michigan in last week’s seismic midterm elections.\n\nLooking at the blue wave of Democrat victories across America, he certainly seems to have a point.\n\nLoading...",
-      "content_url": "https://www.afr.com/technology/ai-s-loss-from-the-us-midterms-could-be-australia-s-gain-20261109-p61c7l"
-    },
-    {
-      "id": "2026-11-09-e80047",
-      "title": "Macquarie predicts the next boom areas after data centres",
-      "summary": "The Macquarie dealmaker who oversaw its early stake in data centre firm AirTrunk says the next major growth areas for digital infrastructure will be data registries and supply chain technology.",
-      "why_it_matters": "",
-      "score": 35,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "investment",
-        "data-centre",
-        "markets",
-        "prediction"
-      ],
-      "published_at": "2026-11-09T01:12:24Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/companies/telecommunications/where-macquarie-sees-the-next-boom-areas-after-data-centres-20261109-p61cjx",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Macquarie"
-      ],
-      "title_zh": "麦格理预测数据中心之后的下一个繁荣领域",
-      "content": "The Macquarie dealmaker who oversaw its early stake in data centre firm AirTrunk says the next major growth areas for digital infrastructure will be data registries and supply chain technology.\n\nAni Satchcroft, the regional co-head of Macquarie Asset Management, spearheaded the organisation’s $3 billion investment in AirTrunk back in 2020. Almost five years later, private capital juggernaut Blackstone paid $24 billion for it.\n\nLoading...",
-      "content_url": "https://www.afr.com/companies/telecommunications/where-macquarie-sees-the-next-boom-areas-after-data-centres-20261109-p61cjx"
-    },
     {
       "id": "2026-11-09-dbac95",
       "title": "NextDC under siege as Goodman and Digital Realty snap up 9.9pc stake",
@@ -168,69 +77,6 @@
       "published_precision": "day",
       "content": "Federal parliament will make a series of important decisions over the coming months that will help define national standards for large artificial intelligence data centres.\n\nAustralia is competing for some of the largest capital investments ever made, as the hyperscalers and AI labs decide where to build. We need to think seriously about how Australia participates in the AI revolution because the choices we make now will shape our society, economy, and environment for many decades ahead.\n\nLoading...",
       "content_url": "https://www.afr.com/companies/infrastructure/keep-coal-firing-and-start-up-nuclear-to-power-data-centres-20261109-p61c7q"
-    },
-    {
-      "id": "2026-11-09-dd05bc",
-      "title": "Mitsui Chemicals to take over chip linchpin JSR for US$12 bil",
-      "summary": "(Nov 9): Japan’s Mitsui Chemicals Inc is buying JSR Corp for ¥1.84 trillion (US$12 billion) with support from state-backed Development Bank of Japan (DBJ) to strengthen its hold over a key chip materials linchpin.",
-      "why_it_matters": "",
-      "score": 60,
-      "heat": 1,
-      "regions": [
-        "japan"
-      ],
-      "topics": [
-        "chips",
-        "materials",
-        "semiconductor",
-        "mergers-acquisitions"
-      ],
-      "published_at": "2026-11-09T03:38:52Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825025",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Mitsui Chemicals",
-        "JSR Corp",
-        "Development Bank of Japan"
-      ],
-      "title_zh": "三井化学将以120亿美元收购芯片关键企业JSR",
-      "content": "Mitsui Chemicals and DBJ will acquire all shares of JSR from government-backed Japan Investment Corp, the companies said in a filing Monday. DBJ will pay ¥200 billion in cash for a stake that will be converted to preferred shares without voting rights, it said.\n\nThe deal for JSR, one of the world’s leading makers of photoresists needed to make advanced chips, would further a government-backed effort to consolidate Japan’s fragmented semiconductor-materials industry. Japan is home to the world’s largest suppliers of silicon wafers and dominates several other critical chip materials, but many of its smaller suppliers remain vulnerable to foreign takeovers.\n\nMitsui Chemicals’ shares extended their decline to as much as 15% in Tokyo.\n\nJIC took JSR private two years ago. JSR supplies light-sensitive materials used with ASML Holding NV’s extreme ultraviolet lithography machines to pattern fine circuits onto silicon wafers. Customers for JSR’s array of specialty chemicals include Taiwan Semiconductor Manufacturing Co, Intel Corp and Samsung Electronics Co, according to data compiled by *Bloomberg*.\n\n*Bloomberg News* reported in September that JSR was weighing buyout proposals from Mitsui Chemicals and rival Mitsubishi Chemical Group Corp.\n\n*Uploaded by Liza Shireen Koshy*",
-      "content_url": "https://theedgemalaysia.com/node/825025"
-    },
-    {
-      "id": "2026-11-09-86c84e",
-      "title": "RBA's Hunter says AI boom will put near-term pressure on CPI",
-      "summary": "(Nov 9): A senior official at Australia’s central bank said surging investment in areas related to artificial intelligence will further fuel demand in the economy, at a time when policymakers are already aggressively raising interest rates to combat inflation.",
-      "why_it_matters": "",
-      "score": 50,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "ai",
-        "economy",
-        "inflation",
-        "monetary-policy"
-      ],
-      "published_at": "2026-11-09T01:46:16Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825012",
-          "type": "html-list"
-        }
-      ],
-      "title_zh": "澳联储Hunter称AI繁荣将对CPI造成短期压力",
-      "content": "(Nov 9): A senior official at Australia’s central bank said surging investment in areas related to artificial intelligence will further fuel demand in the economy, at a time when policymakers are already aggressively raising interest rates to combat inflation.\n\nIn a speech on the potential impact of AI, Reserve Bank assistant governor Sarah Hunter on Monday called it among “the most significant technological developments of our time,” one already beginning to reshape the economy.\n\n“In the near term, the positive shock to aggregate demand set against the economy’s current supply capacity will put some upward pressure on inflation,” she said. “Some liaison contacts are reporting that data centre construction is adding to demand for some already-stretched construction skilled trades.”\n\nRising construction costs are one channel AI demand is feeding through to the consumer price index, Hunter said during a Q&A after her speech. To a lesser extent, price rises for newer mobile phones and game consoles are also boosting the CPI, she added.\n\nAustralia’s construction project pipeline reached a record A$1.4 trillion through September and may end up double the scale of the mining boom, according to Deloitte Access Economics. Both the RBA and government have pointed out the surprising strength of business investment, even as the US-Iran war has pushed energy prices higher and weighed on households.\n\nStill, risks to the AI project pipeline are “balanced,” Hunter said in response to a question, pointing out that potential changes to regulation could crimp some developments.\n\nThe RBA has raised interest rates five times this year to 4.85%, an 18-year high, as it struggles to regain control over inflation.\n\nOn the upside, once initial bottlenecks are overcome, AI is expected to boost productivity because economies will be able to produce more with the same inputs. That suggests the initial inflationary pressures will dissipate in time, Hunter said in her speech, while acknowledging high uncertainty over the scale of gains.\n\n“Current estimates for the impact of AI on annual productivity growth over the next decade range from over 2% to just 0.1%,” she said.\n\nWhile Hunter said AI is likely to change the labour market significantly in time, to date it has been fairly muted.\n\n“Contacts in the RBA’s liaison program indicate that AI has not yet impacted most firms’ headcount and is not expected to over the next year,” Hunter said.\n\n“However, there are tentative signs of adjustment, through weaker job ad posting and employment outcomes in more AI-exposed occupations, and stronger growth in areas where the technology has had less of an impact, particularly for younger workers,” she said.\n\nGlobal financial markets were whipsawed last week after the Democratic Party’s sweep of Congress in the US midterm elections, which stoked fear among investors about tighter regulation of the data center industry.\n\nHunter said the exposure of financial market participants to the AI investment boom is increasing at a time when investors are demanding very little compensation for taking on risky assets.\n\n“If the returns to AI investment disappoint, some asset prices, including equities and corporate debt, will be exposed to sharp repricing and possibly disorderly adjustments,” she said.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/825012"
     },
     {
       "id": "2026-11-09-9ab293",
@@ -325,6 +171,36 @@
       "why_zh": "亚太市场已成为 AI 需求情绪的杠杆代理，韩国存储器和台湾代工股票的波动放大了美国半导体股票的变动。同步下跌表明区域投资者正在质疑 AI 基础设施支出增长率能否支撑当前估值倍数，这直接威胁到依赖股权关联资本的数据中心扩张项目的融资环境。",
       "content": "TOKYO -- Asian stock markets tied to the artificial intelligence boom plummeted on Friday following a tech sell-off on Wall Street overnight, as investors fretted about possible delays in the construction of data centers following a sweeping Democratic victory in the U.S. midterm elections.",
       "content_url": "https://asia.nikkei.com/business/markets/taiwan-south-korea-japan-stock-markets-hit-hard-by-ai-sell-off"
+    },
+    {
+      "id": "2026-11-09-105e93",
+      "title": "Tech giants' energy demands are 'crazy,' says SA premier",
+      "summary": "South Australian Premier Peter Malinauskas says the world’s biggest technology companies have unrealistic expectations about the energy available to power their artificial intelligence aspirations in…",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "power",
+        "energy",
+        "hyperscale",
+        "policy"
+      ],
+      "published_at": "2026-11-09T07:11:09Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/infrastructure/tech-giants-energy-demands-are-crazy-says-sa-premier-20261109-p61cn9",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "南澳州州长称科技巨头的能源需求\"疯狂\"",
+      "content": "South Australian Premier Peter Malinauskas says the world’s biggest technology companies have unrealistic expectations about the energy available to power their artificial intelligence aspirations in Australia, warning there is nowhere near enough renewable generation.\n\nMalinauskas, who travelled to the United States in July to meet with AI developers and data centre operators, along with Democrats and Republicans, said demand for power was “just crazy stuff”.\n\nLoading...",
+      "content_url": "https://www.afr.com/companies/infrastructure/tech-giants-energy-demands-are-crazy-says-sa-premier-20261109-p61cn9",
+      "published_precision": "day"
     },
     {
       "id": "2026-11-09-6f2bdc",
@@ -435,6 +311,37 @@
       "content_url": "https://datacenternews.asia/story/apdca-launches-playbook-for-data-centre-policymakers"
     },
     {
+      "id": "2026-11-09-c881f6",
+      "title": "AI's loss from the US midterms could be Australia's gain",
+      "summary": "“People really effing hate data centres.” So said Abdul El-Sayed, who emerged victorious in the race to become senator for Michigan in last week’s seismic midterm elections.",
+      "why_it_matters": "",
+      "score": 45,
+      "heat": 1,
+      "regions": [
+        "australia",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "politics",
+        "us-election",
+        "investment"
+      ],
+      "published_at": "2026-11-09T05:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/technology/ai-s-loss-from-the-us-midterms-could-be-australia-s-gain-20261109-p61c7l",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "美国中期选举后AI领域的损失可能成为澳大利亚的收获",
+      "content": "“People really effing hate data centres.” So said Abdul El-Sayed, who emerged victorious in the race to become senator for Michigan in last week’s seismic midterm elections.\n\nLooking at the blue wave of Democrat victories across America, he certainly seems to have a point.\n\nLoading...",
+      "content_url": "https://www.afr.com/technology/ai-s-loss-from-the-us-midterms-could-be-australia-s-gain-20261109-p61c7l",
+      "published_precision": "day"
+    },
+    {
       "id": "2026-11-09-981269",
       "title": "Hanwha Ocean and ABB partner to develop power systems for floating data centers",
       "summary": "Hanwha Ocean and ABB have signed an MoU to develop marine-grade power and control systems for floating data centres, targeting offshore deployment as land availability constraints intensify. The collaboration combines shipbuilding expertise with industrial automation technology.",
@@ -505,12 +412,75 @@
       "content_url": "https://www.businesstimes.com.sg/opinion-features/south-east-asias-haze-shows-diversified-electricity-source-may-not-be-dependable"
     },
     {
+      "id": "2026-11-09-dd05bc",
+      "title": "Mitsui Chemicals to take over chip linchpin JSR for US$12 bil",
+      "summary": "(Nov 9): Japan’s Mitsui Chemicals Inc is buying JSR Corp for ¥1.84 trillion (US$12 billion) with support from state-backed Development Bank of Japan (DBJ) to strengthen its hold over a key chip materials linchpin.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "chips",
+        "materials",
+        "semiconductor",
+        "mergers-acquisitions"
+      ],
+      "published_at": "2026-11-09T03:38:52Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825025",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Mitsui Chemicals",
+        "JSR Corp",
+        "Development Bank of Japan"
+      ],
+      "title_zh": "三井化学将以120亿美元收购芯片关键企业JSR",
+      "content": "Mitsui Chemicals and DBJ will acquire all shares of JSR from government-backed Japan Investment Corp, the companies said in a filing Monday. DBJ will pay ¥200 billion in cash for a stake that will be converted to preferred shares without voting rights, it said.\n\nThe deal for JSR, one of the world’s leading makers of photoresists needed to make advanced chips, would further a government-backed effort to consolidate Japan’s fragmented semiconductor-materials industry. Japan is home to the world’s largest suppliers of silicon wafers and dominates several other critical chip materials, but many of its smaller suppliers remain vulnerable to foreign takeovers.\n\nMitsui Chemicals’ shares extended their decline to as much as 15% in Tokyo.\n\nJIC took JSR private two years ago. JSR supplies light-sensitive materials used with ASML Holding NV’s extreme ultraviolet lithography machines to pattern fine circuits onto silicon wafers. Customers for JSR’s array of specialty chemicals include Taiwan Semiconductor Manufacturing Co, Intel Corp and Samsung Electronics Co, according to data compiled by *Bloomberg*.\n\n*Bloomberg News* reported in September that JSR was weighing buyout proposals from Mitsui Chemicals and rival Mitsubishi Chemical Group Corp.\n\n*Uploaded by Liza Shireen Koshy*",
+      "content_url": "https://theedgemalaysia.com/node/825025"
+    },
+    {
+      "id": "2026-11-09-86c84e",
+      "title": "RBA's Hunter says AI boom will put near-term pressure on CPI",
+      "summary": "(Nov 9): A senior official at Australia’s central bank said surging investment in areas related to artificial intelligence will further fuel demand in the economy, at a time when policymakers are already aggressively raising interest rates to combat inflation.",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ai",
+        "economy",
+        "inflation",
+        "monetary-policy"
+      ],
+      "published_at": "2026-11-09T01:46:16Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825012",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "澳联储Hunter称AI繁荣将对CPI造成短期压力",
+      "content": "(Nov 9): A senior official at Australia’s central bank said surging investment in areas related to artificial intelligence will further fuel demand in the economy, at a time when policymakers are already aggressively raising interest rates to combat inflation.\n\nIn a speech on the potential impact of AI, Reserve Bank assistant governor Sarah Hunter on Monday called it among “the most significant technological developments of our time,” one already beginning to reshape the economy.\n\n“In the near term, the positive shock to aggregate demand set against the economy’s current supply capacity will put some upward pressure on inflation,” she said. “Some liaison contacts are reporting that data centre construction is adding to demand for some already-stretched construction skilled trades.”\n\nRising construction costs are one channel AI demand is feeding through to the consumer price index, Hunter said during a Q&A after her speech. To a lesser extent, price rises for newer mobile phones and game consoles are also boosting the CPI, she added.\n\nAustralia’s construction project pipeline reached a record A$1.4 trillion through September and may end up double the scale of the mining boom, according to Deloitte Access Economics. Both the RBA and government have pointed out the surprising strength of business investment, even as the US-Iran war has pushed energy prices higher and weighed on households.\n\nStill, risks to the AI project pipeline are “balanced,” Hunter said in response to a question, pointing out that potential changes to regulation could crimp some developments.\n\nThe RBA has raised interest rates five times this year to 4.85%, an 18-year high, as it struggles to regain control over inflation.\n\nOn the upside, once initial bottlenecks are overcome, AI is expected to boost productivity because economies will be able to produce more with the same inputs. That suggests the initial inflationary pressures will dissipate in time, Hunter said in her speech, while acknowledging high uncertainty over the scale of gains.\n\n“Current estimates for the impact of AI on annual productivity growth over the next decade range from over 2% to just 0.1%,” she said.\n\nWhile Hunter said AI is likely to change the labour market significantly in time, to date it has been fairly muted.\n\n“Contacts in the RBA’s liaison program indicate that AI has not yet impacted most firms’ headcount and is not expected to over the next year,” Hunter said.\n\n“However, there are tentative signs of adjustment, through weaker job ad posting and employment outcomes in more AI-exposed occupations, and stronger growth in areas where the technology has had less of an impact, particularly for younger workers,” she said.\n\nGlobal financial markets were whipsawed last week after the Democratic Party’s sweep of Congress in the US midterm elections, which stoked fear among investors about tighter regulation of the data center industry.\n\nHunter said the exposure of financial market participants to the AI investment boom is increasing at a time when investors are demanding very little compensation for taking on risky assets.\n\n“If the returns to AI investment disappoint, some asset prices, including equities and corporate debt, will be exposed to sharp repricing and possibly disorderly adjustments,” she said.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/825012"
+    },
+    {
       "id": "2026-11-09-3fa425",
       "title": "AirTrunk advances plans for proposed Mickleham data centre",
       "summary": "AirTrunk has progressed planning for a multi-building campus at Mickleham in Melbourne's northern growth corridor, emphasizing local employment and supply chain benefits. The project represents AirTrunk's continued expansion in the Victorian market beyond existing facilities.",
       "why_it_matters": "Melbourne's northern suburbs are becoming a contested zone between data centre developers and residential planners. AirTrunk's community-focused messaging signals recognition that social license matters, but the real test comes when power substations and diesel backup generators arrive—local councils in Australia have recently killed projects at far smaller scales than what AirTrunk typically builds.",
       "score": 80,
-      "heat": 1,
+      "heat": 2,
       "regions": [
         "australia"
       ],
@@ -527,6 +497,11 @@
           "name": "AirTrunk (official)",
           "url": "https://airtrunk.com/airtrunk-advances-plans-for-proposed-mickleham-data-centre/",
           "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/airtrunk-named-as-operator-behind-data-center-project-in-melbourne-australia/",
+          "type": "rss"
         }
       ],
       "companies": [
@@ -537,6 +512,39 @@
       "why_zh": "墨尔本北部郊区正成为数据中心开发商与住宅规划者之间的争夺地带。AirTrunk 以社区为重点的信息传递表明其认识到社会许可的重要性，但真正的考验在于变电站和柴油备用发电机到位之时——澳大利亚地方议会最近否决的项目规模远小于 AirTrunk 通常建设的规模。",
       "content": "AirTrunk has proposed a new data centre campus at 45 Donnybrook Road, Mickleham, bringing the potential for long-term jobs, local business opportunities and investment in Melbourne’s north.\n\nThe proposal is expected to support more than 1,000 ongoing local jobs and create further opportunities for workers, suppliers and businesses during construction. Subject to the necessary approvals, AirTrunk is also proposing a $26.5 million investments into local community infrastructure, skills and education, including:\n\n- $6.5m to a Victorian Skills Partnership to support the electrical and technical workforce needed for data centres, energy infrastructure and broader electrification.\n- $5m to the delivery of local sporting and recreation infrastructure to support community participation and wellbeing.\n- $15m for education and training facilities in the Mickleham area, helping local residents learn and study closer to home.\n- An expanded Social Impact Program in Melbourne’s northern suburbs, providing ongoing support through partnerships in education, biodiversity and conservation, and digital inclusion.\n\nThe campus has been designed to use air-based cooling and would not use community water for cooling during normal operations. The site is more than 400 metres from the nearest home, with the design intended to screen equipment and minimise noise beyond the site.\n\nAirTrunk will fund the infrastructure required to connect the campus to the Victorian transmission network. We are committed to matching its electricity use with renewable energy and is exploring opportunities to support new renewable energy projects.\n\nAirTrunk is holding community information sessions and a webinar in November to share details about the proposal and hear feedback on local opportunities, community benefits and construction impacts.\n\n“We want to engage with people who live and work in Mickleham and the surrounding area,” said Rob Bartrop, Associate Vice President of Social Impact & Community at AirTrunk.\n\n“We’re committed to keeping the community informed, creating opportunities for people to participate in the training, employment and procurement opportunities, and to investing into much-needed community infrastructure in Melbourne’s northern suburbs.”\n\nThe proposal is subject to planning and environmental approvals. More information, including details of consultation opportunities, is available at airtrunk.com/mickleham.",
       "content_url": "https://airtrunk.com/airtrunk-advances-plans-for-proposed-mickleham-data-centre/"
+    },
+    {
+      "id": "2026-11-09-e80047",
+      "title": "Macquarie predicts the next boom areas after data centres",
+      "summary": "The Macquarie dealmaker who oversaw its early stake in data centre firm AirTrunk says the next major growth areas for digital infrastructure will be data registries and supply chain technology.",
+      "why_it_matters": "",
+      "score": 35,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "investment",
+        "data-centre",
+        "markets",
+        "prediction"
+      ],
+      "published_at": "2026-11-09T01:12:24Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/telecommunications/where-macquarie-sees-the-next-boom-areas-after-data-centres-20261109-p61cjx",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Macquarie"
+      ],
+      "title_zh": "麦格理预测数据中心之后的下一个繁荣领域",
+      "content": "The Macquarie dealmaker who oversaw its early stake in data centre firm AirTrunk says the next major growth areas for digital infrastructure will be data registries and supply chain technology.\n\nAni Satchcroft, the regional co-head of Macquarie Asset Management, spearheaded the organisation’s $3 billion investment in AirTrunk back in 2020. Almost five years later, private capital juggernaut Blackstone paid $24 billion for it.\n\nLoading...",
+      "content_url": "https://www.afr.com/companies/telecommunications/where-macquarie-sees-the-next-boom-areas-after-data-centres-20261109-p61cjx",
+      "published_precision": "day"
     },
     {
       "id": "2026-11-09-1a5d63",
@@ -741,7 +749,7 @@
       "summary": "US intelligence agencies are examining whether foreign intelligence services, with particular attention from China, have targeted Nvidia CEO Jensen Huang. The probe highlights growing concerns about executive security at semiconductor firms central to AI supply chains.",
       "why_it_matters": "If foreign intelligence is actively targeting chip company leadership, the personal security calculus for executives across the semiconductor and AI infrastructure sectors shifts dramatically. Companies may need to harden executive protection programs, and governments could impose new travel and disclosure restrictions that complicate deal-making and partnership-building across borders.",
       "score": 85,
-      "heat": 3,
+      "heat": 4,
       "regions": [
         "global",
         "southeast-asia",
@@ -770,11 +778,17 @@
           "name": "The Edge Malaysia — data centre search",
           "url": "https://theedgemalaysia.com/node/825007",
           "type": "html-list"
+        },
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/markets/nvidia-shares-drop-as-jensen-huang-affair-raises-china-spy-concerns",
+          "type": "rss"
         }
       ],
       "companies": [
         "NVIDIA",
-        "Nvidia"
+        "Nvidia",
+        "Megaspeed"
       ],
       "title_zh": "Nvidia调查CEO Huang是否成为外国情报行动目标",
       "summary_zh": "美国情报机构正在调查外国情报部门是否将 Nvidia CEO Jensen Huang 作为目标，其中中国方面的关注尤为突出。此次调查凸显了对处于 AI 供应链核心的半导体企业高管安全的日益担忧。",

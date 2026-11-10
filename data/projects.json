@@ -104684,7 +104684,89 @@
       "first_seen": "2026-11-09",
       "last_updated": "2026-11-09",
       "seed": false
+    },
+    {
+      "id": "epg-modular-data-center-senai-factory",
+      "name": "EPG Modular Data Center Senai Factory",
+      "operator": "EPG Modular Data Center",
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "city": "Senai",
+      "capacity_mw": null,
+      "status": "under_construction",
+      "developer": null,
+      "investor": null,
+      "investment": "US$120 million",
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "under_construction",
+          "date": "2026-11-10",
+          "story_id": "2026-11-10-d996fe"
+        }
+      ],
+      "story_ids": [
+        "2026-11-10-d996fe"
+      ],
+      "first_seen": "2026-11-10",
+      "last_updated": "2026-11-10",
+      "seed": false
+    },
+    {
+      "id": "nextdc-melbourne-facility",
+      "name": "NextDC Melbourne facility",
+      "operator": "NEXTDC",
+      "region": "australia",
+      "country": "Australia",
+      "city": "Melbourne",
+      "capacity_mw": null,
+      "status": "on_hold",
+      "developer": null,
+      "investor": null,
+      "investment": "A$715 million equity investment",
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "on_hold",
+          "date": "2026-11-10",
+          "story_id": "2026-11-10-bc4677"
+        }
+      ],
+      "story_ids": [
+        "2026-11-10-bc4677"
+      ],
+      "first_seen": "2026-11-10",
+      "last_updated": "2026-11-10",
+      "seed": false
     }
   ],
-  "updated_at": "2026-11-09T08:26:27Z"
+  "updated_at": "2026-11-10T08:50:32Z"
 }
