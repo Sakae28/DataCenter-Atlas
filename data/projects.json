@@ -18496,10 +18496,11 @@
       ],
       "story_ids": [
         "2026-11-07-f38552",
-        "2026-11-09-1a5d63"
+        "2026-11-09-1a5d63",
+        "2026-11-11-672632"
       ],
       "first_seen": "2026-08-17",
-      "last_updated": "2026-11-09",
+      "last_updated": "2026-11-11",
       "seed": false,
       "capacity_note": "total power per Baxtel",
       "source": "baxtel",
@@ -104720,10 +104721,11 @@
         }
       ],
       "story_ids": [
-        "2026-11-10-d996fe"
+        "2026-11-10-d996fe",
+        "2026-11-11-03d7d0"
       ],
       "first_seen": "2026-11-10",
-      "last_updated": "2026-11-10",
+      "last_updated": "2026-11-11",
       "seed": false
     },
     {
@@ -104768,5 +104770,5 @@
       "seed": false
     }
   ],
-  "updated_at": "2026-11-10T08:50:32Z"
+  "updated_at": "2026-11-11T08:05:05Z"
 }

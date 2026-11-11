@@ -511,7 +511,8 @@
       "summary_zh": "AirTrunk 已推进在墨尔本北部增长走廊 Mickleham 建设多栋园区式数据中心的规划，强调当地就业和供应链效益。该项目代表 AirTrunk 在现有设施之外继续扩张维多利亚州市场。",
       "why_zh": "墨尔本北部郊区正成为数据中心开发商与住宅规划者之间的争夺地带。AirTrunk 以社区为重点的信息传递表明其认识到社会许可的重要性，但真正的考验在于变电站和柴油备用发电机到位之时——澳大利亚地方议会最近否决的项目规模远小于 AirTrunk 通常建设的规模。",
       "content": "AirTrunk has proposed a new data centre campus at 45 Donnybrook Road, Mickleham, bringing the potential for long-term jobs, local business opportunities and investment in Melbourne’s north.\n\nThe proposal is expected to support more than 1,000 ongoing local jobs and create further opportunities for workers, suppliers and businesses during construction. Subject to the necessary approvals, AirTrunk is also proposing a $26.5 million investments into local community infrastructure, skills and education, including:\n\n- $6.5m to a Victorian Skills Partnership to support the electrical and technical workforce needed for data centres, energy infrastructure and broader electrification.\n- $5m to the delivery of local sporting and recreation infrastructure to support community participation and wellbeing.\n- $15m for education and training facilities in the Mickleham area, helping local residents learn and study closer to home.\n- An expanded Social Impact Program in Melbourne’s northern suburbs, providing ongoing support through partnerships in education, biodiversity and conservation, and digital inclusion.\n\nThe campus has been designed to use air-based cooling and would not use community water for cooling during normal operations. The site is more than 400 metres from the nearest home, with the design intended to screen equipment and minimise noise beyond the site.\n\nAirTrunk will fund the infrastructure required to connect the campus to the Victorian transmission network. We are committed to matching its electricity use with renewable energy and is exploring opportunities to support new renewable energy projects.\n\nAirTrunk is holding community information sessions and a webinar in November to share details about the proposal and hear feedback on local opportunities, community benefits and construction impacts.\n\n“We want to engage with people who live and work in Mickleham and the surrounding area,” said Rob Bartrop, Associate Vice President of Social Impact & Community at AirTrunk.\n\n“We’re committed to keeping the community informed, creating opportunities for people to participate in the training, employment and procurement opportunities, and to investing into much-needed community infrastructure in Melbourne’s northern suburbs.”\n\nThe proposal is subject to planning and environmental approvals. More information, including details of consultation opportunities, is available at airtrunk.com/mickleham.",
-      "content_url": "https://airtrunk.com/airtrunk-advances-plans-for-proposed-mickleham-data-centre/"
+      "content_url": "https://airtrunk.com/airtrunk-advances-plans-for-proposed-mickleham-data-centre/",
+      "published_precision": "day"
     },
     {
       "id": "2026-11-09-e80047",
@@ -749,7 +750,7 @@
       "summary": "US intelligence agencies are examining whether foreign intelligence services, with particular attention from China, have targeted Nvidia CEO Jensen Huang. The probe highlights growing concerns about executive security at semiconductor firms central to AI supply chains.",
       "why_it_matters": "If foreign intelligence is actively targeting chip company leadership, the personal security calculus for executives across the semiconductor and AI infrastructure sectors shifts dramatically. Companies may need to harden executive protection programs, and governments could impose new travel and disclosure restrictions that complicate deal-making and partnership-building across borders.",
       "score": 85,
-      "heat": 4,
+      "heat": 5,
       "regions": [
         "global",
         "southeast-asia",
@@ -782,6 +783,11 @@
         {
           "name": "Nikkei Asia",
           "url": "https://asia.nikkei.com/business/markets/nvidia-shares-drop-as-jensen-huang-affair-raises-china-spy-concerns",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/nvidia-shareholders-file-class-action-lawsuit-against-chip-giant-and-its-ceo-jensen-huang-following-fall-out-from-chinese-spy-allegations/",
           "type": "rss"
         }
       ],

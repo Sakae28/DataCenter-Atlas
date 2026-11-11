@@ -10,351 +10,6 @@
   ],
   "stories": [
     {
-      "id": "2026-11-10-6fa3be",
-      "title": "Synopsys joins Singapore tropical data centre testbed",
-      "summary": "The partnership aims to curb soaring cooling costs for AI-ready data centres in humid climates, where energy use can reach 40%.",
-      "why_it_matters": "",
-      "score": 65,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "cooling",
-        "ai",
-        "sustainability",
-        "research"
-      ],
-      "published_at": "2026-11-10T00:00:00Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "DataCenterNews Asia",
-          "url": "https://datacenternews.asia/story/synopsys-joins-singapore-tropical-data-centre-testbed",
-          "type": "rss"
-        }
-      ],
-      "companies": [
-        "Synopsys"
-      ],
-      "title_zh": "Synopsys加入Singapore tropical data centre testbed",
-      "content": "Tue, 10th Nov 2026 (Today)\nSynopsys has joined the Sustainable Tropical Data Centre Testbed 2.0 consortium, led by the National University of Singapore. The collaboration focuses on data centre cooling and digital modelling for tropical conditions.\n\nHosted by the university's College of Design and Engineering, the consortium brings together industry and academic researchers working on infrastructure for AI and high-performance computing systems. The work will connect engineering simulation, AI-assisted design and reduced-order modelling, validated through a physical testbed.\n\nData centres in tropical climates face higher cooling demands because of elevated temperatures and humidity. According to the consortium, ambient temperatures often exceed 24-32C and humidity can reach 70-80%, reducing the efficiency of conventional cooling systems and increasing energy use.\n\nThe challenge has become more pressing as AI workloads increase rack density, power demand and thermal loads in data centre facilities. Cooling can account for up to 40% of a tropical data centre's total energy consumption, a larger share than in cooler climates.\n\n### Cooling focus\n\nInitial research concepts include two-phase direct-to-chip cooling for AI accelerators and digital twins for predictive thermal management. The planned workflow is designed to link detailed simulation of thermal and fluid behaviour with experimental testing in the consortium's live environment.\n\nThe partners also plan to work across computational fluid dynamics, multiphysics simulation and AI-assisted thermofluid design. Results validated through the physical testbed are expected to feed into reduced-order models for use in digital twin systems and operational decision-making.\n\nSynopsys will provide software access, technical expertise, training, project mentoring and learning resources as part of the collaboration. The broader programme is intended to support research, technology validation and skills development for practitioners working on tropical data centres.\n\nBrandon Wang, Vice President, Technology Strategy & New Horizons at Synopsys, said, \"At Synopsys, we look beyond today's opportunities to the new horizons that can strengthen our technology long term. Through our Technology Intelligence Centre, our team connects emerging technology shifts with Synopsys capabilities and leading research ecosystems to turn promising ideas into strategic opportunities. Our collaboration with STDCT 2.0 reflects that commitment by bringing our silicon-to-systems engineering capabilities into a real-world environment for sustainable AI infrastructure.\"\n\nThe project reflects a wider effort in Singapore to build data centre technology suited to regional operating conditions. Southeast Asia has become an important market for data centre expansion, but operators in the region must balance rising demand for computing capacity with pressure to manage electricity and water use.\n\n### Testbed model\n\nThe Sustainable Tropical Data Centre Testbed is a joint research initiative led by the National University of Singapore and hosted by its College of Design and Engineering. It serves as a live environment where research institutions, data centre operators and technology suppliers can test systems intended to improve energy and water efficiency in hot, humid conditions.\n\nThe second phase of the testbed focuses on energy efficiency, water efficiency, green energy, AI and future data centres, and green computing. Its structure allows members to move from simulation and design work to physical validation under conditions intended to reflect operating environments in tropical markets.\n\nPadmesh Mandloi, Vice President, Synopsys Simulation and Analysis APAC at Synopsys, said, \"Efficient AI infrastructure requires a clear understanding of interconnected multiscale and multiphysics behavior, from chips to data centers. By combining Ansys multiscale and multiphysics simulation, AI-assisted engineering and surrogate modeling with STDCT 2.0 test data, we can help researchers connect and exchange data across scales, validate designs, and develop scalable cooling and digital twin solutions.\"\n\nThe collaboration also includes work on reusable workflows, case studies and validation methods, alongside a demonstration linking design, simulation, reduced-order model generation, digital twin integration and physical testing. That approach is intended to make it easier to compare design options and assess how cooling strategies perform before deployment.\n\nProfessor Lee Poh Seng, Programme Director, Sustainable Tropical Data Centre Testbed, and Head, Department of Mechanical Engineering, College of Design and Engineering at NUS, said, \"STDCT 2.0 provides a co-innovation platform to move promising technologies from simulation to validation and towards real-world deployment in tropical data centers. By combining Synopsys' multiphysics simulation, AI-assisted engineering and digital modelling capabilities with our physical testbed, we aim to develop validated, scalable cooling and digital twin solutions for increasingly dense, AI-ready infrastructure in Singapore and across the region.\"",
-      "content_url": "https://datacenternews.asia/story/synopsys-joins-singapore-tropical-data-centre-testbed"
-    },
-    {
-      "id": "2026-11-10-d631ff",
-      "title": "Nvidia chips not crucial for Firmus' data centres, says Rosenfield",
-      "summary": "Firmus co-chief executive Tim Rosenfield says the developer’s plans to build data centres in Australia and Asia do not rely on the use of Nvidia chips.",
-      "why_it_matters": "",
-      "score": 65,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "chips",
-        "ai",
-        "hardware",
-        "hyperscale"
-      ],
-      "published_at": "2026-11-10T03:45:16Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/technology/nvidia-chips-not-crucial-for-firmus-data-centres-says-rosenfield-20261110-p61ctx",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "NVIDIA",
-        "Firmus"
-      ],
-      "title_zh": "Rosenfield称NVIDIA芯片对Firmus数据中心并非关键",
-      "content": "Firmus co-chief executive Tim Rosenfield says the developer’s plans to build data centres in Australia and Asia do not rely on the use of Nvidia chips.\n\nRosenfield was speaking after shares in the world’s most valuable company were punished in the fallout from chief executive Jensen Huang’s affair with an alleged Chinese spy.\n\nLoading...",
-      "content_url": "https://www.afr.com/technology/nvidia-chips-not-crucial-for-firmus-data-centres-says-rosenfield-20261110-p61ctx"
-    },
-    {
-      "id": "2026-11-10-063cb0",
-      "title": "Infineon boosts AI sales outlook due to data centre growth plans",
-      "summary": "(Nov 10): Infineon Technologies AG raised its 2027 data centre sales forecast, signalling confidence that the business will drive growth even as investor concerns mount over the artificial intelligence boom.",
-      "why_it_matters": "",
-      "score": 75,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [
-        "ai",
-        "chips",
-        "data center",
-        "forecast"
-      ],
-      "published_at": "2026-11-10T07:48:03Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825146",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Infineon"
-      ],
-      "title_zh": "Infineon因数据中心增长计划上调AI销售预期",
-      "content": "The German chipmaker sees data centre sales growing to around €4 billion (US$4.5 billion) in the year that ends in September, it said in a statement on Tuesday. Previously, Infineon forecast AI data centre power solutions would make €2.5 billion in the period. It also makes about €500 million annually from traditional data centres, and the new figure comprises both segments.\n\n“We expect a significant increase in revenue and profitability in fiscal year 2027,” chief executive officer Jochen Hanebeck said in the statement, adding power chips for data centres and electromobility would be among the growth drivers.\n\nConcerns about a possible AI bubble have driven a steep selloff in companies from chipmakers to so-called neoclouds. Infineon’s shares have declined by 45% from a peak in June. Demand for data centre chips has helped Infineon and peers such as STMicroelectronics NV compensate for slow revenue recovery from the struggling automotive sector.\n\nInfineon is the only one among European chipmakers to give a full year forecast. The company tends to guide cautiously and then adjust estimates as visibility improves, according to JPMorgan analysts including Sandeep Deshpande. JPMorgan had expected Infineon to guide for 2027 data center revenue, including CPU and other non-AI accelerator-related power revenue, of between €3.5 billion and €4 billion.\n\nAs the buildout of data centers around the world accelerated, demand for Infineon’s chips to control power soared. Those chips can support advanced processors such as those from Nvidia Corp that are fuelling the AI boom.\n\nHowever, a punishing post-US election selloff has rippled across the industry. Some potential investors in Anthropic PBC, which can begin formal marketing of its initial public offering as soon as Tuesday, discussed a valuation ranging from about US$1.1 trillion to US$1.3 trillion, well below where talks had been focused just a month ago, *Bloomberg News* reported last week.\n\nInfineon’s fiscal 2026 revenue was €16.35 billion, matching analysts’ estimates, according to data compiled by *Bloomberg*. The company sees sales growing to about €20 billion in the current year. The board will propose increasing the 2026 dividend by three cents to €0.38.\n\nInfineon said its adjusted gross margin will be in the mid-to-high forties percentage range in the period and it plans investments of €3 billion to €3.5 billion. Adjusted gross margin was 43.1% in fiscal 2026.\n\nThe main areas of investment will be equipment for the ramp-up of production at Infineon’s Dresden site in Germany, the expansion of silicon carbide capacities in Malaysia, and the start of gallium nitride manufacturing on 300-millimetre wafers in the Austrian town of Villach.\n\nInfineon is also considering setting up wafer fabrication in Thailand, although such a move is unlikely in the next three years. In September, Infineon announced it will sell parts of its memory business to focus on its core activities and more dynamic parts of its portfolio.\n\n*Uploaded by Liza Shireen Koshy*",
-      "content_url": "https://theedgemalaysia.com/node/825146"
-    },
-    {
-      "id": "2026-11-10-f66bb3",
-      "title": "Schneider Electric opens regional centre to build technical skills",
-      "summary": "French energy management and automation company Schneider Electric has opened a regional training centre in an attempt to help workers keep pace with technological advances in data centres and other industries across Asia-Pacific.",
-      "why_it_matters": "",
-      "score": 60,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "training",
-        "workforce",
-        "data center"
-      ],
-      "published_at": "2026-11-10T07:12:48Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825140",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Schneider Electric"
-      ],
-      "title_zh": "Schneider Electric开设区域中心以培养技术技能",
-      "content": "PETALING JAYA (Nov 10): French energy management and automation company Schneider Electric has opened a regional training centre in an attempt to help workers keep pace with technological advances in data centres and other industries across Asia-Pacific.\n\nThe 18,500 sq ft facility in Petaling Jaya has the capacity to train more than 550 participants annually from 15 Asia-Pacific countries.\n\nScience, Technology and Innovation Minister Datuk Chang Lih Kang said practical training was increasingly important as investment in artificial intelligence (AI), semiconductor manufacturing, smart factories and renewable energy raised demand for skilled workers.\n\nHe warned that engineers, technicians and young technical and vocational education and training (TVET) graduates risked being left behind as technology advanced.\n\n“In the first half of 2026, Malaysia recorded more than RM200 billion in approved investments, including RM95 billion in data centres and cloud infrastructure, particularly in Selangor and Johor,” he said at the launch.\n\n“Without equipping our engineers, technicians, and young TVET talents with practical, industry-relevant skills, we risk leaving our workforce behind while technology advances.”\n\nChang said the centre could help turn national innovation policies into economic gains by developing workers with industry-relevant skills, supporting knowledge and technology transfer, and connecting local start-ups with industrial expertise.\n\nWith the right tools and training, Malaysians could compete internationally and take on roles developing, operating and leading technologies across the region, he added.\n\nThe opening also builds on France–Malaysia cooperation in technology, innovation and talent development as the countries approach 70 years of diplomatic relations. French ambassador to Malaysia Marc Abensour said the centre would bring international expertise together with local experience, allowing engineers and technicians from different markets to exchange knowledge and collaborate.\n\n“French companies are not here as short-term visitors. They are here as long-term partners, growing alongside the nation and investing in its future,” he said.\n\nSchneider Electric Malaysia country president Eugene Quah said Malaysia was chosen for its talent, strategic location, growing digital economy and government commitment to skills development.\n\nHe said linking the training academy with the company’s service teams would allow problems encountered at customers’ facilities to be incorporated into training.\n\n“That means what we learn from customers shapes our training, and what we teach helps solve the issues they face,” he said.\n\nTraining will be offered to Schneider Electric employees, customers, partners and contractors to improve their ability to install, operate and maintain energy and automation systems.\n\nCourses will cover low- and medium-voltage electrical distribution equipment, including circuit breakers and transformers, as well as backup power supplies and battery systems. Other training will focus on energy management, industrial automation and digital tools for monitoring data centre operations.\n\nTrainees will work with functioning equipment to practise identifying faults and learn how electrical supplies, backup power and monitoring systems work together.\n\nEdited ByKuek Ser Kwang Zhe\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/825140"
-    },
-    {
-      "id": "2026-11-10-99ffba",
-      "title": "SoftBank books US$7 bil quarterly loss on US data centre hit, financing costs",
-      "summary": "TOKYO (Nov 10): Japan's SoftBank Group said on Tuesday that it had swung to a second-quarter net loss of US$7 billion, hit hard by hefty buildout costs for data centres in the US and increases in financing payments.",
-      "why_it_matters": "",
-      "score": 70,
-      "heat": 1,
-      "regions": [
-        "japan",
-        "global"
-      ],
-      "topics": [
-        "investment",
-        "data center",
-        "earnings",
-        "hyperscale"
-      ],
-      "published_at": "2026-11-10T07:07:34Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825139",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "SoftBank"
-      ],
-      "title_zh": "SoftBank因美国数据中心冲击及融资成本录得70亿美元季度亏损",
-      "content": "TOKYO (Nov 10): Japan's SoftBank Group said on Tuesday that it had swung to a second-quarter net loss of US$7 billion, hit hard by hefty buildout costs for data centres in the US and increases in financing payments.\n\nThe result will likely intensify questions about how well the tech investment giant can weather setbacks currently buffeting the AI sector, given founder Masayoshi Son's big bets on data centres and the company's US$64.6 billion purchase of a 13% stake in ChatGPT maker OpenAI.\n\nSoftBank said it recorded a US$3.7 billion loss due to a subsidiary's advance payments for power generation equipment to be used in AI data centre projects in the US including Pike County, Ohio. Those plans were later revised. It is, however, entitled to rebates of up to US$2.1 billion on future purchases.\n\nIts financing costs also more than doubled to 462 billion yen (US$2.9 billion) in the quarter.\n\nThe 1.1 trillion yen net loss for the July-September quarter compares with a 2.5 trillion yen profit in the same period a year earlier when it logged a huge investment gain on an increase in the value of its stake in OpenAI.\n\nSoftBank's earnings are volatile and difficult to predict. Forecasts from three analysts polled by LSEG had ranged from a profit of 233 billion yen to a loss of 113 billion yen.\n\nThe Democratic Party's sweeping success in US midterm elections last week heightened expectations of regulatory scrutiny, amplifying concerns that had been growing among investors about returns for the AI industry.\n\nThough SoftBank's shares surged 14% on Tuesday ahead of the results, they have, like other AI stocks, been battered by the cooling investor sentiment, almost halving in value since the start of June.\n\nThe sector was further rocked this week by the news that the FBI is looking at Jensen Huang, Nvidia's CEO and the face of the AI boom, after his affair with a Chinese businesswoman alleged to be a spy for Beijing. SoftBank was a major investor in the AI chipmaker in the past but no longer holds a stake.\n\nSoftBank's heavy borrowing at sometimes eye-popping yields has been a concern for some investors.\n\nDuring the quarter, SoftBank's borrowing included an US$11.87 billion term loan, a US$10 billion dollar-denominated corporate bond and a one trillion yen-denominated corporate bond.\n\nSoftBank also increased the margin loan on its stake in chipmaker Arm by US$5 billion to roughly US$25 billion.\n\nWhile SoftBank's stake in TikTok maker ByteDance generated an investment gain of US$1.3 billion during the quarter, share prices of major public portfolio companies such as Coupang and Grab declined.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/825139"
-    },
-    {
-      "id": "2026-11-10-fcb5e6",
-      "title": "Malaysia's limited data centre locations, rising costs could weigh on competitiveness",
-      "summary": "Industry participants warn that Malaysia's restricted geographic options for data center development and escalating operational expenses may undermine its competitive position against emerging alternatives in Thailand and Indonesia. The concentration of projects in Johor and limited power infrastructure elsewhere create bottlenecks for sustained growth.",
-      "why_it_matters": "Malaysia's data center boom faces a maturity test as first-mover advantages in Johor give way to land scarcity and grid constraints, while rival markets offer fresher development corridors and government incentives. Operators with pan-ASEAN strategies—particularly STT GDC, AirTrunk and Chinese hyperscalers—may rebalance investment toward Bangkok, Jakarta and emerging Indonesian markets, diversifying APAC's data center geography beyond the Singapore-Johor corridor.",
-      "score": 80,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "data center",
-        "capacity",
-        "competition",
-        "power"
-      ],
-      "published_at": "2026-11-10T06:44:07Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825135",
-          "type": "html-list"
-        }
-      ],
-      "title_zh": "马来西亚数据中心选址有限、成本上升或影响竞争力",
-      "summary_zh": "行业参与者警告称，马来西亚有限的data center开发地理选择和不断上升的运营成本可能削弱其相对于泰国和印尼新兴替代方案的竞争地位。项目在Johor的集中以及其他地区有限的电力基础设施为持续增长创造了瓶颈。",
-      "why_zh": "马来西亚的data center繁荣面临成熟考验，随着Johor的先发优势让位于土地稀缺和电网限制，而竞争市场提供更新的开发走廊和政府激励措施。拥有泛东盟战略的运营商——特别是STT GDC、AirTrunk和中国hyperscaler——可能将投资重新平衡到曼谷、雅加达和新兴的印尼市场，使亚太地区的data center地理分布超越新加坡-Johor走廊。",
-      "content": "KUALA LUMPUR (Nov 10): Malaysia’s relatively limited choice of locations for data centre development, coupled with rising operating costs, could affect its ability to compete with regional markets such as Thailand and Indonesia, industry players said.\n\nSpeaking at Bursa Malaysia’s Sectorial Series, *Powering the AI Era — Watt Next?*, IVPS Malaysia (Cushman & Wakefield) managing director and country manager Tiffany Goh said Malaysia’s data centre clusters were relatively concentrated compared to regional peers, with the majority located in Johor.\n\nShe noted that Thailand offered developers more options in terms of power providers and Indonesia had a wider geographical spread of potential sites.\n\nMalaysia’s constraints include the availability of power and water, as well as the distance between suitable locations, she said.\n\nGreater Kuala Lumpur remains attractive because of its existing infrastructure while Johor continues to be another key data centre hub, said Isaac Goh, general manager of data centre architecture and delivery of TM Global — the wholesale domestic and international business arm of Telekom Malaysia Bhd (KL:TM).\n\nNorthern states could also offer opportunities, although latency, which is the time taken for data to travel between locations, may be a consideration that may prove to be an obstacle for certain workloads, he said.\n\nIsaac said latency of between seven and nine milliseconds could be suitable for some applications, including AI training, but AI inference may require a lower range of about five to six milliseconds.\n\nThe comments were made during a panel discussion titled *Malaysia’s Data Centre Boom: Sustaining Growth in the Next Phase*, which was moderated by Macquarie utilities and construction analyst Colin Lee.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/825135"
-    },
-    {
-      "id": "2026-11-10-78affa",
-      "title": "TSMC's revenue rises 60% in a sign of resilient AI chip demand",
-      "summary": "Taiwan Semiconductor Manufacturing Co. reported a 60% year-on-year revenue increase for the latest month, reinforcing its position as the primary beneficiary of global AI chip demand. The growth underscores TSMC's near-monopoly on advanced packaging and leading-edge node production for Nvidia, AMD and custom AI accelerators.",
-      "why_it_matters": "TSMC's sustained revenue surge validates massive capital commitments from cloud hyperscalers and confirms AI infrastructure spending remains resilient despite macroeconomic uncertainty. However, concentration risk intensifies as geopolitical tensions over Taiwan escalate, accelerating efforts by the U.S., Japan and Europe to build alternative advanced semiconductor supply chains.",
-      "score": 85,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [
-        "chips",
-        "ai",
-        "revenue",
-        "demand"
-      ],
-      "published_at": "2026-11-10T06:27:36Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825132",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "TSMC"
-      ],
-      "title_zh": "TSMC收入增长60%，显示AI芯片需求强劲",
-      "summary_zh": "台湾积体电路制造股份有限公司（TSMC）报告最新月份收入同比增长60%，巩固了其作为全球AI芯片需求主要受益者的地位。这一增长凸显了TSMC在Nvidia、AMD和定制AI加速器先进封装和leading-edge node生产方面的近乎垄断地位。",
-      "why_zh": "TSMC持续的收入激增验证了云hyperscaler的大规模资本承诺，并确认尽管存在宏观经济不确定性，AI基础设施支出仍保持韧性。然而，随着围绕台湾的地缘政治紧张局势升级，集中度风险加剧，加速了美国、日本和欧洲建立替代先进半导体供应链的努力。",
-      "content": "(Nov 10): Taiwan Semiconductor Manufacturing Co posted a 60% increase in monthly sales, reflecting the company’s central role in a global AI infrastructure build-out.\n\nThe go-to chipmaker for Nvidia Corp and Apple Inc reported October revenue of NT$586.9 billion (RM72.39 billion). That pace was up from around 51% for the September quarter. Analysts on average are projecting 63% growth for the year’s final three months.\n\nTaiwan’s largest company last month delivered a better-than-expected revenue outlook, sustaining a torrid pace of growth in the post-ChatGPT era. Yet investors continue to grapple with the longer-term outlook for AI demand, given the rising cost of financing expensive and resource-hungry data centres. TSMC’s shares have gyrated alongside the rest of the tech sector, buffeted by fears that the Democrats’ sweep of Congress in the US midterms may lead to tougher oversight of the artificial intelligence sector.\n\nTSMC — a key barometer for the industry because it makes chips for a broad swathe of tech players — is betting on a fundamental shift. It is trying to build and furnish about 20 factories at home and overseas, an unprecedented pace for a company that typically works on four or five new buildings simultaneously.\n\nCEO C C Wei has stressed, though, that it remains in prudent expansion mode, exploring a new manufacturing site in Texas while discussing a potential tie-up with Elon Musk’s Terafab chipmaking endeavour.\n\nThe company has so far managed to accelerate sales growth and ramped up capacity expansion. The company reiterated its capital expenditures will reach as much as US$64 billion (RM259.36 billion), a record, this year.\n\n*Uploaded by Arion Yeow*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/825132"
-    },
-    {
-      "id": "2026-11-10-2de2e7",
-      "title": "Copper extends rebound as global technology stocks resume rally",
-      "summary": "Copper extended its rebound from last week’s slump, tracking a rally in technology shares due to the metal’s use in power infrastructure and data centres.",
-      "why_it_matters": "",
-      "score": 55,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [
-        "power",
-        "commodities",
-        "data center"
-      ],
-      "published_at": "2026-11-10T05:14:37Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825121",
-          "type": "html-list"
-        }
-      ],
-      "title_zh": "Copper延续反弹，因全球科技股恢复上涨",
-      "content": "(Nov 10): Copper extended its rebound from last week’s slump, tracking a rally in technology shares due to the metal’s use in power infrastructure and data centres.\n\nThe industrial metal has moved in tandem with artificial intelligence stocks in recent months. It had slumped 2.7% to a three-month low last week as concerns rose that the Democrats’ sweep of US midterm elections could mean greater regulation of AI.\n\nStocks advanced on Tuesday (Nov 10), with South Korea’s tech-heavy Kospi Index the top performer in the region. In China, the market was hit by a supply squeeze that’s driving a rapid surge in spot premiums to record levels.\n\nThe tightness has started to bring in more imported cargoes as traders aim to take advantage of an arbitrage window to bring in metal from overseas at a profit, Jinrui Futures Co said in a note.\n\nInvestors were also monitoring a major shortage in the global aluminium market fuelled by declining stockpiles of the crucial industrial commodity. Buyers are facing rising prices for spot metal and there is little immediate prospect of relief before new shipments from Indonesia arrive.\n\nCopper rose 0.3% to US$13,937 a tonne on the London Metal Exchange as of 10.52am in Shanghai (same time as Malaysia). Aluminium slipped 0.3% to US$3,058.50 while other metals edged higher. Iron ore was down 0.2% at US$92.55 a tonne in Singapore.\n\n*Uploaded by Arion Yeow*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/825121"
-    },
-    {
-      "id": "2026-11-10-906835",
-      "title": "Japan's Rapidus is said likely to miss mass production deadline",
-      "summary": "Japanese government-backed startup Rapidus Corp has fallen behind schedule on its high-stakes pledge to mass produce cutting-edge chips by March 2028 and may no longer be able to make that deadline.",
-      "why_it_matters": "",
-      "score": 70,
-      "heat": 1,
-      "regions": [
-        "japan"
-      ],
-      "topics": [
-        "chips",
-        "manufacturing",
-        "production"
-      ],
-      "published_at": "2026-11-10T05:00:57Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825119",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Rapidus"
-      ],
-      "title_zh": "日本Rapidus据称可能错过大规模生产截止日期",
-      "content": "(Nov 10): Japanese government-backed startup Rapidus Corp has fallen behind schedule on its high-stakes pledge to mass produce cutting-edge chips by March 2028 and may no longer be able to make that deadline.\n\nThe startup, which has received billions of dollars’ worth of public funds, has yet to successfully produce a key type of advanced memory that is an essential component of all processors, people familiar with the matter said. Rapidus has yet to produce functioning static random access memory cells, or SRAM, a critical step that needed to be completed by the summer to manufacture 2nm chips in time, they said.\n\nEngineers are under intense pressure to pick up the pace but the failure to meet that technological milestone means the company is at least months behind schedule, said the people, who asked not to be identified because the information is not public.\n\nA significant delay may jeopardise public support for Rapidus, widely viewed as a long-shot attempt to build a top-tier foundry from scratch and lower Japan’s advanced chip reliance on Taiwan, which China claims as its own. Dust and particle control within the cleanroom remains another issue the company is working to resolve, the people said.\n\nThe government has so far officially earmarked more than ¥2 trillion (RM51 billion) in state funding to Rapidus. Severe technological issues could also push back Rapidus’s goal of going public by 2032.\n\n“Rapidus continues to devote its full efforts toward the start of mass production in the second half of fiscal 2027,” a spokesperson said in an email. The company declined to provide details about its technological development, which it said is confidential. In September, a panel of outside experts commissioned by a government agency reported the company’s development is progressing, it said.\n\nLast month, Rapidus chairman Tetsuro Higashi said the venture was on track for mass production as scheduled, without elaborating.\n\nAdvanced logic chips require hundreds of millions of embedded SRAM cells. Manufacturers need to reproduce each of these cells, including their transistors, at atomic-scale precision to prevent operational failures and ensure stable data retention. At the nanometre scale, even a minor microscopic deviation can cause debilitating chip failures.\n\nRapidus will continue to pursue 2nm manufacturing and may ultimately succeed after some years’ delay, the people said. Rapidus seeks to compete against Taiwan Semiconductor Manufacturing Co, which is building facilities in the US, Intel Corp and Samsung Electronics Co. All are racing to develop manufacturing processes and meet artificial intelligence service providers’ voracious demand for increasingly powerful chips.\n\nAfter launching its pilot production line at its factory in Hokkaido, northern Japan, Rapidus said in July last year that it successfully manufactured functioning transistors — an early step toward making cutting-edge chips. Since then, technological progress has consisted mainly of process design kit releases.\n\nLast month, Economy Minister Ryosei Akazawa said the government was ready to continue supporting Rapidus until the venture becomes financially viable, given the importance of cutting-edge chips for Japan’s economic security. Since Rapidus’ creation in 2022, TSMC has built a plant in southern Japan, with plans to build another factory that will manufacture 3nm chips.\n\nIn September, independent director Yoshimitsu Kobayashi told *Bloomberg News* that Rapidus is targeting mass production with a yield of at least 80%, or four out of every five chips produced. CEO Atsuyoshi Koike, who has floated plans to build two additional factories in Hokkaido and a plant on the moon, and representative director Atsuo Shimizu have said that Kobayashi’s definition is not shared by all executives.\n\n*Uploaded by Arion Yeow*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/825119"
-    },
-    {
-      "id": "2026-11-10-37e942",
-      "title": "PETRONAS could power data centres with gas, secure long-term buyers at market rates, says minister",
-      "summary": "PETRONAS could tap into the massive power demand from data centres by supplying gas for dedicated power generation, a minister said on Tuesday.",
-      "why_it_matters": "",
-      "score": 75,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "power",
-        "data center",
-        "gas",
-        "energy"
-      ],
-      "published_at": "2026-11-10T03:35:04Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825104",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "PETRONAS"
-      ],
-      "title_zh": "部长称PETRONAS可用天然气为数据中心供电，按市场价锁定长期买家",
-      "content": "KUALA LUMPUR (Nov 10): PETRONAS could tap into the massive power demand from data centres by supplying gas for dedicated power generation, a minister said on Tuesday.\n\nIf successful, the national oil-and-gas company officially known as Petroliam Nasional Bhd may secure longer-term customers at market prices, rather than provide subsidised energy to data centres, said Minister of Investment, Trade and Industry Datuk Seri Johari Abdul Ghani.\n\nThe boom in data centres presented an opportunity for Malaysia's gas industry to develop an additional domestic market, he said.\n\nJohari was delivering his keynote address at Bursa Malaysia's *Sectoral Series: Powering the AI Era — Watt Next?* The remarks come as a wave of energy-intensive data centres has been surging across Malaysia amid a global boom in artificial intelligence.\n\nTenaga Nasional Bhd (KL:TENAGA), the country’s national electric utility firm, is now supplying power to 36 data centres with dozens more in the pipeline.\n\nMalaysia could explore supplying gas to data centres through dedicated power generation, alongside other energy sources such as solar, rather than relying solely on electricity from the national grid, Johari said.\n\nHe highlighted the potential to redirect some of the country's gas resources towards domestic power generation, subject to existing export commitments and domestic energy requirements.\n\nLonger-term supply arrangements could provide energy producers with greater certainty over demand, while allowing data centre operators to secure the power needed for their operations, Johari noted.\n\nGas resources are finite and any supply arrangements would need to be priced transparently, taking into account market conditions and existing commitments, Johari said, stressing that existing long-term export contracts and infrastructure policy will be honoured in the meantime.\n\nThe growing electricity requirements of data centres could also support investment in other parts of the energy sector, including power generation, battery energy storage and grid infrastructure, he added.\n\nMalaysia is seeking to develop the infrastructure needed to support the country's digital economy while ensuring that the investments also create opportunities for the domestic energy industry and wider supply chain.\n\nThe government wants data centre investors to bear the cost of transmission upgrades required by their projects rather than pass it on to the locals. Operators would also be charged for capacity committed even if they did not fully use it, to prevent the allocations from being tied up without compensation.\n\nEdited ByJason Ng\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/825104"
-    },
-    {
-      "id": "2026-11-10-9cefd2",
-      "title": "Analysts see Malaysia tech facing sentiment dip, not earnings hit, despite data centre worries",
-      "summary": "KUALA LUMPUR (Nov 10): The Democratic sweep of both US congressional chambers in the midterm elections has weighed on technology stocks globally, but analysts said Malaysian tech faces a sentiment and valuation dip rather than an earnings hit.",
-      "why_it_matters": "",
-      "score": 50,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "sentiment",
-        "data center",
-        "valuation"
-      ],
-      "published_at": "2026-11-10T03:31:41Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825103",
-          "type": "html-list"
-        }
-      ],
-      "title_zh": "尽管存在数据中心担忧，分析师认为马来西亚科技业面临情绪下滑而非盈利冲击",
-      "content": "KUALA LUMPUR (Nov 10): The Democratic sweep of both US congressional chambers in the midterm elections has weighed on technology stocks globally, but analysts said Malaysian tech faces a sentiment and valuation dip rather than an earnings hit.\n\nMBSB Research said a blanket negative view of Malaysian technology would be \"inappropriate\", since impact depends on each company's exposure.\n\nThe exposure, it said, ranges from AI servers and data-centre equipment to semiconductor testing, consumer electronics, capital-equipment orders, customer concentration and balance-sheet strength.\n\n\"Tighter regulation does not remove the physical requirements of AI. AI still requires electricity, grid connections, buildings, cooling systems, water treatment, fibre networks, cybersecurity and backup power. Even a more regulated industry must continue investing in secure and efficient infrastructure,\" said the house in a note on Tuesday.\n\nMeanwhile, Kenanga Investment Bank said the post-US midterm unease has dragged Malaysian tech names down by sentiment, and that for the sector, it foresees \"a sentiment and valuations dip rather than earnings\" from delayed data-centre rollout.\n\nKenanga views any shift of data-centre development outside the US — such as Meta eyeing overseas expansion — as \"a modest positive for Malaysia,\" likely extending the visibility of the local data-centre play rather than accelerating demand.\n\nIt also noted Google's commitment to spend US$15 billion in Malaysia over 2027/2028.\n\nMBSB said the near-term Malaysian transmission is primarily through sentiment, with Bursa Malaysia technology companies exposed to Nasdaq and semiconductor valuations, and warned that \"US policy risk becomes Malaysian valuation risk before it becomes Malaysian earnings risk\".\n\nMBSB's preferred durable exposure is in the physical infrastructure surrounding data centres, including Tenaga Nasional Bhd (KL:TENAGA), YTL Power International Bhd (KL:YTLPOWR), Gamuda (KL:GAMUDA), Sunway Construction Group Bhd (KL:SUNCON), IJM Corporation (KL:IJM), CelcomDigi Bhd (KL:CBD) and Maxis Bhd (KL:MAXIS).\n\nKenanga cautioned that local barriers are also tightening, with 24 applications for approval on hold pending power and water checks, and that 12.3GW of energy capacity had been approved for data centres as of August, with maximum sector demand projected to reach 8.39GW by 2030.\n\nKenanga said YTL Power and property names are \"unduly discounted\" for their data-centre prospects — YTL Power's last close of RM5.01 implies only 600MW of its pipeline is being credited versus its 1.2GW forecast.\n\nMeanwhile, data-centre valuations account for 7%–14% of target prices for Sime Darby Property Bhd (KL:SIMEPROP), EcoWorld Development Group Bhd (KL:ECOWLD) and Mah Sing Group Bhd (KL:MAHSING).\n\nIt likes Tenaga Nasional, seeing the discount implied by skepticism over the IBR mechanism as excessive, and Kee Ming Group Bhd (KL:KEEMING) as a beneficiary of data-centre-related electrical works, with Sunway Construction as its preferred pure-play data-centre exposure.\n\nOn technology, Kenanga remains positive on Nationgate Holdings Bhd (KL:NATGATE) and Ambest Group (KL:AMBEST) and likes Kelington Group Bhd (KL:KGB) for its secured 2027/2028 revenue, but said it does not yet see urgency for bargain hunting for tech names sector-wide.\n\nBoth houses expect Malaysian equities to remain supported by resilient domestic growth, healthy corporate earnings and continued infrastructure and data centre investment.\n\nMBSB kept its preliminary end-2027 FBM KLCI target at 1,850 points, based on forecast index earnings of 120.1 points (6.6% growth) and a forward PER of 15.4 times.\n\nBoth houses favour a balanced approach — utilities, construction, telecommunications, healthcare and essential consumption alongside selective technology.\n\nMBSB noted further that lower oil prices would provide the necessary market confirmation for its 1,850-point target.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/825103"
-    },
-    {
       "id": "2026-11-10-448ec1",
       "title": "Musk's Terafab chipmaking project lines up Japan suppliers",
       "summary": "TOKYO -- Elon Musk's Terafab semiconductor production project has begun procurement talks with Japanese chipmaking equipment suppliers, creating a mix of excitement and bewilderment at demands some…",
@@ -490,6 +145,38 @@
       "content_url": "https://www.datacenterdynamics.com/en/product-news/coravel-makes-25-leadership-hires-in-six-months-through-partnership-with-specialist-search-firm-metric-dcx/"
     },
     {
+      "id": "2026-11-10-063cb0",
+      "title": "Infineon boosts AI sales outlook due to data centre growth plans",
+      "summary": "(Nov 10): Infineon Technologies AG raised its 2027 data centre sales forecast, signalling confidence that the business will drive growth even as investor concerns mount over the artificial intelligence boom.",
+      "why_it_matters": "",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "data center",
+        "forecast"
+      ],
+      "published_at": "2026-11-10T07:48:03Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825146",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Infineon"
+      ],
+      "title_zh": "Infineon因数据中心增长计划上调AI销售预期",
+      "content": "The German chipmaker sees data centre sales growing to around €4 billion (US$4.5 billion) in the year that ends in September, it said in a statement on Tuesday. Previously, Infineon forecast AI data centre power solutions would make €2.5 billion in the period. It also makes about €500 million annually from traditional data centres, and the new figure comprises both segments.\n\n“We expect a significant increase in revenue and profitability in fiscal year 2027,” chief executive officer Jochen Hanebeck said in the statement, adding power chips for data centres and electromobility would be among the growth drivers.\n\nConcerns about a possible AI bubble have driven a steep selloff in companies from chipmakers to so-called neoclouds. Infineon’s shares have declined by 45% from a peak in June. Demand for data centre chips has helped Infineon and peers such as STMicroelectronics NV compensate for slow revenue recovery from the struggling automotive sector.\n\nInfineon is the only one among European chipmakers to give a full year forecast. The company tends to guide cautiously and then adjust estimates as visibility improves, according to JPMorgan analysts including Sandeep Deshpande. JPMorgan had expected Infineon to guide for 2027 data center revenue, including CPU and other non-AI accelerator-related power revenue, of between €3.5 billion and €4 billion.\n\nAs the buildout of data centers around the world accelerated, demand for Infineon’s chips to control power soared. Those chips can support advanced processors such as those from Nvidia Corp that are fuelling the AI boom.\n\nHowever, a punishing post-US election selloff has rippled across the industry. Some potential investors in Anthropic PBC, which can begin formal marketing of its initial public offering as soon as Tuesday, discussed a valuation ranging from about US$1.1 trillion to US$1.3 trillion, well below where talks had been focused just a month ago, *Bloomberg News* reported last week.\n\nInfineon’s fiscal 2026 revenue was €16.35 billion, matching analysts’ estimates, according to data compiled by *Bloomberg*. The company sees sales growing to about €20 billion in the current year. The board will propose increasing the 2026 dividend by three cents to €0.38.\n\nInfineon said its adjusted gross margin will be in the mid-to-high forties percentage range in the period and it plans investments of €3 billion to €3.5 billion. Adjusted gross margin was 43.1% in fiscal 2026.\n\nThe main areas of investment will be equipment for the ramp-up of production at Infineon’s Dresden site in Germany, the expansion of silicon carbide capacities in Malaysia, and the start of gallium nitride manufacturing on 300-millimetre wafers in the Austrian town of Villach.\n\nInfineon is also considering setting up wafer fabrication in Thailand, although such a move is unlikely in the next three years. In September, Infineon announced it will sell parts of its memory business to focus on its core activities and more dynamic parts of its portfolio.\n\n*Uploaded by Liza Shireen Koshy*",
+      "content_url": "https://theedgemalaysia.com/node/825146"
+    },
+    {
       "id": "2026-11-10-d996fe",
       "title": "EPG tops out US$120 million factory for modular data centers",
       "summary": "EPG Modular Data Center has topped out its $120 million manufacturing facility in Senai Airport City, Johor, establishing one of the largest single-site modular data center production bases globally by capacity. The Malaysia Free Industrial Zone factory will supply prefabricated data center infrastructure to meet accelerating APAC demand.",
@@ -522,6 +209,135 @@
       "why_zh": "EPG的工厂投资验证了modular construction作为亚太地区data center主流交付方法的地位，将电力受限市场的部署时间从数年压缩到数月。该设施加强了马来西亚在data center供应链中超越colocation hosting的地位，创造了可能吸引精密冷却和电力分配设备等互补行业的本地制造专业知识。",
       "content": "Asia-based prefabricated modular data center infrastructure provider EPG Modular Data Center last Friday topped out its US$120 million Malaysia FIZ (Free Industrial Zone) Factory in Senai Airport City (SAC), Johor. The facility is among the largest single-site data center module manufacturing bases in the modular data center (MDC) sector by production capacity, the firm says in a press release.\n\nIn modular construction, components of a building or system are built in a factory before being shipped out to the construction site to be assembled. The Johor site has the advantage of being closer to its Southeast Asian customers enabling faster response.\n\nSpanning 107,450 square meters, including 70,000 sqm of production space, the factory is expected to be completed in 1Q 2027. The master plan comprises five buildings for sheet metal production, power transfer unit (PTU) products, diesel generator manufacturing, final assembly, and R&D and office functions. It will integrate advanced automation equipment, intelligent control systems and automated welding technology, achieving an expected automation rate of at least 80 pe cent.\n\nBy consolidating production of MDC shelters and critical power equipment in Malaysia, EPG is building capacity closer to regional customers.\n\n“The FIZ Factory marks an important step in bringing EPG’s manufacturing capabilities closer to customers and the markets we serve,” said Alick Wan, EPG’s founder and chairman. “By combining advanced manufacturing with strong local partnerships, we are building a responsive base in Malaysia and a model that can evolve with customer needs in other markets.”\n\nIt is expected to employ more than 800 people locally once fully operational.",
       "content_url": "https://w.media/epg-tops-out-us120-milllion-factory-for-modular-data-centers/"
+    },
+    {
+      "id": "2026-11-10-f66bb3",
+      "title": "Schneider Electric opens regional centre to build technical skills",
+      "summary": "French energy management and automation company Schneider Electric has opened a regional training centre in an attempt to help workers keep pace with technological advances in data centres and other industries across Asia-Pacific.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "training",
+        "workforce",
+        "data center"
+      ],
+      "published_at": "2026-11-10T07:12:48Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825140",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Schneider Electric"
+      ],
+      "title_zh": "Schneider Electric开设区域中心以培养技术技能",
+      "content": "PETALING JAYA (Nov 10): French energy management and automation company Schneider Electric has opened a regional training centre in an attempt to help workers keep pace with technological advances in data centres and other industries across Asia-Pacific.\n\nThe 18,500 sq ft facility in Petaling Jaya has the capacity to train more than 550 participants annually from 15 Asia-Pacific countries.\n\nScience, Technology and Innovation Minister Datuk Chang Lih Kang said practical training was increasingly important as investment in artificial intelligence (AI), semiconductor manufacturing, smart factories and renewable energy raised demand for skilled workers.\n\nHe warned that engineers, technicians and young technical and vocational education and training (TVET) graduates risked being left behind as technology advanced.\n\n“In the first half of 2026, Malaysia recorded more than RM200 billion in approved investments, including RM95 billion in data centres and cloud infrastructure, particularly in Selangor and Johor,” he said at the launch.\n\n“Without equipping our engineers, technicians, and young TVET talents with practical, industry-relevant skills, we risk leaving our workforce behind while technology advances.”\n\nChang said the centre could help turn national innovation policies into economic gains by developing workers with industry-relevant skills, supporting knowledge and technology transfer, and connecting local start-ups with industrial expertise.\n\nWith the right tools and training, Malaysians could compete internationally and take on roles developing, operating and leading technologies across the region, he added.\n\nThe opening also builds on France–Malaysia cooperation in technology, innovation and talent development as the countries approach 70 years of diplomatic relations. French ambassador to Malaysia Marc Abensour said the centre would bring international expertise together with local experience, allowing engineers and technicians from different markets to exchange knowledge and collaborate.\n\n“French companies are not here as short-term visitors. They are here as long-term partners, growing alongside the nation and investing in its future,” he said.\n\nSchneider Electric Malaysia country president Eugene Quah said Malaysia was chosen for its talent, strategic location, growing digital economy and government commitment to skills development.\n\nHe said linking the training academy with the company’s service teams would allow problems encountered at customers’ facilities to be incorporated into training.\n\n“That means what we learn from customers shapes our training, and what we teach helps solve the issues they face,” he said.\n\nTraining will be offered to Schneider Electric employees, customers, partners and contractors to improve their ability to install, operate and maintain energy and automation systems.\n\nCourses will cover low- and medium-voltage electrical distribution equipment, including circuit breakers and transformers, as well as backup power supplies and battery systems. Other training will focus on energy management, industrial automation and digital tools for monitoring data centre operations.\n\nTrainees will work with functioning equipment to practise identifying faults and learn how electrical supplies, backup power and monitoring systems work together.\n\nEdited ByKuek Ser Kwang Zhe\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/825140"
+    },
+    {
+      "id": "2026-11-10-99ffba",
+      "title": "SoftBank books US$7 bil quarterly loss on US data centre hit, financing costs",
+      "summary": "TOKYO (Nov 10): Japan's SoftBank Group said on Tuesday that it had swung to a second-quarter net loss of US$7 billion, hit hard by hefty buildout costs for data centres in the US and increases in financing payments.",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "japan",
+        "global"
+      ],
+      "topics": [
+        "investment",
+        "data center",
+        "earnings",
+        "hyperscale"
+      ],
+      "published_at": "2026-11-10T07:07:34Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825139",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "SoftBank"
+      ],
+      "title_zh": "SoftBank因美国数据中心冲击及融资成本录得70亿美元季度亏损",
+      "content": "TOKYO (Nov 10): Japan's SoftBank Group said on Tuesday that it had swung to a second-quarter net loss of US$7 billion, hit hard by hefty buildout costs for data centres in the US and increases in financing payments.\n\nThe result will likely intensify questions about how well the tech investment giant can weather setbacks currently buffeting the AI sector, given founder Masayoshi Son's big bets on data centres and the company's US$64.6 billion purchase of a 13% stake in ChatGPT maker OpenAI.\n\nSoftBank said it recorded a US$3.7 billion loss due to a subsidiary's advance payments for power generation equipment to be used in AI data centre projects in the US including Pike County, Ohio. Those plans were later revised. It is, however, entitled to rebates of up to US$2.1 billion on future purchases.\n\nIts financing costs also more than doubled to 462 billion yen (US$2.9 billion) in the quarter.\n\nThe 1.1 trillion yen net loss for the July-September quarter compares with a 2.5 trillion yen profit in the same period a year earlier when it logged a huge investment gain on an increase in the value of its stake in OpenAI.\n\nSoftBank's earnings are volatile and difficult to predict. Forecasts from three analysts polled by LSEG had ranged from a profit of 233 billion yen to a loss of 113 billion yen.\n\nThe Democratic Party's sweeping success in US midterm elections last week heightened expectations of regulatory scrutiny, amplifying concerns that had been growing among investors about returns for the AI industry.\n\nThough SoftBank's shares surged 14% on Tuesday ahead of the results, they have, like other AI stocks, been battered by the cooling investor sentiment, almost halving in value since the start of June.\n\nThe sector was further rocked this week by the news that the FBI is looking at Jensen Huang, Nvidia's CEO and the face of the AI boom, after his affair with a Chinese businesswoman alleged to be a spy for Beijing. SoftBank was a major investor in the AI chipmaker in the past but no longer holds a stake.\n\nSoftBank's heavy borrowing at sometimes eye-popping yields has been a concern for some investors.\n\nDuring the quarter, SoftBank's borrowing included an US$11.87 billion term loan, a US$10 billion dollar-denominated corporate bond and a one trillion yen-denominated corporate bond.\n\nSoftBank also increased the margin loan on its stake in chipmaker Arm by US$5 billion to roughly US$25 billion.\n\nWhile SoftBank's stake in TikTok maker ByteDance generated an investment gain of US$1.3 billion during the quarter, share prices of major public portfolio companies such as Coupang and Grab declined.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/825139"
+    },
+    {
+      "id": "2026-11-10-fcb5e6",
+      "title": "Malaysia's limited data centre locations, rising costs could weigh on competitiveness",
+      "summary": "Industry participants warn that Malaysia's restricted geographic options for data center development and escalating operational expenses may undermine its competitive position against emerging alternatives in Thailand and Indonesia. The concentration of projects in Johor and limited power infrastructure elsewhere create bottlenecks for sustained growth.",
+      "why_it_matters": "Malaysia's data center boom faces a maturity test as first-mover advantages in Johor give way to land scarcity and grid constraints, while rival markets offer fresher development corridors and government incentives. Operators with pan-ASEAN strategies—particularly STT GDC, AirTrunk and Chinese hyperscalers—may rebalance investment toward Bangkok, Jakarta and emerging Indonesian markets, diversifying APAC's data center geography beyond the Singapore-Johor corridor.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "data center",
+        "capacity",
+        "competition",
+        "power"
+      ],
+      "published_at": "2026-11-10T06:44:07Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825135",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "马来西亚数据中心选址有限、成本上升或影响竞争力",
+      "summary_zh": "行业参与者警告称，马来西亚有限的data center开发地理选择和不断上升的运营成本可能削弱其相对于泰国和印尼新兴替代方案的竞争地位。项目在Johor的集中以及其他地区有限的电力基础设施为持续增长创造了瓶颈。",
+      "why_zh": "马来西亚的data center繁荣面临成熟考验，随着Johor的先发优势让位于土地稀缺和电网限制，而竞争市场提供更新的开发走廊和政府激励措施。拥有泛东盟战略的运营商——特别是STT GDC、AirTrunk和中国hyperscaler——可能将投资重新平衡到曼谷、雅加达和新兴的印尼市场，使亚太地区的data center地理分布超越新加坡-Johor走廊。",
+      "content": "KUALA LUMPUR (Nov 10): Malaysia’s relatively limited choice of locations for data centre development, coupled with rising operating costs, could affect its ability to compete with regional markets such as Thailand and Indonesia, industry players said.\n\nSpeaking at Bursa Malaysia’s Sectorial Series, *Powering the AI Era — Watt Next?*, IVPS Malaysia (Cushman & Wakefield) managing director and country manager Tiffany Goh said Malaysia’s data centre clusters were relatively concentrated compared to regional peers, with the majority located in Johor.\n\nShe noted that Thailand offered developers more options in terms of power providers and Indonesia had a wider geographical spread of potential sites.\n\nMalaysia’s constraints include the availability of power and water, as well as the distance between suitable locations, she said.\n\nGreater Kuala Lumpur remains attractive because of its existing infrastructure while Johor continues to be another key data centre hub, said Isaac Goh, general manager of data centre architecture and delivery of TM Global — the wholesale domestic and international business arm of Telekom Malaysia Bhd (KL:TM).\n\nNorthern states could also offer opportunities, although latency, which is the time taken for data to travel between locations, may be a consideration that may prove to be an obstacle for certain workloads, he said.\n\nIsaac said latency of between seven and nine milliseconds could be suitable for some applications, including AI training, but AI inference may require a lower range of about five to six milliseconds.\n\nThe comments were made during a panel discussion titled *Malaysia’s Data Centre Boom: Sustaining Growth in the Next Phase*, which was moderated by Macquarie utilities and construction analyst Colin Lee.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/825135"
+    },
+    {
+      "id": "2026-11-10-78affa",
+      "title": "TSMC's revenue rises 60% in a sign of resilient AI chip demand",
+      "summary": "Taiwan Semiconductor Manufacturing Co. reported a 60% year-on-year revenue increase for the latest month, reinforcing its position as the primary beneficiary of global AI chip demand. The growth underscores TSMC's near-monopoly on advanced packaging and leading-edge node production for Nvidia, AMD and custom AI accelerators.",
+      "why_it_matters": "TSMC's sustained revenue surge validates massive capital commitments from cloud hyperscalers and confirms AI infrastructure spending remains resilient despite macroeconomic uncertainty. However, concentration risk intensifies as geopolitical tensions over Taiwan escalate, accelerating efforts by the U.S., Japan and Europe to build alternative advanced semiconductor supply chains.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "revenue",
+        "demand"
+      ],
+      "published_at": "2026-11-10T06:27:36Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825132",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "title_zh": "TSMC收入增长60%，显示AI芯片需求强劲",
+      "summary_zh": "台湾积体电路制造股份有限公司（TSMC）报告最新月份收入同比增长60%，巩固了其作为全球AI芯片需求主要受益者的地位。这一增长凸显了TSMC在Nvidia、AMD和定制AI加速器先进封装和leading-edge node生产方面的近乎垄断地位。",
+      "why_zh": "TSMC持续的收入激增验证了云hyperscaler的大规模资本承诺，并确认尽管存在宏观经济不确定性，AI基础设施支出仍保持韧性。然而，随着围绕台湾的地缘政治紧张局势升级，集中度风险加剧，加速了美国、日本和欧洲建立替代先进半导体供应链的努力。",
+      "content": "(Nov 10): Taiwan Semiconductor Manufacturing Co posted a 60% increase in monthly sales, reflecting the company’s central role in a global AI infrastructure build-out.\n\nThe go-to chipmaker for Nvidia Corp and Apple Inc reported October revenue of NT$586.9 billion (RM72.39 billion). That pace was up from around 51% for the September quarter. Analysts on average are projecting 63% growth for the year’s final three months.\n\nTaiwan’s largest company last month delivered a better-than-expected revenue outlook, sustaining a torrid pace of growth in the post-ChatGPT era. Yet investors continue to grapple with the longer-term outlook for AI demand, given the rising cost of financing expensive and resource-hungry data centres. TSMC’s shares have gyrated alongside the rest of the tech sector, buffeted by fears that the Democrats’ sweep of Congress in the US midterms may lead to tougher oversight of the artificial intelligence sector.\n\nTSMC — a key barometer for the industry because it makes chips for a broad swathe of tech players — is betting on a fundamental shift. It is trying to build and furnish about 20 factories at home and overseas, an unprecedented pace for a company that typically works on four or five new buildings simultaneously.\n\nCEO C C Wei has stressed, though, that it remains in prudent expansion mode, exploring a new manufacturing site in Texas while discussing a potential tie-up with Elon Musk’s Terafab chipmaking endeavour.\n\nThe company has so far managed to accelerate sales growth and ramped up capacity expansion. The company reiterated its capital expenditures will reach as much as US$64 billion (RM259.36 billion), a record, this year.\n\n*Uploaded by Arion Yeow*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/825132"
     },
     {
       "id": "2026-11-10-1ac67c",
@@ -557,6 +373,65 @@
       "why_zh": "电网运营商和data center设计师必须从根本上为AI工作负载重新思考电力架构，从稳态假设转向动态负载管理。这种波动性挑战为电池储能、燃料电池和智能电网集成供应商创造了机会，同时引发了关于传统电力合同能否适应如此不可预测的需求模式的问题。",
       "content": "Data centers now operate as \"token factories\" for artificial intelligence (AI) output, a significant shift from their traditional role supporting enterprise applications and cloud services. This transformation is driven by exponential growth in token usage, with ByteDance's Doubao model experiencing a 1,500-fold surge in daily token usage in one year, according to He Bo, Vice President of Huawei Digital Power.AI clusters exhibit power draw fluctuations of up to 200 per cent during training and inference, unlike the stable consumption of conventional data centers, He Bo noted. These swings occur across multiple timescales, from milliseconds at the chip level to hours for job scheduling.The International Energy Agency (IEA) projects global data center electricity consumption will double by 2030 from 2024 levels. Securing sufficient power is one challenge, but grid stability is another, especially as Asia Pacific grids become electrically weaker with increased renewable energy integration, He Bo stated.Huawei proposes a \"3+1\" strategy encompassing watt, heat, bit, and construction innovation to address these challenges. The company's MIMO architecture, featuring a grid-forming energy router, is designed to stabilise power from diverse inputs like utilities, renewables, batteries, and backup generators.Layered energy storage systems, using capacitors, supercapacitors, and grid-forming batteries, are needed to manage power fluctuations at different speeds. Liquid cooling has become essential for high-density racks, with AI-driven thermal management shifting operations from reactive to predictive, He Bo added. Grid strength, power access, and renewable energy availability will ultimately determine the pace of AI data center construction across markets.\n\n- Energy, Cooling & Sustainability\n- 1 min Read\n\n# AI data centers demand power grid overhaul, says Huawei executive\n\nAI data centers are increasingly functioning as \"token factories,\" leading to a 1,500-fold increase in daily token usage for models like ByteDance's Doubao within a year, according to Huawei's He Bo. This shift creates highly fluctuating power demands, with AI clusters drawing up to 200 per cent more power during training and inference runs.\n\n- Published On Nov 10, 2026 at 11:15 AM IST\n\n## Highlights\n\n- AI data centers are becoming \"token factories\" with surging, fluctuating power demands.\n- ByteDance's Doubao model saw a 1,500-fold increase in daily token usage in one year.\n- AI clusters' power draw can fluctuate by up to 200 per cent during operations.\n- Global data center electricity consumption is projected to double by 2030.\n\n## Comments\n\nWhat are your thoughts?",
       "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/ai-data-centers-demand-power-grid-overhaul-says-huawei-executive/135700901"
+    },
+    {
+      "id": "2026-11-10-2de2e7",
+      "title": "Copper extends rebound as global technology stocks resume rally",
+      "summary": "Copper extended its rebound from last week’s slump, tracking a rally in technology shares due to the metal’s use in power infrastructure and data centres.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "power",
+        "commodities",
+        "data center"
+      ],
+      "published_at": "2026-11-10T05:14:37Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825121",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "Copper延续反弹，因全球科技股恢复上涨",
+      "content": "(Nov 10): Copper extended its rebound from last week’s slump, tracking a rally in technology shares due to the metal’s use in power infrastructure and data centres.\n\nThe industrial metal has moved in tandem with artificial intelligence stocks in recent months. It had slumped 2.7% to a three-month low last week as concerns rose that the Democrats’ sweep of US midterm elections could mean greater regulation of AI.\n\nStocks advanced on Tuesday (Nov 10), with South Korea’s tech-heavy Kospi Index the top performer in the region. In China, the market was hit by a supply squeeze that’s driving a rapid surge in spot premiums to record levels.\n\nThe tightness has started to bring in more imported cargoes as traders aim to take advantage of an arbitrage window to bring in metal from overseas at a profit, Jinrui Futures Co said in a note.\n\nInvestors were also monitoring a major shortage in the global aluminium market fuelled by declining stockpiles of the crucial industrial commodity. Buyers are facing rising prices for spot metal and there is little immediate prospect of relief before new shipments from Indonesia arrive.\n\nCopper rose 0.3% to US$13,937 a tonne on the London Metal Exchange as of 10.52am in Shanghai (same time as Malaysia). Aluminium slipped 0.3% to US$3,058.50 while other metals edged higher. Iron ore was down 0.2% at US$92.55 a tonne in Singapore.\n\n*Uploaded by Arion Yeow*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/825121"
+    },
+    {
+      "id": "2026-11-10-906835",
+      "title": "Japan's Rapidus is said likely to miss mass production deadline",
+      "summary": "Japanese government-backed startup Rapidus Corp has fallen behind schedule on its high-stakes pledge to mass produce cutting-edge chips by March 2028 and may no longer be able to make that deadline.",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "chips",
+        "manufacturing",
+        "production"
+      ],
+      "published_at": "2026-11-10T05:00:57Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825119",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Rapidus"
+      ],
+      "title_zh": "日本Rapidus据称可能错过大规模生产截止日期",
+      "content": "(Nov 10): Japanese government-backed startup Rapidus Corp has fallen behind schedule on its high-stakes pledge to mass produce cutting-edge chips by March 2028 and may no longer be able to make that deadline.\n\nThe startup, which has received billions of dollars’ worth of public funds, has yet to successfully produce a key type of advanced memory that is an essential component of all processors, people familiar with the matter said. Rapidus has yet to produce functioning static random access memory cells, or SRAM, a critical step that needed to be completed by the summer to manufacture 2nm chips in time, they said.\n\nEngineers are under intense pressure to pick up the pace but the failure to meet that technological milestone means the company is at least months behind schedule, said the people, who asked not to be identified because the information is not public.\n\nA significant delay may jeopardise public support for Rapidus, widely viewed as a long-shot attempt to build a top-tier foundry from scratch and lower Japan’s advanced chip reliance on Taiwan, which China claims as its own. Dust and particle control within the cleanroom remains another issue the company is working to resolve, the people said.\n\nThe government has so far officially earmarked more than ¥2 trillion (RM51 billion) in state funding to Rapidus. Severe technological issues could also push back Rapidus’s goal of going public by 2032.\n\n“Rapidus continues to devote its full efforts toward the start of mass production in the second half of fiscal 2027,” a spokesperson said in an email. The company declined to provide details about its technological development, which it said is confidential. In September, a panel of outside experts commissioned by a government agency reported the company’s development is progressing, it said.\n\nLast month, Rapidus chairman Tetsuro Higashi said the venture was on track for mass production as scheduled, without elaborating.\n\nAdvanced logic chips require hundreds of millions of embedded SRAM cells. Manufacturers need to reproduce each of these cells, including their transistors, at atomic-scale precision to prevent operational failures and ensure stable data retention. At the nanometre scale, even a minor microscopic deviation can cause debilitating chip failures.\n\nRapidus will continue to pursue 2nm manufacturing and may ultimately succeed after some years’ delay, the people said. Rapidus seeks to compete against Taiwan Semiconductor Manufacturing Co, which is building facilities in the US, Intel Corp and Samsung Electronics Co. All are racing to develop manufacturing processes and meet artificial intelligence service providers’ voracious demand for increasingly powerful chips.\n\nAfter launching its pilot production line at its factory in Hokkaido, northern Japan, Rapidus said in July last year that it successfully manufactured functioning transistors — an early step toward making cutting-edge chips. Since then, technological progress has consisted mainly of process design kit releases.\n\nLast month, Economy Minister Ryosei Akazawa said the government was ready to continue supporting Rapidus until the venture becomes financially viable, given the importance of cutting-edge chips for Japan’s economic security. Since Rapidus’ creation in 2022, TSMC has built a plant in southern Japan, with plans to build another factory that will manufacture 3nm chips.\n\nIn September, independent director Yoshimitsu Kobayashi told *Bloomberg News* that Rapidus is targeting mass production with a yield of at least 80%, or four out of every five chips produced. CEO Atsuyoshi Koike, who has floated plans to build two additional factories in Hokkaido and a plant on the moon, and representative director Atsuo Shimizu have said that Kobayashi’s definition is not shared by all executives.\n\n*Uploaded by Arion Yeow*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/825119"
     },
     {
       "id": "2026-11-10-d4c30c",
@@ -618,6 +493,99 @@
       "title_zh": "Power is the new blueprint for the AI data center",
       "content": "Data centers used to exist solely for enterprise applications and the cloud. Today, they are increasingly used to produce tokens, the unit in which AI output is generated and billed. And the numbers suggest a “token factory” era is already here. According to Huawei’s He Bo, Vice President of Huawei Digital Power, daily token usage of ByteDance’s Doubao model alone grew roughly 1,500-fold in the year to June.\n\nThis has consequences, because token factories are a very different kind of load. The power draw of an AI cluster can fluctuate by up to 200% amid training and inference runs, says He, unlike a typical data center that draws a steady amount of power around the clock.\n\n#### **Stable power is crucial** \n\nAnd such swings are happening more often, as token processing volumes surge. In China alone, volume grew roughly 2,500-fold in the last two years, according to Huawei’s figures. Overall electricity consumption is climbing steeply too, with the International Energy Agency (IEA) expecting global data center electricity consumption to double from 2024 levels by 2030. Yet securing enough power is only half the problem.\n\nThe other half is whether the grid can tolerate how that power is used. The fluctuations happen on several fronts simultaneously, says He. At the chip level, power draw changes within milliseconds, while swings in the data hall happen over minutes. Zoom out further, and consumption can rise and fall over hours as new jobs get scheduled. The problem? No single piece of equipment is designed to handle all of that.\n\nThe power grids themselves are also changing. As renewable energy displaces conventional power generation across Asia Pacific, grids are becoming electrically weaker, with lower short-circuit ratios that make them more prone to voltage swings and oscillation, says He. And as facilities scale into the gigawatts, grids are now far less able to absorb disturbances than they once were.\n\nGetting enough power is just the start. Power densities inside the building keep rising with each iteration of AI hardware, and the heat has to be removed just as quickly. Crucially, the data center can no longer be a passive load. It is no longer enough to simply ride through voltage and frequency events. In some cases, the facility will be expected to play a part to help the grid recover from them.\n\n#### **From the grid to the chip** \n\nThe fix, according to He, lies in looking at the whole facility rather than its parts. A more efficient UPS or a better CDU helps, but the bigger gains come from rethinking the entire electricity pathway through the facility. His framework for this is what Huawei calls\\[z1.1\\] its “3+1” Strategy, for watt innovation, heat innovation, and bit innovation, as well as construction\\[z2.1\\] innovation using prefabrication.\n\nTake power first. The grid to chip chain must get shorter and lose fewer watts along the way. Yet that chain is getting more complicated. Utility power, renewables, batteries and backup generators all feed in, while AC and several flavors of DC will coexist on the server side for years. Huawei’s answer is an architecture it calls MIMO, built around a grid-forming energy router that takes in multiple energy inputs and turns them into stable power. This allows a single power foundation to serve every output type.\n\nThe same thinking applies to energy storage, which should be layered according to how fast the swings are. Capacitors on the board absorb the fastest ones, supercapacitors and short-duration lithium batteries handle the data hall, and grid-forming battery systems smooth things out at the campus level, so each layer hands off to the next.\n\nCooling must keep up with density, too. Liquid cooling has gone from an option to a necessity. But at above 100kW per rack, thermal inertia is so low that a cooling failure may leave operators about a minute to respond, says He. The points of failure multiply as well, since the coolant now runs through the server. His fix is AI-driven thermal management that flags minor leaks and declining coolant quality before they become faults, so that operations shift from reacting to problems to predicting them.\n\n#### **Grid strength will decide who builds first** \n\nAll of which raises the question of whether the current wave of data center construction across Asia Pacific is sustainable, or a temporary bubble. He is firmly in the first camp. Token demand is growing exponentially, and gigawatt-scale AI data centers are moving from a small handful of projects to routine deployments. In his view, this is a long investment cycle driven by a structural shift in computing.\n\nBut it will not unfold evenly. Access to power, grid connection capacity, renewable energy availability and construction speed differ widely across markets. And those factors will ultimately decide how fast each market moves. In other words, grid conditions do not just determine how stable a facility is once built. They determine when it gets built at all; some markets will see protracted development over years while others move far quicker.\n\nHuawei’s pitch is breadth. On the energy side, it builds everything from generation and grid equipment to storage, power supply and thermal management. It also makes the chips, the models and the applications that run on them. That lets the company design and simulate the whole system together, He argues, instead of assembling parts from different vendors.\n\n“We are not simply combining UPS systems, lithium batteries, and liquid cooling equipment,” he summed up. In the token factory, power is where the design starts, because the ultimate limit of compute is electricity.\n\nVisit Huawei’s website to learn more about its solutions here.",
       "content_url": "https://w.media/power-is-the-new-blueprint-for-the-ai-data-center/"
+    },
+    {
+      "id": "2026-11-10-d631ff",
+      "title": "Nvidia chips not crucial for Firmus' data centres, says Rosenfield",
+      "summary": "Firmus co-chief executive Tim Rosenfield says the developer’s plans to build data centres in Australia and Asia do not rely on the use of Nvidia chips.",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "hardware",
+        "hyperscale"
+      ],
+      "published_at": "2026-11-10T03:45:16Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/technology/nvidia-chips-not-crucial-for-firmus-data-centres-says-rosenfield-20261110-p61ctx",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA",
+        "Firmus"
+      ],
+      "title_zh": "Rosenfield称NVIDIA芯片对Firmus数据中心并非关键",
+      "content": "Firmus co-chief executive Tim Rosenfield says the developer’s plans to build data centres in Australia and Asia do not rely on the use of Nvidia chips.\n\nRosenfield was speaking after shares in the world’s most valuable company were punished in the fallout from chief executive Jensen Huang’s affair with an alleged Chinese spy.\n\nLoading...",
+      "content_url": "https://www.afr.com/technology/nvidia-chips-not-crucial-for-firmus-data-centres-says-rosenfield-20261110-p61ctx"
+    },
+    {
+      "id": "2026-11-10-37e942",
+      "title": "PETRONAS could power data centres with gas, secure long-term buyers at market rates, says minister",
+      "summary": "PETRONAS could tap into the massive power demand from data centres by supplying gas for dedicated power generation, a minister said on Tuesday.",
+      "why_it_matters": "",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "power",
+        "data center",
+        "gas",
+        "energy"
+      ],
+      "published_at": "2026-11-10T03:35:04Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825104",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "PETRONAS"
+      ],
+      "title_zh": "部长称PETRONAS可用天然气为数据中心供电，按市场价锁定长期买家",
+      "content": "KUALA LUMPUR (Nov 10): PETRONAS could tap into the massive power demand from data centres by supplying gas for dedicated power generation, a minister said on Tuesday.\n\nIf successful, the national oil-and-gas company officially known as Petroliam Nasional Bhd may secure longer-term customers at market prices, rather than provide subsidised energy to data centres, said Minister of Investment, Trade and Industry Datuk Seri Johari Abdul Ghani.\n\nThe boom in data centres presented an opportunity for Malaysia's gas industry to develop an additional domestic market, he said.\n\nJohari was delivering his keynote address at Bursa Malaysia's *Sectoral Series: Powering the AI Era — Watt Next?* The remarks come as a wave of energy-intensive data centres has been surging across Malaysia amid a global boom in artificial intelligence.\n\nTenaga Nasional Bhd (KL:TENAGA), the country’s national electric utility firm, is now supplying power to 36 data centres with dozens more in the pipeline.\n\nMalaysia could explore supplying gas to data centres through dedicated power generation, alongside other energy sources such as solar, rather than relying solely on electricity from the national grid, Johari said.\n\nHe highlighted the potential to redirect some of the country's gas resources towards domestic power generation, subject to existing export commitments and domestic energy requirements.\n\nLonger-term supply arrangements could provide energy producers with greater certainty over demand, while allowing data centre operators to secure the power needed for their operations, Johari noted.\n\nGas resources are finite and any supply arrangements would need to be priced transparently, taking into account market conditions and existing commitments, Johari said, stressing that existing long-term export contracts and infrastructure policy will be honoured in the meantime.\n\nThe growing electricity requirements of data centres could also support investment in other parts of the energy sector, including power generation, battery energy storage and grid infrastructure, he added.\n\nMalaysia is seeking to develop the infrastructure needed to support the country's digital economy while ensuring that the investments also create opportunities for the domestic energy industry and wider supply chain.\n\nThe government wants data centre investors to bear the cost of transmission upgrades required by their projects rather than pass it on to the locals. Operators would also be charged for capacity committed even if they did not fully use it, to prevent the allocations from being tied up without compensation.\n\nEdited ByJason Ng\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/825104"
+    },
+    {
+      "id": "2026-11-10-9cefd2",
+      "title": "Analysts see Malaysia tech facing sentiment dip, not earnings hit, despite data centre worries",
+      "summary": "KUALA LUMPUR (Nov 10): The Democratic sweep of both US congressional chambers in the midterm elections has weighed on technology stocks globally, but analysts said Malaysian tech faces a sentiment and valuation dip rather than an earnings hit.",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "sentiment",
+        "data center",
+        "valuation"
+      ],
+      "published_at": "2026-11-10T03:31:41Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825103",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "尽管存在数据中心担忧，分析师认为马来西亚科技业面临情绪下滑而非盈利冲击",
+      "content": "KUALA LUMPUR (Nov 10): The Democratic sweep of both US congressional chambers in the midterm elections has weighed on technology stocks globally, but analysts said Malaysian tech faces a sentiment and valuation dip rather than an earnings hit.\n\nMBSB Research said a blanket negative view of Malaysian technology would be \"inappropriate\", since impact depends on each company's exposure.\n\nThe exposure, it said, ranges from AI servers and data-centre equipment to semiconductor testing, consumer electronics, capital-equipment orders, customer concentration and balance-sheet strength.\n\n\"Tighter regulation does not remove the physical requirements of AI. AI still requires electricity, grid connections, buildings, cooling systems, water treatment, fibre networks, cybersecurity and backup power. Even a more regulated industry must continue investing in secure and efficient infrastructure,\" said the house in a note on Tuesday.\n\nMeanwhile, Kenanga Investment Bank said the post-US midterm unease has dragged Malaysian tech names down by sentiment, and that for the sector, it foresees \"a sentiment and valuations dip rather than earnings\" from delayed data-centre rollout.\n\nKenanga views any shift of data-centre development outside the US — such as Meta eyeing overseas expansion — as \"a modest positive for Malaysia,\" likely extending the visibility of the local data-centre play rather than accelerating demand.\n\nIt also noted Google's commitment to spend US$15 billion in Malaysia over 2027/2028.\n\nMBSB said the near-term Malaysian transmission is primarily through sentiment, with Bursa Malaysia technology companies exposed to Nasdaq and semiconductor valuations, and warned that \"US policy risk becomes Malaysian valuation risk before it becomes Malaysian earnings risk\".\n\nMBSB's preferred durable exposure is in the physical infrastructure surrounding data centres, including Tenaga Nasional Bhd (KL:TENAGA), YTL Power International Bhd (KL:YTLPOWR), Gamuda (KL:GAMUDA), Sunway Construction Group Bhd (KL:SUNCON), IJM Corporation (KL:IJM), CelcomDigi Bhd (KL:CBD) and Maxis Bhd (KL:MAXIS).\n\nKenanga cautioned that local barriers are also tightening, with 24 applications for approval on hold pending power and water checks, and that 12.3GW of energy capacity had been approved for data centres as of August, with maximum sector demand projected to reach 8.39GW by 2030.\n\nKenanga said YTL Power and property names are \"unduly discounted\" for their data-centre prospects — YTL Power's last close of RM5.01 implies only 600MW of its pipeline is being credited versus its 1.2GW forecast.\n\nMeanwhile, data-centre valuations account for 7%–14% of target prices for Sime Darby Property Bhd (KL:SIMEPROP), EcoWorld Development Group Bhd (KL:ECOWLD) and Mah Sing Group Bhd (KL:MAHSING).\n\nIt likes Tenaga Nasional, seeing the discount implied by skepticism over the IBR mechanism as excessive, and Kee Ming Group Bhd (KL:KEEMING) as a beneficiary of data-centre-related electrical works, with Sunway Construction as its preferred pure-play data-centre exposure.\n\nOn technology, Kenanga remains positive on Nationgate Holdings Bhd (KL:NATGATE) and Ambest Group (KL:AMBEST) and likes Kelington Group Bhd (KL:KGB) for its secured 2027/2028 revenue, but said it does not yet see urgency for bargain hunting for tech names sector-wide.\n\nBoth houses expect Malaysian equities to remain supported by resilient domestic growth, healthy corporate earnings and continued infrastructure and data centre investment.\n\nMBSB kept its preliminary end-2027 FBM KLCI target at 1,850 points, based on forecast index earnings of 120.1 points (6.6% growth) and a forward PER of 15.4 times.\n\nBoth houses favour a balanced approach — utilities, construction, telecommunications, healthcare and essential consumption alongside selective technology.\n\nMBSB noted further that lower oil prices would provide the necessary market confirmation for its 1,850-point target.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/825103"
     },
     {
       "id": "2026-11-10-6f1873",
@@ -745,6 +713,39 @@
       "title_zh": "Google Cloud推出TPU 8tx、8i Max用于企业AI",
       "content": "Google Cloud has expanded its Tensor Processing Unit (TPU) family with two new chips, TPU 8tx and TPU 8i Max.These processors address enterprise needs for enhanced security in sensitive AI workloads and improved performance for agentic AI applications with large context windows, according to Mark Lohmeyer, vice president and general manager of AI and computing infrastructure at Google Cloud.The TPU 8tx, built on the same silicon as the TPU 8t, features hardware-level encryption for secure inference and small-scale training.It is paired with custom AMD CPU hosts to help protect and isolate sensitive data and model weights during active inference, Lohmeyer said.The TPU 8i Max combines two TPU 8i chips into a single package, doubling compute, SRAM, and high-bandwidth memory (HBM) bandwidth compared with the TPU 8i.This variant offers 384 GB of HBM and targets agentic workloads with large context windows, Lohmeyer stated.Google Cloud said the TPU 8i Max allows more silicon to fit within an existing rack footprint, increasing computing power per square foot and per watt in its data centers.This could help Google Cloud expand capacity without immediately adding more racks or building new data centers, according to Dave McCarthy, group vice president at IDC.McCarthy noted that confidential computing is an emerging requirement for AI workloads, protecting data in use, which could give Google Cloud an advantage.Google Cloud plans to allow select customers to deploy the TPU 8tx in their own data centers.Oracle recently announced that it would make TPU chips available to customers of Oracle Cloud Infrastructure.\n\n- AI & Compute Infrastructure\n- 1 min Read\n\n# Google Cloud adds TPU 8tx, 8i Max for enterprise AI\n\nGoogle Cloud introduced two new Tensor Processing Unit (TPU) chips, TPU 8tx and TPU 8i Max, expanding its eighth-generation family. These chips are designed for secure AI workloads and higher-capacity inference in enterprise applications.\n\n- Published On Nov 10, 2026 at 07:30 AM IST\n\n## Highlights\n\n- Google Cloud launched TPU 8tx for secure AI workloads and TPU 8i Max for high-capacity inference.\n- TPU 8tx offers hardware-level encryption, paired with custom AMD CPU hosts for data protection.\n- TPU 8i Max doubles compute and memory bandwidth, delivering 384 GB HBM for large AI contexts.\n- The new chips enable higher compute density per square foot in data centers, easing capacity pressures.\n\n## Comments\n\nWhat are your thoughts?",
       "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/google-cloud-adds-tpu-8tx-8i-max-for-enterprise-ai/135696657"
+    },
+    {
+      "id": "2026-11-10-6fa3be",
+      "title": "Synopsys joins Singapore tropical data centre testbed",
+      "summary": "The partnership aims to curb soaring cooling costs for AI-ready data centres in humid climates, where energy use can reach 40%.",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "cooling",
+        "ai",
+        "sustainability",
+        "research"
+      ],
+      "published_at": "2026-11-10T00:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/synopsys-joins-singapore-tropical-data-centre-testbed",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Synopsys"
+      ],
+      "title_zh": "Synopsys加入Singapore tropical data centre testbed",
+      "content": "Tue, 10th Nov 2026 (Today)\nSynopsys has joined the Sustainable Tropical Data Centre Testbed 2.0 consortium, led by the National University of Singapore. The collaboration focuses on data centre cooling and digital modelling for tropical conditions.\n\nHosted by the university's College of Design and Engineering, the consortium brings together industry and academic researchers working on infrastructure for AI and high-performance computing systems. The work will connect engineering simulation, AI-assisted design and reduced-order modelling, validated through a physical testbed.\n\nData centres in tropical climates face higher cooling demands because of elevated temperatures and humidity. According to the consortium, ambient temperatures often exceed 24-32C and humidity can reach 70-80%, reducing the efficiency of conventional cooling systems and increasing energy use.\n\nThe challenge has become more pressing as AI workloads increase rack density, power demand and thermal loads in data centre facilities. Cooling can account for up to 40% of a tropical data centre's total energy consumption, a larger share than in cooler climates.\n\n### Cooling focus\n\nInitial research concepts include two-phase direct-to-chip cooling for AI accelerators and digital twins for predictive thermal management. The planned workflow is designed to link detailed simulation of thermal and fluid behaviour with experimental testing in the consortium's live environment.\n\nThe partners also plan to work across computational fluid dynamics, multiphysics simulation and AI-assisted thermofluid design. Results validated through the physical testbed are expected to feed into reduced-order models for use in digital twin systems and operational decision-making.\n\nSynopsys will provide software access, technical expertise, training, project mentoring and learning resources as part of the collaboration. The broader programme is intended to support research, technology validation and skills development for practitioners working on tropical data centres.\n\nBrandon Wang, Vice President, Technology Strategy & New Horizons at Synopsys, said, \"At Synopsys, we look beyond today's opportunities to the new horizons that can strengthen our technology long term. Through our Technology Intelligence Centre, our team connects emerging technology shifts with Synopsys capabilities and leading research ecosystems to turn promising ideas into strategic opportunities. Our collaboration with STDCT 2.0 reflects that commitment by bringing our silicon-to-systems engineering capabilities into a real-world environment for sustainable AI infrastructure.\"\n\nThe project reflects a wider effort in Singapore to build data centre technology suited to regional operating conditions. Southeast Asia has become an important market for data centre expansion, but operators in the region must balance rising demand for computing capacity with pressure to manage electricity and water use.\n\n### Testbed model\n\nThe Sustainable Tropical Data Centre Testbed is a joint research initiative led by the National University of Singapore and hosted by its College of Design and Engineering. It serves as a live environment where research institutions, data centre operators and technology suppliers can test systems intended to improve energy and water efficiency in hot, humid conditions.\n\nThe second phase of the testbed focuses on energy efficiency, water efficiency, green energy, AI and future data centres, and green computing. Its structure allows members to move from simulation and design work to physical validation under conditions intended to reflect operating environments in tropical markets.\n\nPadmesh Mandloi, Vice President, Synopsys Simulation and Analysis APAC at Synopsys, said, \"Efficient AI infrastructure requires a clear understanding of interconnected multiscale and multiphysics behavior, from chips to data centers. By combining Ansys multiscale and multiphysics simulation, AI-assisted engineering and surrogate modeling with STDCT 2.0 test data, we can help researchers connect and exchange data across scales, validate designs, and develop scalable cooling and digital twin solutions.\"\n\nThe collaboration also includes work on reusable workflows, case studies and validation methods, alongside a demonstration linking design, simulation, reduced-order model generation, digital twin integration and physical testing. That approach is intended to make it easier to compare design options and assess how cooling strategies perform before deployment.\n\nProfessor Lee Poh Seng, Programme Director, Sustainable Tropical Data Centre Testbed, and Head, Department of Mechanical Engineering, College of Design and Engineering at NUS, said, \"STDCT 2.0 provides a co-innovation platform to move promising technologies from simulation to validation and towards real-world deployment in tropical data centers. By combining Synopsys' multiphysics simulation, AI-assisted engineering and digital modelling capabilities with our physical testbed, we aim to develop validated, scalable cooling and digital twin solutions for increasingly dense, AI-ready infrastructure in Singapore and across the region.\"",
+      "content_url": "https://datacenternews.asia/story/synopsys-joins-singapore-tropical-data-centre-testbed",
+      "published_precision": "day"
     },
     {
       "id": "2026-11-10-d14ab6",
@@ -885,6 +886,35 @@
       "content_url": "https://www.afr.com/technology/these-early-investors-rode-firmus-from-bitcoin-to-billion-dollar-play-20261109-p61cc1"
     },
     {
+      "id": "2026-11-10-832aa5",
+      "title": "Data centers weigh AI kill switch implementation",
+      "summary": "Data centers are exploring the implementation of AI kill switches to manage out-of-control artificial intelligence models. This mechanism aims to isolate rogue AI workloads by cutting power or network connectivity on a facility-by-facility basis.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "safety",
+        "infrastructure",
+        "risk"
+      ],
+      "published_at": "2026-11-09T11:40:26Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/operations-resilience/data-centers-weigh-ai-kill-switch-implementation/135680882",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "数据中心权衡AI kill switch的实施",
+      "content": "Data centers are considering implementing AI \"kill switches\" to manage unpredictable artificial intelligence (AI) systems. This approach seeks to isolate AI workloads at the facility level, allowing operators to shut down or disconnect a data center hosting a rogue AI.Implementing such a kill switch is complex because AI systems often run on distributed infrastructure. A single server shutdown or process command cannot stop large-scale AI deployments spanning multiple clusters, facilities, or regions.\n### Isolation Methods and Challenges\n\nA data center-level kill switch would not offer fine-grained control over individual AI agents or models. It would also not necessarily stop every process immediately. However, it could contain a rogue system by severing its power or connectivity.One limitation is the scale of some AI models, which are distributed across multiple data centers. Shutting down a single facility would not stop the entire system; all supporting facilities would need to be disabled. Additionally, a sophisticated rogue AI might replicate itself to external infrastructure, a problem a data center-level kill switch would not address once replication occurs.Two primary methods exist for isolating a rogue AI workload: cutting power or severing network connectivity. Both are challenging because data centers are engineered for redundancy and fault tolerance.A power-based kill switch involves shutting off the facility's power supply. However, data centers have redundant power systems, including uninterruptible power supplies (UPS) and backup generators, designed to keep workloads online during outages. Abrupt power loss also carries operational and hardware risks, particularly for expensive GPU-based servers.A network-based kill switch would sever external network connectivity, preventing AI workloads from communicating externally or accessing remote resources. This approach also faces challenges due to redundant network paths, multiple upstream carriers, and diverse interconnection points in modern facilities. Operators would need to disable all relevant external connectivity paths.\n### Regulatory Outlook\n\nVoluntary adoption of AI kill switches by data center operators is unlikely due to their business model reliance on uptime and resilience. Regulatory mandates are considered more feasible, where governments could require facilities hosting specific AI workloads to maintain standardized isolation mechanisms, likely through network disconnection. The effectiveness of such regulations would depend on consistent adoption across jurisdictions to prevent AI companies from relocating high-risk workloads.\n\n- Operations & Resilience\n- 2 min Read\n\n# Data centers weigh AI kill switch implementation\n\nData centers are exploring the implementation of AI kill switches to manage out-of-control artificial intelligence models. This mechanism aims to isolate rogue AI workloads by cutting power or network connectivity on a facility-by-facility basis.\n\n- Published On Nov 09, 2026 at 05:10 PM IST\n\n## Highlights\n\n- Data centers explore AI \"kill switches\" to isolate rogue AI workloads.\n- These mechanisms would shut down or disconnect facilities hosting AI systems.\n- Challenges include distributed AI models and data center redundancy.\n- Regulatory mandates are more likely than voluntary adoption for implementation.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/operations-resilience/data-centers-weigh-ai-kill-switch-implementation/135680882"
+    },
+    {
       "id": "2026-11-10-bc4677",
       "title": "NextDC pauses uncontracted projects after Australian data centre woes",
       "summary": "Australian data center operator NextDC halted all uncontracted projects following a significant setback at its Melbourne facility, while two major rivals completed a A$715 million equity investment in the company. The strategic pause and capital injection reflect stress in the Australian market from delayed customer commitments and construction cost overruns.",
@@ -917,35 +947,6 @@
       "why_zh": "NextDC的收缩为AirTrunk、Equinix以及新投资的竞争对手——很可能是Macquarie和Aware Super——创造了立即获取企业和政府工作负载的市场份额机会。这一事件还标志着整个亚太地区投机性data center开发的更广泛调整，投资者要求在资助二级市场建设前获得预租赁承诺。",
       "content": "SYDNEY (Nov 9): Australian data centre operator NextDC said on Monday that it would stop work on all projects without customer contracts following a big setback on a facility in Melbourne, as two major rivals finalised buying an A$715 million (US$492 million) stake in the company.\n\nA suspension of work on its flagship M3 data centre expansion in Melbourne due to power delays and community backlash forced the company to cut its earnings forecasts last month, sending its share price tumbling 42%.\n\nThe decision to pause uncontracted projects after the Melbourne delay is another blow for NextDC, which had been touted as Australia's most prolific data centre developer.\n\n\"The last couple of weeks (I) certainly didn't expect to be in the position we're in today having to deal with some delays,\" NextDC's chief executive Craig Scroggie told the UBS Australasia conference.\n\n\"That's unfortunately probably reflective of the global environment in relation to the engagement, social licence, people's feelings about artificial intelligence and data centres being the physical embodiment of that.\"\n\nScroggie said the M3 delay meant the top priority was to win community backing for that project and \"anything that didn't have a customer contract and a customer commitment that we absolutely have to deliver on is now no longer a priority\".\n\nHe did not say how many projects would be paused. The company had 11 centres in development or in the planning stages, according to its 2026 annual report.\n\n\"That work can't restart until we clearly communicate that we've solved this problem, that we've earned the trust of everybody that's been supporting us, and then we will get back to work.\"\n\nNextDC's rivals Goodman Group and its New York-listed partner Digital Realty bought a 9.9% stake in the company last week, following the share price plunge.\n\n\"When you have a challenge like we've had in the last couple of weeks, it's not really any surprise to me that people ... look at that and say, now might be the time,\" Scroggie said.\n\nGoodman and Digital Realty said they had no plans at the moment to launch a takeover offer, but reserved the right to do so. They said they would \"look forward to a potential collaboration with the NextDC board and management on the ways and forms in which the parties may help to address the challenges facing the company\".\n\nFollowing their share raid, NextDC's share price recovered the ground lost from the earnings writedown.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
       "content_url": "https://theedgemalaysia.com/node/825054"
-    },
-    {
-      "id": "2026-11-10-832aa5",
-      "title": "Data centers weigh AI kill switch implementation",
-      "summary": "Data centers are exploring the implementation of AI kill switches to manage out-of-control artificial intelligence models. This mechanism aims to isolate rogue AI workloads by cutting power or network connectivity on a facility-by-facility basis.",
-      "why_it_matters": "",
-      "score": 55,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [
-        "ai",
-        "safety",
-        "infrastructure",
-        "risk"
-      ],
-      "published_at": "2026-11-09T11:40:26Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "ET Datacenters",
-          "url": "https://datacenters.economictimes.indiatimes.com/news/operations-resilience/data-centers-weigh-ai-kill-switch-implementation/135680882",
-          "type": "rss"
-        }
-      ],
-      "title_zh": "数据中心权衡AI kill switch的实施",
-      "content": "Data centers are considering implementing AI \"kill switches\" to manage unpredictable artificial intelligence (AI) systems. This approach seeks to isolate AI workloads at the facility level, allowing operators to shut down or disconnect a data center hosting a rogue AI.Implementing such a kill switch is complex because AI systems often run on distributed infrastructure. A single server shutdown or process command cannot stop large-scale AI deployments spanning multiple clusters, facilities, or regions.\n### Isolation Methods and Challenges\n\nA data center-level kill switch would not offer fine-grained control over individual AI agents or models. It would also not necessarily stop every process immediately. However, it could contain a rogue system by severing its power or connectivity.One limitation is the scale of some AI models, which are distributed across multiple data centers. Shutting down a single facility would not stop the entire system; all supporting facilities would need to be disabled. Additionally, a sophisticated rogue AI might replicate itself to external infrastructure, a problem a data center-level kill switch would not address once replication occurs.Two primary methods exist for isolating a rogue AI workload: cutting power or severing network connectivity. Both are challenging because data centers are engineered for redundancy and fault tolerance.A power-based kill switch involves shutting off the facility's power supply. However, data centers have redundant power systems, including uninterruptible power supplies (UPS) and backup generators, designed to keep workloads online during outages. Abrupt power loss also carries operational and hardware risks, particularly for expensive GPU-based servers.A network-based kill switch would sever external network connectivity, preventing AI workloads from communicating externally or accessing remote resources. This approach also faces challenges due to redundant network paths, multiple upstream carriers, and diverse interconnection points in modern facilities. Operators would need to disable all relevant external connectivity paths.\n### Regulatory Outlook\n\nVoluntary adoption of AI kill switches by data center operators is unlikely due to their business model reliance on uptime and resilience. Regulatory mandates are considered more feasible, where governments could require facilities hosting specific AI workloads to maintain standardized isolation mechanisms, likely through network disconnection. The effectiveness of such regulations would depend on consistent adoption across jurisdictions to prevent AI companies from relocating high-risk workloads.\n\n- Operations & Resilience\n- 2 min Read\n\n# Data centers weigh AI kill switch implementation\n\nData centers are exploring the implementation of AI kill switches to manage out-of-control artificial intelligence models. This mechanism aims to isolate rogue AI workloads by cutting power or network connectivity on a facility-by-facility basis.\n\n- Published On Nov 09, 2026 at 05:10 PM IST\n\n## Highlights\n\n- Data centers explore AI \"kill switches\" to isolate rogue AI workloads.\n- These mechanisms would shut down or disconnect facilities hosting AI systems.\n- Challenges include distributed AI models and data center redundancy.\n- Regulatory mandates are more likely than voluntary adoption for implementation.\n\n## Comments\n\nWhat are your thoughts?",
-      "content_url": "http://datacenters.economictimes.indiatimes.com/news/operations-resilience/data-centers-weigh-ai-kill-switch-implementation/135680882"
     },
     {
       "id": "2026-11-10-eed099",
