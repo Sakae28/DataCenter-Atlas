@@ -750,7 +750,7 @@
       "summary": "US intelligence agencies are examining whether foreign intelligence services, with particular attention from China, have targeted Nvidia CEO Jensen Huang. The probe highlights growing concerns about executive security at semiconductor firms central to AI supply chains.",
       "why_it_matters": "If foreign intelligence is actively targeting chip company leadership, the personal security calculus for executives across the semiconductor and AI infrastructure sectors shifts dramatically. Companies may need to harden executive protection programs, and governments could impose new travel and disclosure restrictions that complicate deal-making and partnership-building across borders.",
       "score": 85,
-      "heat": 5,
+      "heat": 8,
       "regions": [
         "global",
         "southeast-asia",
@@ -789,6 +789,21 @@
           "name": "Data Center Dynamics",
           "url": "https://www.datacenterdynamics.com/en/news/nvidia-shareholders-file-class-action-lawsuit-against-chip-giant-and-its-ceo-jensen-huang-following-fall-out-from-chinese-spy-allegations/",
           "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/nvidia-appoints-law-firm-to-investigate-ceos-affair-with-suspected-chinese-spy/",
+          "type": "html-list"
+        },
+        {
+          "name": "W.Media",
+          "url": "https://w.media/nvidia-stocks-plunge-ceo-faces-board-inquiry/",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/international/global/nvidia-ceo-jensen-huang-drops-worlds-top-10-richest-after-chips-sell",
+          "type": "html-list"
         }
       ],
       "companies": [
@@ -800,7 +815,8 @@
       "summary_zh": "美国情报机构正在调查外国情报部门是否将 Nvidia CEO Jensen Huang 作为目标，其中中国方面的关注尤为突出。此次调查凸显了对处于 AI 供应链核心的半导体企业高管安全的日益担忧。",
       "why_zh": "如果外国情报部门正积极针对芯片公司高管，那么半导体和 AI 基础设施领域高管的个人安全考量将发生根本性转变。企业可能需要加强高管保护计划，而政府也可能出台新的旅行和披露限制，使跨境交易和合作变得更加复杂。",
       "content": "Nvidia is probing whether CEO Jensen Huang has been the target of a foreign intelligence effort, after a media report alleged he had a close relationship with a Chinese businesswoman who passed information to Beijing.\n\nHuang admitted in a message to employees that he had been unfaithful to his wife and took \"full responsibility\" for his actions, while Nvidia said the CEO was committed to continuing to lead the company without interruption.\n\n*The New York Times* reported last month that Huang had a relationship with Alice Huang, a former executive of Singapore-based company Megaspeed, whom US authorities were investigating.\n\nUS authorities have scrutinised Megaspeed, which buys AI chips from Nvidia, over suspicions it helped Beijing gain access to advanced AI chips that are barred from shipment to China.\n\n\"The Nvidia board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort.\n\n\"A committee of independent directors, assisted by outside independent counsel, will oversee the investigation,\" Nvidia said.\n\nThe company said that, while its board has no reason to believe that either US national security or Nvidia secrets were compromised, its inquiry will examine all available information.\n\nHuang fully supports the review and has committed to cooperating with it, it added.\n\nThe investigation adds to pressure on Nvidia at a time investors are already pulling back from uncertainty over the sustainability of the AI market, in which the company is a leader. \n\nThe US$4.5 trillion ($6.6 trillion) chipmaker's shares have given up all their gains this year amid a broader tech market rout triggered by worries over AI sustainability.\n\nHuang admitted to having been unfaithful to his wife, saying, \"My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry.\"\n\nAddressing his colleagues, board, partners and shareholders, Huang said: \"My responsibility is to serve you and be worthy of your trust. I have fallen short of that responsibility. I am fully committed to NVIDIA and will work to earn back your confidence.\"\n\nTop Republican lawmakers in the US House of Representatives have called on Huang to brief Congress this month about the report.\n\nThe report raises \"significant national security concerns regarding (China's) access to sensitive US technology and information,\" the lawmakers said in a letter dated November 4.\n\n\"It is vital that Congress determines the extent to which US national security has been placed at risk,\" they added.\n\nHuang, who founded Nvidia in 1993, said that he was \"committed to protecting Nvidia and supporting America's national security.\"\n\nNvidia had earlier said that Huang talks with \"thousands of customer executives every year,\" and that cloud customers in Asia receive ordinary business information, not sensitive Nvidia trade secrets or anything tied to US national security.",
-      "content_url": "https://www.itnews.com.au/news/nvidia-probes-whether-ceo-huang-was-target-of-foreign-intelligence-effort-630205"
+      "content_url": "https://www.itnews.com.au/news/nvidia-probes-whether-ceo-huang-was-target-of-foreign-intelligence-effort-630205",
+      "published_precision": "day"
     }
   ]
 }

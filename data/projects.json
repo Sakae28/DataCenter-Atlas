@@ -102999,11 +102999,11 @@
       "capacity_mw": null,
       "status": "announced",
       "developer": null,
-      "investor": null,
-      "investment": null,
+      "investor": "European Energy Australia",
+      "investment": "$1.5 billion clean power commitment",
       "phases": null,
       "anchor_tenants": [],
-      "power": null,
+      "power": "260MW solar + battery storage paired with 800MWh battery; 610MW total renewable generation",
       "announced": null,
       "construction_start": null,
       "rfs": null,
@@ -103024,10 +103024,12 @@
         }
       ],
       "story_ids": [
-        "2026-10-01-085002"
+        "2026-10-01-085002",
+        "2026-11-12-dd34ca",
+        "2026-11-12-a9d52f"
       ],
       "first_seen": "2026-10-01",
-      "last_updated": "2026-10-01",
+      "last_updated": "2026-11-12",
       "seed": false
     },
     {
@@ -104768,7 +104770,48 @@
       "first_seen": "2026-11-10",
       "last_updated": "2026-11-10",
       "seed": false
+    },
+    {
+      "id": "google-port-dickson-port-dickson-data-center",
+      "name": "Port Dickson data center",
+      "operator": "Google",
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "city": "Port Dickson",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": "USD $160 million water plant",
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-11-12",
+          "story_id": "2026-11-12-540555"
+        }
+      ],
+      "story_ids": [
+        "2026-11-12-540555"
+      ],
+      "first_seen": "2026-11-12",
+      "last_updated": "2026-11-12",
+      "seed": false
     }
   ],
-  "updated_at": "2026-11-11T08:05:05Z"
+  "updated_at": "2026-11-12T08:38:48Z"
 }

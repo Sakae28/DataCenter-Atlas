@@ -731,7 +731,7 @@
       "summary": "Google's planned $15 billion investment marks one of the largest foreign direct investments in Malaysia's history and will expand the company's cloud infrastructure footprint across Southeast Asia. The commitment includes developing a data center campus and cloud region to serve domestic and regional demand for AI and digital services.",
       "why_it_matters": "Malaysia emerges as a primary beneficiary of the US-China tech decoupling, with Google joining Microsoft and ByteDance in making multibillion-dollar commitments. Local utilities and construction firms will face pressure to deliver power and infrastructure on accelerated timelines, while Singapore-based operators may see price-sensitive workloads migrate north.",
       "score": 90,
-      "heat": 8,
+      "heat": 9,
       "regions": [
         "southeast-asia"
       ],
@@ -782,6 +782,11 @@
         {
           "name": "Nikkei Asia",
           "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/grab-softbank-to-invest-1.85bn-in-malaysia-ai-infrastructure",
+          "type": "rss"
+        },
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/google-unveils-usd-15-billion-malaysia-digital-push",
           "type": "rss"
         }
       ],
