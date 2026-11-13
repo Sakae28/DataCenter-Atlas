@@ -104811,7 +104811,49 @@
       "first_seen": "2026-11-12",
       "last_updated": "2026-11-12",
       "seed": false
+    },
+    {
+      "id": "cdc-data-centres-kemps-creek-kemps-creek-data-center-campus",
+      "name": "Kemps Creek data center campus",
+      "operator": "CDC Data Centres",
+      "region": "australia",
+      "country": "Australia",
+      "city": "Kemps Creek",
+      "capacity_mw": 1400,
+      "status": "announced",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-11-13",
+          "story_id": "2026-11-13-bc6186"
+        }
+      ],
+      "story_ids": [
+        "2026-11-13-bc6186"
+      ],
+      "first_seen": "2026-11-13",
+      "last_updated": "2026-11-13",
+      "seed": false,
+      "capacity_note": "total planned"
     }
   ],
-  "updated_at": "2026-11-12T08:38:48Z"
+  "updated_at": "2026-11-13T08:19:09Z"
 }

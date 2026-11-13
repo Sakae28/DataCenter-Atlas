@@ -10,66 +10,6 @@
   ],
   "stories": [
     {
-      "id": "2026-11-12-3dc08b",
-      "title": "NextDC in fight with former manager over millions in commissions",
-      "summary": "A former NextDC sales manager alleges he is owed millions of dollars in commissions after helping the Craig Scroggie-led data centre group secure valuable ongoing contracts.",
-      "why_it_matters": "",
-      "score": 50,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "colocation",
-        "legal",
-        "management"
-      ],
-      "published_at": "2026-11-12T03:03:17Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/technology/nextdc-in-fight-with-former-manager-over-millions-in-commissions-20261112-p61dhj",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "NextDC"
-      ],
-      "title_zh": "NextDC与前经理就数百万佣金发生纠纷",
-      "content": "A former NextDC sales manager alleges he is owed millions of dollars in commissions after helping the Craig Scroggie-led data centre group secure valuable ongoing contracts.\n\nJordan Berryman, NextDC’s former enterprise sales account manager for high-performance computing and artificial intelligence, initially alleged the company underpaid his commissions by $11.3 million across five major deals. However, in new documents filed in the Federal Court, he revised this down to $2.2 million.\n\nLoading...",
-      "content_url": "https://www.afr.com/technology/nextdc-in-fight-with-former-manager-over-millions-in-commissions-20261112-p61dhj"
-    },
-    {
-      "id": "2026-11-12-64fb74",
-      "title": "Australian AI data centre boom stalls as local backlash, costs mount",
-      "summary": "Data centre operators are putting the brakes on ambitious developments in Australia as community opposition intensifies and costs soar, warning that investment will move to Asia unless governments…",
-      "why_it_matters": "",
-      "score": 80,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "data-center",
-        "ai",
-        "capacity",
-        "regulation"
-      ],
-      "published_at": "2026-11-12T00:27:41Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/companies/infrastructure/data-centre-money-train-grinds-to-a-halt-in-the-adelaide-hills-20261112-p61dho",
-          "type": "html-list"
-        }
-      ],
-      "title_zh": "澳大利亚AI数据中心热潮因当地反对和成本上升而停滞",
-      "content": "Data centre operators are putting the brakes on ambitious developments in Australia as community opposition intensifies and costs soar, warning that investment will move to Asia unless governments back appropriate projects.\n\nMelbourne-based developer Quantum DC has become the latest group to acknowledge it has been pushing a project too aggressively, halting plans to build a giant facility in the Adelaide Hills after a fierce community backlash and criticism from South Australian Premier Peter Malinauskas.\n\nLoading...",
-      "content_url": "https://www.afr.com/companies/infrastructure/data-centre-money-train-grinds-to-a-halt-in-the-adelaide-hills-20261112-p61dho"
-    },
-    {
       "id": "2026-11-12-0ee625",
       "title": "Govt to strengthen requirements for data centre incident reporting",
       "summary": "Malaysian authorities are drafting enhanced mandatory incident reporting requirements for data center operators, mandating prompt notification to government agencies when digital infrastructure disruptions occur. The proposed framework aims to improve national cybersecurity resilience and critical infrastructure protection by reducing information asymmetry between operators and regulators during outage events.",
@@ -99,6 +39,46 @@
       "why_zh": "运营商面临扩大的合规义务和潜在责任风险，特别是考虑到'及时'报告的定义以及哪些中断阈值触发强制通报存在模糊性。这一监管发展使马来西亚处于新加坡成熟的关键基础设施框架和印度尼西亚较轻触方法之间，实施质量将决定报告要求是成为真正的风险管理工具还是在实际事件中延迟运营响应的勾选练习。",
       "content": "KUALA LUMPUR (Nov 12): The government is looking to strengthen reporting and notification requirements for data centre operators to ensure disruptions affecting digital infrastructure can be promptly communicated to the relevant authorities.\n\nDigital Minister Gobind Singh Deo said a proper notification mechanism should specify the nature of the incident and measures, whether the problem could be resolved, and the sectors potentially affected. Such requirements are increasingly important as more industries and economic activities become reliant on data centre infrastructure and uninterrupted digital services, he added.\n\n“If there is a flood that results in damage to the data centre and there is no mechanism today that requires the data centre to notify anyone or an authority who can be notified. If you have an ecosystem where the entire country, or a substantial part of it, is reliant and dependent on data centres, and there are problems, you need to start thinking of how you govern infrastructure,” he told reporters after the launch of the National AI Readiness Week 2026, here Thursday.\n\nGobind said the Data Centre Task Force (DCTF), co-chaired by him and Minister of Investment, Trade and Industry Datuk Seri Johari Abdul Ghani, was also examining challenges arising from the industry’s rapid expansion. He said the government was also exploring ways to encourage data centre investors to develop supporting energy and water supply infrastructure to meet the industry’s growing requirements.\n\nHe stated that recent investment announcements by Google went beyond data centre development to include efforts to build the supporting ecosystem in Malaysia. “So if we are going to look at substantial demands and requirements for energy as we go ahead, we are also starting a discussion around whether you can look at these companies building energy supplies to run the data centres, and also water supplies to do the same,” he said.\n\nCommenting on Malaysia’s 27th place among 70 countries in the IMD World Digital Competitiveness-related AI ranking, he said the focus should now shift towards ensuring investments in AI infrastructure generate tangible economic benefits. “Ultimately, the question is whether or not we can see returns on those investments,” he added.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
       "content_url": "https://theedgemalaysia.com/node/825501"
+    },
+    {
+      "id": "2026-11-12-e56576",
+      "title": "Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs",
+      "summary": "Chinese artificial intelligence companies are accelerating efforts to secure access to Nvidia chip capacity through cloud providers and leasing arrangements, driven by fears that a recent espionage scandal involving the company's CEO could trigger expanded US export controls. The scramble reflects deep uncertainty about whether Washington will restrict remote access to advanced GPUs currently available through overseas cloud instances.",
+      "why_it_matters": "The preemptive capacity hoarding risks creating artificial shortages and price spikes in global cloud GPU markets, disrupting AI development timelines for non-Chinese customers. If Washington does extend restrictions to cloud-based access, the bifurcation between Chinese and Western AI infrastructure would accelerate dramatically, forcing Chinese firms toward domestic alternatives like Huawei's Ascend chips and potentially fragmenting global AI research collaboration.",
+      "score": 85,
+      "heat": 2,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "regulation",
+        "hyperscale"
+      ],
+      "published_at": "2026-11-12T07:26:52Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/global/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-curbs",
+          "type": "rss"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825489",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "title_zh": "中国AI公司急于确保NVIDIA芯片容量，间谍丑闻引发对美国限制令的担忧",
+      "summary_zh": "中国AI公司正在加速通过云服务提供商和租赁安排确保Nvidia芯片容量的获取，原因是担心涉及该公司CEO的近期间谍丑闻可能触发美国扩大出口管制。这种抢购反映了对于华盛顿是否会限制目前通过海外云实例可获得的高级GPU远程访问的深刻不确定性。",
+      "why_zh": "这种预防性 capacity hoarding 可能造成全球云GPU市场的人为短缺和价格飙升，扰乱非中国客户的AI开发时间表。如果华盛顿确实将限制扩展到基于云的访问，中国与西方AI基础设施之间的分叉将急剧加速，迫使中国公司转向华为Ascend芯片等国内替代品，并可能分裂全球AI研究合作。",
+      "content": "The companies worry Washington may tighten restrictions on their remote use of advanced processors\n\n\\[BEIJING\\] Chinese artificial intelligence companies are trying to rent Nvidia-powered computing capacity at data centres outside China, concerned that a scandal involving the US chipmaker’s chief executive Jensen Huang could spur Washington to tighten restrictions on their remote use of advanced processors, three people familiar with the matter said.\n\nThe moves underline concern among Chinese technology companies over the potential closing of a gap in US export controls.\n\nSeeking to protect US dominance of the critical sector, Washington restricts exports to China of Nvidia’s most advanced artificial intelligence chips, but Chinese companies can access such processors remotely by renting computing power at data centres overseas.\n\nA major Chinese cloud provider has discussed internally whether to lock in overseas Nvidia chip capacity, while some companies have contacted data centre operators about reserving it, the people said.\n\nThe people declined to be identified, or to identify the cloud provider because of the sensitivity of the matter.\n\nSmaller AI labs are considering similar steps, including approaching major providers of rented computing power in South-east Asia, two of the people said.\n\nThe companies fear the controversy surrounding Huang could add political momentum to the Remote Access Security Act, or Rasa, a US bill that would give the Commerce Department authority to regulate remote, cloud-based access to restricted technology, the people said.\n\nThe House of Representatives passed the bill in January by a 369-22 vote, and it awaits Senate action.\n\nAdvanced Nvidia processors are used to train and run the large AI models behind chatbots and other generative AI products.\n\nRestricting overseas cloud access would make it harder for Chinese developers to obtain high-end computing power without importing the chips directly.\n\nHuang said on Sunday (Nov 8) that he had been unfaithful to his wife.\n\n*The New York Times* reported that the woman involved was Alice Huang, a former executive at Singapore-based cloud-computing company Megaspeed, and that US authorities had concluded she was a Chinese intelligence asset.\n\nReuters could not independently verify that allegation, which China has denied.\n\nAlice Huang had business dealings and investment ties with several leading Chinese technology companies, including Tencent and Alibaba, according to two people familiar with the matter. Tencent and Alibaba did not immediately respond to requests for comment.\n\nSingapore business filings show that Alibaba subsidiary Apex Enterprise Solutions provided financing to Speedmatrix, a Malaysian company linked to Megaspeed, according to records reviewed by Reuters.\n\nMegaspeed has faced scrutiny over suspicions that it helped Chinese customers gain access to advanced Nvidia chips subject to US export controls. The company has denied illegally diverting chips to China.\n\nNvidia, Megaspeed and the US Commerce Department did not immediately respond to requests for comment.\n\n## Grey market buying\n\nThe prospect of tougher enforcement has also fuelled demand for restricted Nvidia AI chips in China’s grey market, prompting traders and intermediaries to start stockpiling these processors, two of the people said.\n\nThey said buyers fear the controversy could prompt a broader US crackdown on smuggling of advanced chips and AI servers into China.\n\nA Chinese university with deep ties to the People’s Liberation Army bought Nvidia’s powerful H200 AI chips in October despite being on a US export blacklist, procurement records show, highlighting gaps in Washington’s efforts to curb China’s access to advanced technology.\n\nUS prosecutors in March charged Super Micro Computer co-founder Yih-Shyan “Wally” Liaw and two others with conspiring to divert servers containing Nvidia chips to China through a South-east Asia-based company.\n\nProsecutors said the company bought about US$2.5 billion of servers from Super Micro between 2024 and 2025, and that a substantial portion was diverted to China. The defendants have not been convicted. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/international/global/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-curbs"
     },
     {
       "id": "2026-11-12-1d909d",
@@ -201,107 +181,6 @@
       "content_url": "https://theedgemalaysia.com/node/825484"
     },
     {
-      "id": "2026-11-12-4f96c3",
-      "title": "Another data centre halts in Australia as public backlash rises",
-      "summary": "A vast data centre project near Adelaide has been suspended following community opposition, at least the third Australian development to be waylaid in recent weeks as public opposition grows.",
-      "why_it_matters": "",
-      "score": 80,
-      "heat": 1,
-      "regions": [
-        "australia"
-      ],
-      "topics": [
-        "data centre",
-        "project halt",
-        "public opposition",
-        "regulation"
-      ],
-      "published_at": "2026-11-12T04:50:34Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825465",
-          "type": "html-list"
-        }
-      ],
-      "title_zh": "又一data centre在Australia暂停，公众反对声浪高涨",
-      "content": "(Nov 12): A vast data centre project near Adelaide has been suspended following community opposition, at least the third Australian development to be waylaid in recent weeks as public opposition grows.\n\nQuantum DC Pty Ltd said Thursday it paused the planning approvals programme for a proposed 1,200-megawatt hyperscale data centre in South Australia. It said it won’t submit a development application this year.\n\nThere are “significant concerns about the project from some community members”, Quantum said in a statement. The company pointed to worries over the Tungkillo development’s location, its water use and supply, energy infrastructure, and the impact on farmland.\n\nNextdc Ltd chief executive officer Craig Scroggie this week vowed to make communities his top priority after local backlash delayed a major data centre project in Melbourne. Stockland Corp abandoned plans for a Sydney data centre following similar opposition. Worldwide, the sites face fierce opposition over their energy and water impacts, and concerns about the environmental fallout.\n\nQuantum also scrapped two community information sessions about Tungkillo planned for later this month, and said they’ll be replaced by a “longer-term engagement programme”. It is the company’s only project, according to its website.\n\n*Uploaded by Chng Shear Lane*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/825465"
-    },
-    {
-      "id": "2026-11-12-bd21f8",
-      "title": "South Korea's Lee says Samsung chip packaging expansion to spur US$30 bil additional investment",
-      "summary": "SEOUL (Nov 12): South Korean President Lee Jae Myung said on Thursday that Samsung Electronics' six trillion won (US$4.48 billion) investment in a high-bandwidth memory (HBM) chip packaging plant in Asan, South Korea, would be fo...",
-      "why_it_matters": "",
-      "score": 70,
-      "heat": 1,
-      "regions": [
-        "korea"
-      ],
-      "topics": [
-        "chips",
-        "hbm",
-        "investment",
-        "samsung"
-      ],
-      "published_at": "2026-11-12T03:15:55Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825451",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Samsung Electronics"
-      ],
-      "title_zh": "South Korea的李在明表示Samsung芯片封装扩张将带动300亿美元额外投资",
-      "content": "SEOUL (Nov 12): South Korean President Lee Jae Myung said on Thursday that Samsung Electronics' six trillion won (US$4.48 billion) investment in a high-bandwidth memory (HBM) chip packaging plant in Asan, South Korea, would be followed by about 40 trillion won in investment in advanced equipment.\n\nLee made the comment during a groundbreaking ceremony for part of the investment plans that Samsung affiliates announced in July.\n\nSamsung Electronics said in a presentation that the new HBM production line is scheduled to begin operations in June 2028, a year earlier than initially planned, as the company seeks to meet rapidly growing demand for server memory.\n\nThe new HBM plant will have three floors of clean-room space covering about 31,000 square metres (37,076 square yards), Samsung said.\n\nSouth Korea's government has tapped Samsung, fellow chipmaker SK Hynix and other companies to help drive \"mega projects\" covering semiconductors, physical artificial intelligence and AI data centres.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/825451"
-    },
-    {
-      "id": "2026-11-12-e56576",
-      "title": "Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs",
-      "summary": "Chinese artificial intelligence companies are accelerating efforts to secure access to Nvidia chip capacity through cloud providers and leasing arrangements, driven by fears that a recent espionage scandal involving the company's CEO could trigger expanded US export controls. The scramble reflects deep uncertainty about whether Washington will restrict remote access to advanced GPUs currently available through overseas cloud instances.",
-      "why_it_matters": "The preemptive capacity hoarding risks creating artificial shortages and price spikes in global cloud GPU markets, disrupting AI development timelines for non-Chinese customers. If Washington does extend restrictions to cloud-based access, the bifurcation between Chinese and Western AI infrastructure would accelerate dramatically, forcing Chinese firms toward domestic alternatives like Huawei's Ascend chips and potentially fragmenting global AI research collaboration.",
-      "score": 85,
-      "heat": 2,
-      "regions": [
-        "china",
-        "global"
-      ],
-      "topics": [
-        "chips",
-        "ai",
-        "regulation",
-        "hyperscale"
-      ],
-      "published_at": "2026-11-12T07:26:52Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Business Times",
-          "url": "https://www.businesstimes.com.sg/international/global/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-curbs",
-          "type": "rss"
-        },
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825489",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "NVIDIA"
-      ],
-      "title_zh": "中国AI公司急于确保NVIDIA芯片容量，间谍丑闻引发对美国限制令的担忧",
-      "summary_zh": "中国AI公司正在加速通过云服务提供商和租赁安排确保Nvidia芯片容量的获取，原因是担心涉及该公司CEO的近期间谍丑闻可能触发美国扩大出口管制。这种抢购反映了对于华盛顿是否会限制目前通过海外云实例可获得的高级GPU远程访问的深刻不确定性。",
-      "why_zh": "这种预防性 capacity hoarding 可能造成全球云GPU市场的人为短缺和价格飙升，扰乱非中国客户的AI开发时间表。如果华盛顿确实将限制扩展到基于云的访问，中国与西方AI基础设施之间的分叉将急剧加速，迫使中国公司转向华为Ascend芯片等国内替代品，并可能分裂全球AI研究合作。",
-      "content": "The companies worry Washington may tighten restrictions on their remote use of advanced processors\n\n\\[BEIJING\\] Chinese artificial intelligence companies are trying to rent Nvidia-powered computing capacity at data centres outside China, concerned that a scandal involving the US chipmaker’s chief executive Jensen Huang could spur Washington to tighten restrictions on their remote use of advanced processors, three people familiar with the matter said.\n\nThe moves underline concern among Chinese technology companies over the potential closing of a gap in US export controls.\n\nSeeking to protect US dominance of the critical sector, Washington restricts exports to China of Nvidia’s most advanced artificial intelligence chips, but Chinese companies can access such processors remotely by renting computing power at data centres overseas.\n\nA major Chinese cloud provider has discussed internally whether to lock in overseas Nvidia chip capacity, while some companies have contacted data centre operators about reserving it, the people said.\n\nThe people declined to be identified, or to identify the cloud provider because of the sensitivity of the matter.\n\nSmaller AI labs are considering similar steps, including approaching major providers of rented computing power in South-east Asia, two of the people said.\n\nThe companies fear the controversy surrounding Huang could add political momentum to the Remote Access Security Act, or Rasa, a US bill that would give the Commerce Department authority to regulate remote, cloud-based access to restricted technology, the people said.\n\nThe House of Representatives passed the bill in January by a 369-22 vote, and it awaits Senate action.\n\nAdvanced Nvidia processors are used to train and run the large AI models behind chatbots and other generative AI products.\n\nRestricting overseas cloud access would make it harder for Chinese developers to obtain high-end computing power without importing the chips directly.\n\nHuang said on Sunday (Nov 8) that he had been unfaithful to his wife.\n\n*The New York Times* reported that the woman involved was Alice Huang, a former executive at Singapore-based cloud-computing company Megaspeed, and that US authorities had concluded she was a Chinese intelligence asset.\n\nReuters could not independently verify that allegation, which China has denied.\n\nAlice Huang had business dealings and investment ties with several leading Chinese technology companies, including Tencent and Alibaba, according to two people familiar with the matter. Tencent and Alibaba did not immediately respond to requests for comment.\n\nSingapore business filings show that Alibaba subsidiary Apex Enterprise Solutions provided financing to Speedmatrix, a Malaysian company linked to Megaspeed, according to records reviewed by Reuters.\n\nMegaspeed has faced scrutiny over suspicions that it helped Chinese customers gain access to advanced Nvidia chips subject to US export controls. The company has denied illegally diverting chips to China.\n\nNvidia, Megaspeed and the US Commerce Department did not immediately respond to requests for comment.\n\n## Grey market buying\n\nThe prospect of tougher enforcement has also fuelled demand for restricted Nvidia AI chips in China’s grey market, prompting traders and intermediaries to start stockpiling these processors, two of the people said.\n\nThey said buyers fear the controversy could prompt a broader US crackdown on smuggling of advanced chips and AI servers into China.\n\nA Chinese university with deep ties to the People’s Liberation Army bought Nvidia’s powerful H200 AI chips in October despite being on a US export blacklist, procurement records show, highlighting gaps in Washington’s efforts to curb China’s access to advanced technology.\n\nUS prosecutors in March charged Super Micro Computer co-founder Yih-Shyan “Wally” Liaw and two others with conspiring to divert servers containing Nvidia chips to China through a South-east Asia-based company.\n\nProsecutors said the company bought about US$2.5 billion of servers from Super Micro between 2024 and 2025, and that a substantial portion was diverted to China. The defendants have not been convicted. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
-      "content_url": "https://www.businesstimes.com.sg/international/global/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-curbs"
-    },
-    {
       "id": "2026-11-12-0cdb2e",
       "title": "Schneider Electric details liquid cooling orchestration for AI data centers",
       "summary": "Schneider Electric has outlined how liquid cooling orchestration software helps AI factories manage cooling infrastructure. This aims to improve GPU utilization, operational efficiency, and reduce costs in high-density AI deployments.",
@@ -364,6 +243,99 @@
       "title_zh": "NetApp发布面向AI factory的Novus架构",
       "content": "NetApp has unveiled Novus, a new data architecture aimed at supporting AI infrastructure providers operating environments. This architecture is designed to help AI factories maximise the efficiency and utilisation of millions of graphics processing units (GPUs).A single GPU may require up to 2GB/s of data throughput to remain fully utilised, according to NetApp. Meeting this demand at scale requires infrastructure capable of delivering enormous data volumes at sustained speeds.\n### Novus architecture details\n\nNetApp Novus exceeds 100TB/s of aggregate throughput and can keep hundreds of thousands of GPUs productive, said Arindam Banerjee, Chief Platform and Technology Officer, NetApp. The architecture separates metadata and data into independently scalable planes. It then unifies thousands of storage nodes behind a single namespace.Mr. Banerjee added that Novus is architected with standards-based pNFS/NFS access through supported Linux client environments. This aims to remove a major source of recurring overhead. It also preserves a single namespace for shared, multi-tenant AI infrastructure.NetApp CEO George Kurian stated that Novus is designed to bring the proven security, resiliency, quality-of-service, and multi-tenancy foundations of ONTAP into a single architecture. Providers can keep tenants isolated, workloads predictable, and GPUs productive even when thousands of jobs compete for the same data plane.\n### Economic impact for AI factories\n\nGPUs represent one of the largest capital investments in an AI factory, according to NetApp. Their economic value depends on how effectively they are used. When GPUs wait for data, expensive computing capacity sits idle. This can translate into substantial financial exposure across tens of thousands of accelerators.Storage performance is no longer merely a technical consideration; it is an economic variable. It directly influences the productivity of AI infrastructure and the returns on its capital investment. NetApp Novus aims to transform efficiency, utilisation, and profitability for Neocloud operators, hyperscalers, and GPU-as-a-Service providers.\n\n- AI & Compute Infrastructure\n- 1 min Read\n\n# NetApp unveils Novus architecture for AI factories\n\nNetApp has introduced Novus, a new data architecture designed to support AI factories. This architecture aims to meet the demanding data needs of AI infrastructure providers, ensuring optimal GPU utilization.\n\n- Published On Nov 12, 2026 at 11:15 AM IST\n\n## Highlights\n\n- NetApp introduced Novus, a data architecture for AI factories.\n- Novus delivers over 100TB/s aggregate throughput for GPU clusters.\n- It separates metadata and data, unifying thousands of storage nodes.\n- The architecture aims to boost GPU utilisation and profitability for operators.\n\n## Comments\n\nWhat are your thoughts?",
       "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/netapp-unveils-novus-architecture-for-ai-factories/135757213"
+    },
+    {
+      "id": "2026-11-12-4f96c3",
+      "title": "Another data centre halts in Australia as public backlash rises",
+      "summary": "A vast data centre project near Adelaide has been suspended following community opposition, at least the third Australian development to be waylaid in recent weeks as public opposition grows.",
+      "why_it_matters": "",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "data centre",
+        "project halt",
+        "public opposition",
+        "regulation"
+      ],
+      "published_at": "2026-11-12T04:50:34Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825465",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "又一data centre在Australia暂停，公众反对声浪高涨",
+      "content": "(Nov 12): A vast data centre project near Adelaide has been suspended following community opposition, at least the third Australian development to be waylaid in recent weeks as public opposition grows.\n\nQuantum DC Pty Ltd said Thursday it paused the planning approvals programme for a proposed 1,200-megawatt hyperscale data centre in South Australia. It said it won’t submit a development application this year.\n\nThere are “significant concerns about the project from some community members”, Quantum said in a statement. The company pointed to worries over the Tungkillo development’s location, its water use and supply, energy infrastructure, and the impact on farmland.\n\nNextdc Ltd chief executive officer Craig Scroggie this week vowed to make communities his top priority after local backlash delayed a major data centre project in Melbourne. Stockland Corp abandoned plans for a Sydney data centre following similar opposition. Worldwide, the sites face fierce opposition over their energy and water impacts, and concerns about the environmental fallout.\n\nQuantum also scrapped two community information sessions about Tungkillo planned for later this month, and said they’ll be replaced by a “longer-term engagement programme”. It is the company’s only project, according to its website.\n\n*Uploaded by Chng Shear Lane*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/825465"
+    },
+    {
+      "id": "2026-11-12-bd21f8",
+      "title": "South Korea's Lee says Samsung chip packaging expansion to spur US$30 bil additional investment",
+      "summary": "SEOUL (Nov 12): South Korean President Lee Jae Myung said on Thursday that Samsung Electronics' six trillion won (US$4.48 billion) investment in a high-bandwidth memory (HBM) chip packaging plant in Asan, South Korea, would be fo...",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "korea"
+      ],
+      "topics": [
+        "chips",
+        "hbm",
+        "investment",
+        "samsung"
+      ],
+      "published_at": "2026-11-12T03:15:55Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825451",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Samsung Electronics"
+      ],
+      "title_zh": "South Korea的李在明表示Samsung芯片封装扩张将带动300亿美元额外投资",
+      "content": "SEOUL (Nov 12): South Korean President Lee Jae Myung said on Thursday that Samsung Electronics' six trillion won (US$4.48 billion) investment in a high-bandwidth memory (HBM) chip packaging plant in Asan, South Korea, would be followed by about 40 trillion won in investment in advanced equipment.\n\nLee made the comment during a groundbreaking ceremony for part of the investment plans that Samsung affiliates announced in July.\n\nSamsung Electronics said in a presentation that the new HBM production line is scheduled to begin operations in June 2028, a year earlier than initially planned, as the company seeks to meet rapidly growing demand for server memory.\n\nThe new HBM plant will have three floors of clean-room space covering about 31,000 square metres (37,076 square yards), Samsung said.\n\nSouth Korea's government has tapped Samsung, fellow chipmaker SK Hynix and other companies to help drive \"mega projects\" covering semiconductors, physical artificial intelligence and AI data centres.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/825451"
+    },
+    {
+      "id": "2026-11-12-3dc08b",
+      "title": "NextDC in fight with former manager over millions in commissions",
+      "summary": "A former NextDC sales manager alleges he is owed millions of dollars in commissions after helping the Craig Scroggie-led data centre group secure valuable ongoing contracts.",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "colocation",
+        "legal",
+        "management"
+      ],
+      "published_at": "2026-11-12T03:03:17Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/technology/nextdc-in-fight-with-former-manager-over-millions-in-commissions-20261112-p61dhj",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NextDC"
+      ],
+      "title_zh": "NextDC与前经理就数百万佣金发生纠纷",
+      "content": "A former NextDC sales manager alleges he is owed millions of dollars in commissions after helping the Craig Scroggie-led data centre group secure valuable ongoing contracts.\n\nJordan Berryman, NextDC’s former enterprise sales account manager for high-performance computing and artificial intelligence, initially alleged the company underpaid his commissions by $11.3 million across five major deals. However, in new documents filed in the Federal Court, he revised this down to $2.2 million.\n\nLoading...",
+      "content_url": "https://www.afr.com/technology/nextdc-in-fight-with-former-manager-over-millions-in-commissions-20261112-p61dhj",
+      "published_precision": "day"
     },
     {
       "id": "2026-11-12-cd9183",
@@ -495,6 +467,36 @@
       "title_zh": "关注股票：新航、CDL、Sats、AEM、StarHub、NTT DC Reit、SBS Transit、Centurion",
       "content": "\\[SINGAPORE\\] The following companies saw new developments that may affect trading of their securities on Thursday (Nov 12):\n\nSingapore Airlines (SIA) : The national carrier posted net profit of S$209.7 million for its second quarter ended Sep 30, up from S$52.4 million in the previous corresponding period. This was due to stronger operating profit and a lower share of losses from associate Air India. Revenue rose 14.3 per cent to a record S$5.6 billion, while operating profit rose 16.3 per cent to S$463.7 million from a year earlier. For the first half of FY2026, SIA’s net profit fell 43.9 per cent to S$133.9 million year on year. The board declared an interim ordinary dividend of S$0.02 a share and an interim special dividend of S$0.05 a share, bringing the total payout to S$0.07 a share. Shares of SIA closed 0.4 per cent or S$0.03 higher at S$7.17 on Wednesday, before the news.\n\nCity Developments Limited (CDL) : The property group said it expects to post a “significantly weaker” financial performance for its second half ending Dec 31. Certain capital-recycling deals that the group had earlier expected to materialise in the rest of FY2026 are now expected to be completed in FY2027, it said in a business update on Wednesday. The group is also currently undertaking valuations of its property portfolio, which it noted “may give rise to impairment losses”. Shares of CDL closed 1.2 per cent or S$0.09 lower at S$7.12 on Wednesday, before the update.\n\nSats : The air cargo handler and airline caterer posted a 2.8 per cent rise in net profit to S$81.1 million for its second quarter ended Sep 30, from S$78.9 million in the previous corresponding period. This was due to higher cargo and meal volumes and lower tax expenses, even as the Middle East conflict raised input costs and disrupted operations, it said on Wednesday. Earnings per share stood at S$0.054 for the quarter, up from S$0.053 the year before. Revenue for the quarter rose 9 per cent to S$1.71 billion, from S$1.57 billion. Shares of Sats closed 2.6 per cent or S$0.10 higher at S$4 on Wednesday, before the news.\n\nAEM : The semiconductor equipment maker’s net profit surged more than 18-fold to S$73.4 million for the nine months ended Sep 30, from S$4 million a year earlier. Revenue rose 57.2 per cent to S$452.1 million on stronger demand for semiconductor testing solutions. AEM raised its FY2026 revenue guidance to S$680 million to S$705 million, from S$630 million to S$680 million, and its earnings per share guidance to S$0.30 to S$0.33, from S$0.245 to S$0.275. Shares of AEM closed 3.1 per cent or S$0.21 higher at S$7.05 on Wednesday.\n\nStarHub : The telco reported a 26.3 per cent dip in earnings before interest, taxes, depreciation and amortisation (Ebitda) to S$72.1 million for the third quarter ended Sep 30, from S$97.8 million the prior year. Revenue rose to S$486.8 million, up 4.5 per cent from S$464.8 million previously. The telco said that despite rising revenue, Ebitda continued to decline because of lower gross profit, higher operating expenditure and lower income from other avenues. Shares of StarHub ended flat at S$1.04 on Wednesday.\n\nNTT DC Real Estate Investment Trust (Reit) : The Reit on Wednesday posted a distribution per unit of US$0.0432 for the first half of FY2026/27, 10 per cent above its initial public offering projection, as net property income exceeded forecasts and net finance costs came in lower than expected. For the six months ended Sep 30, distributable income stood at US$45 million, against the projected US$40.9 million. Net property income was 4.9 per cent above projection at US$55.8 million, while gross revenue came in 2 per cent higher at US$119.8 million. Units of NTT DC Reit fell 2.2 per cent or US$0.02 to close at US$0.90 on Wednesday, before the news.\n\nSBS Transit : The public transport operator posted a 35.5 per cent rise in net profit to S$19.6 million for its third quarter ended Sep 30, from S$14.5 million in the previous corresponding period. This was due to a S$13 million write-back of prior years’ Fuel Equalisation Fund provisions, which was included in the operating profit. Operating profit for the quarter rose 37.7 per cent to S$22.6 million, from S$16.4 million in the year-ago period. Revenue fell 1.1 per cent to S$382.1 million from a year earlier due to a lower bus service fee from the loss of the Tampines package, as well as lower rail grants and ridership. Shares of SBS Transit closed flat at S$3.56 on Wednesday.\n\nCenturion : The accommodation provider reported a 35 per cent rise in revenue to S$280.1 million for the nine months ended Sep 30, from S$208.3 million in the previous corresponding period. This was mainly due to the consolidation of Westlite Mandai and new operational beds in Singapore, as well as its Harum Megah portfolio in Malaysia and Epiisod Macquarie Park in Australia. Revenue for the third quarter ended Sep 30 rose 41 per cent to S$95.2 million, it said in a business update. Shares of Centurion fell 2.4 per cent or S$0.03 to close at S$1.21 on Wednesday.",
       "content_url": "https://www.businesstimes.com.sg/companies-markets/stocks-watch-sia-cdl-sats-aem-starhub-ntt-dc-reit-sbs-transit-centurion"
+    },
+    {
+      "id": "2026-11-12-64fb74",
+      "title": "Australian AI data centre boom stalls as local backlash, costs mount",
+      "summary": "Data centre operators are putting the brakes on ambitious developments in Australia as community opposition intensifies and costs soar, warning that investment will move to Asia unless governments…",
+      "why_it_matters": "",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "data-center",
+        "ai",
+        "capacity",
+        "regulation"
+      ],
+      "published_at": "2026-11-12T00:27:41Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/companies/infrastructure/data-centre-money-train-grinds-to-a-halt-in-the-adelaide-hills-20261112-p61dho",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "澳大利亚AI数据中心热潮因当地反对和成本上升而停滞",
+      "content": "Data centre operators are putting the brakes on ambitious developments in Australia as community opposition intensifies and costs soar, warning that investment will move to Asia unless governments back appropriate projects.\n\nMelbourne-based developer Quantum DC has become the latest group to acknowledge it has been pushing a project too aggressively, halting plans to build a giant facility in the Adelaide Hills after a fierce community backlash and criticism from South Australian Premier Peter Malinauskas.\n\nLoading...",
+      "content_url": "https://www.afr.com/companies/infrastructure/data-centre-money-train-grinds-to-a-halt-in-the-adelaide-hills-20261112-p61dho",
+      "published_precision": "day"
     },
     {
       "id": "2026-11-12-540555",
@@ -887,7 +889,9 @@
         "Quantinuum",
         "Riken",
         "SoftBank",
-        "RIKEN"
+        "RIKEN",
+        "NTT Docomo",
+        "Softbank"
       ],
       "title_zh": "Quantinuum 升级 Riken 的量子计算机，并与 SoftBank 合作部署 AI 数据中心",
       "published_precision": "day",
