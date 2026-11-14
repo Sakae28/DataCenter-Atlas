@@ -3,8 +3,8 @@
   "generated_at": "2026-11-11T07:48:25Z",
   "hot": [
     "2026-11-11-1d5a61",
-    "2026-11-11-a51329",
     "2026-11-11-9c0a78",
+    "2026-11-11-a51329",
     "2026-11-11-e68dde",
     "2026-11-11-264810"
   ],
@@ -1170,7 +1170,7 @@
       "summary": "Malaysia's Ministry of Investment, Trade and Industry has clarified that no formal investigation has been opened into Megaspeed's local unit despite earlier statements from the company citing ministry checks. The US Bureau of Industry and Security reportedly faced constraints in investigating the Singapore-registered firm, which has been linked to potential diversion of NVIDIA chips to Chinese entities.",
       "why_it_matters": "The discrepancy between Megaspeed's claims and official Malaysian statements highlights enforcement gaps in cross-border chip diversion cases, where jurisdictional complexity impedes rapid response. For data center operators in Malaysia and Singapore, the ambiguity underscores reputational risk in customer selection—leasing capacity to opaque intermediaries now invites regulatory scrutiny. The incident may prompt ASEAN governments to establish clearer information-sharing protocols with US export control agencies, accelerating or complicating market entry for new AI infrastructure players.",
       "score": 85,
-      "heat": 2,
+      "heat": 5,
       "regions": [
         "southeast-asia",
         "global"
@@ -1193,11 +1193,27 @@
           "name": "The Business Times — Data Centres topic",
           "url": "https://www.businesstimes.com.sg/international/asean/no-malaysian-probe-yet-nvidia-customer-megaspeeds-unit-firm-earlier-cited-ministry-checks",
           "type": "html-list"
+        },
+        {
+          "name": "iTnews",
+          "url": "https://www.itnews.com.au/news/singapore-says-us-offered-limited-help-in-its-probe-of-ai-chip-deals-630339?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+          "type": "rss"
+        },
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/nvidia-case-puts-singapore-malaysia-companies-in-spotlight",
+          "type": "rss"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825667",
+          "type": "html-list"
         }
       ],
       "companies": [
         "NVIDIA",
-        "Megaspeed"
+        "Megaspeed",
+        "Alibaba"
       ],
       "title_zh": "马来西亚尚未对NVIDIA客户Megaspeed的子公司展开调查；该公司此前称正在接受部门检查",
       "summary_zh": "马来西亚投资、贸易及工业部已澄清，尽管该公司早先引用了部门的检查，但尚未对Megaspeed的当地部门展开正式调查。据报道，美国工业和安全局在调查这家新加坡注册公司方面面临限制，该公司与可能向中国企业转移NVIDIA芯片有关。",

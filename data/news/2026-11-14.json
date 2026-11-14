@@ -1,0 +1,752 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T07:40:29Z",
+  "hot": [
+    "2026-11-14-56af3d",
+    "2026-11-14-4e1246",
+    "2026-11-14-3d47f1",
+    "2026-11-14-b5a233",
+    "2026-11-14-432693"
+  ],
+  "stories": [
+    {
+      "id": "2026-11-14-b4ca74",
+      "title": "Uranium price hits record as AI demand prompts nuclear comeback",
+      "summary": "TOKYO -- Uranium prices are at record highs on a global revival for nuclear power, as the AI data center boom and crisis in the Middle East have led to tight electricity supply.",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "power",
+        "nuclear",
+        "ai",
+        "energy"
+      ],
+      "published_at": "2026-11-14T07:40:29Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/markets/commodities/uranium-price-hits-record-as-ai-demand-prompts-nuclear-comeback",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "AI需求推动核能复兴，铀价创下历史新高",
+      "content": "TOKYO -- Uranium prices are at record highs on a global revival for nuclear power, as the AI data center boom and crisis in the Middle East have led to tight electricity supply.\n\nCommodities\n# Uranium price hits record as AI demand prompts nuclear comeback\n\nJapan push for stable fuel, Big Tech's thirst for data center power add to tight supply\n\nKansai Electric Power has restarted seven of its nuclear power reactors in Japan. (Kansai Electric Power)",
+      "content_url": "https://asia.nikkei.com/business/markets/commodities/uranium-price-hits-record-as-ai-demand-prompts-nuclear-comeback"
+    },
+    {
+      "id": "2026-11-14-5d1dfb",
+      "title": "Chinese shares lead Asia chip rally amid Jensen Huang turmoil",
+      "summary": "HONG KONG -- Chinese shares are leading Asian chipmaker gains on Friday, with investors piling into the AI trade despite Nvidia's Jensen Huang turmoil.",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "investment",
+        "ai"
+      ],
+      "published_at": "2026-11-14T07:40:29Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/markets/equities/chinese-shares-lead-asia-chip-rally-amid-jensen-huang-turmoil",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "title_zh": "Jensen Huang风波下，中国芯片股引领亚洲芯片股上涨",
+      "content": "HONG KONG -- Chinese shares are leading Asian chipmaker gains on Friday, with investors piling into the AI trade despite Nvidia's Jensen Huang turmoil.\n\nEquities\n# Chinese shares lead Asia chip rally amid Jensen Huang turmoil\n\nGains come as Nvidia management uncertainty temporarily subsides\n\nBeijing has been aggressively pushing to expand its domestic manufacturing capacity of advanced chips. © Reuters",
+      "content_url": "https://asia.nikkei.com/business/markets/equities/chinese-shares-lead-asia-chip-rally-amid-jensen-huang-turmoil"
+    },
+    {
+      "id": "2026-11-14-b5a233",
+      "title": "China sees Nvidia chief Huang's swift downfall as political hit",
+      "summary": "Chinese state media and industry analysts are interpreting Jensen Huang's rapid ouster from Nvidia as a politically motivated attack, arguing the scandal may undermine Western semiconductor leadership while paradoxically stimulating competitive innovation from non-US chip alternatives.",
+      "why_it_matters": "Beijing's narrative framing aims to accelerate indigenous GPU development by casting Nvidia's governance crisis as systemic Western weakness, potentially justifying increased state subsidies for Huawei and Biren. For APAC data center operators, this propaganda offensive masks a practical concern: any sustained Nvidia disruption could fragment global chip supply into US-aligned and China-aligned ecosystems, forcing politically neutral operators into impossible procurement choices.",
+      "score": 80,
+      "heat": 2,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "nvidia",
+        "regulation",
+        "geopolitics"
+      ],
+      "published_at": "2026-11-14T05:16:23Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/tech/semiconductors/china-sees-nvidia-chief-huang-s-swift-downfall-as-political-hit",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/opinion-features/nvidia-crisis-emperor-huangs-downfall-may-blow-us-china-ai-race-wide-open",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "title_zh": "中国认为 Nvidia 首席执行官黄仁勋的快速下台是政治打击",
+      "summary_zh": "中国官方媒体和行业分析师将Jensen Huang从Nvidia的快速下台解读为politically motivated attack，认为这一丑闻可能削弱Western semiconductor leadership，同时矛盾地刺激non-US chip alternatives的竞争性创新。",
+      "why_zh": "北京的叙事框架旨在通过将Nvidia的治理危机描绘为systemic Western weakness来加速indigenous GPU development，可能为增加对华为和壁仞的国家补贴提供理由。对于亚太data center运营商而言，这一宣传攻势掩盖了一个实际问题：任何持续的Nvidia disruption都可能将全球chip supply分裂为US-aligned和China-aligned生态系统，迫使政治中立的运营商面临不可能的procurement choices。",
+      "content": "NEW YORK -- Chinese officials and commentators are treating the sudden downfall of Nvidia chief Jensen Huang with deep skepticism, likening revelations about his romantic affairs to a political hit rather than a personal scandal.\n\nSemiconductors\n# China sees Nvidia chief Huang's swift downfall as political hit\n\nCommentators say a spying smear campaign aims to purge US tech of Chinese influence\n\nJensen Huang speaks at Nvidia's Computex 2026 event in Taipei. Commentators say the Taiwan-born former CEO has been targeted for being ethnic Chinese. (Photo by Ken Kobayashi)",
+      "content_url": "https://asia.nikkei.com/business/tech/semiconductors/china-sees-nvidia-chief-huang-s-swift-downfall-as-political-hit"
+    },
+    {
+      "id": "2026-11-14-044f4d",
+      "title": "Vertiv launches global ecosystem for AI liquid cooling",
+      "summary": "Vertiv has unveiled a global ecosystem to optimise liquid cooling management in data centers. This initiative addresses the advanced thermal management needs driven by increasing AI workloads.",
+      "why_it_matters": "",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "liquid cooling",
+        "ai",
+        "infrastructure",
+        "partnerships"
+      ],
+      "published_at": "2026-11-14T05:10:36Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/vertiv-launches-global-ecosystem-for-ai-liquid-cooling/135823674",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Vertiv"
+      ],
+      "title_zh": "Vertiv推出全球AI liquid cooling生态系统",
+      "content": "Vertiv has launched a global ecosystem focused on optimising liquid cooling management within data centers.This initiative specifically addresses the advanced thermal management needs arising from increasing artificial intelligence (AI) workloads.Vertiv is enhancing its collaboration with Dow and partnering with Solenis.The goal is to elevate fluid quality and system performance throughout the cooling lifecycle.This aims to ensure greater reliability and efficiency in AI-centric infrastructures.\n\n- Energy, Cooling & Sustainability\n- 1 min Read\n\n# Vertiv launches global ecosystem for AI liquid cooling\n\nVertiv has unveiled a global ecosystem to optimise liquid cooling management in data centers. This initiative addresses the advanced thermal management needs driven by increasing AI workloads.\n\n- Published On Nov 14, 2026 at 10:40 AM IST\n\n## Highlights\n\n- Vertiv introduces global ecosystem for liquid cooling optimisation in data centers.\n- The initiative targets advanced thermal management for increasing AI workloads.\n- Enhanced collaboration with Dow and new partnership with Solenis are key components.\n- Focus is on improving fluid quality and system performance for AI infrastructure.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/vertiv-launches-global-ecosystem-for-ai-liquid-cooling/135823674"
+    },
+    {
+      "id": "2026-11-14-7fe6a5",
+      "title": "NTT Docomo to pilot data center heat-reuse for on-shore shrimp farm in Japan",
+      "summary": "Part of Tokyo city initiative to find uses for data center heat",
+      "why_it_matters": "",
+      "score": 75,
+      "heat": 2,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "cooling",
+        "sustainability",
+        "innovation",
+        "colocation"
+      ],
+      "published_at": "2026-11-14T05:00:42Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NTT Docomo"
+      ],
+      "title_zh": "NTT Docomo试点数据中心余热用于日本陆上养虾场",
+      "content": "NTT is set to pilot using waste heat from a data center in Japan to warm an on-land shrimp farm.\n\nIMT Engineering and NTT Docomo Building this week announced plans for a joint project, known as \"Construction of a Waste Heat Utilization Type Land-Based Aquaculture System.\"\n\nThe project will begin with waste heat from NTT Docomo Business's data center used to raise aquaculture crops on land next year.\n\nSet to run until March 2028, the deployment will be at an NTT Docomo Business data center in or near Tokyo, with the recovered heat used to warm up the rearing water where Pacific white shrimp are raised.\n\nNTT said the aim is to “demonstrate a new option for utilizing waste heat from data centers, which has previously had limited uses due to its relatively low temperature, by using it for food production.”\n\nWorking with Hibiya General Equipment and NTT Green & Food, the four firms aim to verify the cost reduction effect and business viability of land-based aquaculture utilizing waste heat from data centers, and establish a business model that can be deployed to other data centers.\n\nIMT will design the land-based aquaculture system. NTT Docomo will provide the data center. Hibiya General Equipment will provide the design and construction of waste heat recovery and heat supply equipment, and NTT Green & Food will provide land-based aquaculture and evaluate the effectiveness of reducing production costs via data center waste heat.\n\nEstablished in 2023 alongside regional fisheries operator Regional Fish, NTT Green & Food produces and sells eco-friendly fish and shellfish, as well as the algae used for their feed, primarily using land-based aquaculture.\n\nThe project is part of a Tokyo Metropolitan Government initiative supporting demonstration projects for utilizing waste heat and other unused heat from data centers.\n\nOther projects in the initiative include KDDI working with ElleThermo to deploy a self-powered temperature sensing system that can generate electricity even from low-grade heat of around 20-40°C, and Kratwerk Co. and Tokyu Construction Co. using waste heat from a small modular data center located under a railway overpass for server cooling.\n\nIn Japan, NTT Docomo currently operates data centers around Tokyo (x7), Yokohama, Osaka (x2), and Kagawa under the Nexcenter name. The company also operates a facility in Shanghai, China, and two in Hong Kong.\n\nWaste heat has been used for a number of agricultural uses over the years, including greenhouses and aquafarms. As well as Equinix in Paris, EcoDataCenter in Sweden has a partnership with circular economy firm Wa3rm, while Block Heating in the Netherlands has a facility co-located with a greenhouse that grows tomatoes. In Japan, the White Data Center uses waste heat to cultivate eels, while Green Mountain is giving warmth to a local lobster farm in Norway. Data4 has experimented with using waste heat in France to grow algae.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/"
+    },
+    {
+      "id": "2026-11-14-a5d203",
+      "title": "Supply chain bottlenecks challenge AI data centre expansion",
+      "summary": "Supply chain pressures are limiting the rapid expansion of AI data centres, according to the International Energy Agency. This creates physical bottlenecks for essential components and delays new capacity delivery.",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "supply chain",
+        "ai",
+        "capacity",
+        "infrastructure"
+      ],
+      "published_at": "2026-11-14T02:31:28Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/construction-site-development/supply-chain-bottlenecks-challenge-ai-data-centre-expansion/135820763",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "供应链瓶颈挑战AI data centre扩张",
+      "content": "The accelerating demand for artificial intelligence (AI) infrastructure is straining supply chains, which limits the quick delivery of new data centre capacity. The International Energy Agency (IEA) reported that deployment faces physical bottlenecks, constraining expansion in the near term.Availability has tightened for energy technologies like gas turbines and transformers, as well as for advanced chips and IT components. McKinsey noted that lead times in North America can reach 80 weeks for medium-voltage switchgear and 50 weeks for transformers.Deloitte found that 65 per cent of surveyed power and data centre executives identify supply chain disruption as a major challenge. These dependencies are complicated by sustainability goals, as technologies for reducing environmental impact rely on the same constrained supply chains.Shortages of critical raw materials such as nickel, silicon, and rare earth elements can limit renewable energy production. Bottlenecks appear at multiple points in the data centre supply chain, from equipment manufacturing to installation.Any single delay can quickly affect the wider construction programme due to the interdependent nature of data centre projects. Demand has grown so quickly that industrial equipment suppliers were not built to respond, McKinsey stated.Developers need a broader view of supply chain risk to identify problems early. The objective is to adjust procurement or construction plans before disruption reaches the build.Sustainability efforts also face constraints, as physical systems for reducing environmental impact depend on industrial supply chains already under pressure. Difficulties affecting grid equipment availability can delay cleaner generation connections.Battery storage and efficient cooling systems also depend on specialist equipment subject to long lead times. IEA analysis found procurement can take two to three years for cables and up to four years for large power transformers.Building resilience into planning and procurement processes is crucial to mitigate these impacts. This involves identifying equipment and supplier dependencies most likely to affect a project's critical path.Supply chain risk insight should be linked to the construction plan, allowing changes in availability to be assessed against the wider schedule. Scenario planning can show potential consequences of delayed delivery before site work is disrupted.Coordination between developers and suppliers can improve capacity and procurement decisions. AI can help project teams assess how emerging constraints in complex supplier networks might affect projects.However, scenario planning requires a mitigation strategy before delays materialise. Securing alternative sources or adjusting construction schedules takes time, so potential constraints must be identified early.\n\n- Construction & Site Development\n- 2 min Read\n\n# Supply chain bottlenecks challenge AI data centre expansion\n\nSupply chain pressures are limiting the rapid expansion of AI data centres, according to the International Energy Agency. This creates physical bottlenecks for essential components and delays new capacity delivery.\n\n- Published On Nov 14, 2026 at 08:01 AM IST\n\n## Highlights\n\n- AI data centre expansion faces physical bottlenecks due to strained supply chains, IEA reported.\n- Lead times for critical components like transformers and switchgear can reach up to 80 weeks.\n- Sustainability initiatives are also impacted as green technologies rely on the same constrained supply chains.\n- Building resilience into procurement and planning is essential to mitigate project delays and risks.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/construction-site-development/supply-chain-bottlenecks-challenge-ai-data-centre-expansion/135820763"
+    },
+    {
+      "id": "2026-11-14-8eae14",
+      "title": "Gigabyte and Schneider Electric collaborate on AI factory infrastructure",
+      "summary": "Gigabyte Technology and Schneider Electric have formed a partnership to develop a reference architecture for NVIDIA's upcoming Vera Rubin NVL72 platform, combining AI compute, pod-scale management, integrated power distribution, and direct liquid cooling systems.",
+      "why_it_matters": "The collaboration signals that next-generation AI training clusters are becoming pre-integrated, factory-tested systems rather than site-assembled components, compressing deployment timelines but reducing flexibility for custom designs. For APAC data center operators, this shift favors large-scale players with capital to adopt standardized POD architectures, potentially marginalizing regional builders that specialize in bespoke facility engineering for tropical climates.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "infrastructure",
+        "liquid cooling",
+        "chips"
+      ],
+      "published_at": "2026-11-14T02:31:11Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/gigabyte-and-schneider-electric-collaborate-on-ai-factory-infrastructure/135820747",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Gigabyte",
+        "Schneider Electric",
+        "NVIDIA"
+      ],
+      "title_zh": "Gigabyte与Schneider Electric合作开发AI factory基础设施",
+      "summary_zh": "技嘉科技与Schneider Electric已建立合作伙伴关系，为NVIDIA即将推出的Vera Rubin NVL72平台开发reference architecture，结合AI compute、POD-scale management、integrated power distribution和direct liquid cooling systems。",
+      "why_zh": "该合作表明，下一代AI training clusters正成为pre-integrated、factory-tested的系统，而非现场组装组件，压缩了部署时间线但减少了custom designs的灵活性。对于亚太data center运营商而言，这一转变有利于有资本采用standardized POD architectures的大规模玩家，可能边缘化专门为热带气候定制facility engineering的区域建设商。",
+      "content": "Giga Computing, a subsidiary of Gigabyte, and Schneider Electric are collaborating on an AI factory reference architecture for NVIDIA Vera Rubin NVL72. This approach connects AI compute and POD-scale management with power, liquid cooling, software, and facility infrastructure.The collaboration aims to help operators plan and scale AI factory infrastructure more predictably, the companies said. Gigabyte contributes AI compute platforms, networking capabilities, and Gigabyte POD Manager for POD-scale operations. Schneider Electric contributes power infrastructure, liquid and hybrid cooling, data centre design, software, and facility management.The co-engineered blueprint aims to connect the IT and facility layers of the AI factory, rather than treating each component separately. Ivy Xin, Commercial Vice President, East Asia Japan Secure Power and Data Center Business, Schneider Electric, stated that the next generation of AI infrastructure requires new collaboration across compute, power, and cooling. This partnership integrates these aspects from the rack to the facility, simplifying complexity for scalable AI factories.The reference architecture uses NVIDIA Vera Rubin NVL72 as its compute foundation and organises infrastructure around repeatable scalable units. This provides operators with a consistent building block for planning, deployment, and future expansion across rack, POD, and facility layers. Andie Yen, Director of Data Center Infrastructure, Giga Computing, noted that AI infrastructure has outgrown the traditional model where compute vendors deliver racks and facility vendors deliver everything else. This collaboration reflects that change, bringing compute and facility aspects into the same conversation.High-density GPU racks create thermal loads that require cooling to be designed as part of the AI data centre architecture. Direct liquid cooling and Coolant Distribution Units (CDUs) can help transfer heat efficiently and support higher rack densities. Schneider Electric's liquid cooling portfolio addresses the thermal-management chain for high-density AI environments. The collaboration will be showcased at Supercomputing 2026 (SC26).\n\n- AI & Compute Infrastructure\n- 1 min Read\n\n# Gigabyte and Schneider Electric collaborate on AI factory infrastructure\n\nGigabyte and Schneider Electric are collaborating on an AI factory reference architecture for NVIDIA Vera Rubin NVL72. This initiative aims to integrate AI compute and POD-scale management with power and liquid cooling systems.\n\n- Published On Nov 14, 2026 at 08:01 AM IST\n\n## Highlights\n\n- Gigabyte and Schneider Electric collaborate on NVIDIA Vera Rubin NVL72 AI factory architecture.\n- The initiative integrates AI compute with power, liquid cooling, and facility infrastructure.\n- It aims to simplify predictable planning and scaling for high-density AI deployments.\n- The reference architecture will be showcased at Supercomputing 2026 (SC26).\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/gigabyte-and-schneider-electric-collaborate-on-ai-factory-infrastructure/135820747"
+    },
+    {
+      "id": "2026-11-14-9864ef",
+      "title": "Hyperscalers commit billions to next-gen AI data centers",
+      "summary": "Research firm BCC Research reports that Amazon, Google, and Microsoft are deploying capital at record levels for AI-focused infrastructure, triggering a fundamental restructuring of global data center architecture to accommodate accelerated computing workloads.",
+      "why_it_matters": "The concentration of spending among three US hyperscalers is tightening vendor dependency and concentrating construction expertise in Tier-1 markets, leaving APAC secondary cities competing for residual supply chain capacity. For local developers, this capital wave offers tenancy opportunities but also risks inflating construction costs and power prices as all players chase the same limited pool of EPC contractors and renewable energy offtake.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "hyperscale",
+        "investment",
+        "ai",
+        "capacity"
+      ],
+      "published_at": "2026-11-14T02:30:41Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/hyperscalers-commit-billions-to-next-gen-ai-data-centers/135820727",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Amazon",
+        "Google",
+        "Microsoft"
+      ],
+      "title_zh": "Hyperscalers承诺投入数十亿美元建设下一代AI data centers",
+      "summary_zh": "研究机构BCC Research报告称，Amazon、Google和Microsoft正以创纪录的水平为AI-focused infrastructure部署资本，引发全球data center architecture的根本性重构，以适应accelerated computing workloads。",
+      "why_zh": "三家美国hyperscalers的支出集中正在收紧vendor dependency，并将construction expertise集中在Tier-1市场，使亚太地区的二线城市争夺residual supply chain capacity。对于本地开发商而言，这股资本浪潮提供了租户机会，但也可能因所有玩家追逐同样有限的EPC承包商和可再生能源offtake池而推高construction costs和power prices。",
+      "content": "Global technology leaders are deploying capital at an unprecedented scale to secure AI computing supremacy, triggering a structural transformation of data center infrastructure worldwide, according to BCC Research. Its latest analysis, \"AI Impact on the Data Center Accelerator Market - BCC Pulse Report,\" examines the investment forces reshaping the accelerator landscape.Rapid growth in large language model (LLM) training and inference workloads is outpacing the capabilities of CPU-based architectures. Data center operators globally are shifting to accelerator-rich infrastructure to deliver the throughput, parallel processing, and scalability modern AI workloads require.\n### Hyperscaler Investments\n\nAmazon announced approximately $200 billion in capital expenditures for 2026 alone, focusing on AI infrastructure, data centers, AI chips, and cloud expansion. Separately, Amazon Web Services committed more than $100 billion to expand AI cloud infrastructure, custom AI chips, and data centers worldwide, indicating sustained, multi-year accelerator procurement cycles.Google committed $9 billion over two years to expand AI and cloud infrastructure in Oklahoma. It also invested more than $25 billion in global data center development, including a $6 billion hyperscale campus in Visakhapatnam, India. Microsoft announced a $30 billion investment across the U.K., anchored by a supercomputing facility operating more than 23,000 Nvidia GPUs.\n### Policy and Technology Drivers\n\nGovernment programs in the U.S., China, the European Union, Japan, South Korea, and India are prioritizing AI computing through public investment and policy frameworks. These initiatives encourage domestic accelerator deployment and reduce reliance on imported technologies.Emerging technologies are advancing accelerator performance, including custom AI ASICs and TPUs for cloud infrastructure, alongside NVIDIA Grace Hopper Accelerators for AI supercomputing. Advanced packaging, such as 2.5D and 3D stacking, chiplet integration, and High Bandwidth Memory (HBM) integration, is also crucial. Liquid cooling for high-density deployments and AI-powered Electronic Design Automation (EDA) platforms are also raising performance ceilings.The accelerator market is being shaped by intersecting structural forces, with generative AI scaling directly amplifying capital expenditure requirements. Anthropic's commitment to spend more than $100 billion over the next decade on AWS infrastructure, including extensive utilization of Trainium AI accelerators, exemplifies this trend. The convergence of 5G network expansion and edge computing is extending accelerator requirements into telecommunications infrastructure.\n\n- AI & Compute Infrastructure\n- 2 min Read\n\n# Hyperscalers commit billions to next-gen AI data centers\n\nGlobal technology leaders are deploying capital at an unprecedented scale for AI infrastructure, driving a structural transformation of data center infrastructure worldwide, according to BCC Research. Amazon, Google, and Microsoft have announced significant investments in AI chips, cloud expansion, and data centers.\n\n- Published On Nov 14, 2026 at 08:00 AM IST\n\n## Highlights\n\n- Amazon committed $200 billion in 2026 capital expenditures for AI infrastructure, data centers, and chips.\n- Google invested $6 billion in a hyperscale campus in Visakhapatnam, India, as part of a $25 billion global spend.\n- Microsoft announced a $30 billion investment in the U.K., including a supercomputing facility with over 23,000 Nvidia GPUs.\n- Government programs in India, the U.S., and EU are prioritising domestic AI computing and accelerator deployment.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/hyperscalers-commit-billions-to-next-gen-ai-data-centers/135820727"
+    },
+    {
+      "id": "2026-11-14-b7398a",
+      "title": "Blackstone's QTS is cutting AI debt sale by more than half",
+      "summary": "This is after struggling to attract enough demand from investors – and refusing to pay much higher yields",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "investment",
+        "ai",
+        "debt",
+        "hyperscale"
+      ],
+      "published_at": "2026-11-14T00:21:07Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/property/blackstones-qts-cutting-ai-debt-sale-more-half",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Blackstone",
+        "QTS"
+      ],
+      "title_zh": "Blackstone旗下QTS将AI债务发售削减一半以上",
+      "content": "This is after struggling to attract enough demand from investors – and refusing to pay much higher yields\n\nQTS, a data center operator backed by Blackstone, is slashing the size of a planned private debt sale by about 60 per cent after struggling to attract enough demand from investors – and refusing to pay much higher yields.\n\nThe company is raising about US$300 million after initially targeting roughly US$800 million, according to people with knowledge of the transaction.\n\nSome investors balked at the price the borrower was offering, while some faced constraints because the company has tapped the private placement market several times, the people said, asking not to be identified discussing a private matter.\n\nArtificial intelligence companies are facing challenges as they tap every corner of capital markets from investment-grade bonds to project financing to finance investments that could run into the trillions of dollars in the coming years.\n\nQTS has raised billions of dollars in the private-placement market through at least two debt sales over the past 18 months. That includes a US$1.65 billion high-grade bond sale last year and another US$800 million financing.\n\nBlackstone was reluctant to offer significantly higher yields on its latest borrowing because it finances frequently across multiple markets and issuers, according to the people. Wider pricing on the QTS transaction could establish a more expensive reference point for investors evaluating other Blackstone-related debt, the people said.\n\nThe US$300 million financing included a US$100 million seven-year US private placement that was priced on Friday to yield 2.45 percentage points more than benchmarks. It also includes a US$200 million five-year bank loan portion that is expected to be priced in the coming weeks, one of the people said, asking not to be identified discussing confidential information.\n\nBlackstone opted to proceed with a smaller financing at its desired pricing, instead of hiking spreads and raising the full US$800 million.\n\nThe data center developer had planned to use the US$800 million private placement to refinance existing five-year bank debt. With the smaller offering, that bank financing can remain in place, one of the people said.\n\nA representative at Blackstone declined to comment.\n\nThe private placement market is significantly smaller than the public bond market and is dominated by investors such as life insurers and asset managers that typically hold the debt for the long term, potentially limiting how much exposure they are willing to build to a single borrower over a relatively short period.\n\nIssuance in the investment-grade true private placement market last year was just above US$200 billion, according to the Private Placement Monitor.\n\nQTS has also tapped other credit markets this year. It sold project finance green bonds in April and August, borrowing US$4.6 billion for the first deal and US$3.9 billion for the second.\n\nBlackstone acquired QTS in 2021 for about US$10 billion including debt. The data-center operator has since tapped multiple pools of capital to finance its expansion amid a surge in spending on infrastructure needed to support AI. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/property/blackstones-qts-cutting-ai-debt-sale-more-half"
+    },
+    {
+      "id": "2026-11-14-a01cf1",
+      "title": "Nvidia approaches Arm CEO Haas as employees seek Huang's return, reports say",
+      "summary": "The company’s board said it has not formally engaged any potential candidates",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "leadership",
+        "ai"
+      ],
+      "published_at": "2026-11-14T00:10:56Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/global/nvidia-approaches-arm-ceo-haas-employees-seek-huangs-return-reports-say",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA",
+        "Arm"
+      ],
+      "title_zh": "报道称Nvidia接触Arm CEO Haas，员工呼吁Huang回归",
+      "content": "The company’s board said it has not formally engaged any potential candidates\n\nNVIDIA’S board has approached British chipmaker Arm Holdings CEO Rene Haas in its search for a potential successor to Jensen Huang, *the Financial Times* said on Friday (Nov 13), even as another report said some employees were pushing to bring back the former CEO.\n\nHuang stepped down on Thursday after revelations of extramarital affairs, including one involving a suspected Chinese spy, plunging the chipmaker into crisis and sending shockwaves across an artificial intelligence industry he helped bankroll.\n\nHaas’ name has been making the rounds among analysts since Huang’s exit. He spent seven formative years at Nvidia, rising to vice-president and general manager of its computing products business, before joining Arm in 2013.\n\nHe is among several candidates being considered and there is no guarantee he will be offered the job or accept it, the FT reported. Nvidia’s finance chief Colette Kress is currently interim CEO.\n\nNvidia’s board said it was in the process of selecting a search firm for the CEO role and had not formally engaged any potential candidates.\n\n“Any speculation regarding individual candidates, whether internal or external, is premature,” the board said in a statement.\n\nPrior to Huang’s resignation, a longtime Nvidia engineer had urged the board in an internal post to consider employee sentiment before taking any action, Wired reported late on Thursday.\n\nThe post has since drawn more than 1,600 comments, with many urging the board to find a way to bring Huang back, the technology news platform said, citing internal correspondence it reviewed. Nvidia has about 42,000 employees worldwide.\n\nBillionaire Elon Musk separately said on X that a petition was under way to reinstate Huang and that he would sign it. It was not immediately clear whether Musk was referring to the internal effort reported by Wired.\n\nNvidia declined to comment on the Wired report as well as Musk’s post, while Arm also declined to comment. Reuters could not independently verify the reports.\n\nHaas became Arm CEO in 2022, overseeing the company’s Nasdaq listing in 2023. Arm designs processor architectures and licenses them to other companies that develop chip designs. Historically its strength has been in mobile phones and it is expanding into computers.\n\nHaas’ combination of familiarity with Nvidia and experience running a publicly traded chip company could make him an unusual fit for the role, said Shay Boloor, chief market strategist at Futurum Equities.\n\n“Rene is one of few external candidates who wouldn’t need to be brought up to speed on Nvidia,” Boloor said, adding that Haas’ understanding of the company’s culture alongside his experience running Arm was “a combination you don’t find very often.”\n\nArm’s US-listed shares closed down about 5 per cent. Nvidia’s shares ended the session about 2 per cent lower, bringing market value losses for the week to about US$573 billion.\n\nSome analysts expect the next CEO to break from Huang’s three-decade reign as the hands-on “chief conductor” who personally steered engineering roadmaps, geopolitical negotiations over exports to China and massive investments across the AI ecosystem.\n\nA potential shift towards a more institutional leadership structure would come as Nvidia faces heightened regulatory scrutiny and a growing consensus among US lawmakers to further restrict the company’s chip exports to China.\n\n## Insiders and tech titans in the running\n\nAnalysts view Kress as a steady financial authority, while veteran engineer Ian Buck is seen as a top candidate after leading development of CUDA, the software platform that powers Nvidia’s AI chips.\n\nApart from Haas, external names discussed by analysts include AMD chief Lisa Su, who has navigated the key China market, and Micron chief Sanjay Mehrotra, whose memory chips power Nvidia servers.\n\nOther candidates cited by industry watchers include Marvell head Matt Murphy and Apple hardware chief Johny Srouji, who oversaw the iPhone maker’s in-house silicon development.\n\nFormer Apple chief Tim Cook was floated by US President Donald Trump, as Nvidia’s board evaluates whether to prioritise financial continuity, deep technical expertise, or experience running a global tech heavyweight. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/international/global/nvidia-approaches-arm-ceo-haas-employees-seek-huangs-return-reports-say"
+    },
+    {
+      "id": "2026-11-14-ceff74",
+      "title": "ASIC ambition",
+      "summary": "Startups and hyperscalers alike are making the case for custom silicon",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "hyperscale"
+      ],
+      "published_at": "2026-11-13T17:00:43Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/analysis/asic-custom-silicon-amazon-arm-meta/",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "ASIC ambition: 初创企业和 hyperscaler 都在为定制芯片发声",
+      "content": "In October 2025, when asked to ponder what might happen next in ‘processor land,’ Google executive Amin Vahdat declared that specialization was the future.\n\nReferencing his company’s own successful silicon efforts, Vahdat, VP and GM of AI and infrastructure at the hyperscaler, said that there were certain computations that, when run on Google’s Tensor Processing Units (TPUs), are “somewhere between 10 and 100 times more efficient per watt than a CPU.”\n\nSpeaking on a panel at Andreessen Horowitz's (a16z) Runtime event in Utah, he continued: “And yet, we know that there are other computations that if you built even more specialized systems for … for example, maybe serving agentic workloads, that would benefit from an even more specialized architecture.”\n\nLess than 12 months later, Vahdat’s predictions certainly appear to have merit. In 2026, between June and August alone, OpenAI unveiled its 'Jalapeño' Intelligence Processor, developed in partnership with Broadcom; Anthropic confirmed it was putting together an in-house team to design its own chips; reports emerged that Google is working on a new AI chip that would allow it to run its Gemini AI model more efficiently; and chip startups Etched and Olix raised $700m and $300m in funding to support the development of their custom silicon, valuing the companies at $21bn and $3.3bn, respectively.\n\nFor Ryan Shrout, president and general manager of Signal65 – an analyst firm focused on silicon testing and validation that operates as part of the Futurum Group – this flurry of activity isn’t surprising.\n\nHe says that the chip startup landscape has always been strong, but historically, the capital required to design and develop a chip has been sizable. While those costs remain high, Shrout says “there’s just too much money involved now for \\[custom chips\\] to be something that isn’t chased by basically everyone that has a good idea.”\n\nCustom silicon is a rather broad term for hardware that has been designed in-house by a company that can then be deployed in place of generic, third-party chips. Under the ‘custom silicon’ umbrella, sit application-specific integrated circuits (ASICs), chips hardwired for one distinct application or task – differentiating them from off-the-shelf, general-purpose processors (like standard GPUs and CPUs) which can run any application.\n\nWhile all ASICs are custom silicon, it should be noted that not all custom chips are strictly ASICs.\n\nEver since OpenAI thrust generative AI into the human consciousness back in 2022, the demand for hardware to run such workloads on has risen exponentially. As workloads have begun to pivot from training, when an AI model learns how to respond correctly to users' queries, to inference, when a trained AI model responds to users' queries, a growing number of organizations have dedicated significant money and effort to developing silicon that specifically supports inference workloads.\n\nNot every company in the custom chip game is a new startup. While Nvidia, AMD, Intel, and Arm are undoubtedly the biggest players in the space, all the major hyperscalers have also muscled in – some for the best part of a decade, and with significant success.\n\nIn July 2026, Amazon reported that its custom chip business had surpassed $25 billion in annual revenue run rate. Born out of the company’s 2015 acquisition of chip design firm Annapurna Labs, Amazon’s product portfolio now comprises Trainium for AI training and inference and Graviton for general cloud computing and agentic AI, with both chips based on the Nitro System for security and networking.\n\nIn April 2026, Amazon CEO Andy Jassy said two of Amazon Web Services' (AWS) biggest customers had asked if they could purchase every single Graviton instance capacity available so far this year.\n\n“The primary reason that we got into \\[the chip business\\] ... is we're designing specifically to solve customer problems,” says Mark Carroll, director of engineering at Amazon. “In the early days as we developed Nitro and some of the offload silicon, it was to reduce latency because our customers had the pain of specific latencies on the compute side of things.”\n\nBeyond that, Carroll says the other reasons for the company operating in the custom chip space are “quite obvious.” From a cost perspective, Amazon can develop hardware that meets specific needs without having a “whole bunch of extra features and hardware,” resulting in the company’s chips having a “40 percent better cost-performance” across multiple generations.\n\n“With some of our performance elements and designing specifically for what we need, just cycle over cycle from our last generation, we're putting out five times more tokens per watt now.”\n\nAmazon is also seeing benefits from its custom silicon when it comes to power consumption. Carroll says the hyperscaler is very aware of what workloads its customers are running on particular hardware in certain areas that draw more or less power. “We’re able to even design towards that, based on how \\[customers\\] are using them to actually come out with an equation that reduces power generation over generation.”\n\nThe time to market is also quicker than if Amazon were wholly reliant on generic GPUs, Carroll says, adding that being in the custom game also provides the company with greater flexibility, meaning it can optimize for customers in areas including memory interfaces, memory usage, and interconnects between accelerators.\n\n“We not only do our own silicon, but we do the silicon, we do the boards, we do the chassis, we do the systems, we do the firmware interim drivers, and we do the software on top. We do the full stack,” Carroll says. “The big benefit of that is we get the feedback at every level. Not only all the way down to the chip, which we can then change based on the performance of the system itself, but we can also change any of those stacks at any time as well.”\n\n## The custom challenge\n\nWhile the benefits Carroll outlines make the case for custom silicon clear, it’s also a space that’s not without its challenges.\n\nMoney is the biggest one – while it’s hard to put an exact figure on it, a 2025 report from the UK government’s Council for Science and Technology stated that it costs approximately $50-100 million to design a leading-edge chip, about $100 million to manufacture the chip, and about $20 billion to build a semiconductor fabrication plant in which to manufacture it.\n\nAnd if you are lucky enough to raise (or already have) millions of dollars to support your custom silicon dream, you then have to contend with sourcing the necessary talent, navigating increasingly volatile supply chain fluctuations, or securing manufacturing capacity – the overwhelming majority of chip companies are fabless, meaning they have to turn to third-party manufacturers to produce their hardware.\n\n“Companies can develop a really good idea or make a really good product,” Shrout says. “But taking it to market is maybe even more work than they might think.”\n\nTo put things into perspective, Taiwan’s TSMC, which accounts for approximately 92 percent of advanced chip production capacity globally, is investing hundreds of billions of dollars in expanding its manufacturing footprint across the US, Germany, Japan, and Taiwan; however, the majority of the new capacity is unlikely to be available much before the end of the decade.\n\nMeanwhile, an ongoing global shortage of memory chips has significantly driven prices up over the last 12 months, with memory suppliers such as SK Hynix and Samsung warning that this supply chain crunch is likely to persist into 2027 and beyond. The aforementioned chip startup Olix, however, says that its chips integrate SRAM architecture with photonics, allowing it to forgo HBM and therefore making its hardware better insulated from the supply chain constraints currently facing the industry.\n\nShrout explains that for startups wanting to demonstrate prototypes or proof of concepts, the capacity probably still exists for them to do so. Anything beyond that is where smaller companies are likely to run into difficulties.\n\n“If you need to build 1,000 of something, you could go do that. It's going to be really expensive to get the fab space, clean room space, and engineering time, but I think it’s still possible,” he says. “The issue will be if a startup now needs to produce three million chips. There are no wafer starts (the raw, polished semiconductor discs) for three million chips sitting around, and Nvidia or AMD or anybody else is not going to give up their capacity.”\n\nHowever, as more fabs do eventually get built, Carroll says those capacity constraints will eventually alleviate, but concedes it’s a bit of a guessing game at present as to how long that will be.\n\nThe pace of change the chip industry is currently experiencing can also prove challenging for those entering the custom silicon game. While Nvidia and AMD have committed to a yearly release cadence for their hardware offerings, smaller players are unlikely to be able to compete with such ambitious timelines.\n\nBack in 2025, Google’s Vahdat pointed out that even for the best chip design teams in the world, getting specialized architecture from concept to live in production at the “speed of light” takes two and a half years, if you get everything right – which he cautioned that very few do.\n\n“How do you predict the future two and a half years out? I think we have to shrink that cycle, and then, when things slow down a bit… I think we’re going to have to build more specialized architectures because the power savings, the cost savings, and the space savings are too dramatic to ignore.”\n\nAlthough Carroll says that challenge is part of the excitement – “that’s why I’m here, it’s about as bleeding edge as you can get in the technical industry” – he does concede that developing chips 18 months to a couple of years out is “obviously stressful.”\n\nHe explains that in order to mitigate some of that pressure, Amazon talks with customers, “whether it’s Anthropic or others, about where they’re going, and therefore we can design specifically for that.”\n\n## Figuring it out\n\nFor some, the need for specialized chips has never been greater, and while Shrout understands the reason why this particular part of the market has grown so much of late, he also believes that there’s still a lot the industry has left to figure out.\n\nHe says that right now, it’s a little bit of a “Wild West scenario” where nobody’s really quite sure what the inference or compute requirements for agentic AI and beyond will be, demonstrated in part by the resurgence of CPUs, something Shrout says no one would have predicted three years ago.\n\nDespite this, Shrout says that he doesn’t think Nvidia will be looking on with too much worry. While custom silicon undoubtedly has a role to play in the wider AI landscape, general-purpose compute infrastructure is not about to disappear from data centers. This is the prevailing view amongst analysts at present, he explains, although he warns that anyone who claims they can clearly see how this is all going to play out “is probably fooling you.”\n\nFor Carroll, the innovation that he’s seeing in the market at the moment, “whether it’s a big guy or a startup, it’s very interesting to watch.”\n\n“We deal with seven or eight different new workloads a month, based on the innovation our customers are utilizing or that we’re doing in-house, solving all kinds of industry problems that you wouldn’t normally be able to solve. The innovation in this space is just full-throttle, as we’re trying to keep up with the demands of our customers and design specifically for them.”\n\nEchoing that point, Shrout says there’s always going to be an appetite to find ways to build newer, faster, and more efficient chips. However, the question for companies wanting to be part of that revolution is: at what point do the benefits of developing your own hardware outweigh the challenges? And it’s this threshold that he says remains largely unknown.\n\n“If you look at the direction that even a company like Nvidia has gone on, with its Groq pseudo-acquisition, or AMD’s recent acquisition of Taalas, all these major companies that are building what I would consider to be more general-purpose compute acceleration have started to see the writing on the wall, that there is going to be some benefits to specialization of compute.\n\n“But all of that requires workloads to be very well defined, which I think we're still in the pretty early days of, at least from an AI perspective. Ultimately, there's going to be a balance for some time of general-purpose AI compute of GPUs from Nvidia, AMD, Intel, and others, versus the very specific custom silicon options that we’re starting to see coming out.”",
+      "content_url": "https://www.datacenterdynamics.com/en/analysis/asic-custom-silicon-amazon-arm-meta/"
+    },
+    {
+      "id": "2026-11-14-aa90b3",
+      "title": "Cerebras secures Microsoft as a customer",
+      "summary": "Wafer-scale chip and AI cloud company Cerebras has secured a contract with Microsoft.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "hyperscale",
+        "investment"
+      ],
+      "published_at": "2026-11-13T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/cerebras-secures-microsoft-as-a-customer/",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/cerebras-secures-microsoft-as-a-customer/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Cerebras",
+        "Microsoft"
+      ],
+      "title_zh": "Cerebras secures Microsoft as a customer",
+      "published_precision": "day",
+      "content": "Wafer-scale chip and AI cloud company Cerebras has secured a contract with Microsoft.\n\nRevealed during Cerebras' Q3 2026 earnings call, Microsoft is the third hyperscaler to sign on to deploy and offer Cerebras' AI chips, following Amazon Web Services (AWS) and the recently secured Oracle contract.\n\nDetails about the Microsoft deal have not been provided, with Cerebras CEO Andrew Feldman telling investors that more details will come in 2027.\n\nPart of this success in securing major cloud customers was, according to CFO Bob Komin, due to the company's push to roll out its own cloud offering.\n\n\"We chose to ramp a cloud offering in early 2025 because in this rapidly advancing AI landscape, AI natives want to scale compute quickly and don't want to own data centers. Because hyperscalers plan their data center compute allocations years in advance, they often don't have near-term availability in their own facilities for new hardware. In order to win the large deployments that foundation labs and hyperscalers require, Cerebras needed to demonstrate that our systems could deliver our industry-leading inference performance at scale. After having the opportunity to thoroughly evaluate our solution in our private cloud, these customers can then choose to buy our hardware or purchase our cloud offering,\" he explained.\n\nThis year has remained a year of building out capacity and capabilities, and the company estimates that it will be able to triple its revenue in 2027.\n\nQ3 saw revenues of $231 million, up 10 percent sequentially and 70 percent Year-on-Year (YoY), exceeding expectations. AI cloud represents $145m of this, and the company expects this to remain relatively flat in Q4, limited by data center capacity, which is not expected to begin ramping until December, with \"larger portions\" of the company's planned 700MW of data center capacity currently under contract to be deployed in mid 2027.\n\nCEO Feldman noted the issue of data center capacity constraints, telling investors it is limited to land, power, and data center shells. \"Data center availability remains a constant constraint across the industry, and we are no exception. Moreover, we believe the evolving US policy landscape could create greater challenges for data center development in the US.\"\n\nAs a result, in 2027 more than 75 percent of Cerebras' planned data center capacity is outside of the US, with locations in Canada, France, and Norway expected to come online in the coming months.\n\n\"During the quarter, we signed contracts for additional capacity in Norway and Finland, further expanding our European footprint, and we're in the final stages of contracting for a data center in São Paulo, our first in South America,\" Feldman added.\n\nCore hardware revenue for the quarter was $86 million, and does not include the recently signed Oracle deal. The company expects to start production of its upcoming CS-5 chips in the summer of 2025, and for \"crossover\" between CS-3 and CS-4 to happen in Q1 of 2027. CEO Feldman said that the company is expecting to exit 2026 with ten times the manufacturing capacity it had at the start of the year.\n\nGross margins were 41 percent, and the company expects 48 percent next quarter, reaching 50 percent in the near term, and 60 percent as a long-term target.\n\nCore net income turned positive and was $30 million, and Adjusted core EBITDA year-to-date was also positive at $2 million.\n\nRemaining performance obligations increased to $26.1 billion as of September 30, 2026, also excluding the deals with Oracle and Microsoft.\n\nFor the full year 2026, Cerebras is raising core revenue to the range of $940 million - $960 million.\n\n## Addressing industry concerns\n\nA decent chunk of the call was dedicated to \"speculation.\"\n\nFirst, Feldman spoke on the company's partnership with OpenAI. Cerebras noted that Q3 expanded that agreement from Q2, and that the \"success of OpenAI's Ultrafast GPT-5.6 Sol preview based on Cerebras was overwhelming.\"\n\nHe denied rumors that Cerebras' hardware was not able to support OpenAI's Astra model for technical reasons, but conceded that \"Cerebras didn't have sufficient capacity to support Ultrafast in a broad rollout, including for Astra.\"\n\nAdditionally, there have been some delays in the partnership, with Feldman telling investors that it has taken Cerebras \"longer than we would have liked to find contracts for and bring online the substantial increase in data center capacity required to meet the aggressive requirements in the agreement. As such, we find ourselves running behind schedule on the initial tranches. Given the importance of this partnership to our business, we understand the close scrutiny it gets from investors.\"\n\nIf delays exceed 90 days, both parties have the option to cancel that portion of the contract. Currently, Cerebras estimates that around 5 percent of the full contract value may be subject to this condition, but no cancellations have yet been made.\n\nSecondly, Feldman spoke about speculation that the company is struggling to meet its fab and parametric yields for its hardware business.\n\n\"There are those who pointed to our relatively low gross margins on hardware shipments and suggested that this is evidence of a yield problem, when in fact, it simply reflects the ongoing ramp of our manufacturing capabilities and the final shipments of hardware covered under special pricing programs offered to one of our early customers. We expect our hardware margins to improve markedly over the next several quarters, eventually achieving our long-term target of 50 percent,\" he said, offering additional color on how the company is manufacturing the chips to get around challenges faced when operating at wafer scale, including varying performance across the semiconductor and unavoidable imperfections.\n\nThis comes after short-selling firm Culper Research disclosed that it was shorting Cerebras, stating that its wafers break down after around two years of use. Culper said this lifespan “undermines the entire business.\"\n\nCerebras shares sit at $97.75 at the time of writing.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/cerebras-secures-microsoft-as-a-customer/"
+    },
+    {
+      "id": "2026-11-14-432693",
+      "title": "Three data center developments in Australia change course after community backlash",
+      "summary": "Three separate data center projects across Australia have altered their development trajectories following sustained community protests over noise, traffic, and energy consumption, reflecting growing social license challenges for digital infrastructure expansion.",
+      "why_it_matters": "The pattern of community-driven project modification establishes a precedent that Australian local councils are increasingly responsive to resident opposition, extending approval timelines and adding unpredictable conditions. Developers must now budget for extensive community engagement and potential site relocation costs, eroding Australia's historical cost advantage over Singapore for land-intensive campus designs.",
+      "score": 80,
+      "heat": 2,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "regulation",
+        "community",
+        "capacity",
+        "development"
+      ],
+      "published_at": "2026-11-13T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/three-data-center-developments-in-australia-change-course-after-community-backlash/",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/three-data-center-developments-in-australia-change-course-after-community-backlash/",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "澳大利亚三个数据中心开发项目因社区反对而改变方向",
+      "summary_zh": "澳大利亚三个独立的data center项目在持续的社区抗议——涉及噪音、交通和能源消耗——后改变了其development trajectories，反映出digital infrastructure扩张面临的social license挑战日益严峻。",
+      "why_zh": "社区驱动的项目修改模式树立了一个先例：澳大利亚地方议会越来越容易受到居民反对的影响，延长了审批时间线并增加了不可预测的条件。开发商现在必须为广泛的community engagement和潜在的site relocation costs做预算，侵蚀了澳大利亚相对于新加坡在land-intensive campus designs方面的历史成本优势。",
+      "published_precision": "day",
+      "content": "Two large-scale data center developments in Australia have been scrapped, and another has been paused following fierce community backlash in the country.\n\nData centers announced for Lane Cove and Cooks River, Sydney, were completely cancelled, while a development in Tungkillo, South Australia, was paused.\n\nAirTrunk and Stockland owned the Lane Cove and Cooks River projects, respectively. Quantum DC is behind the Tungkillo project.\n\n## Lane Cove\n\nAPAC data center firm AirTrunk had proposed a 140MW data center at Apollo Place and Mars Road in Lane Cove West.\n\nAirTrunk, which is owned by a consortium of Blackstone and the Canada Pension Plan Investment Board, already operates its SYD2 data center campus in Lane Cove West.\n\nThe decision to drop the latest proposal will not affect its existing data center, nor the already approved Apollo Place development, an adjoining facility to SYD2 that, once complete, will form a larger integrated data center campus.\n\nIn comments to local media, AirTrunk said the decision was due to the site being “unsuitable” for the type of facilities its customers need.\n\nAirTrunk has several developments in progress across Australia, and said it would look at more feasible sites in other areas of the country.\n\nIn September, Australian real estate firm Goodman Group dropped plans for a 90MW data center campus in Lane Cove West, dubbed Project Mars.\n\nGoodman said the policy and regulatory environment for large-scale data center development had “evolved significantly,” while also citing community feedback as a mitigating factor.\n\nLocal media outlet In the Cove also reported the cancellation of another project in the area, this one put forward by the Lane Cove DC Alliance and backed by Australia’s Investment Delivery Authority.\n\nThe investigation by In the Cove alleged that Lane Cove DC Alliance was not a registered business or company, and the development was actually put forward by Ford Land Company and Aurora Property Partnership, the latter of which is a related entity of Ausgrid, an Australian east coast electricity provider.\n\n## Cooks River\n\nAustralian real estate firm Stockland’s planned AI data center in Cooks River, Sydney, has now been cancelled.\n\nThe development, which is a joint venture with John Boyd Properties, was part of a wider $3.5 billion logistics and commercial project across 18.3 hectares (45 acres) of land. It will now go ahead without the data center.\n\nThe site will be built on land formerly belonging to the Kogarah Golf Club.\n\nThe project had seen significant local backlash. The Stop the Cooks River AI Project (SCRAP) claims to have mobilized “hundreds of people” to protest against the data center and wider development.\n\n“This is an important victory for people power,” said Paddy Gibson, a local resident and SCRAP organizer. “Stockland’s backdown serves as yet another warning to political leaders at the federal and state level that are rolling out the red carpet for US tech bros. Local communities will not accept their obscene plans to make Australia the second home for power- and water-guzzling AI data centers.”\n\nStockland said the original concept for the development included options for various uses permitted under its zoning, including data centers. Its new plan focuses on logistics and mixed-use development.\n\nWhile Gibson was pleased that the data center had been withdrawn, he said the logistics and commercial development still posed a risk to the green space around the Cooks River, which has become a “sanctuary for endangered native plants and animals.”\n\nFurther protests are planned later this month.\n\nStockland has several data center developments in progress in Australia, including two in Melbourne and one in Sydney that were announced this year.\n\n## Tungkillo\n\nQuantum DC has paused planning approvals for its Tungkillo Compute and Energy Hub, citing necessary engagement with the local community and state government.\n\nLast month, the company cancelled a drop-in meeting for the data center, claiming it faced a “credible” bomb threat.\n\nQuantum DC’s proposal was for a 1.2GW hyperscale data center facility for both cloud and AI workloads. The project would include on-site gas turbines for backup power, as well as two new substations.\n\nThe site would also be co-located with separately developed battery energy storage projects.\n\nThe project covers around 120 hectares (300 acres) of a 220-hectare (550-acre) site, currently used for grazing. The undeveloped 100 hectares would continue to be used for grazing.\n\nQuantum DC said it chose Tungkillo due to the location’s “strategically significant position on South Australia’s transmission network,” and the availability of an existing high-pressure gas pipeline and fiber connection.\n\nAs part of the pause, Quantum DC has cancelled two community information sessions planned for later this month, and will instead focus on a “longer-term engagement program.”\n\n“We recognize that some members of the community have concerns about the process to date and want reassurance about the planning and assessment processes being followed,” the company said in a statement. “We are also hearing a range of views about the proposal itself.”\n\nThe company said it had “misread the strength of feeling about this proposal,” and said the first weeks of its engagement with the community “created more questions than answers.”\n\n“We are open to ideas that help shape this proposal, and nothing in the design is off the table. If the process shows that parts of the proposal need to change, they will change.”\n\nThe Tungkillo project is Quantum DC’s first project.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/three-data-center-developments-in-australia-change-course-after-community-backlash/"
+    },
+    {
+      "id": "2026-11-14-4fde63",
+      "title": "Insite DC files for four-building data center campus outside Melbourne, Australia",
+      "summary": "Australian data center firm Insite DC has filed to develop a new project outside Melbourne.",
+      "why_it_matters": "",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "capacity",
+        "investment",
+        "colocation",
+        "development"
+      ],
+      "published_at": "2026-11-13T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/insite-dc-files-for-four-building-data-center-campus-outside-melbourne-australia/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Insite DC"
+      ],
+      "title_zh": "Insite DC 申请在澳大利亚墨尔本外建设四栋数据中心园区",
+      "published_precision": "day",
+      "content": "Australian data center firm Insite DC has filed to develop a new project outside Melbourne.\n\nIn an application with the Victorian Department of Transport and Planning, Insite DC has filed to develop a four-building campus at 1235, 1245, 1255, and 1265 Boundary Road in Tarneit, Victoria.\n\nTarneit is a suburb of Melbourne, located within the City of Wyndham, around 25 km (16 mi) west of Melbourne's Central Business District.\n\nThe site is currently used for truck parking.\n\nFounded last year, Insite DC is a new operator looking to develop facilities across Melbourne and Sydney. The company secured investment from Alceon earlier this year.\n\nFull details of Insite’s pipeline haven’t been shared, but the company’s website suggests 100MW of capacity is planned across six sites.\n\nStack has previously acquired land at 1005 Boundary Road in Tarneit, according to PWC data, with the site billed as its MEL03 campus. The site was previously set for a proposed industrial development known as the Tarneit Logistics Hub. A substation is planned on the site.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/insite-dc-files-for-four-building-data-center-campus-outside-melbourne-australia/"
+    },
+    {
+      "id": "2026-11-14-3d47f1",
+      "title": "Singapore revises data centre financing criteria for water-stressed Asia",
+      "summary": "Singapore has updated its green finance taxonomy to incorporate revised criteria for data center investments, specifically addressing water stress risks across Asia as part of broader climate-aligned financing standards.",
+      "why_it_matters": "The taxonomy revision makes Singapore-domiciled green bonds and sustainability-linked loans more expensive for conventional data center designs that rely on water-intensive cooling, effectively steering capital toward liquid cooling and atmospheric water generation technologies. For regional operators seeking Singaporean financial backing for Indonesian or Indian projects, this creates new due diligence hurdles that could delay project financing by quarters.",
+      "score": 85,
+      "heat": 3,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "regulation",
+        "sustainability",
+        "financing",
+        "water"
+      ],
+      "published_at": "2026-11-13T11:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/singapore-revises-data-centre-financing-criteria-for-water-stressed-asia/135820725",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/newsletters/esg-insights/issue-220-cop31s-electric-dreams-singapore-tweaks-green-finance-rules-data-centres",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/newsletters/esg-insights/issue-220-cop31s-electric-dreams-singapore-tweaks-green-finance-rules-data-centres",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "新加坡修订data centre融资标准以应对亚洲水资源紧张",
+      "summary_zh": "新加坡已更新其green finance taxonomy，纳入了针对data center投资的修订标准，特别是将亚洲范围内的water stress risks纳入更广泛的climate-aligned financing standards。",
+      "why_zh": "该taxonomy修订使依赖water-intensive cooling的传统data center设计在新加坡注册的green bonds和sustainability-linked loans方面更加昂贵，有效引导资本流向liquid cooling和atmospheric water generation技术。对于寻求新加坡资金支持印尼或印度项目的区域运营商而言，这创造了新的due diligence障碍，可能使项目融资延迟数个季度。",
+      "content": "Singapore has revised the sustainability criteria used to assess data centres located outside the city-state for green and transition financing.The changes, launched by the Singapore Sustainable Finance Association (SSFA) with the Monetary Authority of Singapore (MAS), recognise challenges faced by facilities in water-stressed regions.The second edition of the Singapore-Asia Taxonomy for Sustainable Finance, released on 11 November 2026, updates technical screening criteria across four sectors, including data centres. This framework provides financial institutions with criteria for identifying economic activities that qualify as green or are undergoing a credible transition.The revision specifically addresses Power Usage Effectiveness (PUE) and Water Usage Effectiveness (WUE) measures. Cooling systems designed to reduce water consumption can sometimes require more electricity, creating competing requirements for operators in areas with limited water.Under the updated taxonomy, facilities outside Singapore can now account for this trade-off when demonstrating compliance with sustainability criteria. For a Green classification, data centres must achieve an average annual PUE no greater than 1.40 minus 0.0545 times WUE, with WUE capped at 2.2. Existing facilities seeking Amber classification face a PUE limit of 1.45 minus 0.04545 times WUE, with WUE capped at 2.3.These thresholds allow facilities consuming less water to operate at a higher PUE, offering greater flexibility for operators prioritising water conservation. The SSFA stated that these changes aim to avoid disadvantaging facilities focusing on water conservation.The revised criteria could influence how financial institutions evaluate data centre developments across Asia, particularly where local water conditions impact cooling technology and electricity consumption. The taxonomy provides a classification framework rather than mandatory operating requirements for activities seeking green or transition financing.Abigail Ng, chief sustainability officer at MAS, noted the updated taxonomy will provide financial institutions and companies with \"greater clarity and confidence to finance green and transition activities in Asia.\" The association has not quantified the potential increase in data centre investment from this revision.In October 2026, Singapore passed the Digital Infrastructure Bill, which establishes a framework for mandatory data centre energy-efficiency standards. Facilities with a critical IT load of at least 3MW will require licences and must meet PUE requirements, with implementation expected in 2027.Singapore's data centres consumed approximately 6.5TWh of electricity in 2024, representing over 10 per cent of national consumption. The IMDA's Green Data Centre Roadmap, launched in May 2024, targets a PUE of 1.3 or lower within 10 years. National water agency PUB has also introduced a WUE target of two cubic metres per megawatt-hour or lower for new and existing data centres.The regional importance of these financing changes is highlighted by the ASEAN Guide for Sustainable Data Centre Development, which reported in December 2025 that 63 per cent of Asian data centres are located in water-stressed areas.\n\n- Energy, Cooling & Sustainability\n- 2 min Read\n\n# Singapore revises data centre financing criteria for water-stressed Asia\n\nSingapore has updated its sustainability criteria for assessing data centres outside the city-state seeking green and transition financing. The revision addresses the trade-off between power and water usage in cooling systems.\n\n- Published On Nov 14, 2026 at 08:00 AM IST\n\n## Highlights\n\n- Singapore updated sustainability criteria for data centres outside the city-state for green financing.\n- New PUE and WUE thresholds address the power-water trade-off in cooling systems.\n- Criteria allow water-efficient facilities to operate at slightly higher PUEs for Green classification.\n- Changes impact financial institutions evaluating data centre projects across water-stressed Asia.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/singapore-revises-data-centre-financing-criteria-for-water-stressed-asia/135820725"
+    },
+    {
+      "id": "2026-11-14-ed4333",
+      "title": "Data centre investors underestimate climate risks, see these as 'not a priority': report",
+      "summary": "Such climate impacts are currently largely uninsured, the report says",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 2,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "data center",
+        "investment",
+        "climate risk",
+        "insurance"
+      ],
+      "published_at": "2026-11-13T10:12:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/data-centre-investors-underestimate-climate-risks-see-these-not-priority-report",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/international/data-centre-investors-underestimate-climate-risks-see-these-not-priority-report",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "数据中心投资者低估气候风险，认为这些'并非优先事项'：报告",
+      "content": "Such climate impacts are currently largely uninsured, the report says\n\nTHE fallout of climate change may expose the world’s data centres to losses that investors are not currently pricing in, according to a report published on Friday (Nov 13) by Jupiter Intelligence.\n\nThe privately-held risk analytics company estimates that annual losses from floods, wind and wildfires could be around US$4.4 billion. It is “simply not a priority” for investors, said Wahib Ghazni, the report’s author.\n\nLenders financing data centres in emerging markets are at greater risk than those in developed ones, he added.\n\nA study earlier this year of roughly 2,600 planned data centres worldwide indicated that more than 150 will be built on sites facing a high physical climate risk.\n\nKey hazards include coastal inundation, high heat and riverine flooding.\n\nA separate analysis by Schneider Electric Research Institute found that climate risk puts 38 per cent of the value of the world’s data centres at risk, before adaptation measures are taken.\n\nMost of the risk, or 61 per cent, is to IT equipment, rather than buildings housing data centres, the Jupiter Intelligence report found, adding that such climate impacts are currently largely uninsured.\n\nThe debt financing such infrastructure is typically short-term, whereas much of the increase in climate-related costs identified in the report will emerge over the longer term, it said.\n\nThe Jupiter Intelligence study, which modelled its analysis on more than 14,000 already operational data centres, highlighted risks to hubs in China, where insurance coverage is low and the risk of floods is high.\n\nChina, including Hong Kong, represents 17 per cent of the value of data centres in the world, but has 49 per cent of the potential climate loss. North America, by contrast, has 44 per cent of the value and 17 per cent of the potential loss.\n\n“The huge problem in China is pure geography,” according to Ghazni.\n\n“Many of the data centre hubs are in three low-lying deltas and flood plains, exposed to monsoon rain and typhoons.” BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/international/data-centre-investors-underestimate-climate-risks-see-these-not-priority-report"
+    },
+    {
+      "id": "2026-11-14-56af3d",
+      "title": "China invests over $3 billion in Nvidia-powered AI data centers",
+      "summary": "Chinese entities have invested more than $3 billion in AI data centers equipped with Nvidia processors, even as US legislators intensify efforts to advance at least four separate bills aimed at tightening semiconductor export restrictions.",
+      "why_it_matters": "The gap between deployed Chinese AI infrastructure and pending US legislation highlights a race against time: Beijing is stockpiling GPU capacity before potential legal closures, while Washington's fragmented legislative process risks creating enforcement loopholes. For Southeast Asian data center markets, this capital flight from China could simultaneously inflate local equipment prices and attract politically sensitive Chinese tenant demand.",
+      "score": 90,
+      "heat": 3,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "regulation",
+        "ai",
+        "investment"
+      ],
+      "published_at": "2026-11-13T03:41:51Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/china-invests-over-3-billion-in-nvidia-powered-ai-data-centers/135819127",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/jensen-huang-exit-us-scrutiny-imperil-us3-billion-chinese-ai-projects-reliant-nvidia",
+          "type": "rss"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825656",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "title_zh": "中国投资超30亿美元建设Nvidia驱动的AI data centers",
+      "summary_zh": "中国实体已投资超过30亿美元建设配备Nvidia处理器的AI data center，尽管美国立法者正加大力度推动至少四项旨在收紧semiconductor export restrictions的独立法案。",
+      "why_zh": "已部署的中国AI基础设施与待定的美国立法之间的差距凸显了一场与时间的赛跑：北京在潜在法律关闭前正在囤积GPU capacity，而华盛顿碎片化的立法进程可能制造执法漏洞。对东南亚data center市场而言，来自中国的资本外流可能同时推高本地设备价格，并吸引具有政治敏感性的中国租户需求。",
+      "content": "A Reuters review has identified over $3 billion in Chinese computing projects built around Nvidia's restricted processors. This development comes even as Nvidia has stated that US export controls have effectively excluded it from China's AI data-centre market.These projects span from China's wealthy coastal technology hubs to its remote western provinces. This underscores how deeply Nvidia's technology remains integrated into China's AI expansion.\n### Key Projects and Deployments\n\nA proposed 6.2 billion yuan ($873 million) AI computing centre in Fujian province, specifically Xianyou county, is seeking commercial partners. This facility specifies Nvidia H100 chips for large-scale AI development.In Shaanxi province, state-owned engineering group Sinomach reported that a subsidiary secured a contract for a 3 billion yuan computing centre. This project specifies Nvidia H100 and H200 processors.Jilin province has an April government prospectus detailing a 2.26 billion yuan project. This combines Nvidia H100 processors with Chinese-developed chips, with developers expecting bank loans for 80 per cent of the investment.Inner Mongolia is planning a 1.5 billion-yuan development that proposes installing 625 Nvidia H200 servers. Chinese industry reports in June indicated that construction had commenced on two buildings in its initial phase.These plans highlight developers' continued reliance on US processors, which are vulnerable to trade restrictions. Tighter curbs risk construction delays, inflated costs, or forced redesigns using domestic alternatives.In Gansu province, a local company was awarded a 1.16 billion yuan construction contract in July for a computing centre. This facility plans to install approximately 3,072 Nvidia processors, with tender documents specifying H100 and H200 hardware. The contract went to a consortium led by a subsidiary of state-owned Shaanxi Construction Engineering; however, the documents do not confirm processor delivery.Other Chinese facilities are already utilising restricted Nvidia hardware. The Wuxi municipal government in Jiangsu province stated in March 2025 that a computing cluster using Nvidia H800 processors had become operational. In Fujian, Shanghai-listed Damingcheng disclosed in June that a computing venture had built an H800 cluster, signing a 759 million yuan computing-services agreement that concluded early.Smaller purchases also indicate sustained demand from research institutions. Shenzhen University secured a contract for three H100 processors in September. US-blacklisted Northwestern Polytechnical University purchased two H200 chips the following month, Reuters separately reported.\n\n- AI & Compute Infrastructure\n- 2 min Read\n\n# China invests over $3 billion in Nvidia-powered AI data centers\n\nA Reuters review identified over $3 billion in Chinese computing projects built around Nvidia's restricted processors. This occurs despite Nvidia stating US export controls have effectively shut it out of China's AI data-center market.\n\n- Published On Nov 14, 2026 at 05:00 AM IST\n\n## Highlights\n\n- A Reuters review found over $3 billion in Chinese AI computing projects using Nvidia's restricted chips.\n- Projects span from coastal tech hubs to western provinces, showing Nvidia's deep market integration.\n- Key projects specify Nvidia H100 and H200 chips for large-scale AI development.\n- Existing facilities in Jiangsu and Fujian are already operating with Nvidia H800 processors.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/china-invests-over-3-billion-in-nvidia-powered-ai-data-centers/135819127"
+    },
+    {
+      "id": "2026-11-14-463cef",
+      "title": "Why Singapore, Johor and Riau Islands should build a cross-border ecosystem for AI",
+      "summary": "Cooperation is the best hope to anchor and unlock potential of region’s AI economy",
+      "why_it_matters": "",
+      "score": 75,
+      "heat": 2,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "data center",
+        "cross-border",
+        "ecosystem"
+      ],
+      "published_at": "2026-11-12T23:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/asean/why-singapore-johor-and-riau-islands-should-build-cross-border-ecosystem-ai",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/international/asean/why-singapore-johor-and-riau-islands-should-build-cross-border-ecosystem-ai",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "为什么Singapore、Johor和Riau Islands应该为AI建立跨境生态系统",
+      "content": "Cooperation is the best hope to anchor and unlock potential of region’s AI economy\n\nTHE prospects of artificial intelligence attract interest and investment, but also concerns and contestation.\n\nDemand for data centres has surged, with some stakeholders competing to attract them and others protesting against them. Can we reap the benefits of this new driver of the global economy while avoiding the pains?\n\nSingapore and its nearest neighbours have a particular advantage in serving not just Asian markets, but also global ones. Submarine data cables connecting Asia and the wider world converge on Singapore, and extend to Johor and Indonesia’s Riau Islands.\n\nThis proximity enables low-latency connections for advanced computing and digital services, giving the region a head start in developing an AI economy.\n\nBut capturing the opportunity requires more than infrastructure, technology and investment. It needs a cross-border ecosystem that includes people, livelihoods, energy and water, to optimise the benefits and move forward sustainably.\n\n## Shared growth across borders\n\nCross-border economic activities are already considerable; for instance, efforts to create the Sijori Growth Triangle – a partnership between Singapore, Johor and Indonesia’s Riau Islands – date back to the 1990s.\n\nToday’s opportunities are qualitatively different. Unlike the goals of the Sijori scheme, this is no longer simply a question of leveraging more land and labour.\n\nWhile submarine cable connectivity provides an advantage, the AI economy involves much more than connecting and storing data or computing. It extends to research, software, cloud services and applications in finance, healthcare, manufacturing, logistics and energy.\n\nNo single Asean country has all these capabilities at an optimal scale. But Singapore, Johor and the Riau Islands together offer many of them.\n\nSingapore is strong in research, technology, finance and professional services. Johor offers manufacturing capabilities, industrial space and expanding computing infrastructure. Batam combines an established industrial base with growing digital infrastructure and access to the wider Indonesian market.\n\nTogether, they could support AI engineering, specialised services and advanced industries, creating higher-value activities and skilled employment across all three locations. They could develop industries and services that none can achieve alone.\n\n## Resource and sustainability considerations\n\nGrowing the AI economy and data centres will require substantial resources, especially energy and water. Unless managed well, these demands could strain existing supplies, affecting other industries and households.\n\nConsider electricity. Singapore already has more than 1.6 gigawatts (GW) of data centre capacity. In Johor, electricity demand from data centres is projected to reach 4.42 GW by 2030. Batam is seeing a surge in investments around Nongsa Digital Park, adding pressure on power generation and grids.\n\nNational measurements and estimates differ. Nevertheless, if data centres across the region eventually draw 7 to 8 GW of electricity cumulatively and operate at high utilisation, annual consumption could approach Singapore’s current total electricity use per year.\n\nThis would place considerable pressure on existing supplies, even before accounting for other uses. More electricity is therefore essential.\n\nGiven climate commitments, green energy must be the priority.\n\nLand-constrained Singapore is pursuing low-carbon electricity imports through regional interconnections, supporting the wider Asean Power Grid. Some electricity can come from Laos and Thailand through Malaysia. Other proposals involve links to Sarawak, Vietnam and even Australia.\n\nBut the clear opportunity is to develop new energy sources in Johor and the Riau Islands alongside the AI economy.\n\nThere is considerable untapped potential for large-scale solar power. Johor has announced plans for 5 GW of solar capacity by 2031, while studies estimate the Riau Islands have technical potential exceeding 20 GW. Even developing part of this potential could substantially increase regional electricity supplies.\n\nSolar alone, however, cannot provide the constant electricity that data centres require. Energy storage, stronger grids and complementary generation will also be needed.\n\nBioenergy from palm oil and pulp-and-paper sectors in Sumatra can offer another possibility, such as using palm oil mill effluent to produce biogas and biomethane. These can connect established agricultural industries to the digital economy.\n\nWater is equally important. Singapore already imports water and depends on reservoirs, desalination and water reclamation. Johor has considerable raw water resources, but faces growing demand for treated water.\n\nBatam relies heavily on reservoirs and has recently experienced supply disruptions, particularly in Nongsa, where declining reservoir levels have affected households and raised concerns over the expansion of data centres.\n\nData centres can be thirsty. In Johor, operating data centres currently consume some 18 million litres daily as at early 2026, but projected demand could reach 384 million litres by 2030.\n\nData centres should not compete unnecessarily with households for drinking-quality water and electricity.\n\nInnovation in water recycling, desalination and cooling can reduce these demands. Governments must set high standards and encourage companies to do better.\n\nSingapore has developed water-efficiency benchmarks and supplies much of its data centre water through Newater. As the industry expands, water demand must be managed alongside the needs of households and other industries.\n\nConsider Equinix’s new SG6 data centre. It targets a power usage effectiveness of 1.2 and incorporates advanced cooling, Newater and rainwater harvesting.\n\nCooperation between governments, investors and data centre operators can align growth with resource efficiency and sustainability.\n\n## New understandings\n\nPolitical understanding and cooperation will be critical to working across borders. Trust must be built between Singapore, Malaysia and Indonesia, with each country recognising their counterpart’s ambitions and the prospect of shared benefits.\n\nOne signal came from Singapore Senior Minister of State for Digital Development and Information Tan Kiat How, at the opening of Equinix’s SG6 on Nov 6.\n\nHe said that Singapore should not compete for every computing workload or megawatt, but seek “maximum value from compute”. This would allow partners to develop their own capabilities while helping the regional system work better.\n\nThe region should not be seen simply as a collection of data centres or an expanded industrial zone. It should be an integrated resource-and-technology ecosystem, connecting digital infrastructure, green energy, water, manufacturing, finance, services and people.\n\nThis requires planning across sectors and borders. Coordinated investment could increase electricity generation and enable efficient, market-based cross-border supply.\n\nWater capacity in Johor and the Riau Islands could also be expanded, drawing on Singapore’s expertise in treatment, recycling and desalination.\n\nFinance and investment are essential. Working with Malaysian and Indonesian partners, Singapore’s banks, institutional investors and infrastructure companies can mobilise long-term capital for electricity generation, transmission networks, water treatment and recycling.\n\nExpertise in project financing, engineering and green finance can help make these investments commercially viable.\n\nDigital cooperation should extend beyond data centres to AI research, applications and advanced manufacturing. Universities and businesses can collaborate on skills, innovation and technologies that reduce resource consumption.\n\nSustainability must be integral. Green growth should protect forests and peatlands, reduce pollution and ensure reliable resources for communities. As the recent haze episode in October 2026 has demonstrated, environmental problems also cross borders.\n\nA practical starting point is the Johor-Singapore Special Economic Zone, which seeks to facilitate investment, connectivity and talent development across the border. Although bilateral, it could offer lessons for comparable Singapore-Indonesia cooperation involving Batam and the wider Riau Islands.\n\nPerhaps the key challenge is less about technology than attitudes.\n\nToo often, cross-border development assumes resources are limited and countries must compete for their share.\n\nElectricity, water, investment and talent become matters of national competition, where one country’s gain is another’s loss. A narrow and nervous view of national security and scarcity must change.\n\nThe greater opportunity is to increase what is available. Joint investments in renewable energy can expand electricity supplies, while water recycling and desalination can create additional resources.\n\nCooperation in infrastructure, research and innovation can generate new industries and skilled jobs.\n\nBuilding a cross-border ecosystem through cooperation is the best hope to anchor and unlock the potential of the AI economy in our region. Rather than compete over what is already available, the three countries can work together to create more.\n\n**The writer is chairman of the Singapore Institute of International Affairs (SIIA). This commentary draws on discussions at the SIIA’s Singapore Green Dialogue, held on Nov 3.**\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/international/asean/why-singapore-johor-and-riau-islands-should-build-cross-border-ecosystem-ai"
+    },
+    {
+      "id": "2026-11-14-e9ceab",
+      "title": "SpaceX developing custom Nvidia Vera Rubin rack dubbed Kessel for its orbital data centers",
+      "summary": "SpaxeX is developing a custom Nvidia Vera Rubin NL72 rack dubbed Kessel, SemiAnalysis has reported.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "space",
+        "hyperscale"
+      ],
+      "published_at": "2026-11-12T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/spacex-developing-custom-nvidia-vera-rubin-rack-dubbed-kessel-for-its-orbital-data-centers-report/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "SpaceX",
+        "NVIDIA"
+      ],
+      "title_zh": "SpaceX 为轨道数据中心开发定制 Nvidia Vera Rubin 机架，代号 Kessel",
+      "published_precision": "day",
+      "content": "SpaxeX is developing a custom Nvidia Vera Rubin NL72 rack dubbed Kessel, SemiAnalysis has reported.\n\nAccording to the research firm, the bespoke rack will keep the NVL72’s underlying configuration, which comprises 72 GPU packages distributed across 18 compute trays and nine switch trays, but swap out the system’s NVLink cable cartridges with an 84-layer printed circuit board (PCB).\n\nSpaceX is planning to use the custom Kessel racks “for both terrestrial and orbital deployment,” the report said.\n\nSemiAnalysis described the setup as a “mini Kyber, with a smaller scale-up domain.” Nvidia’s Kyber rack is set to contain 576 AI GPUs in 144 packages. However, the key difference between the two is that the Kyber architecture has a backplane that features a 156-layer PCB featuring M9 copper-clad laminates (CCLs), substantially more than the 84-layer M10 midplane that Kessel has specified.\n\nThe research firm said that having fewer layers will give Kessel a “more feasible manufacturing path,” adding that while SpaceX will buy the chip packages from Nvidia, the company is planning to bypass the chip giant’s L6 compute boards and procure the rest of the parts directly, giving SpaceX greater control over supplier selection and component sourcing.\n\nIn July 2026, SemiAnalysis separately reported that Nvidia had delayed production of its Kyber racks by more than 12 months due to manufacturing issues with the PCB midplane that connects the modules. The manufacturing issues will also impact the planned NVL576 system, SemiAnalysis said at the time, adding that as a result of these delays, Nvidia was pushing the hardware’s release date into 2028.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/spacex-developing-custom-nvidia-vera-rubin-rack-dubbed-kessel-for-its-orbital-data-centers-report/"
+    },
+    {
+      "id": "2026-11-14-38dbcb",
+      "title": "Japan's NTT Docomo apologizes after second 5G SA network outage in five days",
+      "summary": "Japanese telecoms carrier NTT Docomo has apologized after the company suffered a second nationwide network glitch.",
+      "why_it_matters": "",
+      "score": 40,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "outage",
+        "telecom",
+        "5g",
+        "network"
+      ],
+      "published_at": "2026-11-12T12:00:00Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/japans-ntt-docomo-apologizes-after-second-5g-sa-network-outage-in-five-days/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NTT Docomo"
+      ],
+      "title_zh": "日本 NTT Docomo 五天内第二次 5G SA 网络中断后致歉",
+      "published_precision": "day",
+      "content": "Japanese telecoms carrier NTT Docomo has apologized after the company suffered a second nationwide network glitch.\n\nThe first network outage last Friday lasted for 14 hours, impacting customers using NTT Docomo's 5G Standalone (5G SA) service, affecting 1.5 million customers in the process.\n\nThis was followed by a second outage yesterday (November 11), lasting slightly less at nine hours, but once again impacting 5G SA users.\n\nFollowing the latest disruption, the company has issued an apology for the latest incident.\n\nIn a post detailing yesterday's outage, NTT Docomo blamed the outage on \"congestion\" issues.\n\n\"Congestion of the exchange equipment accommodating customers with 5G SA contracts. To date, our investigation has not revealed any signs of unauthorized access or cyberattacks, including before or after the incident,\" said NTT Docomo.\n\nAccording to NTT, yesterday's outage started at 10:34am, lasting until 7:17pm.\n\nThe outage caused people on the company's 5G SA service to struggle to make voice calls, use data, or send SMS messages. The outage didn't impact standard 5G and 4G services, and emergency calls were also unaffected. MVNOs using Docomo's network were also not impacted.\n\nNTT Docomo added that an investigation into the incidents has \"not revealed any signs of unauthorized access or cyberattacks, including before or after the incident.\"\n\nThe company didn't specify vendor details, though earlier this year Ericsson announced it would supply the carrier with its RAN compute platform, including for its 5G Advanced networks.\n\nThe double outage follows a significant cyberattack earlier this year, which compromised the data of 300,000 NTT Docomo customers.",
+      "content_url": "https://www.datacenterdynamics.com/en/news/japans-ntt-docomo-apologizes-after-second-5g-sa-network-outage-in-five-days/"
+    },
+    {
+      "id": "2026-11-14-4e1246",
+      "title": "Nvidia board weighs temporary CEO, starts search for potential replacement after Jensen Huang affairs",
+      "summary": "Nvidia's board of directors is reportedly considering appointing an interim chief executive while launching a formal search for a permanent replacement following revelations of CEO Jensen Huang's extramarital affairs.",
+      "why_it_matters": "Leadership vacuum at the world's most valuable chip designer injects uncertainty into supply commitments for hyperscale customers across APAC, many of whom have multi-billion-dollar GPU deployment timelines tied to Nvidia's product roadmap. Boardroom instability also raises governance questions that could accelerate enterprise and government buyers' diversification toward AMD or custom silicon.",
+      "score": 90,
+      "heat": 3,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "leadership",
+        "hyperscale"
+      ],
+      "published_at": "2026-11-12T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/nvidia-board-weighs-temporary-ceo-starts-search-for-potential-replacements-after-jensen-huang-affairs/",
+          "type": "html-list"
+        },
+        {
+          "name": "W.Media",
+          "url": "https://w.media/nvidia-cofounder-jensen-huang-steps-down-as-ceo/",
+          "type": "rss"
+        },
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/jensen-huang-resigns-as-nvidia-chief-after-alleged-second-affair",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "title_zh": "Nvidia董事会考虑临时CEO，在Jensen Huang事件后启动潜在替代人选搜寻",
+      "summary_zh": "据报道，Nvidia董事会正在考虑任命一位interim CEO，同时启动正式搜寻以寻找permanent replacement，此前CEO Jensen Huang的婚外情被曝光。",
+      "why_zh": "这家全球最有价值的chip designer出现领导层真空，为其亚太地区的hyperscale客户带来不确定性，其中许多客户的GPU部署时间表与Nvidia的产品路线图紧密相连，涉及数十亿美元投资。董事会的不稳定也引发了治理问题，可能加速企业和政府买家向AMD或custom silicon多元化转移。",
+      "published_precision": "day",
+      "content": "Nvidia's board has hired an outside firm to evaluate potential replacements for CEO Jensen Huang.\n\nThe company founder has seen his future thrown into doubt following the revelation of two extramarital affairs - one with a direct report and another with an alleged Chinese spy.\n\nBloomberg reports that the company has begun looking at possible replacements for the gregarious CEO and is considering external executives.\n\nThe board is also in talks to name a temporary chief while searching for a permanent one. The Wall Street Journal reports that the board has already begun preparing to oust the company's founder, but a final decision has not yet been made. Huang could remain at the company.\n\nShares in the company have fallen with each new scandal, down again overnight.\n\nFinancial firms Baird and Bernstein Research have both downgraded their outlook for Nvidia’s stock, while Morgan Stanley has removed it from its Top Pick list.\n\n## More in The Investment & Markets Channel\n\n- # Episode 2027 Trends and Outlooks: APAC",
+      "content_url": "https://www.datacenterdynamics.com/en/news/nvidia-board-weighs-temporary-ceo-starts-search-for-potential-replacements-after-jensen-huang-affairs/"
+    }
+  ]
+}

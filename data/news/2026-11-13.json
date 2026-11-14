@@ -5,140 +5,10 @@
     "2026-11-13-c2af92",
     "2026-11-13-d02d21",
     "2026-11-13-1649f5",
-    "2026-11-13-5ff51e",
-    "2026-11-13-b93866"
+    "2026-11-13-179934",
+    "2026-11-13-cfdfd0"
   ],
   "stories": [
-    {
-      "id": "2026-11-13-97f336",
-      "title": "KLCI may end the week at fresh 14-month low",
-      "summary": "Malaysia’s benchmark stocks may end Friday at a fresh 14-month low as investors continued to trim investments related to data centres.",
-      "why_it_matters": "",
-      "score": 65,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "investment",
-        "market",
-        "data-centre"
-      ],
-      "published_at": "2026-11-13T07:51:05Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825645",
-          "type": "html-list"
-        }
-      ],
-      "title_zh": "KLCI本周或收于14个月新低",
-      "content": "KUALA LUMPUR (Nov 13): Malaysia’s benchmark stocks may end Friday at a fresh 14-month low as investors continued to trim investments related to data centres.\n\nThe 30-stock FBM KLCI dropped as much as 4.6 points or 0.3% to 1,581.35, its lowest since September 2025. National electric utility firm Tenaga Nasional Bhd (KL:TENAGA) fell 1.6% to RM12.60 while construction firm Gamuda Bhd (KL:GAMUDA) was down over 2% to RM4.58.\n\nAfter five consecutive sessions of decline, the benchmark index is also set to end Friday with over 2% weekly loss. Correction in artificial intelligence trades and uncertainty surrounding Nvidia’s leadership could trigger further selling pressure in the near term.\n\nAnalysts, however, see opportunities for bargain hunting.\n\n“We believe the market has entered oversold territory, potentially setting the stage for a technical rebound in the coming weeks,” Malacca Securities Sdn Bhd head of research Loui Low Ley Yee told *The Edge*.\n\nDecember is historically a good month for the FBM KLCI, with a success rate of over 90% over the past 25 years, suggesting a potential upside of 2% to 3% towards year-end, he said.\n\nJensen Huang has stepped down as chief executive of Nvidia following news reports of his extramarital affairs while shares of the US chip giant continued to fall.\n\nNvidia is also reeling from revelation over the weekend about Huang’s affair with a suspected Chinese spy accused of helping entities circumvent American restrictions on imports of high-performance chips to China.\n\nEdited ByJason Ng\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/825645"
-    },
-    {
-      "id": "2026-11-13-561961",
-      "title": "Post-Jensen US chip curbs threaten Southeast Asia's AI boom",
-      "summary": "New US chip restrictions following recent events involving Nvidia's CEO could constrain Southeast Asia's ability to deploy high-performance AI infrastructure, undermining the region's emerging position as an alternative compute hub.",
-      "why_it_matters": "Southeast Asian governments and data center operators that have marketed their markets as AI-friendly alternatives to China now face a credibility test; if US curbs block the chips that drew investment, the region's billion-dollar data center pipelines may need to pivot toward less sensitive workloads or risk stranded capacity.",
-      "score": 90,
-      "heat": 1,
-      "regions": [
-        "southeast-asia",
-        "global"
-      ],
-      "topics": [
-        "chips",
-        "regulation",
-        "ai",
-        "investment"
-      ],
-      "published_at": "2026-11-13T07:45:05Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825641",
-          "type": "html-list"
-        }
-      ],
-      "title_zh": "Jensen离职后美国芯片限制威胁东南亚AI繁荣",
-      "summary_zh": "涉及Nvidia CEO的最新事件之后，美国新的chip restrictions可能限制东南亚部署high-performance AI infrastructure的能力，削弱该地区作为替代计算中心的崛起地位。",
-      "why_zh": "一直将本国市场宣传为中国之外的AI友好替代选择的东南亚政府和data center运营商现在面临可信度考验；如果美国限制封锁了吸引投资的chips，该地区数十亿美元的data center项目可能需要转向敏感度较低的工作负载，否则面临stranded capacity的风险。",
-      "content": "(Nov 13): Southeast Asia risks facing tighter US regulations on the export and use of high-powered chips, threatening to stall the region’s AI-fuelled economic boom.\n\nThe fallout from Nvidia Corp chief Jensen Huang’s affair with an alleged Chinese spy working at a firm with ties to Singapore and Malaysia has increased scrutiny of the shipment and use of US-restricted chips in Southeast Asia.\n\nSome in the Trump administration fear that places such as Singapore, Malaysia and Thailand have been weak points in global efforts to keep the most advanced tech from China — either as transit points for the diversion of the chips or as hosts to data centres with restricted chips that are used remotely by Chinese firms.\n\nWhile Huang’s exit removes one of the most high-profile proponents against stringent restrictions in Washington, the scale of the expected tightening is still unclear.\n\nLegislation that may pass by the end of the year could include firmer restrictions on the sale of high-end chips to foreign countries. As well, the US Commerce Department is looking at imposing new export rules and licensing requirements to Malaysia, Thailand, Indonesia and Singapore, according to the *Wall Street Journal*.\n\nGovernments are already seeking to assuage the security concerns. Singapore charged a fifth person on Friday in relation to an AI server fraud case, while Malaysia is investigating whether AI chips brought into the country have been subsequently shipped overseas.\n\n“This would put a dampener on the demand for AI compute in existing and future data centres in Southeast Asia,” said Malaysia’s former deputy trade minister Ong Kian Ming, adding that new laws further restricting access and use would be hard to mitigate and manage for governments in the region.\n\n“Malaysia would take the brunt of the likely drop in demand but this may also have spillover effects to Thailand and Indonesia,” he said. “Singapore also may not be spared if this limits the ability of some of the AI players” registered in the city-state.\n\nData centres have emerged as an unexpected growth driver for Southeast Asia this year, alongside the boost from semiconductor and related AI exports, offsetting the drag from higher oil prices and interest rates.\n\nChinese demand for computing capacity in Southeast Asia could be reduced, introducing greater risk to the data centre investment pipeline, according to Brian Lee, an analyst for Maybank Securities Pte Ltd.\n\nMalaysia and Thailand have been hotspots for data centre investments, while Indonesia’s data centre market is in earlier stages of development, Lee said.\n\n“Data centre investment demand is nonetheless also driven by domestic cloud demand, digital services and the broader digital economy, which may not require the advanced Blackwell class Nvidia GPUs under proposed export controls,” he added.\n\nThai Prime Minister Anutin Charnvirakul was likewise sanguine, saying Friday that US and Chinese firms alike have reaffirmed their commitment to invest in the country. Senior Indonesian minister Airlangga Hartarto said his country has been in talks with Washington about a US-led effort to secure global AI and semiconductor supply chains.\n\nSoutheast Asia’s appeal is hinged on its attractive power, land and regulatory environment for hyperscalers, according to a September report by Goldman Sachs Group Inc.\n\n“Another driver is export-control arbitrage, as Chinese players can use Asean as a platform for deploying US chips in model training for non-China markets,” it said.\n\nIt’s unclear exactly how much of Southeast Asia’s computing resources have been tapped by Chinese firms, as buyers of Nvidia chips have been reluctant to disclose the identities of their clients. But within the industry the demand is seen as a major driver of the region’s data centre boom.\n\nGoldman forecasts Southeast Asia’s data centre capacity would grow fourfold in the next five years, with the Malaysian state of Johor to be the largest hub in Asean by 2030. It estimates Malaysia should see an average growth boost of 30 basis points from 2026 to 2028, while Thailand gets an additional 20 basis points.\n\nCameron Systermans, who heads Asia multi-asset for consultancy Marsh, said the region may see “more selectivity, rather than a broad retreat” in light of the Nvidia fallout.\n\nThe fundamental drivers of the region’s data centre build out remain strong, as AI adoption and cloud use expand rapidly, he said. Southeast Asia is a strategic location for investors seeking to diversify supply chains and build digital capacity closer to fast-growing markets.\n\n“The most attractive markets and projects will be those that can combine growth potential with reliable infrastructure, transparent investment structures, and a stable regulatory environment,” he said. “Capital will become more discerning.”\n\n*Uploaded by Chng Shear Lane*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/825641"
-    },
-    {
-      "id": "2026-11-13-afd32f",
-      "title": "Japan's megabanks raise annual earnings forecasts, flag data centre slowdown risk",
-      "summary": "Japan's two largest banking groups, SMFG and Mizuho, reported stronger annual profits but cautioned that AI data center investment momentum may decelerate, marking a rare bearish signal from major financial institutions on digital infrastructure.",
-      "why_it_matters": "If Japanese megabanks—major lenders to regional data center development—are pulling back on AI infrastructure optimism, project financing could tighten across Asia-Pacific just as massive capital commitments are needed for upcoming builds, potentially elevating equity requirements and slowing deployment timelines for colocation and hyperscale projects.",
-      "score": 80,
-      "heat": 1,
-      "regions": [
-        "japan"
-      ],
-      "topics": [
-        "ai",
-        "investment",
-        "data-centre",
-        "banking"
-      ],
-      "published_at": "2026-11-13T06:52:19Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825630",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Sumitomo Mitsui Financial Group",
-        "Mizuho Financial Group"
-      ],
-      "title_zh": "日本大型银行上调全年盈利预测，但警示数据中心放缓风险",
-      "summary_zh": "日本两大银行集团SMFG和Mizuho报告了更强的年度利润，但警告AI data center投资势头可能放缓，这是主要金融机构对digital infrastructure罕见的看空信号。",
-      "why_zh": "如果日本megabanks——区域data center开发的主要贷款方——正在收回对AI基础设施的乐观态度，项目融资可能在亚太收紧，而即将到来的建设恰恰需要大量资本承诺，这可能提高股权要求并减缓colocation和hyperscale项目的部署时间线。",
-      "content": "TOKYO (Nov 13): Sumitomo Mitsui Financial Group and Mizuho Financial Group on Friday raised their profit forecasts for the financial year but flagged the prospect of a slowdown in investment into AI data centres.\n\nSMFG boosted its annual earnings forecast to ¥1.9 trillion from ¥1.7 trillion and expanded its share buyback programme as corporate lending demand from local firms remained strong and higher domestic interest rates increased lending margins.\n\nNet profit over the July to September quarter was ¥501.8 billion (US$3.14 billion or RM12.8 billion), down 10% from a year earlier, when it registered a gain of ¥94 billion on the sale of its stake in India's Kotak Mahindra Bank.\n\nMizuho also raised its annual profit forecast to ¥1.6 trillion from ¥1.4 trillion and doubled the size of its share buyback programme this financial year to ¥400 billion. The company generated ¥473.6 billion in net profit over the July to September period, 19% higher than the year before.\n\nA slowdown in data centre investment could hit the Japanese and global economies and impact SMFG's results over the next six months, chief executive officer Toru Nakashima said at a press briefing.\n\n\"This year we have adopted stricter standards on extending credit for data centre financing, for instance restricting ourselves to just hyperscalers with high credit standing,\" Nakashima said.\n\nMizuho CEO Masahiro Kihara flagged greater restrictions on data centre construction in the US as a tail risk as the results of the midterm elections last week brought sweeping wins for the Democratic Party, which could slow projects and so bring about higher development costs.\n\nFears of overheating in global data centre investment and rising political opposition have led to a sharp decline in technology stocks in recent weeks as investors reassess their exposure to the vast sums flowing into AI infrastructure.\n\nThe resignation of the chief executive of Nvidia, Jensen Huang, over extramarital affairs has sparked concern over the chipmaker's continued ability to spearhead data centre projects as it both supplies chips and finances the infrastructure built around them.\n\n\"The impact of Huang stepping down is difficult to see at present and whether it leads to a slowdown in data centre investment will depend on the new management,\" SMFG's Nakashima said.\n\n\"Personally, I don't think their stance will change that significantly,\" he added.\n\nSMFG increased its share buyback programme by ¥220 billion, bringing the total shares to be bought up to ¥400 billion for the financial year that ends in March 2027.\n\n*Uploaded by Magessan Varatharaja*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/825630"
-    },
-    {
-      "id": "2026-11-13-d36fa5",
-      "title": "PM: No indication AI chips were exported from Malaysia in Nvidia-Megaspeed case",
-      "summary": "Malaysian Prime Minister Anwar Ibrahim stated there is no evidence that AI chips connected to the Nvidia-Megaspeed controversy were exported from Malaysia, distancing his country from potential sanctions violations.",
-      "why_it_matters": "The Prime Minister's intervention reflects acute Malaysian government sensitivity to being labeled a sanctions evasion hub, which could jeopardize its burgeoning data center industry; this political pressure increases compliance scrutiny on operators and may accelerate regulatory frameworks to demonstrate transparent chip handling.",
-      "score": 75,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "chips",
-        "regulation",
-        "ai",
-        "supply-chain"
-      ],
-      "published_at": "2026-11-13T06:43:57Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825629",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "NVIDIA",
-        "Megaspeed"
-      ],
-      "title_zh": "总理：Nvidia-Megaspeed案中无迹象表明AI芯片从马来西亚出口",
-      "summary_zh": "马来西亚总理Anwar Ibrahim表示，没有证据表明与Nvidia-Megaspeed争议相关的AI chips是从马来西亚出口的，使其国家与潜在的制裁违规行为保持距离。",
-      "why_zh": "总理的干预反映出马来西亚政府对被贴上制裁规避中心标签的极度敏感，这可能危及其蓬勃发展的data center产业；这种政治压力增加了对运营商的合规审查，并可能加速监管框架建设以展示透明的芯片处理流程。",
-      "content": "KUALA LUMPUR (Nov 13): There has been no indication that artificial intelligence chips linked to the Nvidia-Megaspeed issue were exported from Malaysia, said Prime Minister Datuk Seri Anwar Ibrahim.\n\n“There has not been any indication of that (so far),” he told reporters on Friday when asked whether there was evidence that the chips had been exported from the country.\n\nAnwar also said the Minister of Investment, Trade and Industry (Miti) had given a report on the matter on Friday morning.\n\n“We will cooperate with all the agencies involved,” he said when met after he had performed Friday prayers at Madrasathul Gouthiyyah at Brickfields.\n\nTo a question on whether Malaysia had received a formal request from Singapore or the United States regarding any probe on the Nvidia-Megaspeed issue, Anwar said Malaysia has not received any formal request from Singapore or the United States regarding the issue.\n\n“Right now, we have not received any such request. But we will, of course, collaborate.\n\n“Ours is a trading nation. We welcome investments. We want to make sure the rules are being followed,” he said.\n\nIn a statement earlier on Friday, Miti said it had never cleared Singapore-based Megaspeed International Pte Ltd or its Malaysian affiliate, Speedmatrix Sdn Bhd.\n\nMiti said Speedmatrix is a tenant at data centres in Malaysia and brings its own servers and AI chips into the country for its operations.\n\nThe ministry said it was working with the Royal Malaysian Customs Department to determine whether any of those chips had been re-exported to other countries and, if so, whether the re-exports complied with Malaysian laws.\n\nMiti said no permit or licence is currently required to bring AI chips into Malaysia.\n\nHowever, since July 2025, anyone seeking to export, re-export, transship or transit high-performance US AI chips from or through Malaysia must first obtain a permit from Miti under the Strategic Trade Act 2010, the ministry said.\n\nIt said giving false information to Customs about such goods is also a serious offence under the Customs Act 1967.\n\nMiti said Malaysia would carry out its own checks independently, in accordance with Malaysian laws based on the available evidence.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/825629"
-    },
     {
       "id": "2026-11-13-b2d297",
       "title": "TSMC seeks to back next chip titan with new investment arm",
@@ -238,7 +108,8 @@
       "summary_zh": "泰国工业开发商WHA正在设计energy-efficient data center parks，以应对政府对digital infrastructure电力使用和环保标准的更严格监管。",
       "why_zh": "开发商的主动efficiency投资表明泰国data center监管框架正在收紧，这将提高投机项目的准入门槛，同时奖励拥有可持续设计的成熟企业，可能在法规生效前就加速市场整合。",
       "content": "BANGKOK -- Thailand's largest developer of industrial estates, WHA, envisions building data center parks that use electricity and water efficiently as the government moves to introduce new environmental standards for such projects.\n\nCompanies\n# Thai developer WHA plans efficient data center parks ahead of new rules\n\nGroup aims for reliable power, water supplies as government raises hurdles\n\nA WHA industrial park in Thailand. (Photo obtained by Nikkei)",
-      "content_url": "https://asia.nikkei.com/business/companies/thai-developer-wha-plans-efficient-data-center-parks-ahead-of-new-rules"
+      "content_url": "https://asia.nikkei.com/business/companies/thai-developer-wha-plans-efficient-data-center-parks-ahead-of-new-rules",
+      "published_precision": "day"
     },
     {
       "id": "2026-11-13-7708c8",
@@ -373,6 +244,144 @@
       "content_url": "https://www.datacenterdynamics.com/en/product-news/huawei-digital-power-launches-four-innovative-solutions-in-dubai-to-power-the-next-generation-of-data-centers/"
     },
     {
+      "id": "2026-11-13-97f336",
+      "title": "KLCI may end the week at fresh 14-month low",
+      "summary": "Malaysia’s benchmark stocks may end Friday at a fresh 14-month low as investors continued to trim investments related to data centres.",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "market",
+        "data-centre"
+      ],
+      "published_at": "2026-11-13T07:51:05Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825645",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "KLCI本周或收于14个月新低",
+      "content": "KUALA LUMPUR (Nov 13): Malaysia’s benchmark stocks may end Friday at a fresh 14-month low as investors continued to trim investments related to data centres.\n\nThe 30-stock FBM KLCI dropped as much as 4.6 points or 0.3% to 1,581.35, its lowest since September 2025. National electric utility firm Tenaga Nasional Bhd (KL:TENAGA) fell 1.6% to RM12.60 while construction firm Gamuda Bhd (KL:GAMUDA) was down over 2% to RM4.58.\n\nAfter five consecutive sessions of decline, the benchmark index is also set to end Friday with over 2% weekly loss. Correction in artificial intelligence trades and uncertainty surrounding Nvidia’s leadership could trigger further selling pressure in the near term.\n\nAnalysts, however, see opportunities for bargain hunting.\n\n“We believe the market has entered oversold territory, potentially setting the stage for a technical rebound in the coming weeks,” Malacca Securities Sdn Bhd head of research Loui Low Ley Yee told *The Edge*.\n\nDecember is historically a good month for the FBM KLCI, with a success rate of over 90% over the past 25 years, suggesting a potential upside of 2% to 3% towards year-end, he said.\n\nJensen Huang has stepped down as chief executive of Nvidia following news reports of his extramarital affairs while shares of the US chip giant continued to fall.\n\nNvidia is also reeling from revelation over the weekend about Huang’s affair with a suspected Chinese spy accused of helping entities circumvent American restrictions on imports of high-performance chips to China.\n\nEdited ByJason Ng\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/825645",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-11-13-561961",
+      "title": "Post-Jensen US chip curbs threaten Southeast Asia's AI boom",
+      "summary": "New US chip restrictions following recent events involving Nvidia's CEO could constrain Southeast Asia's ability to deploy high-performance AI infrastructure, undermining the region's emerging position as an alternative compute hub.",
+      "why_it_matters": "Southeast Asian governments and data center operators that have marketed their markets as AI-friendly alternatives to China now face a credibility test; if US curbs block the chips that drew investment, the region's billion-dollar data center pipelines may need to pivot toward less sensitive workloads or risk stranded capacity.",
+      "score": 90,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "regulation",
+        "ai",
+        "investment"
+      ],
+      "published_at": "2026-11-13T07:45:05Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825641",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "Jensen离职后美国芯片限制威胁东南亚AI繁荣",
+      "summary_zh": "涉及Nvidia CEO的最新事件之后，美国新的chip restrictions可能限制东南亚部署high-performance AI infrastructure的能力，削弱该地区作为替代计算中心的崛起地位。",
+      "why_zh": "一直将本国市场宣传为中国之外的AI友好替代选择的东南亚政府和data center运营商现在面临可信度考验；如果美国限制封锁了吸引投资的chips，该地区数十亿美元的data center项目可能需要转向敏感度较低的工作负载，否则面临stranded capacity的风险。",
+      "content": "(Nov 13): Southeast Asia risks facing tighter US regulations on the export and use of high-powered chips, threatening to stall the region’s AI-fuelled economic boom.\n\nThe fallout from Nvidia Corp chief Jensen Huang’s affair with an alleged Chinese spy working at a firm with ties to Singapore and Malaysia has increased scrutiny of the shipment and use of US-restricted chips in Southeast Asia.\n\nSome in the Trump administration fear that places such as Singapore, Malaysia and Thailand have been weak points in global efforts to keep the most advanced tech from China — either as transit points for the diversion of the chips or as hosts to data centres with restricted chips that are used remotely by Chinese firms.\n\nWhile Huang’s exit removes one of the most high-profile proponents against stringent restrictions in Washington, the scale of the expected tightening is still unclear.\n\nLegislation that may pass by the end of the year could include firmer restrictions on the sale of high-end chips to foreign countries. As well, the US Commerce Department is looking at imposing new export rules and licensing requirements to Malaysia, Thailand, Indonesia and Singapore, according to the *Wall Street Journal*.\n\nGovernments are already seeking to assuage the security concerns. Singapore charged a fifth person on Friday in relation to an AI server fraud case, while Malaysia is investigating whether AI chips brought into the country have been subsequently shipped overseas.\n\n“This would put a dampener on the demand for AI compute in existing and future data centres in Southeast Asia,” said Malaysia’s former deputy trade minister Ong Kian Ming, adding that new laws further restricting access and use would be hard to mitigate and manage for governments in the region.\n\n“Malaysia would take the brunt of the likely drop in demand but this may also have spillover effects to Thailand and Indonesia,” he said. “Singapore also may not be spared if this limits the ability of some of the AI players” registered in the city-state.\n\nData centres have emerged as an unexpected growth driver for Southeast Asia this year, alongside the boost from semiconductor and related AI exports, offsetting the drag from higher oil prices and interest rates.\n\nChinese demand for computing capacity in Southeast Asia could be reduced, introducing greater risk to the data centre investment pipeline, according to Brian Lee, an analyst for Maybank Securities Pte Ltd.\n\nMalaysia and Thailand have been hotspots for data centre investments, while Indonesia’s data centre market is in earlier stages of development, Lee said.\n\n“Data centre investment demand is nonetheless also driven by domestic cloud demand, digital services and the broader digital economy, which may not require the advanced Blackwell class Nvidia GPUs under proposed export controls,” he added.\n\nThai Prime Minister Anutin Charnvirakul was likewise sanguine, saying Friday that US and Chinese firms alike have reaffirmed their commitment to invest in the country. Senior Indonesian minister Airlangga Hartarto said his country has been in talks with Washington about a US-led effort to secure global AI and semiconductor supply chains.\n\nSoutheast Asia’s appeal is hinged on its attractive power, land and regulatory environment for hyperscalers, according to a September report by Goldman Sachs Group Inc.\n\n“Another driver is export-control arbitrage, as Chinese players can use Asean as a platform for deploying US chips in model training for non-China markets,” it said.\n\nIt’s unclear exactly how much of Southeast Asia’s computing resources have been tapped by Chinese firms, as buyers of Nvidia chips have been reluctant to disclose the identities of their clients. But within the industry the demand is seen as a major driver of the region’s data centre boom.\n\nGoldman forecasts Southeast Asia’s data centre capacity would grow fourfold in the next five years, with the Malaysian state of Johor to be the largest hub in Asean by 2030. It estimates Malaysia should see an average growth boost of 30 basis points from 2026 to 2028, while Thailand gets an additional 20 basis points.\n\nCameron Systermans, who heads Asia multi-asset for consultancy Marsh, said the region may see “more selectivity, rather than a broad retreat” in light of the Nvidia fallout.\n\nThe fundamental drivers of the region’s data centre build out remain strong, as AI adoption and cloud use expand rapidly, he said. Southeast Asia is a strategic location for investors seeking to diversify supply chains and build digital capacity closer to fast-growing markets.\n\n“The most attractive markets and projects will be those that can combine growth potential with reliable infrastructure, transparent investment structures, and a stable regulatory environment,” he said. “Capital will become more discerning.”\n\n*Uploaded by Chng Shear Lane*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/825641",
+      "published_precision": "day"
+    },
+    {
+      "id": "2026-11-13-afd32f",
+      "title": "Japan's megabanks raise annual earnings forecasts, flag data centre slowdown risk",
+      "summary": "Japan's two largest banking groups, SMFG and Mizuho, reported stronger annual profits but cautioned that AI data center investment momentum may decelerate, marking a rare bearish signal from major financial institutions on digital infrastructure.",
+      "why_it_matters": "If Japanese megabanks—major lenders to regional data center development—are pulling back on AI infrastructure optimism, project financing could tighten across Asia-Pacific just as massive capital commitments are needed for upcoming builds, potentially elevating equity requirements and slowing deployment timelines for colocation and hyperscale projects.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "japan"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "data-centre",
+        "banking"
+      ],
+      "published_at": "2026-11-13T06:52:19Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825630",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Sumitomo Mitsui Financial Group",
+        "Mizuho Financial Group"
+      ],
+      "title_zh": "日本大型银行上调全年盈利预测，但警示数据中心放缓风险",
+      "summary_zh": "日本两大银行集团SMFG和Mizuho报告了更强的年度利润，但警告AI data center投资势头可能放缓，这是主要金融机构对digital infrastructure罕见的看空信号。",
+      "why_zh": "如果日本megabanks——区域data center开发的主要贷款方——正在收回对AI基础设施的乐观态度，项目融资可能在亚太收紧，而即将到来的建设恰恰需要大量资本承诺，这可能提高股权要求并减缓colocation和hyperscale项目的部署时间线。",
+      "content": "TOKYO (Nov 13): Sumitomo Mitsui Financial Group and Mizuho Financial Group on Friday raised their profit forecasts for the financial year but flagged the prospect of a slowdown in investment into AI data centres.\n\nSMFG boosted its annual earnings forecast to ¥1.9 trillion from ¥1.7 trillion and expanded its share buyback programme as corporate lending demand from local firms remained strong and higher domestic interest rates increased lending margins.\n\nNet profit over the July to September quarter was ¥501.8 billion (US$3.14 billion or RM12.8 billion), down 10% from a year earlier, when it registered a gain of ¥94 billion on the sale of its stake in India's Kotak Mahindra Bank.\n\nMizuho also raised its annual profit forecast to ¥1.6 trillion from ¥1.4 trillion and doubled the size of its share buyback programme this financial year to ¥400 billion. The company generated ¥473.6 billion in net profit over the July to September period, 19% higher than the year before.\n\nA slowdown in data centre investment could hit the Japanese and global economies and impact SMFG's results over the next six months, chief executive officer Toru Nakashima said at a press briefing.\n\n\"This year we have adopted stricter standards on extending credit for data centre financing, for instance restricting ourselves to just hyperscalers with high credit standing,\" Nakashima said.\n\nMizuho CEO Masahiro Kihara flagged greater restrictions on data centre construction in the US as a tail risk as the results of the midterm elections last week brought sweeping wins for the Democratic Party, which could slow projects and so bring about higher development costs.\n\nFears of overheating in global data centre investment and rising political opposition have led to a sharp decline in technology stocks in recent weeks as investors reassess their exposure to the vast sums flowing into AI infrastructure.\n\nThe resignation of the chief executive of Nvidia, Jensen Huang, over extramarital affairs has sparked concern over the chipmaker's continued ability to spearhead data centre projects as it both supplies chips and finances the infrastructure built around them.\n\n\"The impact of Huang stepping down is difficult to see at present and whether it leads to a slowdown in data centre investment will depend on the new management,\" SMFG's Nakashima said.\n\n\"Personally, I don't think their stance will change that significantly,\" he added.\n\nSMFG increased its share buyback programme by ¥220 billion, bringing the total shares to be bought up to ¥400 billion for the financial year that ends in March 2027.\n\n*Uploaded by Magessan Varatharaja*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/825630"
+    },
+    {
+      "id": "2026-11-13-d36fa5",
+      "title": "PM: No indication AI chips were exported from Malaysia in Nvidia-Megaspeed case",
+      "summary": "Malaysian Prime Minister Anwar Ibrahim stated there is no evidence that AI chips connected to the Nvidia-Megaspeed controversy were exported from Malaysia, distancing his country from potential sanctions violations.",
+      "why_it_matters": "The Prime Minister's intervention reflects acute Malaysian government sensitivity to being labeled a sanctions evasion hub, which could jeopardize its burgeoning data center industry; this political pressure increases compliance scrutiny on operators and may accelerate regulatory frameworks to demonstrate transparent chip handling.",
+      "score": 75,
+      "heat": 2,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "chips",
+        "regulation",
+        "ai",
+        "supply-chain"
+      ],
+      "published_at": "2026-11-13T06:43:57Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825629",
+          "type": "html-list"
+        },
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/asean/malaysia-denies-clearing-megaspeed-checks-illegal-chip-re-exports",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA",
+        "Megaspeed",
+        "Speedmatrix"
+      ],
+      "title_zh": "总理：Nvidia-Megaspeed案中无迹象表明AI芯片从马来西亚出口",
+      "summary_zh": "马来西亚总理Anwar Ibrahim表示，没有证据表明与Nvidia-Megaspeed争议相关的AI chips是从马来西亚出口的，使其国家与潜在的制裁违规行为保持距离。",
+      "why_zh": "总理的干预反映出马来西亚政府对被贴上制裁规避中心标签的极度敏感，这可能危及其蓬勃发展的data center产业；这种政治压力增加了对运营商的合规审查，并可能加速监管框架建设以展示透明的芯片处理流程。",
+      "content": "KUALA LUMPUR (Nov 13): There has been no indication that artificial intelligence chips linked to the Nvidia-Megaspeed issue were exported from Malaysia, said Prime Minister Datuk Seri Anwar Ibrahim.\n\n“There has not been any indication of that (so far),” he told reporters on Friday when asked whether there was evidence that the chips had been exported from the country.\n\nAnwar also said the Minister of Investment, Trade and Industry (Miti) had given a report on the matter on Friday morning.\n\n“We will cooperate with all the agencies involved,” he said when met after he had performed Friday prayers at Madrasathul Gouthiyyah at Brickfields.\n\nTo a question on whether Malaysia had received a formal request from Singapore or the United States regarding any probe on the Nvidia-Megaspeed issue, Anwar said Malaysia has not received any formal request from Singapore or the United States regarding the issue.\n\n“Right now, we have not received any such request. But we will, of course, collaborate.\n\n“Ours is a trading nation. We welcome investments. We want to make sure the rules are being followed,” he said.\n\nIn a statement earlier on Friday, Miti said it had never cleared Singapore-based Megaspeed International Pte Ltd or its Malaysian affiliate, Speedmatrix Sdn Bhd.\n\nMiti said Speedmatrix is a tenant at data centres in Malaysia and brings its own servers and AI chips into the country for its operations.\n\nThe ministry said it was working with the Royal Malaysian Customs Department to determine whether any of those chips had been re-exported to other countries and, if so, whether the re-exports complied with Malaysian laws.\n\nMiti said no permit or licence is currently required to bring AI chips into Malaysia.\n\nHowever, since July 2025, anyone seeking to export, re-export, transship or transit high-performance US AI chips from or through Malaysia must first obtain a permit from Miti under the Strategic Trade Act 2010, the ministry said.\n\nIt said giving false information to Customs about such goods is also a serious offence under the Customs Act 1967.\n\nMiti said Malaysia would carry out its own checks independently, in accordance with Malaysian laws based on the available evidence.\n\n*Uploaded by Liza Shireen Koshy*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/825629"
+    },
+    {
       "id": "2026-11-13-65e533",
       "title": "Australia data centre capacity to nearly double by 2030",
       "summary": "Australia's data center market is projected to expand by 2.3GW through 2030, effectively doubling national capacity, though Melbourne is capturing more development momentum as Sydney faces delays tied to power availability and planning approvals.",
@@ -409,7 +418,7 @@
       "summary": "The potential deal will help the firm diversify, as it is too reliant on its memory business, notes analyst",
       "why_it_matters": "",
       "score": 70,
-      "heat": 2,
+      "heat": 3,
       "regions": [
         "korea",
         "global"
@@ -432,11 +441,17 @@
           "name": "The Edge Malaysia — data centre search",
           "url": "https://theedgemalaysia.com/node/825597",
           "type": "html-list"
+        },
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/samsung-in-talks-to-acquire-data-center-cooling-company-modine-manufacturing-report/",
+          "type": "rss"
         }
       ],
       "companies": [
         "Samsung",
-        "Modine"
+        "Modine",
+        "Modine Manufacturing"
       ],
       "title_zh": "Samsung洽谈收购数据中心冷却公司Modine",
       "content": "The potential deal will help the firm diversify, as it is too reliant on its memory business, notes analyst\n\n\\[NEW YORK\\] Samsung Electronics is in talks to acquire Modine Manufacturing, a maker of cooling systems for data centres, according to people familiar with the matter.\n\nThe companies are discussing a potential transaction that could come together as soon as the coming weeks, the people said, asking not to be identified because the information is private.\n\nNo final decision has been made and the talks could still fall apart, the people said. Another suitor could also emerge, they added.\n\nRepresentatives for Samsung and Modine declined to comment.\n\nModine’s shares closed regular trading on Thursday (Nov 12) in New York at US$106.10, giving the company a market value of about US$5.6 billion. The stock soared to more than US$135 in late trading, a gain of 28 per cent.\n\nThe company’s shares had fallen about 15 per cent since Nov 3, when it reported quarterly results that underwhelmed investors.\n\nSamsung rose as much as 3.9 per cent in Seoul on Friday, before paring gains. The stock has surged 72 per cent in 2026 so far, giving the company a market value of about US$910 billion.\n\n“An acquisition of Modine would help Samsung diversify into other areas, given the group is too dependent on its memory business,” Bloomberg Intelligence analyst Masahiro Wakasugi said.\n\n“While it can generate a lot of cash from chips, it might need to find other growth businesses such as data centre-related assets.”\n\nThe discussions underscore how mergers and acquisitions is picking up around companies that cater to the booming artificial intelligence market.\n\nUS companies and their overseas rivals have stepped up efforts to capture the growth opportunity coming from data centres through bigger investments and dealmaking.\n\nAmong them are Samsung’s Asian rivals Daikin Industries and LG Electronics, as well as US-based Vertiv.\n\nBased in Racine, Wisconsin, Modine makes heavy duty cooling and heating systems for large commercial buildings and industrial machines, with its fastest-growing business serving hyperscalers that build data centres.\n\nIn October, the company spun off its automotive business to focus on its thermal-management operations.\n\n“Modine recently became a pure-play thermal management business and has huge upside to data centre cooling solutions, with the unit growing 86 per cent annually for the past three fiscal years,” Bloomberg Intelligence analyst Christina Feehery said.\n\n“Still, it’s seen as a small peer relative to the larger HVAC OEM market, making it an attractive target for vertical integration in AI infrastructure.”\n\nSamsung is one of the largest technology and electronics companies in the world. The Suwon, South Korea-based company’s products include smartphones, televisions, home appliances, thermal solutions and computer memory chips.\n\nWhile a Modine takeover would be bolder in magnitude, Samsung has been bolstering its thermal solutions offering to data centres through international acquisitions. It purchased Germany-based FläktGroup for 1.5 billion euros (US$1.7 billion) in 2025. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
@@ -597,6 +612,52 @@
       "content_url": "https://datacenternews.asia/story/data-center-world-brings-new-opportunities-for-nidec"
     },
     {
+      "id": "2026-11-13-cfdfd0",
+      "title": "Global AI stocks sink as Nvidia CEO's exit deepens sector sell-off",
+      "summary": "Global AI-linked stocks fell on Thursday after Nvidia CEO Jensen Huang resigned following a deepening scandal around his affairs, upending the chipmaker's leadership and posing fresh risks to a sector already reeling with funding and regulatory concerns.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 3,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "leadership",
+        "supply-chain"
+      ],
+      "published_at": "2026-11-12T14:30:48Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/global/global-ai-stocks-sink-nvidia-ceo-jensen-huangs-exit-deepens-sector-sell",
+          "type": "rss"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825554",
+          "type": "html-list"
+        },
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/microsoft-outage-wreaks-havoc-in-asia-exposing-dependence-risk",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Nvidia",
+        "Microsoft",
+        "NVIDIA",
+        "CoreWeave",
+        "Nebius"
+      ],
+      "title_zh": "Nvidia CEO离职加剧行业抛售，全球AI股票下跌",
+      "content": "Neoclouds CoreWeave, Nebius and some chip stocks fall\n\n\\[BENGALURU/SYDNEY\\] Global artificial intelligence-linked stocks fell on Thursday (Nov 12) after Nvidia CEO Jensen Huang resigned following a deepening scandal around his affairs, upending the chipmaker’s leadership and posing fresh risks to a sector already reeling with funding and regulatory concerns.\n\nChief financial officer Colette Kress will take over as interim CEO as Nvidia looks for a permanent successor, the company said.\n\nAs the centrepiece of the AI ecosystem, the chipmaker finances infrastructure built around its chips – a strategy that has drawn scrutiny over circular funding and now risks weighing on the sector as its crisis deepens.\n\nAI stocks have struggled after the Democrats swept the midterm elections, including in states opposed to new data centres, stoking fears that tighter regulation could slow the AI infrastructure build-out.\n\nNvidia’s shares fell 8.2 per cent to a more than 16-month low in early trading and its market value was on track to close below US$4 trillion for the first time since July 2025.\n\nNvidia-backed neocloud firm CoreWeave dropped 9.1 per cent after surging more than 27 per cent in the previous session when its earnings ignited a relief rally in AI stocks.\n\nOther neocloud stocks including IREN and Applied Digital were also trading lower. Nebius dropped 16.2 per cent after the company said its 2026 revenue would come in at the low end of its previous forecast.\n\nNvidia has lost more than US$550 billion in market value since the board announced an investigation on Sunday into Huang’s relationship with a businesswoman Alice Huang, who is alleged to be a Chinese spy.\n\n“He’s the face of Nvidia and Nvidia has been front and centre of the AI build-out,” said Jun Bei Liu, lead portfolio manager at Ten Cap.\n\n“And if we look at how many new cloud data centre businesses have been sponsored in this circular financing world, it’s pretty much all by Nvidia. And so it has quite a meaningful ramification for what is to come.”\n\nNvidia short sellers have made US$9.6 billion in on paper profits so far this week, according to data analytics firm Ortex.\n\nChipmakers, widely viewed as one of the biggest beneficiaries of the AI boom, led the sell-off, with the Philadelphia chips index sliding 1.3 per cent.\n\nMarvell Technology, which Huang called the “next trillion dollar company” in June, slumped 3.8 per cent. AI hyperscaler Oracle, which is expanding its cloud AI chip deals with Nvidia, shed 2.6 per cent.\n\nMemory chipmaker Micron Technology fell 2.5 per cent; data storage firms Sandisk and Western Digital eased 6 and 3.7 per cent, respectively. Photonic product makers Lumentum and Coherent and AI server maker Dell eased between 3 and 5.1 per cent.\n\nConstruction and power-generation equipment maker Caterpillar and power producer Vistra slipped about 0.5 per cent each.\n\nShares of AMD and Broadcom, which also produce AI chips and compete with Nvidia, however, rose 3.7 and 5.6 per cent, respectively, on expectations that the turmoil at Nvidia could create opportunity for rivals.\n\nOther hyperscalers including Alphabet, Amazon and Microsoft were also up between 0.8 and 2.7 per cent.\n\nAI stocks struggled and the Nasdaq entered a technical correction earlier this month after the Democrats swept the midterm elections, including in states opposed to data centres, stoking fears tighter regulation could slow the AI build-out.\n\nTech-heavy stock markets across the globe witnessed jitters. Japan and South Korea closed nearly 0.7 per cent lower. Tech stocks in Europe were also down about 1 per cent.\n\nNvidia trades at about 12 times its 12-month forward earnings estimates, its lowest since November 2012, according to data compiled by LSEG. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/international/global/global-ai-stocks-sink-nvidia-ceo-jensen-huangs-exit-deepens-sector-sell"
+    },
+    {
       "id": "2026-11-13-5ff51e",
       "title": "US to restrict Chinese remote access to AI chips from Southeast Asian data centers: Report",
       "summary": "The US reportedly plans to bar data centers in Malaysia, Singapore, Thailand, Indonesia, Brazil, Norway, and South Africa from letting Chinese AI companies remotely access advanced AI chips, expanding export control enforcement beyond physical shipments to cloud-based compute access.",
@@ -675,107 +736,6 @@
       "content_url": "https://www.datacenterdynamics.com/en/news/cdc-files-to-develop-14gw-data-center-campus-in-kemps-creek-australia/"
     },
     {
-      "id": "2026-11-13-cfdfd0",
-      "title": "Global AI stocks sink as Nvidia CEO's exit deepens sector sell-off",
-      "summary": "Global AI-linked stocks fell on Thursday after Nvidia CEO Jensen Huang resigned following a deepening scandal around his affairs, upending the chipmaker's leadership and posing fresh risks to a sector already reeling with funding and regulatory concerns.",
-      "why_it_matters": "",
-      "score": 60,
-      "heat": 2,
-      "regions": [
-        "global"
-      ],
-      "topics": [
-        "chips",
-        "ai",
-        "leadership",
-        "supply-chain"
-      ],
-      "published_at": "2026-11-12T14:30:48Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Business Times",
-          "url": "https://www.businesstimes.com.sg/international/global/global-ai-stocks-sink-nvidia-ceo-jensen-huangs-exit-deepens-sector-sell",
-          "type": "rss"
-        },
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825554",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Nvidia"
-      ],
-      "title_zh": "Nvidia CEO离职加剧行业抛售，全球AI股票下跌",
-      "content": "Neoclouds CoreWeave, Nebius and some chip stocks fall\n\n\\[BENGALURU/SYDNEY\\] Global artificial intelligence-linked stocks fell on Thursday (Nov 12) after Nvidia CEO Jensen Huang resigned following a deepening scandal around his affairs, upending the chipmaker’s leadership and posing fresh risks to a sector already reeling with funding and regulatory concerns.\n\nChief financial officer Colette Kress will take over as interim CEO as Nvidia looks for a permanent successor, the company said.\n\nAs the centrepiece of the AI ecosystem, the chipmaker finances infrastructure built around its chips – a strategy that has drawn scrutiny over circular funding and now risks weighing on the sector as its crisis deepens.\n\nAI stocks have struggled after the Democrats swept the midterm elections, including in states opposed to new data centres, stoking fears that tighter regulation could slow the AI infrastructure build-out.\n\nNvidia’s shares fell 8.2 per cent to a more than 16-month low in early trading and its market value was on track to close below US$4 trillion for the first time since July 2025.\n\nNvidia-backed neocloud firm CoreWeave dropped 9.1 per cent after surging more than 27 per cent in the previous session when its earnings ignited a relief rally in AI stocks.\n\nOther neocloud stocks including IREN and Applied Digital were also trading lower. Nebius dropped 16.2 per cent after the company said its 2026 revenue would come in at the low end of its previous forecast.\n\nNvidia has lost more than US$550 billion in market value since the board announced an investigation on Sunday into Huang’s relationship with a businesswoman Alice Huang, who is alleged to be a Chinese spy.\n\n“He’s the face of Nvidia and Nvidia has been front and centre of the AI build-out,” said Jun Bei Liu, lead portfolio manager at Ten Cap.\n\n“And if we look at how many new cloud data centre businesses have been sponsored in this circular financing world, it’s pretty much all by Nvidia. And so it has quite a meaningful ramification for what is to come.”\n\nNvidia short sellers have made US$9.6 billion in on paper profits so far this week, according to data analytics firm Ortex.\n\nChipmakers, widely viewed as one of the biggest beneficiaries of the AI boom, led the sell-off, with the Philadelphia chips index sliding 1.3 per cent.\n\nMarvell Technology, which Huang called the “next trillion dollar company” in June, slumped 3.8 per cent. AI hyperscaler Oracle, which is expanding its cloud AI chip deals with Nvidia, shed 2.6 per cent.\n\nMemory chipmaker Micron Technology fell 2.5 per cent; data storage firms Sandisk and Western Digital eased 6 and 3.7 per cent, respectively. Photonic product makers Lumentum and Coherent and AI server maker Dell eased between 3 and 5.1 per cent.\n\nConstruction and power-generation equipment maker Caterpillar and power producer Vistra slipped about 0.5 per cent each.\n\nShares of AMD and Broadcom, which also produce AI chips and compete with Nvidia, however, rose 3.7 and 5.6 per cent, respectively, on expectations that the turmoil at Nvidia could create opportunity for rivals.\n\nOther hyperscalers including Alphabet, Amazon and Microsoft were also up between 0.8 and 2.7 per cent.\n\nAI stocks struggled and the Nasdaq entered a technical correction earlier this month after the Democrats swept the midterm elections, including in states opposed to data centres, stoking fears tighter regulation could slow the AI build-out.\n\nTech-heavy stock markets across the globe witnessed jitters. Japan and South Korea closed nearly 0.7 per cent lower. Tech stocks in Europe were also down about 1 per cent.\n\nNvidia trades at about 12 times its 12-month forward earnings estimates, its lowest since November 2012, according to data compiled by LSEG. BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
-      "content_url": "https://www.businesstimes.com.sg/international/global/global-ai-stocks-sink-nvidia-ceo-jensen-huangs-exit-deepens-sector-sell"
-    },
-    {
-      "id": "2026-11-13-3d0c19",
-      "title": "YTL Power resumes decline amid renewed Nvidia turmoil as data centre pick-and-shovel trade falls",
-      "summary": "Shares related to data centre investments in Malaysia fell on Thursday, led by YTL Power International Bhd (KL:YTLPOWR), amid reports of renewed turmoil at Nvidia.",
-      "why_it_matters": "",
-      "score": 65,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "data-center",
-        "investment",
-        "power",
-        "ai"
-      ],
-      "published_at": "2026-11-12T09:40:07Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825519",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "YTL Power International"
-      ],
-      "title_zh": "Nvidia动荡加剧，YTL Power恢复下跌，data centre pick-and-shovel trade受挫",
-      "content": "KUALA LUMPUR (Nov 12): Shares related to data centre investments in Malaysia fell on Thursday, led by YTL Power International Bhd (KL:YTLPOWR), amid reports of renewed turmoil at Nvidia.\n\nYTL Power alone lost over RM3 billion in market capitalisation as shares of the multi-utilities firm resumed their decline, dropping 39 sen or over 8% to RM4.40. Nearly 41 million shares changed hands, making YTL Power one of the most actively traded stocks on Bursa Malaysia.\n\nThe company, now valued at RM38 billion, is a data centre partner of Nvidia and operates a facility powering artificial intelligence in Johor equipped with some of the US chipmaker's latest chips.\n\nThe declines follow news reports of another extramarital affair of Nvidia chief executive Jensen Huang, this time with a company executive who reported to him. The *Wall Street Journal* reported that Nvidia was preparing to oust Huang as the American chip giant’s stock continued to fall.\n\nThe latest reports come even as Nvidia was reeling from revelation over the weekend about Huang’s affair with a suspected Chinese spy accused of helping entities circumvent American restrictions on imports of high-performance chips to China.\n\nYTL Corp Bhd (KL:YTL) extended its losses and declined 11 sen or 5.56% to settle at RM1.87, valuing the parent company of YTL Power at RM22.06 billion.\n\nNationGate Holdings Bhd (KL:NATGATE), a contract manufacturer for Nvidia, retreated 12 sen or 6.42% to RM1.75.\n\nReal estate firms developing data centres, such as Mah Sing Group Bhd (KL:MAHSING), Sime Darby Property Bhd (KL:SIMEPROP), Gamuda Bhd (KL:GAMUDA), Sunway Construction Group Bhd (KL:SUNCON) and IJM Corp Bhd (KL:IJM) were also caught in the selldown.\n\nMah Sing's share price dropped six sen or 6.63% to settle at 84.5 sen, Sime Darby Property slid one sen or 0.78% to RM1.27.\n\nGamuda's share price sank 22 sen or 4.49% to RM4.68, Sunway Construction Group declined by 28 sen or 3.35% to RM8.07 and IJM Corp Bhd (KL:IJM)'s shares price fell 10 sen or 3.83% to RM2.51.\n\nEdited ByJason Ng\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/825519"
-    },
-    {
-      "id": "2026-11-13-ef00eb",
-      "title": "AI to stay dominant force behind US business investment in 2027, Goldman says",
-      "summary": "Goldman Sachs on Wednesday forecast annualised spending on artificial intelligence-related hardware and intellectual property will climb to US$1.4 trillion (RM5.7 trillion) by the end of 2027, equivalent to nearly 4% of the US economy.",
-      "why_it_matters": "",
-      "score": 60,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [
-        "ai",
-        "investment",
-        "capacity",
-        "chips"
-      ],
-      "published_at": "2026-11-12T08:52:41Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825511",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Goldman Sachs"
-      ],
-      "title_zh": "Goldman称AI将在2027年继续主导美国企业投资",
-      "content": "(Nov 12): Goldman Sachs on Wednesday forecast annualised spending on artificial intelligence-related hardware and intellectual property will climb to US$1.4 trillion (RM5.7 trillion) by the end of 2027, equivalent to nearly 4% of the US economy.\n\n\"AI will remain the dominant driver of business investment growth in 2027,\" the brokerage said, forecasting spending to exceed US$900 billion by the end of 2026.\n\nThe view comes amid concerns that rising borrowing costs and increased investor scrutiny could curb AI-related capital spending, particularly as companies lean more heavily on debt-funded expansion.\n\nDemocrats' victories in the US midterm elections earlier this month sparked concerns over tighter regulation of data-centre development, but Goldman Sachs said the outcome poses only limited risks to AI investment.\n\nGoldman estimates AI-related investment will directly boost 2027 capex growth, including semiconductor investment by 5.3 percentage points and US GDP growth by 0.6 percentage points.\n\n\"Semiconductor investment is undercounted in the business investment statistics, and most information processing equipment is imported and is thus netted out of GDP,\" Goldman said.\n\nExcluding semiconductor investment, AI-driven investment will boost 2027 capex growth by 4.3 pp and US GDP growth by only 0.2 pp, the brokerage said.\n\nOverall, Goldman forecasts US business investment growth at 8% on a quarterly basis in 2027, nearly double the consensus forecast of 4.2%.\n\n*Uploaded by Magessan Varatharaja*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/825511"
-    },
-    {
       "id": "2026-11-13-e92912",
       "title": "MUFG enters MoU with Japanese industry coalition to build satellite mega-constellation",
       "summary": "Feasibility study between Japanese champions explores integrated multi-role sovereign constellation",
@@ -847,6 +807,70 @@
       "why_zh": "这一大幅费用上涨迫使data center开发商将合同电力与实际部署时间线对齐，惩罚一直在挤占马来西亚电网的投机性土地囤积和phantom demand；这将提高配置效率，但可能短期内减缓预售和项目公告。",
       "content": "Malaysia has hiked the connected load charge (CLC) from RM8.50 to RM89.64 per kilowatt, a dramatic 10.55 times or 955 per cent higher to deter phantom or speculative power demand by data centers, local reports said yesterday quoting Investment, Trade and Industry Minister Datuk Seri Johari Abdul Ghani.\n\nPhantom demand is power capacity reserved by developers which is then unutilised causing stranded capacity and unused infrastructure. CLC is a penalty for demand falling below the reserved demand capacity. It is calculated monthly on the shortfall between actual maximum demand (actual usage) and reference maximum demand (reserved demand).\n\n“Tenaga Nasional Bhd (TNB) would have already planned its infrastructure and allocated capacity to accommodate full declarations, leaving unused megawatt capacity that could otherwise support other users,” Johari reportedly said at an event in Kuala Lumpur.\n\nLast month, Parliament was informed about the hike, however, the revised rate and effective date were not mentioned.\n\nTNB, Malaysia’s electricity utility still shows the old rate on its website at press time. w.media reached out to TNB to confirm the new rate and its date of implementation but has yet to receive a reply to date.\n\nMalaysia has also established a new ultra high voltage tariff category which requires developers or operators to fully bear the cost of transmission upgrades.\n\nData center investment in Malaysia has seen exponential growth surging from 0.4 per cent of total approved investments of RM1.25bil in 2021 to 43.9 per cent or RM95.8 billion in 1H 2026. The country, which is enroute to becoming the biggest data center hub in Asia (ex China) has approved 117 data centers which has a combined maximum energy demand of about 23,500 megawatts (MW).\n\nOut of 117 approved data centers, 55 are operational, 19 are under construction, 16 are approved but yet to start, and 27 have been approved for off-grid energy supply. About 24 applications are still waiting for approval.",
       "content_url": "https://w.media/malaysia-raises-by-10-times-penalty-for-data-center-phantom-power-demand-report/"
+    },
+    {
+      "id": "2026-11-13-3d0c19",
+      "title": "YTL Power resumes decline amid renewed Nvidia turmoil as data centre pick-and-shovel trade falls",
+      "summary": "Shares related to data centre investments in Malaysia fell on Thursday, led by YTL Power International Bhd (KL:YTLPOWR), amid reports of renewed turmoil at Nvidia.",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "data-center",
+        "investment",
+        "power",
+        "ai"
+      ],
+      "published_at": "2026-11-12T09:40:07Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825519",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "YTL Power International"
+      ],
+      "title_zh": "Nvidia动荡加剧，YTL Power恢复下跌，data centre pick-and-shovel trade受挫",
+      "content": "KUALA LUMPUR (Nov 12): Shares related to data centre investments in Malaysia fell on Thursday, led by YTL Power International Bhd (KL:YTLPOWR), amid reports of renewed turmoil at Nvidia.\n\nYTL Power alone lost over RM3 billion in market capitalisation as shares of the multi-utilities firm resumed their decline, dropping 39 sen or over 8% to RM4.40. Nearly 41 million shares changed hands, making YTL Power one of the most actively traded stocks on Bursa Malaysia.\n\nThe company, now valued at RM38 billion, is a data centre partner of Nvidia and operates a facility powering artificial intelligence in Johor equipped with some of the US chipmaker's latest chips.\n\nThe declines follow news reports of another extramarital affair of Nvidia chief executive Jensen Huang, this time with a company executive who reported to him. The *Wall Street Journal* reported that Nvidia was preparing to oust Huang as the American chip giant’s stock continued to fall.\n\nThe latest reports come even as Nvidia was reeling from revelation over the weekend about Huang’s affair with a suspected Chinese spy accused of helping entities circumvent American restrictions on imports of high-performance chips to China.\n\nYTL Corp Bhd (KL:YTL) extended its losses and declined 11 sen or 5.56% to settle at RM1.87, valuing the parent company of YTL Power at RM22.06 billion.\n\nNationGate Holdings Bhd (KL:NATGATE), a contract manufacturer for Nvidia, retreated 12 sen or 6.42% to RM1.75.\n\nReal estate firms developing data centres, such as Mah Sing Group Bhd (KL:MAHSING), Sime Darby Property Bhd (KL:SIMEPROP), Gamuda Bhd (KL:GAMUDA), Sunway Construction Group Bhd (KL:SUNCON) and IJM Corp Bhd (KL:IJM) were also caught in the selldown.\n\nMah Sing's share price dropped six sen or 6.63% to settle at 84.5 sen, Sime Darby Property slid one sen or 0.78% to RM1.27.\n\nGamuda's share price sank 22 sen or 4.49% to RM4.68, Sunway Construction Group declined by 28 sen or 3.35% to RM8.07 and IJM Corp Bhd (KL:IJM)'s shares price fell 10 sen or 3.83% to RM2.51.\n\nEdited ByJason Ng\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/825519"
+    },
+    {
+      "id": "2026-11-13-ef00eb",
+      "title": "AI to stay dominant force behind US business investment in 2027, Goldman says",
+      "summary": "Goldman Sachs on Wednesday forecast annualised spending on artificial intelligence-related hardware and intellectual property will climb to US$1.4 trillion (RM5.7 trillion) by the end of 2027, equivalent to nearly 4% of the US economy.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "investment",
+        "capacity",
+        "chips"
+      ],
+      "published_at": "2026-11-12T08:52:41Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825511",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Goldman Sachs"
+      ],
+      "title_zh": "Goldman称AI将在2027年继续主导美国企业投资",
+      "content": "(Nov 12): Goldman Sachs on Wednesday forecast annualised spending on artificial intelligence-related hardware and intellectual property will climb to US$1.4 trillion (RM5.7 trillion) by the end of 2027, equivalent to nearly 4% of the US economy.\n\n\"AI will remain the dominant driver of business investment growth in 2027,\" the brokerage said, forecasting spending to exceed US$900 billion by the end of 2026.\n\nThe view comes amid concerns that rising borrowing costs and increased investor scrutiny could curb AI-related capital spending, particularly as companies lean more heavily on debt-funded expansion.\n\nDemocrats' victories in the US midterm elections earlier this month sparked concerns over tighter regulation of data-centre development, but Goldman Sachs said the outcome poses only limited risks to AI investment.\n\nGoldman estimates AI-related investment will directly boost 2027 capex growth, including semiconductor investment by 5.3 percentage points and US GDP growth by 0.6 percentage points.\n\n\"Semiconductor investment is undercounted in the business investment statistics, and most information processing equipment is imported and is thus netted out of GDP,\" Goldman said.\n\nExcluding semiconductor investment, AI-driven investment will boost 2027 capex growth by 4.3 pp and US GDP growth by only 0.2 pp, the brokerage said.\n\nOverall, Goldman forecasts US business investment growth at 8% on a quarterly basis in 2027, nearly double the consensus forecast of 4.2%.\n\n*Uploaded by Magessan Varatharaja*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/825511"
     },
     {
       "id": "2026-11-13-033c67",
@@ -1023,7 +1047,8 @@
       "summary_zh": "Nvidia CEO Jensen Huang据称与一名现涉及间谍指控的中国商人会面，暴露了该公司命运与其创始人个人行为和关系的紧密关联。",
       "why_zh": "对于在AI基础设施领域占据主导地位的Nvidia这样规模的公司而言，在关键政府和外交关系上过度依赖单一领导人会带来治理和连续性风险，投资者、客户和监管机构将越来越多地审视这一问题，特别是在芯片出口地缘政治紧张局势加剧的情况下。",
       "content": "Hello from Tokyo. Jensen Huang, the cofounder and chief executive of Nvidia, who has basked in the spotlight of the AI boom, has come crashing down from center stage in the global tech industry.\n\nAllegations have emerged that Huang had an intimate relationship with a woman suspected of being a Chinese spy. Exposure of another relationship -- this time with a company executive -- has added to the scandal. Nvidia's board announced on Thursday that Huang has resigned as president, CEO and board member, effective immediately.\n\nIt's like a plot from a James Bond movie. A rock-star CEO who built the world's most powerful chip company finds himself at the heart of an espionage scandal involving cutting-edge AI technology, one of the most sensitive battlegrounds in the U.S.-China rivalry.\n\nThe timing could hardly have been more dramatic. Democrats, who have taken an increasingly tough stance toward Big Tech and tech billionaires, have just won control of both chambers of the U.S. Congress. Meanwhile, President Donald Trump, who has maintained close ties with Huang, has spoken out in support of him since the scandal broke. Next week, Trump is scheduled to meet Chinese President Xi Jinping during the APEC summit. With so many developments converging at once, it is hard not to wonder whether the timing is entirely coincidental.\n\nThe shock waves will be felt across Asia's tech industry.\n\nNvidia and Huang have become virtually synonymous. The company's public image centers on its charismatic leader in a black leather jacket. Nvidia, which designs the world's most advanced AI chips, is one of the most important customers of Taiwan's TSMC, Asia's largest tech company by market capitalization.\n\nHuang has frequently visited Taiwan and other parts of Asia, solidifying strong relationships with the region's leading tech executives. If Nvidia loses momentum without Huang's leadership, the consequences for Asia's technology supply chains could be profound.\n\nHis departure could also give China's semiconductor companies a chance to gain ground, potentially shifting the balance of tech power between the U.S. and China.\n\nThe repercussions for financial markets could be just as severe.\n\nNvidia shares plunged following news of Huang's scandal. Nvidia is much more than a chip designer. The company has also become something of a central bank for the AI industry, providing massive funds to leading AI startups and cloud computing companies that, in turn, purchase its chips.\n\nThis has made Nvidia a crucial source of capital and confidence for the broader AI ecosystem. The sudden loss of Huang, effectively the governor of this AI central bank, could raise fresh questions about the sustainability of the AI-driven stock market boom.\n\nThat said, despite Huang's departure, Nvidia's financial performance is unlikely to suffer any immediate direct impact, as global tech giants remain heavily reliant on the chip giant's dominant market share in advanced AI semiconductors.\n\nHowever, it's difficult to overstate the consequences of losing such an iconic leader. If Nvidia loses its way without Huang at the helm, the fallout could spread far beyond the company itself in the not-too-distant future, affecting the global technology industry, geopolitics and financial markets.\n\nThe outcome would carry a bitter irony. Nvidia, the company that has ushered humanity into the age of AI, has hit its biggest hurdle because of a very human error at the top. Please stay tuned to Nikkei Asia for more coverage.\n\n## My suggested reads\n\n1\\. Prime Minister Anutin Charnvirakul is sending shock waves through Thailand's foreign investment community. He is enforcing long-flouted laws through which tens of thousands of foreigners have illegally used local nominees to control companies that own land worth tens of billions of dollars. Observers say the campaign is particularly targeting Chinese and Russians, but people of all nationalities are being caught up in it. There are also suggestions the initiative is linked to Thailand's bid to join the OECD, the Paris-based forecasting agency.\n\n2\\. The mega-profits being generated by Asia's memory chip makers from booming AI demand has benefited top executives and investors, but the bunny-suited workers in production clean rooms are now claiming their share of the spoils. Growing union activism at Samsung Electronics means chip employees there can look forward to a special bonus worth more than $500,000 each following an all-out strike. In Taiwan, freshly unionized chipworkers at Micron's plants are seeking similar bonuses to their South Korean counterparts. While this new wealth is boosting home and luxury car sales in the Seoul area, it is also creating resentment among fellow workers in other less-well-paid departments at Samsung, and distorting a labor market where wages are generally much lower and stagnating.\n\n3\\. A little more than 200 years after his forefathers founded a sake brewery, Toshiyuki Kiuchi is racking up global awards for high-end whisky. Like many of his peers in a consumer sector facing the impact of Japan's rapidly declining population, Kiuchi turned to the brown liquor as Japanese whisky surfed a wave of popularity overseas that began 25 years ago. As of April this year, the number of Japanese whisky distilleries -- operating, under development or in the planning stage -- had rocketed to a record 127, a 16-fold increase from 2010.\n\nWishing you a wonderful weekend!\n\nAkito Tanaka\n\nFollow us on Threads and Instagram\n\n*Sign up for the weekly Editor-in-chief's picks newsletter here*",
-      "content_url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-nvidia-s-ai-empire-stumbles-over-huang-s-human-error"
+      "content_url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-nvidia-s-ai-empire-stumbles-over-huang-s-human-error",
+      "published_precision": "day"
     }
   ]
 }

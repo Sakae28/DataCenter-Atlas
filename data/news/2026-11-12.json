@@ -2,11 +2,11 @@
   "date": "2026-11-12",
   "generated_at": "2026-11-12T08:25:31Z",
   "hot": [
+    "2026-11-12-a9d52f",
     "2026-11-12-bd2309",
     "2026-11-12-20467e",
     "2026-11-12-e56576",
-    "2026-11-12-3d8f87",
-    "2026-11-12-a9d52f"
+    "2026-11-12-3d8f87"
   ],
   "stories": [
     {
@@ -474,7 +474,7 @@
       "summary": "Data centre operators are putting the brakes on ambitious developments in Australia as community opposition intensifies and costs soar, warning that investment will move to Asia unless governments…",
       "why_it_matters": "",
       "score": 80,
-      "heat": 1,
+      "heat": 2,
       "regions": [
         "australia"
       ],
@@ -491,12 +491,22 @@
           "name": "AFR — Data Centres topic",
           "url": "https://www.afr.com/companies/infrastructure/data-centre-money-train-grinds-to-a-halt-in-the-adelaide-hills-20261112-p61dho",
           "type": "html-list"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825630",
+          "type": "html-list"
         }
       ],
       "title_zh": "澳大利亚AI数据中心热潮因当地反对和成本上升而停滞",
       "content": "Data centre operators are putting the brakes on ambitious developments in Australia as community opposition intensifies and costs soar, warning that investment will move to Asia unless governments back appropriate projects.\n\nMelbourne-based developer Quantum DC has become the latest group to acknowledge it has been pushing a project too aggressively, halting plans to build a giant facility in the Adelaide Hills after a fierce community backlash and criticism from South Australian Premier Peter Malinauskas.\n\nLoading...",
       "content_url": "https://www.afr.com/companies/infrastructure/data-centre-money-train-grinds-to-a-halt-in-the-adelaide-hills-20261112-p61dho",
-      "published_precision": "day"
+      "published_precision": "day",
+      "companies": [
+        "Mitsubishi UFJ Financial Group",
+        "Sumitomo Mitsui Financial Group",
+        "Mizuho Financial Group"
+      ]
     },
     {
       "id": "2026-11-12-540555",
@@ -780,7 +790,7 @@
       "summary": "AirTrunk and European Energy Australia have entered an exclusive arrangement to develop two renewable energy projects in New South Wales' Hunter region, representing a $1.5 billion clean power commitment. The partnership targets more than 1 gigawatt of generation capacity to supply AirTrunk's expanding Australian data center portfolio with firm renewable electricity.",
       "why_it_matters": "The deal demonstrates a maturing model for hyperscale operators to secure dedicated renewable generation rather than relying on grid-purchased offsets, directly addressing Scope 2 emissions with physical power purchase agreements. For the Hunter region, historically dependent on coal mining and generation, the investment accelerates economic transition while potentially constraining available renewable development sites for other industrial users competing for clean energy access.",
       "score": 85,
-      "heat": 2,
+      "heat": 3,
       "regions": [
         "australia"
       ],
@@ -802,6 +812,11 @@
           "name": "AFR — Data Centres topic",
           "url": "https://www.afr.com/companies/energy/airtrunk-and-european-energy-strike-agreement-on-1-5b-clean-power-push-20261112-p61d7g",
           "type": "html-list"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-1gw-energy-deal-with-european-energy-australia/",
+          "type": "html-list"
         }
       ],
       "companies": [
@@ -813,7 +828,8 @@
       "summary_zh": "AirTrunk和European Energy Australia已就新南威尔士州Hunter地区的两个可再生能源项目达成独家安排，代表着15亿美元的清洁电力承诺。该合作伙伴关系目标是超过1GW的发电容量，为AirTrunk不断扩大的澳大利亚数据中心组合提供稳定的可再生电力。",
       "why_zh": "该交易展示了hyperscale运营商确保专用可再生能源发电而非依赖电网购买抵消的成熟模式，通过实体电力购买协议直接解决Scope 2排放。对于历史上依赖煤炭开采和发电的Hunter地区，该投资加速了经济转型，同时可能限制其他争夺清洁能源获取的工业用户可用的可再生能源开发地点。",
       "content": "- **Hunter renewable projects could add more than 600 megawatts (MW) of new generation plus 800+ megawatt hours (MWh) of storage.**\n- **Projects will support AirTrunk’s NSW energy needs, including its proposed Kurri Kurri site.**\n- **Partnership builds on the newly opened Mulwala Solar Farm in New South Wales.**\n- **AirTrunk on track to match all electricity use with renewables by 2030.**\n\nHyperscale data centre specialist AirTrunk and renewable energy developer, builder, owner and operator European Energy Australia have signed an exclusivity agreement to progress two renewable energy projects in the Hunter region in New South Wales, Australia.\n\nThe proposed projects include a 260 MW solar project, an 800+ MWh battery project and up to 350 MW wind project in the Hunter-Central Coast Renewable Energy Zone. Together, they could add more than a gigawatt of new renewables generation and storage to NSW’s electricity system.\n\nThe companies are progressing project development and discussing a potential long-term power purchase agreement to support AirTrunk’s NSW energy requirements, including its proposed Kurri Kurri data centre campus.\n\nThe projects are expected to begin operating between 2030 (solar and battery) and 2032 (wind), with European Energy planning to connect them to Ausgrid’s upgraded 132 kilovolt network in the Hunter-Central Coast Renewable Energy Zone. The connections will be subject to final connection arrangements, approvals and further technical assessments.\n\n### AirTrunk meeting government expectations for new energy supply\n\nThe Australian Government expects new data centres to secure new and additional clean energy generation and/or storage to offset their demand, while managing energy use and contributing to a secure and stable electricity grid. The NSW Data Centre Guidelines similarly expect operators to fund the additional energy supply and infrastructure their projects require, without shifting net costs to households, businesses or communities.\n\nAirTrunk is working with energy partners and networks to bring new supply forward alongside its growth. The proposed Hunter projects and discussions about a long-term power purchase agreement form part of that work. The projects and potential agreement remain subject to further development, approvals and final arrangements.\n\n**Robin Khuda, Founder and CEO of AirTrunk, said:** “Digital growth must bring new energy with it. The Australian Government’s expectations and NSW’s guidelines set a high bar for the industry. This partnership is an important step towards delivering on that commitment.”\n\n**Sabooh Whitelaw, AVP Energy at AirTrunk, said:** “We understand the community wants to know how Kurri Kurri’s electricity needs will be supported. Our focus is on bringing new renewable generation forward and securing renewable electricity through long-term supply arrangements.”\n\n**Catriona McLeod, Managing Director, European Energy Australia said:** “It’s great to see AirTrunk and the tech sector embracing renewable energy – partnerships like this allow us to bring more renewables online and add more energy to the grid.”\n\nThe partnership builds on AirTrunk and European Energy Australia’s work at the 31 MW Mulwala Solar Farm, which officially opened this week and is now supplying renewable electricity to NSW’s grid. The companies will continue to explore further renewable energy opportunities.\n\n### New Hunter renewables to support AirTrunk’s Kurri Kurri proposal\n\nAirTrunk is proposing a data centre on the former Kurri Kurri smelter site at Loxford, reusing land with an established industrial history. The project would support jobs and economic opportunities in the Hunter and make use of existing infrastructure.\n\nOver the past four months, AirTrunk has engaged with the local community through information sessions, project updates and a drop-in hub. AirTrunk will continue listening and sharing information as the proposal progresses through the planning process.\n\nWhitelaw added, “The Hunter projects are an important step, but more renewable generation and firming will be needed to support Kurri Kurri and AirTrunk’s wider NSW needs. We’ll continue working with developers and energy partners to progress further projects across Australia”.\n\n### AirTrunk is on track to match all electricity use with renewables by 2030\n\nAirTrunk is committed to matching 100% of its electricity use with renewable energy by 2030 as part of its Net Zero 2030 target. In FY26, around 73% of its electricity use was matched with renewable energy across the portfolio. The company is working to increase that share by supporting new renewable generation and securing long-term supply as its operations grow.",
-      "content_url": "https://airtrunk.com/airtrunk-and-european-energy-australia-advance-1-gigawatt-hunter-renewables-and-storage-partnership/"
+      "content_url": "https://airtrunk.com/airtrunk-and-european-energy-australia-advance-1-gigawatt-hunter-renewables-and-storage-partnership/",
+      "published_precision": "day"
     },
     {
       "id": "2026-11-12-c5ebaa",
