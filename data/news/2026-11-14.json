@@ -2,10 +2,10 @@
   "date": "2026-11-14",
   "generated_at": "2026-11-14T07:40:29Z",
   "hot": [
+    "2026-11-14-b5a233",
     "2026-11-14-56af3d",
     "2026-11-14-4e1246",
     "2026-11-14-3d47f1",
-    "2026-11-14-b5a233",
     "2026-11-14-432693"
   ],
   "stories": [
@@ -76,7 +76,7 @@
       "summary": "Chinese state media and industry analysts are interpreting Jensen Huang's rapid ouster from Nvidia as a politically motivated attack, arguing the scandal may undermine Western semiconductor leadership while paradoxically stimulating competitive innovation from non-US chip alternatives.",
       "why_it_matters": "Beijing's narrative framing aims to accelerate indigenous GPU development by casting Nvidia's governance crisis as systemic Western weakness, potentially justifying increased state subsidies for Huawei and Biren. For APAC data center operators, this propaganda offensive masks a practical concern: any sustained Nvidia disruption could fragment global chip supply into US-aligned and China-aligned ecosystems, forcing politically neutral operators into impossible procurement choices.",
       "score": 80,
-      "heat": 2,
+      "heat": 4,
       "regions": [
         "china",
         "global"
@@ -99,10 +99,21 @@
           "name": "The Business Times",
           "url": "https://www.businesstimes.com.sg/opinion-features/nvidia-crisis-emperor-huangs-downfall-may-blow-us-china-ai-race-wide-open",
           "type": "rss"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825711",
+          "type": "html-list"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/opinion-features/south-east-asia-has-lost-nvidias-best-salesman",
+          "type": "html-list"
         }
       ],
       "companies": [
-        "NVIDIA"
+        "NVIDIA",
+        "Arm"
       ],
       "title_zh": "中国认为 Nvidia 首席执行官黄仁勋的快速下台是政治打击",
       "summary_zh": "中国官方媒体和行业分析师将Jensen Huang从Nvidia的快速下台解读为politically motivated attack，认为这一丑闻可能削弱Western semiconductor leadership，同时矛盾地刺激non-US chip alternatives的竞争性创新。",
