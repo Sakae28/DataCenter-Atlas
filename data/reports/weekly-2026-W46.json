@@ -1,0 +1,173 @@
+{
+  "type": "weekly",
+  "period": "2026-W46",
+  "date_range": {
+    "start": "2026-11-09",
+    "end": "2026-11-15"
+  },
+  "generated_at": "2026-11-16T08:14:53Z",
+  "complete": true,
+  "stats": {
+    "stories": 177,
+    "sources": 14,
+    "days": 7,
+    "read_minutes": 2
+  },
+  "title": "Nvidia scandal reshapes APAC chip politics",
+  "lede": "The resignation of Nvidia CEO Jensen Huang following espionage allegations has sent shockwaves through Asia-Pacific data center markets, intensifying US congressional pressure for stricter AI chip export controls while Chinese firms rush to secure capacity abroad. The scandal has complicated Washington-Beijing trade relations and put Southeast Asia's emerging role as an alternative compute hub at risk, with new restrictions threatening to bar Chinese remote access to advanced chips hosted in Malaysian, Singaporean, and Thai facilities. Against this geopolitical turbulence, Australia's data center market is projected to nearly double by 2030 despite mounting local opposition and project delays, while Singapore and Malaysia introduce stricter regulatory frameworks for power, water, and incident reporting. TSMC continues to ride insatiable AI chip demand with 60% revenue growth, even as questions about Nvidia's leadership succession and market dominance unsettle the global semiconductor supply chain.",
+  "themes": [
+    {
+      "heading": "Nvidia leadership crisis upends chip trade",
+      "narrative": "Jensen Huang's resignation following espionage allegations has exposed Nvidia's vulnerability to founder risk and triggered board-level succession planning. The scandal has become entangled in US-China trade politics, with congressional pressure building for tighter export controls even as Commerce Secretary Howard Lutnick had previously stalled additional crackdowns.",
+      "story_ids": [
+        "2026-11-13-c2af92",
+        "2026-11-14-4e1246",
+        "2026-11-12-a94953",
+        "2026-11-12-d43c03",
+        "2026-11-13-033c67"
+      ],
+      "heading_zh": "Nvidia leadership crisis upends chip trade",
+      "narrative_zh": "Jensen Huang在间谍指控后辞职，暴露了Nvidia面临的创始人风险，并触发了董事会层面的继任规划。该丑闻已卷入美中贸易政治，国会压力不断加大，要求收紧出口管制，尽管商务部长Howard Lutnick此前曾搁置额外的打击措施。"
+    },
+    {
+      "heading": "US curbs threaten Southeast Asia AI growth",
+      "narrative": "Washington is reportedly preparing to restrict Chinese remote access to AI chips in Southeast Asian data centers, directly threatening the region's emerging AI infrastructure boom. Chinese companies are accelerating efforts to secure Nvidia capacity overseas before anticipated restrictions take effect, while Malaysian and Singaporean firms face heightened scrutiny.",
+      "story_ids": [
+        "2026-11-13-5ff51e",
+        "2026-11-13-561961",
+        "2026-11-15-ca7e96",
+        "2026-11-12-e56576",
+        "2026-11-13-d02d21",
+        "2026-11-13-1649f5"
+      ],
+      "heading_zh": "US curbs threaten Southeast Asia AI growth",
+      "narrative_zh": "据报道，华盛顿正准备限制中国远程访问部署在东南亚数据中心的AI芯片，直接威胁该地区新兴的AI基础设施繁荣。中国企业正在加速努力，在预期限制生效前确保海外Nvidia产能，而马来西亚和新加坡企业则面临更严格的审查。"
+    },
+    {
+      "heading": "Australia capacity surges amid local resistance",
+      "narrative": "Australia's data center market is on track to nearly double capacity by 2030, with CDC proposing a 1.4GW campus and AirTrunk advancing multiple projects. However, NextDC's strategic pause, rising costs, and mounting community backlash have stalled several developments, threatening to divert investment elsewhere in Asia.",
+      "story_ids": [
+        "2026-11-13-65e533",
+        "2026-11-10-bc4677",
+        "2026-11-09-3fa425",
+        "2026-11-12-64fb74",
+        "2026-11-12-4f96c3"
+      ],
+      "heading_zh": "Australia capacity surges amid local resistance",
+      "narrative_zh": "澳大利亚数据中心市场有望在2030年前将容量近乎翻倍，CDC提议建设1.4GW园区，AirTrunk推进多个项目。然而，NextDC的战略暂停、成本上升以及日益加剧的社区反对已导致多个开发停滞，可能威胁投资转向亚洲其他地区。"
+    },
+    {
+      "heading": "Singapore tightens green and market rules",
+      "narrative": "Singapore has revised its data center energy-efficiency benchmarks and green finance taxonomy to address water stress risks, while the investment climate has cooled with AirTrunk's postponed IPO and Firmus Grid's stalled debut. Equinix's SG6 opening underscores continued demand pressure within the city-state's constrained quota system.",
+      "story_ids": [
+        "2026-11-12-20467e",
+        "2026-11-12-f347f5",
+        "2026-11-14-3d47f1",
+        "2026-11-09-1a5d63"
+      ],
+      "heading_zh": "Singapore tightens green and market rules",
+      "narrative_zh": "新加坡已修订数据中心能效基准和绿色金融分类标准，以应对水资源压力风险，而投资气候已因AirTrunk推迟IPO和Firmus Grid停滞上市而降温。Equinix SG6的启用凸显了在该城邦严格配额制度下持续的需求压力。"
+    },
+    {
+      "heading": "Malaysia weighs competitiveness against regulation",
+      "narrative": "Malaysia is introducing a dedicated wholesale electricity market for data centers and sharply raising penalties for phantom power demand, even as industry voices warn that limited locations and rising costs could erode its competitive position against Thailand and Indonesia. Enhanced incident reporting requirements are also being drafted.",
+      "story_ids": [
+        "2026-11-11-4070d4",
+        "2026-11-13-64b5a2",
+        "2026-11-12-0ee625",
+        "2026-11-10-fcb5e6"
+      ],
+      "heading_zh": "Malaysia weighs competitiveness against regulation",
+      "narrative_zh": "马来西亚正为数据中心推出专门的批发电力市场，并大幅提高对虚假电力需求的处罚力度，尽管行业人士警告称，地点有限和成本上升可能削弱其相对于泰国和印尼的竞争优势。加强事故报告要求也在起草中。"
+    },
+    {
+      "heading": "TSMC and hyperscalers drive infrastructure demand",
+      "narrative": "TSMC's 60% revenue surge reflects resilient demand for advanced semiconductors, while Amazon, Google, and Microsoft are deploying record capital for AI-focused infrastructure. In Japan, Digital Realty plans $10 billion in additional investment, and Akita Prefecture is positioning an AI data center as a regional economic anchor.",
+      "story_ids": [
+        "2026-11-11-4d67ad",
+        "2026-11-10-78affa",
+        "2026-11-14-9864ef",
+        "2026-11-15-00af6c",
+        "2026-11-11-a8fb74"
+      ],
+      "heading_zh": "TSMC and hyperscalers drive infrastructure demand",
+      "narrative_zh": "TSMC收入激增60%反映了对先进半导体的强劲需求，同时Amazon、Google和Microsoft正为AI聚焦的基础设施部署创纪录资本。在日本，Digital Realty计划追加100亿美元投资，秋田县正将一座AI数据中心定位为区域经济支柱。"
+    }
+  ],
+  "project_milestones": [
+    {
+      "project_id": "airtrunk-melbourne-mickleham-data-centre",
+      "name": "Mickleham data centre",
+      "operator": "AirTrunk",
+      "date": "2026-11-09",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-11-09-3fa425"
+    },
+    {
+      "project_id": "stockland-sydney-sydney-data-centre",
+      "name": "Sydney data centre",
+      "operator": "Stockland",
+      "date": "2026-11-09",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "cancelled",
+      "prev_status": null,
+      "change": "First tracked as cancelled",
+      "story_id": "2026-11-09-91ea10"
+    },
+    {
+      "project_id": "epg-modular-data-center-senai-factory",
+      "name": "EPG Modular Data Center Senai Factory",
+      "operator": "EPG Modular Data Center",
+      "date": "2026-11-10",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "under_construction",
+      "prev_status": null,
+      "change": "First tracked as under construction",
+      "story_id": "2026-11-10-d996fe"
+    },
+    {
+      "project_id": "nextdc-melbourne-facility",
+      "name": "NextDC Melbourne facility",
+      "operator": "NEXTDC",
+      "date": "2026-11-10",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "on_hold",
+      "prev_status": null,
+      "change": "First tracked as on hold",
+      "story_id": "2026-11-10-bc4677"
+    },
+    {
+      "project_id": "google-port-dickson-port-dickson-data-center",
+      "name": "Port Dickson data center",
+      "operator": "Google",
+      "date": "2026-11-12",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-11-12-540555"
+    },
+    {
+      "project_id": "cdc-data-centres-kemps-creek-kemps-creek-data-center-campus",
+      "name": "Kemps Creek data center campus",
+      "operator": "CDC Data Centres",
+      "date": "2026-11-13",
+      "kind": "first_tracked",
+      "origin": "news",
+      "status": "announced",
+      "prev_status": null,
+      "change": "First tracked as announced",
+      "story_id": "2026-11-13-bc6186"
+    }
+  ],
+  "title_zh": "Nvidia丑闻重塑亚太芯片政治格局",
+  "lede_zh": "Nvidia CEO Jensen Huang在间谍指控后辞职的消息震动了亚太数据中心市场，加剧了美国国会要求收紧AI芯片出口管制的压力，同时中国企业争相在海外获取算力资源。这一丑闻使华盛顿与北京之间的贸易关系更加复杂，并令东南亚作为替代计算枢纽的新兴地位面临风险——新的限制措施可能禁止中国企业远程访问部署在马来西亚、新加坡和泰国设施中的先进芯片。在地缘政治动荡的背景下，尽管面临日益增长的本地反对和项目延误，澳大利亚数据中心市场预计到2030年将接近翻倍，而新加坡和马来西亚则针对电力、用水以及incid引入了更严格的监管框架"
+}
