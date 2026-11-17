@@ -1,0 +1,953 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T09:18:27Z",
+  "hot": [
+    "2026-11-17-156591",
+    "2026-11-17-7d2426",
+    "2026-11-17-79a915",
+    "2026-11-17-75e60b",
+    "2026-11-17-b85557"
+  ],
+  "stories": [
+    {
+      "id": "2026-11-17-4cfdd9",
+      "title": "Sharon AI delays Australian sharemarket listing amid global tech rout",
+      "summary": "Sharon AI has delayed its Australian sharemarket listing this year, becoming the latest digital infrastructure business to pause such plans after Firmus Technologies pulled its float last month, amid…",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "ipo",
+        "ai",
+        "investment",
+        "data center"
+      ],
+      "published_at": "2026-11-17T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/technology/sharon-ai-says-debt-markets-still-open-to-lending-neoclouds-money-20261117-p61el5",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Sharon AI"
+      ],
+      "title_zh": "Sharon AI因全球科技股抛售潮推迟澳大利亚上市",
+      "published_precision": "day",
+      "content": "Sharon AI has delayed its Australian sharemarket listing this year, becoming the latest digital infrastructure business to pause such plans after Firmus Technologies pulled its float last month, amid rising interest rates and global volatility in technology stocks.\n\nSharon AI co-founder and chief executive James Manning said the neocloud business had no urgent need to raise capital and plans were advanced for a new debt package.\n\nLoading...",
+      "content_url": "https://www.afr.com/technology/sharon-ai-says-debt-markets-still-open-to-lending-neoclouds-money-20261117-p61el5"
+    },
+    {
+      "id": "2026-11-17-1d8130",
+      "title": "Mandatory RE quotas for data centres brighten outlook for solar developers",
+      "summary": "The government is preparing to impose a mandatory 30 percent renewable energy requirement on data center operations, a policy shift that would compel operators to source clean power and has generated industry discussion about what qualifies as off-grid renewable supply.",
+      "why_it_matters": "Mandatory RE quotas would fundamentally alter data center economics in APAC markets where grid renewable penetration remains low, forcing operators to negotiate directly with solar and wind developers for dedicated capacity or invest in on-site generation—creating procurement advantages for vertically integrated players with balance sheet depth while potentially excluding smaller colocation providers unable to secure long-term power purchase agreements.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "renewable energy",
+        "regulation",
+        "data centre",
+        "power"
+      ],
+      "published_at": "2026-11-17T08:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825292",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "数据中心强制可再生能源配额为太阳能开发商带来光明前景",
+      "summary_zh": "政府正准备对数据中心运营实施强制的30%可再生能源要求，这一政策转变将迫使运营商采购清洁电力，并引发了关于什么构成off-grid可再生能源供应的行业讨论。",
+      "why_zh": "强制可再生能源配额将根本改变可再生能源电网渗透率仍然较低的亚太市场的数据中心经济学，迫使运营商直接与太阳能和风能开发商谈判获取专用容量或投资现场发电——这为具有资产负债表深度的垂直整合玩家创造采购优势，同时可能排除无法 securing 长期购电协议的较小colocation提供商。",
+      "content": "This article first appeared in The Edge Malaysia Weekly on November 9, 2026 - November 15, 2026\n\nA series of developments is lifting the prospects of solar farm developers as the government seeks to increase renewable energy (RE) adoption in the power-hungry data centre (DC) sector.\n\nLast month, Minister of Energy Transition and Water Transformation Datuk Amar Fadillah Yusof said the government was drafting a framework for DC power consumption, which includes a minimum RE requirement of 30%.\n\nSources tell The Edge that the government is exploring even higher RE targets for future DC projects, particularly those powered off-grid.\n\nIt is understood that the 30% threshold has been floated since earlier this year. For DCs approved on the condition of using off-grid power, talk is that the RE requirement could go as high as 50%, although specific details are still being ironed out.\n\nIf implemented, the compulsory RE requirements could catalyse new solar farm developments under the Corporate Renewable Energy Supply Scheme (CRESS), which allows RE developers to sell electricity directly to industrial customers.\n\nCRESS adoption has been moving slowly because its primary target market, the DCs, are weighing the programme’s total cost — how much one pays for solar energy plus fees to use Tenaga Nasional Bhd’s (KL:TENAGA) grid — against the cost of just drawing electricity directly from the grid via Tenaga.\n\nA mandatory RE quota now leaves DCs with no choice but to comply and look for solar farms to partner with.\n\n“Thirty per cent is a good number for the DCs. The requirement could be more after that,” says a source.\n\nAccording to the latest publicly available data, CRESS has attracted the interest of 11 solar farm developers and eight end-consumers, representing more than 3gw in capacity.\n\nOne CRESS project making advanced progress is a 100mw solar farm under construction in Kedah, led by privately owned HLGY Energy Sdn Bhd and Singapore-headquartered Bridge Data Centres.\n\nRecent CRESS awards include two projects totalling 189mw won by Northern Solar Holdings Bhd (KL:NORTHERN). Meanwhile, Tenaga is reportedly exploring a 500mw solar supply arrangement with DayOne DCs.\n\nNevertheless, some power generation developers remain cautious about CRESS’ prospects. “I won’t celebrate yet, not until we see \\[the conditions\\] in an official document,” says an executive, pointing to recent adjustments in grid usage fees under CRESS.\n\nIn September, the Ministry of Energy Transition and Water Transformation (Petra) announced a reduction in the System Access Charges (SAC) to 14 sen/kWh, down from 20 sen previously, for eligible participants. However, the Energy Commission then clarified in October that CRESS projects remain subject to an additional charge of 4 sen/kWh.\n\nWhen asked whether a mandatory RE requirement will slow down DC projects, industry players suggest that approved DCs yet to begin construction will likely proceed. A more decisive factor to look at is the government’s push for DCs to source their own electricity off-grid, they say.\n\nHow much RE generation capacity needs to be planted up depends on the details in the upcoming framework.\n\nShould the 30% RE requirement be based on gigawatt-hour (gwh) — the total energy consumed over a certain period — a solar farm’s peak generation capacity must be between 80% and 90% bigger than the DC’s capacity to meet the 30% requirement due to the intermittency of solar energy production. For example, a 100mw data centre would roughly require a 180mwp solar farm to meet its 30% RE energy consumption target.\n\nData from the Ministry of Investment, Trade and Industry (Miti) shows that the government has approved 23gw to 23.5gw of DC capacity, based on maximum demand. This includes 27 DCs that are expected to use off-grid electricity, which reports say carry a combined capacity of about 8gw.\n\nAs at August, operational DCs had contracted 2.3gw in capacity demand. By 2030, the total maximum DC demand is expected to cross 8gw, potentially requiring 14gwp of RE capacity to meet a 30% energy supply rule.\n\nNevertheless, the devil is in the details. Among the questions raised by industry players are whether programmes like CRESS is eligible to be considered as off-grid supply for DCs, or only dedicated self-consumption (Selco) solar installations qualify. Selco solar projects are more challenging logistically because they must be located close to the consumption point.\n\nAnother question is whether the Green Electricity Tariff (GET) — RE sold by Tenaga through the grid at a slight premium to the normal tariff — qualifies as RE for the DCs.\n\nGET supply totalling 6.6TWh has been fully taken up, according to data from the Malaysia Green Attribute Tracking System (mGATS). Based on existing available RE capacity of nearly 6gw on the grid, back-of-the-envelope calculations indicate that the GET quota could easily be expanded.\n\nIf that quota is increased and is allowed to qualify for DCs’ mandatory 30% RE target, the GET could end up absorbing much of the demand from existing contracted DC capacity of 2.3gw.\n\nOne industry player views this outcome as unlikely, though, saying: “The government’s ultimate objective is new generation capacity. But nothing is official yet.”\n\nOutside the DC space, rising fossil fuel costs continue to favour RE adoption.\n\nMalaysia’s electricity tariff has incorporated a fuel surcharge since May, which official projections indicate will stabilise at a higher level in the coming months, potentially increasing to 6 to 8 sen/kWh based on the latest official projections.\n\nAgainst this backdrop, CRESS is being explored by other industrial users. Among them is a major 680mw joint development between Gamuda Bhd (KL:GAMUDA), SD Guthrie Bhd (KL:SDG) and Petroliam Nasional Bhd’s (PETRONAS) Gentari Sdn Bhd for a US-based tech firm.\n\nThe appetite for rooftop solar has picked up again. Data from the Sustainable Energy Development Authority (Seda) shows more than 490mw in rooftop solar applications were submitted in the first 10 months of 2026, with 307mw already operational.\n\nFor solar developers, the momentum shows no sign of slowing. Malaysia’s latest Large-Scale Solar bidding round (LSS6) concluded in late October, offering a total allocation of 2,650mw, with the winning bids expected to be announced as early as January next year.\n\nSave by subscribing to us for your print and/or digital copy.\n\n**P/S: The Edge is also available on\n      Apple's App Store and \n      Android's Google Play.**\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/825292"
+    },
+    {
+      "id": "2026-11-17-1821d4",
+      "title": "US chip curbs raise risks for Malaysia's IC design industry, data centre demand holds up — Kenanga",
+      "summary": "KUALA LUMPUR (Nov 17): Malaysia's integrated circuit (IC) design industry could face additional regulatory hurdles under the US' new export controls on advanced artificial intelligence (AI) chips, particularly companies serving non-US customers developing advanced chips, although the direct impact on design services remains limited for now, according to Kenanga Research.",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "chips",
+        "regulation",
+        "data centre",
+        "ai"
+      ],
+      "published_at": "2026-11-17T07:55:07Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/826126",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Kenanga"
+      ],
+      "title_zh": "美国芯片限制加大马来西亚IC设计行业风险，数据中心需求保持坚挺——Kenanga",
+      "content": "KUALA LUMPUR (Nov 17): Malaysia's integrated circuit (IC) design industry could face additional regulatory hurdles under the US' new export controls on advanced artificial intelligence (AI) chips, particularly companies serving non-US customers developing advanced chips, although the direct impact on design services remains limited for now, according to Kenanga Research.\n\nIn a strategy note on Tuesday, the research house said the new US interim final rule (IFR) introduces licensing requirements for advanced logic chips designed by companies that are not approved or authorised IC designers.\n\nWhile IC design services are not directly prohibited, the rules could affect downstream manufacturing and the delivery of finished chips, warranting closer monitoring.\n\nThe rules also retain the worldwide scope of the advanced computing foreign direct product rule, meaning qualifying foreign-produced chips could remain subject to US export controls.\n\nThe new IFR takes a two-pronged approach, tightening controls on remote access to advanced computing capacity and introducing licensing requirements for transferring advanced semiconductors to countries including Malaysia.\n\nThe measures are aimed at preventing Chinese technology firms from circumventing US chip export restrictions by accessing computing power through overseas cloud providers and data centres.\n\nUnder the rules, a destination-based licence is required for the export, re-export or transfer of advanced semiconductors to Malaysia, Indonesia, Singapore, Thailand and Brazil.\n\nThe restrictions also cover overseas data centres that remotely provide significant volumes of computing capacity to companies headquartered in countries under the US' D:5 export control category, including China and Macau.\n\nKenanga said the new rules were less punitive than the Joe Biden-era AI diffusion rule, which divided countries into tiers and imposed country-level quotas.\n\nDespite tighter regulatory scrutiny, Kenanga expects Malaysia's data centre demand to hold up, supported by US hyperscalers seeking overseas capacity as regulatory and approval uncertainties grow in several US states.\n\nIt noted that Malaysia has a 12.3 gigawatt (GW) data centre project pipeline with secured electricity supply, providing strong visibility for future development.\n\nUS-headquartered companies are exempt from the new rule, limiting the immediate impact on Kenanga's construction coverage universe, whose clients are predominantly US-based hyperscalers such as Google, Amazon Web Services and Microsoft.\n\nAs such, the research house considers the recent sell-off in core-and-shell engineering, procurement, construction and commissioning (EPCC) stocks excessive.\n\nGamuda Bhd (KL:GAMUDA) and Sunway Construction Group Bhd (KL:SUNCON) stand out as its safest picks given their predominantly US clientele.\n\n\"Overall, data centre demand in Malaysia remains strong but we believe that the demand will be focused more on US-based customers or non-China-linked players,\" it said.\n\nKenanga identified Sunway Construction's RM748 million project with K2 Strategic Infrastructure Malaysia Sdn Bhd, a non-US customer, as the only potential exception. However, the contract is relatively small and nearing completion, making any financial or operational impact on the group essentially remote.\n\nWithin the utilities sector, Tenaga Nasional Bhd (KL:TENAGA) is largely shielded by five-year take-or-pay clauses in its electricity supply agreements.\n\nFor YTL Power International Bhd (KL:YTLPOWR), Kenanga said it had not priced in any Neo cloud valuation beyond announced plans, leaving its earnings forecasts unchanged. Its colocation expansion could also capture spillover demand from US customers, although client onboarding may become more selective.\n\nMeanwhile, mechanical and electrical (M&E) contractors face greater near-term risks as stricter end-use verification and graphics processing unit (GPU) licensing requirements could delay projects involving non-US operators without confirmed customers.\n\nWith the sector trading at about 13 times forward FY2028 price-earnings ratio, valuations may remain subdued pending greater visibility on new contracts.\n\nKee Ming Group Bhd (KL:KEEMING) remains Kenanga's top M&E pick, with an 'outperform' rating and a target price of RM3.23, supported by its diversified order book and greater exposure to US hyperscalers.\n\nEdited ByPresenna Nambiar\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/826126"
+    },
+    {
+      "id": "2026-11-17-e32344",
+      "title": "Nvidia warns chip buyers of legal risks tied to China AI access — report",
+      "summary": "Nvidia has privately warned customers and partners that proposed US legislation targeting Chinese companies' remote access to its AI chips could expose both the chipmaker and buyers to legal action, according to a CNBC report citing sources familiar with the communications.",
+      "why_it_matters": "Nvidia's legal risk warnings force APAC distributors, cloud providers, and enterprise buyers to scrutinize their contractual indemnification and compliance architectures, as the company appears to be shifting potential liability downstream—creating a chilling effect on secondary market transactions and gray-market GPU access routes that have proliferated across Southeast Asia since initial export controls.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "regulation",
+        "ai",
+        "nvidia"
+      ],
+      "published_at": "2026-11-17T07:42:09Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/826125",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "title_zh": "NVIDIA警告芯片买家与中国AI访问相关的法律风险——报道",
+      "summary_zh": "据CNBC援引知情人士报道，Nvidia近期私下警告客户和合作伙伴，针对中国公司远程访问其AI芯片的美国拟议立法可能使这家芯片制造商和买家都面临法律行动风险。",
+      "why_zh": "Nvidia的法律风险警告迫使亚太地区的分销商、云计算提供商和企业买家审视其合同赔偿和合规架构，因为该公司似乎正在将潜在责任向下游转移——这对自初始出口管制以来在东南亚激增的二级市场交易和灰色市场GPU获取渠道产生寒蝉效应。",
+      "content": "(Nov 17): Nvidia said in recent months a proposed US legislation on Chinese companies remotely accessing its artificial intelligence chips could expose it and them to US \"legal action,\" *CNBC* reported on Tuesday, citing sources.\n\n*Reuters* could not immediately verify the report.\n\nNvidia messaged chip buyers in recent months to caution that the proposed Remote Access Security Act, or Rasa, would give the US government broader authority to control access to cloud services in the same way as physical hardware, the report said\n\nThe chipmaker said for now it would not sell chips to customers who rent over 50% of the graphics processing units, or GPUs to Chinese companies, the report added\n\nNvidia did not immediately respond to *Reuters*' request for comment outside regular business hours\n\nRasa is a bill that would give the US Commerce Department the tools to stop Chinese firms from renting overseas data centres to access Nvidia chips.\n\nThe company said in July that the measure, if enacted, could have \"a material impact on our business\".\n\n*Uploaded by Magessan Varatharaja*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/826125"
+    },
+    {
+      "id": "2026-11-17-c9e360",
+      "title": "Data centre, cloud computing investments surge 44.5% to RM123.5b in first nine months of 2026",
+      "summary": "Malaysia approved RM123.5 billion in data center and cloud computing investments during the first nine months of 2026, a 44.5 percent year-on-year increase that raised the sector's share of total approved investments to 35.2 percent from 29.4 percent previously.",
+      "why_it_matters": "Malaysia's investment surge intensifies competition with Singapore and Indonesia for APAC data center capital, but the concentration of approvals raises questions about power grid readiness and renewable energy availability in Johor and Kuala Lumpur corridors—if infrastructure cannot match the investment pace, Malaysia risks project delays or stranded capacity that could redirect hyperscale demand back to more established hubs.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "investment",
+        "data centre",
+        "cloud",
+        "capacity"
+      ],
+      "published_at": "2026-11-17T07:41:58Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/826124",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "2026年前九个月数据中心和云计算投资激增44.5%至1235亿令吉",
+      "summary_zh": "2026年前九个月，马来西亚批准的数据中心和云计算投资达1235亿令吉，同比增长44.5%，使该行业占批准投资总额的比重从29.4%上升至35.2%。",
+      "why_zh": "马来西亚的投资激增加剧了其与新加坡和印尼争夺亚太数据中心资本的竞争，但批准的集中引发了对柔佛和吉隆坡走廊电力基础设施就绪性和可再生能源可用性的质疑——如果基础设施无法匹配投资节奏，马来西亚可能面临项目延迟或闲置产能风险，导致hyperscale需求回流至更成熟的枢纽。",
+      "content": "KUALA LUMPUR (Nov 17): Investments in data centres and cloud computing in Malaysia surged 44.5% year-on-year to RM123.5 billion across 86 approved projects in the first nine months of 2026, accounting for 35.2% of total approved investments, up from 29.4% a year earlier.\n\nThe investments formed a significant portion of the services sector, which attracted RM219.1 billion in approved investments, up 14.2% from RM191.7 billion a year earlier, according to the Malaysian Investment Development Authority (Mida) on Tuesday (Nov 17).\n\nThe information and communications subsector, which includes data centre and cloud computing activities, led services investment approvals at RM133.5 billion, followed by real estate at RM47.9 billion, support services at RM19.3 billion, utilities at RM5.8 billion and distributive trade at RM5.1 billion.\n\nTo encourage local participation, Mida requires new data centres to meet a minimum of 30% local content.\n\nOverall, Malaysia's approved investments rose 20.7% year-on-year to RM350.4 billion in the nine-month period, driven by a 40.7% increase in foreign investment approvals to RM212.3 billion, which accounted for 60.6% of the total.\n\nDomestic investment approvals edged down 1% to RM138.1 billion.\n\nThe US was the largest source of foreign investments, with approvals surging more than fivefold to RM60 billion from RM11.3 billion a year earlier. This was followed by China (RM38.6 billion), Singapore (RM38.5 billion), Japan (RM24.4 billion) and Australia (RM12.6 billion).\n\nThe top five countries collectively accounted for 82% of total approved foreign investments.\n\nThe 4,387 approved projects are expected to generate more than 152,000 jobs, particularly in high-value sectors such as chip design, advanced electronics and precision engineering.\n\nMida chairman Tengku Datuk Seri Zafrul Abdul Aziz said in the statement that the agency was working with industry and education partners to ensure talent development kept pace with investors' needs.\n\nMeanwhile, approved investments in the manufacturing sector rose 13.3% year-on-year to RM106.3 billion across 1,353 projects, reversing a 25.1% contraction in the first half of the year.\n\nThe recovery was supported by major third-quarter investment approvals involving the production of optical transceivers for artificial intelligence (AI) data centres and liquefied natural gas processing.\n\nThe electrical and electronics (E&E) industry led manufacturing investment approvals, with investments jumping 85.3% to RM40.8 billion, followed by petroleum products including petrochemicals at RM13.2 billion, machinery and equipment at RM9.4 billion, basic metal products at RM6.7 billion and food manufacturing at RM6.4 billion.\n\nDomestic manufacturing investments surged 82.7% to RM37.8 billion while foreign manufacturing investments amounted to RM68.5 billion.\n\nApproved manufacturing projects are expected to generate 92,489 jobs, up 27.3% from 72,672 a year earlier, with 78% of the positions allocated to Malaysians. Some 16,607 jobs are expected to offer monthly salaries of RM5,000 and above.\n\nJohor attracted the highest approved investments in the nine-month period at RM99.7 billion, followed by Selangor at RM87.9 billion, Penang at RM41.1 billion, Kuala Lumpur at RM37.3 billion and Sabah at RM19.5 billion.\n\nForeign investments accounted for 81.7%, or RM81.4 billion, of Johor's total approvals, the highest proportion among the five leading investment destinations.\n\nSelangor recorded the highest number of approved projects at 1,302 and the most expected jobs at 34,971 while Penang led in expected manufacturing employment with 26,643 jobs.\n\nOn project implementation, Mida said 87.4% of the 6,202 manufacturing projects approved between 2021 and September 2026 had reached various stages of production, factory construction or machinery installation.\n\nAnother 9.5% remained in the planning stage while 3.1% had yet to be implemented.\n\nAs at October, Mida had 223 proposed investment projects worth RM41.2 billion in its pipeline, comprising 119 manufacturing projects worth RM18.6 billion and 104 services projects worth RM22.6 billion.\n\nThe agency was also in discussions over potential investments worth a further RM60.5 billion.\n\nMida CEO Datuk Sikh Shamsul Ibrahim Sikh Abdul Majid said investment approvals needed to translate into actual economic activity.\n\n\"Approval is an important milestone but implementation is what delivers factories, business activities and jobs,\" he said.\n\nEdited ByPresenna Nambiar\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/826124"
+    },
+    {
+      "id": "2026-11-17-5fdc85",
+      "title": "MyDCD makes ACE Market debut",
+      "summary": "MyDCD began its maiden day of trade amid a broader selldown on investments related to data centres. The engineering services firm opened at 48 sen compared to its IPO price of 56 sen per share.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "data centre",
+        "ipo",
+        "capital markets"
+      ],
+      "published_at": "2026-11-17T07:37:42Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/826122",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "MyDCD"
+      ],
+      "title_zh": "MyDCD在ACE市场 debut",
+      "content": "Tuesday\n17 Nov 2026\nBURSA\nSGX\nHome\nMake\nThe Edge Malaysia\nyour preferred source on Google\nMyDCD began its maiden day of trade amid a broader selldown on investments related to data centres. The engineering services firm opened at 48 sen compared to its IPO price of 56 sen per share.\nMost Read\nJust In\nPrint\nText Size\nShare",
+      "content_url": "https://theedgemalaysia.com/node/826122"
+    },
+    {
+      "id": "2026-11-17-416607",
+      "title": "Chinese AI stocks down as US chip curbs hit labs and hyperscalers",
+      "summary": "Chinese AI-related stocks fell sharply following tightened US semiconductor export controls, with major domestic hyperscalers and AI model developers including Alibaba, Baidu, and ByteDance affiliates suffering significant losses as their access to advanced training chips faces further constraints.",
+      "why_it_matters": "The market reaction accelerates China's push for domestic GPU alternatives and may redirect Chinese AI training demand toward APAC third-party data centers in jurisdictions with less explicit US technology restrictions, though the remote access rule closes some avenues—Southeast Asian operators must now assess whether serving Chinese AI labs' inference workloads is commercially viable without triggering secondary sanctions exposure.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "hyperscale",
+        "regulation"
+      ],
+      "published_at": "2026-11-17T06:56:05Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/826104",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "美国芯片限制打击实验室和hyperscaler，中国AI股票下跌",
+      "summary_zh": "美国半导体出口管制收紧后，中国AI相关股票大幅下跌，包括阿里巴巴、百度和字节跳动关联公司在内的主要国内hyperscalers和AI模型开发商遭受重大损失，因其获取先进训练芯片的渠道面临进一步限制。",
+      "why_zh": "市场反应加速了中国对国产GPU替代品的推动，并可能将中国的AI训练需求转向美国技术限制较不明确的亚太第三方数据中心，尽管远程访问规则关闭了一些渠道——东南亚运营商现在必须评估服务中国AI实验室的推理工作负载是否具有商业可行性，而不会触发次级制裁风险。",
+      "content": "(Nov 17): Chinese artificial-intelligence (AI) stocks tumbled on Tuesday after the US moved to further restrict access to advanced chips, with the country’s biggest hyperscalers and AI model developers among the hardest hit.\n\nAlibaba Group Holding Ltd shares dropped as much as 5.6% in Hong Kong while Baidu Inc’s tumbled 6.6%, helping drag the Hang Seng Tech Index down 2.3%. AI model pure plays Minimax Group Inc and Z.AI Co, or Zhipu, fell more than 6% each, while robot maker Yushu Technology Co sank as much as 11% in Shanghai.\n\nThe broad sell-off underscores how tighter US restrictions threaten multiple layers of China’s AI industry, from cloud giants supplying computing power to model developers racing to catch up with US rivals. The proposed rules could raise the cost of accessing advanced compute and close off overseas routes Chinese firms have used to work around existing restrictions.\n\n“We see this as a negative development for China’s AI cloud industry, as tighter access to advanced computing resources could constrain AI model training and slow cloud revenue growth,” Nomura Holdings Inc analysts Jialong Shi and Rachel Guo wrote in a note.\n\nThe draft regulation would require data centre operators in Singapore, Malaysia, Thailand, Indonesia and Brazil to obtain a US government license before exporting advanced chips to customers in those countries. That would go a step beyond existing restrictions that prevent Chinese tech firms from directly buying some of the most advanced US chips.\n\nThe new rule was released days after Jensen Huang’s resignation as Nvidia’s chief executive officer following his admission to an affair with a suspected Chinese spy. Tech investors remain on edge with key earnings also due this week from Nvidia as well as Alibaba and Tencent Holdings Ltd.\n\n“The curbs add a concrete risk to revenues and access to computing capacity, but they are landing in a market already nervous about AI valuations, spending returns and Nvidia’s leadership outlook,” said Charu Chanana, the chief investment strategist of Saxo Markets. “This is a meaningful escalation.”\n\nThe fallout extended beyond China. Samsung Electronics Co fell as much as 3.3% and Advantest Corp slid 6.3%, extending losses among Asian technology hardware shares already under pressure from the turmoil surrounding Nvidia and persistent concerns over AI financing.\n\n“Tighter restrictions could raise concerns about slowing sales growth and may weigh on earnings in the short term” for Asian chip-related firms, said Hideyuki Ishiguro, the chief strategist of Nomura Asset Management. Some investors may also be selling holdings to raise cash ahead of the initial public offering of Anthropic PBC.\n\nSoutheast Asian stocks exposed to the AI build-out also came under pressure. Malaysia’s YTL Power International Bhd (KL:YTLPOWR), which has benefited from expectations of surging electricity demand from data centres, slumped nearly 10%.\n\nChinese chipmakers were a notable exception, as investors bet tighter US restrictions will accelerate the shift toward home-grown technology. Hong Kong-listed shares of Semiconductor Manufacturing International Corp climbed as much as 6.4% while Hua Hong Grace Semiconductor Ltd surged 12%.\n\n*Uploaded by Tham Yek Lee*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/826104"
+    },
+    {
+      "id": "2026-11-17-3cb02e",
+      "title": "Nvidia issues not affecting Malaysia's position on AI, semiconductors, says Akmal Nasrullah",
+      "summary": "Any developments related to Nvidia do not significantly change Malaysia’s position of continuing to strengthen the semiconductor and artificial intelligence (AI) sectors, said Minister of Economy Akmal Nasrullah Mohd Nasir.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "nvidia",
+        "semiconductor"
+      ],
+      "published_at": "2026-11-17T06:17:40Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/826097",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "title_zh": "Akmal Nasrullah表示NVIDIA相关问题不影响马来西亚在AI和半导体领域的地位",
+      "content": "PUTRAJAYA (Nov 17): Any developments related to Nvidia do not significantly change Malaysia’s position of continuing to strengthen the semiconductor and artificial intelligence (AI) sectors, said Minister of Economy Akmal Nasrullah Mohd Nasir.\n\nAkmal Nasrullah said Malaysia remains focused on investing in high-growth and high-value sectors, including semiconductors and AI, to create added value and better returns for the country.\n\nHe said issues related to Nvidia are now being handled at the level of the Ministry of Investment, Trade and Industry (Miti), and from the perspective of national economic planning, the focus on two sectors remains.\n\n“So far, it has not significantly changed anything or actually altered our position to continue promoting the semiconductor and AI sectors,” he told the media after attending the Ministry of Economy’s monthly gathering here on Tuesday.\n\nThe minister was asked to comment on the issue involving Nvidia and its impact on the country’s semiconductor sector.\n\nAkmal Nasrullah elaborated that the growth of Malaysia’s manufacturing and semiconductor export sector is not directly related to the issue.\n\nPrime Minister Datuk Seri Anwar Ibrahim had previously emphasised that there is no indication that AI chips related to the Nvidia-Megaspeed issue were exported from Malaysia.\n\nMiti also said it has never granted any approval to Megaspeed International Pte Ltd, based in Singapore, or its Malaysian subsidiary, Speedmatrix Sdn Bhd.\n\nAccording to Miti, Speedmatrix is a data centre tenant in Malaysia and has brought its own servers and AI chips into the country for its operations.\n\nThe ministry said it is working with the Royal Malaysian Customs Department to determine whether any of the chips have been re-exported to other countries and comply with Malaysian laws.\n\n*Uploaded by Tham Yek Lee*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/826097"
+    },
+    {
+      "id": "2026-11-17-c90146",
+      "title": "Data centre-linked MN Holdings, Critical Holdings fall nearly 20% as US announces new chip export controls",
+      "summary": "Shares of data centre-related infrastructure players MN Holdings Bhd (KL:MNHLDG) and Critical Holdings Bhd (KL:CHB) plunged nearly 20% on Tuesday, triggering an automatic suspension in intraday short selling (IDSS), amid concerns over tighter US export controls on advanced artificial intelligence (AI) chips.",
+      "why_it_matters": "",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "regulation",
+        "investment",
+        "data-centre"
+      ],
+      "published_at": "2026-11-17T05:38:56Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/826085",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "MN Holdings",
+        "Critical Holdings"
+      ],
+      "title_zh": "数据中心相关公司MN Holdings、Critical Holdings暴跌近20%，因美国宣布新芯片出口管制",
+      "content": "KUALA LUMPUR (Nov 17): Shares of data centre-related infrastructure players MN Holdings Bhd (KL:MNHLDG) and Critical Holdings Bhd (KL:CHB) plunged nearly 20% on Tuesday, triggering an automatic suspension in intraday short selling (IDSS), amid concerns over tighter US export controls on advanced artificial intelligence (AI) chips.\n\nMN Holdings fell as much as 65 sen or 19.35% to RM2.71, its lowest since July 14. The stock pared its losses to RM2.74 at the noon break, down 62 sen or 18.45%, with 19.08 million shares traded. At that price, the company had a market capitalisation of RM1.93 billion.\n\nCritical Holdings dropped as much as 40 sen or 19.51% to RM1.65, with 2.74 million shares traded, valuing the company at RM674.71 million.\n\nIDSS is automatically triggered when a stock's last traded price falls more than 15 sen or 15% below its reference price. Short selling for both counters will resume at 8.30am on Wednesday.\n\nThe sell-off followed new US export controls tightening China's access to advanced AI chips. The rules require licences for the export, re-export or transfer of advanced semiconductors to Malaysia, Singapore, Indonesia, Thailand and Brazil, raising concerns over potential disruptions to the chip supply chain.\n\nThe requirements also compel data centres, foreign foundries and chip exporters to conduct enhanced due diligence on customers, including checks on direct or indirect ownership or control by entities in US-embargoed destinations or Macau.\n\nMN Holdings and Critical Holdings are among the engineering and infrastructure companies supporting Malaysia's growing data centre and high-voltage infrastructure market.\n\nThe broader technology sector also came under pressure, with the Bursa Malaysia Technology Index falling more than 6% on Tuesday.\n\nAn analyst said the new US requirements could delay data centre projects as operators assess the implications of the licensing rules.\n\n\"Notably, the previous AI diffusion rule had delayed data centre project awards by six to seven months.\n\n\"We expect near-term sentiment pressure across power infrastructure names, although contractors with more diversified order books and lower data centre concentration should be relatively less affected,\" the analyst added.\n\nEdited ByPresenna Nambiar\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/826085"
+    },
+    {
+      "id": "2026-11-17-e857b7",
+      "title": "MyDCD expects maintenance revenue growth as data centre projects reach completion",
+      "summary": "MyDCD Bhd (KL:MYDCD) expects its maintenance revenue to grow as more data centre projects reach completion, while pursuing opportunities to service facilities built by other contractors.",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "data-centre",
+        "maintenance",
+        "revenue"
+      ],
+      "published_at": "2026-11-17T04:55:37Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/826078",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "MyDCD"
+      ],
+      "title_zh": "MyDCD预计随着数据中心项目完工，维护收入将增长",
+      "content": "KUALA LUMPUR (Nov 17): MyDCD Bhd (KL:MYDCD) expects its maintenance revenue to grow as more data centre projects reach completion, while pursuing opportunities to service facilities built by other contractors.\n\n“We expect maintenance revenue to increase progressively as more of our ongoing projects are completed and transition into the maintenance phase,” MyDCD chief executive officer Chris Ow Yong said.\n\nThe engineering services company posted RM19.8 million in maintenance revenue for the financial year ended June 30, 2026 (FY2026) — a small fraction of its total revenue of more than RM666 million for the year.\n\nMoving forward, growth would be supported by the increasing number of data centres in Malaysia and its growing portfolio of completed projects, it said, without providing a growth target.\n\n“Beyond our existing projects, we also see potential opportunities in the broader data centre maintenance market, including both new and existing facilities, and will continue to evaluate such opportunities as they arise,\" said Ow Yong in a follow-up call with *The Edge.*\n\nWATCH: MyDCD on building long-term customer relationships\n\nEarlier, at MyDCD’s ACE Market listing ceremony, Ow Yong told reporters that maintenance services allowed the group to retain customers beyond project delivery.\n\n“After completing the build, then we continue to do maintenance. That’s why our customer back in 2011 is still our customer today,” he said.\n\nOw Yong added that the group also sees opportunities to maintain data centres it did not build.\n\nAt end-September, MyDCD had RM53.08 million in outstanding maintenance services and parts orders, expected to be recognised progressively through FY2032.\n\nThese formed part of its RM1.32 billion outstanding order book. The remaining RM1.27 billion comprised data centre engineering integration work, expected to be recognised progressively through FY2028.\n\nMyDCD specialises in mechanical, electrical, plumbing and fire protection engineering services, primarily for data centres. Its services include engineering support, installation, testing and commissioning, as well as preventive and corrective maintenance.\n\nSeparately, Ow Yong attributed the group’s stronger first-quarter profit margin to value engineering work on its projects.\n\nMyDCD posted net profit of RM25.71 million on revenue of RM178.68 million for the first quarter ended Sept 30, 2026 (1QFY2027), translating into a net profit margin of 14.4%, compared with approximately 10% for the full FY2026.\n\nOw Yong said earnings could fluctuate between quarters but did not provide a margin target for the rest of FY2027.\n\nThe group raised RM187.6 million through its initial public offering (IPO), with RM134 million allocated for working capital and RM39.9 million for business expansion. Another RM5 million is earmarked for information technology upgrades, followed by RM8.7 million for listing expenses.\n\nMyDCD opened at 48 sen on Tuesday, eight sen or 14.3% below its IPO price of 56 sen, valuing the company at RM861.12 million.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/826078"
+    },
+    {
+      "id": "2026-11-17-75e60b",
+      "title": "US chip curbs, Nvidia uncertainty weigh on Asian data center stocks",
+      "summary": "Asian data center stocks have declined amid market anxiety over expanding US chip export restrictions and uncertainty surrounding Nvidia's business trajectory in China, with investors reassessing growth assumptions for regional operators dependent on AI infrastructure deployment.",
+      "why_it_matters": "Public market volatility exposes how tightly APAC data center valuations are coupled to US-China semiconductor policy rather than underlying demand, creating a financing challenge for listed developers and REITs that may need to diversify revenue streams away from China-facing GPU colocation toward ASEAN enterprise and sovereign cloud contracts.",
+      "score": 85,
+      "heat": 2,
+      "regions": [
+        "japan",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "regulation",
+        "investment",
+        "ai"
+      ],
+      "published_at": "2026-11-17T09:18:27Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/markets/us-chip-curbs-nvidia-uncertainty-weigh-on-asian-data-center-stocks",
+          "type": "rss"
+        },
+        {
+          "name": "Nikkei Asia — data center search",
+          "url": "https://asia.nikkei.com/business/markets/us-chip-curbs-nvidia-uncertainty-weigh-on-asian-data-center-stocks",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "title_zh": "美国芯片管制、NVIDIA不确定性拖累亚洲数据中心股票",
+      "summary_zh": "亚洲数据中心股票因美国芯片出口限制扩大和Nvidia在中国业务前景的不确定性而下跌，投资者正在重新评估依赖AI基础设施部署的区域运营商的增长预期。",
+      "why_zh": "公开市场波动暴露出亚太数据中心估值与美国对华半导体政策的紧密关联，而非底层需求，这给上市开发商和REITs带来融资挑战，它们可能需要将收入来源从面向中国的GPU colocation转向东盟企业和主权云合同以实现多元化。",
+      "content": "TOKYO -- From Malaysia to Singapore to Japan, AI-related stocks are being hit as concerns over the data center boom mount following the resignation of Nvidia chief Jensen Huang and newly announced U.S. chip rules.\n\nMarkets\n# US chip curbs, Nvidia uncertainty weigh on Asian data center stocks\n\nAI-related shares tumble in Malaysia, Singapore and Japan\n\nA 800 VDC Next-Generation AI Data Center model is displayed at Foxconn's annual Hon Hai Tech Day, in Taipei on Oct. 30. © Reuters",
+      "content_url": "https://asia.nikkei.com/business/markets/us-chip-curbs-nvidia-uncertainty-weigh-on-asian-data-center-stocks"
+    },
+    {
+      "id": "2026-11-17-1423d8",
+      "title": "US investigates Singapore based Megaspeed over suspected semiconductor export violations",
+      "summary": "The US Department of Justice has escalated a criminal investigation into Singapore-based Megaspeed, a cloud and AI infrastructure provider, for suspected semiconductor export control violations. The probe, which began with the Department of Commerce in 2024, signals heightened US enforcement against potential chip diversion through cloud services in Southeast Asia.",
+      "why_it_matters": "This raises the compliance bar for APAC-based cloud and colocation providers handling advanced GPUs, as the DOJ's involvement signals potential criminal liability—not just administrative penalties—for companies caught in US-China chip diversion schemes. Data center operators in Singapore and neighboring hubs may face more rigorous customer due diligence and US government scrutiny.",
+      "score": 90,
+      "heat": 1,
+      "regions": [
+        "southeast-asia",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "regulation",
+        "export controls",
+        "investigation"
+      ],
+      "published_at": "2026-11-17T08:05:17Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/us-investigates-singapore-based-megaspeed-over-suspected-semiconductor-export-violations/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Megaspeed"
+      ],
+      "title_zh": "美国调查总部位于新加坡的Megaspeed涉嫌半导体出口违规",
+      "summary_zh": "美国司法部已升级对新加坡云计算和AI基础设施提供商Megaspeed的刑事调查，因其涉嫌违反半导体出口管制。该调查始于2024年商务部的前期行动，表明美国加强对通过东南亚云服务进行芯片转移行为的执法力度。",
+      "why_zh": "这将提高亚太地区处理先进GPU的云计算和colocation提供商的合规门槛，因为司法部的介入意味着被卷入中美芯片转移计划的公司可能面临刑事责任，而不仅是行政处罚。新加坡及邻近枢纽的数据中心运营商可能面临更严格的客户尽职调查和美国政府审查。",
+      "content": "The US Department of Justice is continuing its criminal investigation into Megaspeed, a Singapore based cloud computing and artificial intelligence infrastructure provider, over suspected semiconductor export control violations, following an initial probe by the Department of Commerce in 2024. The investigation is now being led by the Department of Justice (DOJ) with assistance from the Department of Commerce (DOC) which began after authorities detected suspicious activity involving potential semiconductor diversion.\n\nIn a joint statement, the two departments indicated that they would pursue any criminal conduct uncovered during the investigation. However, they did not disclose specific allegations against Megaspeed, identify the suspected destination of any potentially diverted semiconductors or indicate whether charges had been filed.\n\n“The Department of Justice and the Department of Commerce’s Bureau of Industry and Security working together will bring the full extent of the law against Megaspeed for any criminal conduct that may have occurred,” they said. “Sensitive technologies like semiconductors are among the most valuable and strategic assets of the U.S. economy, and the Department of Justice and the Department of Commerce will remain vigilant in pursuing justice for those who want to compromise America’s technological edge.”\n\n#### **How the investigation unfolded**\n\nShedding light on how things transpired, the DOC and DOJ’s statement said that in May 2025, Department of Commerce investigators requested records from Nvidia regarding direct or indirect sales to Megaspeed. In June 2025, Nvidia added the Singaporean company to its “no sell” list, barring further sales while investigators from the Commerce Department’s Bureau of Industry and Security (BIS), working with Singaporean law enforcement officials, conducted an on-site end-use inspection at Megaspeed’s premises.\n\nFollowing the inspection, the DOJ assumed the lead role in the criminal investigation, while BIS continued to work with federal prosecutors on the case. The update comes amid increased scrutiny of suspected attempts to divert advanced semiconductors through third party companies to circumvent US export restrictions.\n\nReferring to its previous track record of cracking down on semiconductor smuggling it said, “Under the Trump Administration, seventeen defendants across six separate investigations have been charged in connection with allegations of smuggling billions of dollars’ worth of semiconductors.”\n\nThe Commerce Department has also increased monetary penalties in export control cases, describing the total as 18 times higher than during the Biden administration. The departments did not provide a timeline for the Megaspeed investigation or say whether additional enforcement actions were expected.\n\n#### **Megaspeed says it will cooperate with investigations**\n\nJust a few days before this, on November 12, Tan Yong Pong, Chairman & CEO, Megaspeed International Pte. Ltd. had also made an official statement on the company website, saying, “Megaspeed takes its compliance obligations under U.S. export control laws extremely seriously. Compliance is a fundamental priority for the company, and Megaspeed is committed to working constructively and transparently with the U.S. government. Megaspeed has cooperated with inspections by the U.S. Department of Commerce’s Bureau of Industry and Security (BIS) and stands ready to cooperate fully with any other relevant U.S. government authority.”\n\nHe also said, “To further reinforce our commitment to compliance, Megaspeed has retained a leading U.S. law firm to lead a comprehensive census of its graphics processing units (GPUs) and independently verify its export control compliance practices. Megaspeed welcomes appropriate government scrutiny and is committed to demonstrating through concrete actions that it operates responsibly, transparently, and in accordance with applicable U.S. laws.”",
+      "content_url": "https://w.media/us-investigates-singapore-based-megaspeed-over-suspected-semiconductor-export-violations/"
+    },
+    {
+      "id": "2026-11-17-9b794c",
+      "title": "China taps US AI models to train homegrown rivals as chip curbs bite",
+      "summary": "Chinese researchers and companies are increasingly using distillation techniques to train domestic AI models on outputs from restricted US models like GPT-4, circumventing chip constraints by reducing computational requirements while attempting to maintain competitive capabilities in manufacturing and industrial applications.",
+      "why_it_matters": "Model distillation as a workaround to chip shortages extends the strategic relevance of APAC data center capacity with access to both Chinese and Western AI ecosystems, as distilled model deployment requires less GPU intensity but still demands reliable inference infrastructure—creating niche opportunities for neutral colocation providers in Hong Kong, Singapore, and Malaysia that can host cross-border model serving without direct US technology re-export exposure.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "regulation",
+        "distillation"
+      ],
+      "published_at": "2026-11-17T06:39:44Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "China利用美国AI模型训练本土竞争对手，因芯片限制收紧",
+      "summary_zh": "中国研究人员和企业正越来越多地使用distillation技术，基于GPT-4等受限美国模型的输出训练国产AI模型，通过降低计算需求来规避芯片限制，同时试图在制造业和工业应用中保持竞争能力。",
+      "why_zh": "模型distillation作为芯片短缺的变通方案，扩展了能够接触中国和西方AI生态系统的亚太数据中心容量的战略相关性，因为蒸馏模型部署需要较低的GPU强度但仍需要可靠的推理基础设施——为香港、新加坡和马来西亚的中立colocation提供商创造细分机会，它们可以托管跨境模型服务而不会直接面临美国技术再出口风险。",
+      "content": "Beijing is encouraging the use of distillation to make AI easier to deploy across the manufacturing sector\n\n\\[BEIJING\\] Chinese entities are adopting increasingly sophisticated ways to use output from leading American artificial intelligence models to train domestic rivals, documents show, as China aims to broaden its AI strategy and offset tightening US curbs on its access to chips.\n\nA Reuters review of more than 300 Chinese academic papers, patents, corporate disclosures, recruitment notices and government documents reveals how the practice – known as distillation – has expanded beyond academic experiments into mainstream industrial use in China.\n\nThe records describe Chinese researchers using US models to produce answers to questions, build computer code and find solutions to difficult problems, with Chinese companies then developing software to automate the process and specialist workers preparing material for training smaller domestic models.\n\nThe documents also show that Beijing is encouraging distillation to make AI cheaper and easier to deploy across China’s powerful manufacturing sector.\n\nDistillation is not illegal and is prevalent in other parts of the world.\n\nWhile the process cannot reproduce a leading model’s full capabilities or eliminate the need for advanced computing power, it can help developers preserve selected skills in smaller systems that cost less to operate, potentially reducing their reliance on American technology.\n\nChina’s broadening use of distillation could undercut the effectiveness of US curbs on the sale of advanced chips to China, as its developers can build AI capabilities by drawing on those of their American rivals.\n\nWashington said on Monday (Nov 16) it would further restrict China’s access to such chips from companies like Nvidia.\n\nDistillation is also a source of friction between the world’s two biggest economies ahead of the Nov 18 to 19 Asia-Pacific Economic Cooperation summit in Shenzhen, where US President Donald Trump and his Chinese counterpart Xi Jinping are expected to meet.\n\nUS authorities publicly accused Chinese companies in September of aggressive, targeted distillation of American AI models on an industrial scale.\n\nAnd at meetings in Chengdu in July, US Commerce Department officials raised concerns with Chinese regulators about developers collecting output from leading American AI models, warning that some activities could amount to intellectual property (IP) theft, three people familiar with the discussions said.\n\nChinese officials defended distillation as a standard AI-development technique and said they were open to acting where the conduct constituted IP theft, but made no concrete commitments, according to a US official familiar with the previously unreported exchange.\n\nThe US Commerce Department and China’s Cyberspace Administration did not respond to requests for comment.\n\n## From American answers to Chinese models\n\nDistillation involves a powerful “teacher” model generating answers or demonstrating how to complete tasks, which developers use to train a smaller “student” system.\n\nFor Chinese developers facing constraints on computing power, the attraction is in making one expensive query do repeated work, according to a former Alibaba Group engineer who spoke on condition of anonymity.\n\nAn American model can generate the answer to a difficult question once, allowing a Chinese team to retain useful examples and train a local system around them.\n\nIn a November 2024 paper, Shanghai Jiao Tong University researchers described selecting about 5,000 answers from OpenAI’s o1 model, translating them using GPT-4o mini and assembling 10,750 bilingual training examples to further train Alibaba’s Qwen2.5-72B model.\n\nThe researchers also cautioned that excessive reliance on distillation could stifle original innovation, leaving developers dependent on breakthroughs made by more advanced model providers.\n\nThe project illustrated how American model output can become reusable data, allowing developers to improve domestic systems without repeatedly consulting the original provider.\n\nAlibaba researchers described a more systematic approach in an April 2025 paper, using OpenAI’s GPT-4 and GPT-4o to generate training material in languages other than Chinese, then refining and scoring responses before training smaller Qwen models.\n\nIn a February 2026 paper, researchers from Shanghai Jiao Tong University and Chinese food delivery company Meituan described using GPT-4o to generate plans for coordinating AI agents working together on programming problems, helping train a smaller model to organise such tasks.\n\nShanghai Jiao Tong University, Alibaba and Meituan did not respond to requests for comment.\n\n## A growing geopolitical dispute\n\nAmong leading American AI companies, OpenAI’s terms restrict using its output to develop competing models, subject to exceptions, while Anthropic similarly restricts training competing systems without permission.\n\nA US official familiar with the July Chengdu regulatory discussions said Washington believes industrial-scale distillation is the main reason Chinese AI models have narrowed the gap with their American rivals.\n\nTwo people familiar with Chinese developers’ operations disputed that assessment, saying distillation was only one factor alongside advances in engineering, algorithms, data and model design.\n\nChinese government documents do not instruct companies to distil American models but encourage distillation as part of Beijing’s push to spread AI across the world’s second-largest economy.\n\nA national AI+Manufacturing policy package published by eight Chinese government agencies in January includes guidance supporting model training, fine-tuning and distillation for industrial applications.\n\nShanghai and Shenzhen have also encouraged techniques to reduce computing requirements.\n\nThe policies reflect Beijing’s ambition to deploy smaller, cheaper AI systems across industries.\n\nConcerned by distillation’s growing geopolitical sensitivities, Chinese AI developers have in recent months asked Beijing’s industry regulator for guidance on the boundaries between ordinary use of foreign models and organised collection of output for training, according to one person familiar with the discussions.\n\nChina’s Ministry of Industry and Information Technology did not respond to a request for comment. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/international/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite"
+    },
+    {
+      "id": "2026-11-17-ad5292",
+      "title": "China's top AI firms limit cyber capabilities in latest models",
+      "summary": "The moves follow a series of signals from China’s government about the risks posed by AI",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "china"
+      ],
+      "topics": [
+        "ai",
+        "regulation",
+        "cybersecurity"
+      ],
+      "published_at": "2026-11-17T03:39:38Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/global/chinas-top-ai-firms-limit-cyber-capabilities-latest-models",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "中国顶级AI公司限制最新模型的网络能力",
+      "content": "The moves follow a series of signals from China’s government about the risks posed by AI\n\nCHINA’S top AI developers are releasing advanced models with reduced offensive cyber capabilities, stifling their ability to aid online attacks following a government proposal to ban such technology from being exported.\n\nRecent models from Alibaba Group, Tencent and Moonshot AI have featured scaled-down offensive abilities and improved defensive aptitude. Alibaba unveiled the latest edition of its flagship Qwen series without its weights, the internal settings that shape how a model responds, preventing users from downloading and customising the model’s full version.\n\nSo-called open-weight systems are attractive to hackers because they can run them locally and configure their settings. DeepSeek’s models have proved particularly popular, while Alibaba’s Qwen series has been ranked among the most downloaded open-weight model families in the world.\n\nFor months, US AI companies have also been restricting access to their most cyber-capable systems. Anthropic PBC has kept its Mythos Preview model out of general release, making it available to selected organisations for defensive security work.\n\nLast month, researchers at CrowdStrike Holdings said hackers used DeepSeek’s model to carry out attacks against organisations in 14 countries.\n\n“The cyber ability of models, and soon the bio ability of the models, will reach a threshold where it’s actually possible to do harm,” said Yao Shunyu, Tencent’s chief AI scientist who previously worked for OpenAI, at an event this month in Hong Kong.\n\nTencent reduced cyber functions from its Hy4 model before releasing it earlier this month. Moonshot took a similar approach with its Kimi K3.1 Pro model, while Z.AI carried out security reviews and alerted organisations to system vulnerabilities before making its GLM-5.3 system open-weight in August.\n\nThe moves follow a series of signals from China’s government about the risks posed by AI.\n\nLast month, China’s Ministry of Commerce unveiled plans for an export ban on AI tools capable of attacking critical national infrastructure, attacking government networks or threatening military targets.\n\nUnder the draft proposal, large language models deemed “world-leading” could also face restrictions on overseas deployment.\n\nIn early November, China’s top economic planner said it was accelerating the rollout of new safety standards and ethical guidelines for AI developers.\n\nAn official at the National Development and Reform Commission said there’s now a broad consensus about the opportunities and risks of AI, and that the country intends to embed security measures during the development process.\n\n“China is trying to strike a balance between international commercialisation and strategic control of its AI technologies,” said Charles Li, chief analyst at TeamT5, an organization that tracks Asia Pacific cyber activity. “As Chinese frontier models reportedly narrow the gap with their US counterparts in cybersecurity capabilities, Beijing increasingly views these capabilities as strategic assets that warrant tighter export controls.”\n\nIn the US, AI products were linked to a spate of autonomous cyberattacks in recent months, raising concerns about the technology’s ability to carry out offensive operations without human oversight.\n\nOver the summer, American firms Anthropic PBC and OpenAI reported incidents in which their models eluded security controls and attacked third-party websites.\n\nThe spate of incidents alarmed researchers and government leaders, prompting calls for more rigorous safety screening and more secure testing environments.\n\nIn collaboration with the US government, Anthropic has allowed a select group of organisations to test the cyber abilities of its most advanced systems.\n\nChinese AI models have raised similar fears, with Moonshot’s Kimi K3 breaking out of a testing environment from the UK government’s AI Security Institute.\n\nThough the model did not try to breach other companies’ websites, as in some of the other episodes, the test showed it lacks cybersecurity controls, researchers said at the time.\n\nStripping cyber offence materials from training is a good way to make it harder for bad actors to use open-weight models to do harm, said Xiaojian Li, founder of AI safety firm Fangcun AI.\n\n“It’s a good balance between cost and effectiveness, but it’s not perfect,” he said. “There is no such method now that can completely eliminate models’ risk.” BLOOMBERG\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/international/global/chinas-top-ai-firms-limit-cyber-capabilities-latest-models"
+    },
+    {
+      "id": "2026-11-17-03e708",
+      "title": "Colt DCS advocates power-first data centre strategy",
+      "summary": "Colt Data Centre Services' David Knox argues for a power-first approach to data centre strategy. Grid constraints and accelerating AI demand are reshaping how and where new capacity is built.",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "power",
+        "strategy",
+        "capacity",
+        "colocation"
+      ],
+      "published_at": "2026-11-17T03:32:01Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/colt-dcs-advocates-power-first-data-centre-strategy/135909029",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Colt DCS"
+      ],
+      "title_zh": "Colt DCS倡导power-first数据中心战略",
+      "content": "David Knox, Global Director of Energy & Sustainability at Colt Data Centre Services, argues that reliable power must shape data centre site selection from the outset.Grid connection queues are growing, and AI demand is accelerating faster than local power networks can deliver. This forces developers to rethink where, when, and how new capacity is built.The UK government reported a 460 per cent increase in power grid connection queues in six months. This rise is linked to a significant increase in speculative applications.AI data centres require several times the power density of traditional facilities. The number of operators seeking this level of capacity is growing.Most countries have sufficient power generation capacity to support AI data centre growth. However, local network constraints often mean demand exceeds what can be accommodated.Grid access is no longer a straightforward process. It is an ongoing negotiation that affects design assumptions and delivery risks from the outset.Organisations must prioritise flexibility in their grid access approach for AI data centres. This includes using modular power systems and hybrid supply models.Modular power systems support phased construction and energisation. This allows providers to respond more effectively to grid delays.Hybrid supply models can introduce additional power sources. They reduce reliance on the grid and improve resilience, acting as a capacity-bridging tool.Developers are rethinking location strategy for AI data centres. Competitiveness depends on certain power delivery and quick scaling.Historically, site selection focused on proximity to users, strong connectivity, and suitable land. Power was assumed to be available through standard grid connections.This assumption no longer holds. Many established data centre hubs have constrained or fully allocated grid capacity.Sites that appear ideal on paper can conceal significant delivery risks. These include long connection delays, complex network constraints, or substantial reinforcement costs.Developers must now balance traditional considerations with reliable power availability and scalability. The strongest location decisions prioritise speed to power, certainty of delivery, and long-term scalability.\n\n- Energy, Cooling & Sustainability\n- 2 min Read\n\n# Colt DCS advocates power-first data centre strategy\n\nColt Data Centre Services' David Knox argues for a power-first approach to data centre strategy. Grid constraints and accelerating AI demand are reshaping how and where new capacity is built.\n\n- Published On Nov 17, 2026 at 09:02 AM IST\n\n## Highlights\n\n- Colt DCS executive advocates power-first data centre location strategy.\n- Grid connection queues and AI demand reshape data centre capacity building.\n- UK government reports 460 per cent rise in power grid connection queues.\n- Modular power systems and hybrid supply models offer flexibility for grid access.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/colt-dcs-advocates-power-first-data-centre-strategy/135909029"
+    },
+    {
+      "id": "2026-11-17-d2e5c2",
+      "title": "Solar-plus-storage accelerates to meet data center demand",
+      "summary": "Solar power, increasingly paired with battery storage, is expanding rapidly to meet rising electricity demand from data centers and AI infrastructure. This combination addresses reliability concerns and accelerates deployment timelines compared to other generation sources.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "power",
+        "renewable-energy",
+        "solar",
+        "ai"
+      ],
+      "published_at": "2026-11-17T03:31:34Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/solar-plus-storage-accelerates-to-meet-data-center-demand/135909018",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "Solar-plus-storage加速发展以满足数据中心需求",
+      "content": "Solar power continues to achieve historic milestones globally, with technological advancements driving efficiency gains.Perovskite solar cells, for instance, are boosting panel efficiency above 30 per cent, compared to the 22 per cent typical for standard panels. These tandem cells layer perovskite materials on silicon to capture different light wavelengths, converting more energy from the same footprint, according to industry analysts.Solar paired with energy storage now constitutes more than 70 per cent of all new United States generation capacity. This integration addresses the intermittency of solar power by storing excess energy for dispatch when needed, even at night.Data centers are driving significant growth in electricity demand, with some hyperscalers resorting to building their own fossil-fueled power plants for immediate needs, Lindsey Wiedmann, Chief Legal and Sustainability Officer at Nextpower, said. Utility-scale solar, combined with storage and intelligent controls, offers a fast and cost-effective way to add substantial new generation sustainably, Wiedmann added.Google, for example, is developing data centers alongside large-scale solar and battery storage projects in Haskell County, Texas, and Gray and Roberts counties, Texas. These projects, like Google's solar field in St. Ghislain, Belgium, integrate power generation into campus design, James Mercer of Metro Colo Advisory said.Developers are co-locating solar and storage facilities next to data centers to reduce grid connection wait times and alleviate strain on local grids, Mercer noted. The United States energy storage market saw a record 18.9 GW of Battery Energy Storage System (BESS) installations in 2025, a 52 per cent increase over 2024, according to the American Clean Power Association and Wood Mackenzie.While recycling technologies for solar panels exist, more economical systems are needed to recover materials as electricity demand grows, Yagiz Sullu, founder and lead analyst at Sullu Strategic Advisory, said. Building a diversified and resilient electricity system is crucial rather than relying heavily on any single power source, Sullu added.\n\n- Energy, Cooling & Sustainability\n- 2 min Read\n\n# Solar-plus-storage accelerates to meet data center demand\n\nSolar power, increasingly paired with battery storage, is expanding rapidly to meet rising electricity demand from data centers and AI infrastructure. This combination addresses reliability concerns and accelerates deployment timelines compared to other generation sources.\n\n- Published On Nov 17, 2026 at 09:01 AM IST\n\n## Highlights\n\n- Perovskite solar cells boost panel efficiency above 30 per cent, exceeding standard silicon panels.\n- Solar-plus-storage accounts for over 70 per cent of new US generation capacity additions.\n- Hyperscalers like Google integrate large-scale solar and battery storage with new data centers.\n- Co-locating solar and storage reduces grid connection delays for data center developments.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/solar-plus-storage-accelerates-to-meet-data-center-demand/135909018"
+    },
+    {
+      "id": "2026-11-17-8c4730",
+      "title": "Grid utilisation crucial for meeting AI electricity demand",
+      "summary": "Most energy industry decision-makers anticipate artificial intelligence (AI) driven electricity demand will exceed current forecasts. Optimising existing grid infrastructure through improved utilisation and flexible interconnection is crucial to meet this demand faster than building new lines. This approach impacts data center power strategies.",
+      "why_it_matters": "",
+      "score": 65,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "power",
+        "grid",
+        "ai",
+        "capacity"
+      ],
+      "published_at": "2026-11-17T03:31:26Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/grid-utilisation-crucial-for-meeting-ai-electricity-demand/135909015",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "电网利用率对满足AI电力需求至关重要",
+      "content": "Most senior decision-makers in the energy industry expect artificial intelligence (AI) driven electricity demand to exceed current forecasts, according to a survey commissioned for ADIPEC. The poll found that 81 per cent of 1,528 respondents anticipate AI demand surpassing current projections, with 32 per cent expecting it to be much higher.A separate study by Jacobs, an engineering and consulting firm, highlights a capital and project gap. Among 600 energy-sector decision-makers across the U.S., U.K., Germany, Singapore, and Australia, 71 per cent reported sufficient capital availability in their regions. However, only 29 per cent indicated both enough capital and investable projects.Permitting and consenting were ranked among the top three biggest barriers by 80 per cent of respondents in the Jacobs study. ADIPEC's survey respondents identified delays in building and connecting grids as the second-biggest barrier to meeting demand, after geopolitics.\n### Optimising Existing Infrastructure\n\nState regulators are increasingly focusing on how much existing infrastructure can carry. The NC Clean Energy Technology Center's 50 States of Grid Modernization report for the third quarter of 2026 documented 411 grid modernization actions across 43 U.S. states, the District of Columbia, and Puerto Rico. This tally includes dockets, proposals, and enacted policy, indicating significant activity.A key trend identified is the push for metrics and planning rules on \"grid utilization,\" which measures how efficiently a utility uses its existing infrastructure. Virginia lawmakers were the first to mandate grid utilization metrics earlier this year, according to the report. California enacted a bill requiring public utility data on utilization opportunities and assessments of cost-effective solutions within distribution planning.Minnesota regulators directed Xcel Energy to incorporate utilization metrics into its next Integrated Distribution Plan. Colorado regulators initiated a rulemaking, requiring distribution system plans to include scenarios that use load flexibility to increase capacity utilization.Flexible interconnection is a practical approach to this. Xcel Energy has proposed offering both static and dynamic flexible interconnection in Colorado. This would allow customers to enroll temporarily until system upgrades are complete, or permanently as a long-term connection method.\n### Advanced Transmission Technologies\n\nNew Jersey enacted a law mandating utilities to consider advanced transmission technologies in project applications. Third-party cost-effectiveness testing is required to justify any decision to exclude these technologies. Ohio regulators approved a cost-effectiveness methodology that accounts for reduced system losses and avoided upgrades.Indiana regulators also published a study covering nine categories of these technologies. Brian Lips, a senior project manager at the NC Clean Energy Technology Center, stated that policymakers are increasingly interested in advanced transmission technologies. These allow utilities to improve grid usage without replacing existing infrastructure.Statkraft, as cited in the Jacobs report, demonstrated this approach by shortening a battery project's connection timeline from seven years to two. This was achieved by examining network data, equipment capability, and operating conditions. The solution involved accepting that the facility could be curtailed during limited periods of genuine constraint.Will Hazelip, U.S. president of National Grid, noted in the Jacobs report that rapid load growth is diminishing system spare capacity. This creates a \"resilience preparedness gap.\" The survey data suggests this gap is already evident, with 95 per cent of Jacobs' respondents confident in critical asset operation during disruptions. However, only 36 per cent described their resilience approach as proactive and embedded.\n\n- Energy, Cooling & Sustainability\n- 3 min Read\n\n# Grid utilisation crucial for meeting AI electricity demand\n\nMost energy industry decision-makers anticipate artificial intelligence (AI) driven electricity demand will exceed current forecasts. Optimising existing grid infrastructure through improved utilisation and flexible interconnection is crucial to meet this demand faster than building new lines. This approach impacts data center power strategies.\n\n- Published On Nov 17, 2026 at 09:01 AM IST\n\n## Highlights\n\n- 81 per cent of energy decision-makers expect AI electricity demand to exceed forecasts.\n- Only 29 per cent of surveyed decision-makers found sufficient capital and investable projects.\n- Permitting and grid connection delays are significant barriers to meeting energy demand.\n- Regulators are pushing for grid utilization metrics and flexible interconnection solutions.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/grid-utilisation-crucial-for-meeting-ai-electricity-demand/135909015"
+    },
+    {
+      "id": "2026-11-17-e14d1f",
+      "title": "Microsoft explains global outage, blames software bug and traffic surge",
+      "summary": "Microsoft identified a latent software defect, increased network traffic, and reduced server capacity as triggers for its global Microsoft 365 outage on November 12. The combination led to a cascading failure across its networking infrastructure. The defect had remained undetected for months due to inadequate testing.",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "outage",
+        "cloud",
+        "microsoft-365",
+        "infrastructure"
+      ],
+      "published_at": "2026-11-17T03:31:11Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/operations-resilience/microsoft-explains-global-outage-blames-software-bug-and-traffic-surge/135909010",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "title_zh": "Microsoft解释全球宕机原因，归咎于软件漏洞和流量激增",
+      "content": "Microsoft has attributed the global Microsoft 365 outage on November 12 to a combination of a software defect, increased network traffic, and reduced server capacity, according to Charles Lamanna, Executive Vice President of Copilot, Agents and Platform at Microsoft.These factors simultaneously overwhelmed the company's networking gateways, rendering a large proportion of servers unresponsive. Services including Teams, Exchange Online, OneDrive, SharePoint, and Office applications were disrupted.At its peak, over 80 per cent of the affected networking gateway servers were unresponsive. The underlying software defect, introduced in July 2026, remained undetected for over three months. Regular testing failed to replicate the specific hardware and traffic conditions that eventually triggered the failure.A sudden surge in network traffic was the second factor. Teams had failed over from an alternative gateway to the primary gateway about 15 hours before the outage. This increased the load and altered traffic patterns on the primary gateway, making the latent software defect more likely to be triggered.The third factor was a nearly 14 per cent reduction in server capacity. This was due to an unrelated issue from the previous day. While not enough to disrupt services on its own, this reduced capacity contributed to the failure when combined with the other factors.The disruption escalated into a cascading failure as Microsoft's traffic management systems redirected requests from unavailable servers to healthy ones. This increased the workload on operational servers, causing them to also encounter the software defect.Recovery efforts were complicated because automated restoration systems were not designed for such a widespread failure. Servers coming back online were immediately overwhelmed by accumulated requests. The global deployment of the defect also prevented quick rollbacks.Engineers eventually identified the defect and developed an update. They applied the fix by taking groups of servers offline, updating them, and restarting them. This gradual restoration helped prevent overwhelming recovering servers.\n\n- Operations & Resilience\n- 2 min Read\n\n# Microsoft explains global outage, blames software bug and traffic surge\n\nMicrosoft identified a latent software defect, increased network traffic, and reduced server capacity as triggers for its global Microsoft 365 outage on November 12. The combination led to a cascading failure across its networking infrastructure. The defect had remained undetected for months due to inadequate testing.\n\n- Published On Nov 17, 2026 at 09:01 AM IST\n\n## Highlights\n\n- Software defect, network traffic surge, and reduced server capacity caused outage.\n- Defect existed since July 2026, undetected due to insufficient testing.\n- Over 80 per cent of networking gateway servers were unresponsive at peak.\n- Automated systems struggled with widespread failure, complicating recovery.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/operations-resilience/microsoft-explains-global-outage-blames-software-bug-and-traffic-surge/135909010"
+    },
+    {
+      "id": "2026-11-17-e4e7db",
+      "title": "US-China split in strategic industries set to deepen as governments drive decoupling: Muzinich CEO",
+      "summary": "Spending on AI infrastructure will also fall in the longer term, he warns",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 2,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "infrastructure",
+        "investment",
+        "decoupling"
+      ],
+      "published_at": "2026-11-17T03:27:47Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/global/us-china-split-strategic-industries-set-deepen-governments-drive-decoupling-muzinich-ceo",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/international/global/us-china-split-strategic-industries-set-deepen-governments-drive-decoupling-muzinich-ceo",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Muzinich"
+      ],
+      "title_zh": "Muzinich CEO：政府推动脱钩，中美战略产业分裂将加深",
+      "content": "Spending on AI infrastructure will also fall in the longer term, he warns\n\n\\[SINGAPORE\\] The US and China will likely become increasingly divided in strategic industries – such as artificial intelligence and rare earths – amid rising geopolitical tensions, said Justin Muzinich, CEO of private-debt specialist Muzinich.\n\nAs the two superpowers increasingly regard each other as strategic rivals, it is “rational” for both countries to want to separate when it comes to strategic dependencies going forward, he noted.\n\n“The way I see the fault lines dividing is there will be a difference between strategic industries and non-strategic industries,” Muzinich said on Tuesday (Nov 17).\n\nHis comments come as the US announced new export controls on advanced AI semiconductor shipments to overseas data centres, following reports of these chips being illegally diverted to China through other countries, including Singapore.\n\nMuzinich was speaking on a panel on investing in a fragmented world at the HSBC Singapore Wealth Investment Summit 2026. With him was George Yeo, former Singapore foreign minister and visiting scholar at the Lee Kuan Yew School of Public Policy, National University of Singapore.\n\nThe session was moderated by Barry O’Byrne, HSBC’s CEO of international wealth and premier banking.\n\nMuzinich said both the US and China would prefer not to depend on each other for strategic industries, although this will not be the case for non-strategic sectors such as clothing exports.\n\nIn a separate interview with *The Business Times*, Muzinich noted that there is “still a lot of room for cooperation” in areas that are not considered as strategic, as both countries have an interest in sourcing the cheapest goods.\n\nMeanwhile, the new export controls – which prevent China from renting capacity in third-party countries – were a foreseeable and “totally logical consequence” of the initial goal of preventing exports, he said.\n\n“If you’re going to prevent the exports, you will probably also prevent circumventing those rules by allowing countries just to rent the space in third-party countries,” he added.\n\nBut while the US seemed determined to ban China’s access to Nvidia chips with the new export controls, Yeo does not expect this will restrict China. He said: “It’s clear that China’s AI development cannot be stopped.”\n\nMuzinich said in the panel that, to separate strategic industries, the government will have to step in to force it from the top down.\n\n“Companies ultimately care about the bottom line,” he pointed out. “The country should be willing to pay a cost, for instance, for having secure supply chains in strategic industries; private companies aren’t going to do that on their own.”\n\n## AI infrastructure could slow\n\nSeparately, Muzinich warned that spending on AI infrastructure will fall in the longer term, especially since the world is spending “so much” on AI investments currently.\n\n“There’s at least a decent probability that we’re in some sort of earnings bubble,” he said. “At some point, we’re going to have enough data centres for whatever AI people want to do, and we’re not going to need more, and revenue from all that will fall.”\n\nHe also expressed concern over mounting sovereign debt, especially in the US.\n\nHe said the US debt and deficit situation is “not sustainable”, with the US government unlikely to allow significant inflation, reduce spending or increase tax.\n\nThis could lead to a world where sovereigns are not considered the safest investments in the world in the next 10 years, with government yields surpassing corporate debt.\n\nIn the separate interview, Muzinich noted that corporate risk is not totally divorced from the government because governments can also influence corporates.\n\nNevertheless, he said the world is moving towards a time when it would be less risky to own a portfolio of diversified companies than one exposed to governments. Decision-makers in companies are rational and motivated by numbers, he explained, while governments may have high debt, and the decision-making may be driven by extreme politics.\n\nHe cited the example of Italy in 2012 to 2013, where corporates were doing well even amid sovereign risks.\n\n“Markets can be pretty rational,” he said. “You’d much rather give money to corporates that have low debt levels.”\n\n### Additional reporting by Jean Low\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nCopyright SPH Media. All rights reserved.",
+      "content_url": "https://www.businesstimes.com.sg/international/global/us-china-split-strategic-industries-set-deepen-governments-drive-decoupling-muzinich-ceo"
+    },
+    {
+      "id": "2026-11-17-04a77b",
+      "title": "GreenSquare commits to water stewardship standard for Sydney data centre",
+      "summary": "Australian data centre operator GreenSquare has committed to implementing the Alliance for Water Stewardship (AWS) Standard, an international framework for responsible water management, at its SYD1 facility in western Sydney. The company announced the commitment on 17 November, saying it would work through the verification programme operated by Water Stewardship Asia Pacific (WSAP), which represents […]",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 2,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "sustainability",
+        "water",
+        "colocation"
+      ],
+      "published_at": "2026-11-17T00:40:38Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/greensquare-commits-to-water-stewardship-standard-for-sydney-data-centre/",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/energy-cooling-sustainability/greensquare-adopts-water-stewardship-standard-for-sydney-data-centre/135909032",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "GreenSquare"
+      ],
+      "title_zh": "GreenSquare承诺在悉尼数据中心实施水资源管理标准",
+      "content": "Australian data centre operator GreenSquare has committed to implementing the Alliance for Water Stewardship (AWS) Standard, an international framework for responsible water management, at its SYD1 facility in western Sydney.\n\nThe company announced the commitment on 17 November, saying it would work through the verification programme operated by Water Stewardship Asia Pacific (WSAP), which represents the Alliance for Water Stewardship in the region.\n\nThe AWS Standard assesses water management at both site and catchment level, covering water sources, on-site use and what happens to water after it leaves a facility. Its five outcomes address water governance, sustainable water balance, water quality, freshwater ecosystems and biodiversity, and access to safe water, sanitation and hygiene.\n\nGreenSquare CTO Joshua Martens said the company’s water strategy began during site planning, with assessments of catchment water stress and available water sources informing facility design and location.\n\n“Committing to the Alliance for Water Stewardship Standard is a natural step for GreenSquare, and it will give communities where we operate the confidence that we’re adhering to international best practice,” he said.\n\nThe commitment is being implemented at SYD1, a data centre in Norwest Business Park that became operational in October following the adaptive reuse of a facility originally built in 1995. GreenSquare claims SYD1 is designed to achieve a potable water usage effectiveness (WUE) of less than 0.1 litres per IT kilowatt-hour, compared with a NSW Government guideline benchmark of 1.0 litres per kWh.\n\nThe facility uses a closed-loop cooling system that operates without evaporative cooling for approximately 96 percent of the year, replacing the site’s previous water-intensive cooling towers. Rainwater harvesting is expected to meet around 10 percent of annual cooling water requirements.\n\nAccording to GreenSquare, SYD1 is expected to use less water annually than the original data centre, despite increasing IT capacity by 275 percent. “We design our buildings to prioritise the use of harvested rain or recycled water while also ensuring every litre of potable water is used as efficiently as possible,” Martens said. “Importantly, this pledge shows GreenSquare is committed to transparency and to investigate ways to improve the local catchment areas where we operate.”\n\nWSAP CEO Dr Sandra Hall said the commitment and independent verification would support greater transparency and accountability as Australia’s data centre industry expands. Under the commitment, GreenSquare will align its water stewardship work with existing catchment plans, engage with stakeholders and report on material water-related information. The company said the work at SYD1 would also inform the planning, design, construction and operation of future campuses.",
+      "content_url": "https://w.media/greensquare-commits-to-water-stewardship-standard-for-sydney-data-centre/"
+    },
+    {
+      "id": "2026-11-17-4e9bcb",
+      "title": "Goodman residential plan progresses alongside Macquarie Park data centre",
+      "summary": "Australian-based global data centre developer Goodman’s plans for an indicative 2,150 apartments in Macquarie Park in Sydney New South Wales have been declared State Significant Development, advancing a major residential proposal close to the company’s approved Project Apollo data centre. The residential development, proposed for 3–5 Talavera Road, comprises five towers ranging from 45 to […]",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "australia"
+      ],
+      "topics": [
+        "development",
+        "hyperscale",
+        "capacity"
+      ],
+      "published_at": "2026-11-16T23:56:22Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/goodman-residential-plan-progresses-alongside-macquarie-park-data-centre/",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Goodman"
+      ],
+      "title_zh": "Goodman住宅计划与Macquarie Park数据中心同步推进",
+      "content": "Australian-based global data centre developer Goodman’s plans for an indicative 2,150 apartments in Macquarie Park in Sydney New South Wales have been declared State Significant Development, advancing a major residential proposal close to the company’s approved Project Apollo data centre. The residential development, proposed for 3–5 Talavera Road, comprises five towers ranging from 45 to 60 storeys. The proposal includes a commitment to provide 4% affordable housing in perpetuity.\n\nThe residential proposal was formally declared State Significant Development on 27 October, following a recommendation by the Housing Delivery Authority. The declaration allows the project to proceed through the SSD assessment process but does not constitute development approval.\n\nGoodman has planning consent for Project Apollo, a five-storey data centre at 4-10 Talavera Road. The AU$1.4 billion development has a planned capacity of 135MW and includes eight data halls, 66 backup generators and 36 cooling towers.\n\nThe proposed residential development is at 3-5 Talavera Road, while Project Apollo occupies 4–10 Talavera Road. The proximity of the two proposals has raised questions about how operational noise from the data centre, including its cooling plant and backup generators, will be considered in the assessment of the residential development.\n\nIt is understood Project Apollo underwent a detailed acoustic assessment as part of its planning and approval process, including consideration of operational noise from cooling plant and backup generators.\n\nThe acoustic material for Project Apollo identifies a number of existing noise-sensitive receiver locations, including residential properties in the surrounding area and the North Ryde Early Learning Centre on Talavera Road. The proposed residential tower site at 3–5 Talavera Road is not separately identified among those locations.\n\nAs a result, how noise from the data centre may affect future residents will be a question for the assessment of the residential project.\n\nIt is understood that any acoustic assessment or mitigation measures required for the residential proposal will be considered as it progresses through the planning process and in accordance with relevant requirements. It is not clear whether Goodman intends to undertake additional assessment or mitigation beyond those requirements.\n\nThe residential proposal remains at an early stage. The two projects are separate proposals within Macquarie Park, Sydney’s established employment and mixed-use precinct where housing, transport, commercial development and digital infrastructure are increasingly being planned alongside one another.\n\nThe residential project’s assessment will provide a further test of how the planning system considers the interface between large-scale data centre infrastructure and new housing, particularly where cooling plant and backup generation are part of an approved facility.",
+      "content_url": "https://w.media/goodman-residential-plan-progresses-alongside-macquarie-park-data-centre/"
+    },
+    {
+      "id": "2026-11-17-7d2426",
+      "title": "Singapore, Thailand, Indonesia respond to new US chip export rule",
+      "summary": "Singapore, Thailand, and Indonesia have begun formulating policy responses to a new US interim final rule from the Bureau of Industry and Security that further restricts China's access to advanced semiconductors through diversion controls and remote access limitations.",
+      "why_it_matters": "Southeast Asian governments now face pressure to align domestic cloud regulations with US extraterritorial controls or risk losing American chip technology access, while regional data center hubs must navigate conflicting commercial interests—hosting Chinese AI demand versus maintaining US technology partnerships—that could reshape competitive positioning across Singapore, Bangkok, and Jakarta.",
+      "score": 85,
+      "heat": 4,
+      "regions": [
+        "southeast-asia",
+        "china",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "regulation",
+        "export controls",
+        "geopolitics"
+      ],
+      "published_at": "2026-11-16T23:19:19Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/singapore-thailand-indonesia-respond-to-new-us-chip-export-rule/",
+          "type": "rss"
+        },
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/singapore-malaysia-grapple-with-us-chip-curbs-targeting-southeast-asia",
+          "type": "rss"
+        },
+        {
+          "name": "Nikkei Asia — data center search",
+          "url": "https://asia.nikkei.com/business/technology/singapore-malaysia-grapple-with-us-chip-curbs-targeting-southeast-asia",
+          "type": "html-list"
+        },
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/asean/indonesia-assesses-impact-new-us-chip-controls-data-centre-investment-after-nvidia-scandal",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "title_zh": "新加坡、泰国、印尼回应美国新芯片出口规则",
+      "summary_zh": "新加坡、泰国和印尼已开始针对美国商务部工业与安全局(BIS)发布的新interim final rule制定政策回应，该规则通过转移管制和远程访问限制进一步限制中国获取先进半导体。",
+      "why_zh": "东南亚国家政府现在面临压力，需要使国内云计算法规与美国域外管制保持一致，否则可能失去美国芯片技术准入，而区域数据中心枢纽必须在相互冲突的商业利益中寻求平衡——承接中国AI需求与维持美国技术合作伙伴关系——这可能重塑新加坡、曼谷和雅加达之间的竞争格局。",
+      "content": "The US Department of Commerce’s Bureau of Industry and Security (BIS) has moved to further restrict China’s potential access to advanced US semiconductor technology, cutting off avenues the country could use to divert chips and restricting remote access to US technology.\n\nThe new interim final rule (IFR) released on Monday November 16, 2026, outlines that exports of advanced US semiconductors to Indonesia, Malaysia, Singapore, Thailand, and Brazil will require a license. Data centers, foreign foundries, and chip exporters are required to perform robust due diligence on their customers, including any direct or indirect ownership or control by persons in restricted countries or Macau as part of this new control.\n\nIn response to the IFR, Singapore’s Ministry of Digital Development and Information (MDDI) and the Ministry of Energy, Trade and Industry (METI) published a joint statement.\n\n“We are studying the details of this new measure carefully. We are engaging affected companies to understand the potential impact on their businesses. We have also been engaging the relevant US authorities on the scope and implementation of the measure, as well as exploring how to facilitate trusted access for Singapore companies,” the ministries said.\n\nThe MDDI and METI noted that they take Singapore’s international reputation seriously and do not condone companies using their association with it to circumvent or violate laws of other countries.\n\n“As a global hub for technology and trade, Singapore will continue to safeguard the integrity of our business environment and continued access to advanced semiconductors and computing capabilities for legitimate companies operating here, and act against those who flout our laws,” the ministries added.\n\nIndonesia’s Government Communication Agency told Bloomberg that government officials were reviewing the measure and looking to engage the industry for input as to any impact the IFR might have on operations and investment. The agency added that the government is working on a strategic trade management framework that enables legitimate trade while also reducing the risk that technology is diverted and misused.\n\nAhead of the announcement of the IFR, Thailand’s Vice Minister for Commerce Kirida Bhaopichitr told CNBC that the country was prepared for chip export restrictions. She said that Thailand would more carefully scrutinize chip importers to ensure those products aren’t being shipped to restricted countries via its market.\n\nBrazil’s Ministry of Development, Industry, and Services said it was monitoring possible developments from the measure. It noted that the rule is not a ban on the export of advanced semiconductors to Brazil, but rather an authorization that now needs to take place. The ministry added that it’s not possible to evaluate the impact this would have on the import of US chips at this time.\n\nThe matter of chip diversion has come under scrutiny in recent weeks following an investigation into Singapore-based company Megaspeed. As w.media reported earlier today, the US Department of Justice together with the Department of Commerce intend to pursue any criminal conduct uncovered during the investigation. However, they did not disclose specific allegations against Megaspeed, identify the suspected destination of any potentially diverted semiconductors or indicate whether charges had been filed.",
+      "content_url": "https://w.media/singapore-thailand-indonesia-respond-to-new-us-chip-export-rule/"
+    },
+    {
+      "id": "2026-11-17-dfe665",
+      "title": "Arbitrating data center disputes in Southeast Asia",
+      "summary": "Technology, obsolescence, and the neocloud challenge",
+      "why_it_matters": "",
+      "score": 50,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "regulation",
+        "colocation",
+        "legal"
+      ],
+      "published_at": "2026-11-16T15:30:41Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/opinions/arbitrating-data-center-disputes-in-southeast-asia/",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "在东南亚仲裁数据中心争议",
+      "content": "The four largest US hyperscalers have made a total of $1.1 trillion in capital expenditure on data centers, advanced chips, and the power to run them since the beginning of the AI boom in 2023.\n\nThis investment is not merely expanding capacity – it is fundamentally transforming the technological profile of what data centers must deliver. According to McKinsey research, traditional compute, storage, and cloud workloads have historically comprised over 70 percent of data center demand in Asia-Pacific, with AI training and inference contributing approximately 30 percent. That balance is expected to reach a roughly equal 50/50 split by 2030.\n\nThis technological shift creates a new category of disputes that permeates the entire project stack. Facilities designed for one generation of computing are being asked to support the next before construction is complete.\n\nThe pace of innovation is overtaking investment theses built on assumptions about technology lifecycles. For operators building and scaling hyperscale platforms across APAC, technological obsolescence risk is no longer a future concern – it is generating disputes today. This article examines how rapid technological change drives disputes and why arbitration, with its capacity to engage technically qualified decision-makers, offers the most effective forum for their resolution.\n\n## **The five-year replacement cycle and investment horizon mismatch**\n\nThe servers powering AI workloads today may require significant upgrades or replacement within five years – a timeline that creates a fundamental misalignment with typical infrastructure investment horizons and depreciation models. Private equity sponsors typically underwrite data center investments on seven- to ten-year hold periods. Debt financing structures assume useful lives of fifteen to twenty years. Yet the computational infrastructure those investments support faces effective obsolescence on a cycle that is accelerating rather than stabilizing.\n\nThis misalignment gives rise to disputes between investors and operators. Where partnership agreements or shareholder agreements do not adequately address the pace of technological change, disagreements over capital expenditure obligations for technology refresh are inevitable. An investor expecting steady-state returns faces an operator requesting hundreds of millions in unbudgeted capital expenditure to remain competitive. Without express contractual mechanisms governing refresh obligations, trigger events, and cost allocation, these disagreements escalate rapidly into formal disputes.\n\n## **The neocloud challenge**\n\nNeocloud providers, specialised cloud platforms designed for high-performance computing workloads, emerged in 2023–2024 and rapidly gained traction through 2025. Their business model demands infrastructure specifications that substantially exceed what standard colocation agreements contemplate: rack densities exceeding 50kW, liquid cooling systems rather than traditional air cooling, and power redundancy configurations optimised for continuous high-intensity computation rather than variable enterprise workloads.\n\nFor operators, neocloud tenants represent both the highest-value customers and the most challenging to serve. Standard powered-shell agreements negotiated with enterprise tenants assume power densities of 8–15kW per rack and air-cooled environments. When a Neocloud customer requires 50kW or more per rack with direct liquid cooling, the gap between the contracted specification and actual demand creates immediate tension. Who bears the cost of the cooling retrofit? Does the powered-shell agreement require the operator to deliver infrastructure capable of supporting next-generation workloads, or only the specifications expressly stated at signing?\n\nThese questions are arising across the region as operators compete for the most valuable tenant relationships.\n\n## **Design basis assumptions becoming obsolete during construction**\n\nPerhaps the most commercially complex disputes arise when design basis assumptions become obsolete during the construction period itself. A hyperscale data center campus takes two to four years from design freeze to full commissioning. In Southeast Asia, where power connection lead times alone can exceed two years, total development timelines frequently stretch further. During that period, the technology landscape shifts materially.\n\nAn EPC contract executed in 2024 on the basis of 20kW average rack density may face a customer agreement signed in 2026 that contemplates 50kW rack density with liquid cooling. The EPC contractor has designed and is delivering to the original brief. The operator needs the facility to serve a customer whose requirements have evolved. This creates a three-way tension: the developer expects delivery to the original specification; the operator needs modifications to serve its tenant; and the EPC contractor contends that design changes constitute variations outside the contracted scope.\n\nThe question of whether specifications for new-build facilities should have anticipated current power density requirements – including rack densities exceeding 50kW – can drive claims for defective design or inadequate design life. Conversely, EPC contractors argue that they delivered to the brief provided, and that subsequent technology evolution is not a design deficiency. These disputes are technically complex, commercially significant, and increasingly common.\n\n## **Disputes at every level of the project stack**\n\nTechnological obsolescence generates disputes at multiple levels simultaneously:\n\n- **Between investors and operators:** Disagreements over capital expenditure obligations for technology refresh, particularly where the original investment thesis assumed stable infrastructure and steady-state returns.\n- **Between operators and tenants:** Questions whether colocation or powered-shell agreements require the operator to upgrade infrastructure to support next-generation chip architectures – particularly where liquid cooling retrofits are needed and the original lease contemplated air-cooled facilities at lower power densities.\n- **Between developers and EPC contractors:** Claims that design specifications should have anticipated higher power density requirements, or conversely that design changes during construction constitute compensable variations. Disputes over design life warranties and whether OCP Ready certification was within the contracted scope.\n- **Between the EPC contract and the customer agreement:** Structural tension where the EPC contract reflects the original brief and the customer agreement contemplates technology evolution – with the operator caught between two incompatible sets of obligations.\n\n## **Practical recommendations**\n\n### First, address obsolescence risk expressly in the contracting suite\n\nTechnology refresh obligations, capital expenditure triggers, and the allocation of upgrade costs between operator and tenant should be expressly addressed across the project stack. Hyperscaler customer agreements should specify power density escalation pathways – for example, providing for staged increases from 20kW to 35kW to 50kW per rack with defined trigger mechanisms and cost-sharing arrangements. Cooling upgrade triggers should be contractually defined: at what tenant density threshold does the obligation to install liquid cooling systems arise, and who bears that cost?\n\n### Second, build flexibility into EPC contracts\n\nDesign life warranties should address not merely structural longevity but functional relevance. EPC contracts should incorporate mechanisms for design evolution during the construction period – including defined variation procedures for power density increases, cooling system upgrades, and connectivity specifications. Where OCP Ready certification or equivalent standards are anticipated, they should be expressly within the contracted scope from the outset.\n\n### Third, align investment documents with technology cycles\n\nPartnership and shareholder agreements must address technology refresh as a foreseeable capital requirement rather than an extraordinary event. Reserved matters, capital call mechanics, and return calculations should all contemplate periodic refresh expenditure. Depreciation assumptions in financial models should reflect five-year technology replacement cycles rather than twenty-year building lifecycles.\n\n### Fourth, select arbitration for technical disputes\n\nDisputes involving PUE metrics under varying AI workload profiles, liquid cooling system specifications, OCP Ready certification requirements, and the engineering standards required for hyperscale operation demand adjudicators who can engage with technical evidence directly. SIAC arbitration allows parties to appoint arbitrators with specific engineering or technology expertise – a decisive advantage over national courts where judges may have no background in data center infrastructure. The ability to engage with complex evidence concerning rack densities, cooling coefficients, power redundancy configurations, and design life calculations enables more accurate and commercially informed outcomes.\n\nTechnological obsolescence is not a future risk for Southeast Asia's data center sector – it is generating disputes today. The pace of innovation in AI computing means that facilities designed for current workloads face functional obsolescence within their construction period. For operators managing the tension between investment commitments, EPC delivery, and tenant demands for next-generation infrastructure, the contracting suite must expressly address technology evolution rather than treating it as an unforeseeable contingency.\n\nArbitration's ability to appoint technically qualified arbitrators and engage with complex engineering evidence makes it the forum of choice for these disputes. We would welcome the opportunity to discuss how obsolescence risk can be addressed in your platform's contracting arrangements and how dispute resolution provisions can be calibrated to the technical complexity of these emerging claims.\n\n*This industry view was co-written with Andrew Raymond, legal director in Singapore at Charles Russell Speechlys LLP*",
+      "content_url": "https://www.datacenterdynamics.com/en/opinions/arbitrating-data-center-disputes-in-southeast-asia/"
+    },
+    {
+      "id": "2026-11-17-79a915",
+      "title": "Blackstone acquires 75 per cent stake in AWS data center portfolio",
+      "summary": "Blackstone has acquired a 75 percent stake in two joint ventures holding Amazon Web Services data center assets, deepening the private equity giant's exposure to hyperscale cloud infrastructure through a sale-leaseback structure with the leading cloud provider.",
+      "why_it_matters": "The transaction validates institutional investor appetite for hyperscale data center yield at scale and may accelerate similar portfolio monetizations by AWS and other cloud giants in APAC, where Blackstone's capital deployment could compete with local developers for limited power and land assets in key markets like Singapore, Sydney, and Tokyo.",
+      "score": 85,
+      "heat": 3,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "investment",
+        "hyperscale",
+        "m&a",
+        "aws"
+      ],
+      "published_at": "2026-11-16T13:11:42Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/blackstone-acquires-75-per-cent-stake-in-aws-data-center-portfolio/135915182",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/blackstone-reit-buys-amazon-data-centres-us5-billion-deal",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/blackstone-reit-buys-amazon-data-centres-us5-billion-deal",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Blackstone",
+        "AWS",
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "title_zh": "Blackstone收购AWS数据中心资产组合75%股权",
+      "summary_zh": "Blackstone已收购持有Amazon Web Services (AWS)数据中心资产的两家合资企业75%的股权，通过与这家领先云计算提供商的售后回租结构，加深了这家private equity巨头对hyperscale云基础设施的敞口。",
+      "why_zh": "该交易验证了机构投资者对大规模hyperscale数据中心收益的兴趣，并可能加速AWS及其他云计算巨头在亚太地区的类似资产组合变现，Blackstone的资本部署可能与本地开发商在新加坡、悉尼和东京等关键市场争夺有限的电力和土地资源。",
+      "content": "Blackstone Digital Infrastructure Trust Inc. (BXDC) has agreed to acquire a 75 per cent majority stake in two joint ventures with Amazon Web Services (AWS). This transaction is valued at approximately US$5 billion, with an initial capitalization rate of 7.0 per cent.This marks BXDC's first investment since its initial public offering (IPO). The joint ventures will own 13 newly constructed powered shells across two AWS data center campuses. AWS will retain the remaining 25 per cent stake in the ventures.The entire portfolio will be leased by AWS under a triple-net agreement. This agreement has an initial term of 12 years, with an option to extend the lease to a total of 32 years.Nick Pell, Chief Executive Officer and President, BXDC, said the investment aligns with deploying IPO proceeds. He added that it capitalizes on a highly compelling opportunity.Prasad Kalyanaraman, VP, AWS Infrastructure, stated that partnering with Blackstone supports infrastructure expansion. He noted that it maintains a focus on the communities where AWS operates.The acquisition aligns with BXDC's strategy to own stabilized data centers. These facilities are leased to major cloud providers under long-term contracts. The transaction is expected to close in the fourth quarter of 2026, subject to closing conditions.\n### Transaction Advisors\n\nMorgan Stanley, CBRE Capital Markets, Citi, Goldman Sachs, J.P. Morgan, and Wells Fargo Bank, N.A. are acting as financial advisers. Simpson Thacher & Bartlett LLP is serving as Blackstone's legal adviser.\n\n- Investments & Deals\n- 1 min Read\n\n# Blackstone acquires 75 per cent stake in AWS data center portfolio\n\nBlackstone Digital Infrastructure Trust (BXDC) has agreed to acquire a 75 per cent stake in two joint ventures with Amazon Web Services (AWS). The transaction is valued at approximately US$5 billion and marks BXDC's first investment since its IPO.\n\n- Published On Nov 17, 2026 at 12:40 PM IST\n\n## Highlights\n\n- Blackstone Digital Infrastructure Trust acquired a 75 per cent stake in two AWS joint ventures.\n- The transaction is valued at approximately US$5 billion, with a 7.0 per cent capitalization rate.\n- The joint ventures will own 13 powered shells across two AWS data center campuses.\n- AWS will lease the portfolio for an initial 12 years, with an option to extend to 32 years.\n\n## Comments\n\nWhat are your thoughts?",
+      "content_url": "http://datacenters.economictimes.indiatimes.com/news/investments-deals/blackstone-acquires-75-per-cent-stake-in-aws-data-center-portfolio/135915182"
+    },
+    {
+      "id": "2026-11-17-156591",
+      "title": "US Dep't of Commerce issues rule to restrict remote access to advanced AI chips",
+      "summary": "The US Department of Commerce has issued a new rule restricting remote access to advanced AI chips, closing a loophole that allowed foreign entities to tap US-controlled semiconductors through cloud-based interfaces without physical export.",
+      "why_it_matters": "Cloud and hyperscale operators in APAC—particularly those serving Chinese customers—must rearchitect access controls and geographic restrictions on GPU instances, as the rule effectively extends export controls to the 'as-a-service' delivery model and threatens enforcement actions against providers facilitating remote access.",
+      "score": 85,
+      "heat": 6,
+      "regions": [
+        "global",
+        "southeast-asia",
+        "china"
+      ],
+      "topics": [
+        "chips",
+        "regulation",
+        "ai",
+        "export controls"
+      ],
+      "published_at": "2026-11-16T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/us-dept-of-commerce-issues-rule-to-restrict-remote-access-to-advanced-ai-chips/",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/us-dept-of-commerce-issues-rule-to-restrict-remote-access-to-advanced-ai-chips/",
+          "type": "html-list"
+        },
+        {
+          "name": "W.Media",
+          "url": "https://w.media/us-moves-to-stop-chip-diversion-through-southeast-asia-and-brazil/",
+          "type": "rss"
+        },
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-moves-to-curb-china-s-remote-access-to-ai-chips-after-nvidia-scandal",
+          "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/us-tightens-chip-export-rules-to-deter-diversion-via-southeast-asia-brazil/135909001",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/asean/us-curb-chinese-access-ai-chips-trump-heads-asia",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "title_zh": "美国商务部发布规则限制对先进AI芯片的远程访问",
+      "summary_zh": "美国商务部发布新规，限制对先进AI芯片的远程访问，堵住了允许外国实体通过云端接口而非物理出口获取美国管制半导体的漏洞。",
+      "why_zh": "亚太地区的云计算和hyperscale运营商——特别是服务中国客户的那些——必须重新设计GPU实例的访问控制和地理限制，因为该规则实际上将出口管制延伸至'即服务'交付模式，并可能对协助远程访问的提供商采取执法行动。",
+      "published_precision": "day",
+      "content": "The US Department of Commerce has issued an interim final rule (IFR) to restrict remote access to advanced AI chips and servers and added five new countries to its export restriction list.\n\nPer a statement issued by the Bureau of Industry & Security (BIS), the new rule has been designed to ensure existing restrictions “cannot be circumvented through remote computing arrangements involving data centers in third countries.”\n\nData centers, overseas foundries, and chip exporters will be required to perform “robust due diligence on customers,” which includes ensuring they are not owned – either directly or indirectly – by persons on the US government’s restricted export list.\n\nAdditionally, under the new rule, licenses will now be required to export, reexport, or transfer in-country advanced semiconductors to Indonesia, Malaysia, Singapore, Thailand, or Brazil – countries which the government deems to present “a higher-than-normal risk of diversion.”\n\nHowever, the license requirement for those countries will not apply when the chips are destined for companies headquartered in, or have a parent company headquartered in, the United States, provided certain reporting requirements are met.\n\nThe rule has been issued in the wake of the fallout from the former Nvidia CEO Jensen Huang’s admission that he had an affair with a woman who is alleged to be a Chinese spy.\n\nAlice Huang (no relation to Jensen) was an executive for Megaspeed, a Singapore-based IT and cloud company currently under investigation for smuggling Nvidia GPUs into China.\n\nFollowing reports emerged that he had additionally engaged in an affair with a direct report, on November 12, Jensen Huang resigned as president, CEO, and a member of the board with immediate effect after 33 years leading the company. Last week, US President Donald Trump said the FBI was investigating the incident.\n\n“Rapid advancement in cloud computing and SI (super intelligence) infrastructure has made it increasingly possible to access advanced American computing capabilities remotely,” BIS said in a statement. “This IFR addresses this evolving technological landscape by further aligning protections governing remote access to advanced computing capabilities with existing controls on the physical shipment of sensitive American technology.”",
+      "content_url": "https://www.datacenterdynamics.com/en/news/us-dept-of-commerce-issues-rule-to-restrict-remote-access-to-advanced-ai-chips/"
+    },
+    {
+      "id": "2026-11-17-b85557",
+      "title": "Nvidia unveils Rubin HPC GPU for agentic AI-powered science and engineering workloads",
+      "summary": "Nvidia has unveiled a new GPU dubbed Rubin HPC, a chip supported by the company’s Vera Rubin platform.",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 2,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "hyperscale",
+        "hardware"
+      ],
+      "published_at": "2026-11-16T12:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Data Center Dynamics",
+          "url": "https://www.datacenterdynamics.com/en/news/nvidia-unveils-rubin-hpc-gpu-for-agentic-ai-powered-science-and-engineering-workloads/",
+          "type": "rss"
+        },
+        {
+          "name": "Data Center Dynamics — News archive",
+          "url": "https://www.datacenterdynamics.com/en/news/nvidia-unveils-rubin-hpc-gpu-for-agentic-ai-powered-science-and-engineering-workloads/",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "title_zh": "NVIDIA发布面向agentic AI驱动的科学与工程工作负载的Rubin HPC GPU",
+      "published_precision": "day",
+      "content": "Nvidia has unveiled a new GPU dubbed Rubin HPC, a chip supported by the company’s Vera Rubin platform.\n\nDesigned to support agentic AI-powered simulation and data processing workloads across science, engineering, and analytics, the chip giant said Rubin HPC will shorten the timeline between exploration and results.\n\nRubin HPC features more than 50,000 CUDA cores alongside a sparse data acceleration capability that accelerates GPU-to-GPU connectivity with seventh-generation Nvidia NVLink interconnect technology.\n\nFurthermore, instead of increasing compute capacity alone, Nvidia said the new chip offers a “balanced design” that scales data movement and compute together, which accelerates recurring patterns of every simulation workload — from sparse matrix operations to stencil computations to sorting and reductions, all of which are common across data analytics, science, and engineering workloads.\n\n“For agents tackling science and engineering, faster simulation means faster discovery,” said Ian Buck, vice president of hyperscale and high-performance computing at Nvidia.\n\n“Rubin HPC accelerates the simulations agents use to test ideas and guide their next steps, helping scientists and engineers explore more possibilities and bring breakthroughs closer.”",
+      "content_url": "https://www.datacenterdynamics.com/en/news/nvidia-unveils-rubin-hpc-gpu-for-agentic-ai-powered-science-and-engineering-workloads/"
+    },
+    {
+      "id": "2026-11-17-d305d0",
+      "title": "Singapore tops Southeast Asia data centre costs, says report",
+      "summary": "A new cost analysis report shows Singapore commanding the highest data center construction costs in Southeast Asia at $15.39 per watt, nearly double Ho Chi Minh City's $8.32 per watt, reflecting land scarcity, stringent regulations, and premium infrastructure standards in the city-state.",
+      "why_it_matters": "The cost divergence will drive workload tiering across APAC, with latency-sensitive financial services and sovereign data remaining in Singapore while bulk AI training and storage workloads migrate to lower-cost Vietnamese, Indonesian, and Malaysian markets—reshaping regional data center development patterns and potentially creating network infrastructure investment needs for inter-country latency optimization.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "cost",
+        "construction",
+        "colocation",
+        "investment"
+      ],
+      "published_at": "2026-11-16T08:30:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "DataCenterNews Asia",
+          "url": "https://datacenternews.asia/story/singapore-tops-southeast-asia-data-centre-costs-says-report",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "报告称新加坡位居东南亚数据中心成本之首",
+      "summary_zh": "一份新的成本分析报告显示，新加坡以每瓦15.39美元的价格位居东南亚数据中心建设成本之首，几乎是胡志明市每瓦8.32美元的两倍，反映了该市国家土地资源稀缺、法规严格和基础设施标准高端的特点。",
+      "why_zh": "成本差异将推动亚太地区的工作负载分层，延迟敏感的金融服务和主权数据保留在新加坡，而大量AI训练和存储工作负载迁移至成本更低的越南、印尼和马来西亚市场——重塑区域数据中心开发模式，并可能产生跨国延迟优化的网络基础设施投资需求。",
+      "content": "Mon, 16th Nov 2026 (Yesterday)\nSingapore is Southeast Asia's most expensive market for data centre construction, according to Turner & Townsend, and ranks fourth globally at USD $15.39 per watt.\n\nConstruction costs vary widely across the region. Jakarta ranked 26th globally at USD $11.96 per watt, Kuala Lumpur and Johor Bahru were joint 49th at USD $10.06, Bangkok was 55th at USD $9.67, Manila 56th at USD $9.55, and Ho Chi Minh City 60th at USD $8.32.\n\nThe figures come from the latest edition of Turner & Townsend's Data Centre Construction Cost Index, which tracks 62 markets using a typical 60 MW design. It draws on more than 500 live or recently completed projects and a survey of more than 400 industry specialists.\n\nTokyo topped the global ranking for the fourth consecutive year at USD $18.28 per watt, followed by Osaka at USD $17.15. Zurich was third at USD $15.93, leaving Singapore behind only the two Japanese cities and the Swiss market.\n\nHong Kong was the next Asian market at 14th with USD $12.97 per watt. Lower-cost Asian markets outside Southeast Asia included Mumbai at USD $6.83 and Shanghai at USD $5.79, the cheapest location in the index.\n\n### Regional spread\n\nThe rankings highlight how uneven Southeast Asia's market remains as developers weigh land, labour, utilities and supply chain access. Singapore's position reflects its maturity, while Vietnam remains among the cheapest places globally to build new data centre capacity.\n\n\"As surging demand for AI continues to drive the race to deliver data centre mega projects, the cost spread in Southeast Asia reflects the different stages of market maturity across the region. Singapore's position as an established hub brings higher land, labour and compliance costs, while emerging markets like Ho Chi Minh City offer lower build costs as infrastructure and supply chains continue to develop. The common theme is that wherever the project sits, power, land and skilled people are in high demand. As Southeast Asia's data centre market continues to scale, understanding these cost dynamics will be critical for developers and investors planning their next move in the region,\" said Patrick Thilagaraj, Project Director - Data Centres, at Turner & Townsend in Malaysia.\n\nThe findings also point to a broader rise in project size linked to AI infrastructure. Larger facilities are changing delivery methods and increasing pressure on specialist labour, materials and project risk pricing.\n\nMore than half of respondents, 52%, said most of their projects in 2027 are expected to be data centres built to support AI workloads. In 2026, 52% reported cost increases of more than 6%, while about 20% saw increases above 15%.\n\n### Cost pressures\n\nThe study suggests cost inflation may be easing, though not disappearing. For 2027, 28% of respondents expect cost increases of between 1% and 5%, while 57% expect rises to remain below 15%.\n\nLabour remains one of the biggest constraints. Some 81% of respondents said skilled labour in their region was either moderately or highly constrained, and only 52% said contractor capacity was manageable.\n\nPower supply was another major issue for new developments. The research found that 56% of respondents identified power as a major obstacle to successful delivery. Meanwhile, 52% said utility connections typically take between one and two years, and 32% said the process takes more than two years.\n\nThese delays matter because developers are under pressure to bring new capacity online quickly to meet demand from cloud and AI customers. At the same time, markets with lower upfront construction costs may not offer the same depth of infrastructure or operational experience as more mature hubs.\n\n### Asia focus\n\nAsia is playing a larger role in global data centre investment. The region now includes both the world's most expensive and some of its cheapest construction markets, giving investors a wide range of options depending on land, labour and utility availability.\n\n\"Asia is no longer a follower in the global data centre story - it is setting the pace. Tokyo and Osaka lead our index, Singapore sits in the top five, and markets from Hong Kong and Jakarta to Mumbai, Ho Chi Minh City and Shanghai are all seeing sustained investment. That reflects how much capital, and how much confidence, is now flowing into the region as AI, cloud and the need to hold data locally converge. Each market brings something different to that picture. Some offer deep pools of operational experience and established hyperscale demand; others offer greater availability of land, labour and local supply chains, and are growing quickly as a result. Together they give operators and investors a genuine choice about where and how to build. The teams delivering well in Asia are those that plan early, secure the fundamentals up front and bring rigorous cost and risk management in from the very start,\" said Sumit Mukherjee, Managing Director and Head of Real Estate, Asia, at Turner & Townsend.",
+      "content_url": "https://datacenternews.asia/story/singapore-tops-southeast-asia-data-centre-costs-says-report"
+    }
+  ]
+}

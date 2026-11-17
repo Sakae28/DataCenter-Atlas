@@ -2,10 +2,10 @@
   "date": "2026-11-15",
   "generated_at": "2026-11-15T07:56:04Z",
   "hot": [
+    "2026-11-15-a46924",
     "2026-11-15-ca7e96",
     "2026-11-15-00af6c",
     "2026-11-15-873bce",
-    "2026-11-15-a46924",
     "2026-11-15-007e0d"
   ],
   "stories": [
@@ -79,7 +79,7 @@
       "summary": "London | Australian-helmed data centre provider Nscale needs much more cash to meet current contracts and has piled on more debt, but still plans to proceed with a listing in New York, an updated…",
       "why_it_matters": "",
       "score": 70,
-      "heat": 1,
+      "heat": 2,
       "regions": [
         "australia"
       ],
@@ -96,12 +96,20 @@
           "name": "AFR — Data Centres topic",
           "url": "https://www.afr.com/technology/australian-data-centre-founder-reveals-mounting-debt-ahead-of-ipo-20261115-p61e6u",
           "type": "html-list"
+        },
+        {
+          "name": "AirTrunk (official)",
+          "url": "https://airtrunk.com/australia-must-back-the-data-centre-projects-that-meet-the-high-bar/",
+          "type": "rss"
         }
       ],
       "title_zh": "澳大利亚数据中心创始人披露IPO前债务攀升",
       "content": "*London* | Australian-helmed data centre provider Nscale needs much more cash to meet current contracts and has piled on more debt, but still plans to proceed with a listing in New York, an updated prospectus shows.\n\nNscale also revealed it has deeper ties than previously disclosed to scandal-hit Nvidia, a stakeholder and critical supplier of chips for its AI data centres. The chip giant has committed $US2 billion ($2.95 billion) of Nscale’s more than $US3 billion in convertible financing agreed to in September, $US1 billion more than first disclosed.\n\nLoading...",
       "content_url": "https://www.afr.com/technology/australian-data-centre-founder-reveals-mounting-debt-ahead-of-ipo-20261115-p61e6u",
-      "published_precision": "day"
+      "published_precision": "day",
+      "companies": [
+        "AirTrunk"
+      ]
     },
     {
       "id": "2026-11-15-185994",

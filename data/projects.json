@@ -104853,7 +104853,89 @@
       "last_updated": "2026-11-13",
       "seed": false,
       "capacity_note": "total planned"
+    },
+    {
+      "id": "greensquare-sydney-syd1",
+      "name": "SYD1",
+      "operator": "GreenSquare",
+      "region": "australia",
+      "country": "Australia",
+      "city": "Sydney",
+      "capacity_mw": null,
+      "status": "operational",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "operational",
+          "date": "2026-11-17",
+          "story_id": "2026-11-17-04a77b"
+        }
+      ],
+      "story_ids": [
+        "2026-11-17-04a77b"
+      ],
+      "first_seen": "2026-11-17",
+      "last_updated": "2026-11-17",
+      "seed": false
+    },
+    {
+      "id": "goodman-group-sydney-project-apollo",
+      "name": "Project Apollo",
+      "operator": "Goodman Group",
+      "region": "australia",
+      "country": "Australia",
+      "city": "Sydney",
+      "capacity_mw": null,
+      "status": "under_construction",
+      "developer": "Goodman",
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "under_construction",
+          "date": "2026-11-17",
+          "story_id": "2026-11-17-4e9bcb"
+        }
+      ],
+      "story_ids": [
+        "2026-11-17-4e9bcb"
+      ],
+      "first_seen": "2026-11-17",
+      "last_updated": "2026-11-17",
+      "seed": false
     }
   ],
-  "updated_at": "2026-11-15T08:33:35Z"
+  "updated_at": "2026-11-17T09:30:00Z"
 }
