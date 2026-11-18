@@ -2,11 +2,11 @@
   "date": "2026-11-17",
   "generated_at": "2026-11-17T09:18:27Z",
   "hot": [
-    "2026-11-17-156591",
     "2026-11-17-7d2426",
+    "2026-11-17-156591",
     "2026-11-17-79a915",
-    "2026-11-17-75e60b",
-    "2026-11-17-b85557"
+    "2026-11-17-1423d8",
+    "2026-11-17-75e60b"
   ],
   "stories": [
     {
@@ -41,6 +41,87 @@
       "published_precision": "day",
       "content": "Sharon AI has delayed its Australian sharemarket listing this year, becoming the latest digital infrastructure business to pause such plans after Firmus Technologies pulled its float last month, amid rising interest rates and global volatility in technology stocks.\n\nSharon AI co-founder and chief executive James Manning said the neocloud business had no urgent need to raise capital and plans were advanced for a new debt package.\n\nLoading...",
       "content_url": "https://www.afr.com/technology/sharon-ai-says-debt-markets-still-open-to-lending-neoclouds-money-20261117-p61el5"
+    },
+    {
+      "id": "2026-11-17-75e60b",
+      "title": "US chip curbs, Nvidia uncertainty weigh on Asian data center stocks",
+      "summary": "Asian data center stocks have declined amid market anxiety over expanding US chip export restrictions and uncertainty surrounding Nvidia's business trajectory in China, with investors reassessing growth assumptions for regional operators dependent on AI infrastructure deployment.",
+      "why_it_matters": "Public market volatility exposes how tightly APAC data center valuations are coupled to US-China semiconductor policy rather than underlying demand, creating a financing challenge for listed developers and REITs that may need to diversify revenue streams away from China-facing GPU colocation toward ASEAN enterprise and sovereign cloud contracts.",
+      "score": 85,
+      "heat": 2,
+      "regions": [
+        "japan",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "regulation",
+        "investment",
+        "ai"
+      ],
+      "published_at": "2026-11-17T09:18:27Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/markets/us-chip-curbs-nvidia-uncertainty-weigh-on-asian-data-center-stocks",
+          "type": "rss"
+        },
+        {
+          "name": "Nikkei Asia — data center search",
+          "url": "https://asia.nikkei.com/business/markets/us-chip-curbs-nvidia-uncertainty-weigh-on-asian-data-center-stocks",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "title_zh": "美国芯片管制、NVIDIA不确定性拖累亚洲数据中心股票",
+      "summary_zh": "亚洲数据中心股票因美国芯片出口限制扩大和Nvidia在中国业务前景的不确定性而下跌，投资者正在重新评估依赖AI基础设施部署的区域运营商的增长预期。",
+      "why_zh": "公开市场波动暴露出亚太数据中心估值与美国对华半导体政策的紧密关联，而非底层需求，这给上市开发商和REITs带来融资挑战，它们可能需要将收入来源从面向中国的GPU colocation转向东盟企业和主权云合同以实现多元化。",
+      "content": "TOKYO -- From Malaysia to Singapore to Japan, AI-related stocks are being hit as concerns over the data center boom mount following the resignation of Nvidia chief Jensen Huang and newly announced U.S. chip rules.\n\nMarkets\n# US chip curbs, Nvidia uncertainty weigh on Asian data center stocks\n\nAI-related shares tumble in Malaysia, Singapore and Japan\n\nA 800 VDC Next-Generation AI Data Center model is displayed at Foxconn's annual Hon Hai Tech Day, in Taipei on Oct. 30. © Reuters",
+      "content_url": "https://asia.nikkei.com/business/markets/us-chip-curbs-nvidia-uncertainty-weigh-on-asian-data-center-stocks"
+    },
+    {
+      "id": "2026-11-17-1423d8",
+      "title": "US investigates Singapore based Megaspeed over suspected semiconductor export violations",
+      "summary": "The US Department of Justice has escalated a criminal investigation into Singapore-based Megaspeed, a cloud and AI infrastructure provider, for suspected semiconductor export control violations. The probe, which began with the Department of Commerce in 2024, signals heightened US enforcement against potential chip diversion through cloud services in Southeast Asia.",
+      "why_it_matters": "This raises the compliance bar for APAC-based cloud and colocation providers handling advanced GPUs, as the DOJ's involvement signals potential criminal liability—not just administrative penalties—for companies caught in US-China chip diversion schemes. Data center operators in Singapore and neighboring hubs may face more rigorous customer due diligence and US government scrutiny.",
+      "score": 90,
+      "heat": 2,
+      "regions": [
+        "southeast-asia",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "regulation",
+        "export controls",
+        "investigation"
+      ],
+      "published_at": "2026-11-17T08:05:17Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "W.Media",
+          "url": "https://w.media/us-investigates-singapore-based-megaspeed-over-suspected-semiconductor-export-violations/",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/us-agents-singapore-officials-conducted-megaspeed-check-june-2025-alice-huang-interviewed-us",
+          "type": "rss"
+        }
+      ],
+      "companies": [
+        "Megaspeed",
+        "NVIDIA"
+      ],
+      "title_zh": "美国调查总部位于新加坡的Megaspeed涉嫌半导体出口违规",
+      "summary_zh": "美国司法部已升级对新加坡云计算和AI基础设施提供商Megaspeed的刑事调查，因其涉嫌违反半导体出口管制。该调查始于2024年商务部的前期行动，表明美国加强对通过东南亚云服务进行芯片转移行为的执法力度。",
+      "why_zh": "这将提高亚太地区处理先进GPU的云计算和colocation提供商的合规门槛，因为司法部的介入意味着被卷入中美芯片转移计划的公司可能面临刑事责任，而不仅是行政处罚。新加坡及邻近枢纽的数据中心运营商可能面临更严格的客户尽职调查和美国政府审查。",
+      "content": "The US Department of Justice is continuing its criminal investigation into Megaspeed, a Singapore based cloud computing and artificial intelligence infrastructure provider, over suspected semiconductor export control violations, following an initial probe by the Department of Commerce in 2024. The investigation is now being led by the Department of Justice (DOJ) with assistance from the Department of Commerce (DOC) which began after authorities detected suspicious activity involving potential semiconductor diversion.\n\nIn a joint statement, the two departments indicated that they would pursue any criminal conduct uncovered during the investigation. However, they did not disclose specific allegations against Megaspeed, identify the suspected destination of any potentially diverted semiconductors or indicate whether charges had been filed.\n\n“The Department of Justice and the Department of Commerce’s Bureau of Industry and Security working together will bring the full extent of the law against Megaspeed for any criminal conduct that may have occurred,” they said. “Sensitive technologies like semiconductors are among the most valuable and strategic assets of the U.S. economy, and the Department of Justice and the Department of Commerce will remain vigilant in pursuing justice for those who want to compromise America’s technological edge.”\n\n#### **How the investigation unfolded**\n\nShedding light on how things transpired, the DOC and DOJ’s statement said that in May 2025, Department of Commerce investigators requested records from Nvidia regarding direct or indirect sales to Megaspeed. In June 2025, Nvidia added the Singaporean company to its “no sell” list, barring further sales while investigators from the Commerce Department’s Bureau of Industry and Security (BIS), working with Singaporean law enforcement officials, conducted an on-site end-use inspection at Megaspeed’s premises.\n\nFollowing the inspection, the DOJ assumed the lead role in the criminal investigation, while BIS continued to work with federal prosecutors on the case. The update comes amid increased scrutiny of suspected attempts to divert advanced semiconductors through third party companies to circumvent US export restrictions.\n\nReferring to its previous track record of cracking down on semiconductor smuggling it said, “Under the Trump Administration, seventeen defendants across six separate investigations have been charged in connection with allegations of smuggling billions of dollars’ worth of semiconductors.”\n\nThe Commerce Department has also increased monetary penalties in export control cases, describing the total as 18 times higher than during the Biden administration. The departments did not provide a timeline for the Megaspeed investigation or say whether additional enforcement actions were expected.\n\n#### **Megaspeed says it will cooperate with investigations**\n\nJust a few days before this, on November 12, Tan Yong Pong, Chairman & CEO, Megaspeed International Pte. Ltd. had also made an official statement on the company website, saying, “Megaspeed takes its compliance obligations under U.S. export control laws extremely seriously. Compliance is a fundamental priority for the company, and Megaspeed is committed to working constructively and transparently with the U.S. government. Megaspeed has cooperated with inspections by the U.S. Department of Commerce’s Bureau of Industry and Security (BIS) and stands ready to cooperate fully with any other relevant U.S. government authority.”\n\nHe also said, “To further reinforce our commitment to compliance, Megaspeed has retained a leading U.S. law firm to lead a comprehensive census of its graphics processing units (GPUs) and independently verify its export control compliance practices. Megaspeed welcomes appropriate government scrutiny and is committed to demonstrating through concrete actions that it operates responsibly, transparently, and in accordance with applicable U.S. laws.”",
+      "content_url": "https://w.media/us-investigates-singapore-based-megaspeed-over-suspected-semiconductor-export-violations/"
     },
     {
       "id": "2026-11-17-1d8130",
@@ -234,6 +315,38 @@
       "content_url": "https://theedgemalaysia.com/node/826104"
     },
     {
+      "id": "2026-11-17-9b794c",
+      "title": "China taps US AI models to train homegrown rivals as chip curbs bite",
+      "summary": "Chinese researchers and companies are increasingly using distillation techniques to train domestic AI models on outputs from restricted US models like GPT-4, circumventing chip constraints by reducing computational requirements while attempting to maintain competitive capabilities in manufacturing and industrial applications.",
+      "why_it_matters": "Model distillation as a workaround to chip shortages extends the strategic relevance of APAC data center capacity with access to both Chinese and Western AI ecosystems, as distilled model deployment requires less GPU intensity but still demands reliable inference infrastructure—creating niche opportunities for neutral colocation providers in Hong Kong, Singapore, and Malaysia that can host cross-border model serving without direct US technology re-export exposure.",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "china",
+        "global"
+      ],
+      "topics": [
+        "ai",
+        "chips",
+        "regulation",
+        "distillation"
+      ],
+      "published_at": "2026-11-17T06:39:44Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite",
+          "type": "rss"
+        }
+      ],
+      "title_zh": "China利用美国AI模型训练本土竞争对手，因芯片限制收紧",
+      "summary_zh": "中国研究人员和企业正越来越多地使用distillation技术，基于GPT-4等受限美国模型的输出训练国产AI模型，通过降低计算需求来规避芯片限制，同时试图在制造业和工业应用中保持竞争能力。",
+      "why_zh": "模型distillation作为芯片短缺的变通方案，扩展了能够接触中国和西方AI生态系统的亚太数据中心容量的战略相关性，因为蒸馏模型部署需要较低的GPU强度但仍需要可靠的推理基础设施——为香港、新加坡和马来西亚的中立colocation提供商创造细分机会，它们可以托管跨境模型服务而不会直接面临美国技术再出口风险。",
+      "content": "Beijing is encouraging the use of distillation to make AI easier to deploy across the manufacturing sector\n\n\\[BEIJING\\] Chinese entities are adopting increasingly sophisticated ways to use output from leading American artificial intelligence models to train domestic rivals, documents show, as China aims to broaden its AI strategy and offset tightening US curbs on its access to chips.\n\nA Reuters review of more than 300 Chinese academic papers, patents, corporate disclosures, recruitment notices and government documents reveals how the practice – known as distillation – has expanded beyond academic experiments into mainstream industrial use in China.\n\nThe records describe Chinese researchers using US models to produce answers to questions, build computer code and find solutions to difficult problems, with Chinese companies then developing software to automate the process and specialist workers preparing material for training smaller domestic models.\n\nThe documents also show that Beijing is encouraging distillation to make AI cheaper and easier to deploy across China’s powerful manufacturing sector.\n\nDistillation is not illegal and is prevalent in other parts of the world.\n\nWhile the process cannot reproduce a leading model’s full capabilities or eliminate the need for advanced computing power, it can help developers preserve selected skills in smaller systems that cost less to operate, potentially reducing their reliance on American technology.\n\nChina’s broadening use of distillation could undercut the effectiveness of US curbs on the sale of advanced chips to China, as its developers can build AI capabilities by drawing on those of their American rivals.\n\nWashington said on Monday (Nov 16) it would further restrict China’s access to such chips from companies like Nvidia.\n\nDistillation is also a source of friction between the world’s two biggest economies ahead of the Nov 18 to 19 Asia-Pacific Economic Cooperation summit in Shenzhen, where US President Donald Trump and his Chinese counterpart Xi Jinping are expected to meet.\n\nUS authorities publicly accused Chinese companies in September of aggressive, targeted distillation of American AI models on an industrial scale.\n\nAnd at meetings in Chengdu in July, US Commerce Department officials raised concerns with Chinese regulators about developers collecting output from leading American AI models, warning that some activities could amount to intellectual property (IP) theft, three people familiar with the discussions said.\n\nChinese officials defended distillation as a standard AI-development technique and said they were open to acting where the conduct constituted IP theft, but made no concrete commitments, according to a US official familiar with the previously unreported exchange.\n\nThe US Commerce Department and China’s Cyberspace Administration did not respond to requests for comment.\n\n## From American answers to Chinese models\n\nDistillation involves a powerful “teacher” model generating answers or demonstrating how to complete tasks, which developers use to train a smaller “student” system.\n\nFor Chinese developers facing constraints on computing power, the attraction is in making one expensive query do repeated work, according to a former Alibaba Group engineer who spoke on condition of anonymity.\n\nAn American model can generate the answer to a difficult question once, allowing a Chinese team to retain useful examples and train a local system around them.\n\nIn a November 2024 paper, Shanghai Jiao Tong University researchers described selecting about 5,000 answers from OpenAI’s o1 model, translating them using GPT-4o mini and assembling 10,750 bilingual training examples to further train Alibaba’s Qwen2.5-72B model.\n\nThe researchers also cautioned that excessive reliance on distillation could stifle original innovation, leaving developers dependent on breakthroughs made by more advanced model providers.\n\nThe project illustrated how American model output can become reusable data, allowing developers to improve domestic systems without repeatedly consulting the original provider.\n\nAlibaba researchers described a more systematic approach in an April 2025 paper, using OpenAI’s GPT-4 and GPT-4o to generate training material in languages other than Chinese, then refining and scoring responses before training smaller Qwen models.\n\nIn a February 2026 paper, researchers from Shanghai Jiao Tong University and Chinese food delivery company Meituan described using GPT-4o to generate plans for coordinating AI agents working together on programming problems, helping train a smaller model to organise such tasks.\n\nShanghai Jiao Tong University, Alibaba and Meituan did not respond to requests for comment.\n\n## A growing geopolitical dispute\n\nAmong leading American AI companies, OpenAI’s terms restrict using its output to develop competing models, subject to exceptions, while Anthropic similarly restricts training competing systems without permission.\n\nA US official familiar with the July Chengdu regulatory discussions said Washington believes industrial-scale distillation is the main reason Chinese AI models have narrowed the gap with their American rivals.\n\nTwo people familiar with Chinese developers’ operations disputed that assessment, saying distillation was only one factor alongside advances in engineering, algorithms, data and model design.\n\nChinese government documents do not instruct companies to distil American models but encourage distillation as part of Beijing’s push to spread AI across the world’s second-largest economy.\n\nA national AI+Manufacturing policy package published by eight Chinese government agencies in January includes guidance supporting model training, fine-tuning and distillation for industrial applications.\n\nShanghai and Shenzhen have also encouraged techniques to reduce computing requirements.\n\nThe policies reflect Beijing’s ambition to deploy smaller, cheaper AI systems across industries.\n\nConcerned by distillation’s growing geopolitical sensitivities, Chinese AI developers have in recent months asked Beijing’s industry regulator for guidance on the boundaries between ordinary use of foreign models and organised collection of output for training, according to one person familiar with the discussions.\n\nChina’s Ministry of Industry and Information Technology did not respond to a request for comment. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
+      "content_url": "https://www.businesstimes.com.sg/international/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite"
+    },
+    {
       "id": "2026-11-17-3cb02e",
       "title": "Nvidia issues not affecting Malaysia's position on AI, semiconductors, says Akmal Nasrullah",
       "summary": "Any developments related to Nvidia do not significantly change Malaysia’s position of continuing to strengthen the semiconductor and artificial intelligence (AI) sectors, said Minister of Economy Akmal Nasrullah Mohd Nasir.",
@@ -329,113 +442,6 @@
       "title_zh": "MyDCD预计随着数据中心项目完工，维护收入将增长",
       "content": "KUALA LUMPUR (Nov 17): MyDCD Bhd (KL:MYDCD) expects its maintenance revenue to grow as more data centre projects reach completion, while pursuing opportunities to service facilities built by other contractors.\n\n“We expect maintenance revenue to increase progressively as more of our ongoing projects are completed and transition into the maintenance phase,” MyDCD chief executive officer Chris Ow Yong said.\n\nThe engineering services company posted RM19.8 million in maintenance revenue for the financial year ended June 30, 2026 (FY2026) — a small fraction of its total revenue of more than RM666 million for the year.\n\nMoving forward, growth would be supported by the increasing number of data centres in Malaysia and its growing portfolio of completed projects, it said, without providing a growth target.\n\n“Beyond our existing projects, we also see potential opportunities in the broader data centre maintenance market, including both new and existing facilities, and will continue to evaluate such opportunities as they arise,\" said Ow Yong in a follow-up call with *The Edge.*\n\nWATCH: MyDCD on building long-term customer relationships\n\nEarlier, at MyDCD’s ACE Market listing ceremony, Ow Yong told reporters that maintenance services allowed the group to retain customers beyond project delivery.\n\n“After completing the build, then we continue to do maintenance. That’s why our customer back in 2011 is still our customer today,” he said.\n\nOw Yong added that the group also sees opportunities to maintain data centres it did not build.\n\nAt end-September, MyDCD had RM53.08 million in outstanding maintenance services and parts orders, expected to be recognised progressively through FY2032.\n\nThese formed part of its RM1.32 billion outstanding order book. The remaining RM1.27 billion comprised data centre engineering integration work, expected to be recognised progressively through FY2028.\n\nMyDCD specialises in mechanical, electrical, plumbing and fire protection engineering services, primarily for data centres. Its services include engineering support, installation, testing and commissioning, as well as preventive and corrective maintenance.\n\nSeparately, Ow Yong attributed the group’s stronger first-quarter profit margin to value engineering work on its projects.\n\nMyDCD posted net profit of RM25.71 million on revenue of RM178.68 million for the first quarter ended Sept 30, 2026 (1QFY2027), translating into a net profit margin of 14.4%, compared with approximately 10% for the full FY2026.\n\nOw Yong said earnings could fluctuate between quarters but did not provide a margin target for the rest of FY2027.\n\nThe group raised RM187.6 million through its initial public offering (IPO), with RM134 million allocated for working capital and RM39.9 million for business expansion. Another RM5 million is earmarked for information technology upgrades, followed by RM8.7 million for listing expenses.\n\nMyDCD opened at 48 sen on Tuesday, eight sen or 14.3% below its IPO price of 56 sen, valuing the company at RM861.12 million.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
       "content_url": "https://theedgemalaysia.com/node/826078"
-    },
-    {
-      "id": "2026-11-17-75e60b",
-      "title": "US chip curbs, Nvidia uncertainty weigh on Asian data center stocks",
-      "summary": "Asian data center stocks have declined amid market anxiety over expanding US chip export restrictions and uncertainty surrounding Nvidia's business trajectory in China, with investors reassessing growth assumptions for regional operators dependent on AI infrastructure deployment.",
-      "why_it_matters": "Public market volatility exposes how tightly APAC data center valuations are coupled to US-China semiconductor policy rather than underlying demand, creating a financing challenge for listed developers and REITs that may need to diversify revenue streams away from China-facing GPU colocation toward ASEAN enterprise and sovereign cloud contracts.",
-      "score": 85,
-      "heat": 2,
-      "regions": [
-        "japan",
-        "global"
-      ],
-      "topics": [
-        "chips",
-        "regulation",
-        "investment",
-        "ai"
-      ],
-      "published_at": "2026-11-17T09:18:27Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/business/markets/us-chip-curbs-nvidia-uncertainty-weigh-on-asian-data-center-stocks",
-          "type": "rss"
-        },
-        {
-          "name": "Nikkei Asia — data center search",
-          "url": "https://asia.nikkei.com/business/markets/us-chip-curbs-nvidia-uncertainty-weigh-on-asian-data-center-stocks",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "NVIDIA"
-      ],
-      "title_zh": "美国芯片管制、NVIDIA不确定性拖累亚洲数据中心股票",
-      "summary_zh": "亚洲数据中心股票因美国芯片出口限制扩大和Nvidia在中国业务前景的不确定性而下跌，投资者正在重新评估依赖AI基础设施部署的区域运营商的增长预期。",
-      "why_zh": "公开市场波动暴露出亚太数据中心估值与美国对华半导体政策的紧密关联，而非底层需求，这给上市开发商和REITs带来融资挑战，它们可能需要将收入来源从面向中国的GPU colocation转向东盟企业和主权云合同以实现多元化。",
-      "content": "TOKYO -- From Malaysia to Singapore to Japan, AI-related stocks are being hit as concerns over the data center boom mount following the resignation of Nvidia chief Jensen Huang and newly announced U.S. chip rules.\n\nMarkets\n# US chip curbs, Nvidia uncertainty weigh on Asian data center stocks\n\nAI-related shares tumble in Malaysia, Singapore and Japan\n\nA 800 VDC Next-Generation AI Data Center model is displayed at Foxconn's annual Hon Hai Tech Day, in Taipei on Oct. 30. © Reuters",
-      "content_url": "https://asia.nikkei.com/business/markets/us-chip-curbs-nvidia-uncertainty-weigh-on-asian-data-center-stocks"
-    },
-    {
-      "id": "2026-11-17-1423d8",
-      "title": "US investigates Singapore based Megaspeed over suspected semiconductor export violations",
-      "summary": "The US Department of Justice has escalated a criminal investigation into Singapore-based Megaspeed, a cloud and AI infrastructure provider, for suspected semiconductor export control violations. The probe, which began with the Department of Commerce in 2024, signals heightened US enforcement against potential chip diversion through cloud services in Southeast Asia.",
-      "why_it_matters": "This raises the compliance bar for APAC-based cloud and colocation providers handling advanced GPUs, as the DOJ's involvement signals potential criminal liability—not just administrative penalties—for companies caught in US-China chip diversion schemes. Data center operators in Singapore and neighboring hubs may face more rigorous customer due diligence and US government scrutiny.",
-      "score": 90,
-      "heat": 1,
-      "regions": [
-        "southeast-asia",
-        "global"
-      ],
-      "topics": [
-        "chips",
-        "regulation",
-        "export controls",
-        "investigation"
-      ],
-      "published_at": "2026-11-17T08:05:17Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "W.Media",
-          "url": "https://w.media/us-investigates-singapore-based-megaspeed-over-suspected-semiconductor-export-violations/",
-          "type": "rss"
-        }
-      ],
-      "companies": [
-        "Megaspeed"
-      ],
-      "title_zh": "美国调查总部位于新加坡的Megaspeed涉嫌半导体出口违规",
-      "summary_zh": "美国司法部已升级对新加坡云计算和AI基础设施提供商Megaspeed的刑事调查，因其涉嫌违反半导体出口管制。该调查始于2024年商务部的前期行动，表明美国加强对通过东南亚云服务进行芯片转移行为的执法力度。",
-      "why_zh": "这将提高亚太地区处理先进GPU的云计算和colocation提供商的合规门槛，因为司法部的介入意味着被卷入中美芯片转移计划的公司可能面临刑事责任，而不仅是行政处罚。新加坡及邻近枢纽的数据中心运营商可能面临更严格的客户尽职调查和美国政府审查。",
-      "content": "The US Department of Justice is continuing its criminal investigation into Megaspeed, a Singapore based cloud computing and artificial intelligence infrastructure provider, over suspected semiconductor export control violations, following an initial probe by the Department of Commerce in 2024. The investigation is now being led by the Department of Justice (DOJ) with assistance from the Department of Commerce (DOC) which began after authorities detected suspicious activity involving potential semiconductor diversion.\n\nIn a joint statement, the two departments indicated that they would pursue any criminal conduct uncovered during the investigation. However, they did not disclose specific allegations against Megaspeed, identify the suspected destination of any potentially diverted semiconductors or indicate whether charges had been filed.\n\n“The Department of Justice and the Department of Commerce’s Bureau of Industry and Security working together will bring the full extent of the law against Megaspeed for any criminal conduct that may have occurred,” they said. “Sensitive technologies like semiconductors are among the most valuable and strategic assets of the U.S. economy, and the Department of Justice and the Department of Commerce will remain vigilant in pursuing justice for those who want to compromise America’s technological edge.”\n\n#### **How the investigation unfolded**\n\nShedding light on how things transpired, the DOC and DOJ’s statement said that in May 2025, Department of Commerce investigators requested records from Nvidia regarding direct or indirect sales to Megaspeed. In June 2025, Nvidia added the Singaporean company to its “no sell” list, barring further sales while investigators from the Commerce Department’s Bureau of Industry and Security (BIS), working with Singaporean law enforcement officials, conducted an on-site end-use inspection at Megaspeed’s premises.\n\nFollowing the inspection, the DOJ assumed the lead role in the criminal investigation, while BIS continued to work with federal prosecutors on the case. The update comes amid increased scrutiny of suspected attempts to divert advanced semiconductors through third party companies to circumvent US export restrictions.\n\nReferring to its previous track record of cracking down on semiconductor smuggling it said, “Under the Trump Administration, seventeen defendants across six separate investigations have been charged in connection with allegations of smuggling billions of dollars’ worth of semiconductors.”\n\nThe Commerce Department has also increased monetary penalties in export control cases, describing the total as 18 times higher than during the Biden administration. The departments did not provide a timeline for the Megaspeed investigation or say whether additional enforcement actions were expected.\n\n#### **Megaspeed says it will cooperate with investigations**\n\nJust a few days before this, on November 12, Tan Yong Pong, Chairman & CEO, Megaspeed International Pte. Ltd. had also made an official statement on the company website, saying, “Megaspeed takes its compliance obligations under U.S. export control laws extremely seriously. Compliance is a fundamental priority for the company, and Megaspeed is committed to working constructively and transparently with the U.S. government. Megaspeed has cooperated with inspections by the U.S. Department of Commerce’s Bureau of Industry and Security (BIS) and stands ready to cooperate fully with any other relevant U.S. government authority.”\n\nHe also said, “To further reinforce our commitment to compliance, Megaspeed has retained a leading U.S. law firm to lead a comprehensive census of its graphics processing units (GPUs) and independently verify its export control compliance practices. Megaspeed welcomes appropriate government scrutiny and is committed to demonstrating through concrete actions that it operates responsibly, transparently, and in accordance with applicable U.S. laws.”",
-      "content_url": "https://w.media/us-investigates-singapore-based-megaspeed-over-suspected-semiconductor-export-violations/"
-    },
-    {
-      "id": "2026-11-17-9b794c",
-      "title": "China taps US AI models to train homegrown rivals as chip curbs bite",
-      "summary": "Chinese researchers and companies are increasingly using distillation techniques to train domestic AI models on outputs from restricted US models like GPT-4, circumventing chip constraints by reducing computational requirements while attempting to maintain competitive capabilities in manufacturing and industrial applications.",
-      "why_it_matters": "Model distillation as a workaround to chip shortages extends the strategic relevance of APAC data center capacity with access to both Chinese and Western AI ecosystems, as distilled model deployment requires less GPU intensity but still demands reliable inference infrastructure—creating niche opportunities for neutral colocation providers in Hong Kong, Singapore, and Malaysia that can host cross-border model serving without direct US technology re-export exposure.",
-      "score": 75,
-      "heat": 1,
-      "regions": [
-        "china",
-        "global"
-      ],
-      "topics": [
-        "ai",
-        "chips",
-        "regulation",
-        "distillation"
-      ],
-      "published_at": "2026-11-17T06:39:44Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Business Times",
-          "url": "https://www.businesstimes.com.sg/international/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite",
-          "type": "rss"
-        }
-      ],
-      "title_zh": "China利用美国AI模型训练本土竞争对手，因芯片限制收紧",
-      "summary_zh": "中国研究人员和企业正越来越多地使用distillation技术，基于GPT-4等受限美国模型的输出训练国产AI模型，通过降低计算需求来规避芯片限制，同时试图在制造业和工业应用中保持竞争能力。",
-      "why_zh": "模型distillation作为芯片短缺的变通方案，扩展了能够接触中国和西方AI生态系统的亚太数据中心容量的战略相关性，因为蒸馏模型部署需要较低的GPU强度但仍需要可靠的推理基础设施——为香港、新加坡和马来西亚的中立colocation提供商创造细分机会，它们可以托管跨境模型服务而不会直接面临美国技术再出口风险。",
-      "content": "Beijing is encouraging the use of distillation to make AI easier to deploy across the manufacturing sector\n\n\\[BEIJING\\] Chinese entities are adopting increasingly sophisticated ways to use output from leading American artificial intelligence models to train domestic rivals, documents show, as China aims to broaden its AI strategy and offset tightening US curbs on its access to chips.\n\nA Reuters review of more than 300 Chinese academic papers, patents, corporate disclosures, recruitment notices and government documents reveals how the practice – known as distillation – has expanded beyond academic experiments into mainstream industrial use in China.\n\nThe records describe Chinese researchers using US models to produce answers to questions, build computer code and find solutions to difficult problems, with Chinese companies then developing software to automate the process and specialist workers preparing material for training smaller domestic models.\n\nThe documents also show that Beijing is encouraging distillation to make AI cheaper and easier to deploy across China’s powerful manufacturing sector.\n\nDistillation is not illegal and is prevalent in other parts of the world.\n\nWhile the process cannot reproduce a leading model’s full capabilities or eliminate the need for advanced computing power, it can help developers preserve selected skills in smaller systems that cost less to operate, potentially reducing their reliance on American technology.\n\nChina’s broadening use of distillation could undercut the effectiveness of US curbs on the sale of advanced chips to China, as its developers can build AI capabilities by drawing on those of their American rivals.\n\nWashington said on Monday (Nov 16) it would further restrict China’s access to such chips from companies like Nvidia.\n\nDistillation is also a source of friction between the world’s two biggest economies ahead of the Nov 18 to 19 Asia-Pacific Economic Cooperation summit in Shenzhen, where US President Donald Trump and his Chinese counterpart Xi Jinping are expected to meet.\n\nUS authorities publicly accused Chinese companies in September of aggressive, targeted distillation of American AI models on an industrial scale.\n\nAnd at meetings in Chengdu in July, US Commerce Department officials raised concerns with Chinese regulators about developers collecting output from leading American AI models, warning that some activities could amount to intellectual property (IP) theft, three people familiar with the discussions said.\n\nChinese officials defended distillation as a standard AI-development technique and said they were open to acting where the conduct constituted IP theft, but made no concrete commitments, according to a US official familiar with the previously unreported exchange.\n\nThe US Commerce Department and China’s Cyberspace Administration did not respond to requests for comment.\n\n## From American answers to Chinese models\n\nDistillation involves a powerful “teacher” model generating answers or demonstrating how to complete tasks, which developers use to train a smaller “student” system.\n\nFor Chinese developers facing constraints on computing power, the attraction is in making one expensive query do repeated work, according to a former Alibaba Group engineer who spoke on condition of anonymity.\n\nAn American model can generate the answer to a difficult question once, allowing a Chinese team to retain useful examples and train a local system around them.\n\nIn a November 2024 paper, Shanghai Jiao Tong University researchers described selecting about 5,000 answers from OpenAI’s o1 model, translating them using GPT-4o mini and assembling 10,750 bilingual training examples to further train Alibaba’s Qwen2.5-72B model.\n\nThe researchers also cautioned that excessive reliance on distillation could stifle original innovation, leaving developers dependent on breakthroughs made by more advanced model providers.\n\nThe project illustrated how American model output can become reusable data, allowing developers to improve domestic systems without repeatedly consulting the original provider.\n\nAlibaba researchers described a more systematic approach in an April 2025 paper, using OpenAI’s GPT-4 and GPT-4o to generate training material in languages other than Chinese, then refining and scoring responses before training smaller Qwen models.\n\nIn a February 2026 paper, researchers from Shanghai Jiao Tong University and Chinese food delivery company Meituan described using GPT-4o to generate plans for coordinating AI agents working together on programming problems, helping train a smaller model to organise such tasks.\n\nShanghai Jiao Tong University, Alibaba and Meituan did not respond to requests for comment.\n\n## A growing geopolitical dispute\n\nAmong leading American AI companies, OpenAI’s terms restrict using its output to develop competing models, subject to exceptions, while Anthropic similarly restricts training competing systems without permission.\n\nA US official familiar with the July Chengdu regulatory discussions said Washington believes industrial-scale distillation is the main reason Chinese AI models have narrowed the gap with their American rivals.\n\nTwo people familiar with Chinese developers’ operations disputed that assessment, saying distillation was only one factor alongside advances in engineering, algorithms, data and model design.\n\nChinese government documents do not instruct companies to distil American models but encourage distillation as part of Beijing’s push to spread AI across the world’s second-largest economy.\n\nA national AI+Manufacturing policy package published by eight Chinese government agencies in January includes guidance supporting model training, fine-tuning and distillation for industrial applications.\n\nShanghai and Shenzhen have also encouraged techniques to reduce computing requirements.\n\nThe policies reflect Beijing’s ambition to deploy smaller, cheaper AI systems across industries.\n\nConcerned by distillation’s growing geopolitical sensitivities, Chinese AI developers have in recent months asked Beijing’s industry regulator for guidance on the boundaries between ordinary use of foreign models and organised collection of output for training, according to one person familiar with the discussions.\n\nChina’s Ministry of Industry and Information Technology did not respond to a request for comment. REUTERS\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
-      "content_url": "https://www.businesstimes.com.sg/international/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite"
     },
     {
       "id": "2026-11-17-ad5292",
@@ -698,7 +704,7 @@
       "summary": "Singapore, Thailand, and Indonesia have begun formulating policy responses to a new US interim final rule from the Bureau of Industry and Security that further restricts China's access to advanced semiconductors through diversion controls and remote access limitations.",
       "why_it_matters": "Southeast Asian governments now face pressure to align domestic cloud regulations with US extraterritorial controls or risk losing American chip technology access, while regional data center hubs must navigate conflicting commercial interests—hosting Chinese AI demand versus maintaining US technology partnerships—that could reshape competitive positioning across Singapore, Bangkok, and Jakarta.",
       "score": 85,
-      "heat": 4,
+      "heat": 7,
       "regions": [
         "southeast-asia",
         "china",
@@ -732,6 +738,21 @@
           "name": "The Business Times",
           "url": "https://www.businesstimes.com.sg/international/asean/indonesia-assesses-impact-new-us-chip-controls-data-centre-investment-after-nvidia-scandal",
           "type": "rss"
+        },
+        {
+          "name": "ET Datacenters",
+          "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/us-chip-curbs-hit-southeast-asia-data-centre-shares/135945594",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times — Data Centres topic",
+          "url": "https://www.businesstimes.com.sg/companies-markets/us-chip-curbs-could-give-american-data-centre-operators-edge-singapore",
+          "type": "html-list"
+        },
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/826291",
+          "type": "html-list"
         }
       ],
       "companies": [
