@@ -104977,7 +104977,130 @@
       "last_updated": "2026-11-18",
       "seed": false,
       "capacity_note": "proposed campus capacity"
+    },
+    {
+      "id": "princeton-digital-group-greater-tokyo-ty1-campus",
+      "name": "TY1 Campus",
+      "operator": "Princeton Digital Group",
+      "region": "japan",
+      "country": "Japan",
+      "city": "Greater Tokyo",
+      "capacity_mw": null,
+      "status": "under_construction",
+      "developer": null,
+      "investor": "BNP Paribas, ING, and two other banks",
+      "investment": "US$327 million green financing",
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "under_construction",
+          "date": "2026-11-19",
+          "story_id": "2026-11-19-62a8e9"
+        }
+      ],
+      "story_ids": [
+        "2026-11-19-62a8e9"
+      ],
+      "first_seen": "2026-11-19",
+      "last_updated": "2026-11-19",
+      "seed": false
+    },
+    {
+      "id": "bytedance-malaysian-data-center",
+      "name": "ByteDance Malaysian Data Center",
+      "operator": "ByteDance",
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "city": "",
+      "capacity_mw": null,
+      "status": "on_hold",
+      "developer": "Epoch Digital",
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "on_hold",
+          "date": "2026-11-19",
+          "story_id": "2026-11-19-1ef85d"
+        }
+      ],
+      "story_ids": [
+        "2026-11-19-1ef85d"
+      ],
+      "first_seen": "2026-11-19",
+      "last_updated": "2026-11-19",
+      "seed": false
+    },
+    {
+      "id": "sydney-melbourne-dataspace",
+      "name": "Dataspace",
+      "operator": "Dataspace",
+      "region": "australia",
+      "country": "Australia",
+      "city": "Sydney, Melbourne",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": null,
+      "investor": "Next Capital",
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-11-19",
+          "story_id": "2026-11-19-2bb2b8"
+        }
+      ],
+      "story_ids": [
+        "2026-11-19-2bb2b8"
+      ],
+      "first_seen": "2026-11-19",
+      "last_updated": "2026-11-19",
+      "seed": false
     }
   ],
-  "updated_at": "2026-11-18T08:50:16Z"
+  "updated_at": "2026-11-19T09:05:35Z"
 }

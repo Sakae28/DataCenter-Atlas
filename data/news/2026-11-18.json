@@ -42,265 +42,6 @@
       "content_url": "https://www.afr.com/technology/nvidia-s-earnings-beat-overshadowed-by-huang-drama-20261118-p61eup"
     },
     {
-      "id": "2026-11-18-0c71cf",
-      "title": "After Huang, Nvidia puts Firmus and its neocloud network on notice",
-      "summary": "Interim Nvidia chief executive Colette Kress is at pains to say it’s all business as usual at the global chip-making giant.",
-      "why_it_matters": "",
-      "score": 55,
-      "heat": 1,
-      "regions": [
-        "australia",
-        "global"
-      ],
-      "topics": [
-        "chips",
-        "investigation",
-        "regulation",
-        "cloud"
-      ],
-      "published_at": "2026-11-18T00:11:21Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "AFR — Data Centres topic",
-          "url": "https://www.afr.com/chanticleer/after-huang-nvidia-puts-firmus-and-its-neocloud-network-on-notice-20261118-p61f3k",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "NVIDIA",
-        "Firmus"
-      ],
-      "title_zh": "Huang事件后，NVIDIA向Firmus及其neocloud网络发出警告",
-      "content": "Interim Nvidia chief executive Colette Kress is at pains to say it’s all business as usual at the global chip-making giant.\n\nOn Wednesday, as she delivered third-quarter results and an outlook that well and truly beat expectations, she attempted to rule a line under the most dramatic week in the company’s history after the exit of founder Jensen Huang.\n\nLoading...",
-      "content_url": "https://www.afr.com/chanticleer/after-huang-nvidia-puts-firmus-and-its-neocloud-network-on-notice-20261118-p61f3k"
-    },
-    {
-      "id": "2026-11-18-dbbf18",
-      "title": "Can Malaysia build its own AI industry beyond data centres?",
-      "summary": "Summary Putrajaya is banking on private investments to support MD2030 while it focuses on digital infrastructure Tax incentives, affordable access to computing power and skills tr...",
-      "why_it_matters": "",
-      "score": 75,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "ai",
-        "data center",
-        "investment",
-        "policy"
-      ],
-      "published_at": "2026-11-18T07:00:00Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/825326",
-          "type": "html-list"
-        }
-      ],
-      "title_zh": "马来西亚能否在数据中心之外建立自己的AI产业？",
-      "content": "This article first appeared in The Edge Malaysia Weekly on November 9, 2026 - November 15, 2026\n\nMALAYSIA’s ambition to become an artificial intelligence (AI) nation by 2030 will see the government focus its resources on building the digital infrastructure while counting on private investment to drive the country’s transition from a consumer of technology to a creator of its own.\n\nDigital Minister Gobind Singh Deo says Malaysia Digital 2030 (MD2030) — the latest phase of the digital transformation agenda — will not have a standalone budget. Instead, it will leverage existing government allocations, public-private partnerships and foreign and domestic private investment.\n\n“We believe the strongest engine for achieving the scale and ambition of MD2030 will be private investment — both foreign direct investment (FDI) and domestic direct investment (DDI) — and public-private partnerships,” he tells The Edge in an email interview.\n\nPublic spending will focus on shared infrastructure, connectivity and digital platforms that lower costs for businesses developing new technologies.\n\n“We want public investment to crowd in — not crowd out — private capital,” Gobind emphasises.\n\nIncorporating the AI Action Plan 2026–2030, MD2030 seeks to raise the digital economy’s contribution to gross domestic product (GDP) to 30% by 2030, create 500,000 high-value digital jobs and spur the development of more Malaysian-made digital products, services and intellectual property (IP).\n\nAccording to the Department of Statistics Malaysia (DOSM), information and communications technology (ICT) and e-commerce contributed RM476.8 billion or 23.5% of GDP in 2025, up from RM451.5 billion or 23.4% a year earlier.\n\nHowever, translating that growth into domestic technological capabilities remains a challenge, particularly as Malaysia aims to move beyond hosting data centres and cloud infrastructure for global tech giants.\n\nWhile foreign capital has expanded the country’s digital infrastructure, questions remain over how much it actually builds local AI capability.\n\nGobind notes that the government evaluates investments based on the economic value they generate, including tech transfer, opportunities for local suppliers and local IP development. “We are interested not simply in the size of an investment but in its economic value-add. Does it create high-value jobs? Develop Malaysian talent? Transfer technology and knowledge? Deepen local supply chains? Generate intellectual property? And strengthen the ability of Malaysian companies to compete globally?”\n\nHe stresses that the government does not regard FDI and DDI as competing sources of capital, saying both are needed to develop the domestic technology industry. Initiatives such as the Government-Linked Enterprises Activation and Reform Programme (GEAR-uP) are examples of how Malaysian capital can be mobilised towards strategic and high-value sectors, he says.\n\nHowever, SNS Network Technology Bhd (KL:SNS) co-founder and managing director Ko Yun Hung observes that Malaysian businesses remain largely at the adoption stage while foreign companies account for much of the investment in AI infrastructure.\n\n“At this time, most of it is still foreign. Local companies are more in the adoption phase; investing in AI infrastructure is not common yet,” he tells The Edge.\n\nKo believes domestic investment is more likely to grow as businesses become more comfortable with AI and identify commercial use cases. For instance, a company that initially subscribes to AI services to automate administrative work or analyse sales data may eventually find it worthwhile to invest in its own computing infrastructure as usage increases.\n\nTo accelerate this transition, Ko suggests policy incentives such as accelerated capital allowances for technology purchases and double tax deductions for AI-related workforce training. It may be more effective to introduce incentives and programmes to motivate adoption and usage than providing direct grants to every business, he says.\n\nFor most Malaysian businesses, the immediate hurdle is not developing sophisticated AI products but figuring out how to integrate the technology to streamline and improve their existing operations.\n\nKo notes that companies of various sizes are generally receptive to AI, though many remain uncertain about where to begin due to fragmented or poorly organised internal data.\n\nWhile generative AI tools such as ChatGPT have made the technology more accessible, businesses are increasingly exploring customised applications that can perform specific tasks, such as agentic AI. Such systems can be configured to carry out more complex tasks with varying degrees of autonomy, such as managing a company’s human resources department’s leave applications and flag potential staffing shortages before managers make their decisions.\n\nYet, few local companies have progressed towards developing their own AI applications, much less products that can be sold commercially, Ko says. “Maybe not yet. In terms of moving from ChatGPT to something more like agentic AI, we are seeing that, but still not to the extent of developing their own applications.”\n\nCost is a key barrier, particularly for smaller companies that are unable to justify purchasing expensive graphics processing units (GPUs) before knowing whether their AI projects will deliver the intended results.\n\nTo address this, SNS launched its AI Factory last year, offering GPU-as-a-Servic (GPUaaS) to businesses seeking computing capacity for developing, testing or deploying AI applications without having to purchase the hardware themselves. Starting with 64 GPUs, the facility allows businesses to test and deploy applications without heavy capital expenditure.\n\nExpanding access to such capabilities is central to MD2030’s ambition of developing more Malaysian “AI Builders” — individuals and businesses capable of creating applications, AI agents and commercially viable products and services, according to Gobind.\n\n“We want more Malaysians who do not simply know how to use AI tools but who can build with AI — people who can develop applications, AI agents, products and services, solve real problems using AI and ultimately turn those capabilities into new businesses and solutions.”\n\nThe government plans to encourage industry-led training, intensive boot camps, apprenticeships and other non-traditional learning pathways, alongside university and technical education.\n\nGobind also acknowledges that retaining these talents requires creating sufficiently attractive opportunities in Malaysia, particularly for engineers, researchers and entrepreneurs who might otherwise pursue careers overseas.\n\nFor small and medium enterprises (SMEs), the emphasis is expected to shift from basic digitalisation, such as e-commerce and digital payments, towards using AI to improve productivity and eventually develop their own solutions.\n\nKo believes Malaysian SMEs can make that transition by 2030, but warns that the relatively short timeframe will require businesses and policymakers to move quickly. “I am confident that SMEs will be able to become builders. My only worry is the time. When you talk about the AI world, the competition and progress are at a very fast pace.”\n\nBeyond investment and talent, Malaysia must consider how much control it needs over the technologies underpinning its AI economy, particularly when much of the global ecosystem depends on foreign-developed chips, cloud platforms and software.\n\nGobind says Malaysia should remain open to international technologies and partnerships while developing domestic capabilities in areas where it can compete. “The government should not prescribe where Malaysian companies must compete. The market will ultimately determine where Malaysia can build a competitive advantage.\n\n“At the same time, there may be strategic areas where considerations of national interest, resilience and technological sovereignty require the government to provide greater direction or support.”\n\nFarlina Said, director of the Cyber and Technology Policy programme at the Institute of Strategic and International Studies (ISIS) Malaysia, points out that technological sovereignty does not necessarily require countries to develop every component of their technology infrastructure domestically.\n\n“Where one would view end-to-end indigenous production as true sovereignty, others may have to consider diversification and clear responsibilities,” she tells The Edge.\n\nMalaysia nevertheless needs its own computing capabilities, she argues, as such infrastructure is critical to national security, economic development and the ability to respond to emerging technological risks, even if it remains difficult to determine how much domestic computing capacity Malaysia will need while the AI landscape is evolving.\n\nIn the meantime, the country should diversify its infrastructure, build locally relevant AI models and strengthen technical expertise to reduce vulnerabilities arising from dependence on foreign technologies.\n\nShe also calls attention to regulatory gaps involving the ownership and safety of AI training data, accountability when government agencies deploy AI and the responsibilities associated with autonomous AI systems.\n\nMalaysia’s existing laws address areas such as personal data protection, cybersecurity and online safety, but Farlina says regulation alone will not be sufficient without the technical expertise to scrutinise increasingly sophisticated AI systems. “Much needed is to build the capability that pierces the black box, whether it is through internal technical knowledge or information sharing.”\n\nWith less than four years to 2030, execution across ministries will determine MD2030’s outcome.\n\n“Malaysia has developed strong policies and blueprints over the years. The challenge has often been translating those ambitions into coordinated execution across government and the wider ecosystem,” Gobind admits.\n\nMyDIGITAL Corporation will oversee programme management and monitor implementation while reporting directly to the National Digital Economy and Fourth Industrial Revolution Council, chaired by the prime minister.\n\n“Ultimately, accountability must mean more than reporting whether a programme is on schedule. We need to know whether it is delivering the intended outcome — and, if it is not, what needs to change,” the minister says.\n\nFarlina advises evaluating headline targets, including the digital economy’s 30% contribution to GDP and the creation of 500,000 high-value digital jobs, alongside broader socioeconomic outcomes, noting that employment targets may be harder to assess as AI itself disrupts existing jobs.\n\n“I think Malaysia needs to see that the AI Nation serves national interests and we must find ways to illustrate whether it is on track or deviating from socioeconomic goals,” she says.\n\nKo agrees that investment metrics alone are insufficient to determine whether Malaysia has successfully developed a domestic AI industry. “I think the measurement should not just be about how much foreign or domestic investment we attract. A stronger measure is how much our SMEs are being enabled,” he says. “Because of the uniqueness of each business, they may develop something using AI tools for their own operations and later realise that what they have developed can also be offered as a service and sold to others.”\n\nSave by subscribing to us for your print and/or digital copy.\n\n**P/S: The Edge is also available on\n      Apple's App Store and \n      Android's Google Play.**\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/825326"
-    },
-    {
-      "id": "2026-11-18-a1056d",
-      "title": "BNM sees strong data centre investment momentum until 2030 despite US chip restrictions",
-      "summary": "Malaysia's central bank, Bank Negara Malaysia, maintains that data center investment flows into the country will remain robust through 2030 despite the uncertainty introduced by fresh US restrictions on chip exports to Chinese-affiliated operators. The assessment suggests Malaysian policymakers view the nation's neutral positioning and diverse investor base as insulating factors against geopolitical-driven project cancellations.",
-      "why_it_matters": "BNM's confidence reflects a calculated bet that Malaysia's multi-source investment pipeline—encompassing Middle Eastern, American, and domestic capital—can absorb any contraction in Chinese-backed developments. However, the central bank's timeline extends beyond the current policy cycle, exposing its forecast to potential escalation in US extraterritorial enforcement that could capture non-Chinese entities with indirect Chinese customer relationships.",
-      "score": 85,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "data center",
-        "investment",
-        "chips",
-        "forecast"
-      ],
-      "published_at": "2026-11-18T06:42:23Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/826286",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Bank Negara Malaysia"
-      ],
-      "title_zh": "尽管美国芯片限制，马来西亚央行预计数据中心投资势头将保持强劲至2030年",
-      "summary_zh": "马来西亚中央银行Bank Negara Malaysia（BNM）认为，尽管美国对Chinese-affiliated operators的chip exports新限制带来不确定性，进入该国的data center investment flows将保持强劲直至2030年。这一评估表明，马来西亚政策制定者认为该国的neutral positioning和diverse investor base是对抗地缘政治驱动项目取消的缓冲因素。",
-      "why_zh": "BNM的信心反映了一种精心计算的赌注，即马来西亚的多来源投资管道——涵盖中东、美国和国内资本——可以吸收中国支持开发的任何收缩。然而，该央行的时间表超出了当前政策周期，使其预测面临美国extraterritorial enforcement潜在升级的风险，这可能捕获与中国客户有间接关系的非中国实体。",
-      "content": "KUALA LUMPUR (Nov 18): Bank Negara Malaysia (BNM) expects Malaysia’s data centre investment momentum to remain strong until at least 2030, even as fresh US chip export restrictions raise uncertainties over the sector’s growth prospects.\n\nBNM governor Datuk Seri Abdul Rasheed Ghaffour said it was too early to assess the impact of the US restrictions but pointed to Malaysia’s diversified base of data centre investors and sustained global demand for artificial intelligence (AI).\n\nOf the 120 data centre companies in Malaysia, only 17 are Chinese companies while the rest are from countries including the US, Australia and Canada, as well as Malaysia, according to the governor.\n\n“Based on our estimates of the ongoing and planned projects, the data centre investment momentum is expected to remain strong at least until 2030,” Abdul Rasheed said at a press conference announcing Malaysia’s third-quarter gross domestic product (GDP) figures on Wednesday.\n\n“While there may be some reaction to these developments, we believe that the underlying demand is still strong,” he said.\n\nAbdul Rasheed also pointed to the longer-term economic benefits of data centre investments beyond the construction phase, including the growth of information and communications technology (ICT) services exports and the creation of domestic economic linkages.\n\nThe US earlier this week announced new export controls requiring licences for shipments of certain advanced semiconductors to Malaysia, Singapore, Thailand, Indonesia and Brazil, in an effort to prevent the diversion of sensitive American technology to China.\n\nThe new rules, scheduled to take effect on Nov 19, also tighten restrictions on overseas data centre operators providing significant computing capacity to companies headquartered in China and other jurisdictions of concern.\n\n“This is an example of the geoeconomic risks that we are facing, not just us, but everyone else globally as well. As far as Malaysia is concerned, as Miti (Ministry of Investment, Trade and Industry) has also said, we will continue to uphold rules-based trade, we are open for business, and our strategy is to serve everyone,” Abdul Rasheed said.\n\n*Read also: Malaysia’s economy expands faster than first estimates in 3Q*\n\nMediAsas pilot focused on operational readiness, not enrolment numbers, says BNM\n\nNew US export controls on Malaysia, Singapore for advanced chips to take effect Nov 19\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/826286"
-    },
-    {
-      "id": "2026-11-18-3e9bb4",
-      "title": "ACE Market-bound SCA Solutions sees no impact from new US AI chip restrictions",
-      "summary": "SCA Solutions Bhd said on Wednesday (Nov 18) that its operations remain on track and have no exposure to the latest US restrictions on advanced artificial intelligence (AI) chips.",
-      "why_it_matters": "",
-      "score": 60,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "chips",
-        "regulation",
-        "data center",
-        "ipo"
-      ],
-      "published_at": "2026-11-18T06:22:56Z",
-      "featured": false,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/826282",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "SCA Solutions"
-      ],
-      "title_zh": "拟赴ACE上市的SCA Solutions称不受美国新AI芯片限制影响",
-      "content": "KUALA LUMPUR (Nov 18): SCA Solutions Bhd said on Wednesday (Nov 18) that its operations remain on track and have no exposure to the latest US restrictions on advanced artificial intelligence (AI) chips.\n\nSpecialising in heating, ventilation and air conditioning (HVAC) as well as fire safety systems, the company derives 30% of its revenue from serving data centre clients.\n\n“One thing I want to highlight is that the data centres we serve are mainly US-headquartered clients,” managing director Tan Cheng Eng told reporters at the prospectus launch.\n\n“So we are not worried, because they \\[data centre client\\] have already approved the jobs and the works are already progressing,” Tan noted.\n\nAs of Oct, the company had an unbilled order book totalling RM46.7 million that will continue to provide revenue up to 2027.\n\nTan was responding to questions regarding the new US restrictions announced on Nov 16, which aim to prevent entities in China and other designated countries from remotely accessing advanced American AI chips through data centres in countries including Malaysia, Singapore, Thailand, Indonesia and Brazil.\n\nThe measures also introduce licensing requirements for imports of certain advanced AI chips, although companies headquartered in the US or whose ultimate parent companies are based there are exempt.\n\nTan further noted that the company's client base is not focused mainly on data centres but well diversified across various sectors, including residential, hospitals, educational institutions and semiconductor plants.\n\nAsked about overseas expansion plans, SCA Solutions is looking to grow in Singapore and Indonesia, especially in serving the solutions for the water treatment segment, leveraging its existing client base and long-term relationships in both markets.\n\nThe water treatment segment contributes about 9% of the business while both regional markets contribute less than 1% of its most recent years’ revenue. However, Tan did not disclose specific growth targets.\n\nFor the financial year ended June 30, 2026, the group posted a net profit of RM7.95 million on revenue of RM51.33 million.\n\nAt the same time, SCA Solutions held cash and short-term deposits of RM15.95 million against RM7.56 million in bank borrowings.\n\nSCA Solutions’ initial public offering (IPO) will raise RM47.85 million, of which RM31.92 million is for the company. The remaining RM15.93 million will accrue to the selling shareholders — Tan and executive director Liong Chian Leek.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/826282"
-    },
-    {
-      "id": "2026-11-18-4e304d",
-      "title": "TM's RM2.7 bil undersea cable project to tap Sarawak's AI data centre growth — Kenanga",
-      "summary": "Kenanga Research projects that Telekom Malaysia's RM2.7 billion undersea cable initiative will generate incremental earnings beyond 2030 by capturing connectivity demand from AI data center investments concentrated in Sarawak, the Malaysian state on Borneo island experiencing rapid digital infrastructure development. The cable system addresses a geographic bottleneck that has limited Sarawak's interconnection with major Asian and global internet exchange points.",
-      "why_it_matters": "TM's cable investment transforms Sarawak from a peripheral market into a core node of ASEAN's AI infrastructure topology, potentially redirecting data center investment flows from Peninsular Malaysia and Singapore. The project's 2030-plus earnings horizon requires sustained commitment from TM's shareholders and policymakers amid competing capital demands, with any delay risking stranded capacity as rival submarine cable systems reach the region.",
-      "score": 80,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "data center",
-        "connectivity",
-        "investment",
-        "ai"
-      ],
-      "published_at": "2026-11-18T05:54:43Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/826278",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Telekom Malaysia",
-        "Kenanga Research"
-      ],
-      "title_zh": "Kenanga：TM 27亿令吉海底电缆项目将把握砂拉越AI数据中心增长机遇",
-      "summary_zh": "Kenanga Research预计，Telekom Malaysia（TM）的27亿令吉undersea cable项目将通过满足集中在Sarawak的AI data center investments带来的connectivity demand，在2030年后产生incremental earnings。该cable system解决了限制Sarawak与主要亚洲和全球internet exchange points互联的地理瓶颈。",
-      "why_zh": "TM的cable投资将Sarawak从边缘市场转变为东盟AI infrastructure拓扑的核心节点，可能将data center投资流从马来半岛和新加坡转移。该项目的2030年后earnings horizon需要在竞争资本需求中TM股东和政策制定者的持续承诺，任何延迟都可能因rival submarine cable systems到达该地区而面临stranded capacity风险。",
-      "content": "KUALA LUMPUR (Nov 18): Telekom Malaysia Bhd (KL:TM) could unlock additional earnings opportunities beyond 2030 from its RM2.7 billion undersea cable project, as growing artificial intelligence (AI) data centre investments in Sarawak drive demand for high-capacity connectivity, according to Kenanga Research.\n\nThe project, known as Sambungan Kabel Dasar Laut Madani (Salam), involves a 5,500km submarine cable connecting Peninsular Malaysia, Sarawak and Sabah. It will provide additional capacity as TM's existing undersea cable, Sistem Kabel Rakyat 1Malaysia (SKR1M), is already operating at about 85% capacity.\n\nKenanga in a note on Wednesday said AI data centres require substantial bandwidth, low-latency connectivity and reliable network infrastructure to support data transmission across Malaysia and international markets.\n\nSalam's landing stations in Kuching and Bintulu (Samalaju) are strategically located near Sarawak's emerging data centre hubs, positioning TM to capture demand from upcoming developments.\n\nBeyond providing bandwidth, TM could also act as an interconnection partner, linking data centres to internet exchange points, submarine cable systems and global connectivity networks. This would create opportunities to offer additional services such as indefeasible right of use (IRU), hot standby bandwidth allocation and managed wavelength services.\n\nThe project will run alongside SKR1M, which connects Peninsular Malaysia and Sabah and Sarawak. TM secured the SKR1M project, which is funded through the Universal Service Provision (USP) Fund, in December 2014 through a public-private partnership with the Malaysian Communications and Multimedia Commission (MCMC), with the cable commencing commercial operations in 2017.\n\nFor SKR1M, TM partnered TIME dotCom Bhd (KL:TIMECOM) under a 20-year construction and maintenance agreement, with an estimated ownership split of 83.6% and 16.4%, respectively. The arrangement was based on cost reimbursement without a profit-sharing mechanism.\n\nBy comparison, Salam is about 1.4 times longer and 3.8 times more expensive than SKR1M, with 10 landing stations compared with six previously.\n\nKenanga said Salam would further strengthen TM's international network, which spans more than 400,000km across 39 submarine cable systems.\n\nThe MCMC has designated TM as the universal service provider for Salam, which will be funded through the USP Fund. Construction is scheduled to begin in December 2026, with completion targeted in stages by the first quarter of 2030.\n\nWhile the project is expected to contribute little to earnings during construction and its initial operational phase, Kenanga believes it could become a more meaningful earnings contributor beyond 2030 as demand for regional and international connectivity increases.\n\nThe research house estimated Salam's potential commercial value at RM523 million, equivalent to 13.6 sen per TM share, based on revenue from selling spare cable capacity.\n\nIts valuation assumes that 90% of the RM2.7 billion allocation will be used for construction, with revenue from commercialising available capacity gradually reaching RM150 million annually by 2034.\n\nKenanga identified the pace of data centre development in Sabah and Sarawak as a key factor determining the project's earnings potential. Every RM50 million change in steady-state annual revenue could translate into a six to seven sen change in its estimated value per TM share.\n\nHowever, the potential value has not been incorporated into Kenanga's current valuation pending greater clarity on the project's commercial terms.\n\nThe research house maintained its 'outperform' call on TM with an unchanged target price of RM9.11.\n\nEdited ByPresenna Nambiar\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/826278"
-    },
-    {
-      "id": "2026-11-18-45411b",
-      "title": "Govt targets minimum 30% local content for new data centres, says deputy minister",
-      "summary": "The government has set a minimum 30% local content target for new data centre projects approved under the Data Centre Task Force (DCTF), aiming to increase the participation of local companies in the development of the industry.",
-      "why_it_matters": "",
-      "score": 75,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "data center",
-        "policy",
-        "local content",
-        "regulation"
-      ],
-      "published_at": "2026-11-18T05:18:41Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/826274",
-          "type": "html-list"
-        }
-      ],
-      "title_zh": "副部长称政府为新数据中心设定最低30%本地含量目标",
-      "content": "KUALA LUMPUR (Nov 18): The government has set a minimum 30% local content target for new data centre projects approved under the Data Centre Task Force (DCTF), aiming to increase the participation of local companies in the development of the industry.\n\nDeputy Digital Minister Datuk Wilson Ugak Kumbong said the requirement covers engineering, maintenance, and network services, as well as technology provision.\n\nHe said the Malaysian Investment Development Authority monitors compliance with the relevant conditions through implementation reports submitted by companies every six months.\n\n“At the same time, data centre operators are encouraged to implement local supplier development programmes to strengthen the capabilities of the domestic industry and promote technology transfer,” he said during the oral question-and-answer session in the Dewan Rakyat on Wednesday.\n\nHe was replying to a supplementary question from Datuk Seri Dr Wee Jeck Seng (Barisan Nasional-Tanjung Piai) about efforts to ensure that data centre growth also generates spillover benefits, such as talent development and business opportunities, for adjacent areas, including Pontian and Tanjung Piai.\n\nMeanwhile, in response to Wee’s original question about the actual economic value generated versus the value of investments announced, Wilson Ugak said the data centre industry is capital-intensive and requires substantial initial investment.\n\nHe said a large portion of the equipment is imported, while capital expenditure is realised in stages throughout the project development period.\n\nThus, he said the announced investment value cannot be directly equated with actual total expenditure, job creation, or the value added to the local economy over a given period.\n\nAs of October 2026, 117 data centre projects have been approved in Malaysia, while approved investments for the data centre and cloud computing segment in the first half of this year totalled RM95.8 billion, he said.\n\nWilson Ugak said that under the DCTF, co-chaired by the Ministry of Digital and the Ministry of Investment, Trade and Industry, 27 projects with an estimated investment value of RM225.97 billion had been approved as of October this year.\n\n“In terms of employment, based on the outlook up to the second quarter of 2026, projects under the DCTF are expected to generate 4,053 job opportunities, including 3,523 high-skilled positions in the fields of electrical and mechanical engineering, networking and cybersecurity, as well as data centre operations and maintenance,” he said.\n\nHe said that although the number of direct jobs is lower than in sectors such as manufacturing, the data centre industry offers more specialised and highly skilled roles, while also creating indirect employment in the construction, engineering, and support services sectors.\n\nHe cited a Bank Negara Malaysia report for the third quarter of 2025, which indicates that entry-level positions in the industry offer salaries ranging from approximately RM3,000 to RM7,000 per month, while senior-level positions range from RM10,000 to RM30,000 per month.\n\n“This salary level is higher than the monthly median salary for Malaysians, which stands at RM2,793 in 2024,” he said.\n\nAs for tax revenue, Wilson Ugak said direct contributions from corporate income tax are expected to increase gradually following the expiration of investment incentives currently enjoyed by some data centre projects.\n\nHowever, he said the development and operation of data centres also contribute to government revenue through sales and service taxes, local authority assessment taxes, and revenue related to the consumption and supply of utilities.\n\nHe said the government has focused on human capital development through strategic collaborations with data centre operators, industry players, and training institutions to expand opportunities for industrial training, knowledge transfer, and professional certification.\n\n*For more Parliament stories, click here.*\n\n*Uploaded by Tham Yek Lee*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/826274"
-    },
-    {
-      "id": "2026-11-18-4a1bd9",
-      "title": "US AI chip curbs a speed bump, not a derailment, for Malaysia's data centre boom — CGS International",
-      "summary": "CGS International, a regional brokerage and research firm, characterized new US AI chip export controls as a temporary impediment rather than a fundamental obstacle to data center capital expenditure across ASEAN. The firm anticipates project delays and demand recalibration but projects that underlying digital transformation and AI adoption trends will sustain long-term infrastructure investment.",
-      "why_it_matters": "CGS's framing influences institutional capital allocation decisions for ASEAN data center exposure, potentially preventing a broader flight from regional development finance. The 'speed bump' thesis hinges on the assumption that Chinese demand can be seamlessly substituted by Western and regional hyperscalers—a transition that may prove uneven across markets with varying power grid readiness, land availability, and permitting efficiency.",
-      "score": 85,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "data center",
-        "chips",
-        "investment",
-        "forecast"
-      ],
-      "published_at": "2026-11-18T05:02:46Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/826272",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "CGS International"
-      ],
-      "title_zh": "CGS International：美国AI芯片限制是马来西亚数据中心繁荣的减速带，而非脱轨",
-      "summary_zh": "区域性券商和研究公司CGS International将新的美国AI chip export controls定性为对东盟data center capital expenditure的临时障碍而非根本性阻碍。该公司预计会出现project delays和需求重新调整，但认为underlying digital transformation和AI adoption趋势将维持长期infrastructure investment。",
-      "why_zh": "CGS的框架影响了对东盟data center敞口的机构资本配置决策，可能阻止更广泛的资金逃离区域开发融资。'speed bump'论点取决于中国需求可被西方和区域hyperscalers无缝替代的假设——这一过渡在电网准备程度、土地可用性和许可效率各异的市场中可能证明是不均衡的。",
-      "content": "KUALA LUMPUR (Nov 18): CGS International sees new US artificial intelligence (AI) chip controls as a speed bump, not a structural derailment, for data centre (DC) spending in Asean, albeit with potential delays.\n\nMalaysia and Thailand face greater exposure risks, but US hyperscaler relationships and contracted demand should cushion near-term earnings, it said.\n\nThe research house said Malaysia faces the greatest sentiment risk in the region, although AI DCs represent less than 10% of the installed capacity of about 1.3GW to which its covered companies are exposed.\n\n“Malaysia’s energy, water and undersea cable capacities remain the key draws for DC investments,” CGS International said in a note on Wednesday, adding that these are likely to support demand growth over the next three to five years.\n\nOf the 8.4GW of DC electricity supply agreements signed with Tenaga Nasional Bhd (KL:TENAGA) as at June 2026, about 30% is linked to US-headquartered companies, while the bulk of the remainder is contracted by Singapore- and Malaysia-headquartered entities.\n\nHowever, the firm cautioned that disclosures on the ultimate end-users are less clear, and it does not discount some indirect exposure to Chinese demand.\n\nThe trigger is the US Bureau of Industry and Security’s new export controls, effective Nov 19, 2026, which introduce destination-based licensing for advanced chips and servers supplied to Malaysia, Singapore, Thailand and Indonesia.\n\nThe new US rules create two licensing requirements. The first is a destination-based licence for exports, re-exports or in-country transfers of advanced chips and servers to Singapore, Malaysia, Thailand and Indonesia (from which US-headquartered companies and subsidiaries of US-headquartered parents are exempt, subject to reporting obligations).\n\nThe second requirement is a global end-use licence for chips and servers used to provide computing capacity above 12 million aggregate total processing performance (TPP) to designated entities.\n\nExisting data centres providing such services have 90 days to obtain the necessary authorisation.\n\nThey also add global end-use controls on computing access exceeding 12 million aggregate TPP for designated entities, including Chinese companies.\n\nCGS International said the conditional exclusion for qualifying US-parented companies should favour US hyperscalers, while China-facing AI projects and independent graphics processing unit (GPU)-cloud operators face higher execution risks.\n\nIt expects the near-term impact on Asean to be felt mainly through slower AI-related capex and foreign direct investment into 2027, “as investors await licensing clarity”, with limited downside to Asean gross domestic product growth.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/826272"
-    },
-    {
-      "id": "2026-11-18-42ce0b",
-      "title": "US AI chip curbs could bring more data centre jobs to Malaysian contractors — Maybank IB",
-      "summary": "New US restrictions on advanced artificial intelligence (AI) chips could benefit Malaysian construction companies by creating more opportunities for them to secure data centre contracts, according to Maybank Investment Bank Research.",
-      "why_it_matters": "",
-      "score": 75,
-      "heat": 1,
-      "regions": [
-        "southeast-asia"
-      ],
-      "topics": [
-        "chips",
-        "regulation",
-        "construction",
-        "ai"
-      ],
-      "published_at": "2026-11-18T02:40:30Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/826245",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "Maybank Investment Bank"
-      ],
-      "title_zh": "美国AI芯片限制可能为马来西亚承包商带来更多数据中心工作机会——Maybank IB",
-      "content": "KUALA LUMPUR (Nov 18): New US restrictions on advanced artificial intelligence (AI) chips could benefit Malaysian construction companies by creating more opportunities for them to secure data centre contracts, according to Maybank Investment Bank Research.\n\nThe research house said the restrictions pose limited risks to local contractors, as their major US-headquartered data centre clients are exempt from new import licensing requirements.\n\nIn a note, Maybank IB said US-headquartered clients account for 100% of the outstanding data centre order books of Sunway Construction Group Bhd (KL:SUNCON) and IJM Corp Bhd (KL:IJM) and 95% of Gamuda Bhd's (KL:GAMUDA).\n\nAs such, it sees little risk of existing data centre construction contracts being cancelled.\n\nThe US announced new restrictions on Nov 16 aimed at preventing entities in China and other designated countries from remotely accessing advanced American AI chips through data centres in countries including Malaysia, Singapore, Thailand, Indonesia and Brazil.\n\nThe measures also introduce licensing requirements for imports of certain advanced AI chips, although companies headquartered in the US or whose ultimate parent companies are based there are exempt.\n\nMaybank IB said the restrictions could also give American-owned data centre operators greater room to expand in Malaysia if Chinese-owned operators face difficulties pursuing new projects.\n\nIt noted that American and Chinese operators compete for land, electricity and water while Chinese-owned operators rarely award data centre construction contracts to Malaysian contractors.\n\n\"If the new restrictions are successful in preventing Chinese-owned data centre operators from expanding in Malaysia, American owned ones will have more scope to expand,\" it said.\n\nThis could also allow Malaysian contractors serving American-owned data centre operators, including Gamuda, IJM and Sunway Construction, to secure more contracts, the research house added.\n\nAs for Binastra Corp Bhd (KL:BNASTRA), Maybank IB said its main data centre client, Malaysia-headquartered EXSIM, intends to comply with the new licensing requirements by shifting towards US-headquartered tenants.\n\nAgainst this backdrop, Maybank IB maintained its positive outlook on the Malaysian construction sector, with Sunway Construction remaining its top pick and a target price of RM9.62.\n\nIt also upgraded IJM to 'buy' from 'hold', while maintaining its target price of RM2.83.\n\nThe research house retained its 'buy' calls on Gamuda and Binastra, with unchanged target prices of RM5.47 and RM3.40 respectively.\n\nLooking ahead, Maybank IB said investors should watch for potential catalysts in upcoming quarterly results, including stronger earnings from Gamuda as construction projects progress, further data centre contract wins for Binastra and developments involving IJM’s proposed construction business listing.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/826245"
-    },
-    {
       "id": "2026-11-18-add415",
       "title": "Samsung chip testing supplier Micronics Japan poised to ramp up capacity",
       "summary": "TOKYO -- Micronics Japan, a chip-testing tool maker, is considering ramping up its production expansion to meet a surge in demand from Samsung Electronics and other big-name semiconductor…",
@@ -467,6 +208,101 @@
       "content_url": "https://datacenternews.asia/story/climate-risk-reshapes-asia-pacific-data-centre-plans"
     },
     {
+      "id": "2026-11-18-dbbf18",
+      "title": "Can Malaysia build its own AI industry beyond data centres?",
+      "summary": "Summary Putrajaya is banking on private investments to support MD2030 while it focuses on digital infrastructure Tax incentives, affordable access to computing power and skills tr...",
+      "why_it_matters": "",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "ai",
+        "data center",
+        "investment",
+        "policy"
+      ],
+      "published_at": "2026-11-18T07:00:00Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/825326",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "马来西亚能否在数据中心之外建立自己的AI产业？",
+      "content": "This article first appeared in The Edge Malaysia Weekly on November 9, 2026 - November 15, 2026\n\nMALAYSIA’s ambition to become an artificial intelligence (AI) nation by 2030 will see the government focus its resources on building the digital infrastructure while counting on private investment to drive the country’s transition from a consumer of technology to a creator of its own.\n\nDigital Minister Gobind Singh Deo says Malaysia Digital 2030 (MD2030) — the latest phase of the digital transformation agenda — will not have a standalone budget. Instead, it will leverage existing government allocations, public-private partnerships and foreign and domestic private investment.\n\n“We believe the strongest engine for achieving the scale and ambition of MD2030 will be private investment — both foreign direct investment (FDI) and domestic direct investment (DDI) — and public-private partnerships,” he tells The Edge in an email interview.\n\nPublic spending will focus on shared infrastructure, connectivity and digital platforms that lower costs for businesses developing new technologies.\n\n“We want public investment to crowd in — not crowd out — private capital,” Gobind emphasises.\n\nIncorporating the AI Action Plan 2026–2030, MD2030 seeks to raise the digital economy’s contribution to gross domestic product (GDP) to 30% by 2030, create 500,000 high-value digital jobs and spur the development of more Malaysian-made digital products, services and intellectual property (IP).\n\nAccording to the Department of Statistics Malaysia (DOSM), information and communications technology (ICT) and e-commerce contributed RM476.8 billion or 23.5% of GDP in 2025, up from RM451.5 billion or 23.4% a year earlier.\n\nHowever, translating that growth into domestic technological capabilities remains a challenge, particularly as Malaysia aims to move beyond hosting data centres and cloud infrastructure for global tech giants.\n\nWhile foreign capital has expanded the country’s digital infrastructure, questions remain over how much it actually builds local AI capability.\n\nGobind notes that the government evaluates investments based on the economic value they generate, including tech transfer, opportunities for local suppliers and local IP development. “We are interested not simply in the size of an investment but in its economic value-add. Does it create high-value jobs? Develop Malaysian talent? Transfer technology and knowledge? Deepen local supply chains? Generate intellectual property? And strengthen the ability of Malaysian companies to compete globally?”\n\nHe stresses that the government does not regard FDI and DDI as competing sources of capital, saying both are needed to develop the domestic technology industry. Initiatives such as the Government-Linked Enterprises Activation and Reform Programme (GEAR-uP) are examples of how Malaysian capital can be mobilised towards strategic and high-value sectors, he says.\n\nHowever, SNS Network Technology Bhd (KL:SNS) co-founder and managing director Ko Yun Hung observes that Malaysian businesses remain largely at the adoption stage while foreign companies account for much of the investment in AI infrastructure.\n\n“At this time, most of it is still foreign. Local companies are more in the adoption phase; investing in AI infrastructure is not common yet,” he tells The Edge.\n\nKo believes domestic investment is more likely to grow as businesses become more comfortable with AI and identify commercial use cases. For instance, a company that initially subscribes to AI services to automate administrative work or analyse sales data may eventually find it worthwhile to invest in its own computing infrastructure as usage increases.\n\nTo accelerate this transition, Ko suggests policy incentives such as accelerated capital allowances for technology purchases and double tax deductions for AI-related workforce training. It may be more effective to introduce incentives and programmes to motivate adoption and usage than providing direct grants to every business, he says.\n\nFor most Malaysian businesses, the immediate hurdle is not developing sophisticated AI products but figuring out how to integrate the technology to streamline and improve their existing operations.\n\nKo notes that companies of various sizes are generally receptive to AI, though many remain uncertain about where to begin due to fragmented or poorly organised internal data.\n\nWhile generative AI tools such as ChatGPT have made the technology more accessible, businesses are increasingly exploring customised applications that can perform specific tasks, such as agentic AI. Such systems can be configured to carry out more complex tasks with varying degrees of autonomy, such as managing a company’s human resources department’s leave applications and flag potential staffing shortages before managers make their decisions.\n\nYet, few local companies have progressed towards developing their own AI applications, much less products that can be sold commercially, Ko says. “Maybe not yet. In terms of moving from ChatGPT to something more like agentic AI, we are seeing that, but still not to the extent of developing their own applications.”\n\nCost is a key barrier, particularly for smaller companies that are unable to justify purchasing expensive graphics processing units (GPUs) before knowing whether their AI projects will deliver the intended results.\n\nTo address this, SNS launched its AI Factory last year, offering GPU-as-a-Servic (GPUaaS) to businesses seeking computing capacity for developing, testing or deploying AI applications without having to purchase the hardware themselves. Starting with 64 GPUs, the facility allows businesses to test and deploy applications without heavy capital expenditure.\n\nExpanding access to such capabilities is central to MD2030’s ambition of developing more Malaysian “AI Builders” — individuals and businesses capable of creating applications, AI agents and commercially viable products and services, according to Gobind.\n\n“We want more Malaysians who do not simply know how to use AI tools but who can build with AI — people who can develop applications, AI agents, products and services, solve real problems using AI and ultimately turn those capabilities into new businesses and solutions.”\n\nThe government plans to encourage industry-led training, intensive boot camps, apprenticeships and other non-traditional learning pathways, alongside university and technical education.\n\nGobind also acknowledges that retaining these talents requires creating sufficiently attractive opportunities in Malaysia, particularly for engineers, researchers and entrepreneurs who might otherwise pursue careers overseas.\n\nFor small and medium enterprises (SMEs), the emphasis is expected to shift from basic digitalisation, such as e-commerce and digital payments, towards using AI to improve productivity and eventually develop their own solutions.\n\nKo believes Malaysian SMEs can make that transition by 2030, but warns that the relatively short timeframe will require businesses and policymakers to move quickly. “I am confident that SMEs will be able to become builders. My only worry is the time. When you talk about the AI world, the competition and progress are at a very fast pace.”\n\nBeyond investment and talent, Malaysia must consider how much control it needs over the technologies underpinning its AI economy, particularly when much of the global ecosystem depends on foreign-developed chips, cloud platforms and software.\n\nGobind says Malaysia should remain open to international technologies and partnerships while developing domestic capabilities in areas where it can compete. “The government should not prescribe where Malaysian companies must compete. The market will ultimately determine where Malaysia can build a competitive advantage.\n\n“At the same time, there may be strategic areas where considerations of national interest, resilience and technological sovereignty require the government to provide greater direction or support.”\n\nFarlina Said, director of the Cyber and Technology Policy programme at the Institute of Strategic and International Studies (ISIS) Malaysia, points out that technological sovereignty does not necessarily require countries to develop every component of their technology infrastructure domestically.\n\n“Where one would view end-to-end indigenous production as true sovereignty, others may have to consider diversification and clear responsibilities,” she tells The Edge.\n\nMalaysia nevertheless needs its own computing capabilities, she argues, as such infrastructure is critical to national security, economic development and the ability to respond to emerging technological risks, even if it remains difficult to determine how much domestic computing capacity Malaysia will need while the AI landscape is evolving.\n\nIn the meantime, the country should diversify its infrastructure, build locally relevant AI models and strengthen technical expertise to reduce vulnerabilities arising from dependence on foreign technologies.\n\nShe also calls attention to regulatory gaps involving the ownership and safety of AI training data, accountability when government agencies deploy AI and the responsibilities associated with autonomous AI systems.\n\nMalaysia’s existing laws address areas such as personal data protection, cybersecurity and online safety, but Farlina says regulation alone will not be sufficient without the technical expertise to scrutinise increasingly sophisticated AI systems. “Much needed is to build the capability that pierces the black box, whether it is through internal technical knowledge or information sharing.”\n\nWith less than four years to 2030, execution across ministries will determine MD2030’s outcome.\n\n“Malaysia has developed strong policies and blueprints over the years. The challenge has often been translating those ambitions into coordinated execution across government and the wider ecosystem,” Gobind admits.\n\nMyDIGITAL Corporation will oversee programme management and monitor implementation while reporting directly to the National Digital Economy and Fourth Industrial Revolution Council, chaired by the prime minister.\n\n“Ultimately, accountability must mean more than reporting whether a programme is on schedule. We need to know whether it is delivering the intended outcome — and, if it is not, what needs to change,” the minister says.\n\nFarlina advises evaluating headline targets, including the digital economy’s 30% contribution to GDP and the creation of 500,000 high-value digital jobs, alongside broader socioeconomic outcomes, noting that employment targets may be harder to assess as AI itself disrupts existing jobs.\n\n“I think Malaysia needs to see that the AI Nation serves national interests and we must find ways to illustrate whether it is on track or deviating from socioeconomic goals,” she says.\n\nKo agrees that investment metrics alone are insufficient to determine whether Malaysia has successfully developed a domestic AI industry. “I think the measurement should not just be about how much foreign or domestic investment we attract. A stronger measure is how much our SMEs are being enabled,” he says. “Because of the uniqueness of each business, they may develop something using AI tools for their own operations and later realise that what they have developed can also be offered as a service and sold to others.”\n\nSave by subscribing to us for your print and/or digital copy.\n\n**P/S: The Edge is also available on\n      Apple's App Store and \n      Android's Google Play.**\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/825326"
+    },
+    {
+      "id": "2026-11-18-a1056d",
+      "title": "BNM sees strong data centre investment momentum until 2030 despite US chip restrictions",
+      "summary": "Malaysia's central bank, Bank Negara Malaysia, maintains that data center investment flows into the country will remain robust through 2030 despite the uncertainty introduced by fresh US restrictions on chip exports to Chinese-affiliated operators. The assessment suggests Malaysian policymakers view the nation's neutral positioning and diverse investor base as insulating factors against geopolitical-driven project cancellations.",
+      "why_it_matters": "BNM's confidence reflects a calculated bet that Malaysia's multi-source investment pipeline—encompassing Middle Eastern, American, and domestic capital—can absorb any contraction in Chinese-backed developments. However, the central bank's timeline extends beyond the current policy cycle, exposing its forecast to potential escalation in US extraterritorial enforcement that could capture non-Chinese entities with indirect Chinese customer relationships.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "data center",
+        "investment",
+        "chips",
+        "forecast"
+      ],
+      "published_at": "2026-11-18T06:42:23Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/826286",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Bank Negara Malaysia"
+      ],
+      "title_zh": "尽管美国芯片限制，马来西亚央行预计数据中心投资势头将保持强劲至2030年",
+      "summary_zh": "马来西亚中央银行Bank Negara Malaysia（BNM）认为，尽管美国对Chinese-affiliated operators的chip exports新限制带来不确定性，进入该国的data center investment flows将保持强劲直至2030年。这一评估表明，马来西亚政策制定者认为该国的neutral positioning和diverse investor base是对抗地缘政治驱动项目取消的缓冲因素。",
+      "why_zh": "BNM的信心反映了一种精心计算的赌注，即马来西亚的多来源投资管道——涵盖中东、美国和国内资本——可以吸收中国支持开发的任何收缩。然而，该央行的时间表超出了当前政策周期，使其预测面临美国extraterritorial enforcement潜在升级的风险，这可能捕获与中国客户有间接关系的非中国实体。",
+      "content": "KUALA LUMPUR (Nov 18): Bank Negara Malaysia (BNM) expects Malaysia’s data centre investment momentum to remain strong until at least 2030, even as fresh US chip export restrictions raise uncertainties over the sector’s growth prospects.\n\nBNM governor Datuk Seri Abdul Rasheed Ghaffour said it was too early to assess the impact of the US restrictions but pointed to Malaysia’s diversified base of data centre investors and sustained global demand for artificial intelligence (AI).\n\nOf the 120 data centre companies in Malaysia, only 17 are Chinese companies while the rest are from countries including the US, Australia and Canada, as well as Malaysia, according to the governor.\n\n“Based on our estimates of the ongoing and planned projects, the data centre investment momentum is expected to remain strong at least until 2030,” Abdul Rasheed said at a press conference announcing Malaysia’s third-quarter gross domestic product (GDP) figures on Wednesday.\n\n“While there may be some reaction to these developments, we believe that the underlying demand is still strong,” he said.\n\nAbdul Rasheed also pointed to the longer-term economic benefits of data centre investments beyond the construction phase, including the growth of information and communications technology (ICT) services exports and the creation of domestic economic linkages.\n\nThe US earlier this week announced new export controls requiring licences for shipments of certain advanced semiconductors to Malaysia, Singapore, Thailand, Indonesia and Brazil, in an effort to prevent the diversion of sensitive American technology to China.\n\nThe new rules, scheduled to take effect on Nov 19, also tighten restrictions on overseas data centre operators providing significant computing capacity to companies headquartered in China and other jurisdictions of concern.\n\n“This is an example of the geoeconomic risks that we are facing, not just us, but everyone else globally as well. As far as Malaysia is concerned, as Miti (Ministry of Investment, Trade and Industry) has also said, we will continue to uphold rules-based trade, we are open for business, and our strategy is to serve everyone,” Abdul Rasheed said.\n\n*Read also: Malaysia’s economy expands faster than first estimates in 3Q*\n\nMediAsas pilot focused on operational readiness, not enrolment numbers, says BNM\n\nNew US export controls on Malaysia, Singapore for advanced chips to take effect Nov 19\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/826286"
+    },
+    {
+      "id": "2026-11-18-3e9bb4",
+      "title": "ACE Market-bound SCA Solutions sees no impact from new US AI chip restrictions",
+      "summary": "SCA Solutions Bhd said on Wednesday (Nov 18) that its operations remain on track and have no exposure to the latest US restrictions on advanced artificial intelligence (AI) chips.",
+      "why_it_matters": "",
+      "score": 60,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "chips",
+        "regulation",
+        "data center",
+        "ipo"
+      ],
+      "published_at": "2026-11-18T06:22:56Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/826282",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "SCA Solutions"
+      ],
+      "title_zh": "拟赴ACE上市的SCA Solutions称不受美国新AI芯片限制影响",
+      "content": "KUALA LUMPUR (Nov 18): SCA Solutions Bhd said on Wednesday (Nov 18) that its operations remain on track and have no exposure to the latest US restrictions on advanced artificial intelligence (AI) chips.\n\nSpecialising in heating, ventilation and air conditioning (HVAC) as well as fire safety systems, the company derives 30% of its revenue from serving data centre clients.\n\n“One thing I want to highlight is that the data centres we serve are mainly US-headquartered clients,” managing director Tan Cheng Eng told reporters at the prospectus launch.\n\n“So we are not worried, because they \\[data centre client\\] have already approved the jobs and the works are already progressing,” Tan noted.\n\nAs of Oct, the company had an unbilled order book totalling RM46.7 million that will continue to provide revenue up to 2027.\n\nTan was responding to questions regarding the new US restrictions announced on Nov 16, which aim to prevent entities in China and other designated countries from remotely accessing advanced American AI chips through data centres in countries including Malaysia, Singapore, Thailand, Indonesia and Brazil.\n\nThe measures also introduce licensing requirements for imports of certain advanced AI chips, although companies headquartered in the US or whose ultimate parent companies are based there are exempt.\n\nTan further noted that the company's client base is not focused mainly on data centres but well diversified across various sectors, including residential, hospitals, educational institutions and semiconductor plants.\n\nAsked about overseas expansion plans, SCA Solutions is looking to grow in Singapore and Indonesia, especially in serving the solutions for the water treatment segment, leveraging its existing client base and long-term relationships in both markets.\n\nThe water treatment segment contributes about 9% of the business while both regional markets contribute less than 1% of its most recent years’ revenue. However, Tan did not disclose specific growth targets.\n\nFor the financial year ended June 30, 2026, the group posted a net profit of RM7.95 million on revenue of RM51.33 million.\n\nAt the same time, SCA Solutions held cash and short-term deposits of RM15.95 million against RM7.56 million in bank borrowings.\n\nSCA Solutions’ initial public offering (IPO) will raise RM47.85 million, of which RM31.92 million is for the company. The remaining RM15.93 million will accrue to the selling shareholders — Tan and executive director Liong Chian Leek.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/826282"
+    },
+    {
       "id": "2026-11-18-89f419",
       "title": "China AI stocks, hyperscalers hit by signs of tougher US tech curbs",
       "summary": "The country’s stock benchmark falls near 16-month lows as ex-Nvidia CEO Jensen Huang’s fall from grace signals heightened Sino-US tensions",
@@ -500,6 +336,41 @@
       "content_url": "https://www.businesstimes.com.sg/international/china-ai-stocks-hyperscalers-hit-signs-tougher-us-tech-curbs"
     },
     {
+      "id": "2026-11-18-4e304d",
+      "title": "TM's RM2.7 bil undersea cable project to tap Sarawak's AI data centre growth — Kenanga",
+      "summary": "Kenanga Research projects that Telekom Malaysia's RM2.7 billion undersea cable initiative will generate incremental earnings beyond 2030 by capturing connectivity demand from AI data center investments concentrated in Sarawak, the Malaysian state on Borneo island experiencing rapid digital infrastructure development. The cable system addresses a geographic bottleneck that has limited Sarawak's interconnection with major Asian and global internet exchange points.",
+      "why_it_matters": "TM's cable investment transforms Sarawak from a peripheral market into a core node of ASEAN's AI infrastructure topology, potentially redirecting data center investment flows from Peninsular Malaysia and Singapore. The project's 2030-plus earnings horizon requires sustained commitment from TM's shareholders and policymakers amid competing capital demands, with any delay risking stranded capacity as rival submarine cable systems reach the region.",
+      "score": 80,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "data center",
+        "connectivity",
+        "investment",
+        "ai"
+      ],
+      "published_at": "2026-11-18T05:54:43Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/826278",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Telekom Malaysia",
+        "Kenanga Research"
+      ],
+      "title_zh": "Kenanga：TM 27亿令吉海底电缆项目将把握砂拉越AI数据中心增长机遇",
+      "summary_zh": "Kenanga Research预计，Telekom Malaysia（TM）的27亿令吉undersea cable项目将通过满足集中在Sarawak的AI data center investments带来的connectivity demand，在2030年后产生incremental earnings。该cable system解决了限制Sarawak与主要亚洲和全球internet exchange points互联的地理瓶颈。",
+      "why_zh": "TM的cable投资将Sarawak从边缘市场转变为东盟AI infrastructure拓扑的核心节点，可能将data center投资流从马来半岛和新加坡转移。该项目的2030年后earnings horizon需要在竞争资本需求中TM股东和政策制定者的持续承诺，任何延迟都可能因rival submarine cable systems到达该地区而面临stranded capacity风险。",
+      "content": "KUALA LUMPUR (Nov 18): Telekom Malaysia Bhd (KL:TM) could unlock additional earnings opportunities beyond 2030 from its RM2.7 billion undersea cable project, as growing artificial intelligence (AI) data centre investments in Sarawak drive demand for high-capacity connectivity, according to Kenanga Research.\n\nThe project, known as Sambungan Kabel Dasar Laut Madani (Salam), involves a 5,500km submarine cable connecting Peninsular Malaysia, Sarawak and Sabah. It will provide additional capacity as TM's existing undersea cable, Sistem Kabel Rakyat 1Malaysia (SKR1M), is already operating at about 85% capacity.\n\nKenanga in a note on Wednesday said AI data centres require substantial bandwidth, low-latency connectivity and reliable network infrastructure to support data transmission across Malaysia and international markets.\n\nSalam's landing stations in Kuching and Bintulu (Samalaju) are strategically located near Sarawak's emerging data centre hubs, positioning TM to capture demand from upcoming developments.\n\nBeyond providing bandwidth, TM could also act as an interconnection partner, linking data centres to internet exchange points, submarine cable systems and global connectivity networks. This would create opportunities to offer additional services such as indefeasible right of use (IRU), hot standby bandwidth allocation and managed wavelength services.\n\nThe project will run alongside SKR1M, which connects Peninsular Malaysia and Sabah and Sarawak. TM secured the SKR1M project, which is funded through the Universal Service Provision (USP) Fund, in December 2014 through a public-private partnership with the Malaysian Communications and Multimedia Commission (MCMC), with the cable commencing commercial operations in 2017.\n\nFor SKR1M, TM partnered TIME dotCom Bhd (KL:TIMECOM) under a 20-year construction and maintenance agreement, with an estimated ownership split of 83.6% and 16.4%, respectively. The arrangement was based on cost reimbursement without a profit-sharing mechanism.\n\nBy comparison, Salam is about 1.4 times longer and 3.8 times more expensive than SKR1M, with 10 landing stations compared with six previously.\n\nKenanga said Salam would further strengthen TM's international network, which spans more than 400,000km across 39 submarine cable systems.\n\nThe MCMC has designated TM as the universal service provider for Salam, which will be funded through the USP Fund. Construction is scheduled to begin in December 2026, with completion targeted in stages by the first quarter of 2030.\n\nWhile the project is expected to contribute little to earnings during construction and its initial operational phase, Kenanga believes it could become a more meaningful earnings contributor beyond 2030 as demand for regional and international connectivity increases.\n\nThe research house estimated Salam's potential commercial value at RM523 million, equivalent to 13.6 sen per TM share, based on revenue from selling spare cable capacity.\n\nIts valuation assumes that 90% of the RM2.7 billion allocation will be used for construction, with revenue from commercialising available capacity gradually reaching RM150 million annually by 2034.\n\nKenanga identified the pace of data centre development in Sabah and Sarawak as a key factor determining the project's earnings potential. Every RM50 million change in steady-state annual revenue could translate into a six to seven sen change in its estimated value per TM share.\n\nHowever, the potential value has not been incorporated into Kenanga's current valuation pending greater clarity on the project's commercial terms.\n\nThe research house maintained its 'outperform' call on TM with an unchanged target price of RM9.11.\n\nEdited ByPresenna Nambiar\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/826278"
+    },
+    {
       "id": "2026-11-18-38df0e",
       "title": "Asean Power Grid deal raises stakes for regional AI boom",
       "summary": "The ASEAN Power Grid agreement, enabling cross-border electricity trading among Southeast Asian nations, has gained renewed relevance as data center developers confront power constraints that threaten to limit regional AI infrastructure expansion. The framework's effectiveness remains uncertain given the decade-long implementation timelines for transmission infrastructure and competing national energy security priorities.",
@@ -529,6 +400,69 @@
       "why_zh": "Data center运营商和hyperscalers现在必须将东盟电网整合纳入site selection和power contracting策略，在已建立interconnection capacity的国家，早期进入者优势将累积。电网的成功或失败将决定东南亚能否可持续地托管预计的10+ GW AI data center capacity，或者power bottlenecks是否会迫使容量集中在少数拥有 surplus generation的国家级市场。",
       "content": "South-east Asia has a plan to share clean power. Can its data centres wait?\n\n\\[MANILA\\] South-east Asia’s bid to become a hub for artificial intelligence is colliding with an awkward reality: Its power grids still run largely on coal and imported gas.\n\nThat tension took centre stage in Manila earlier this week, when all 11 Asean member states signed an enhanced memorandum of understanding (MOU) to build an integrated regional electricity network called the Asean Power Grid (APG).\n\nThe pact, which entered into force after the signing on Sunday (Nov 15), could determine whether the region’s booming data centre sector accelerates the green transition or locks in decades of fossil-fuel demand.\n\nDesigned to anchor cross-border interconnections, multilateral power trade and financing for overland lines and subsea cables, the agreement lands just as the COP31 conference in Turkey presses governments around the world to speed up clean electrification.\n\nFor South-east Asia, the immediate test is turning an influx of electricity-hungry digital infrastructure into fresh investments in renewable generation, storage and transmission.\n\nNowhere is that friction sharper than in the Philippines, which has just concluded its Asean chairmanship for 2026.\n\nManila is aggressively courting data centre operators as a pillar of its digital economy, yet its fragmented Luzon, Visayas and Mindanao grids remain plagued by transmission bottlenecks and recurring supply alerts.\n\nMore than nine in 10 Philippine business leaders say the country is overly reliant on fossil-fuel imports, the highest share among 18 economies surveyed by the Global Renewables Alliance (GRA), E3G and the We Mean Business Coalition.\n\n## A regional answer to national bottlenecks\n\nBy pooling complementary energy resources across borders, the APG seeks to strengthen supply security and smooth the adoption of intermittent renewables.\n\nFor the Philippines, deeper regional links could eventually provide a vital buffer when domestic generation is tight.\n\n“The enhanced MOU brings our commitment to partnership, innovation and resilience into practical focus,” said the country’s Secretary of Energy Sharon Garin, who stressed the value of attracting private and multilateral capital.\n\nThe pact complements the APG Financing Initiative, which brings together the regional bloc, the Asian Development Bank and the World Bank Group to mobilise funding for grid projects.\n\nUnder a high-renewables scenario, Asean estimates that it will require US$764 billion in generation and transmission investment through to 2045.\n\nGlobal tech demand is adding urgency to that timeline. Electricity consumption by data centres rose 17 per cent worldwide in 2025, while demand from AI-focused facilities surged 50 per cent, according to the International Energy Agency.\n\nData centres accounted for roughly 40 per cent of corporate renewable power-purchase agreements (PPAs) signed globally last year.\n\nIn South-east Asia, however, procuring clean power is often easier on paper than in practice.\n\nWhile the Philippines boasts retail competition, an open access regime, a green energy option programme and a liberalised wholesale market, developers and corporate buyers still contend with permitting delays, wheeling charges and congested transmission lines.\n\nGRA’s Asia-Pacific regional lead Rexor Amancio said that grid investment must catch up with generation capacity so that transmission corridors are built in renewable-rich zones before connection queues stall new projects.\n\n“Navigating the Philippines’ power market does not have to mean getting trapped in grid bottlenecks, but it does require closing the gap between commercial ambition and system infrastructure,” he added.\n\n## Data centres as anchor customers\n\nClean-energy advocates argue that hyperscalers – the tech giants behind the world’s largest cloud and AI networks – should act as anchor customers for new solar, wind and geothermal projects, rather than simply buying up existing green supply.\n\nLong-term corporate offtake deals can shore up the bankability of clean-energy and battery storage assets. Pairing generation with on-site batteries allows developers to serve immediate industrial demand, while flexible dispatch eases the strain on bottlenecked networks.\n\nHyperscalers have a direct commercial stake in funding grid upgrades upfront, not only to secure green electricity, but also to shield server farms from extreme weather, said Robert Cooke, GRA’s grids and electrification advocacy lead.\n\n“Policymakers can mobilise data centres as a force for renewables,” he added.\n\nRegulators are also under pressure to close accounting loopholes that let companies claim a “100 per cent renewable” status on paper by purchasing cheap annual green certificates, even while their servers hum through the night on coal-fired power.\n\nUnder frameworks such as the International Renewable Energy Agency’s COP31 green data centre programme, corporate buyers are being pressed to prove their electricity is newly built, locally sourced and matched hour-for-hour with consumption.\n\nAmancio warned that if data centres “plug into a thermal-heavy grid and merely buy standard annual certificates or consume existing clean energy, they risk displacing green power from other users and driving up fossil gas at the margins, ultimately increasing power prices for everyone”.\n\nWithout faster grid connections, developers are already turning to dirtier workarounds.\n\nBloombergNEF has reported that data centre builders frustrated by multi-year connection queues are increasingly installing dedicated onsite gas turbines – a stopgap that can be even more carbon-intensive than drawing power from a conventional grid.\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
       "content_url": "https://www.businesstimes.com.sg/international/asean/asean-power-grid-deal-raises-stakes-regional-ai-boom"
+    },
+    {
+      "id": "2026-11-18-45411b",
+      "title": "Govt targets minimum 30% local content for new data centres, says deputy minister",
+      "summary": "The government has set a minimum 30% local content target for new data centre projects approved under the Data Centre Task Force (DCTF), aiming to increase the participation of local companies in the development of the industry.",
+      "why_it_matters": "",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "data center",
+        "policy",
+        "local content",
+        "regulation"
+      ],
+      "published_at": "2026-11-18T05:18:41Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/826274",
+          "type": "html-list"
+        }
+      ],
+      "title_zh": "副部长称政府为新数据中心设定最低30%本地含量目标",
+      "content": "KUALA LUMPUR (Nov 18): The government has set a minimum 30% local content target for new data centre projects approved under the Data Centre Task Force (DCTF), aiming to increase the participation of local companies in the development of the industry.\n\nDeputy Digital Minister Datuk Wilson Ugak Kumbong said the requirement covers engineering, maintenance, and network services, as well as technology provision.\n\nHe said the Malaysian Investment Development Authority monitors compliance with the relevant conditions through implementation reports submitted by companies every six months.\n\n“At the same time, data centre operators are encouraged to implement local supplier development programmes to strengthen the capabilities of the domestic industry and promote technology transfer,” he said during the oral question-and-answer session in the Dewan Rakyat on Wednesday.\n\nHe was replying to a supplementary question from Datuk Seri Dr Wee Jeck Seng (Barisan Nasional-Tanjung Piai) about efforts to ensure that data centre growth also generates spillover benefits, such as talent development and business opportunities, for adjacent areas, including Pontian and Tanjung Piai.\n\nMeanwhile, in response to Wee’s original question about the actual economic value generated versus the value of investments announced, Wilson Ugak said the data centre industry is capital-intensive and requires substantial initial investment.\n\nHe said a large portion of the equipment is imported, while capital expenditure is realised in stages throughout the project development period.\n\nThus, he said the announced investment value cannot be directly equated with actual total expenditure, job creation, or the value added to the local economy over a given period.\n\nAs of October 2026, 117 data centre projects have been approved in Malaysia, while approved investments for the data centre and cloud computing segment in the first half of this year totalled RM95.8 billion, he said.\n\nWilson Ugak said that under the DCTF, co-chaired by the Ministry of Digital and the Ministry of Investment, Trade and Industry, 27 projects with an estimated investment value of RM225.97 billion had been approved as of October this year.\n\n“In terms of employment, based on the outlook up to the second quarter of 2026, projects under the DCTF are expected to generate 4,053 job opportunities, including 3,523 high-skilled positions in the fields of electrical and mechanical engineering, networking and cybersecurity, as well as data centre operations and maintenance,” he said.\n\nHe said that although the number of direct jobs is lower than in sectors such as manufacturing, the data centre industry offers more specialised and highly skilled roles, while also creating indirect employment in the construction, engineering, and support services sectors.\n\nHe cited a Bank Negara Malaysia report for the third quarter of 2025, which indicates that entry-level positions in the industry offer salaries ranging from approximately RM3,000 to RM7,000 per month, while senior-level positions range from RM10,000 to RM30,000 per month.\n\n“This salary level is higher than the monthly median salary for Malaysians, which stands at RM2,793 in 2024,” he said.\n\nAs for tax revenue, Wilson Ugak said direct contributions from corporate income tax are expected to increase gradually following the expiration of investment incentives currently enjoyed by some data centre projects.\n\nHowever, he said the development and operation of data centres also contribute to government revenue through sales and service taxes, local authority assessment taxes, and revenue related to the consumption and supply of utilities.\n\nHe said the government has focused on human capital development through strategic collaborations with data centre operators, industry players, and training institutions to expand opportunities for industrial training, knowledge transfer, and professional certification.\n\n*For more Parliament stories, click here.*\n\n*Uploaded by Tham Yek Lee*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/826274"
+    },
+    {
+      "id": "2026-11-18-4a1bd9",
+      "title": "US AI chip curbs a speed bump, not a derailment, for Malaysia's data centre boom — CGS International",
+      "summary": "CGS International, a regional brokerage and research firm, characterized new US AI chip export controls as a temporary impediment rather than a fundamental obstacle to data center capital expenditure across ASEAN. The firm anticipates project delays and demand recalibration but projects that underlying digital transformation and AI adoption trends will sustain long-term infrastructure investment.",
+      "why_it_matters": "CGS's framing influences institutional capital allocation decisions for ASEAN data center exposure, potentially preventing a broader flight from regional development finance. The 'speed bump' thesis hinges on the assumption that Chinese demand can be seamlessly substituted by Western and regional hyperscalers—a transition that may prove uneven across markets with varying power grid readiness, land availability, and permitting efficiency.",
+      "score": 85,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "data center",
+        "chips",
+        "investment",
+        "forecast"
+      ],
+      "published_at": "2026-11-18T05:02:46Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/826272",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "CGS International"
+      ],
+      "title_zh": "CGS International：美国AI芯片限制是马来西亚数据中心繁荣的减速带，而非脱轨",
+      "summary_zh": "区域性券商和研究公司CGS International将新的美国AI chip export controls定性为对东盟data center capital expenditure的临时障碍而非根本性阻碍。该公司预计会出现project delays和需求重新调整，但认为underlying digital transformation和AI adoption趋势将维持长期infrastructure investment。",
+      "why_zh": "CGS的框架影响了对东盟data center敞口的机构资本配置决策，可能阻止更广泛的资金逃离区域开发融资。'speed bump'论点取决于中国需求可被西方和区域hyperscalers无缝替代的假设——这一过渡在电网准备程度、土地可用性和许可效率各异的市场中可能证明是不均衡的。",
+      "content": "KUALA LUMPUR (Nov 18): CGS International sees new US artificial intelligence (AI) chip controls as a speed bump, not a structural derailment, for data centre (DC) spending in Asean, albeit with potential delays.\n\nMalaysia and Thailand face greater exposure risks, but US hyperscaler relationships and contracted demand should cushion near-term earnings, it said.\n\nThe research house said Malaysia faces the greatest sentiment risk in the region, although AI DCs represent less than 10% of the installed capacity of about 1.3GW to which its covered companies are exposed.\n\n“Malaysia’s energy, water and undersea cable capacities remain the key draws for DC investments,” CGS International said in a note on Wednesday, adding that these are likely to support demand growth over the next three to five years.\n\nOf the 8.4GW of DC electricity supply agreements signed with Tenaga Nasional Bhd (KL:TENAGA) as at June 2026, about 30% is linked to US-headquartered companies, while the bulk of the remainder is contracted by Singapore- and Malaysia-headquartered entities.\n\nHowever, the firm cautioned that disclosures on the ultimate end-users are less clear, and it does not discount some indirect exposure to Chinese demand.\n\nThe trigger is the US Bureau of Industry and Security’s new export controls, effective Nov 19, 2026, which introduce destination-based licensing for advanced chips and servers supplied to Malaysia, Singapore, Thailand and Indonesia.\n\nThe new US rules create two licensing requirements. The first is a destination-based licence for exports, re-exports or in-country transfers of advanced chips and servers to Singapore, Malaysia, Thailand and Indonesia (from which US-headquartered companies and subsidiaries of US-headquartered parents are exempt, subject to reporting obligations).\n\nThe second requirement is a global end-use licence for chips and servers used to provide computing capacity above 12 million aggregate total processing performance (TPP) to designated entities.\n\nExisting data centres providing such services have 90 days to obtain the necessary authorisation.\n\nThey also add global end-use controls on computing access exceeding 12 million aggregate TPP for designated entities, including Chinese companies.\n\nCGS International said the conditional exclusion for qualifying US-parented companies should favour US hyperscalers, while China-facing AI projects and independent graphics processing unit (GPU)-cloud operators face higher execution risks.\n\nIt expects the near-term impact on Asean to be felt mainly through slower AI-related capex and foreign direct investment into 2027, “as investors await licensing clarity”, with limited downside to Asean gross domestic product growth.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/826272"
     },
     {
       "id": "2026-11-18-737a97",
@@ -711,6 +645,38 @@
       "content_url": "https://w.media/mhi-and-sakura-internet-to-form-strategic-alliance-to-build-japans-sovereign-ai-infrastructure/"
     },
     {
+      "id": "2026-11-18-42ce0b",
+      "title": "US AI chip curbs could bring more data centre jobs to Malaysian contractors — Maybank IB",
+      "summary": "New US restrictions on advanced artificial intelligence (AI) chips could benefit Malaysian construction companies by creating more opportunities for them to secure data centre contracts, according to Maybank Investment Bank Research.",
+      "why_it_matters": "",
+      "score": 75,
+      "heat": 1,
+      "regions": [
+        "southeast-asia"
+      ],
+      "topics": [
+        "chips",
+        "regulation",
+        "construction",
+        "ai"
+      ],
+      "published_at": "2026-11-18T02:40:30Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/826245",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "Maybank Investment Bank"
+      ],
+      "title_zh": "美国AI芯片限制可能为马来西亚承包商带来更多数据中心工作机会——Maybank IB",
+      "content": "KUALA LUMPUR (Nov 18): New US restrictions on advanced artificial intelligence (AI) chips could benefit Malaysian construction companies by creating more opportunities for them to secure data centre contracts, according to Maybank Investment Bank Research.\n\nThe research house said the restrictions pose limited risks to local contractors, as their major US-headquartered data centre clients are exempt from new import licensing requirements.\n\nIn a note, Maybank IB said US-headquartered clients account for 100% of the outstanding data centre order books of Sunway Construction Group Bhd (KL:SUNCON) and IJM Corp Bhd (KL:IJM) and 95% of Gamuda Bhd's (KL:GAMUDA).\n\nAs such, it sees little risk of existing data centre construction contracts being cancelled.\n\nThe US announced new restrictions on Nov 16 aimed at preventing entities in China and other designated countries from remotely accessing advanced American AI chips through data centres in countries including Malaysia, Singapore, Thailand, Indonesia and Brazil.\n\nThe measures also introduce licensing requirements for imports of certain advanced AI chips, although companies headquartered in the US or whose ultimate parent companies are based there are exempt.\n\nMaybank IB said the restrictions could also give American-owned data centre operators greater room to expand in Malaysia if Chinese-owned operators face difficulties pursuing new projects.\n\nIt noted that American and Chinese operators compete for land, electricity and water while Chinese-owned operators rarely award data centre construction contracts to Malaysian contractors.\n\n\"If the new restrictions are successful in preventing Chinese-owned data centre operators from expanding in Malaysia, American owned ones will have more scope to expand,\" it said.\n\nThis could also allow Malaysian contractors serving American-owned data centre operators, including Gamuda, IJM and Sunway Construction, to secure more contracts, the research house added.\n\nAs for Binastra Corp Bhd (KL:BNASTRA), Maybank IB said its main data centre client, Malaysia-headquartered EXSIM, intends to comply with the new licensing requirements by shifting towards US-headquartered tenants.\n\nAgainst this backdrop, Maybank IB maintained its positive outlook on the Malaysian construction sector, with Sunway Construction remaining its top pick and a target price of RM9.62.\n\nIt also upgraded IJM to 'buy' from 'hold', while maintaining its target price of RM2.83.\n\nThe research house retained its 'buy' calls on Gamuda and Binastra, with unchanged target prices of RM5.47 and RM3.40 respectively.\n\nLooking ahead, Maybank IB said investors should watch for potential catalysts in upcoming quarterly results, including stronger earnings from Gamuda as construction projects progress, further data centre contract wins for Binastra and developments involving IJM’s proposed construction business listing.\n\nEdited ByIsabelle Francis\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/826245"
+    },
+    {
       "id": "2026-11-18-81a8e9",
       "title": "Blackstone joint venture buys AWS data center campuses for $5 billion",
       "summary": "Blackstone's Digital Infrastructure Trust purchased a 75 percent stake in two joint ventures holding AWS data center campuses for roughly $5 billion, with AWS committing to a 12-year leaseback arrangement. This sale-leaseback structure represents Amazon's first such deal for its cloud infrastructure assets, providing Blackstone with long-term contracted revenue while freeing AWS capital for other investments.",
@@ -843,6 +809,40 @@
       "content_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/azure-cobalt-200-vms-now-generally-available/135945590"
     },
     {
+      "id": "2026-11-18-0c71cf",
+      "title": "After Huang, Nvidia puts Firmus and its neocloud network on notice",
+      "summary": "Interim Nvidia chief executive Colette Kress is at pains to say it’s all business as usual at the global chip-making giant.",
+      "why_it_matters": "",
+      "score": 55,
+      "heat": 1,
+      "regions": [
+        "australia",
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "investigation",
+        "regulation",
+        "cloud"
+      ],
+      "published_at": "2026-11-18T00:11:21Z",
+      "featured": false,
+      "sources": [
+        {
+          "name": "AFR — Data Centres topic",
+          "url": "https://www.afr.com/chanticleer/after-huang-nvidia-puts-firmus-and-its-neocloud-network-on-notice-20261118-p61f3k",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA",
+        "Firmus"
+      ],
+      "title_zh": "Huang事件后，NVIDIA向Firmus及其neocloud网络发出警告",
+      "content": "Interim Nvidia chief executive Colette Kress is at pains to say it’s all business as usual at the global chip-making giant.\n\nOn Wednesday, as she delivered third-quarter results and an outlook that well and truly beat expectations, she attempted to rule a line under the most dramatic week in the company’s history after the exit of founder Jensen Huang.\n\nLoading...",
+      "content_url": "https://www.afr.com/chanticleer/after-huang-nvidia-puts-firmus-and-its-neocloud-network-on-notice-20261118-p61f3k"
+    },
+    {
       "id": "2026-11-18-e48e2c",
       "title": "Jensen Huang says 'honoured' to return as CEO if asked; Nvidia chairman says no plans to do so",
       "summary": "Huang said he received an “outpouring” of support from employees, investors, business partners and customers for his return",
@@ -873,6 +873,38 @@
       "title_zh": "黄仁勋称如受邀将\"荣幸\"回归CEO职位；Nvidia董事长表示无此计划",
       "content": "Huang said he received an “outpouring” of support from employees, investors, business partners and customers for his return\n\nNVIDIA on Tuesday (Nov 17) rejected Jensen Huang’s offer to return as CEO, putting to rest for now any possible reinstatement of the celebrated artificial intelligence billionaire and industry evangelist, despite pressure from Silicon Valley and US President Donald Trump’s support.\n\nThe embattled company’s board of directors “unanimously accepted his resignation and does not intend to reinstate Jensen as CEO,” Nvidia chairman Harvey Jones said at the start of Nvidia’s quarterly earnings call before yielding to chief financial officer Colette Kress, who is running the company as a permanent replacement is sought.\n\nThe rejection caps a whirlwind few days triggered by Huang’s admission to extramarital affairs, including one with a Chinese businesswoman and suspected spy for the country, his stunning ouster and a surprising split in the Trump administration over the fate of the disgraced business leader.\n\nTreasury Secretary Scott Bessent called for a wholesale cleaning at Nvidia on Sunday, only for Trump to come out in support of Huang’s return the next day despite investigations into whether Nvidia had allowed AI chips banned from China to slip through the cracks because of the alleged spy at the center of the controversy.\n\nEarlier on Tuesday, Huang said in a social media post that if the board decided that his return was in the best interest of shareholders, employees, the company and the country, he would be “honoured to answer these calls.” He acknowledged making “serious mistakes” in his personal life.\n\nSanta Clara, California-based Nvidia did not respond to an earlier Associated Press request for comment on Huang’s statement.\n\n## Company reports blowout financial results\n\nThe turmoil notwithstanding, Nvidia blew past Wall Street expectations for the third quarter, pulling in US$116 billion in revenue, double the level from a year ago. The company also posted net income of US$2.70 per share, beating estimates of US$2.48 per share.\n\nNvidia stock shot up 5.2 per cent in after-hours trading.\n\nReferring to Huang’s replacement, Jones said, “We want to install the permanent CEO as quickly as possible, but we won’t expedite the CEO before finding exactly the right person.”\n\nSome tech industry figures, including SpaceX and Tesla CEO Elon Musk, called for the reinstatement of Huang, a high-profile booster for the AI industry who oversaw Nvidia’s development as the key provider of chips driving advanced AI models.\n\nHuang said he received an “outpouring” of support from employees, investors, business partners and customers for his return.\n\nA “Stand with Jensen” petition set up last week gathered momentum, gaining signatures from current and former Nvidia staff, investors and other Silicon Valley supporters.\n\nIn comments on Monday, Trump suggested that the ex-CEO could return, saying Huang “learned a big lesson” and that he “would certainly not mind” if he was reinstated.\n\nThe Chinese businesswoman whom Huang was seeing and who reportedly had links to Chinese intelligence was an executive at Singapore-based cloud computing firm Megaspeed International, a company being investigated by the US for allegedly violating U.S. export controls by illegally diverting advanced Nvidia AI chips to Chinese companies.\n\n## Huang faces questioning by Congress\n\nAlso on Tuesday, key House lawmakers said that Huang has voluntarily agreed to appear for transcribed interviews as the company faces intensifying national scrutiny over sales of its advanced computer chips.\n\nHuang will appear before congressional committees on Dec 1, followed by the company’s general counsel, Tim Teter, on Dec 2.\n\n“The American people need answers on Mr Huang and Nvidia’s role in allowing dangerous PRC actors to access our most advanced chips,” said a statement from the chairmen of three House committees with oversight of China and intelligence issues, referring to the People’s Republic of China.\n\nIn the statement detailing its August-to-October results, Nvidia said revenue in a key business segment – data centres – more than doubled to US$107.6 billion. It also projected that revenue for the current quarter running through January would hit US$130 billion, more than Wall Street had expected.\n\nNvidia’s advanced chips are in high demand because they’re essential for cloud computing and data centers that underpin the AI boom, but they face restrictions on their sale to China.\n\nMeanwhile, Nvidia said it’s creating a new board committee to oversee national security and global trade compliance following the revelations about Huang. Trump said it was “good” that Nvidia had created the new committee.\n\n“Yes, that’s a good idea. It’s a great company,” Trump said shortly after arriving Tuesday evening in the Philippine capital of Manila, where he participated in a photo opportunity with the leaders of Australia, India and Japan. “It’s a great idea.”\n\nNvidia later that day signalled it was already moving ahead without Huang.\n\n“Our momentum is real. Our demand is accelerating,” interim CEO Kress said at the end of the quarterly conference call with investors. “We’ve got this.” AP\n\nDecoding Asia newsletter: your guide to navigating Asia in a new global order. Sign up here to get Decoding Asia newsletter. Delivered to your inbox. Free.\n\nShare with us your feedback on BT's products and services",
       "content_url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/jensen-huang-says-honoured-return-ceo-if-asked-nvidia-chairman-says-no-plans-do-so"
+    },
+    {
+      "id": "2026-11-18-a71e46",
+      "title": "Nvidia turmoil marks the end of easy money for AI trade",
+      "summary": "Tumult at Nvidia spells the end of easy money for the AI sector and a funding squeeze for smaller, highly leveraged \"neocloud\" companies that have helped fuel the industry's rapid expansion.",
+      "why_it_matters": "",
+      "score": 70,
+      "heat": 1,
+      "regions": [
+        "global"
+      ],
+      "topics": [
+        "chips",
+        "ai",
+        "investment",
+        "hyperscale"
+      ],
+      "published_at": "2026-11-17T23:39:16Z",
+      "featured": true,
+      "sources": [
+        {
+          "name": "The Edge Malaysia — data centre search",
+          "url": "https://theedgemalaysia.com/node/826233",
+          "type": "html-list"
+        }
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "title_zh": "NVIDIA动荡标志着AI交易轻松赚钱时代的终结",
+      "content": "NEW YORK (Nov 17): Tumult at Nvidia spells the end of easy money for the AI sector and a funding squeeze for smaller, highly leveraged \"neocloud\" companies that have helped fuel the industry's rapid expansion.\n\nIn recent years, Nvidia's financial support has boosted infrastructure providers and other partners of the giant chip firm. Bond investors say the uncertainty over who might eventually succeed ousted chief executive officer Jensen Huang has raised questions about Nvidia's willingness to continue support through vendor financing, guarantees and other methods, hitting these firms' shares and bonds.\n\n\"It's fair to say that anyone who takes over is going to have a lower risk threshold than Jensen when it comes to Nvidia's balance sheet,\" said Loren Moran, a fixed income portfolio manager at Wellington Management. \"There may just be a lot less credit availability toward weaker players.\"\n\nChief among the firms cast in an uncertain new light are the so-called neocloud firms such as CoreWeave and Nebius, cloud computing companies that acquire graphics processing units (GPUs) or electronic chips, renting out computing capacity to AI developers, start-ups, and large technology companies.\n\nLast week, credit investors resumed their retreat from bonds exposed to Nvidia-related risk. Bonds in CoreWeave issued in June at a yield of 9.625% plunged in value, sending their yield to nearly 15%. The company's shares have lost 45% since the Nasdaq hit its latest record on Oct 6, even after the company said on its earnings conference call last week that it would be able to continue to finance its operations by doing things such as borrowing against its chips.\n\nNvidia is a shareholder and buyer of last resort for CoreWeave's unsold cloud capacity through April 2032 under a US$6.3 billion (RM25.8 billion) order.\n\nConvertible bonds of Nebius, issued at a 4.5% yield in August, dropped to 70 US cents to the dollar last Friday, sending yields surging to more than 12%. Nebius rents out the computing power that AI firms need to train and run their models. Nvidia said in March it would invest US$2 billion in Nebius, representing an 8.3% stake in the company. Nebius stock is down 57% since Oct 6.\n\nMany of these neocloud companies operate with smaller balance sheets while relying heavily on external financing to fund the enormous costs associated with acquiring GPUs and building data centres.\n\n\"Nvidia's contracts and existing guarantees should not change with Jensen Huang's departure,\" said Tony Trzcinka, an investment-grade portfolio manager at Impax Asset Management. \"It's all about whether Jensen's successor would want to be as adventurous in going into all these different arrangements.\"\n\nFor Nvidia itself, some investors argued that a more conservative approach to balance sheet risk could be credit-positive. Wellington's Moran said she was concerned about the company's huge financial commitments across the AI space and believes a reduced appetite for risk could \"clip some of that tail\".\n\nBut a more cautious Nvidia could have different implications for the broader AI financing environment. It could, for instance, widen the disparity between investment-grade borrowers and lower-rated companies dependent on private credit, leveraged loans and high-yield debt markets. Companies relying on financing tied directly or indirectly to Nvidia may find future capital either harder to obtain or significantly more expensive, analysts said.\n\nHyperscalers such as Alphabet and Microsoft appear best positioned to weather such a shift, investors say, given their strong balance sheets that can finance data centre construction on their own.\n\n\"Most of their AI spending comes from internal cash flow and debt markets,\" said Danny Zaid, a portfolio manager at TwentyFour Asset Management, and that is \"unlikely going to change in the near term with the strong AI momentum expected to continue\".\n\nAt the other end of the spectrum, investors have already been demanding greater compensation to finance data centre projects from lower-rated AI borrowers. \"In a construction phase \\[of a project\\] where there is a high-yield name, you're going to have a materially higher cost of funding,\" said Trzcinka of Impax.\n\nIn Goldman Sachs' \"Top of Mind\" research note, Miriam Wheeler, the bank's global head of leveraged finance, said the pace of AI deals in the high-yield market has significantly slowed in recent weeks amid investor concerns over mounting supply and political uncertainty.\n\nWheeler said the market had expected roughly US$60 billion of issuance this fall, which had pressured spreads. But supply has dried up since late September, \"with no new deals over the past month\".\n\nThe slowdown suggests the easy financing conditions that have fueled AI-linked issuance are beginning to fade, analysts said.\n\n\"The uncertainty for the overall space means greater risk premiums expected by investors,\" said Zaid of TwentyFour Asset Management. \"Expect dispersion to increase as investors evaluate credits on a case-by-case basis.\"\n\n*Uploaded by Siow Chen Ming*\n\nPrint\n\nText Size\n\nShare",
+      "content_url": "https://theedgemalaysia.com/node/826233"
     },
     {
       "id": "2026-11-18-425c64",
@@ -945,7 +977,7 @@
       "summary": "Nvidia reported quarterly earnings that doubled year-over-year and raised its forward revenue guidance, underscoring sustained demand for its AI accelerators despite mounting trade restrictions. The company also clarified governance matters by stating it does not plan to reinstate founder Jensen Huang as CEO, a formulation suggesting board-level succession planning discussions may have surfaced amid his prolonged tenure.",
       "why_it_matters": "The earnings trajectory confirms that US chip controls have not yet dented Nvidia's core revenue engine, though the China sales halt creates a medium-term growth gap the company must fill through non-China markets and new product cycles. The unusual CEO clarification hints at investor pressure around leadership transition risk at a critical inflection point for the $3 trillion chipmaker.",
       "score": 85,
-      "heat": 5,
+      "heat": 7,
       "regions": [
         "global"
       ],
@@ -981,6 +1013,16 @@
         {
           "name": "ET Datacenters",
           "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/nvidia-q3-revenue-doubles-on-ai-data-centre-demand/135951379",
+          "type": "rss"
+        },
+        {
+          "name": "The Business Times",
+          "url": "https://www.businesstimes.com.sg/international/sp-500-nasdaq-open-higher-nvidia-forecast-eases-ai-jitters",
+          "type": "rss"
+        },
+        {
+          "name": "iTnews",
+          "url": "https://www.itnews.com.au/news/huang-open-to-nvidia-return-630418?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
           "type": "rss"
         }
       ],
@@ -1215,38 +1257,6 @@
       "published_precision": "day",
       "content": "The company last week announced the opening of its second Digital Realty Innovation Lab (DRIL) in Asia Pacific, located at its four-story, 90,500 sq ft (8,400 sqm) SIN11 facility at Digital Loyang 1 (3 Loyang Way) in Loyang.\n\nThe lab aims to provide enterprises with a real-world colocation environment inside a live data center to test, validate, and optimize integrated, multi-vendor AI infrastructure solutions before deploying at scale.\n\nThe lab offers the ability to test liquid-cooled racks supporting cabinet densities of 150kW and above.\n\n\"Enterprises deploying AI want to understand how different components and technologies can perform together before committing to infrastructure at scale,\" said Chris Sharp, Digital Realty CTO. \"The DRIL will provide a production-grade testing environment where customers can work with leading technology partners and our engineering teams to validate AI, high-performance computing and hybrid cloud architectures under real-world conditions. By testing performance, fit, and readiness before deployment, enterprises globally and across Asia Pacific will be able to scale with confidence and achieve more impactful outcomes with AI.\"\n\nThe company currently has liquid cooling labs at its facilities in London, Virginia, Tokyo, and São Paulo.\n\nFurther DRIL locations, including in Johannesburg, are planned for late 2026.",
       "content_url": "https://www.datacenterdynamics.com/en/news/digital-realty-launches-liquid-cooling-lab-in-singapore/"
-    },
-    {
-      "id": "2026-11-18-a71e46",
-      "title": "Nvidia turmoil marks the end of easy money for AI trade",
-      "summary": "Tumult at Nvidia spells the end of easy money for the AI sector and a funding squeeze for smaller, highly leveraged \"neocloud\" companies that have helped fuel the industry's rapid expansion.",
-      "why_it_matters": "",
-      "score": 70,
-      "heat": 1,
-      "regions": [
-        "global"
-      ],
-      "topics": [
-        "chips",
-        "ai",
-        "investment",
-        "hyperscale"
-      ],
-      "published_at": "2026-11-17T23:39:16Z",
-      "featured": true,
-      "sources": [
-        {
-          "name": "The Edge Malaysia — data centre search",
-          "url": "https://theedgemalaysia.com/node/826233",
-          "type": "html-list"
-        }
-      ],
-      "companies": [
-        "NVIDIA"
-      ],
-      "title_zh": "NVIDIA动荡标志着AI交易轻松赚钱时代的终结",
-      "content": "NEW YORK (Nov 17): Tumult at Nvidia spells the end of easy money for the AI sector and a funding squeeze for smaller, highly leveraged \"neocloud\" companies that have helped fuel the industry's rapid expansion.\n\nIn recent years, Nvidia's financial support has boosted infrastructure providers and other partners of the giant chip firm. Bond investors say the uncertainty over who might eventually succeed ousted chief executive officer Jensen Huang has raised questions about Nvidia's willingness to continue support through vendor financing, guarantees and other methods, hitting these firms' shares and bonds.\n\n\"It's fair to say that anyone who takes over is going to have a lower risk threshold than Jensen when it comes to Nvidia's balance sheet,\" said Loren Moran, a fixed income portfolio manager at Wellington Management. \"There may just be a lot less credit availability toward weaker players.\"\n\nChief among the firms cast in an uncertain new light are the so-called neocloud firms such as CoreWeave and Nebius, cloud computing companies that acquire graphics processing units (GPUs) or electronic chips, renting out computing capacity to AI developers, start-ups, and large technology companies.\n\nLast week, credit investors resumed their retreat from bonds exposed to Nvidia-related risk. Bonds in CoreWeave issued in June at a yield of 9.625% plunged in value, sending their yield to nearly 15%. The company's shares have lost 45% since the Nasdaq hit its latest record on Oct 6, even after the company said on its earnings conference call last week that it would be able to continue to finance its operations by doing things such as borrowing against its chips.\n\nNvidia is a shareholder and buyer of last resort for CoreWeave's unsold cloud capacity through April 2032 under a US$6.3 billion (RM25.8 billion) order.\n\nConvertible bonds of Nebius, issued at a 4.5% yield in August, dropped to 70 US cents to the dollar last Friday, sending yields surging to more than 12%. Nebius rents out the computing power that AI firms need to train and run their models. Nvidia said in March it would invest US$2 billion in Nebius, representing an 8.3% stake in the company. Nebius stock is down 57% since Oct 6.\n\nMany of these neocloud companies operate with smaller balance sheets while relying heavily on external financing to fund the enormous costs associated with acquiring GPUs and building data centres.\n\n\"Nvidia's contracts and existing guarantees should not change with Jensen Huang's departure,\" said Tony Trzcinka, an investment-grade portfolio manager at Impax Asset Management. \"It's all about whether Jensen's successor would want to be as adventurous in going into all these different arrangements.\"\n\nFor Nvidia itself, some investors argued that a more conservative approach to balance sheet risk could be credit-positive. Wellington's Moran said she was concerned about the company's huge financial commitments across the AI space and believes a reduced appetite for risk could \"clip some of that tail\".\n\nBut a more cautious Nvidia could have different implications for the broader AI financing environment. It could, for instance, widen the disparity between investment-grade borrowers and lower-rated companies dependent on private credit, leveraged loans and high-yield debt markets. Companies relying on financing tied directly or indirectly to Nvidia may find future capital either harder to obtain or significantly more expensive, analysts said.\n\nHyperscalers such as Alphabet and Microsoft appear best positioned to weather such a shift, investors say, given their strong balance sheets that can finance data centre construction on their own.\n\n\"Most of their AI spending comes from internal cash flow and debt markets,\" said Danny Zaid, a portfolio manager at TwentyFour Asset Management, and that is \"unlikely going to change in the near term with the strong AI momentum expected to continue\".\n\nAt the other end of the spectrum, investors have already been demanding greater compensation to finance data centre projects from lower-rated AI borrowers. \"In a construction phase \\[of a project\\] where there is a high-yield name, you're going to have a materially higher cost of funding,\" said Trzcinka of Impax.\n\nIn Goldman Sachs' \"Top of Mind\" research note, Miriam Wheeler, the bank's global head of leveraged finance, said the pace of AI deals in the high-yield market has significantly slowed in recent weeks amid investor concerns over mounting supply and political uncertainty.\n\nWheeler said the market had expected roughly US$60 billion of issuance this fall, which had pressured spreads. But supply has dried up since late September, \"with no new deals over the past month\".\n\nThe slowdown suggests the easy financing conditions that have fueled AI-linked issuance are beginning to fade, analysts said.\n\n\"The uncertainty for the overall space means greater risk premiums expected by investors,\" said Zaid of TwentyFour Asset Management. \"Expect dispersion to increase as investors evaluate credits on a case-by-case basis.\"\n\n*Uploaded by Siow Chen Ming*\n\nPrint\n\nText Size\n\nShare",
-      "content_url": "https://theedgemalaysia.com/node/826233"
     },
     {
       "id": "2026-11-18-56e6fe",
