@@ -102162,7 +102162,7 @@
       "country": "Malaysia",
       "city": "Port Dickson",
       "capacity_mw": null,
-      "status": "announced",
+      "status": "under_construction",
       "developer": null,
       "investor": null,
       "investment": "RM3.57 billion construction contracts",
@@ -102186,13 +102186,19 @@
           "status": "announced",
           "date": "2026-08-28",
           "story_id": "2026-08-28-50e73f"
+        },
+        {
+          "status": "under_construction",
+          "date": "2026-11-20",
+          "story_id": "2026-11-20-194221"
         }
       ],
       "story_ids": [
-        "2026-08-28-50e73f"
+        "2026-08-28-50e73f",
+        "2026-11-20-194221"
       ],
       "first_seen": "2026-08-28",
-      "last_updated": "2026-08-28",
+      "last_updated": "2026-11-20",
       "seed": false
     },
     {
@@ -105100,7 +105106,171 @@
       "first_seen": "2026-11-19",
       "last_updated": "2026-11-19",
       "seed": false
+    },
+    {
+      "id": "alibaba-cloud-johor-public-cloud-region",
+      "name": "Alibaba Cloud Johor Public Cloud Region",
+      "operator": "Alibaba Cloud",
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "city": "Johor",
+      "capacity_mw": null,
+      "status": "operational",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "operational",
+          "date": "2026-11-20",
+          "story_id": "2026-11-20-fa8be9"
+        }
+      ],
+      "story_ids": [
+        "2026-11-20-fa8be9"
+      ],
+      "first_seen": "2026-11-20",
+      "last_updated": "2026-11-20",
+      "seed": false
+    },
+    {
+      "id": "princeton-digital-group-sydney-sydney-data-centers",
+      "name": "Sydney Data Centers",
+      "operator": "Princeton Digital Group",
+      "region": "australia",
+      "country": "Australia",
+      "city": "Sydney",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": "Stockland",
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-11-20",
+          "story_id": "2026-11-20-edbaee"
+        }
+      ],
+      "story_ids": [
+        "2026-11-20-edbaee"
+      ],
+      "first_seen": "2026-11-20",
+      "last_updated": "2026-11-20",
+      "seed": false
+    },
+    {
+      "id": "huawei-ascend-data-center",
+      "name": "Huawei Ascend Data Center",
+      "operator": "Huawei Cloud",
+      "region": "china",
+      "country": "China",
+      "city": "",
+      "capacity_mw": null,
+      "status": "operational",
+      "developer": null,
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "operational",
+          "date": "2026-11-20",
+          "story_id": "2026-11-20-a258b9"
+        }
+      ],
+      "story_ids": [
+        "2026-11-20-a258b9"
+      ],
+      "first_seen": "2026-11-20",
+      "last_updated": "2026-11-20",
+      "seed": false
+    },
+    {
+      "id": "sakura-internet-sovereign-ai-infrastructure-japan",
+      "name": "Sovereign AI Infrastructure Japan",
+      "operator": "Sakura Internet",
+      "region": "japan",
+      "country": "Japan",
+      "city": "",
+      "capacity_mw": null,
+      "status": "announced",
+      "developer": "Mitsubishi Heavy Industries",
+      "investor": null,
+      "investment": null,
+      "phases": null,
+      "anchor_tenants": [],
+      "power": null,
+      "announced": null,
+      "construction_start": null,
+      "rfs": null,
+      "lat": null,
+      "lon": null,
+      "category": null,
+      "company_type": null,
+      "description": null,
+      "year_built": null,
+      "stage_detail": null,
+      "expansion_planned": null,
+      "specs": null,
+      "status_history": [
+        {
+          "status": "announced",
+          "date": "2026-11-20",
+          "story_id": "2026-11-20-cb5f35"
+        }
+      ],
+      "story_ids": [
+        "2026-11-20-cb5f35"
+      ],
+      "first_seen": "2026-11-20",
+      "last_updated": "2026-11-20",
+      "seed": false
     }
   ],
-  "updated_at": "2026-11-19T09:05:35Z"
+  "updated_at": "2026-11-20T08:53:14Z"
 }
